@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana.
 
-208 songs - 12 hr 18 min
+209 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 | 2022-07-22 |  |
 | [Saca La Casa Pal Mambo](https://open.spotify.com/track/3L9s7NzT1CYOqmPzFk129W) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Saca La Casa Pal Mambo](https://open.spotify.com/album/7rtg30guVaiiMZIrODJVrG) | 2:42 | 2022-09-09 | 2022-11-19 |
 | [Se lo Juro Vieja](https://open.spotify.com/track/4ygglDwHeNrTMEy9vAbaq2) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Se lo Juro Vieja](https://open.spotify.com/album/4RRhVZL8QFOfJwvfuYZFRb) | 2:49 | 2021-12-24 | 2022-08-01 |
-| [Se Me Ha Perdido Un Corazón](https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:30 | 2021-12-24 |  |
+| [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:26 | 2023-03-10 |  |
+| [Se Me Ha Perdido Un Corazón](https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:30 | 2021-12-24 | 2023-03-13 |
 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 | 2021-12-24 |  |
 | [Sentir Amor](https://open.spotify.com/track/7aDaLVUrrL2hOcL0fBBvti) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Imagínate](https://open.spotify.com/album/4fkGAe8IBGYkOljk6oDHU3) | 3:24 | 2021-12-24 | 2022-07-23 |
 | [Serenata cruel](https://open.spotify.com/track/2gEhAH0eZwl3b8si4l3tZ1) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT) | 4:32 | 2022-07-22 | 2022-08-13 |

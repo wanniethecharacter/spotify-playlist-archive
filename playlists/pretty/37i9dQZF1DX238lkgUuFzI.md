@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > 2022 highlight from the misfits 2.0 universe\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,757 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,745 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 9 | [Sad Girl Summer](https://open.spotify.com/track/66xT802jNExU9nMii68YnZ) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 3:13 |
 | 10 | [break me!](https://open.spotify.com/track/2QcyULjo5eqJ0soQKHk3N4) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:33 |
 | 11 | [Lost](https://open.spotify.com/track/3xd4GVGAuzJGdVZLEKvWea) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:28 |
-| 12 | [Believe the Hype](https://open.spotify.com/track/0YunvVUK70XaDeeTrOUcCt) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Believe the Hype](https://open.spotify.com/album/4LrLxDQQA1MoxU9ZRyL95Q) | 2:47 |
+| 12 | [Believe the Hype](https://open.spotify.com/track/5LaT6csofzDEaFf8cmqoaQ) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Let's Hope Heteros Fail, Learn and Retire](https://open.spotify.com/album/5YjuPPmMZy5VGjlesAPbHG) | 2:47 |
 | 13 | [Fukstar](https://open.spotify.com/track/309M1lVXfZI27dDAeeJHtt) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:36 |
 | 14 | [No Mercy](https://open.spotify.com/track/2PEQw1pDw6irt5OwRDQUQv) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Entropy](https://open.spotify.com/album/02k59B671W2g0wbwqFxPL8) | 2:25 |
 | 15 | [Flesh](https://open.spotify.com/track/1Ae2QJGUPtnCzdA4XYn1NF) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [N / O / I / S / E](https://open.spotify.com/album/2W5rUof3EANdwzqAMtAWhF) | 1:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 49 | [god sent me as karma](https://open.spotify.com/track/7sUDunSJDK8HnFPJOCtPef) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [loneliest b!tch in america](https://open.spotify.com/album/1HdkKXXUh1AP7Koj2x14Af) | 3:06 |
 | 50 | [weekends](https://open.spotify.com/track/6rCgN00t4al5TAqo4pNGOk) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Quantum Jumping](https://open.spotify.com/album/1XAzH6OVdH1BlpBEnjMcPk) | 2:52 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGNmZDlkNTIzMmNhNWFhZjhhZGQ3ZTM1YjRiM2QzY2Qy`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDMzOWQ3MmE1MDM4NTI5OGRkYzJkNmYzZWRiYTY0NTBm`

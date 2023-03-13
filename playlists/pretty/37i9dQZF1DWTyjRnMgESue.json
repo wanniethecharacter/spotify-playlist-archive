@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Hozier",
-  "num_followers": 46624,
+  "num_followers": 46729,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMGI0Y2FlMDEwZDRjYTQwMjRjOWM1Y2M5NzY5M2UwODQ4",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDZlZmJmNGEyM2VmM2FlZGQ5YTcxNzBlNmIzNmQxYWQz",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "All Is Well Feat. Joy Williams",
         "url": "https://open.spotify.com/album/50zBQhK1LygYSQGYwm7T0J"
       },
@@ -839,6 +823,38 @@
       "duration_ms": 177720,
       "name": "All Is Well (feat. Joy Williams)",
       "url": "https://open.spotify.com/track/4WlxchxKQJ9y0Vlqaz8h66"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Songs for the Drunk and Broken Hearted",
+        "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -871,22 +887,6 @@
       "duration_ms": 209706,
       "name": "Everything I Know About Love",
       "url": "https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Songs for the Drunk and Broken Hearted",
-        "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "A Good Love, Pt. 2",
-        "url": "https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        },
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 213556,
-      "name": "A Good Love, Pt. 2",
-      "url": "https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "APART",
         "url": "https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ"
       },
@@ -1279,6 +1259,26 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "A Good Love, Pt. 2",
+        "url": "https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        },
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 213556,
+      "name": "A Good Love, Pt. 2",
+      "url": "https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "saw ur mom at the grocery store",
         "url": "https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 253968,
       "name": "saw ur mom at the grocery store",
       "url": "https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 220171,
+      "name": "Happier Without Me",
+      "url": "https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1311,22 +1327,6 @@
       "duration_ms": 188426,
       "name": "When You Need It (feat. Wrabel)",
       "url": "https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 220171,
-      "name": "Happier Without Me",
-      "url": "https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Sleepless in Seattle",
-        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "Sleepless in Seattle",
-      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Colour Your World",
         "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 193367,
       "name": "If Not My Heart",
       "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Sleepless in Seattle",
+        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Sleepless in Seattle",
+      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Matin\u00e9e",
-        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "So Are We",
-      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "I BELIEVE",
         "url": "https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 206999,
       "name": "I BELIEVE",
       "url": "https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Matin\u00e9e",
+        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "So Are We",
+      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "I Hope You Change Your Mind",
-        "url": "https://open.spotify.com/album/6cgwjBET2eGuuATztT790Q"
+        "name": "Becoming All Alone",
+        "url": "https://open.spotify.com/album/4tJzSc9zVi8PVjS50Yrq9n"
       },
       "artists": [
         {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
         }
       ],
-      "duration_ms": 172633,
-      "name": "I Hope You Change Your Mind",
-      "url": "https://open.spotify.com/track/0ZBLyBuUpOqMlLuRSgcnFh"
+      "duration_ms": 258079,
+      "name": "Becoming All Alone",
+      "url": "https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS"
     },
     {
       "added_at": "2023-03-03 05:00:00",

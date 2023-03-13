@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 872161,
+  "num_followers": 872696,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGU2NDNlMTIxZDRjZmQ0ODYwZWEwNTliYjA5ODM2MWRk",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDQ1NTllZWYzYTA3NzZlZjc4MWEyOTMxMTRhZjcyMThh",
   "tracks": [
     {
       "added_at": "2023-02-16 15:18:53",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "AVAILABLE FOR ME",
-        "url": "https://open.spotify.com/album/6VoIESYZJxUS1cMUL5CuSw"
-      },
-      "artists": [
-        {
-          "name": "Hailey Knox",
-          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
-        }
-      ],
-      "duration_ms": 141732,
-      "name": "AVAILABLE FOR ME",
-      "url": "https://open.spotify.com/track/287fJ5M4YHE9JtVzKrrm5M"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 344680,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "AVAILABLE FOR ME",
+        "url": "https://open.spotify.com/album/6VoIESYZJxUS1cMUL5CuSw"
+      },
+      "artists": [
+        {
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+        }
+      ],
+      "duration_ms": 141732,
+      "name": "AVAILABLE FOR ME",
+      "url": "https://open.spotify.com/track/287fJ5M4YHE9JtVzKrrm5M"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -473,6 +473,22 @@
       "url": "https://open.spotify.com/track/6kle4XS7gyiUIb0tmsyCf4"
     },
     {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Masego",
+        "url": "https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 260669,
+      "name": "Black Anime",
+      "url": "https://open.spotify.com/track/35wau9leYsDWBTW4A0ISyL"
+    },
+    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "CHERIMOYA",
@@ -503,22 +519,6 @@
       "duration_ms": 183050,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Masego",
-        "url": "https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 260669,
-      "name": "Black Anime",
-      "url": "https://open.spotify.com/track/35wau9leYsDWBTW4A0ISyL"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 181831,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
         "name": "why didn't you call???",
         "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 196734,
       "name": "why didn't you call???",
       "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 181831,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 226118,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
         "name": "Choose Your Weapon",
         "url": "https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
+        "name": "'Justments",
+        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
       },
       "artists": [
         {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 262651,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/1OFEzFogOuGlrjZt6jdz6l"
+      "duration_ms": 229573,
+      "name": "Can We Pretend",
+      "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -787,34 +771,34 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "'Justments",
-        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Can We Pretend",
-      "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
+      "duration_ms": 262651,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/1OFEzFogOuGlrjZt6jdz6l"
     },
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Exit",
-        "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb"
       },
       "artists": [
         {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 196673,
-      "name": "Exit",
-      "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
+      "duration_ms": 226118,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -835,6 +819,38 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "duration_ms": 196673,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
+    },
+    {
+      "added_at": "2023-03-04 19:39:48",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/1cVgkUbzpEwQVcQJvWgYnI"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 135653,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5BsMtgFr6LEL8FqPOaN2oj"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
         "name": "PATTERNS",
         "url": "https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 224050,
       "name": "PATTERNS",
       "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "Magic 8ball",
-        "url": "https://open.spotify.com/album/0fjJoEGBF5hxlv862DjVx5"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 263554,
-      "name": "Where U Goin' Tonight?",
-      "url": "https://open.spotify.com/track/4Z5Bwienk09FUgwsMlsPwJ"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
     },
     {
-      "added_at": "2023-03-04 19:39:48",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/1cVgkUbzpEwQVcQJvWgYnI"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 135653,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/5BsMtgFr6LEL8FqPOaN2oj"
-    },
-    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "Ready",
@@ -971,22 +955,6 @@
       "duration_ms": 151664,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "Archives & Lullabies",
-        "url": "https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "Leave While I Love You",
-      "url": "https://open.spotify.com/track/7rzto8pMXLVKpL2GVAfpMZ"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1007,6 +975,38 @@
       "duration_ms": 252053,
       "name": "Sun, Moon & Herbs",
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Archives & Lullabies",
+        "url": "https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "Leave While I Love You",
+      "url": "https://open.spotify.com/track/7rzto8pMXLVKpL2GVAfpMZ"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Magic 8ball",
+        "url": "https://open.spotify.com/album/0fjJoEGBF5hxlv862DjVx5"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 263554,
+      "name": "Where U Goin' Tonight?",
+      "url": "https://open.spotify.com/track/4Z5Bwienk09FUgwsMlsPwJ"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
         "name": "Love and Hate in a Different Time",
         "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 282177,
       "name": "Love and Hate in a Different Time - Original",
       "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1165,6 +1165,38 @@
       "url": "https://open.spotify.com/track/3JSaYIRPbfRgK8LfbDEYsH"
     },
     {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "C BOTH SIDES",
+        "url": "https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "CYCLOPS",
+      "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
+    },
+    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "Travel Light",
@@ -1199,38 +1231,6 @@
       "duration_ms": 123157,
       "name": "Bow Down",
       "url": "https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "C BOTH SIDES",
-        "url": "https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "CYCLOPS",
-      "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1509,20 +1509,24 @@
       "url": "https://open.spotify.com/track/1XCqGflyHjZAE1BnRqWUc9"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "I'll Be Loving You",
-        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
       },
       "artists": [
         {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Gwen Bunn",
+          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
         }
       ],
-      "duration_ms": 246144,
-      "name": "I'll Be Loving You",
-      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
+      "duration_ms": 151266,
+      "name": "311 (with Gwen Bunn)",
+      "url": "https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1551,6 +1555,22 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
+        "name": "I'll Be Loving You",
+        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 246144,
+      "name": "I'll Be Loving You",
+      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
         "name": "Buying Time",
         "url": "https://open.spotify.com/album/4w2JvzBwaKaYBdLWeepWI3"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 236949,
       "name": "Buying Time",
       "url": "https://open.spotify.com/track/3Yt0liwMgB3I0xv3FQBDzI"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Gwen Bunn",
-          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
-        }
-      ],
-      "duration_ms": 151266,
-      "name": "311 (with Gwen Bunn)",
-      "url": "https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7"
     },
     {
       "added_at": "2023-03-10 05:00:00",

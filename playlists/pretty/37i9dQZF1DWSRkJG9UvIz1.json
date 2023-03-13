@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 122361,
+  "num_followers": 122474,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODUwNTkwMiwwMDAwMDAwMDlhMmRmZmQ1NTkyMjE1ODgwN2FkNDI5YjNmYjk0NTYy",
+  "snapshot_id": "MTY3ODUwNTkwMiwwMDAwMDAwMDdiNjgzYjA5NzVlZTI0ZWY4YTU1N2Q3NjY5MGZlMjNl",
   "tracks": [
     {
       "added_at": "2023-03-11 03:38:22",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
+        "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 130955,
+      "name": "Desafinado - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
+    },
+    {
+      "added_at": "2023-03-11 03:38:22",
+      "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 207473,
       "name": "FYN",
       "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
-    },
-    {
-      "added_at": "2023-03-11 03:38:22",
-      "album": {
-        "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
-        "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 130955,
-      "name": "Desafinado - From 'Minions: The Rise of Gru' Soundtrack",
-      "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
+        "name": "Sem Nostalgia",
+        "url": "https://open.spotify.com/album/78k0Tn5KyFMcPdTIAHqKh8"
+      },
+      "artists": [
+        {
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        }
+      ],
+      "duration_ms": 214266,
+      "name": "Amor em Jacum\u00e3",
+      "url": "https://open.spotify.com/track/0LbDTSA6QB9nA3Wjtkbx9N"
+    },
+    {
+      "added_at": "2023-03-11 03:38:22",
+      "album": {
         "name": "EITA MENINA",
         "url": "https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 187069,
       "name": "EITA MENINA",
       "url": "https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda"
-    },
-    {
-      "added_at": "2023-03-11 03:38:22",
-      "album": {
-        "name": "Sem Nostalgia",
-        "url": "https://open.spotify.com/album/78k0Tn5KyFMcPdTIAHqKh8"
-      },
-      "artists": [
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
-        }
-      ],
-      "duration_ms": 214266,
-      "name": "Amor em Jacum\u00e3",
-      "url": "https://open.spotify.com/track/0LbDTSA6QB9nA3Wjtkbx9N"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -523,18 +523,22 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
-        "name": "28",
-        "url": "https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r"
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
       },
       "artists": [
         {
-          "name": "Julian Campos",
-          "url": "https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR"
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
         }
       ],
-      "duration_ms": 142153,
-      "name": "Notifica\u00e7\u00e3o Ligada",
-      "url": "https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq"
+      "duration_ms": 262281,
+      "name": "Caf\u00e9 Com Leite",
+      "url": "https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -555,22 +559,18 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
+        "name": "28",
+        "url": "https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r"
       },
       "artists": [
         {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Flavia Coelho",
-          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+          "name": "Julian Campos",
+          "url": "https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR"
         }
       ],
-      "duration_ms": 262281,
-      "name": "Caf\u00e9 Com Leite",
-      "url": "https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N"
+      "duration_ms": 142153,
+      "name": "Notifica\u00e7\u00e3o Ligada",
+      "url": "https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq"
     },
     {
       "added_at": "2023-03-11 03:38:22",

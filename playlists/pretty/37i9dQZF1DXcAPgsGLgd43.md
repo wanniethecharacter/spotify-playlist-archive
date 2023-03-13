@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,719 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,724 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 5 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 |
 | 6 | [Mi Amor](https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu) | 3:15 |
 | 7 | [Venezuela](https://open.spotify.com/track/0ZnMzSoVfqDRzXgagCOlKZ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Rave Radio](https://open.spotify.com/artist/7JrHNXd3zMD7xTFFhvnoyN) | [Venezuela](https://open.spotify.com/album/3acHknTBxqObDuCc4IMbu9) | 2:36 |
-| 8 | [La Pasion](https://open.spotify.com/track/5xRKvc3MJfOYh9M1E9Fnid) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [La Pasion](https://open.spotify.com/album/7t00C3OJQH7o8H4LOzseCb) | 3:07 |
-| 9 | [Overtime](https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Overtime / Physically](https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED) | 2:48 |
+| 8 | [Overtime](https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Overtime / Physically](https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED) | 2:48 |
+| 9 | [La Pasion](https://open.spotify.com/track/5xRKvc3MJfOYh9M1E9Fnid) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [La Pasion](https://open.spotify.com/album/7t00C3OJQH7o8H4LOzseCb) | 3:07 |
 | 10 | [Viento](https://open.spotify.com/track/0p34Y0tZFOvG3UpZQizOzv) | [Gianluca Vacchi](https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ) | [Viento](https://open.spotify.com/album/5MoTqDolgs1exn9oq0Cyyl) | 3:48 |
 | 11 | [Sway \(Mucho Mambo\)](https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Sway \(Mucho Mambo\)](https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr) | 2:39 |
 | 12 | [Puerto Rico](https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf) | [Landis](https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn) | [Puerto Rico](https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G) | 2:24 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 44 | [Bandolera](https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf) | [Joan Cases](https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL) | [Bandolera](https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw) | 2:48 |
 | 45 | [Calle ft\. Villanueva](https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Villanueva](https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j) | [Calle EP](https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3) | 3:33 |
 | 46 | [La Fiesta](https://open.spotify.com/track/2r9um9Y1MklfVLt6XNylmf) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [La Fiesta](https://open.spotify.com/album/3VNhdA2xtNcLopHG9lep3u) | 4:26 |
-| 47 | [Cumbia Tropical](https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW) | [Ilary Montanari](https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA) | [Cumbia Tropical](https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn) | 6:21 |
-| 48 | [Ay Papi](https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Ay Papi](https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe) | 3:25 |
+| 47 | [Ay Papi](https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Ay Papi](https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe) | 3:25 |
+| 48 | [Cumbia Tropical](https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW) | [Ilary Montanari](https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA) | [Cumbia Tropical](https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn) | 6:21 |
 | 49 | [Colombiana](https://open.spotify.com/track/09wXTzm6Q3NpBDKS4kUAqc) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [CZR](https://open.spotify.com/artist/4whL137jgt9m3zwTUlGJDz) | [Colombiana](https://open.spotify.com/album/7vvmaTj1zNgUxP3M61v2gA) | 2:58 |
 | 50 | [Cuban Riddim](https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Cuban Riddim](https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1) | 2:47 |
 
-Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMDY0MGJiNDI4YzQ5NjhjNDQwY2U3YjFmYzQxZjRmZDI5`
+Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMDdkN2RlYzM5ZTlhMTAyM2Q0ZTkxYTA0NjZiZTBkOGJm`

@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 14382,
+  "num_followers": 14413,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDhjZWFhOWZkN2RlNzllMjM5MGJkNzgzZDFiNjNhNjIx",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDUxYmNjNmRkY2FjZTY5ZDRiZDc0NmU5YTk4MzMzODIz",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+        "name": "15 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/0UbdOBtZ1w4PoXEoLUAyMs"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
         }
       ],
-      "duration_ms": 388360,
-      "name": "Aguanile - Live Version",
-      "url": "https://open.spotify.com/track/5HOX67EERSs8OXmuD8uWvH"
+      "duration_ms": 440864,
+      "name": "Medley: Amiga/Mi Media Mitad/Luna Negra - En Vivo",
+      "url": "https://open.spotify.com/track/0HIPtOZKPk6796txUKwD0D"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "15 A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/0UbdOBtZ1w4PoXEoLUAyMs"
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
       "artists": [
         {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 440864,
-      "name": "Medley: Amiga/Mi Media Mitad/Luna Negra - En Vivo",
-      "url": "https://open.spotify.com/track/0HIPtOZKPk6796txUKwD0D"
+      "duration_ms": 388360,
+      "name": "Aguanile - Live Version",
+      "url": "https://open.spotify.com/track/5HOX67EERSs8OXmuD8uWvH"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 364626,
-      "name": "No Podr\u00e1s Escapar de M\u00ed - En Vivo",
-      "url": "https://open.spotify.com/track/7HJL1P3DPHYYtR0wI7X2BK"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
         "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 311520,
       "name": "Viajera",
       "url": "https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 364626,
+      "name": "No Podr\u00e1s Escapar de M\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/7HJL1P3DPHYYtR0wI7X2BK"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -543,38 +543,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        },
-        {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
-        },
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        },
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        },
-        {
-          "name": "Nora",
-          "url": "https://open.spotify.com/artist/50qoEvPHvc3H9dmOBShQSM"
-        }
-      ],
-      "duration_ms": 352853,
-      "name": "Vali\u00f3 La Pena (feat. Jose Alberto \"El Canario\", Cheo Feliciano, Andy Monta\u00f1ez & Nora) - Live Version",
-      "url": "https://open.spotify.com/track/06OUCISXpxVEMkbVtRLn6c"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "40... y Contando (En Vivo Desde Puerto Rico)",
         "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
       },
@@ -591,6 +559,22 @@
       "duration_ms": 442960,
       "name": "Agua que Cae del Cielo (Lluvia) (feat. Willie Rosario) - En Vivo desde Puerto Rico",
       "url": "https://open.spotify.com/track/39XBzvG6sBfwvNvhfD7bpA"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 343786,
+      "name": "Yo No S\u00e9 Ma\u00f1ana - Live Version",
+      "url": "https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -628,13 +612,29 @@
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        },
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        },
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        },
+        {
+          "name": "Nora",
+          "url": "https://open.spotify.com/artist/50qoEvPHvc3H9dmOBShQSM"
         }
       ],
-      "duration_ms": 343786,
-      "name": "Yo No S\u00e9 Ma\u00f1ana - Live Version",
-      "url": "https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3"
+      "duration_ms": 352853,
+      "name": "Vali\u00f3 La Pena (feat. Jose Alberto \"El Canario\", Cheo Feliciano, Andy Monta\u00f1ez & Nora) - Live Version",
+      "url": "https://open.spotify.com/track/06OUCISXpxVEMkbVtRLn6c"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 424066,
-      "name": "Quiero Morir en Tu Piel - En Vivo",
-      "url": "https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 280493,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 424066,
+      "name": "Quiero Morir en Tu Piel - En Vivo",
+      "url": "https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -735,24 +735,8 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 321200,
-      "name": "Tu Amor Me Hace Bien - Live Version",
-      "url": "https://open.spotify.com/track/6mMZl9sPeoTM79XaIaPg9J"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
-        "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
+        "name": "Intimamente Salsero (En Vivo)",
+        "url": "https://open.spotify.com/album/5Reuqd1mwQDQOdx0vFvOXm"
       },
       "artists": [
         {
@@ -760,9 +744,9 @@
           "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
         }
       ],
-      "duration_ms": 500520,
-      "name": "Desnudate Mujer",
-      "url": "https://open.spotify.com/track/2aiTdsCbRlcDmSPzToIRIA"
+      "duration_ms": 298573,
+      "name": "Sue\u00f1o Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1ACoCw1B1BRNg0gaLQmdJQ"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -815,18 +799,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
       "artists": [
         {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 392933,
-      "name": "Hazme Olvidarla - En Vivo",
-      "url": "https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh"
+      "duration_ms": 321200,
+      "name": "Tu Amor Me Hace Bien - Live Version",
+      "url": "https://open.spotify.com/track/6mMZl9sPeoTM79XaIaPg9J"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -851,18 +835,34 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "A Night Of Salsa",
-        "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
+        "name": "Ismael Miranda (En Vivo)",
+        "url": "https://open.spotify.com/album/40DjMiB2wSxUTCuXiX1Egk"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
         }
       ],
-      "duration_ms": 401466,
-      "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
-      "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
+      "duration_ms": 330426,
+      "name": "Se\u00f1or Sereno - En Vivo",
+      "url": "https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
+        "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        }
+      ],
+      "duration_ms": 500520,
+      "name": "Desnudate Mujer",
+      "url": "https://open.spotify.com/track/2aiTdsCbRlcDmSPzToIRIA"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Intimamente Salsero (En Vivo)",
-        "url": "https://open.spotify.com/album/5Reuqd1mwQDQOdx0vFvOXm"
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 298573,
-      "name": "Sue\u00f1o Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1ACoCw1B1BRNg0gaLQmdJQ"
+      "duration_ms": 392933,
+      "name": "Hazme Olvidarla - En Vivo",
+      "url": "https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh"
     }
   ],
   "unique_name": "Vivo de Salsa",

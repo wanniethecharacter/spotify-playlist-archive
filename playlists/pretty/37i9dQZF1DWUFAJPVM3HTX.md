@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Talia Goddess\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,442 likes - 150 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,497 likes - 150 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: Red Velvet, aespa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,890 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,859 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 93 | [Snowman \(Special Ver.\)](https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY) | [APRIL](https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa) | [APRIL 3rd Mini Album 'Prelude'](https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh) | 3:05 |
 | 94 | [MY GROWN UP CHRISTMAS LIST](https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [HITMAN PROJECT \#1 : A TRIBUTE TO THE HITMAN,DAVID FOSTER](https://open.spotify.com/album/7eRKeHsGJe7gtSUwoaHTqQ) | 4:49 |
 | 95 | [Falling](https://open.spotify.com/track/0KFQoeuppOmhNDcJzoqZyr) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A), [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY), [Park Yunha](https://open.spotify.com/artist/34nTe3ixEmbYyzsiLJeEUq), [Park JungA](https://open.spotify.com/artist/4aqjsIDcJwUVjq9vQbjlll), [Kim Gyu Sun](https://open.spotify.com/artist/1HvRGOiUGvQUxCLwgcx4O8), [Kim Ye\-Won](https://open.spotify.com/artist/5W20UGfzUOyZyAnq5VAuqJ), [Ji Yul](https://open.spotify.com/artist/67N0u1LXlfqz51c7a78qPm) | [Jelly Box Jelly Christmas 2016](https://open.spotify.com/album/5c4RIUO2CA2P0gUopDP3na) | 4:09 |
-| 96 | [starry night](https://open.spotify.com/track/2Ngtq0z4NF96LsW5x0O5sP) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw), [WOORIZARI 우리자리](https://open.spotify.com/artist/4wSK8ZJdJbAcWLwMcUXIFb) | [BLACKYPLATFORM](https://open.spotify.com/album/68M29UPBO2BxSIIxNBZmLg) | 3:41 |
-| 97 | [Snow Sun](https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp) | [아워멜츠 Hourmelts](https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc) | [Twenties = Love](https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN) | 3:33 |
+| 96 | [Snow Sun](https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp) | [아워멜츠 Hourmelts](https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc) | [Twenties = Love](https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN) | 3:33 |
+| 97 | [starry night](https://open.spotify.com/track/2Ngtq0z4NF96LsW5x0O5sP) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw), [WOORIZARI 우리자리](https://open.spotify.com/artist/4wSK8ZJdJbAcWLwMcUXIFb) | [BLACKYPLATFORM](https://open.spotify.com/album/68M29UPBO2BxSIIxNBZmLg) | 3:41 |
 | 98 | [Christmas in July](https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Christmas in July](https://open.spotify.com/album/0euAPwcmvqbw78ptNqYxN2) | 3:59 |
 | 99 | [It's Christmas](https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz) | [FNC ARTIST](https://open.spotify.com/artist/1skD49OqyAqPbSUpVyxEP0) | [FNC LAB \#2 'It's Christmas'](https://open.spotify.com/album/5T3gFIMhsV2HuCRmZNgo2S) | 3:50 |
 | 100 | [One Day in December](https://open.spotify.com/track/3YCr2GzVVrz4LiKNUAPW6G) | [ON](https://open.spotify.com/artist/7pXZtQ6CdS3SQx3WDK8jW3) | [One Day in December](https://open.spotify.com/album/0ZZTeU4ov4MizoljxXjL2N) | 2:37 |
 
-Snapshot ID: `MTY3MzM2NDI1MywwMDAwMDAwMGU0ODkxOTQ5MjM5OTAxNzQyM2ZkN2JmZTBhYjU2ZDM1`
+Snapshot ID: `MTY3MzM2NDI1MywwMDAwMDAwMDE5MDhkYWY0MzVmZmNlNDEwNDM4NDNjZWU1ODIwNWMz`

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Akrilla, SOULFIA",
-  "num_followers": 62973,
+  "num_followers": 62984,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ2NTU1NywwMDAwMDAwMDcxZGIwMzliYzM0ZTlmZjc0ZmU4NzAxYmQ1NWRhM2Vk",
+  "snapshot_id": "MTY3ODQ2NTU1NywwMDAwMDAwMDIzOGZmNjE3NmExYjVhZDE2M2E1NTI1NTdjZWZmNjA4",
   "tracks": [
     {
       "added_at": "2023-03-10 16:25:57",
@@ -295,18 +295,22 @@
     {
       "added_at": "2023-03-10 16:25:57",
       "album": {
-        "name": "Wasa Wasa",
-        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
+        "name": "Mi Gata",
+        "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
         }
       ],
-      "duration_ms": 145531,
-      "name": "Wasa Wasa",
-      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
+      "duration_ms": 202478,
+      "name": "Mi Gata",
+      "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
     },
     {
       "added_at": "2023-03-10 16:25:57",
@@ -339,22 +343,18 @@
     {
       "added_at": "2023-03-10 16:25:57",
       "album": {
-        "name": "Mi Gata",
-        "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
+        "name": "Wasa Wasa",
+        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
       },
       "artists": [
         {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "El Barto",
-          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 202478,
-      "name": "Mi Gata",
-      "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
+      "duration_ms": 145531,
+      "name": "Wasa Wasa",
+      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
     },
     {
       "added_at": "2023-03-10 16:25:57",
@@ -975,6 +975,26 @@
     {
       "added_at": "2023-03-10 16:25:57",
       "album": {
+        "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
+        "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
+      },
+      "artists": [
+        {
+          "name": "OMGisNEFF",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        },
+        {
+          "name": "SokeThugPro",
+          "url": "https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
+      "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
+    },
+    {
+      "added_at": "2023-03-10 16:25:57",
+      "album": {
         "name": "HOR\u00d3SCOPO",
         "url": "https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 248659,
       "name": "HOR\u00d3SCOPO",
       "url": "https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x"
-    },
-    {
-      "added_at": "2023-03-10 16:25:57",
-      "album": {
-        "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
-        "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
-      },
-      "artists": [
-        {
-          "name": "OMGisNEFF",
-          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
-        },
-        {
-          "name": "SokeThugPro",
-          "url": "https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
-      "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
     },
     {
       "added_at": "2023-03-10 16:25:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,497 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,556 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 64 | [Noche Sensacional](https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl), [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa) | [Noche Sensacional](https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda) | 3:17 |
 | 65 | [El Pájaro Cú](https://open.spotify.com/track/7GBKatFFO8xPt9cgT0H74D) | [Sonex](https://open.spotify.com/artist/2xA9FhJKzvCKxxGvwnVyMK) | [Madre Natura](https://open.spotify.com/album/6emglSRi7jlfog1ZDBkXBh) | 3:51 |
 | 66 | [Contra la Corriente](https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 4:23 |
-| 67 | [Sana Sana](https://open.spotify.com/track/341SLEDngz2H0kE52OTXao) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Sana Sana](https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9) | 5:02 |
+| 67 | [Sana Sana](https://open.spotify.com/track/6INLstv52hDkfJ5P8OhKqx) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Madre Padre Marte](https://open.spotify.com/album/63AhXYacnlHnitNe6qG334) | 5:02 |
 | 68 | [Cada Vez Te Extraño Menos](https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Cada Vez Te Extraño Menos](https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is) | 2:42 |
 | 69 | [Aguacero](https://open.spotify.com/track/0fiSZRmFK4iP1w6ZJRKAVG) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Aguacero](https://open.spotify.com/album/1Ex8LdVGuQV0TfLd9znmOW) | 3:55 |
 | 70 | [La Pieza](https://open.spotify.com/track/1QKNOXDI74W6gmDc3T4ujw) | [Jarana Beat](https://open.spotify.com/artist/34y5NnlN2zQYqZZWwYSy60), [Mireya](https://open.spotify.com/artist/6nmhKuSX86VY9oD1rNPF06), [Shae Fiol](https://open.spotify.com/artist/6gE1Xwy465JTBLZb2d8y4E) | [Vibración por Simpatía, Ome Ollin: Movimiento Il](https://open.spotify.com/album/0rLcruMrEJIMgHTkDs6Fvh) | 5:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 99 | [La Canícula](https://open.spotify.com/track/5kQ2OzJ6OJZgkc3u7P65ey) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [La Canícula](https://open.spotify.com/album/5fw1tmc1GBEunY8wjXgGBA) | 3:07 |
 | 100 | [Eso](https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Eso](https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W) | 4:02 |
 
-Snapshot ID: `MTY3Nzg2MzM0MSwwMDAwMDAwMGE3NWRlY2ExYmJkNWMxZGYzNzNmMjAwZWUyMmFiY2U4`
+Snapshot ID: `MTY3Nzg2MzM0MSwwMDAwMDAwMDdiMGVmMGI2ZjhiYzI2NTcxYTAzYTZlZTAyMmM1M2E0`

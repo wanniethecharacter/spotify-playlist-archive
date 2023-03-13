@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra, Ke Personajes & La K'onga.",
-  "num_followers": 583234,
+  "num_followers": 583649,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQxNzIwMCwwMDAwMDAwMDc3NTAzZjE2ZmM0MmQzMzU3ZjJlMzFmYjlhYzUyZmNk",
+  "snapshot_id": "MTY3ODQxNzIwMCwwMDAwMDAwMGU2MjBiOTNjZmJlNjViNTMzMTllZDBmM2UxMWFjMGM5",
   "tracks": [
     {
       "added_at": "2023-02-24 03:00:00",
@@ -451,8 +451,8 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Los Verdugos De La Mufa",
-        "url": "https://open.spotify.com/album/3LPgoY2iN8kCmKhXp16NuN"
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK"
       },
       "artists": [
         {
@@ -460,12 +460,12 @@
           "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
         }
       ],
-      "duration_ms": 238533,
-      "name": "Que Bonito",
-      "url": "https://open.spotify.com/track/3XmpHN0jwCV1unk8ygs1Ku"
+      "duration_ms": 186990,
+      "name": "Te Pido Perdon",
+      "url": "https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn"
     },
     {
-      "added_at": "2023-03-12 00:30:14",
+      "added_at": "2023-03-13 01:01:06",
       "album": {
         "name": "Dime Que Pas\u00f3",
         "url": "https://open.spotify.com/album/5gGUOdk6ryPztvUtN6VVZx"
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK"
-      },
-      "artists": [
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Te Pido Perdon",
-      "url": "https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "No Me Pidan Que Baje el Volumen",
         "url": "https://open.spotify.com/album/16tiLBfRfZ3X9PwTFu4bcY"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 268199,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/5zvsu3ADMUm96R5XY3Xd7G"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Los Verdugos De La Mufa",
+        "url": "https://open.spotify.com/album/5TZ3a5b6oKxNgIRkjfFTUO"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "Qu\u00e9 bonito",
+      "url": "https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Qui\u00e9reme (Cuarteto)",
-        "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        },
-        {
-          "name": "Magui Olave",
-          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Qui\u00e9reme - Cuarteto",
-      "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "La Bella y la Bestia",
         "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 200362,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Qui\u00e9reme (Cuarteto)",
+        "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Qui\u00e9reme - Cuarteto",
+      "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Un Nuevo Tiempo",
-        "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd"
       },
       "artists": [
         {
-          "name": "Ale Ceberio",
-          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
         }
       ],
-      "duration_ms": 136318,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
+      "duration_ms": 196588,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd"
+        "name": "Un Nuevo Tiempo",
+        "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
       },
       "artists": [
         {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+          "name": "Ale Ceberio",
+          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
         }
       ],
-      "duration_ms": 196588,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9"
+      "duration_ms": 136318,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
     },
     {
       "added_at": "2023-02-24 03:00:00",

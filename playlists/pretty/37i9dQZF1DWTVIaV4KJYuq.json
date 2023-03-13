@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 669378,
+  "num_followers": 669528,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDMwYjViMTQwNzQ1NzQzNzA1ODk3YThjNTdjYzM1YWRi",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDJhNGQ2ODM5ZmI1ZGE1YzY0MGYxYTc4MzFjNDkyNGVh",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "I Still Haven't Found What I'm Looking For / my future",
+        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 212157,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Every Breath You Take (feat. Liza Anne)",
         "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take (feat. Liza Anne)",
       "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "I Still Haven't Found What I'm Looking For / my future",
-        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 212157,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Sunshine on a Cloudy Day",
+        "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
+      },
+      "artists": [
+        {
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+        }
+      ],
+      "duration_ms": 166438,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/0oiNNnrv5iYEl96RimHw8G"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "\u4e3a\u7231\u505a\u7684\u4e00\u5207",
         "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 225053,
       "name": "Wild World - Acoustic Version",
       "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Sunshine on a Cloudy Day",
-        "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
       },
       "artists": [
         {
-          "name": "Laura Zocca",
-          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
         }
       ],
-      "duration_ms": 166438,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/0oiNNnrv5iYEl96RimHw8G"
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 239346,
       "name": "Dreams - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Recycled Recipes",
+        "url": "https://open.spotify.com/album/7xzscnekPsgqItXZXo0COb"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "duration_ms": 160160,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/63vZ8WlRIufZiJMMnWUCZh"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "You Are My Sunshine (with Chris Stapleton)",
         "url": "https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/31b6H6nChYUmNbW1yZQHYs"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Recycled Recipes",
-        "url": "https://open.spotify.com/album/7xzscnekPsgqItXZXo0COb"
-      },
-      "artists": [
-        {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
-        }
-      ],
-      "duration_ms": 160160,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/63vZ8WlRIufZiJMMnWUCZh"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -949,6 +949,22 @@
       "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
     },
     {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "I Can Help",
+        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 218225,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "It's Only Rock 'N' Roll (But I Like It)",
@@ -967,22 +983,6 @@
       "duration_ms": 322346,
       "name": "It's Only Rock 'N' Roll (But I Like It)",
       "url": "https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "I Can Help",
-        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 218225,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Into The Mystic",
+        "url": "https://open.spotify.com/album/6v01VtaOOLotmKhVpje5CX"
+      },
+      "artists": [
+        {
+          "name": "Andy Kong",
+          "url": "https://open.spotify.com/artist/0Qrp8cpHBz47dbOyPfzzhP"
+        }
+      ],
+      "duration_ms": 168354,
+      "name": "Into The Mystic",
+      "url": "https://open.spotify.com/track/2pYFL5jaZhhPSAy0sYQ2oj"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Man in the Mirror",
         "url": "https://open.spotify.com/album/5VleQQSPbU6LEzONZK38F5"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 210891,
       "name": "Man in the Mirror",
       "url": "https://open.spotify.com/track/4XTqOeJ9nLeNCHy2fXYi5T"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Into The Mystic",
-        "url": "https://open.spotify.com/album/6v01VtaOOLotmKhVpje5CX"
-      },
-      "artists": [
-        {
-          "name": "Andy Kong",
-          "url": "https://open.spotify.com/artist/0Qrp8cpHBz47dbOyPfzzhP"
-        }
-      ],
-      "duration_ms": 168354,
-      "name": "Into The Mystic",
-      "url": "https://open.spotify.com/track/2pYFL5jaZhhPSAy0sYQ2oj"
     },
     {
       "added_at": "2022-09-30 04:00:00",

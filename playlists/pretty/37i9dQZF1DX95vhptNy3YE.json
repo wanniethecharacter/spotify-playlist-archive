@@ -1,12 +1,12 @@
 {
   "description": "Vulgo FK, MC Cebezinho, KayBlack e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 187429,
+  "num_followers": 187536,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ1OTEwMiwwMDAwMDAwMDYyMWJhYjY4MGU0NjRjYjM0OGIxYTVkODM2NDA4MmJi",
+  "snapshot_id": "MTY3ODQ1OTEwMiwwMDAwMDAwMGE4MDE5MWVmZDZlNjQ1ZjUzOWExM2Q4ZmJiNmMwMmVj",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -587,34 +587,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "DiCastro",
-          "url": "https://open.spotify.com/artist/021AgNRiFV8NmuDqQceKvF"
-        }
-      ],
-      "duration_ms": 223689,
-      "name": "Frio e Calculista",
-      "url": "https://open.spotify.com/track/57nvtO3EJuh6zuB67R3QeF"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
@@ -651,6 +623,34 @@
       "duration_ms": 217539,
       "name": "VALHO NADA",
       "url": "https://open.spotify.com/track/18XOY618zQH4bFw3TgVT9L"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "DiCastro",
+          "url": "https://open.spotify.com/artist/021AgNRiFV8NmuDqQceKvF"
+        }
+      ],
+      "duration_ms": 223689,
+      "name": "Frio e Calculista",
+      "url": "https://open.spotify.com/track/57nvtO3EJuh6zuB67R3QeF"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Pagode Do Peric\u00e3o II, Pt. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/65vNfWkaQhnrT7ndLZQ0Z0"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 168165,
+      "name": "Graveto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AZPao1jegnylQcnDfNBxl"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Bokaloka",
         "url": "https://open.spotify.com/album/780KNfna6zGXAd46qZZmoS"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 553536,
       "name": "Bokaloka",
       "url": "https://open.spotify.com/track/15MMy5OQqEyGBLkjVSsS9e"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Pagode Do Peric\u00e3o II, Pt. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/65vNfWkaQhnrT7ndLZQ0Z0"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 168165,
-      "name": "Graveto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AZPao1jegnylQcnDfNBxl"
     },
     {
       "added_at": "2023-03-10 03:01:00",

@@ -1317,6 +1317,28 @@
     },
     {
       "album": {
+        "name": "Tamborz\u00e3o Raiz",
+        "url": "https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "BUARQUE",
+          "url": "https://open.spotify.com/artist/20MbZeDJcbXxkcZWumh9rC"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152888,
+      "name": "Aquecimento Senta Senta Suave",
+      "url": "https://open.spotify.com/track/5WsM6qhZzRSD3oKbtorxzD"
+    },
+    {
+      "album": {
         "name": "ROCK PESADO",
         "url": "https://open.spotify.com/album/5PzizwiDjpYMYP2COEeViu"
       },
@@ -7288,7 +7310,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 156969,
       "name": "Eu Sou Muito Humilde: Disputa Pra Bbotar Na Pipokinha",
       "url": "https://open.spotify.com/track/3NtNSNJNfoq6jzZjHN4CuO"
@@ -9082,7 +9104,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 215065,
       "name": "Haja Amor",
       "url": "https://open.spotify.com/track/07aDFrAVLD02sKGzlZby46"
@@ -16985,6 +17007,24 @@
     },
     {
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/7zugzVgHDiDlcwvsLxz43A"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151011,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/2RUcwyW74Sv4VracHFrKdh"
+    },
+    {
+      "album": {
         "name": "Pura Adrenalina",
         "url": "https://open.spotify.com/album/4mf1WTCpicIS2WNsd0DHJO"
       },
@@ -19236,7 +19276,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 266338,
       "name": "Silent Running (feat. Adeleye Omotayo)",
       "url": "https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1"
@@ -22618,7 +22658,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 210545,
       "name": "Vida Chique",
       "url": "https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li"

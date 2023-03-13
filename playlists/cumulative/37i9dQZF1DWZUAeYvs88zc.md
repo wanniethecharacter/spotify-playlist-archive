@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-466 songs - 1 day 2 hr 14 min
+467 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,8 @@
 | [The Bottom](https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:00 | 2021-11-13 |  |
 | [The Boy Who Cried Love](https://open.spotify.com/track/2NTX4lpTcfl4BnzzX0EHXv) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [The Boy Who Cried Love](https://open.spotify.com/album/4vfxI4Ev5DxHEGHVk2I1ZJ) | 2:40 | 2022-09-02 | 2022-09-17 |
 | [The Crying Game](https://open.spotify.com/track/5XO86rMMh9lHFAa85Y48fL) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [The Pinkprint \(Deluxe Edition\)](https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC) | 4:25 | 2019-06-23 | 2019-08-09 |
-| [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/1sV6bR42OhPi2PL7ZPHLNi) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/album/5wSX76l2RgF4wIzxSBaVXD) | 4:34 | 2022-10-07 |  |
+| [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/1sV6bR42OhPi2PL7ZPHLNi) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/album/5wSX76l2RgF4wIzxSBaVXD) | 4:34 | 2022-10-07 | 2023-03-13 |
+| [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 4:34 | 2023-01-28 |  |
 | [The Mess You Made](https://open.spotify.com/track/4IkXyjNhW4dAAP3cKX0b49) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [The Mess You Made](https://open.spotify.com/album/1yXYk33me3OPes60v24XXe) | 2:50 | 2021-09-20 | 2021-09-21 |
 | [The Old Me](https://open.spotify.com/track/2dW8FQL3XdiMd08FGCz6OE) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [Therapy](https://open.spotify.com/album/6mzxiA4wsf2FEDjWaIUjuo) | 2:56 | 2022-03-25 | 2022-04-21 |
 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 | 2021-11-07 |  |

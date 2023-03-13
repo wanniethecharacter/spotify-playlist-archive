@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-140 songs - 12 hr 21 min
+141 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dilemma](https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Dilemma](https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i) | 3:05 | 2022-08-12 | 2023-03-12 |
 | [Distress](https://open.spotify.com/track/5fiDIqVrR0l9P1pdO5Sr5C) | [Natalia Roth](https://open.spotify.com/artist/62ukgypcwfh2mbtvRcXPK8) | [Sérial Noceur](https://open.spotify.com/album/580Qb2oZyp81gqru8v5jQH) | 6:39 | 2022-07-15 | 2022-07-28 |
 | [DJ Lover \- Original Mix](https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Welcome EP](https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh) | 6:47 | 2022-07-01 | 2023-03-04 |
+| [Don't Look Back](https://open.spotify.com/track/3h1plqqVGhOLV0TbBYnQKW) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Riveron](https://open.spotify.com/artist/3qzu7R3PzRDAHC2NsrcRLL) | [Don't Look Back](https://open.spotify.com/album/0lStU7LtwbnoZXXyI3oL68) | 3:13 | 2023-03-10 |  |
 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 | 2022-09-09 |  |
 | [Encoding](https://open.spotify.com/track/2fnS9uEeunmh1NwlkmSGqb) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu) | [Encoding EP](https://open.spotify.com/album/7m526KE380DYpcaItIMVad) | 6:03 | 2022-06-03 | 2022-07-29 |
 | [Energy](https://open.spotify.com/track/3h2DNWJn3GLNVhBQKpgxpK) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [YM006](https://open.spotify.com/album/0UtLUMq1i1r8nwbYNTkO3V) | 6:31 | 2022-06-03 | 2022-07-22 |
@@ -57,7 +58,7 @@
 | [Hate Me Now](https://open.spotify.com/track/55HPPAg1jdeeP4Cffppm5A) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Hate Me Now](https://open.spotify.com/album/4B3DYsWhpBCEh1zxFkPVp4) | 6:12 | 2022-07-15 | 2022-08-27 |
 | [Heart Of Jazz](https://open.spotify.com/track/1BbKe9iPRe5ZNFKdhzv82N) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Heart Of Jazz](https://open.spotify.com/album/70DEmkfKbQq971gDSdXo3r) | 6:00 | 2022-07-08 | 2022-07-26 |
 | [Highway Freedom](https://open.spotify.com/track/3OyKSA6gU1Il2uOvCXU5IK) | [Late Replies](https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7) | [Highway Freedom EP](https://open.spotify.com/album/4xT3vXGr92An3Ua3WdwfWh) | 3:15 | 2022-06-03 | 2022-07-23 |
-| [Honey Bee \- Edit](https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee](https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX) | 4:23 | 2022-06-03 |  |
+| [Honey Bee \- Edit](https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee](https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX) | 4:23 | 2022-06-03 | 2023-03-13 |
 | [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 | 2022-06-03 | 2023-02-28 |
 | [Hyper](https://open.spotify.com/track/39pclaQXwUGiwcA47Hk3QF) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Hyper](https://open.spotify.com/album/1l0vbfG18jQVRTiYUdEad8) | 3:43 | 2022-07-15 |  |
 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 | 2022-06-03 |  |

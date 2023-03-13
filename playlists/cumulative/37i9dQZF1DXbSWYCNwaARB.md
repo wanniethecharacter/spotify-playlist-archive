@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: Cherry Bullet \(체리블렛\)
 
-345 songs - 18 hr 34 min
+346 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [Monster](https://open.spotify.com/track/6c1QaQHdDhtFMfUkhueuXK) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [Monster \- The 1st Mini Album](https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc) | 2:58 | 2020-10-13\* | 2022-05-22 |
 | [Moonlight](https://open.spotify.com/track/1FQiMjvNvvrbTUOjRtverL) | [GeeGu](https://open.spotify.com/artist/6NZF9gEyv9EcC6BORk3aFO) | [Moonlight](https://open.spotify.com/album/3LPKRcJU5tQ9LcbXPMTAz6) | 3:08 | 2021-02-12 | 2022-04-18 |
 | [MOONLIGHT](https://open.spotify.com/track/1HfIy5HVfg8CmRVuym7eIz) | [NeonPunch](https://open.spotify.com/artist/1j2VjoyNduKvjsQqiQ6Z5d) | [NeonPunch 1st Debut Album 'MOONLIGHT'](https://open.spotify.com/album/4i9CSy97ek0xx7wL84e9D9) | 3:13 | 2021-02-03 | 2022-04-20 |
-| [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-20 |  |
+| [MOONLIGHT SUNRISE](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:00 | 2023-02-24 |  |
+| [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-20 | 2023-03-13 |
 | [My Way](https://open.spotify.com/track/0Tx0C5SLkF8IxQdbADxP7L) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [NEW MOON](https://open.spotify.com/album/61mlBNUkU8QKvYOfTiwFR5) | 3:13 | 2021-02-27 | 2021-02-28 |
 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 | 2023-01-14 | 2023-02-15 |
 | [Naughty](https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [Naughty](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) | 3:18 | 2020-10-13\* | 2022-04-19 |

@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 44964,
+  "num_followers": 45046,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA4MzU2MywwMDAwMDAwMDZhNzRmYzJjYWFhOTJlYmQwMTBlODc5ZmNiY2FhNjQx",
+  "snapshot_id": "MTY3NzA4MzU2MywwMDAwMDAwMDA3ZmNiMjI1ZjE0MjlkYzI4NGJlNjkyODY2MDQ3NDU0",
   "tracks": [
     {
       "added_at": "2023-02-22 16:32:42",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "El Nervio Del Volcan",
-        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Ayer Me Dijo un Ave",
-      "url": "https://open.spotify.com/track/6gpsPg8kaMbc8rcuHw7t1i"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
         "name": "Caf\u00e9 Tacvba",
         "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 205026,
       "name": "Las batallas",
       "url": "https://open.spotify.com/track/4HTQcxErjqv1Up3ZOoJ1di"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
+        "name": "El Nervio Del Volcan",
+        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Ayer Me Dijo un Ave",
+      "url": "https://open.spotify.com/track/6gpsPg8kaMbc8rcuHw7t1i"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
+        "name": "Caf\u00e9 Tacvba",
+        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 231200,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/18T2uIJteJ7o1W8XLFRpaN"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 159733,
       "name": "Cuando Vuelva a Tu Lado",
       "url": "https://open.spotify.com/track/5j2tKp2lqR5a5V8ArWOEDe"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
-        "name": "Caf\u00e9 Tacvba",
-        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 231200,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/18T2uIJteJ7o1W8XLFRpaN"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
+        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "\u00bfD\u00f3nde estabas t\u00fa?",
+      "url": "https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 293098,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
-        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs"
-      },
-      "artists": [
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "\u00bfD\u00f3nde estabas t\u00fa?",
-      "url": "https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1099,22 +1099,18 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "\u00bfY C\u00f3mo?",
-        "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
+        "name": "Chavela Vargas: 30 Exitos",
+        "url": "https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
         }
       ],
-      "duration_ms": 212693,
-      "name": "\u00bfY C\u00f3mo?",
-      "url": "https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO"
+      "duration_ms": 204617,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1135,18 +1131,22 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Chavela Vargas: 30 Exitos",
-        "url": "https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse"
+        "name": "\u00bfY C\u00f3mo?",
+        "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
       },
       "artists": [
         {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
         }
       ],
-      "duration_ms": 204617,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
+      "duration_ms": 212693,
+      "name": "\u00bfY C\u00f3mo?",
+      "url": "https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Caguamita Banquetera",
-        "url": "https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG"
-      },
-      "artists": [
-        {
-          "name": "David de la Luz",
-          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
-        }
-      ],
-      "duration_ms": 155651,
-      "name": "Caguamita Banquetera",
-      "url": "https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
         "name": "L\u00e1grimas Negras",
         "url": "https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
+        "name": "Caguamita Banquetera",
+        "url": "https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG"
+      },
+      "artists": [
+        {
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+        }
+      ],
+      "duration_ms": 155651,
+      "name": "Caguamita Banquetera",
+      "url": "https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
         "name": "Bolero Triste",
         "url": "https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 240326,
       "name": "Bolero Triste",
       "url": "https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
-        "name": "6 Conejo",
-        "url": "https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72"
-      },
-      "artists": [
-        {
-          "name": "Ampersan",
-          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
-        }
-      ],
-      "duration_ms": 265864,
-      "name": "Dolorosa",
-      "url": "https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
+        "name": "6 Conejo",
+        "url": "https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72"
+      },
+      "artists": [
+        {
+          "name": "Ampersan",
+          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
+        }
+      ],
+      "duration_ms": 265864,
+      "name": "Dolorosa",
+      "url": "https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
         "name": "Hace Tiempo",
         "url": "https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J"
       },
@@ -1451,22 +1451,6 @@
       "duration_ms": 252413,
       "name": "Hace Tiempo",
       "url": "https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
-        "name": "Noche Fr\u00eda",
-        "url": "https://open.spotify.com/album/3izNSTBUp5gbNSU8bFZYGx"
-      },
-      "artists": [
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        }
-      ],
-      "duration_ms": 189573,
-      "name": "Noche Fr\u00eda",
-      "url": "https://open.spotify.com/track/45Q2gf2HToBlmhX4eeLMNy"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
+        "name": "Noche Fr\u00eda",
+        "url": "https://open.spotify.com/album/3izNSTBUp5gbNSU8bFZYGx"
+      },
+      "artists": [
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        }
+      ],
+      "duration_ms": 189573,
+      "name": "Noche Fr\u00eda",
+      "url": "https://open.spotify.com/track/45Q2gf2HToBlmhX4eeLMNy"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
         "name": "Ch\u00e9ni (Miedo)",
         "url": "https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 228400,
       "name": "Ch\u00e9ni (Miedo)",
       "url": "https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
+        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
+        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "La Copa Rota",
+      "url": "https://open.spotify.com/track/0OdHeU4ck2ix2R8NeOAe7r"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
-        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 188920,
-      "name": "La Copa Rota",
-      "url": "https://open.spotify.com/track/0OdHeU4ck2ix2R8NeOAe7r"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/3mg9Kt07tnjoAV2ZxbByXy"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 222005,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
-        "name": "Susana Baca",
-        "url": "https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS"
-      },
-      "artists": [
-        {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
-        }
-      ],
-      "duration_ms": 298573,
-      "name": "Caras Lindas",
-      "url": "https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1587,6 +1571,22 @@
       "duration_ms": 242944,
       "name": "Eso",
       "url": "https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
+        "name": "Susana Baca",
+        "url": "https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "duration_ms": 298573,
+      "name": "Caras Lindas",
+      "url": "https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Sauce",
-        "url": "https://open.spotify.com/album/0J3ZUsihPAvYKEzuOhoVF7"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        }
-      ],
-      "duration_ms": 168549,
-      "name": "Sauce",
-      "url": "https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
         "name": "El Alma Musical de RCA",
         "url": "https://open.spotify.com/album/2zOB9t8qly8ZBh4OMpwQ6o"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 274773,
       "name": "Jurame - Remasterizado",
       "url": "https://open.spotify.com/track/0vt3qE8odeBMTPy0tm5sF8"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
+        "name": "Sauce",
+        "url": "https://open.spotify.com/album/0J3ZUsihPAvYKEzuOhoVF7"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 168549,
+      "name": "Sauce",
+      "url": "https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8"
     },
     {
       "added_at": "2023-02-22 16:32:42",

@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Anjos de Resgate",
-  "num_followers": 289588,
+  "num_followers": 289706,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ5ODUyOCwwMDAwMDAwMDE2ODNjZjI3OGYwOTgzZWQwMDA5NTdhMDAyMzcyODlm",
+  "snapshot_id": "MTY3ODQ5ODUyOCwwMDAwMDAwMGI3ZjQwNDI5MjkxNWQ4NzAzMWI5ZjA0ODhmZDNmYjEx",
   "tracks": [
     {
       "added_at": "2023-03-11 01:35:28",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-03-11 01:35:28",
       "album": {
-        "name": "Te Adorar",
-        "url": "https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q"
-      },
-      "artists": [
-        {
-          "name": "Padre Anderson Gomes",
-          "url": "https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9"
-        }
-      ],
-      "duration_ms": 326208,
-      "name": "Te Adorar",
-      "url": "https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ"
-    },
-    {
-      "added_at": "2023-03-11 01:35:28",
-      "album": {
         "name": "Seja Bem-Vindo Jesus",
         "url": "https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 310704,
       "name": "Seja Bem-Vindo Jesus",
       "url": "https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd"
+    },
+    {
+      "added_at": "2023-03-11 01:35:28",
+      "album": {
+        "name": "Te Adorar",
+        "url": "https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q"
+      },
+      "artists": [
+        {
+          "name": "Padre Anderson Gomes",
+          "url": "https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9"
+        }
+      ],
+      "duration_ms": 326208,
+      "name": "Te Adorar",
+      "url": "https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ"
     },
     {
       "added_at": "2023-03-11 01:35:28",

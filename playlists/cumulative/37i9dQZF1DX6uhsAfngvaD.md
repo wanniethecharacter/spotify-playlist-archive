@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1990](https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [1990](https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS) | 1:40 | 2022-07-06 | 2022-08-19 |
+| [1990](https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [1990](https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS) | 1:40 | 2022-07-06 |  |
 | [3am](https://open.spotify.com/track/3e8lI9dQ9q0PHIgTtQPhcH) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [3am](https://open.spotify.com/album/1sMVWxsUWC5UKxKFQYMAKM) | 2:56 | 2021-10-11 | 2022-04-20 |
 | [80's High School](https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:22 | 2020-12-22 |  |
 | [A Second With You](https://open.spotify.com/track/2KeTrh78SDZCwwtmGlgncd) | [Llovers](https://open.spotify.com/artist/0MGqjWWotQzv4HkaNAiWn5) | [A Second With You](https://open.spotify.com/album/3sBelM5IlJE4Cx4ru5TrDl) | 4:08 | 2019-11-19\* | 2020-08-09 |
@@ -89,7 +89,7 @@
 | [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 | 2020-12-22 |  |
 | [Driving in My Car](https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [George Clanton and Nick Hexum](https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7) | 3:37 | 2020-08-09 |  |
 | [Drown](https://open.spotify.com/track/3bGmob8nw4PPfOQTwIirIS) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Drown](https://open.spotify.com/album/5yoQ1d6TathCxE8EJzG3dW) | 4:04 | 2022-04-01 | 2022-08-26 |
-| [Drown](https://open.spotify.com/track/7zOrpg7SHJHRgb9GJqtBLM) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Drown](https://open.spotify.com/album/5FXYJNs1vmtLOb6BibHjJP) | 4:04 | 2022-07-06 |  |
+| [Drown](https://open.spotify.com/track/7zOrpg7SHJHRgb9GJqtBLM) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Drown](https://open.spotify.com/album/5FXYJNs1vmtLOb6BibHjJP) | 4:04 | 2022-07-06 | 2023-03-13 |
 | [Drown](https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:10 | 2022-07-06 |  |
 | [Drown](https://open.spotify.com/track/7EUcNIHj2eWmpGNJF5u0Vh) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 3:10 | 2021-03-26 | 2022-10-14 |
 | [Du pouvoir/Power](https://open.spotify.com/track/2Y0xdEsWhfDAsvtMzFqJ73) | [Halo Maud](https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs) | [Du pouvoir](https://open.spotify.com/album/5otAnfZLjI3n5zsx8eOPKY) | 3:20 | 2019-11-19\* | 2020-08-09 |

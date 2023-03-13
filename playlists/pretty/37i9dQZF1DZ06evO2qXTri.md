@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,843 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,889 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Jesus](https://open.spotify.com/track/01bQcX573Co0x8tfHIID56) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Fight Of My Life](https://open.spotify.com/album/4jOZyxhGDWkhJ5xXZirKDW) | 3:43 |
 | 50 | [I Found You \(feat\. Chandler Moore & Aaron Moses\)](https://open.spotify.com/track/0L8gnCJngwQuhXcr8IwmuT) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh) | 3:34 |
 
-Snapshot ID: `Mjc5NzU3MjcsMDAwMDAwMDBjMGNkNzc5NjVlMzM3ZWUwNjhmYWI5MjcxN2Q5N2EwZQ==`
+Snapshot ID: `Mjc5NzcwOTcsMDAwMDAwMDBiN2Y1YzYwZWNkMjU1YWRhNDQ4ZmE4YWNkZGVlOTc0NQ==`

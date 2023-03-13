@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Periphery
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,885 likes - 56 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,994 likes - 56 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 24 | [RISE](https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [RISE](https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH) | 3:21 |
 | 25 | [Outset](https://open.spotify.com/track/6CQojH7ypPnDzTmQqpZF4q) | [Solitaris](https://open.spotify.com/artist/3FsxQTz4NBLf2ABqDIghzM) | [Siwa](https://open.spotify.com/album/1gzemnp5YPNIugGVdYr3zI) | 2:08 |
 | 26 | [The Sun Still In Me](https://open.spotify.com/track/1DSZ88T235UOUaPpeYPioH) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [The Sun Still In Me](https://open.spotify.com/album/7gAhddndjiNC2XI0Hit7Av) | 4:24 |
-| 27 | [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 |
+| 27 | [Call of the North](https://open.spotify.com/track/1xXDBblDaKJhbuFg7Z1QTI) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/0sZnsZKXYQNSNfFhzfqRwP) | 6:24 |
 | 28 | [What Is Love](https://open.spotify.com/track/4KxWdq5l5UEyZWo3mDmu3P) | [Living in Fiction](https://open.spotify.com/artist/1AQHAqCjfAC3iitV5bd3ET) | [What Is Love](https://open.spotify.com/album/788Lb6S6uVEazT9d4qBxYQ) | 4:05 |
 | 29 | [The Propaganda Machine](https://open.spotify.com/track/6PIVnSNTAXNEF4AJoaHkL0) | [Demonstealer](https://open.spotify.com/artist/7A6AxHa4xv84XTYZVnVxUd), [Anabelle Iratni](https://open.spotify.com/artist/44hl46lOwYwNLIQHUJhj7f), [Ken Bedene](https://open.spotify.com/artist/20lnQx4UGY6vmkJL8hAV0H), [Stian Gundersen](https://open.spotify.com/artist/21hbtsySyHvyWcLz0bpQWc) | [The Propaganda Machine](https://open.spotify.com/album/6Mqek10yZxDQafaW97iX7f) | 3:20 |
 | 30 | [Spleenwise](https://open.spotify.com/track/4uSnsVNiulT8S4peOjPFaU) | [Hangman's Chair](https://open.spotify.com/artist/3jmqk617nnjalSiZUCaaBi) | [Spleenwise](https://open.spotify.com/album/28M9EcdnrCJffyUPu3CVIF) | 6:16 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 55 | [殺戮ロボット\~SATSURIKU ROBOT\~](https://open.spotify.com/track/5nVAcKQMBdfFuF7pXKHZLJ) | [殺戮ロボット](https://open.spotify.com/artist/6ZUvcVBd5S99sIRXdDtLfJ) | [FIRST CONTACT](https://open.spotify.com/album/2EwEqHwwuws8sopjJx9fUP) | 4:18 |
 | 56 | [Max Pain](https://open.spotify.com/track/3riUvve0yfRBi5VXJZE9UH) | [The Banishment](https://open.spotify.com/artist/2psxmd7FANk7sG8jodoOgr), [Richard Patrick](https://open.spotify.com/artist/0vWrIs2jBCcuQMEW3SvnSH) | [Machine and Bone](https://open.spotify.com/album/0XZyJHuQt1Tr707Mkk8PqW) | 3:48 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDA1MzY4MGVkNDg2ZmM3NGE4MTJiZDU0ODZlYTY2ODgz`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDYwMDU4ZDU3YjhkNGEzZDQzNWExMDMyZTVjN2MwNDlk`

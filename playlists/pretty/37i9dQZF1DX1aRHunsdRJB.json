@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 8911,
+  "num_followers": 8914,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDJkNTBjMzc1NTZlZGM0MmVlYmFmNTAyODBjMzg5ZGY2",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGM1NDM1MGVmYjQ5ODljYzE5YmFmZTgyYWM5NzllN2I2",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -699,6 +699,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Yuh Bad Riddim (Soca 2020 Trinidad and Tobago Carnival)",
+        "url": "https://open.spotify.com/album/0Ul4h8cL3XeDeynbkieDpL"
+      },
+      "artists": [
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        },
+        {
+          "name": "Preedy",
+          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+        }
+      ],
+      "duration_ms": 194222,
+      "name": "Yuh Bad (No Stressing)",
+      "url": "https://open.spotify.com/track/5mAQyL3DBWxpNtpBU4LL6m"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Conch Shell",
         "url": "https://open.spotify.com/album/2HAyottRa9yxUIiZXx2xLQ"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 192198,
       "name": "Conch Shell",
       "url": "https://open.spotify.com/track/6NVR4oBAlPuuvpsYSZcyJF"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Yuh Bad Riddim (Soca 2020 Trinidad and Tobago Carnival)",
-        "url": "https://open.spotify.com/album/0Ul4h8cL3XeDeynbkieDpL"
-      },
-      "artists": [
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        },
-        {
-          "name": "Preedy",
-          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
-        }
-      ],
-      "duration_ms": 194222,
-      "name": "Yuh Bad (No Stressing)",
-      "url": "https://open.spotify.com/track/5mAQyL3DBWxpNtpBU4LL6m"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Drue",
-          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
-        }
-      ],
-      "duration_ms": 169241,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Soca Gold 2011",
         "url": "https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 187026,
       "name": "Guh Down",
       "url": "https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Drue",
+          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
+        }
+      ],
+      "duration_ms": 169241,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
     },
     {
       "added_at": "2022-02-24 18:00:00",

@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Born Annoying",
+        "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238106,
+      "name": "Primitive",
+      "url": "https://open.spotify.com/track/4rD9TawMBbDEGY90A9MfUX"
+    },
+    {
+      "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
       },
@@ -776,7 +794,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 234506,
       "name": "Swallowing Everything",
       "url": "https://open.spotify.com/track/7fdCDdBypKbgiHatHUXmcM"

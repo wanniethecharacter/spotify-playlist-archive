@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > I don't care what anyone says but John B and Sarah together is the definition of a teenage dream!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,014,035 likes - 109 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,015,542 likes - 109 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

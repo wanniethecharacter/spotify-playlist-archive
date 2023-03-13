@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 125657,
+  "num_followers": 125738,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDNmN2NjOWM2ODI1ODUzNTIwNWY1MTNlMTRhMGFhNjdl",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDNlNmMxYWFjZjA3YzMwZTYwNjVkYTEyYzkwMmZhYTkz",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "De Musica Ligera",
-        "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
       },
       "artists": [
         {
-          "name": "S\u00e1mdalo",
-          "url": "https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7"
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
         }
       ],
-      "duration_ms": 174096,
-      "name": "De Musica Ligera",
-      "url": "https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT"
+      "duration_ms": 162510,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+        "name": "De Musica Ligera",
+        "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
       },
       "artists": [
         {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+          "name": "S\u00e1mdalo",
+          "url": "https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7"
         }
       ],
-      "duration_ms": 162510,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
+      "duration_ms": 174096,
+      "name": "De Musica Ligera",
+      "url": "https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg"
-      },
-      "artists": [
-        {
-          "name": "Aurelia Goldspark",
-          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Mis Versiones 2",
         "url": "https://open.spotify.com/album/0RgAzvo0x81j4e3jReu4SE"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 196292,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/1QrO86DNflLQ0Y958UtvT8"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg"
+      },
+      "artists": [
+        {
+          "name": "Aurelia Goldspark",
+          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Amigos con derechos",
         "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 160237,
       "name": "Amigos con derechos",
       "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Asi Es La Vida",
-        "url": "https://open.spotify.com/album/4EYa4M7e4FYqBqsJFwt3Vi"
-      },
-      "artists": [
-        {
-          "name": "Pablo Rojas",
-          "url": "https://open.spotify.com/artist/3eZMc1qqbM4whaMy2X14nx"
-        }
-      ],
-      "duration_ms": 284332,
-      "name": "Asi Es La Vida",
-      "url": "https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+        "name": "Asi Es La Vida",
+        "url": "https://open.spotify.com/album/4EYa4M7e4FYqBqsJFwt3Vi"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Pablo Rojas",
+          "url": "https://open.spotify.com/artist/3eZMc1qqbM4whaMy2X14nx"
         }
       ],
-      "duration_ms": 231910,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+      "duration_ms": 284332,
+      "name": "Asi Es La Vida",
+      "url": "https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX"
     },
     {
       "added_at": "2022-02-18 06:00:00",

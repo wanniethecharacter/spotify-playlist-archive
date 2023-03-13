@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Aya Nakamura & Myke Towers",
-  "num_followers": 104901,
+  "num_followers": 104947,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDUyOSwwMDAwMDAwMDllMWNhY2YxOGExOGY1MTUzZTFlYjkzN2JjYTcwODhh",
+  "snapshot_id": "MTY3NzgzMDUyOSwwMDAwMDAwMDA3MzFlMzdlNmNjYzUxY2Y4YmZmMjhiYjlkOTc3YzBm",
   "tracks": [
     {
       "added_at": "2023-02-10 16:08:22",
@@ -247,26 +247,6 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
-        "name": "The Prince I Became",
-        "url": "https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 196857,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/0hRyt5qiE2pwTSAeeUS7lW"
-    },
-    {
-      "added_at": "2023-02-10 16:08:22",
-      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 195428,
       "name": "Fuego (with Sean Paul & Anitta, feat. Tainy)",
       "url": "https://open.spotify.com/track/660eekzsNZ7sdATvfIsAkR"
+    },
+    {
+      "added_at": "2023-02-10 16:08:22",
+      "album": {
+        "name": "The Prince I Became",
+        "url": "https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 196857,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0hRyt5qiE2pwTSAeeUS7lW"
     },
     {
       "added_at": "2023-02-10 16:08:22",
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
     },
     {
-      "added_at": "2023-03-12 01:16:31",
+      "added_at": "2023-03-13 00:25:28",
       "album": {
         "name": "Guava Rose",
         "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"

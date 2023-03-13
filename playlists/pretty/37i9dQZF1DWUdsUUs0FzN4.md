@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > Con licuachela en mano y perreando hasta el piso\. Rosa ✞ Pistola en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,881 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,895 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 10 | [Tra Tra Tra Remix \- Remix](https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [Tra Tra Tra Remix](https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc) | 2:51 |
 | 11 | [ORGANIKO](https://open.spotify.com/track/64tt0ZWc96vUi9Ytn2Jwtc) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:19 |
 | 12 | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG) | 3:01 |
-| 13 | [Tu Sicaria](https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Beauty Brain](https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR) | [Tu Sicaria](https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR) | 2:27 |
-| 14 | [Rebota](https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rebota](https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM) | 3:24 |
-| 15 | [Azote](https://open.spotify.com/track/7IJZyhrttBYZAIwQxmPxuj) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv) | [Azote](https://open.spotify.com/album/2IvC3pPmUw7QDAamPXP0i8) | 1:57 |
+| 13 | [Azote](https://open.spotify.com/track/7IJZyhrttBYZAIwQxmPxuj) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv) | [Azote](https://open.spotify.com/album/2IvC3pPmUw7QDAamPXP0i8) | 1:57 |
+| 14 | [Tu Sicaria](https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Beauty Brain](https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR) | [Tu Sicaria](https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR) | 2:27 |
+| 15 | [Rebota](https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rebota](https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM) | 3:24 |
 | 16 | [Toketeo](https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Toketeo](https://open.spotify.com/album/42gM3PcVUatLaI2izJ6jmz) | 3:23 |
 | 17 | [G Low Kitty](https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [G Low Kitty](https://open.spotify.com/album/6IvwdLnra2eCGtQnCYIXTN) | 3:34 |
 | 18 | [Tiempos de Plan B](https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [Tiempos de Plan B](https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb) | 2:41 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 48 | [La Mano \(feat\. Tavo Rayo\)](https://open.spotify.com/track/3YFt3sGjTaCL0kj3YfV4VG) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Tavo Rayo](https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp) | [La Mano \(feat\. Tavo Rayo\)](https://open.spotify.com/album/2sFm2ViF2986w7ljTNKBoR) | 3:07 |
 | 49 | [Flow Soltera](https://open.spotify.com/track/1TEqM0Fg2wGewCRRkOTjRC) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4), [El Betta](https://open.spotify.com/artist/3FhhcDWeH2qAaHg8Xx4h34), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp) | [Flow Soltera](https://open.spotify.com/album/1i8qCWW4j4DuS60X8VyAqy) | 2:53 |
 
-Snapshot ID: `MTY3ODQyODAwMCwwMDAwMDAwMDJhNWY3OTQ4ODczMTBmNGQ4MWNiMzE0Y2U0MTRhMmFi`
+Snapshot ID: `MTY3ODQyODAwMCwwMDAwMDAwMGQ2YjUxNzk3MTgwMDIxZDQ2MmU1YmNlMzBhZGE4ZmNh`

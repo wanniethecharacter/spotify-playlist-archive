@@ -7200,7 +7200,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
@@ -8308,7 +8308,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 272440,
       "name": "Sonne",
       "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F"
@@ -10064,7 +10064,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 120215,
       "name": "\u0410\u043d\u0442\u0438\u0434\u0435\u043f\u0440\u0435\u0441\u0441\u0430\u043d\u0442",
       "url": "https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI"
@@ -12018,7 +12018,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "\u0413\u0443\u043b\u044f\u044e",
       "url": "https://open.spotify.com/track/6sDGMZXJ3YPgTPHTyz7z8v"
@@ -12142,7 +12142,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 189506,
       "name": "\u0414\u0432\u0430 \u0432\u0456\u043a\u043d\u0430",
       "url": "https://open.spotify.com/track/3gwHKlGINfCgBwBeEJ101L"
@@ -13668,7 +13668,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 132258,
       "name": "\u041a\u041e\u0417\u0410\u0426\u042c\u041a\u041e\u041c\u0423_\u0420\u041e\u0414\u0423",
       "url": "https://open.spotify.com/track/6NePBUCeIGqfnIQag5crC0"
@@ -15014,6 +15014,24 @@
       "duration_ms": 190586,
       "name": "\u041d\u0415 **\u041b\u0410\u041d\u042c",
       "url": "https://open.spotify.com/track/2wxXdVYalqmyon6tqcujQV"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0435 \u0431\u043e\u043b\u0435\u0435",
+        "url": "https://open.spotify.com/album/1rNAttWdYGYHjnSdV6g8uL"
+      },
+      "artists": [
+        {
+          "name": "keendy",
+          "url": "https://open.spotify.com/artist/6rLpWDWkdLmb4TEKqYsgQK"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158709,
+      "name": "\u041d\u0435 \u0431\u043e\u043b\u0435\u0435",
+      "url": "https://open.spotify.com/track/0jKcVTzhUmWPFSG8zCQXDL"
     },
     {
       "album": {
@@ -18634,7 +18652,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 149584,
       "name": "\u0425\u0432\u0438\u043b\u044f\u043c\u0438",
       "url": "https://open.spotify.com/track/5u6TLP2prHSvtKi0SPUKFI"

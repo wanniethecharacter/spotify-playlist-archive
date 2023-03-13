@@ -1,12 +1,12 @@
 {
   "description": "All your favourite mood boosting bangers...",
-  "num_followers": 552310,
+  "num_followers": 552417,
   "original_name": "Happy Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ2NzU5MiwwMDAwMDAwMGQ4MThhNjdhZDdhM2ZlZGI0ZTA3OWJmNjVmMWQ1M2U0",
+  "snapshot_id": "MTY3ODQ2NzU5MiwwMDAwMDAwMDYyOTllZGQwMWE4YzZlZmEyNjljMzUzZDVkOTliZDIx",
   "tracks": [
     {
       "added_at": "2023-03-03 15:32:44",
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
-      "added_at": "2023-03-12 00:40:41",
+      "added_at": "2023-03-13 00:54:45",
       "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
-      "added_at": "2023-03-12 00:40:41",
+      "added_at": "2023-03-13 00:54:45",
       "album": {
         "name": "Can't Tame Her",
         "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
@@ -629,6 +629,22 @@
       "url": "https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0"
     },
     {
+      "added_at": "2023-03-13 00:54:45",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
       "added_at": "2023-03-03 15:32:44",
       "album": {
         "name": "Lionheart (Fearless)",
@@ -647,22 +663,6 @@
       "duration_ms": 186689,
       "name": "Lionheart (Fearless)",
       "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
-    },
-    {
-      "added_at": "2023-03-12 00:40:41",
-      "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2023-03-03 15:32:44",
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
     },
     {
-      "added_at": "2023-03-12 00:40:41",
+      "added_at": "2023-03-13 00:54:45",
       "album": {
         "name": "Whistle (feat. Calum Scott)",
         "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"

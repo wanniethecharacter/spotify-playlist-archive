@@ -1,15 +1,15 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Chuu & KIM YOHAN)",
-  "num_followers": 381558,
+  "num_followers": 381687,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxMTE2NSwwMDAwMDAwMDQwMTkwNmNjN2FiYTEwMjZjMTk0ZDMzNmJkMTVkYTRh",
+  "snapshot_id": "MTY3NzIxMTE2NSwwMDAwMDAwMGYwZTNiZTdlMThlNDRiMzNjZDgzZWYwMzBmZjdhN2Nl",
   "tracks": [
     {
-      "added_at": "2023-03-12 00:51:33",
+      "added_at": "2023-03-13 00:26:03",
       "album": {
         "name": "Let's Love",
         "url": "https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P"
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-01-25 07:51:52",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO+",
-          "url": "https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 186880,
-      "name": "Better (Feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj"
-    },
-    {
-      "added_at": "2023-01-25 07:51:52",
-      "album": {
         "name": "Ghosting",
         "url": "https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 220693,
       "name": "Ghosting (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub"
+    },
+    {
+      "added_at": "2023-01-25 07:51:52",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO+",
+          "url": "https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 186880,
+      "name": "Better (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj"
     },
     {
       "added_at": "2023-01-25 07:51:52",

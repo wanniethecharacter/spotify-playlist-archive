@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Juan Pablo Vega & Ximena Sariñana
 
-284 songs - 15 hr 50 min
+285 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Junto a Ti](https://open.spotify.com/track/7aF0TCs1HeKfu56uN8aqIo) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN), [Charly Salas](https://open.spotify.com/artist/4IMyzWU8HAKXwl0b1d3fzw) | [777](https://open.spotify.com/album/1ycyPY7nsBl0ijtskuAiAP) | 3:52 | 2021-11-18 | 2022-07-29 |
 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 | 2023-03-03 |  |
 | [La Ciudad](https://open.spotify.com/track/2YAhz9BUgMniYM1WNfLpkL) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN), [Charly Salas](https://open.spotify.com/artist/4IMyzWU8HAKXwl0b1d3fzw) | [La Ciudad](https://open.spotify.com/album/3tBSAGb71ctG9hvVmQFDwW) | 4:29 | 2022-01-10 | 2022-07-26 |
+| [La Liga](https://open.spotify.com/track/6UQTe9BzsgLaqWXxSV7lEQ) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 4:28 | 2023-03-10 |  |
 | [LA MOLINA](https://open.spotify.com/track/0GZDERiGPr1F3SRs4l7muB) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [LA MOLINA](https://open.spotify.com/album/4vE0Gbo7nKNDdXyhiDuIk8) | 2:43 | 2022-06-29 | 2022-11-24 |
 | [LA MOLINA](https://open.spotify.com/track/5KUoS5Kqhnvk39feoFxD3v) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [LA MOLINA](https://open.spotify.com/album/6DNKhWVJlyGtBMBLLUvs6r) | 2:43 | 2021-11-18 | 2022-07-29 |
 | [LA RUTA NATURAL](https://open.spotify.com/track/0AYuekoqdajrQ00H0Cq0tt) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [LA RUTA NATURAL](https://open.spotify.com/album/0whMdPH7cZKZF8OzgkxiCp) | 3:17 | 2022-12-09 |  |
@@ -251,7 +252,7 @@
 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2021-11-18 | 2022-08-12 |
 | [te quiero tanto](https://open.spotify.com/track/04aBuWoZeHYJeDDTWYSgso) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 5:25 | 2022-11-24 | 2023-02-18 |
 | [Tenemos que hablar](https://open.spotify.com/track/1pSwtcaRE3LbpKiOK00l4N) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Tenemos que hablar](https://open.spotify.com/album/4bza078y7xvT1KpPoVzbx2) | 3:33 | 2023-03-10 |  |
-| [Tenue](https://open.spotify.com/track/32gceUYIU0mndsBGg5DGRm) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Tenue](https://open.spotify.com/album/0RkQGiKeZoF42TjtmUE6Xk) | 2:44 | 2023-03-10 |  |
+| [Tenue](https://open.spotify.com/track/32gceUYIU0mndsBGg5DGRm) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Tenue](https://open.spotify.com/album/0RkQGiKeZoF42TjtmUE6Xk) | 2:44 | 2023-03-10 | 2023-03-13 |
 | [the party](https://open.spotify.com/track/2refb65AS7jf0ILJnlXX5y) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [crash landing](https://open.spotify.com/album/6GP7ELTsVdcALvRbD8Qm1X) | 3:49 | 2023-03-10 |  |
 | [Tiemblo](https://open.spotify.com/track/2OD77ATmB5UFTVVGu49PLD) | [Lucía Covarrubias](https://open.spotify.com/artist/1PkahVFP71A6sk6Ww0ZSi1) | [Tiemblo](https://open.spotify.com/album/6j7dofd6X0Cr4Y1xewzC2G) | 2:58 | 2022-09-06 | 2022-10-28 |
 | [tiempo](https://open.spotify.com/track/535DppotJEFD9C8636VIYQ) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 3:10 | 2023-03-10 |  |

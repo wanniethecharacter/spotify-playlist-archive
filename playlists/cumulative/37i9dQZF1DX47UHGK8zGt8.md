@@ -4,7 +4,7 @@
 
 > Músicas calminhas pra começar o dia bem relax.
 
-183 songs - 10 hr 31 min
+184 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Amado](https://open.spotify.com/track/1UehyRYWHQxfj52XJbswIv) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Sim](https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC) | 4:09 | 2022-02-18 | 2022-07-29 |
 | [Amor de Cão](https://open.spotify.com/track/4y7DKv0aPbnBOr4N4Zmarg) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [Amor de Cão](https://open.spotify.com/album/6hl4tj4SIx6rK8mxFTKIuo) | 2:52 | 2022-04-01 | 2022-04-20 |
 | [Amor Pra Descansar](https://open.spotify.com/track/3KVl56p20G8S3Mz7oYaSy6) | [Badulaque](https://open.spotify.com/artist/0dAAgcwcLoZkVH9EYgTIrr) | [Amor Pra Descansar](https://open.spotify.com/album/1K7psoyO0lBinkVsYaAwJA) | 3:39 | 2022-03-11 | 2022-04-21 |
-| [Andarilho](https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Andarilho](https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0) | 3:50 | 2022-02-18 |  |
+| [Andarilho](https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Andarilho](https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0) | 3:50 | 2022-02-18 | 2023-03-13 |
 | [Aquarela: Aviador](https://open.spotify.com/track/2zHfO8ye2LPw4r8cjgh7UD) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg), [Juliano Moreira](https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL), [Aquarela](https://open.spotify.com/artist/0ly4o2fdFAf19DOOC0vv8m), [Brenda Luce](https://open.spotify.com/artist/0Tlf2OcP0TAOc6Y3RqJ9Qz), [Glenda Rolim](https://open.spotify.com/artist/2NqjLcW1LVMYcIcTV5J1WO) | [Aquarela: Aviador](https://open.spotify.com/album/180pnhueoUeVKiOyiRR2DO) | 4:25 | 2022-02-18 | 2022-07-29 |
 | [Aquele Frevo Axé](https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Aquele Frevo Axé](https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE) | 3:52 | 2022-04-01 | 2022-04-20 |
 | [Asas](https://open.spotify.com/track/1lmcHmrnwCl21OcPRY3ZVb) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 4:34 | 2022-04-01 | 2022-04-20 |
@@ -165,6 +165,7 @@
 | [Tenha do Seu Lado](https://open.spotify.com/track/7iRxsuKe44yvOYMypoBnzs) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Tenha Do Seu Lado](https://open.spotify.com/album/3xbo5AXOm0UgWVt71j52d3) | 3:22 | 2022-02-18 | 2022-07-29 |
 | [Tetas Totais](https://open.spotify.com/track/1LTDVFVKmRzayPR2m97gym) | [MANA](https://open.spotify.com/artist/0yCwm7IY2ypxgGogCqpp5W), [Maria Ó](https://open.spotify.com/artist/5m4ExqaQ9Z2JMzgzKZVSgc), [Nathalia Ferro](https://open.spotify.com/artist/2J14HmtqgidEeZ0ngYzOWD) | [Nada Permanece](https://open.spotify.com/album/5l6lRx3yo2PRr5hHuiO7xh) | 2:59 | 2022-04-01 | 2022-04-12 |
 | [Teu Bloco](https://open.spotify.com/track/5GbVbW6dqmkZz9zYqIb65j) | [KRU! Produtora](https://open.spotify.com/artist/5uUoNn9Qwc3rGspP998wtW), [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Teu Bloco](https://open.spotify.com/album/1DtcYi6byli9MfYSCzNSk2) | 2:26 | 2022-02-18 | 2022-07-29 |
+| [Toda Beleza](https://open.spotify.com/track/4yPKVW76qe5VWOK4WOUsZa) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:06 | 2023-03-11 |  |
 | [Toda Manhã](https://open.spotify.com/track/6lmSM41n29qLnp4dnawFSS) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Toda Manhã](https://open.spotify.com/album/71bzvUqB464u17RWMKkPOu) | 3:41 | 2022-04-01 | 2022-04-20 |
 | [Todo Carinho](https://open.spotify.com/track/118239i3aWkav7mlAmldh9) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 4:29 | 2022-04-01 | 2022-04-17 |
 | [Todo Dia](https://open.spotify.com/track/5llLJnrQq6shUp9uptOkPx) | [Carol Mainá](https://open.spotify.com/artist/36Ttpg703LUOHbSL9iohXu) | [Carol Mainá](https://open.spotify.com/album/440jJk2ORhCL2O50ZTvpDR) | 2:39 | 2022-04-01 | 2022-04-18 |

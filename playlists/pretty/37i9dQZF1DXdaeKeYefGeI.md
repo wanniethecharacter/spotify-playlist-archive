@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Stef Bos
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,883 likes - 97 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,908 likes - 97 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 3 | [Avond](https://open.spotify.com/track/5Gc1NPkUBjkARUkH1Giwvh) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Een Nieuwe Herfst](https://open.spotify.com/album/42aDAwpl9kwSea1a8KRiL6) | 4:36 |
 | 4 | [Voor Haar](https://open.spotify.com/track/5oSNx87hsjk0Nz0pdQcdct) | [Frans Halsema](https://open.spotify.com/artist/6AppB7gke4WXNRhtlTdSJy) | [Favorieten Expres](https://open.spotify.com/album/4wtJJageS0xLtoxiqvgQZf) | 2:51 |
 | 5 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 |
-| 6 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 |
+| 6 | [Oceaan](https://open.spotify.com/track/1YwR7Y6AmiaWEXFweKnTbj) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [Oceaan](https://open.spotify.com/album/0wIJiV022gnasuXF4vWT2r) | 2:42 |
 | 7 | [Anne](https://open.spotify.com/track/33fJyGfQksR6hDzJCJUkrg) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 3:45 |
 | 8 | [Door De Wind](https://open.spotify.com/track/3h7NZT1CATbn4GqUs51vwf) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2020 \(Miss Montreal\)](https://open.spotify.com/album/6g8ZS309YWXN7pUzfBQYhB) | 2:50 |
 | 9 | [Vallen en Weer Opstaan](https://open.spotify.com/track/4jkmmV57x7CY8K4f0wKbi3) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Vallen en Weer Opstaan](https://open.spotify.com/album/5qWstIv3DEVpfUvfXHCCHu) | 3:45 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 96 | [Kronenburg Park](https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Foto Van Een Mooie Dag](https://open.spotify.com/album/69JWMizDVll3nRlU7YIEEF) | 4:03 |
 | 97 | [Mooie Dag](https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:38 |
 
-Snapshot ID: `MTY3ODMxMjE5NSwwMDAwMDAwMDVmNmU2OWY2ZmJlNjQzNmNhNjIwZWQ5MDU0ZDdkYWQ1`
+Snapshot ID: `MTY3ODMxMjE5NSwwMDAwMDAwMGU0M2FjYjIyMmQ4Y2Q3ZDE5OWY4ZWI1MzJmNjM3OTRh`

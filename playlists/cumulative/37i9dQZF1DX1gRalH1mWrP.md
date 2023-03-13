@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,079 songs - 2 day 7 hr 46 min
+1,080 songs - 2 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-10-12 | 2021-10-13 |
 | [I Wanted My Heart to Break](https://open.spotify.com/track/1XzBkGMqeenkz0x0ROXHZK) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [I Wanted My Heart to Break](https://open.spotify.com/album/4cbuvR3gH9Uc02ao0hzzpG) | 3:47 | 2022-04-29 | 2022-07-29 |
 | [I Warned Myself](https://open.spotify.com/track/3707IBa4HnS3zDDoWfeUBl) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [I Warned Myself](https://open.spotify.com/album/3TDyDrYb9qx7DtGWXqvLfW) | 2:39 | 2019-08-24 | 2020-04-29 |
+| [I Wrote A Song](https://open.spotify.com/track/0rO1zf0e7l8s7PRjchQpyn) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Wrote A Song](https://open.spotify.com/album/7JTww9J0sqx8tqm872Nsnu) | 2:45 | 2023-03-10 |  |
 | [I'll Be There](https://open.spotify.com/track/5I9roFAsT3luU6UEVkcPV1) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [I'll Be There](https://open.spotify.com/album/0y1E7OmPqFpOHPZzUrNqHG) | 2:49 | 2019-08-24 | 2020-04-29 |
 | [I'll Wait](https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I'll Wait](https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC) | 3:35 | 2020-04-29 | 2020-05-01 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-26 |  |
@@ -890,7 +891,7 @@
 | [Stupid Love](https://open.spotify.com/track/2kJu14V7hbZw3I4K8L8SXb) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Stupid Love](https://open.spotify.com/album/2HDW1EX8IBI3jqobswAfrZ) | 3:13 | 2020-04-29 | 2020-05-09 |
 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 | 2019-06-08 | 2019-08-13 |
 | [Sucker](https://open.spotify.com/track/4y3OI86AEP6PQoDE6olYhO) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Sucker](https://open.spotify.com/album/4W0r9HOcuCC6Vh7aze2hwi) | 3:01 | 2019-05-26\* | 2019-06-15 |
-| [Sugar \(feat\. Soaky Siren\)](https://open.spotify.com/track/6OHQzBYaXeF6FVu8gxLMkE) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC) | [Sugar \(feat\. Soaky Siren\)](https://open.spotify.com/album/5r4LmZOSMh4xN8tjg3WzkO) | 2:24 | 2023-03-07 |  |
+| [Sugar \(feat\. Soaky Siren\)](https://open.spotify.com/track/6OHQzBYaXeF6FVu8gxLMkE) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC) | [Sugar \(feat\. Soaky Siren\)](https://open.spotify.com/album/5r4LmZOSMh4xN8tjg3WzkO) | 2:24 | 2023-03-07 | 2023-03-13 |
 | [SugarCrash! \(feat\. Kim Petras & Curtis Waters\)](https://open.spotify.com/track/6wGOOMMVgaT9LEi2y9jeq1) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [SugarCrash! \(feat\. Kim Petras & Curtis Waters\)](https://open.spotify.com/album/090OCbV4MnPE2OPapkj7ZB) | 2:32 | 2021-04-30 | 2021-06-05 |
 | [Summer Days \(feat\. Macklemore & Patrick Stump of Fall Out Boy\)](https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Summer Days \(feat\. Macklemore & Patrick Stump of Fall Out Boy\)](https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR) | 2:43 | 2019-05-26\* | 2020-04-29 |
 | [Summer Feelings \(feat\. Charlie Puth\)](https://open.spotify.com/track/7l7SKt5BsDiiS6CjtaW1fO) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:40 | 2020-05-17 | 2021-04-30 |

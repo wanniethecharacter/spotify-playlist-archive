@@ -873,6 +873,32 @@
     },
     {
       "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/6T069OH10Fo4kfJGO6kiWG"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211485,
+      "name": "Fallacy",
+      "url": "https://open.spotify.com/track/4Fqh26b1r31ome2J0U9Tri"
+    },
+    {
+      "album": {
         "name": "Highest",
         "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
       },
@@ -2902,7 +2928,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 213333,
       "name": "Your Waist",
       "url": "https://open.spotify.com/track/3JrGJpTH22g43YrSWuW4df"

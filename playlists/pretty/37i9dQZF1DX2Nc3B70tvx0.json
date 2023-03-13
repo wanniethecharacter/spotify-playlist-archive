@@ -1,12 +1,12 @@
 {
   "description": "The best in modern indie. Cover: Beabadoobee",
-  "num_followers": 2218040,
+  "num_followers": 2218118,
   "original_name": "Ultimate Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwOTgzNSwwMDAwMDAwMDgxODZlODE1NWEyNjUwNjcxNTAyODdhNmJkYmMxNDE1",
+  "snapshot_id": "MTY3ODQwOTgzNSwwMDAwMDAwMGZlZmY5Y2QyM2UxZjhiZTVhMTdkM2Y1MmEyZmE2Y2Ix",
   "tracks": [
     {
       "added_at": "2023-03-08 18:59:29",
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
-      "added_at": "2023-03-12 01:07:47",
+      "added_at": "2023-03-13 01:06:34",
       "album": {
         "name": "Impurities",
         "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
@@ -199,22 +199,18 @@
     {
       "added_at": "2023-02-27 22:28:50",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "The Perfect Girl",
+        "url": "https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         }
       ],
-      "duration_ms": 218586,
-      "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
+      "duration_ms": 194423,
+      "name": "The Perfect Girl",
+      "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
     },
     {
       "added_at": "2023-02-27 22:28:50",
@@ -235,18 +231,22 @@
     {
       "added_at": "2023-02-27 22:28:50",
       "album": {
-        "name": "The Perfect Girl",
-        "url": "https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 194423,
-      "name": "The Perfect Girl",
-      "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
+      "duration_ms": 218586,
+      "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
     },
     {
       "added_at": "2023-02-27 22:28:50",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-02-27 22:28:50",
       "album": {
-        "name": "Put Your Records On",
-        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
-      },
-      "artists": [
-        {
-          "name": "Ritt Momney",
-          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
-        }
-      ],
-      "duration_ms": 210463,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
-    },
-    {
-      "added_at": "2023-02-27 22:28:50",
-      "album": {
         "name": "Ghosts Again",
         "url": "https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 238945,
       "name": "Ghosts Again",
       "url": "https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV"
+    },
+    {
+      "added_at": "2023-02-27 22:28:50",
+      "album": {
+        "name": "Put Your Records On",
+        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
+      },
+      "artists": [
+        {
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+        }
+      ],
+      "duration_ms": 210463,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
     },
     {
       "added_at": "2023-02-27 22:28:50",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-02-27 22:28:50",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
-    },
-    {
-      "added_at": "2023-02-27 22:28:50",
-      "album": {
         "name": "orange blood",
         "url": "https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 145833,
       "name": "missin something",
       "url": "https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt"
+    },
+    {
+      "added_at": "2023-02-27 22:28:50",
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
       "added_at": "2023-02-27 22:28:50",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-02-27 22:28:50",
       "album": {
-        "name": "girlfriend",
-        "url": "https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 133150,
-      "name": "girlfriend",
-      "url": "https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx"
-    },
-    {
-      "added_at": "2023-02-27 22:28:50",
-      "album": {
         "name": "Ring of Past",
         "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 201523,
       "name": "Ring of Past",
       "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
+    },
+    {
+      "added_at": "2023-02-27 22:28:50",
+      "album": {
+        "name": "girlfriend",
+        "url": "https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 133150,
+      "name": "girlfriend",
+      "url": "https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx"
     },
     {
       "added_at": "2023-02-27 22:28:50",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-02-27 22:28:50",
       "album": {
-        "name": "(You) On My Arm",
-        "url": "https://open.spotify.com/album/4DOK0sUNU39awhzjWS3JL6"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 245845,
-      "name": "(You) On My Arm",
-      "url": "https://open.spotify.com/track/5amHfOkbZVOopRkYqB4aqL"
-    },
-    {
-      "added_at": "2023-02-27 22:28:50",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
       },
@@ -705,7 +689,7 @@
       "url": "https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271"
     },
     {
-      "added_at": "2023-03-12 01:07:47",
+      "added_at": "2023-03-13 01:06:34",
       "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk"
@@ -719,6 +703,22 @@
       "duration_ms": 145093,
       "name": "Dummy",
       "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
+    },
+    {
+      "added_at": "2023-02-27 22:28:50",
+      "album": {
+        "name": "(You) On My Arm",
+        "url": "https://open.spotify.com/album/4DOK0sUNU39awhzjWS3JL6"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 245845,
+      "name": "(You) On My Arm",
+      "url": "https://open.spotify.com/track/5amHfOkbZVOopRkYqB4aqL"
     },
     {
       "added_at": "2023-02-27 22:28:50",
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6"
     },
     {
-      "added_at": "2023-03-12 01:07:47",
+      "added_at": "2023-03-13 01:06:34",
       "album": {
         "name": "To Love",
         "url": "https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK"
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-02-27 22:28:50",
       "album": {
-        "name": "Echolalia",
-        "url": "https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 180146,
-      "name": "Echolalia",
-      "url": "https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p"
-    },
-    {
-      "added_at": "2023-02-27 22:28:50",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2023-02-27 22:28:50",
       "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 383866,
+      "name": "Ptolemaea",
+      "url": "https://open.spotify.com/track/29LsI5izZL8txZEJhegSBs"
+    },
+    {
+      "added_at": "2023-02-27 22:28:50",
+      "album": {
         "name": "Best Disaster",
         "url": "https://open.spotify.com/album/5BMoArQlFykRWUh120Hcdh"
       },
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-02-27 22:28:50",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+        "name": "Echolalia",
+        "url": "https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
         }
       ],
-      "duration_ms": 383866,
-      "name": "Ptolemaea",
-      "url": "https://open.spotify.com/track/29LsI5izZL8txZEJhegSBs"
+      "duration_ms": 180146,
+      "name": "Echolalia",
+      "url": "https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p"
     },
     {
       "added_at": "2023-02-27 22:28:50",
@@ -971,34 +971,6 @@
     {
       "added_at": "2023-02-27 22:28:50",
       "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 200093,
-      "name": "$20",
-      "url": "https://open.spotify.com/track/1yCpIUNj2Lastwc0NrrhGP"
-    },
-    {
-      "added_at": "2023-02-27 22:28:50",
-      "album": {
         "name": "Bubblegum",
         "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
       },
@@ -1043,6 +1015,34 @@
       "duration_ms": 250653,
       "name": "Love Will Get You There",
       "url": "https://open.spotify.com/track/4ycaDB5s90BpUyaS5nZwcI"
+    },
+    {
+      "added_at": "2023-02-27 22:28:50",
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 200093,
+      "name": "$20",
+      "url": "https://open.spotify.com/track/1yCpIUNj2Lastwc0NrrhGP"
     },
     {
       "added_at": "2023-02-27 22:28:50",
@@ -1141,6 +1141,22 @@
       "url": "https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK"
     },
     {
+      "added_at": "2023-03-13 01:06:34",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 183852,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
+    },
+    {
       "added_at": "2023-02-27 22:28:50",
       "album": {
         "name": "Lose You (feat. Soccer Mommy)",
@@ -1159,6 +1175,22 @@
       "duration_ms": 175386,
       "name": "Lose You (feat. Soccer Mommy)",
       "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
+    },
+    {
+      "added_at": "2023-03-13 01:06:34",
+      "album": {
+        "name": "Pineapple Sunrise",
+        "url": "https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 176349,
+      "name": "Pineapple Sunrise",
+      "url": "https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n"
     },
     {
       "added_at": "2023-02-27 22:28:50",
@@ -1193,38 +1225,6 @@
       "url": "https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS"
     },
     {
-      "added_at": "2023-03-12 01:07:47",
-      "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 183852,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
-    },
-    {
-      "added_at": "2023-03-12 01:07:47",
-      "album": {
-        "name": "Pineapple Sunrise",
-        "url": "https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 176349,
-      "name": "Pineapple Sunrise",
-      "url": "https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n"
-    },
-    {
       "added_at": "2023-02-28 01:49:32",
       "album": {
         "name": "All We've Ever Wanted",
@@ -1239,6 +1239,22 @@
       "duration_ms": 183858,
       "name": "All We've Ever Wanted",
       "url": "https://open.spotify.com/track/3dKzgSWLkbPmPnsWf8BYxs"
+    },
+    {
+      "added_at": "2023-02-28 16:33:07",
+      "album": {
+        "name": "Idaho Alien",
+        "url": "https://open.spotify.com/album/7734YWKxouZ4bqar1pn8uY"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "duration_ms": 203166,
+      "name": "Idaho Alien",
+      "url": "https://open.spotify.com/track/7rFf9Pj2Td5lckif90QQkP"
     },
     {
       "added_at": "2023-02-27 22:28:50",
@@ -1261,36 +1277,20 @@
       "url": "https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62"
     },
     {
-      "added_at": "2023-02-28 16:33:07",
-      "album": {
-        "name": "Idaho Alien",
-        "url": "https://open.spotify.com/album/7734YWKxouZ4bqar1pn8uY"
-      },
-      "artists": [
-        {
-          "name": "Youth Lagoon",
-          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
-        }
-      ],
-      "duration_ms": 203166,
-      "name": "Idaho Alien",
-      "url": "https://open.spotify.com/track/7rFf9Pj2Td5lckif90QQkP"
-    },
-    {
       "added_at": "2023-02-27 22:28:50",
       "album": {
-        "name": "Younger & Dumber",
-        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 279040,
-      "name": "Younger & Dumber",
-      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
+      "duration_ms": 385653,
+      "name": "God Turn Me Into a Flower",
+      "url": "https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5"
     }
   ],
   "unique_name": "Ultimate Indie",

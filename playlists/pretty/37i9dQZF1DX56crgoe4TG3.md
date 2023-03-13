@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,909 likes - 129 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,972 likes - 129 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

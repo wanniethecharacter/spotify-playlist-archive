@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 102823,
+  "num_followers": 102843,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc2MjAwMCwwMDAwMDAwMGI0ZjY0NWM2NTgyZmE2NTM5YTlkYjcwMDA2OTg0NDM4",
+  "snapshot_id": "MTY3Nzc2MjAwMCwwMDAwMDAwMDY4MmYyOGQ4ZmQ2NDZmYzhjZDFkM2VmYmM0NTdjODI2",
   "tracks": [
     {
       "added_at": "2023-02-09 13:00:00",
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
     },
     {
-      "added_at": "2023-03-12 01:08:14",
+      "added_at": "2023-03-13 00:25:29",
       "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF"
     },
     {
-      "added_at": "2023-03-12 01:08:14",
+      "added_at": "2023-03-13 00:25:29",
       "album": {
         "name": "Don\u2019t Get Too Close",
         "url": "https://open.spotify.com/album/7y03BXt9jGpDHvQ01knCXE"
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Please Keep Shimmering",
-        "url": "https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV"
-      },
-      "artists": [
-        {
-          "name": "Tom VR",
-          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
-        }
-      ],
-      "duration_ms": 263842,
-      "name": "Keep Shimmering",
-      "url": "https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "the come up",
         "url": "https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 271717,
       "name": "lights up",
       "url": "https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Please Keep Shimmering",
+        "url": "https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV"
+      },
+      "artists": [
+        {
+          "name": "Tom VR",
+          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
+        }
+      ],
+      "duration_ms": 263842,
+      "name": "Keep Shimmering",
+      "url": "https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
     },
     {
-      "added_at": "2023-03-12 01:08:14",
+      "added_at": "2023-03-13 00:25:29",
       "album": {
         "name": "MY DEAR",
         "url": "https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
     },
     {
-      "added_at": "2023-03-12 01:08:14",
+      "added_at": "2023-03-13 00:25:29",
       "album": {
         "name": "Mike (desert island duvet)",
         "url": "https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
     },
     {
-      "added_at": "2023-03-12 01:08:14",
+      "added_at": "2023-03-13 00:25:29",
       "album": {
         "name": "Cellular",
         "url": "https://open.spotify.com/album/7bIMKKz8nkjnlBJa2ti4GP"
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Someone Close",
-        "url": "https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 492316,
-      "name": "Someone Close",
-      "url": "https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Closure (feat. Helena)",
         "url": "https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 270536,
       "name": "Closure (feat. Helena)",
       "url": "https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Someone Close",
+        "url": "https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 492316,
+      "name": "Someone Close",
+      "url": "https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "The Corner",
-        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
-      },
-      "artists": [
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "The Corner",
-      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Inperspect",
         "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 498001,
       "name": "Inperspect",
       "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "The Corner",
+        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "The Corner",
+      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1029,7 +1029,23 @@
       "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
     },
     {
-      "added_at": "2023-03-12 01:08:14",
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/6nxJBK0M3lFEoFq1aPYshe"
+      },
+      "artists": [
+        {
+          "name": "Waleed",
+          "url": "https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs"
+        }
+      ],
+      "duration_ms": 298285,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa"
+    },
+    {
+      "added_at": "2023-03-13 00:25:29",
       "album": {
         "name": "Have You Felt Lately? (Brijean Remix)",
         "url": "https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM"
@@ -1047,22 +1063,6 @@
       "duration_ms": 238826,
       "name": "Have You Felt Lately? - Brijean Remix",
       "url": "https://open.spotify.com/track/0wR3uEmtFQLqNVkXbB219d"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/6nxJBK0M3lFEoFq1aPYshe"
-      },
-      "artists": [
-        {
-          "name": "Waleed",
-          "url": "https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs"
-        }
-      ],
-      "duration_ms": 298285,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 282349,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Boo's Mood",
         "url": "https://open.spotify.com/album/37XnGed9rFSMci9ljdWSOQ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 263348,
       "name": "Boo's Mood",
       "url": "https://open.spotify.com/track/3NpY3kZ5NDJVZZDjzAlBaz"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 282349,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1211,18 +1211,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Can Do This",
-        "url": "https://open.spotify.com/album/5w3STvdHA4A5p1mgLPSITW"
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
       },
       "artists": [
         {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 228609,
-      "name": "Eyes On Me",
-      "url": "https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup"
+      "duration_ms": 387160,
+      "name": "Baby, We're Ascending",
+      "url": "https://open.spotify.com/track/614NfZjf8rMY2bErgwhzR5"
     }
   ],
   "unique_name": "Night Shift",

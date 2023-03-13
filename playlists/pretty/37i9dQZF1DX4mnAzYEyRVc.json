@@ -1,12 +1,12 @@
 {
   "description": "The world series of Ska. Cover: The Interrupters",
-  "num_followers": 27970,
+  "num_followers": 28038,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ2MDUyMiwwMDAwMDAwMGU1OWQzODg5YjQyMTdmMGU1MjgyYTE2YWMyMjM4ODJm",
+  "snapshot_id": "MTY3ODQ2MDUyMiwwMDAwMDAwMGY3OTAwMmZlMzZjZmFjNDBlOWY5OGYwZDE1ZmE2MTc4",
   "tracks": [
     {
       "added_at": "2021-12-06 21:30:06",
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/7Jy41XI7wVBnXvOifdoaxG"
     },
     {
-      "added_at": "2023-03-12 01:07:53",
+      "added_at": "2023-03-13 01:21:21",
       "album": {
         "name": "Safe or Sorry",
         "url": "https://open.spotify.com/album/06p4vWmw3gJHB8ayj8ZWoG"
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Let's Face It",
-        "url": "https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "The Impression That I Get",
-      "url": "https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 136146,
       "name": "Wrong Way",
       "url": "https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Let's Face It",
+        "url": "https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "The Impression That I Get",
+      "url": "https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -415,18 +415,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
+        "name": "The Specials (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
       },
       "artists": [
         {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
         }
       ],
-      "duration_ms": 245481,
-      "name": "C\u00edrculo De Amor",
-      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
+      "duration_ms": 172920,
+      "name": "A Message to You Rudy - 2015 Remaster",
+      "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -479,18 +479,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "The Specials (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
       "artists": [
         {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
         }
       ],
-      "duration_ms": 172920,
-      "name": "A Message to You Rudy - 2015 Remaster",
-      "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
+      "duration_ms": 245481,
+      "name": "C\u00edrculo De Amor",
+      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
-      },
-      "artists": [
-        {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Tu Alma M\u00eda / Adelita",
-      "url": "https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "L\u00e1grimas y Risas",
         "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 233253,
       "name": "Ciegos de Amor",
       "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Tu Alma M\u00eda / Adelita",
+      "url": "https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Wonders Of The World",
-        "url": "https://open.spotify.com/album/1mL3ujun8jq6Jd8Mp24kp6"
-      },
-      "artists": [
-        {
-          "name": "Long Beach Dub Allstars",
-          "url": "https://open.spotify.com/artist/3zAxGWQqKmDnAsCY57ihKR"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Rolled Up",
-      "url": "https://open.spotify.com/track/6K8hK9VfSqlOWby6v4O0a8"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "El Ska No Est\u00e1 en Extinci\u00f3n",
         "url": "https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 238013,
       "name": "Mi Coraz\u00f3n Encantado",
       "url": "https://open.spotify.com/track/11BRj7ewITunxgcHnujXQH"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Wonders Of The World",
+        "url": "https://open.spotify.com/album/1mL3ujun8jq6Jd8Mp24kp6"
+      },
+      "artists": [
+        {
+          "name": "Long Beach Dub Allstars",
+          "url": "https://open.spotify.com/artist/3zAxGWQqKmDnAsCY57ihKR"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "Rolled Up",
+      "url": "https://open.spotify.com/track/6K8hK9VfSqlOWby6v4O0a8"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
+        "name": "A Poets Life",
+        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
+      },
+      "artists": [
+        {
+          "name": "Tim Armstrong",
+          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
         "name": "Emulsion de Skape",
         "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 143200,
       "name": "Ste Ska",
       "url": "https://open.spotify.com/track/0KNXYLRR59LN2R4Qa8YGJ8"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "A Poets Life",
-        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
-      },
-      "artists": [
-        {
-          "name": "Tim Armstrong",
-          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1997,6 +1997,22 @@
       "url": "https://open.spotify.com/track/1nO2vGrP18kP5ok92k3MOH"
     },
     {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Stompin' On DOWN BEAT ALLEY",
+        "url": "https://open.spotify.com/album/0RbXsDQDjpfId64GzRo4iQ"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 303200,
+      "name": "\u7f8e\u3057\u304f\u71c3\u3048\u308b\u68ee",
+      "url": "https://open.spotify.com/track/7G5ZBbTK64ECJn5fRNbzoT"
+    },
+    {
       "added_at": "2022-08-01 20:17:22",
       "album": {
         "name": "In The Wild",
@@ -2019,22 +2035,6 @@
       "duration_ms": 172463,
       "name": "As We Live (feat. Tim Armstrong & Rhoda Dakar)",
       "url": "https://open.spotify.com/track/2rsrUjh63rWpT3amc4N6GV"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "Stompin' On DOWN BEAT ALLEY",
-        "url": "https://open.spotify.com/album/0RbXsDQDjpfId64GzRo4iQ"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 303200,
-      "name": "\u7f8e\u3057\u304f\u71c3\u3048\u308b\u68ee",
-      "url": "https://open.spotify.com/track/7G5ZBbTK64ECJn5fRNbzoT"
     },
     {
       "added_at": "2022-09-07 01:08:16",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Turn Off",
-        "url": "https://open.spotify.com/album/2niwNjYl5YuwTZMsBADmQx"
-      },
-      "artists": [
-        {
-          "name": "Two Tone Club",
-          "url": "https://open.spotify.com/artist/71So40fMdgI3uFPbyaThbY"
-        }
-      ],
-      "duration_ms": 139333,
-      "name": "Turn Off The Television",
-      "url": "https://open.spotify.com/track/07qP6kMKE2w7FGSkgHZ5yz"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "1997-2002",
         "url": "https://open.spotify.com/album/0WMdVs6ArgHzWx81zmqwci"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 221306,
       "name": "Jaia",
       "url": "https://open.spotify.com/track/3Hr4atc6R27a0tQtFSYab9"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Turn Off",
+        "url": "https://open.spotify.com/album/2niwNjYl5YuwTZMsBADmQx"
+      },
+      "artists": [
+        {
+          "name": "Two Tone Club",
+          "url": "https://open.spotify.com/artist/71So40fMdgI3uFPbyaThbY"
+        }
+      ],
+      "duration_ms": 139333,
+      "name": "Turn Off The Television",
+      "url": "https://open.spotify.com/track/07qP6kMKE2w7FGSkgHZ5yz"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Klub Ska",
-        "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 146452,
-      "name": "Puto Alcohol",
-      "url": "https://open.spotify.com/track/7tj8oe1VHikWXAyS3Anhz3"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Morbo's Club",
         "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 191824,
       "name": "Marchez",
       "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Klub Ska",
+        "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 146452,
+      "name": "Puto Alcohol",
+      "url": "https://open.spotify.com/track/7tj8oe1VHikWXAyS3Anhz3"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Motiv Loco",
-        "url": "https://open.spotify.com/album/0L1RqcDjhCoQBBK3UhlMdK"
-      },
-      "artists": [
-        {
-          "name": "Rotterdam Ska-Jazz Foundation",
-          "url": "https://open.spotify.com/artist/4702lx6KuOKmumm9tH0uCp"
-        }
-      ],
-      "duration_ms": 162786,
-      "name": "No More Sorrow",
-      "url": "https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Latin Ska",
         "url": "https://open.spotify.com/album/6zI1ohCa3KiSQFD5WlTIkX"
       },
@@ -2491,6 +2475,22 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
+        "name": "Motiv Loco",
+        "url": "https://open.spotify.com/album/0L1RqcDjhCoQBBK3UhlMdK"
+      },
+      "artists": [
+        {
+          "name": "Rotterdam Ska-Jazz Foundation",
+          "url": "https://open.spotify.com/artist/4702lx6KuOKmumm9tH0uCp"
+        }
+      ],
+      "duration_ms": 162786,
+      "name": "No More Sorrow",
+      "url": "https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
         "name": "Las Perolas de Motas",
         "url": "https://open.spotify.com/album/0vyaOWNsNsUTnNBpOS8SSd"
       },
@@ -2503,30 +2503,6 @@
       "duration_ms": 251880,
       "name": "Boca E' Caim\u00e1n",
       "url": "https://open.spotify.com/track/0pwIDa9neFJEN1RJ1mvj5G"
-    },
-    {
-      "added_at": "2022-07-15 04:40:06",
-      "album": {
-        "name": "M\u00fasica Guerrera",
-        "url": "https://open.spotify.com/album/0kOxkSeQ6cmmCHdTq52JSK"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        },
-        {
-          "name": "Roco Pachukote",
-          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
-        },
-        {
-          "name": "Leones Negros & Atletas Campesinos",
-          "url": "https://open.spotify.com/artist/5VpBGIOS8GhQx0NVwa1Tkm"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "M\u00fasica Guerrera",
-      "url": "https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2561,6 +2537,30 @@
       "url": "https://open.spotify.com/track/2mvbq4eTb7dJPY6yzC7qlL"
     },
     {
+      "added_at": "2022-07-15 04:40:06",
+      "album": {
+        "name": "M\u00fasica Guerrera",
+        "url": "https://open.spotify.com/album/0kOxkSeQ6cmmCHdTq52JSK"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        },
+        {
+          "name": "Roco Pachukote",
+          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
+        },
+        {
+          "name": "Leones Negros & Atletas Campesinos",
+          "url": "https://open.spotify.com/artist/5VpBGIOS8GhQx0NVwa1Tkm"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "M\u00fasica Guerrera",
+      "url": "https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG"
+    },
+    {
       "added_at": "2021-12-06 21:30:06",
       "album": {
         "name": "Madness",
@@ -2579,22 +2579,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "La Banda Borracha",
-        "url": "https://open.spotify.com/album/6QB9WO7bZPX4MfbteFWWJM"
-      },
-      "artists": [
-        {
-          "name": "La Lupita",
-          "url": "https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB"
-        }
-      ],
-      "duration_ms": 213263,
-      "name": "La Banda Borracha",
-      "url": "https://open.spotify.com/track/5oXFI9ZLYGUbpLZY34T3ai"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Los Rabanes",
         "url": "https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU"
       },
@@ -2607,6 +2591,22 @@
       "duration_ms": 205120,
       "name": "Se\u00f1orita a Mi Me Gusta Su Style",
       "url": "https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "La Banda Borracha",
+        "url": "https://open.spotify.com/album/6QB9WO7bZPX4MfbteFWWJM"
+      },
+      "artists": [
+        {
+          "name": "La Lupita",
+          "url": "https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB"
+        }
+      ],
+      "duration_ms": 213263,
+      "name": "La Banda Borracha",
+      "url": "https://open.spotify.com/track/5oXFI9ZLYGUbpLZY34T3ai"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2855,22 +2855,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
-      },
-      "artists": [
-        {
-          "name": "Skapital Sound",
-          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
-        }
-      ],
-      "duration_ms": 240072,
-      "name": "Ojos Caf\u00e9s",
-      "url": "https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Reggae Greats - Toots & The Maytals",
         "url": "https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM"
       },
@@ -2883,6 +2867,22 @@
       "duration_ms": 208493,
       "name": "Funky Kingston",
       "url": "https://open.spotify.com/track/296nf1GZola50p9fWwsaQw"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
+      },
+      "artists": [
+        {
+          "name": "Skapital Sound",
+          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
+        }
+      ],
+      "duration_ms": 240072,
+      "name": "Ojos Caf\u00e9s",
+      "url": "https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2951,18 +2951,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Everything In Time (B-Sides, Rarities, Remixes)",
-        "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
       },
       "artists": [
         {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+          "name": "Hepcat",
+          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
         }
       ],
-      "duration_ms": 160586,
-      "name": "Oi To The World",
-      "url": "https://open.spotify.com/track/4D0J6CjPiBSG8nA5OXlhZ2"
+      "duration_ms": 219706,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2979,22 +2979,6 @@
       "duration_ms": 250986,
       "name": "Funky Fire",
       "url": "https://open.spotify.com/track/23ocdrkMsbIT8Y5zYYFGLR"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
-      },
-      "artists": [
-        {
-          "name": "Hepcat",
-          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -3027,6 +3011,22 @@
       "duration_ms": 251518,
       "name": "Konfesi\u00f3n",
       "url": "https://open.spotify.com/track/20K8gKxabOpZe5BEJH2thY"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Everything In Time (B-Sides, Rarities, Remixes)",
+        "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 160586,
+      "name": "Oi To The World",
+      "url": "https://open.spotify.com/track/4D0J6CjPiBSG8nA5OXlhZ2"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -3099,22 +3099,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "El Enemigo",
-        "url": "https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy"
-      },
-      "artists": [
-        {
-          "name": "Sat\u00e9lite Kingston",
-          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "La \u00daltimo Carta",
-      "url": "https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Rude Station",
         "url": "https://open.spotify.com/album/5Il8lM2h0OKIKGwrbFlceQ"
       },
@@ -3131,18 +3115,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "The Story So Far...",
-        "url": "https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg"
+        "name": "El Enemigo",
+        "url": "https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy"
       },
       "artists": [
         {
-          "name": "Laurel Aitken",
-          "url": "https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA"
+          "name": "Sat\u00e9lite Kingston",
+          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
         }
       ],
-      "duration_ms": 269400,
-      "name": "Sally Brown",
-      "url": "https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8"
+      "duration_ms": 212280,
+      "name": "La \u00daltimo Carta",
+      "url": "https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -3163,6 +3147,22 @@
       "duration_ms": 193807,
       "name": "Deja Ya de Mentir",
       "url": "https://open.spotify.com/track/50g55TOo4ZYIaKeWEaMKGB"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "The Story So Far...",
+        "url": "https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg"
+      },
+      "artists": [
+        {
+          "name": "Laurel Aitken",
+          "url": "https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA"
+        }
+      ],
+      "duration_ms": 269400,
+      "name": "Sally Brown",
+      "url": "https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -3247,6 +3247,22 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
+        "name": "Locos y Rucas In Retro",
+        "url": "https://open.spotify.com/album/6ejPPvg1bi5cTiUI4cNHyH"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 151026,
+      "name": "Satan's Swing",
+      "url": "https://open.spotify.com/track/2t4BMouccDQHDnUQuy8tqp"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
         "name": "El Ska No Est\u00e1 en Extinci\u00f3n",
         "url": "https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT"
       },
@@ -3279,22 +3295,6 @@
       "duration_ms": 162930,
       "name": "Ska en la Playa",
       "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "Locos y Rucas In Retro",
-        "url": "https://open.spotify.com/album/6ejPPvg1bi5cTiUI4cNHyH"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 151026,
-      "name": "Satan's Swing",
-      "url": "https://open.spotify.com/track/2t4BMouccDQHDnUQuy8tqp"
     },
     {
       "added_at": "2021-12-06 21:30:06",

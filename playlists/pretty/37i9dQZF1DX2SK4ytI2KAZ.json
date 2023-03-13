@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 687118,
+  "num_followers": 687192,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGNkYmYxOTExNTgyNTZlYTJiMDM2MTY1MzNkNDk5ODlh",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGM5YWY0YjVmNjMwYTA4ZjUzZDE1MjZiMmNkZjhkYzU1",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 241194,
-      "name": "Surefire",
-      "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "sun keeps on shining",
         "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 167200,
       "name": "sun keeps on shining",
       "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 241194,
+      "name": "Surefire",
+      "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Off To The Races",
-        "url": "https://open.spotify.com/album/0vGId8rvkYSChOrt2A6HVc"
-      },
-      "artists": [
-        {
-          "name": "Jukebox The Ghost",
-          "url": "https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Fred Astaire",
-      "url": "https://open.spotify.com/track/2lYLaKcZ1bwrIEJcD5LGOx"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "f**k it, i'm the man",
         "url": "https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 150693,
       "name": "f**k it, i'm the man",
       "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Off To The Races",
+        "url": "https://open.spotify.com/album/0vGId8rvkYSChOrt2A6HVc"
+      },
+      "artists": [
+        {
+          "name": "Jukebox The Ghost",
+          "url": "https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Fred Astaire",
+      "url": "https://open.spotify.com/track/2lYLaKcZ1bwrIEJcD5LGOx"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "BRIGHTSIDE",
-      "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Asking For A Ride",
         "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 154098,
       "name": "Pages",
       "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "BRIGHTSIDE",
+      "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Young Rising Sons",
-        "url": "https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50"
-      },
-      "artists": [
-        {
-          "name": "Young Rising Sons",
-          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "High",
-      "url": "https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Settling",
         "url": "https://open.spotify.com/album/0LuaDQd1gfG4Q22WQMDi5c"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 231408,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Young Rising Sons",
+        "url": "https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50"
+      },
+      "artists": [
+        {
+          "name": "Young Rising Sons",
+          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "High",
+      "url": "https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Pacific Coast Highway (with Trevor Hall)",
+        "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
+      },
+      "artists": [
+        {
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+        },
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 227440,
+      "name": "Pacific Coast Highway (with Trevor Hall)",
+      "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Easy / Where Do We Go From Here?",
         "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 187500,
       "name": "I Wanna Be Your High",
       "url": "https://open.spotify.com/track/7CkeYEfGBL8SYAq63Z72oh"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Pacific Coast Highway (with Trevor Hall)",
-        "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
-      },
-      "artists": [
-        {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
-        },
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 227440,
-      "name": "Pacific Coast Highway (with Trevor Hall)",
-      "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Brighter Day",
+        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Brighter Day",
+      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "10 Tracks to Echo in the Dark",
         "url": "https://open.spotify.com/album/4aHwEq65yWoM0KQkaE1Dsv"
       },
@@ -1559,38 +1575,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Brighter Day",
-        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Brighter Day",
-      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "The Walls Are Way Too Thin",
-        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "The Walls Are Way Too Thin",
-      "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Blutooth / enough 4 u",
         "url": "https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN"
       },
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Denial in Paradise",
-        "url": "https://open.spotify.com/album/3K6MT6t6jipc02PfTMIHnY"
+        "name": "The Walls Are Way Too Thin",
+        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
       },
       "artists": [
         {
-          "name": "courtship.",
-          "url": "https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 192197,
-      "name": "Sunroof",
-      "url": "https://open.spotify.com/track/1zLEXRNVucrDxxI1qmGO9Z"
+      "duration_ms": 221933,
+      "name": "The Walls Are Way Too Thin",
+      "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1639,6 +1623,22 @@
       "duration_ms": 236946,
       "name": "DON'T TELL THE BOYS",
       "url": "https://open.spotify.com/track/5uGZtSYorCUAqw03hzwvTn"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Denial in Paradise",
+        "url": "https://open.spotify.com/album/3K6MT6t6jipc02PfTMIHnY"
+      },
+      "artists": [
+        {
+          "name": "courtship.",
+          "url": "https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8"
+        }
+      ],
+      "duration_ms": 192197,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/1zLEXRNVucrDxxI1qmGO9Z"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/6XFQzh3r6YdjB6yK2hmEbG"
+      },
+      "artists": [
+        {
+          "name": "Wild Cub",
+          "url": "https://open.spotify.com/artist/5cTn7jRVGqTdmgMW75FIal"
+        }
+      ],
+      "duration_ms": 271441,
+      "name": "Thunder Clatter",
+      "url": "https://open.spotify.com/track/39Cv9mq0PPrsJ5jtVb2Hiu"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Hold On For Dear Life",
         "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 227117,
       "name": "Hold On For Dear Life",
       "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Youth",
-        "url": "https://open.spotify.com/album/6XFQzh3r6YdjB6yK2hmEbG"
-      },
-      "artists": [
-        {
-          "name": "Wild Cub",
-          "url": "https://open.spotify.com/artist/5cTn7jRVGqTdmgMW75FIal"
-        }
-      ],
-      "duration_ms": 271441,
-      "name": "Thunder Clatter",
-      "url": "https://open.spotify.com/track/39Cv9mq0PPrsJ5jtVb2Hiu"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Baby Blue Shades",
-        "url": "https://open.spotify.com/album/0D2iqDOWfezLDJLvJrLItc"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 220580,
-      "name": "Baby Blue Shades",
-      "url": "https://open.spotify.com/track/0o4iE4nFwqY1d2JKlrcMRb"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7"
       },
@@ -1939,18 +1923,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Superglue",
-        "url": "https://open.spotify.com/album/39IcaBkeuTzJQcNJ5Hi9CM"
+        "name": "Baby Blue Shades",
+        "url": "https://open.spotify.com/album/0D2iqDOWfezLDJLvJrLItc"
       },
       "artists": [
         {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
         }
       ],
-      "duration_ms": 250362,
-      "name": "Superglue",
-      "url": "https://open.spotify.com/track/5tTpyVtQuj1j8ZBnjn9WPC"
+      "duration_ms": 220580,
+      "name": "Baby Blue Shades",
+      "url": "https://open.spotify.com/track/0o4iE4nFwqY1d2JKlrcMRb"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1971,6 +1955,22 @@
       "duration_ms": 154808,
       "name": "Spaceman",
       "url": "https://open.spotify.com/track/1TPevUpxC1UyroBJWuMDtF"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Superglue",
+        "url": "https://open.spotify.com/album/39IcaBkeuTzJQcNJ5Hi9CM"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 250362,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/5tTpyVtQuj1j8ZBnjn9WPC"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Carried Away",
+        "url": "https://open.spotify.com/album/5UHnIcmtWq5rldnKeDF2cc"
+      },
+      "artists": [
+        {
+          "name": "OVERSTREET",
+          "url": "https://open.spotify.com/artist/5TGdkTyHliaYLHPGxqcSUt"
+        }
+      ],
+      "duration_ms": 196720,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/670iB5TOAt9dGjyPFXUUiu"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "DEAR MISS HOLLOWAY",
         "url": "https://open.spotify.com/album/4VKhpWhs1QkJ6UXn1hkMjU"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 209906,
       "name": "DEAR MISS HOLLOWAY",
       "url": "https://open.spotify.com/track/31wkOICyh6BgHHyPgbBz0D"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Carried Away",
-        "url": "https://open.spotify.com/album/5UHnIcmtWq5rldnKeDF2cc"
-      },
-      "artists": [
-        {
-          "name": "OVERSTREET",
-          "url": "https://open.spotify.com/artist/5TGdkTyHliaYLHPGxqcSUt"
-        }
-      ],
-      "duration_ms": 196720,
-      "name": "Carried Away",
-      "url": "https://open.spotify.com/track/670iB5TOAt9dGjyPFXUUiu"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Royal",
-        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
-      },
-      "artists": [
-        {
-          "name": "The Royal Concept",
-          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "Gimme Twice",
-      "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/4MVgnDxPZUCmN4LNb0Urui"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 193186,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Royal",
+        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
+      },
+      "artists": [
+        {
+          "name": "The Royal Concept",
+          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "Gimme Twice",
+      "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2351,6 +2351,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "don't you wanna be glad?",
         "url": "https://open.spotify.com/album/272SGdcepKg8hv0LlOBT3U"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 238924,
       "name": "Rebel Heart",
       "url": "https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2431,6 +2431,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Going Mainstream",
+        "url": "https://open.spotify.com/album/2K2u7usRIF03pywk6qxGlM"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 211040,
+      "name": "Sunshine Time",
+      "url": "https://open.spotify.com/track/08ag3RWt1LlRWDFU44XSss"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -2447,22 +2463,6 @@
       "duration_ms": 177746,
       "name": "Gone",
       "url": "https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Going Mainstream",
-        "url": "https://open.spotify.com/album/2K2u7usRIF03pywk6qxGlM"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Sunshine Time",
-      "url": "https://open.spotify.com/track/08ag3RWt1LlRWDFU44XSss"
     },
     {
       "added_at": "2023-02-17 05:00:00",

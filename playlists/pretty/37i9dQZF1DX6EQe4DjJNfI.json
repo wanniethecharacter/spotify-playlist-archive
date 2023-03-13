@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Amanda Magalh\u00e3es, Dj Nyack",
-  "num_followers": 158816,
+  "num_followers": 158850,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ1OTM1OSwwMDAwMDAwMDM5YjI2OWE1NmI0YmQ4MDZhNDVkNDRjNDQyMWYxZTgw",
+  "snapshot_id": "MTY3ODQ1OTM1OSwwMDAwMDAwMDk0M2VlY2U1OGMxYmI0ZGUzNmQ2Y2M4ZTZjZjgwZjEy",
   "tracks": [
     {
       "added_at": "2023-03-10 14:42:39",
@@ -435,26 +435,22 @@
     {
       "added_at": "2023-03-10 14:42:39",
       "album": {
-        "name": "Devi",
-        "url": "https://open.spotify.com/album/0aomgOztLFDXdWKyZJyO02"
+        "name": "Fala, Fala",
+        "url": "https://open.spotify.com/album/3VcWCaee9yKQEvioedeEYn"
       },
       "artists": [
         {
-          "name": "S\u00f3CIRO",
-          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
+          "name": "Abayomi",
+          "url": "https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0"
         },
         {
-          "name": "Melissa Hartman",
-          "url": "https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36"
-        },
-        {
-          "name": "Leo Ost",
-          "url": "https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE"
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
         }
       ],
-      "duration_ms": 196204,
-      "name": "Devi",
-      "url": "https://open.spotify.com/track/5tXVcUSWxmyydJJ9IFLfHF"
+      "duration_ms": 175488,
+      "name": "Fala, Fala",
+      "url": "https://open.spotify.com/track/1OCTC8kofWuBp07FZIlUIX"
     },
     {
       "added_at": "2023-03-10 14:42:39",
@@ -475,22 +471,26 @@
     {
       "added_at": "2023-03-10 14:42:39",
       "album": {
-        "name": "Fala, Fala",
-        "url": "https://open.spotify.com/album/3VcWCaee9yKQEvioedeEYn"
+        "name": "Devi",
+        "url": "https://open.spotify.com/album/0aomgOztLFDXdWKyZJyO02"
       },
       "artists": [
         {
-          "name": "Abayomi",
-          "url": "https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0"
+          "name": "S\u00f3CIRO",
+          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
         },
         {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+          "name": "Melissa Hartman",
+          "url": "https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36"
+        },
+        {
+          "name": "Leo Ost",
+          "url": "https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE"
         }
       ],
-      "duration_ms": 175488,
-      "name": "Fala, Fala",
-      "url": "https://open.spotify.com/track/1OCTC8kofWuBp07FZIlUIX"
+      "duration_ms": 196204,
+      "name": "Devi",
+      "url": "https://open.spotify.com/track/5tXVcUSWxmyydJJ9IFLfHF"
     },
     {
       "added_at": "2023-03-10 14:42:39",
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-03-10 14:42:39",
       "album": {
-        "name": "Sinal de Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Sinal de Fuma\u00e7a",
-      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
-    },
-    {
-      "added_at": "2023-03-10 14:42:39",
-      "album": {
         "name": "Localiza\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/722X2OqhnEkVCk1kDP3IMl"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 172800,
       "name": "Localiza\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5UeR1CuDo4rrSjK3RyD0nV"
+    },
+    {
+      "added_at": "2023-03-10 14:42:39",
+      "album": {
+        "name": "Sinal de Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "duration_ms": 150833,
+      "name": "Sinal de Fuma\u00e7a",
+      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
     },
     {
       "added_at": "2023-03-10 14:42:39",
@@ -875,18 +875,26 @@
     {
       "added_at": "2023-03-10 14:42:39",
       "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
+        "name": "O Que Eu Soul (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
       },
       "artists": [
         {
-          "name": "Conc\u00ea",
-          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "YOYOTRACKS",
+          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+        },
+        {
+          "name": "U.GOT",
+          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
         }
       ],
-      "duration_ms": 115306,
-      "name": "A Nossa Brisa",
-      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
+      "duration_ms": 199625,
+      "name": "O Que Eu Soul - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
     },
     {
       "added_at": "2023-03-10 14:42:39",
@@ -919,26 +927,18 @@
     {
       "added_at": "2023-03-10 14:42:39",
       "album": {
-        "name": "O Que Eu Soul (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
       },
       "artists": [
         {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        },
-        {
-          "name": "YOYOTRACKS",
-          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
-        },
-        {
-          "name": "U.GOT",
-          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
+          "name": "Conc\u00ea",
+          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
         }
       ],
-      "duration_ms": 199625,
-      "name": "O Que Eu Soul - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
+      "duration_ms": 115306,
+      "name": "A Nossa Brisa",
+      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
     },
     {
       "added_at": "2023-03-10 14:42:39",
@@ -1087,54 +1087,6 @@
     {
       "added_at": "2023-03-10 14:42:39",
       "album": {
-        "name": "Pra Mim N\u00e3o D\u00e1",
-        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
-      },
-      "artists": [
-        {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Pra Mim N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
-    },
-    {
-      "added_at": "2023-03-10 14:42:39",
-      "album": {
-        "name": "Estou Aqui",
-        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
-      },
-      "artists": [
-        {
-          "name": "INAHUGO",
-          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
-    },
-    {
-      "added_at": "2023-03-10 14:42:39",
-      "album": {
-        "name": "Ventilador",
-        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
-      },
-      "artists": [
-        {
-          "name": "Nagy",
-          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Ventilador",
-      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
-    },
-    {
-      "added_at": "2023-03-10 14:42:39",
-      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -1155,6 +1107,54 @@
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
+    },
+    {
+      "added_at": "2023-03-10 14:42:39",
+      "album": {
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
+      },
+      "artists": [
+        {
+          "name": "INAHUGO",
+          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
+    },
+    {
+      "added_at": "2023-03-10 14:42:39",
+      "album": {
+        "name": "Pra Mim N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
+      },
+      "artists": [
+        {
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Pra Mim N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "added_at": "2023-03-10 14:42:39",
+      "album": {
+        "name": "Ventilador",
+        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
+      },
+      "artists": [
+        {
+          "name": "Nagy",
+          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Ventilador",
+      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
       "added_at": "2023-03-10 14:42:39",

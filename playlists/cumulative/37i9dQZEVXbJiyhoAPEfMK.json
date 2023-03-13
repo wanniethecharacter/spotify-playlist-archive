@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 164199,
       "name": "Auf die Party",
       "url": "https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE"
@@ -3204,6 +3204,32 @@
       "duration_ms": 171986,
       "name": "Be a Hoe/Break a Hoe",
       "url": "https://open.spotify.com/track/2NkKIjlfLa9o9Yfsq2tl99"
+    },
+    {
+      "album": {
+        "name": "Be Great",
+        "url": "https://open.spotify.com/album/7pL1DqmZzvakbXXPxBa4EO"
+      },
+      "artists": [
+        {
+          "name": "Da Youngsta's",
+          "url": "https://open.spotify.com/artist/2Y7amh9m52OEj67M3gNDCX"
+        },
+        {
+          "name": "NASIIB",
+          "url": "https://open.spotify.com/artist/1iYsmYGMSGPqm8qSiPC8VN"
+        },
+        {
+          "name": "Blue Weaver",
+          "url": "https://open.spotify.com/artist/77PApTNumBHMG4DgV3dwO5"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222201,
+      "name": "Be Great",
+      "url": "https://open.spotify.com/track/0YvC864tNzzrlLAY82dSvn"
     },
     {
       "album": {
@@ -5764,7 +5790,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 216333,
       "name": "Ciao",
       "url": "https://open.spotify.com/track/3d7vLNeOXnzdBwUGbqklPE"
@@ -9692,7 +9718,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -12309,6 +12335,24 @@
     },
     {
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/0v1pdvFHSWScIoF1r6FJ21"
+      },
+      "artists": [
+        {
+          "name": "Josef",
+          "url": "https://open.spotify.com/artist/46he6rEm10nJtwE9dJU9h9"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/3vfTEpWfCQRaFT6Y2X49eo"
+    },
+    {
+      "album": {
         "name": "HOODIE IM SOMMER",
         "url": "https://open.spotify.com/album/7xOVRjXdZ6wcqcrtIcg8VP"
       },
@@ -12494,7 +12538,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
@@ -14050,7 +14094,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 185933,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS"
@@ -15322,7 +15366,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 148986,
       "name": "La P\u00e8gre",
       "url": "https://open.spotify.com/track/4wZLuEJNzXR0gnVR5gA7Yy"
@@ -17830,7 +17874,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 194253,
       "name": "Malemb\u00e9",
       "url": "https://open.spotify.com/track/0dAdLqKqFPmOzkPiTA4V2K"
@@ -19020,7 +19064,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -19944,7 +19988,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 217271,
       "name": "MOTTO",
       "url": "https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk"
@@ -22924,7 +22968,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
@@ -26490,7 +26534,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -28756,7 +28800,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 163693,
       "name": "TP",
       "url": "https://open.spotify.com/track/1FjTtzSGSDCecvT8PQrbeo"
@@ -30636,7 +30680,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 144072,
       "name": "Wenn ich will",
       "url": "https://open.spotify.com/track/5npUWsfEl4R2UOvPDlRjjZ"

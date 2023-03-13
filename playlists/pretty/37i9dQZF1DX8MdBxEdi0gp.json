@@ -1,12 +1,12 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 122005,
+  "num_followers": 122098,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNjM5NiwwMDAwMDAwMGEyZjNhMjk2Nzk2NDIyYmRjY2JlMDJlMDhhOWQ5YTJm",
+  "snapshot_id": "MTY3MjQyNjM5NiwwMDAwMDAwMDk1OTRmOTQzNzc3MTE2OGY2OWEzMmY2MDg5YTI4OTli",
   "tracks": [
     {
       "added_at": "2022-12-30 18:53:16",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
-      },
-      "artists": [
-        {
-          "name": "Roberto Jordan",
-          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Hazme una Se\u00f1al - Gimme Little Sign",
-      "url": "https://open.spotify.com/track/0TL0wshZGOrvNcUD66HGfq"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "La Gran Fiesta Formose\u00f1a",
         "url": "https://open.spotify.com/album/0jKCSRoHto29EuooePa871"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 198226,
       "name": "Los Hombres No Deben Llorar",
       "url": "https://open.spotify.com/track/6UqbBLltlDQ7ozlRswVWeu"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
+      },
+      "artists": [
+        {
+          "name": "Roberto Jordan",
+          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Hazme una Se\u00f1al - Gimme Little Sign",
+      "url": "https://open.spotify.com/track/0TL0wshZGOrvNcUD66HGfq"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "La M\u00fasica Que Inspir\u00f3 La Serie Original De Netflix, La Casa De Las Flores (Creada Por Manolo Caro)",
-        "url": "https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH"
-      },
-      "artists": [
-        {
-          "name": "Los Pulpos",
-          "url": "https://open.spotify.com/artist/3cfF0Dzyws8BcRvDRsNd5N"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Lo Que Te Queda",
-      "url": "https://open.spotify.com/track/4SrOqEKxfldAFrV37aF1pQ"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "15 Exitos En Espanol",
         "url": "https://open.spotify.com/album/7M4jG2ZAe19dGO8K2b8A9Q"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 197733,
       "name": "El Corazon Es Un Gitano",
       "url": "https://open.spotify.com/track/7nxkNNVzWpuoBHSBoeKoYJ"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "La M\u00fasica Que Inspir\u00f3 La Serie Original De Netflix, La Casa De Las Flores (Creada Por Manolo Caro)",
+        "url": "https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH"
+      },
+      "artists": [
+        {
+          "name": "Los Pulpos",
+          "url": "https://open.spotify.com/artist/3cfF0Dzyws8BcRvDRsNd5N"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Lo Que Te Queda",
+      "url": "https://open.spotify.com/track/4SrOqEKxfldAFrV37aF1pQ"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Original Masters",
-        "url": "https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "De Mi Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 192306,
       "name": "Mary Es Mi Amor",
       "url": "https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "Original Masters",
+        "url": "https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "De Mi Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
+        "name": "2 en 1 (Amigo Mio, Cuenta Conmigo)",
+        "url": "https://open.spotify.com/album/6WEYYj4KpgQEvkPMIomeih"
+      },
+      "artists": [
+        {
+          "name": "Angela Carrasco",
+          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
+        }
+      ],
+      "duration_ms": 331400,
+      "name": "Callados",
+      "url": "https://open.spotify.com/track/7afLIGLOQUhXMruh8XByhL"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
         "name": "Amor Eterno",
         "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "2 en 1 (Amigo Mio, Cuenta Conmigo)",
-        "url": "https://open.spotify.com/album/6WEYYj4KpgQEvkPMIomeih"
-      },
-      "artists": [
-        {
-          "name": "Angela Carrasco",
-          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
-        }
-      ],
-      "duration_ms": 331400,
-      "name": "Callados",
-      "url": "https://open.spotify.com/track/7afLIGLOQUhXMruh8XByhL"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "15 Exitos De Jose Luis Rodriguez",
         "url": "https://open.spotify.com/album/22RrvH0d9fd9HHXgOtAOwt"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Castillos en el aire",
-        "url": "https://open.spotify.com/album/3gQtNYk66VQ8DEMG0mGRxw"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Castillos en el aire",
-      "url": "https://open.spotify.com/track/39tN3TRbpPvm4rqdMn7hZ9"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "La Orquesta de Siempre: Volume 1",
         "url": "https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Rocio Banquells",
-        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+        "name": "Castillos en el aire",
+        "url": "https://open.spotify.com/album/3gQtNYk66VQ8DEMG0mGRxw"
       },
       "artists": [
         {
-          "name": "Rocio Banquells",
-          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
         }
       ],
-      "duration_ms": 251306,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp"
+      "duration_ms": 198106,
+      "name": "Castillos en el aire",
+      "url": "https://open.spotify.com/track/39tN3TRbpPvm4rqdMn7hZ9"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
+        "name": "Rocio Banquells",
+        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+      },
+      "artists": [
+        {
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+        }
+      ],
+      "duration_ms": 251306,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
         "name": "Mano A Mano Volumen 1",
         "url": "https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 190773,
       "name": "Por Que Nos Dijimos Adios",
       "url": "https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
-        "name": "Mi Arbol Y Yo",
-        "url": "https://open.spotify.com/album/3xE56OcK19QNVNr7EUoE3o"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "duration_ms": 213446,
-      "name": "Mi Arbol Y Yo",
-      "url": "https://open.spotify.com/track/4un7tX9V9E4O06ogDdtSpv"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1607,6 +1591,22 @@
       "duration_ms": 313146,
       "name": "Due\u00f1o de Nada",
       "url": "https://open.spotify.com/track/1yYrWdoONx6UyXLH0A3QMW"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "Mi Arbol Y Yo",
+        "url": "https://open.spotify.com/album/3xE56OcK19QNVNr7EUoE3o"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "duration_ms": 213446,
+      "name": "Mi Arbol Y Yo",
+      "url": "https://open.spotify.com/track/4un7tX9V9E4O06ogDdtSpv"
     },
     {
       "added_at": "2022-12-30 18:53:16",

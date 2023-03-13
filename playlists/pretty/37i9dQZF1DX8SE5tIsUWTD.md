@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 
 > A playlist for your Arab hipster starter kit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,472 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,536 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 26 | [I Want to Be](https://open.spotify.com/track/2os8JMsxtbpFo53e2r9TUa) | [Elias Rahbani and His Orchestra](https://open.spotify.com/artist/61GwuFGBjJmXtIwNlvYqLo) | [Elias Rahbani and His Orchestra](https://open.spotify.com/album/4mzbT1iZ1BIBxSZ6PlrYqr) | 3:24 |
 | 27 | [La Coladera](https://open.spotify.com/track/5HswfTgBIUkfAVHEeNHgSB) | [Freh Kodja](https://open.spotify.com/artist/5AQB5zVjgRwrYlFPLrf6UH) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC) | 3:09 |
 | 28 | [Moonlight](https://open.spotify.com/track/58Av9BcX4sUptL5POZ1E8t) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Moonlight](https://open.spotify.com/album/4mt4eTy3AkiPWplcJ1SQcZ) | 3:57 |
-| 29 | [Taban Ahwak](https://open.spotify.com/track/70wzxqcpjXyGeUrBES045j) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs) | 6:31 |
-| 30 | [Forssa Saeeda](https://open.spotify.com/track/1KXgQYlW0U2z8k3bP6Kqyh) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ) | 6:55 |
+| 29 | [Forssa Saeeda](https://open.spotify.com/track/1KXgQYlW0U2z8k3bP6Kqyh) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ) | 6:55 |
+| 30 | [Taban Ahwak](https://open.spotify.com/track/70wzxqcpjXyGeUrBES045j) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs) | 6:31 |
 | 31 | [Liza..\. Liza](https://open.spotify.com/track/4YmNfxo3gehMgoBN0wbJ0b) | [Elias Rahbani and His Orchestra](https://open.spotify.com/artist/61GwuFGBjJmXtIwNlvYqLo) | [Elias Rahbani and His Orchestra](https://open.spotify.com/album/4mzbT1iZ1BIBxSZ6PlrYqr) | 5:26 |
 | 32 | [Bisaraha](https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Houdou Nisbi](https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz) | 4:13 |
 | 33 | [El Bahr Azra](https://open.spotify.com/track/5qVUVHTb3sUpCaE8UTKJ6s) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd) | 5:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 49 | [Tareeq](https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd) | [Al\-Bara'em](https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw) | [Tareeq](https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7) | 4:43 |
 | 50 | [Albaki](https://open.spotify.com/track/1Ug0d2vHuOUL08MLZSMu8h) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/7Kr00uukmurII2uV76igym) | 7:06 |
 
-Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMDdlZmUwOWE2MDM2Yjg4NjE5NzY3MDZiMTkwNDE0YWEx`
+Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMGQzOThjNmZkZTVjYTY2OTQzZjVlMDdlM2E0ZjUzN2Y4`

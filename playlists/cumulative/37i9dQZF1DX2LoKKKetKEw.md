@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Uwa
 
-100 songs - 5 hr 3 min
+101 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Only](https://open.spotify.com/track/16uaRgsUFQhtUBXf1OTwcf) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Only](https://open.spotify.com/album/2PmXOqX60yjlQ52f1ZUuQw) | 2:39 | 2022-12-16 |  |
 | [Pepper Dem](https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [Pepper Dem](https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW) | 2:48 | 2022-07-30 |  |
 | [Power](https://open.spotify.com/track/1gt1miK4EskoPfMppc5pNt) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Power](https://open.spotify.com/album/1YtO5NUhasMNMJW6tiwJqY) | 3:17 | 2022-07-30 |  |
-| [Pray 4 Me](https://open.spotify.com/track/7xOQE6kpgBewPA0E2gwaO3) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Foolie Vision](https://open.spotify.com/artist/2nDlD7zB6lFms9wIabvCfd), [Render Music](https://open.spotify.com/artist/3gDRMHBnLhEmUiID3acmy2) | [Sonus, Vol\. 1](https://open.spotify.com/album/5TWtXmo19lmFSvZKo57qo3) | 2:30 | 2022-12-16 |  |
+| [Pray 4 Me](https://open.spotify.com/track/7xOQE6kpgBewPA0E2gwaO3) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Foolie Vision](https://open.spotify.com/artist/2nDlD7zB6lFms9wIabvCfd), [Render Music](https://open.spotify.com/artist/3gDRMHBnLhEmUiID3acmy2) | [Sonus, Vol\. 1](https://open.spotify.com/album/5TWtXmo19lmFSvZKo57qo3) | 2:30 | 2022-12-16 | 2023-03-13 |
 | [Protect Me](https://open.spotify.com/track/3U5WdumPOCSiM8SWdxHXPO) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Protect Me](https://open.spotify.com/album/6VlExPqlBOGkANum8fiiDW) | 2:44 | 2022-08-16 | 2022-09-12 |
 | [Regardless](https://open.spotify.com/track/0lenZ13TEPH2pzwpa7WAnz) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Kunle Zakariya](https://open.spotify.com/artist/5IthKVE0Nw9YTB839E2Hsl), [Pure Streams](https://open.spotify.com/artist/5ImH5p41qhq8vkUQ3u2lNd) | [Regardless](https://open.spotify.com/album/6KbtVKh2Rmg2VCnx4fIKSE) | 4:59 | 2022-07-30 |  |
 | [Relief](https://open.spotify.com/track/5G19pifWY3gRmWff4I4vgD) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Relief](https://open.spotify.com/album/1ZEiAWldZVXaoICI7oJBX3) | 2:37 | 2022-09-18 | 2023-02-04 |
@@ -100,6 +100,7 @@
 | [True Love](https://open.spotify.com/track/4bJfDj5FDY5cP1cndlE9Vj) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Break The Eyes](https://open.spotify.com/artist/0ySk960unJNGQV1FrSen3p) | [True Love](https://open.spotify.com/album/1jEbLKBbUdvKqLoCoNTDz4) | 2:56 | 2022-07-30 |  |
 | [Unguilty Pleasure](https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Unguilty Pleasure](https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0) | 3:13 | 2022-07-30 |  |
 | [Valentine](https://open.spotify.com/track/3H4fCGhKPlPz7okIvwz1kg) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Valentine](https://open.spotify.com/album/4HUTFKjRVJGPSIbMFDI1fo) | 3:15 | 2022-07-30 | 2023-02-09 |
+| [Valentine](https://open.spotify.com/track/4yf7zNinhajeShvOXAHMuZ) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Valentine](https://open.spotify.com/album/4IPg0TIXt2teKZxvxnjJHr) | 3:16 | 2023-02-10 |  |
 | [Wait 4 Me](https://open.spotify.com/track/1hoD8vWdFVWzKRiD2BFgZl) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK) | [Wait 4 Me](https://open.spotify.com/album/7pSEGaQlzam71MMqCONXDM) | 3:02 | 2022-07-30 | 2022-10-30 |
 | [Yakpa](https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yakpa](https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh) | 2:43 | 2022-07-30 |  |
 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 | 2022-07-30 |  |

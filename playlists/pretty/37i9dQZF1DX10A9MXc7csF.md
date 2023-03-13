@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Natalie López
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,928 likes - 99 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,937 likes - 99 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 40 | [No Fuimos Nada](https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [No Fuimos Nada](https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz) | 3:02 |
 | 41 | [5 Estrellas \- En Vivo](https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 2:42 |
 | 42 | [Este Sentimiento](https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Este Sentimiento](https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc) | 3:16 |
-| 43 | [Ando Bien Ü](https://open.spotify.com/track/1x6o9oZPUhniTVaSsqPtX8) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Ando Bien Ü](https://open.spotify.com/album/0HdJEOLEX1nw0XEaFNsmST) | 2:44 |
-| 44 | [Blanco Y Negro](https://open.spotify.com/track/3h5BJzVXakNbLvKY3oqNKd) | [Dano Arias](https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Blanco Y Negro](https://open.spotify.com/album/4tjuJwbsp4c8zMFUErJpqR) | 3:04 |
+| 43 | [Blanco Y Negro](https://open.spotify.com/track/3h5BJzVXakNbLvKY3oqNKd) | [Dano Arias](https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Blanco Y Negro](https://open.spotify.com/album/4tjuJwbsp4c8zMFUErJpqR) | 3:04 |
+| 44 | [Ando Bien Ü](https://open.spotify.com/track/1x6o9oZPUhniTVaSsqPtX8) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Ando Bien Ü](https://open.spotify.com/album/0HdJEOLEX1nw0XEaFNsmST) | 2:44 |
 | 45 | [Kenwood En Los Radios \(En Vivo\)](https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C) | [Desde Culiacán Con Servando Zl \(En Vivo\)](https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg) | 3:07 |
 | 46 | [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 |
 | 47 | [Modo Avión](https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Modo Avión](https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1) | 3:31 |
@@ -95,11 +95,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 85 | [Ilusionado](https://open.spotify.com/track/0oxC5a4WHrQ4EwsJqzKHEL) | [Jason Nunez](https://open.spotify.com/artist/5QRR2yQ8isWuBfcS1FbqSH) | [Ilusionado](https://open.spotify.com/album/539MYDSsxCxabAEkxEdJZg) | 2:32 |
 | 86 | [El Pollero](https://open.spotify.com/track/4ThjCHeQomkKoHcCBEenWR) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [El Pollero](https://open.spotify.com/album/5HqTNH8UkhBWWr3H6amZ8C) | 3:05 |
 | 87 | [Hoodboys](https://open.spotify.com/track/3OjUpNktUUJWn4lcKVKp8f) | [Los De Guamuchil](https://open.spotify.com/artist/3ognMXS3PJq2gCkzReq4bE) | [Hoodboys](https://open.spotify.com/album/1pR6LSB6PFavDG6BIjsKxn) | 3:10 |
-| 88 | [Vivo el Peligro](https://open.spotify.com/track/1FOY245P3Pb7LFcMTfB9VC) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C) | [Vivo el Peligro](https://open.spotify.com/album/0TncPHLg7DTj923SQ4keIr) | 2:40 |
-| 89 | [Que Hice Mal](https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Que Hice Mal](https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI) | 3:25 |
+| 88 | [Que Hice Mal](https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Que Hice Mal](https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI) | 3:25 |
+| 89 | [Vivo el Peligro](https://open.spotify.com/track/1FOY245P3Pb7LFcMTfB9VC) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C) | [Vivo el Peligro](https://open.spotify.com/album/0TncPHLg7DTj923SQ4keIr) | 2:40 |
 | 90 | [Me Siento Loco](https://open.spotify.com/track/35r1E5YvHbESFBjFcWamf6) | [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M) | [Luv </3](https://open.spotify.com/album/0MkWhjSNki4PXtKYH26T5L) | 3:56 |
-| 91 | [Santo Pa Pocos \(En Vivo\)](https://open.spotify.com/track/7lf9fCiMjhMkq3P9o4VLB6) | [Lumar Perez](https://open.spotify.com/artist/0m8RPY3jufvoZY1p48TbRb), [Doble Escuela](https://open.spotify.com/artist/7foktGM5Z2trQ3waJKkid7) | [Santo Pa Pocos \(En Vivo\)](https://open.spotify.com/album/00t3fI79ZOx49L40Lnb8YM) | 3:05 |
-| 92 | [El Morro De La Cuadra](https://open.spotify.com/track/4WhNJBv7kWWoQL2w1zpOSl) | [JR Solis](https://open.spotify.com/artist/2XwuNfW0pS0qb2Mv3iWwrv) | [El Morro De La Cuadra](https://open.spotify.com/album/4PKdlKBjwogesrFS1aneCG) | 1:35 |
+| 91 | [El Morro De La Cuadra](https://open.spotify.com/track/4WhNJBv7kWWoQL2w1zpOSl) | [JR Solis](https://open.spotify.com/artist/2XwuNfW0pS0qb2Mv3iWwrv) | [El Morro De La Cuadra](https://open.spotify.com/album/4PKdlKBjwogesrFS1aneCG) | 1:35 |
+| 92 | [Santo Pa Pocos \(En Vivo\)](https://open.spotify.com/track/7lf9fCiMjhMkq3P9o4VLB6) | [Lumar Perez](https://open.spotify.com/artist/0m8RPY3jufvoZY1p48TbRb), [Doble Escuela](https://open.spotify.com/artist/7foktGM5Z2trQ3waJKkid7) | [Santo Pa Pocos \(En Vivo\)](https://open.spotify.com/album/00t3fI79ZOx49L40Lnb8YM) | 3:05 |
 | 93 | [El Raulito](https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [El Raulito](https://open.spotify.com/album/4ZqXlZBnogGgyyX7XdxqsD) | 3:10 |
 | 94 | [Diosa](https://open.spotify.com/track/5WBLjdaWZjvCGu8KKByxMm) | [Elyfer Torres](https://open.spotify.com/artist/6v4FYm6JuGr0v5F2BVMJGe) | [Diosa](https://open.spotify.com/album/73DZk9XutCRIbqIePKrcLF) | 2:40 |
 | 95 | [A Mi Modo](https://open.spotify.com/track/5ySVMl1GhcaQ3erDe1PtWj) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [En Proceso](https://open.spotify.com/album/5K0PyG668je3HlQgjCu5yp) | 2:52 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 98 | [El Chiste](https://open.spotify.com/track/03AGRk4RHSpOEwU00Smwvm) | [JR NUÑEZ](https://open.spotify.com/artist/7kyrlDk15k86Yt4IkF1D4M) | [El Chiste](https://open.spotify.com/album/1H0nf93rr0nrdT8Z1sAn5B) | 2:58 |
 | 99 | [Poder Sangriento](https://open.spotify.com/track/1ywZ5YvDT4hbGk1Dg31cEf) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z), [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [Poder Sangriento](https://open.spotify.com/album/5JBsJBLvGoQ9m4hnHcMVao) | 3:49 |
 
-Snapshot ID: `MTY3NzgzODkzNSwwMDAwMDAwMDU2Y2YxNDc2N2Q0MTViNWI2ZGZlZWExY2I4NWU5YTUw`
+Snapshot ID: `MTY3NzgzODkzNSwwMDAwMDAwMDkyOWExOWZkYWFiMGY3NzA3MWU0NjhmN2ZlZGRjNTVl`

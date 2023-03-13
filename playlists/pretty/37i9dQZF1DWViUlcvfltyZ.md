@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. In cover, Generic Animal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,272 likes - 58 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,278 likes - 58 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

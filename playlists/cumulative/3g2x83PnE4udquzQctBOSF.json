@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 132924,
       "name": "Back N Forth",
       "url": "https://open.spotify.com/track/1lu9DGjufsxS6m7CnuL1An"
@@ -132,10 +132,28 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 189251,
       "name": "Booty",
       "url": "https://open.spotify.com/track/6lhAa62sQdn2eUDbZgoaeF"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/5BFu1tFCVsVvTn6gvU3WRo"
+      },
+      "artists": [
+        {
+          "name": "Detlef",
+          "url": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183307,
+      "name": "Bronx",
+      "url": "https://open.spotify.com/track/5oWXxAqoHGY96OnwzmdHdH"
     },
     {
       "album": {
@@ -154,6 +172,24 @@
       "duration_ms": 179094,
       "name": "Bugbeat",
       "url": "https://open.spotify.com/track/7ukIYN8wvyAIpPAEU5nCbK"
+    },
+    {
+      "album": {
+        "name": "Bumpin'",
+        "url": "https://open.spotify.com/album/4sESCe1Q8O2NxP9S2TnGEv"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208869,
+      "name": "Bumpin'",
+      "url": "https://open.spotify.com/track/3mNNfmxCOsLHv74CoIzMDl"
     },
     {
       "album": {
@@ -313,6 +349,68 @@
     },
     {
       "album": {
+        "name": "Everything You Have Done (Meduza Edit)",
+        "url": "https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156218,
+      "name": "Everything You Have Done - Meduza Edit",
+      "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
+    },
+    {
+      "album": {
+        "name": "Pam Pam",
+        "url": "https://open.spotify.com/album/1cdc1XeYkT0YTEYHsh97SU"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Side B",
+          "url": "https://open.spotify.com/artist/3hm9D6w73Erm43Ym0gtmjR"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208396,
+      "name": "Flamingos",
+      "url": "https://open.spotify.com/track/0lAQ4hpL4wS7EdgXYd3I2w"
+    },
+    {
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/0Tc1tg1w34KqvGfbydJFPu"
+      },
+      "artists": [
+        {
+          "name": "Moreno Pezzolato",
+          "url": "https://open.spotify.com/artist/4T7wlRMvx47eHo5z78A5tQ"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337142,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/6VF8DFuo2NVsoBKaqt5Nlw"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/58ybAeIzZzWhc7nD3WABxe"
       },
@@ -349,6 +447,24 @@
     },
     {
       "album": {
+        "name": "GET IT",
+        "url": "https://open.spotify.com/album/0hA8jrWzuihDqEm7DZtZEK"
+      },
+      "artists": [
+        {
+          "name": "ZIOS",
+          "url": "https://open.spotify.com/artist/1HFgOhnb76kDSv4U6SqLHX"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212887,
+      "name": "GET IT",
+      "url": "https://open.spotify.com/track/1iE60Ny9k6vGmPRF7iKoUr"
+    },
+    {
+      "album": {
         "name": "Get My Mind Right",
         "url": "https://open.spotify.com/album/0axqQkX4vj2RegEqoZ13q2"
       },
@@ -378,7 +494,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 160000,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6NC1118KAvcnZdBmGDdt9d"
@@ -418,7 +534,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 173538,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/5rZicx0JZLZR233YKcA4ok"
@@ -502,7 +618,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 198508,
       "name": "How We Get Down",
       "url": "https://open.spotify.com/track/7wLTQOUSE3sH3QsY6TI1Zx"
@@ -520,7 +636,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 278000,
       "name": "I'm Crazy",
       "url": "https://open.spotify.com/track/1Jhmughb25ns8f9DfWgl5d"
@@ -746,7 +862,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 211464,
       "name": "Move to the Beat",
       "url": "https://open.spotify.com/track/0aGSfFcOjxzRFTYWXeiFjg"
@@ -1062,6 +1178,24 @@
       "duration_ms": 195381,
       "name": "Step Into It",
       "url": "https://open.spotify.com/track/533T9iIMBhmRXcKVH48CxO"
+    },
+    {
+      "album": {
+        "name": "winter '23",
+        "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412500,
+      "name": "symphonia.",
+      "url": "https://open.spotify.com/track/0FSdefPsdTZgxFM5Rvwqnu"
     },
     {
       "album": {

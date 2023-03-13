@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,225 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,226 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 25 | [Supernova](https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Supernova](https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH) | 1:49 |
 | 26 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 |
 | 27 | [Balance It \(Remix\)](https://open.spotify.com/track/3ImDVrkj2jO7QjR2Xw86w3) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Balance It \(Remix\)](https://open.spotify.com/album/1QUOtrtXpyLwLEqshG8b6m) | 2:53 |
-| 28 | [Tall Shade](https://open.spotify.com/track/4pACPCpLl5vqvrToSE161d) | [Patrice](https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Tall Shade](https://open.spotify.com/album/1ot4OOnFQfD7FtoQAU3qKS) | 2:59 |
-| 29 | [Call Waiting](https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Call Waiting](https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI) | 2:30 |
+| 28 | [Call Waiting](https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Call Waiting](https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI) | 2:30 |
+| 29 | [Tall Shade](https://open.spotify.com/track/4pACPCpLl5vqvrToSE161d) | [Patrice](https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Tall Shade](https://open.spotify.com/album/1ot4OOnFQfD7FtoQAU3qKS) | 2:59 |
 | 30 | [Walangolo](https://open.spotify.com/track/1rgPaNbruePcgLEX3rse9j) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Walangolo](https://open.spotify.com/album/3WaqErXkH8eSyHNWSFAk76) | 3:44 |
 | 31 | [Fààjí](https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Fààjí](https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt) | 2:29 |
 | 32 | [Tony Montana](https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Tony Montana](https://open.spotify.com/album/1lntDqc2Wxb1iRERQIzYaL) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Zodi \(feat\. Mr Eazi\)](https://open.spotify.com/track/7IX8SlSUzJXXhrI3KQedJ4) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [85 to Africa](https://open.spotify.com/album/238eVufzRziHuYLuBVZh1u) | 3:20 |
 | 50 | [Hollup](https://open.spotify.com/track/7qecdQmvEVTmpJQMjteuVW) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Dammy Krane](https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc) | [Hollup](https://open.spotify.com/album/4X9ME05TzIGSBuHx5rYQuj) | 4:20 |
 
-Snapshot ID: `Mjc5NzU3MjcsMDAwMDAwMDA1MjM4MDg4ODhlNTUzMTZiMWI4NzE5MWRlNTMwZTgwZg==`
+Snapshot ID: `Mjc5NzcwOTcsMDAwMDAwMDBlMTgwZTU1NGM3ZDI2MmZkNzgxYjFiZjU2YzI3ZDk1Yg==`

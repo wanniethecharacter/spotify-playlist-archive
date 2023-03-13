@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Women at full volume! Co\-curated by <a href="spotify:artist:0h1gX589xBKUCijeC8Bewy">Charlotte Adigéry</a> for international women’s day\. Charlotte's picks:  Nina Simone, Grace Jones, Saâda Bonaire, Beyoncé and The Slits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,825 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,831 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 9 | [Youth song](https://open.spotify.com/track/2ZgOYo5mjmVpgq0VVXCJtj) | [Anna Maehl](https://open.spotify.com/artist/20qznmlJaqbaszjeAqIri4) | [Youth song](https://open.spotify.com/album/1oGJDVoVp61gOvqdYLSbsd) | 3:04 |
 | 10 | [...questions](https://open.spotify.com/track/2EJVZN9yrl6ykxbEK41ft9) | [Mia Lena](https://open.spotify.com/artist/2i2zUTjbAJuVCLxPR5bHHx) | [...questions](https://open.spotify.com/album/4lZ7vWiE7K8sOr3xGFEK9H) | 2:26 |
 | 11 | [Mal Barre](https://open.spotify.com/track/6vKtdGio7i2y4fcfQHWGX3) | [Judith Kiddo](https://open.spotify.com/artist/0zmgqS8lHVypUSBvUogMgz) | [READY TO HEAL](https://open.spotify.com/album/7A7TAQmGAuMZ6MJnKGMbGY) | 3:49 |
-| 12 | [Oh Dear](https://open.spotify.com/track/4goXWybJqvpAM2iU07UBAi) | [Isolde Lasoen](https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci) | [Oh Dear](https://open.spotify.com/album/3UKHpFVmkETC8lhOoKqmar) | 3:12 |
+| 12 | [Oh Dear](https://open.spotify.com/track/44EhnfZw9q6YsR0B6tfYYQ) | [Isolde Lasoen](https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci) | [Oh Dear](https://open.spotify.com/album/27VCTA2nCe7ulozoaMTV2Y) | 3:12 |
 | 13 | [Let you go](https://open.spotify.com/track/4AwmI4auI1J6hYq4D8Ifzr) | [Essyla](https://open.spotify.com/artist/28ZKsCZWBrB4T4oHtDpk81) | [Let you go](https://open.spotify.com/album/394SX03GwWKtMqrQErMond) | 2:38 |
 | 14 | [Scissorhands](https://open.spotify.com/track/1jVfHognIguRWLBxbAk2Kv) | [Ruby Grace](https://open.spotify.com/artist/3nQwN1Eaw704m9BtqQQUqm) | [Scissorhands](https://open.spotify.com/album/12J8UsCMk3wSqzjNQhXJE1) | 3:19 |
 | 15 | [Nocturne](https://open.spotify.com/track/0EVc4oyncVIh3Ufn3LlBL6) | [Lady Linn](https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL) | [Nocturne](https://open.spotify.com/album/3FnB4R4QU4TWvCOfUDIuV4) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 49 | [Trains and Boats and Planes](https://open.spotify.com/track/3Cjc9jFQj71LVtCKUeuHUu) | [Junn](https://open.spotify.com/artist/2jyItz1xpE1N8UzN57lbDI) | [Trains and Boats and Planes](https://open.spotify.com/album/3OEZBeA2Fp0sEoVgsMmyTa) | 4:00 |
 | 50 | [me and my big mouth](https://open.spotify.com/track/6bAMtverQa0Aryho6wGmkV) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [me and my big mouth](https://open.spotify.com/album/3GSXrqL19GsJQciZUcuy41) | 2:48 |
 
-Snapshot ID: `MTY3ODEwNjk1MCwwMDAwMDAwMDk4NWM3ZWI3ZWE3ZDE1MDVjOTljYzZkMjU2YjNiMWVh`
+Snapshot ID: `MTY3ODEwNjk1MCwwMDAwMDAwMDg1M2Y4MTc3ZDY0YWZkOWNkNzA3ZTk1MTQxYzk3ODcw`

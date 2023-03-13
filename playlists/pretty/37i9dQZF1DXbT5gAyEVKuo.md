@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,439 likes - 49 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,535 likes - 49 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 31 | [Now Behold the Lamb](https://open.spotify.com/track/00x6jSUknGq0bvvsF5Dz3w) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [Setlist: The Very Best Of Kirk Franklin Live](https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU) | 6:52 |
 | 32 | [As We Worship](https://open.spotify.com/track/3cSM9pXri2UMikc9zAFUAQ) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT) | 4:52 |
 | 33 | [You Waited \(Live\)](https://open.spotify.com/track/2JffucuR5jZhDf9ysy0EnA) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Setlist Vol\. 1 \(Live\)](https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII) | 5:07 |
-| 34 | [Rushing In \- Live](https://open.spotify.com/track/02VfD2SkTugthTpKzDw8Zp) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Peace: The Album](https://open.spotify.com/album/46V8rvf1x9N0Cca4LD3Y8s) | 7:42 |
-| 35 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/39T5NZkYTomQw86dT9x0K1) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 9:45 |
+| 34 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/39T5NZkYTomQw86dT9x0K1) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 9:45 |
+| 35 | [Rushing In \- Live](https://open.spotify.com/track/02VfD2SkTugthTpKzDw8Zp) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Peace: The Album](https://open.spotify.com/album/46V8rvf1x9N0Cca4LD3Y8s) | 7:42 |
 | 36 | [The Battle Is the Lord's](https://open.spotify.com/track/1QN1TuZOtJssiRYkYbYO9S) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Live In Washington](https://open.spotify.com/album/6Ig7DpVL0oQhlX8Di6TbUk) | 6:28 |
 | 37 | [Yahweh / Yeshua Hamashiach](https://open.spotify.com/track/25IqbNWO1NaLuhSgRUeOQB) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX) | [Yahweh / Yeshua Hamashiach](https://open.spotify.com/album/1mXoILqtkoFF6rjJalxiVA) | 5:45 |
 | 38 | [Your Great Name \(Live\)](https://open.spotify.com/track/3hDeZSWqjlQPJM7w8zHToK) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name \(Live\) \- Single](https://open.spotify.com/album/1b5xZ0TrmAYNNCmtjnl2G5) | 4:25 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 48 | [He Always Wins \(feat\. Erica Campbell & 1K Phew\) \- Live](https://open.spotify.com/track/6qU9oq8DIy11V5ILcAkii2) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [He Always Wins \(feat\. Erica Campbell & 1K Phew\) \[Live\]](https://open.spotify.com/album/3FrRXhBBSF97k0leyU4fGO) | 7:02 |
 | 49 | [It's Not Over](https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 6:19 |
 
-Snapshot ID: `MTY3NjY5ODA4NCwwMDAwMDAwMGY1ZDE0NmRkNzhiOTEwNDhhMTBmZDkxNTQ0YmNhZjAy`
+Snapshot ID: `MTY3NjY5ODA4NCwwMDAwMDAwMDZjMmRkOTdhN2Y2YTZmYTY1MGVkYmY1MmNiZTdiNGQ1`

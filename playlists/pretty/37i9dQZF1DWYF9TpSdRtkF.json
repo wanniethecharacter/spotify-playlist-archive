@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\nTHE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 12000,
+  "num_followers": 12022,
   "original_name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MzczNywwMDAwMDAwMGM3ZTZlMjA1YTQzMzc1NDU1M2VhNmVlN2E0ODhkNGQ0",
+  "snapshot_id": "MTY3MzU4MzczNywwMDAwMDAwMGJhMTgyM2JmOTExYzFjMjVmY2M2MjFiZThjZjIwNzEy",
   "tracks": [
     {
       "added_at": "2023-01-13 04:22:17",
@@ -707,18 +707,30 @@
     {
       "added_at": "2023-01-13 04:22:17",
       "album": {
-        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 09",
-        "url": "https://open.spotify.com/album/5BlRVFC9TliHQRWVAmnBjx"
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
+        "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
       },
       "artists": [
         {
-          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
-          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
+          "name": "\u661f\u4e95\u7f8e\u5e0c (CV.\u9577\u8c37\u5ddd\u660e\u5b50)",
+          "url": "https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi"
+        },
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        },
+        {
+          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
+          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
+        },
+        {
+          "name": "Julia (CV: Aimi Terakawa)",
+          "url": "https://open.spotify.com/artist/6G6ysUbI4Z5QybH0R67Ybl"
         }
       ],
-      "duration_ms": 245333,
-      "name": "\u304d\u307e\u3050\u308c\u30e6\u30e2\u30ec\u30b9\u30af",
-      "url": "https://open.spotify.com/track/6q9C9m0Smx1CaMf6hdoFfY"
+      "duration_ms": 246840,
+      "name": "Marionette\u306f\u7720\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/17ZVx1jFauGaIbhiFzKZTl"
     },
     {
       "added_at": "2023-01-13 04:22:17",
@@ -771,30 +783,18 @@
     {
       "added_at": "2023-01-13 04:22:17",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
-        "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 09",
+        "url": "https://open.spotify.com/album/5BlRVFC9TliHQRWVAmnBjx"
       },
       "artists": [
         {
-          "name": "\u661f\u4e95\u7f8e\u5e0c (CV.\u9577\u8c37\u5ddd\u660e\u5b50)",
-          "url": "https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi"
-        },
-        {
-          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
-          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
-        },
-        {
-          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
-          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
-        },
-        {
-          "name": "Julia (CV: Aimi Terakawa)",
-          "url": "https://open.spotify.com/artist/6G6ysUbI4Z5QybH0R67Ybl"
+          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
         }
       ],
-      "duration_ms": 246840,
-      "name": "Marionette\u306f\u7720\u3089\u306a\u3044",
-      "url": "https://open.spotify.com/track/17ZVx1jFauGaIbhiFzKZTl"
+      "duration_ms": 245333,
+      "name": "\u304d\u307e\u3050\u308c\u30e6\u30e2\u30ec\u30b9\u30af",
+      "url": "https://open.spotify.com/track/6q9C9m0Smx1CaMf6hdoFfY"
     },
     {
       "added_at": "2023-01-13 04:22:17",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-01-13 04:22:17",
       "album": {
-        "name": "THE IDOLM@STER MILLION LIVE! ZWEIGLANZ \u30a2\u30e9\u30a4\u30a2\u30f3\u30b9\u30fb\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
-        "url": "https://open.spotify.com/album/0p8qcX8zAMWjT5EZuTNIM4"
-      },
-      "artists": [
-        {
-          "name": "Leon (CV: Minori Chihara)",
-          "url": "https://open.spotify.com/artist/6kxMRD5NbPDJ9Ea7YX7HTf"
-        },
-        {
-          "name": "Shiika (CV: Rie Takahashi)",
-          "url": "https://open.spotify.com/artist/2U7I2Jmb1BrunQPM4eGL6G"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "\u30a2\u30e9\u30a4\u30a2\u30f3\u30b9\u30fb\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
-      "url": "https://open.spotify.com/track/6Z1BgE3iXCdpEUoTf5Z3D0"
-    },
-    {
-      "added_at": "2023-01-13 04:22:17",
-      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody",
         "url": "https://open.spotify.com/album/0dqNWSJ8ePef1E2HbmmnNH"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 292893,
       "name": "Sweet Sweet Soul",
       "url": "https://open.spotify.com/track/0cdsp44UOjWKtzTSm21Oti"
+    },
+    {
+      "added_at": "2023-01-13 04:22:17",
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! ZWEIGLANZ \u30a2\u30e9\u30a4\u30a2\u30f3\u30b9\u30fb\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/0p8qcX8zAMWjT5EZuTNIM4"
+      },
+      "artists": [
+        {
+          "name": "Leon (CV: Minori Chihara)",
+          "url": "https://open.spotify.com/artist/6kxMRD5NbPDJ9Ea7YX7HTf"
+        },
+        {
+          "name": "Shiika (CV: Rie Takahashi)",
+          "url": "https://open.spotify.com/artist/2U7I2Jmb1BrunQPM4eGL6G"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "\u30a2\u30e9\u30a4\u30a2\u30f3\u30b9\u30fb\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/6Z1BgE3iXCdpEUoTf5Z3D0"
     },
     {
       "added_at": "2023-01-13 04:22:17",

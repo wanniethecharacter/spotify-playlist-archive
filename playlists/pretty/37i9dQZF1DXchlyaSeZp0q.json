@@ -1,12 +1,12 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 112106,
+  "num_followers": 112373,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0OTA4NCwwMDAwMDAwMGVjMzhiZWE2YmVkM2IwOGU3MWZlMWFhODBhM2MwNmE1",
+  "snapshot_id": "MTY2MjY0OTA4NCwwMDAwMDAwMGZhMjk0ZjUyZDc0Njc1MTA0ODZlNWQ5OGRmYjM2YTA5",
   "tracks": [
     {
       "added_at": "2021-11-11 14:02:18",
@@ -655,22 +655,18 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "Faithful Man",
-        "url": "https://open.spotify.com/album/38vdzwOSCNDvh81G0QmGfk"
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
       },
       "artists": [
         {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 252973,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/2BZjcbZpQyyhpVr3gMGPn6"
+      "duration_ms": 249946,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/2tF6qsoOtu92PzCTk4OKOf"
     }
   ],
   "unique_name": "Sad Soul",

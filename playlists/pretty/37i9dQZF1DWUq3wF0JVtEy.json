@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 899414,
+  "num_followers": 899630,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ2MDQwMCwwMDAwMDAwMGM3MjE1YzgxZTNjMTlhZWFlOTVlNzY3NGIzZGQ1Mzhl",
+  "snapshot_id": "MTY3ODQ2MDQwMCwwMDAwMDAwMGQ0YzY4YzMzYWQ4ZTU0MDFhMDA0MjM0MTNkNTRmZDRl",
   "tracks": [
     {
       "added_at": "2023-03-10 15:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-03-10 15:00:00",
       "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
-    },
-    {
-      "added_at": "2023-03-10 15:00:00",
-      "album": {
         "name": "The Drop (Ownboss Remix)",
         "url": "https://open.spotify.com/album/0xpfN2PvmlHbF5ki5u3RJR"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 176328,
       "name": "The Drop - \u00d6wnboss Remix",
       "url": "https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69"
+    },
+    {
+      "added_at": "2023-03-10 15:00:00",
+      "album": {
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2023-03-10 15:00:00",
@@ -1075,18 +1075,22 @@
     {
       "added_at": "2023-03-10 15:00:00",
       "album": {
-        "name": "Wish He Knew",
-        "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
       },
       "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
         {
           "name": "FETISH",
           "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Wish He Knew",
-      "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
+      "duration_ms": 141897,
+      "name": "Banga",
+      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
     },
     {
       "added_at": "2023-03-10 15:00:00",
@@ -1107,22 +1111,18 @@
     {
       "added_at": "2023-03-10 15:00:00",
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
+        "name": "Wish He Knew",
+        "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
       },
       "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
         {
           "name": "FETISH",
           "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
         }
       ],
-      "duration_ms": 141897,
-      "name": "Banga",
-      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
+      "duration_ms": 157500,
+      "name": "Wish He Knew",
+      "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
     },
     {
       "added_at": "2023-03-10 15:00:00",
@@ -1147,18 +1147,22 @@
     {
       "added_at": "2023-03-10 15:00:00",
       "album": {
-        "name": "Nudes",
-        "url": "https://open.spotify.com/album/4vtBTnn8AbVYqYnHZf3NVb"
+        "name": "Molotov",
+        "url": "https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e"
       },
       "artists": [
         {
-          "name": "Flakk\u00eb",
-          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
         }
       ],
-      "duration_ms": 136055,
-      "name": "Nudes",
-      "url": "https://open.spotify.com/track/6mjCVjYkqyo4IG4nMhlpD2"
+      "duration_ms": 178065,
+      "name": "Molotov",
+      "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
     },
     {
       "added_at": "2023-03-10 15:00:00",
@@ -1203,6 +1207,22 @@
     {
       "added_at": "2023-03-10 15:00:00",
       "album": {
+        "name": "Nudes",
+        "url": "https://open.spotify.com/album/4vtBTnn8AbVYqYnHZf3NVb"
+      },
+      "artists": [
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        }
+      ],
+      "duration_ms": 136055,
+      "name": "Nudes",
+      "url": "https://open.spotify.com/track/6mjCVjYkqyo4IG4nMhlpD2"
+    },
+    {
+      "added_at": "2023-03-10 15:00:00",
+      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe"
       },
@@ -1223,22 +1243,22 @@
     {
       "added_at": "2023-03-10 15:00:00",
       "album": {
-        "name": "Molotov",
-        "url": "https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e"
+        "name": "Welcome To The Future",
+        "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
       },
       "artists": [
         {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
         },
         {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
         }
       ],
-      "duration_ms": 178065,
-      "name": "Molotov",
-      "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
+      "duration_ms": 172800,
+      "name": "Welcome To The Future",
+      "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
     },
     {
       "added_at": "2023-03-10 15:00:00",
@@ -1259,26 +1279,6 @@
       "duration_ms": 169252,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/0kbd4eKn7jyHTjdIBX6aZk"
-    },
-    {
-      "added_at": "2023-03-10 15:00:00",
-      "album": {
-        "name": "Welcome To The Future",
-        "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Welcome To The Future",
-      "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
     },
     {
       "added_at": "2023-03-10 15:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-03-10 15:00:00",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/5xONA3ROlUquCv7IYc6Do3"
-      },
-      "artists": [
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1"
-    },
-    {
-      "added_at": "2023-03-10 15:00:00",
-      "album": {
         "name": "Grimestar",
         "url": "https://open.spotify.com/album/1eLo0jdJfOvE6oOkLvyEmt"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 168857,
       "name": "Grimestar",
       "url": "https://open.spotify.com/track/2dJbz9Q2X33c7l9uCRxoy5"
+    },
+    {
+      "added_at": "2023-03-10 15:00:00",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/5xONA3ROlUquCv7IYc6Do3"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1"
     },
     {
       "added_at": "2023-03-10 15:00:00",
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2023-03-10 15:00:00",
       "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/1W09O51MifKfx4XAl851q9"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 171076,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/3FEDVRLhSQbtXKXrUhsEJa"
+    },
+    {
+      "added_at": "2023-03-10 15:00:00",
+      "album": {
         "name": "Cathedral (Piece Of Me) [feat. JEN]",
         "url": "https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG"
       },
@@ -1783,26 +1803,6 @@
     {
       "added_at": "2023-03-10 15:00:00",
       "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/1W09O51MifKfx4XAl851q9"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 171076,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/3FEDVRLhSQbtXKXrUhsEJa"
-    },
-    {
-      "added_at": "2023-03-10 15:00:00",
-      "album": {
         "name": "Broke Bitch",
         "url": "https://open.spotify.com/album/62uCkdPVscfNWzzqIdSjxB"
       },
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-03-10 15:00:00",
       "album": {
-        "name": "Policia",
-        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 211163,
-      "name": "Policia",
-      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
-    },
-    {
-      "added_at": "2023-03-10 15:00:00",
-      "album": {
         "name": "Have Me All (feat. Jelita)",
         "url": "https://open.spotify.com/album/5Cg1VcWn4inAueYXbUcNY6"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 170004,
       "name": "Have Me All (feat. Jelita)",
       "url": "https://open.spotify.com/track/5NAeLHGIbxGcmKMwYxuwWS"
+    },
+    {
+      "added_at": "2023-03-10 15:00:00",
+      "album": {
+        "name": "Policia",
+        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 211163,
+      "name": "Policia",
+      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
     },
     {
       "added_at": "2023-03-10 15:00:00",
@@ -1935,18 +1935,18 @@
     {
       "added_at": "2023-03-10 15:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e"
+        "name": "LEFT TO RIGHT",
+        "url": "https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q"
       },
       "artists": [
         {
-          "name": "Famba",
-          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
         }
       ],
-      "duration_ms": 238085,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H"
+      "duration_ms": 146250,
+      "name": "LEFT TO RIGHT",
+      "url": "https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc"
     }
   ],
   "unique_name": "Shuffle Syndrome",

@@ -4,7 +4,7 @@
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-50 songs - 4 hr 48 min
+51 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,10 +28,11 @@
 | [Follow You Anywhere \- Live](https://open.spotify.com/track/3OhF89cVIbCq5oG4syZ3dr) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Follow You Anywhere \(Live\)](https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1) | 5:00 | 2023-03-10 |  |
 | [Glorioso Día](https://open.spotify.com/track/0ksqrKoeNvywkfeqltzVQ3) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Glorioso Día](https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i) | 4:20 | 2023-03-10 |  |
 | [Glorious Day \- Live](https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 4:58 | 2023-03-10 |  |
-| [God And God Alone](https://open.spotify.com/track/6H5DEiKUjCGDresuPy2c9P) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Salvation’s Tide Is Rising](https://open.spotify.com/album/0BXkvCb93t89mVfvWl2gop) | 4:57 | 2023-03-10 |  |
+| [God And God Alone](https://open.spotify.com/track/6H5DEiKUjCGDresuPy2c9P) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Salvation’s Tide Is Rising](https://open.spotify.com/album/0BXkvCb93t89mVfvWl2gop) | 4:57 | 2023-03-10 | 2023-03-13 |
 | [God Of This City \- Live](https://open.spotify.com/track/47qcfvLEpd0aq6doUZ5goj) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:05 | 2023-03-10 |  |
 | [God Of Wonders \- Live](https://open.spotify.com/track/4VvhdAJYKkQoVqug73IeOL) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Our Love Is Loud \(Live\)](https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy) | 4:38 | 2023-03-10 |  |
 | [God, You’re So Good \- Live](https://open.spotify.com/track/3AHWbUsTaYecnT4aTEU0ut) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [Whole Heart \(Live\)](https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky) | 7:06 | 2023-03-10 |  |
+| [Heaven \- Live](https://open.spotify.com/track/28z598q2VWCSTdTT1opliw) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Whole Heart \(Live\)](https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky) | 5:09 | 2023-03-12 |  |
 | [Here For You \- Live](https://open.spotify.com/track/35xxlDrbgHAbOMYLoTrImH) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Here For You \(Live\)](https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O) | 4:40 | 2023-03-10 |  |
 | [Holy Ground \- Live](https://open.spotify.com/track/2Z0A7W013G7P0byg4GNtse) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 5:28 | 2023-03-10 |  |
 | [How Great Is Our God \- Live](https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: The Essential Collection \(Live\)](https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31) | 4:51 | 2023-03-10 |  |

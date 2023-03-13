@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 61672,
+  "num_followers": 61682,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMGIxZjFiYmFjYWM2MTc2OTA0ZWJkZGJmMTM5MmRlMjgy",
+  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDE5YWJjNGYzM2M4YTFlODZkNzg3NWU2YjkzYjE4ZmEy",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -833,20 +833,20 @@
       "url": "https://open.spotify.com/track/6eDMElxeeKXs4DHTb0dGP0"
     },
     {
-      "added_at": "2022-06-07 14:45:28",
+      "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Trem-Bala",
-        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
+        "name": "Um banda um",
+        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
       },
       "artists": [
         {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 180319,
-      "name": "Trem-Bala",
-      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
+      "duration_ms": 200960,
+      "name": "Andar com f\u00e9",
+      "url": "https://open.spotify.com/track/2BvDFQOl4JieEGK2cgKOey"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -869,20 +869,20 @@
       "url": "https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt"
     },
     {
-      "added_at": "2021-08-18 22:14:03",
+      "added_at": "2022-06-07 14:45:28",
       "album": {
-        "name": "Um banda um",
-        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
+        "name": "Trem-Bala",
+        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
         }
       ],
-      "duration_ms": 200960,
-      "name": "Andar com f\u00e9",
-      "url": "https://open.spotify.com/track/2BvDFQOl4JieEGK2cgKOey"
+      "duration_ms": 180319,
+      "name": "Trem-Bala",
+      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
     },
     {
       "added_at": "2022-06-07 14:45:28",
@@ -1349,22 +1349,6 @@
       "url": "https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl"
     },
     {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Jazz",
-        "url": "https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Bicycle Race",
-      "url": "https://open.spotify.com/track/5rQKjP9forn7JVuiZBj6eZ"
-    },
-    {
       "added_at": "2022-06-07 14:45:28",
       "album": {
         "name": "Nossa Hist\u00f3ria (Ao Vivo)",
@@ -1379,6 +1363,22 @@
       "duration_ms": 199754,
       "name": "N\u00e3o D\u00e1 Pra N\u00e3o Pensar - Ao Vivo",
       "url": "https://open.spotify.com/track/1bWJPIOQXBcIl5GKuElFap"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Bicycle Race",
+      "url": "https://open.spotify.com/track/5rQKjP9forn7JVuiZBj6eZ"
     },
     {
       "added_at": "2021-08-18 22:14:03",

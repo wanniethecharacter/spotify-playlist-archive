@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  Lecrae
 
-758 songs - 1 day 14 hr 10 min
+759 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [believe](https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [believe](https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012) | 2:35 | 2022-08-06 |  |
 | [Best I Can](https://open.spotify.com/track/5FE26lUA2lpy8ksOzJ2V5u) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Seaux Chill](https://open.spotify.com/artist/1m9azqggcxRtwUD9awNYTV), [Andrew Blooms](https://open.spotify.com/artist/5o17ihVicRuwiD54GBZpt1), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N) | [Best I Can](https://open.spotify.com/album/57JMmTiuiVqE3z8uYKTzaD) | 4:16 | 2022-09-11 | 2022-09-17 |
 | [BEST NIGHT](https://open.spotify.com/track/5gwjlmywKglmE8y4lVBV0j) | [RAY G](https://open.spotify.com/artist/1mGgGsYIUyBrrYQNL9XD5C), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj), [Joey Vantes](https://open.spotify.com/artist/7hJoApA9cwgCqWGvIhbCyc), [A\. Ruiz](https://open.spotify.com/artist/5chrjHIlDZQyVadLbWzgbO) | [BEST NIGHT](https://open.spotify.com/album/4unZ0GkcZuI9qWIdF77eiL) | 2:41 | 2022-05-28 | 2022-10-04 |
+| [Best Version of Me \- Pt\. 2](https://open.spotify.com/track/28zHBm2DbG4pJ0RcCsiIMg) | [Larell](https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw) | [Best Version of Me \(Pt\. 2\)](https://open.spotify.com/album/2Bm4LMRaJ6jn6Q4AN0kvNl) | 2:25 | 2023-03-13 |  |
 | [Better](https://open.spotify.com/track/7Cj7IyWN8AJQHJHYITy4uX) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [Light Work: Deluxe Playlist](https://open.spotify.com/album/26Yliop485JFU8iQJjxtgg) | 3:15 | 2021-12-11 | 2022-01-09 |
 | [Better](https://open.spotify.com/track/1WvgGT8Q4uIdrY7KQgVNnz) | [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Better](https://open.spotify.com/album/4MU9KSElQSxRfRcNAL83An) | 2:53 | 2022-04-29 | 2022-07-27 |
 | [Beyonce](https://open.spotify.com/track/2R7qwPxoHUCH43gvwjfQPA) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Beyonce](https://open.spotify.com/album/4GwcsFOGW6IgUTAEQtQSl2) | 3:22 | 2021-12-11 | 2022-04-29 |
@@ -426,7 +427,7 @@
 | [My Bruddas](https://open.spotify.com/track/4VfPAgdUPrwnat0kOsbdRu) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [My Bruddas](https://open.spotify.com/album/2ijkyNFFJUHG4g8eBaarQS) | 2:59 | 2022-02-04 | 2022-08-07 |
 | [My Favorite Part](https://open.spotify.com/track/1BEZllp0OjYhTiZvY9NTRY) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [My Favorite Part](https://open.spotify.com/album/09kaxWDpX4VlpfYSTLsKHc) | 2:27 | 2021-12-11 | 2022-05-29 |
 | [MY GOD](https://open.spotify.com/track/3krb5j9ZsU8DDNKu3FvfKR) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [MY GOD](https://open.spotify.com/album/3MeHz4YLJCt5aNhbAQxK86) | 3:01 | 2021-12-11 | 2022-04-29 |
-| [MY HAPPY](https://open.spotify.com/track/2AUrcjKg71AaqyYwuAbOEd) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [DJ Mal\-Ski](https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS) | [MY HAPPY](https://open.spotify.com/album/1nlHCQbk0LNmnkg2KLME1A) | 2:56 | 2023-01-27 |  |
+| [MY HAPPY](https://open.spotify.com/track/2AUrcjKg71AaqyYwuAbOEd) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [DJ Mal\-Ski](https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS) | [MY HAPPY](https://open.spotify.com/album/1nlHCQbk0LNmnkg2KLME1A) | 2:56 | 2023-01-27 | 2023-03-13 |
 | [my year](https://open.spotify.com/track/29xxP6mLTIadUao1NHMj9x) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [AOTY](https://open.spotify.com/album/2uooBtdxDqd5dU7QaBTPcm) | 4:00 | 2022-05-28 | 2023-01-28 |
 | [NAH](https://open.spotify.com/track/1ZD1B2PFcK5reDvjQ0Dffu) | [Tre'Gadd](https://open.spotify.com/artist/6NCcfV9K0gZqFBfFLQqWRH), [NXTMIKE](https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g) | [NAH](https://open.spotify.com/album/7dR0lHi4CFJv1QCDwwv3Lx) | 2:02 | 2022-09-16 | 2022-10-30 |
 | [Nah Nah Nah.](https://open.spotify.com/track/0zFjqg0DUmzJ66eAhrDNE1) | [Jay Violet](https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL) | [Nah Nah Nah.](https://open.spotify.com/album/5LyeM79KptLjhgxa7Ppfto) | 2:35 | 2022-04-29 | 2022-05-27 |

@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 335470,
+  "num_followers": 335655,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM4MDE3NiwwMDAwMDAwMDRjZDE3MTNiODkzOWUxMzlkYzQzZGQxYzg0NDBjYmUw",
+  "snapshot_id": "MTY3ODM4MDE3NiwwMDAwMDAwMDQ5OWNhNDczNDc5MjcxZTNmNDgwNWViNDg2NzRjNWI1",
   "tracks": [
     {
       "added_at": "2023-02-09 16:16:26",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-02-09 16:16:26",
       "album": {
+        "name": "Pharmacy",
+        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Peanut Butter Jelly",
+      "url": "https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH"
+    },
+    {
+      "added_at": "2023-02-09 16:16:26",
+      "album": {
         "name": "Ride With Me (feat. Kid Ink) [Brennan Heart Remix]",
         "url": "https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2023-02-09 16:16:26",
       "album": {
-        "name": "Pharmacy",
-        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Peanut Butter Jelly",
-      "url": "https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH"
-    },
-    {
-      "added_at": "2023-02-09 16:16:26",
-      "album": {
         "name": "Astronomia (Never Go Home)",
         "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
       },
@@ -699,6 +699,26 @@
       "duration_ms": 156888,
       "name": "Astronomia - Never Go Home",
       "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
+    },
+    {
+      "added_at": "2023-03-13 01:38:27",
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 183925,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8"
     },
     {
       "added_at": "2023-02-09 16:16:26",
@@ -723,26 +743,6 @@
     {
       "added_at": "2023-02-09 16:16:26",
       "album": {
-        "name": "Hooked (Hot Stuff)",
-        "url": "https://open.spotify.com/album/60lqEXjkTbDsn5X1wHy6bq"
-      },
-      "artists": [
-        {
-          "name": "RIKA",
-          "url": "https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 171188,
-      "name": "Hooked (Hot Stuff)",
-      "url": "https://open.spotify.com/track/0PAPiFLJYjt55g8rO1uG9B"
-    },
-    {
-      "added_at": "2023-02-09 16:16:26",
-      "album": {
         "name": "You Don't Know Me",
         "url": "https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B"
       },
@@ -759,6 +759,26 @@
       "duration_ms": 213946,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu"
+    },
+    {
+      "added_at": "2023-02-09 16:16:26",
+      "album": {
+        "name": "Hooked (Hot Stuff)",
+        "url": "https://open.spotify.com/album/60lqEXjkTbDsn5X1wHy6bq"
+      },
+      "artists": [
+        {
+          "name": "RIKA",
+          "url": "https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 171188,
+      "name": "Hooked (Hot Stuff)",
+      "url": "https://open.spotify.com/track/0PAPiFLJYjt55g8rO1uG9B"
     },
     {
       "added_at": "2023-02-09 16:16:26",
@@ -1023,26 +1043,6 @@
       "duration_ms": 162425,
       "name": "Let Me Hold You (Turn Me On)",
       "url": "https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn"
-    },
-    {
-      "added_at": "2023-02-09 16:16:26",
-      "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/60SKSurtzL5m59nahMg9TL"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/7CEIFwLf4XmFz8okORSizE"
     }
   ],
   "unique_name": "EDM Samplings",

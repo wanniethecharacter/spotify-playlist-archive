@@ -4,7 +4,7 @@
 
 > Electronic + Dance making waves, every month\. Cover: Austin Millz, artwork by Ian Woods
 
-230 songs - 13 hr 32 min
+231 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 | 2022-08-05 | 2022-09-10 |
 | [We Are One](https://open.spotify.com/track/3J3XaMhpQvDfJjCE38ow9x) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [We Are One](https://open.spotify.com/album/3lF2W0TPmVTLdB0SqzB4wE) | 3:48 | 2022-02-01 | 2022-04-29 |
 | [We Bring It](https://open.spotify.com/track/4J7cSix3jYkSc6n76TgxEJ) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [We Bring It](https://open.spotify.com/album/4rKPPgUL5T28e6YPPsTz5Y) | 6:08 | 2022-09-16 |  |
-| [We'll Stand Together](https://open.spotify.com/track/7bEcCqfWWO6r8KBrNjwhRo) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [We'll Stand Together](https://open.spotify.com/album/09Lb2n6nP2iFB32FQQ3gv4) | 3:09 | 2022-06-17 |  |
+| [We'll Stand Together](https://open.spotify.com/track/7bEcCqfWWO6r8KBrNjwhRo) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [We'll Stand Together](https://open.spotify.com/album/09Lb2n6nP2iFB32FQQ3gv4) | 3:09 | 2022-06-17 | 2023-03-13 |
+| [We'll Stand Together](https://open.spotify.com/track/1kj4aaLoC4HXAAjHJQmoN5) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [We'll Stand Together](https://open.spotify.com/album/7C8ELPO9dxoIqszNXHawvr) | 3:09 | 2023-03-10 |  |
 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 | 2023-01-27 |  |
 | [What Chu Waiting For?](https://open.spotify.com/track/6FpJyIZaQiRFQliaMnJIyK) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Dai Burger](https://open.spotify.com/artist/1y6hiqeSWkQrJYXkU5PvUk) | [Heartbeats](https://open.spotify.com/album/0ZR5JXKysRQEEAZ0oWrxmJ) | 3:20 | 2022-02-01 | 2023-01-28 |
 | [What's Next](https://open.spotify.com/track/7dSQHfnJSK0SzmPpiuNrlC) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [What's Next](https://open.spotify.com/album/5BgDSrPBRrUmr0C77N3T5P) | 2:39 | 2022-05-06 | 2023-02-11 |

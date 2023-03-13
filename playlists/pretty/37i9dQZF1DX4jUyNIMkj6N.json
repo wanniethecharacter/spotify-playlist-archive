@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 175770,
+  "num_followers": 175860,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMGZlZmU4MzZiMDU2MGVlZGFhNDM1YzQ1NDA2ZmMzOTg4",
+  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMDI1NGRkMzdiMjYxYTY5MWM3NWZkYWIzNjE2NThkMWZh",
   "tracks": [
     {
       "added_at": "2023-02-16 23:01:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Dr\u00f6mmer",
-        "url": "https://open.spotify.com/album/5kIFqtdB34Q3nFsOUavKUB"
-      },
-      "artists": [
-        {
-          "name": "Celestial Aeon Project",
-          "url": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
-        },
-        {
-          "name": "forfedre",
-          "url": "https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW"
-        }
-      ],
-      "duration_ms": 277657,
-      "name": "Vikings",
-      "url": "https://open.spotify.com/track/5qirIQ2MMhySjzxVDDWTas"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "Early Summer Rain",
         "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 133184,
       "name": "The Devil's Tongue",
       "url": "https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "Dr\u00f6mmer",
+        "url": "https://open.spotify.com/album/5kIFqtdB34Q3nFsOUavKUB"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aeon Project",
+          "url": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
+        },
+        {
+          "name": "forfedre",
+          "url": "https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW"
+        }
+      ],
+      "duration_ms": 277657,
+      "name": "Vikings",
+      "url": "https://open.spotify.com/track/5qirIQ2MMhySjzxVDDWTas"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
-      },
-      "artists": [
-        {
-          "name": "Sin Fang",
-          "url": "https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Look At The Light",
-      "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "Jonas Alaska",
         "url": "https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 224179,
       "name": "October",
       "url": "https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
+      },
+      "artists": [
+        {
+          "name": "Sin Fang",
+          "url": "https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Look At The Light",
+      "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J"
+      },
+      "artists": [
+        {
+          "name": "Silver Lining",
+          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
         "name": "Cheap Disposition / Bitre Miner",
         "url": "https://open.spotify.com/album/7imJLmLYlNOgwuwuT6NEHy"
       },
@@ -975,18 +991,18 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Grey",
-        "url": "https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J"
+        "name": "Joni Was Right Pt. II",
+        "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
       },
       "artists": [
         {
-          "name": "Silver Lining",
-          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
         }
       ],
-      "duration_ms": 232960,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
+      "duration_ms": 200262,
+      "name": "Bluebelle Mountain",
+      "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -1007,22 +1023,6 @@
       "duration_ms": 203933,
       "name": "Ain't Nobody Like Me",
       "url": "https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Joni Was Right Pt. II",
-        "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        }
-      ],
-      "duration_ms": 200262,
-      "name": "Bluebelle Mountain",
-      "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
     }
   ],
   "unique_name": "Nordic Folk",

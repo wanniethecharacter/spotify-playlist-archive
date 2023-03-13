@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Michaël Brun
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,135 likes - 82 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,164 likes - 82 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 45 | [Nou Pare](https://open.spotify.com/track/4MnggOv6w9gmdSlVTukec6) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Coralie Hérard](https://open.spotify.com/artist/3IfmJG3XCLi3hLhwO53eFR) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 3:14 |
 | 46 | [Kote'w Te Ye](https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw) | [Beken](https://open.spotify.com/artist/27JrHY7vnpdv1zEfe3F8FQ) | [Troubadour](https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z) | 3:35 |
 | 47 | [Ogou \(Pran Ka Mwen\)](https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Ogou \(Pran Ka Mwen\)](https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y) | 4:56 |
-| 48 | [New York City](https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi) | [Tabou Combo](https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh) | [Anthology, Vol\. IV](https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey) | 8:46 |
-| 49 | [On va pas baisser les bras](https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r) | [Paska](https://open.spotify.com/artist/1bzxy9o2LlCO1NZOXGRSe6), [Romeomania](https://open.spotify.com/artist/3Gd9aSyUrIZVbZmC6q6A4w) | [On va pas baisser les bras](https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A) | 3:15 |
+| 48 | [On va pas baisser les bras](https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r) | [Paska](https://open.spotify.com/artist/1bzxy9o2LlCO1NZOXGRSe6), [Romeomania](https://open.spotify.com/artist/3Gd9aSyUrIZVbZmC6q6A4w) | [On va pas baisser les bras](https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A) | 3:15 |
+| 49 | [New York City](https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi) | [Tabou Combo](https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh) | [Anthology, Vol\. IV](https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey) | 8:46 |
 | 50 | [A.k.i.ko.](https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:51 |
 | 51 | [Imamou Lele](https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c) | [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Revolution](https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv) | 1:42 |
 | 52 | [Kote moun yo](https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Haiti debout](https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE) | 3:18 |
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 75 | [Culo](https://open.spotify.com/track/76z00avJmFVkjRcnufMEou) | [Jamhaitian](https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq) | [Culo](https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES) | 3:12 |
 | 76 | [Nan ou](https://open.spotify.com/track/7BXFfnn1uw7e1Zx6Pi3KGH) | [Gessica Généus](https://open.spotify.com/artist/1GAw14vejnlO5eyny3lDHw) | [Nan ou](https://open.spotify.com/album/6hofahig2OrGv725bqsmo3) | 3:46 |
 | 77 | [Papa Loko \(Arr\. N\. Joachim\) \- Interlude\. September 24, 1918](https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i), [Spektral Quartet](https://open.spotify.com/artist/2s8HBhXmdcVH5UHQzANkjb) | [Fanm d'Ayiti](https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm) | 6:40 |
-| 78 | [Only You](https://open.spotify.com/track/2W4Nb6RIJrpE8PEpX9POZD) | [KeyAra](https://open.spotify.com/artist/5ip5n1ajctLiO63CCJfEv6), [KOLO](https://open.spotify.com/artist/2CICr3LR6jHHl0V6DmAtWE), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Only You](https://open.spotify.com/album/7CJwyU2x5ZD5EvAkDPe8K7) | 3:17 |
-| 79 | [Tet Ou Wo](https://open.spotify.com/track/6dFDWlG7CChRzolv1x0URN) | [Dadi Belvokal](https://open.spotify.com/artist/7acxZvRU3rgDZGcZmbRtHq) | [Replay](https://open.spotify.com/album/6V0J1WLHrN3BuuP2YOD7ND) | 2:53 |
+| 78 | [Tet Ou Wo](https://open.spotify.com/track/6dFDWlG7CChRzolv1x0URN) | [Dadi Belvokal](https://open.spotify.com/artist/7acxZvRU3rgDZGcZmbRtHq) | [Replay](https://open.spotify.com/album/6V0J1WLHrN3BuuP2YOD7ND) | 2:53 |
+| 79 | [Only You](https://open.spotify.com/track/2W4Nb6RIJrpE8PEpX9POZD) | [KeyAra](https://open.spotify.com/artist/5ip5n1ajctLiO63CCJfEv6), [KOLO](https://open.spotify.com/artist/2CICr3LR6jHHl0V6DmAtWE), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Only You](https://open.spotify.com/album/7CJwyU2x5ZD5EvAkDPe8K7) | 3:17 |
 | 80 | [Mr Diablo](https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Mr Diablo](https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa) | 2:46 |
 | 81 | [Ma Woule](https://open.spotify.com/track/252xRBHjl3jNeFelAaXOyS) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Jean Caze](https://open.spotify.com/artist/6QH5fVIRcgRBVVhOM3P5hv) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY) | 5:09 |
 | 82 | [Fam](https://open.spotify.com/track/2v8G0VjL4H3ZcLMJrQJ1JJ) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX), [Nuaje](https://open.spotify.com/artist/5kFTN3cp3fXf25X95gL3CH) | [Fam](https://open.spotify.com/album/034S6quoJ1Z1hjE84MBtjM) | 3:23 |
 
-Snapshot ID: `MTY3NjY3MzYwOCwwMDAwMDAwMDBlNGQwMWFjNTUzOGI5Nzk2ZmIxMDc5NWM5MDI3NmY5`
+Snapshot ID: `MTY3NjY3MzYwOCwwMDAwMDAwMDgyYTA5ZDczY2IwYWExZDc5M2FkODQ5YjhhOGVlZmRh`

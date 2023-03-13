@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-481 songs - 1 day 5 hr 45 min
+482 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1sp7bA5S2pxf2mNsVLCjuU) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/7979k1NF3U9qJlbgl9yoAj) | 3:36 | 2022-08-30 |  |
 | [A Sleepin' Bee](https://open.spotify.com/track/6JbvbDMUh0X2seQPxx0Y2n) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [A Sleepin' Bee](https://open.spotify.com/album/5kNzBcZqlr7x4hLt1ugC1p) | 3:42 | 2022-09-29 |  |
 | [A Stones Throw](https://open.spotify.com/track/1dE7a8x9VA5BDo4Xzwuzy5) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Palms](https://open.spotify.com/album/13opJ5xFlR2jlQgmNU1bKG) | 3:45 | 2022-06-28 | 2022-07-28 |
+| [A Thousand Candles](https://open.spotify.com/track/6FPlA5HOSAyEv7QzfCAVy6) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [A Thousand Candles](https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa) | 3:35 | 2023-03-09 |  |
 | [A Time For Love](https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 5:08 | 2022-06-28 | 2022-10-13 |
 | [Abisko](https://open.spotify.com/track/65zFbHuyUdai6WFwtPAkix) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Abisko](https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp) | 2:48 | 2022-06-28 | 2022-10-08 |
 | [Absence](https://open.spotify.com/track/0q243837xX1qJmXuItLJHd) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Absence](https://open.spotify.com/album/13zi4vABi2RGi71sfTMLll) | 3:11 | 2022-06-28 | 2022-10-08 |
@@ -152,7 +153,7 @@
 | [Haze](https://open.spotify.com/track/3CGuaAf6lpT0bjutZ7DJt8) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Haze](https://open.spotify.com/album/0aRC6BqXtgWMaGPg9R9fcB) | 3:28 | 2022-06-28 | 2022-12-08 |
 | [Here It Is](https://open.spotify.com/track/5Y09UPBhAV1diMYpsTtVD9) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Here It Is](https://open.spotify.com/album/4v0eJPx0AOAzFXMv1S9x0g) | 3:08 | 2023-01-19 |  |
 | [Here´s That Rainy Day](https://open.spotify.com/track/2bd8JjaPL4XrbgGyWPqFms) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Born in July](https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt) | 3:54 | 2022-06-28 | 2022-10-08 |
-| [Hills Are Green](https://open.spotify.com/track/4qo2GCWvoq0FOwB09BYNn0) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Hills Are Green](https://open.spotify.com/album/7JxpIeshWJtSBR4SqN0D4B) | 4:09 | 2022-12-30 |  |
+| [Hills Are Green](https://open.spotify.com/track/4qo2GCWvoq0FOwB09BYNn0) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Hills Are Green](https://open.spotify.com/album/7JxpIeshWJtSBR4SqN0D4B) | 4:09 | 2022-12-30 | 2023-03-13 |
 | [Holograms](https://open.spotify.com/track/0MTxJdAZ7XYz5ES0GT5Dd7) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Holograms](https://open.spotify.com/album/32TK2PRS6wBvm4JIM9DdNk) | 3:52 | 2023-03-02 |  |
 | [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-11-24 |  |
 | [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 | 2023-01-12 |  |

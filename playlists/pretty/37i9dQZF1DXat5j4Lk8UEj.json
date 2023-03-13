@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 487717,
+  "num_followers": 487747,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGI2NmY3Y2FmY2FjZmZhNWMyMWM2YzBiZTU2MTAzYWUy",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDMyOWNlMDZiMTI3MmFjMmNhNzA3NTJhMjRmNDFjMmMy",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Beneath The Skin",
-        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 276466,
-      "name": "I Of The Storm",
-      "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Beneath The Skin",
+        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 276466,
+      "name": "I Of The Storm",
+      "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "For The Company",
-        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
-      },
-      "artists": [
-        {
-          "name": "Little May",
-          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Seven Hours",
-      "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Happy Birthday, Ratboy",
         "url": "https://open.spotify.com/album/0LqZlJQ8AA0L7WAszLSKwn"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 169066,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/2K2CrQx5sK9i6A5EeDpUDn"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "For The Company",
+        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
+      },
+      "artists": [
+        {
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Seven Hours",
+      "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "That Kind of Life",
-        "url": "https://open.spotify.com/album/776dKpykjwfek0RB4dKfhV"
-      },
-      "artists": [
-        {
-          "name": "Michigan Rattlers",
-          "url": "https://open.spotify.com/artist/6X28JIfV57XfgqBpdAML7E"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "The Storm",
-      "url": "https://open.spotify.com/track/0HpS7acFdLHmLc1IFk1cTY"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 197305,
       "name": "Hardlytown",
       "url": "https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "That Kind of Life",
+        "url": "https://open.spotify.com/album/776dKpykjwfek0RB4dKfhV"
+      },
+      "artists": [
+        {
+          "name": "Michigan Rattlers",
+          "url": "https://open.spotify.com/artist/6X28JIfV57XfgqBpdAML7E"
+        }
+      ],
+      "duration_ms": 229026,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/0HpS7acFdLHmLc1IFk1cTY"
     },
     {
       "added_at": "2023-02-24 05:00:00",

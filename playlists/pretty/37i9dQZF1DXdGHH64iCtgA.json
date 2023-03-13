@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 59653,
+  "num_followers": 59688,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDYzMTI3NGJlYzc2OWY5ODU0ODNkNGE3NWRmMTMwMzNi",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGNmMGMyYTAzNDk0MWMxMmFiNjk5YWE2MWFmMjk2MDY0",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Premiers \u00e9mois",
-        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 176013,
-      "name": "Larme \u00e0 gauche",
-      "url": "https://open.spotify.com/track/5I0FpjL8ntcB3Z6MA4F1IH"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Fille de ta r\u00e9gion remix\u00e9e",
         "url": "https://open.spotify.com/album/6mM9jFuElvjw45AfSHNf0c"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 238081,
       "name": "Pluie fine - Polo & Pan Remix",
       "url": "https://open.spotify.com/track/33F1mJbbdTdmZuSI5zxoSw"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Premiers \u00e9mois",
+        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 176013,
+      "name": "Larme \u00e0 gauche",
+      "url": "https://open.spotify.com/track/5I0FpjL8ntcB3Z6MA4F1IH"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Starz",
-        "url": "https://open.spotify.com/album/4NESArVYihJKvoXk1eYE8A"
-      },
-      "artists": [
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Boylife in EU",
-      "url": "https://open.spotify.com/track/3ULEHJxcQuFWCoRc7AYncF"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "DANCEHALL",
         "url": "https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 214826,
       "name": "PLACES",
       "url": "https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Starz",
+        "url": "https://open.spotify.com/album/4NESArVYihJKvoXk1eYE8A"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 216360,
+      "name": "Boylife in EU",
+      "url": "https://open.spotify.com/track/3ULEHJxcQuFWCoRc7AYncF"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "acts of rebellion",
-        "url": "https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 360987,
-      "name": "they told us it was hard, but they were wrong.",
-      "url": "https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Pick Up (Even Shorter Version)",
         "url": "https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "ANIMA",
-        "url": "https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm"
+        "name": "acts of rebellion",
+        "url": "https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh"
       },
       "artists": [
         {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
         }
       ],
-      "duration_ms": 317986,
-      "name": "Traffic",
-      "url": "https://open.spotify.com/track/5f3V3b4WCIegPW92FXNKa2"
+      "duration_ms": 360987,
+      "name": "they told us it was hard, but they were wrong.",
+      "url": "https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1087,6 +1071,22 @@
       "duration_ms": 149051,
       "name": "Composure",
       "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "ANIMA",
+        "url": "https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm"
+      },
+      "artists": [
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "duration_ms": 317986,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/5f3V3b4WCIegPW92FXNKa2"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
+        "name": "Romance Noire",
+        "url": "https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD"
       },
       "artists": [
         {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+          "name": "Double Mixte",
+          "url": "https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR"
         }
       ],
-      "duration_ms": 176372,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
+      "duration_ms": 312466,
+      "name": "Romance Noire",
+      "url": "https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Romance Noire",
-        "url": "https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD"
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
       },
       "artists": [
         {
-          "name": "Double Mixte",
-          "url": "https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR"
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
         }
       ],
-      "duration_ms": 312466,
-      "name": "Romance Noire",
-      "url": "https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8"
+      "duration_ms": 176372,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 246182,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 412197,
       "name": "Electrian",
       "url": "https://open.spotify.com/track/6pErJ8bs3zL996xN0j93RF"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "On Your Mind",
-        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 246182,
-      "name": "On Your Mind",
-      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Young Lies",
+        "url": "https://open.spotify.com/album/2a8wGWGAR5NXoz3oeeG56Z"
+      },
+      "artists": [
+        {
+          "name": "Pot\u00e9",
+          "url": "https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        }
+      ],
+      "duration_ms": 230839,
+      "name": "Young Lies",
+      "url": "https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "U. (Junior Sanchez Remix)",
         "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
       },
@@ -1583,26 +1603,6 @@
       "duration_ms": 164000,
       "name": "U. - Junior Sanchez Remix",
       "url": "https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Young Lies",
-        "url": "https://open.spotify.com/album/2a8wGWGAR5NXoz3oeeG56Z"
-      },
-      "artists": [
-        {
-          "name": "Pot\u00e9",
-          "url": "https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5"
-        },
-        {
-          "name": "Damon Albarn",
-          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
-        }
-      ],
-      "duration_ms": 230839,
-      "name": "Young Lies",
-      "url": "https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Just Us",
-        "url": "https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "duration_ms": 405768,
-      "name": "Just Us",
-      "url": "https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Working Class Woman",
         "url": "https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 306187,
       "name": "So Right",
       "url": "https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 405768,
+      "name": "Just Us",
+      "url": "https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA"
     },
     {
       "added_at": "2023-02-10 05:00:00",

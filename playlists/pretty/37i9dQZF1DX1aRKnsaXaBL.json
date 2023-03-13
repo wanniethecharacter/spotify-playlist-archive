@@ -1,12 +1,12 @@
 {
   "description": "Catching sunsets con indie rock de fondo.",
-  "num_followers": 38,
+  "num_followers": 50,
   "original_name": "anaranjado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ3NzMyMCwwMDAwMDAwMDBhOWMyMTU4N2U1Yjg4ZDhhNDJjYTk1ZTkxYzE2NTJm",
+  "snapshot_id": "MTY3ODQ3NzMyMCwwMDAwMDAwMDQ1MTFhMjBiZTliYmQ4ZGMxMDY5OTRmYjE1YTFkMmFm",
   "tracks": [
     {
       "added_at": "2023-03-10 19:42:00",
@@ -75,6 +75,26 @@
     {
       "added_at": "2023-03-10 19:42:00",
       "album": {
+        "name": "Si Me Voy (with The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 203219,
+      "name": "Si Me Voy (with The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
+    },
+    {
+      "added_at": "2023-03-10 19:42:00",
+      "album": {
         "name": "Mi Mejor Versi\u00f3n",
         "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
       },
@@ -139,22 +159,6 @@
     {
       "added_at": "2023-03-10 19:42:00",
       "album": {
-        "name": "Sonidos De Karm\u00e1tica Resonancia",
-        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 270906,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
-    },
-    {
-      "added_at": "2023-03-10 19:42:00",
-      "album": {
         "name": "R\u00edo Salvaje",
         "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
@@ -171,22 +175,18 @@
     {
       "added_at": "2023-03-10 19:42:00",
       "album": {
-        "name": "Si Me Voy (with The Mar\u00edas)",
-        "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
+        "name": "Sonidos De Karm\u00e1tica Resonancia",
+        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 203219,
-      "name": "Si Me Voy (with The Mar\u00edas)",
-      "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
+      "duration_ms": 270906,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
     },
     {
       "added_at": "2023-03-10 19:42:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-03-10 19:42:00",
       "album": {
+        "name": "Holidays - Chromocosmic Avenue",
+        "url": "https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Holidays",
+      "url": "https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW"
+    },
+    {
+      "added_at": "2023-03-10 19:42:00",
+      "album": {
         "name": "Corolla 94",
         "url": "https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2023-03-10 19:42:00",
       "album": {
-        "name": "Holidays - Chromocosmic Avenue",
-        "url": "https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Holidays",
-      "url": "https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW"
-    },
-    {
-      "added_at": "2023-03-10 19:42:00",
-      "album": {
         "name": "Leche de Tigre",
         "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 241314,
       "name": "Persona Favorita",
       "url": "https://open.spotify.com/track/6WklRgGMJsQEB74MvnS36U"
+    },
+    {
+      "added_at": "2023-03-10 19:42:00",
+      "album": {
+        "name": "Medalla de Oro",
+        "url": "https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 340200,
+      "name": "Medalla de Oro",
+      "url": "https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl"
     },
     {
       "added_at": "2023-03-10 19:42:00",
@@ -475,50 +491,18 @@
     {
       "added_at": "2023-03-10 19:42:00",
       "album": {
-        "name": "Dejarte Ir Tambi\u00e9n Es Amar",
-        "url": "https://open.spotify.com/album/0xuwW3Q0bqsIstfTl4kgYi"
+        "name": "El Ding Dong",
+        "url": "https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp"
       },
       "artists": [
         {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
         }
       ],
-      "duration_ms": 192416,
-      "name": "Dejarte Ir",
-      "url": "https://open.spotify.com/track/5eyC34a60pEb4iYysPTgBX"
-    },
-    {
-      "added_at": "2023-03-10 19:42:00",
-      "album": {
-        "name": "Medalla de Oro",
-        "url": "https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 340200,
-      "name": "Medalla de Oro",
-      "url": "https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl"
-    },
-    {
-      "added_at": "2023-03-10 19:42:00",
-      "album": {
-        "name": "Verano en Coma",
-        "url": "https://open.spotify.com/album/4enBpErEDeCn3yKmg8FmKx"
-      },
-      "artists": [
-        {
-          "name": "Da Pawn",
-          "url": "https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy"
-        }
-      ],
-      "duration_ms": 330044,
-      "name": "Ballenas de Ruido",
-      "url": "https://open.spotify.com/track/3Glme0XFWokqcuHkIihryu"
+      "duration_ms": 159829,
+      "name": "El Ding Dong",
+      "url": "https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI"
     },
     {
       "added_at": "2023-03-10 19:42:00",
@@ -539,6 +523,38 @@
     {
       "added_at": "2023-03-10 19:42:00",
       "album": {
+        "name": "Dejarte Ir Tambi\u00e9n Es Amar",
+        "url": "https://open.spotify.com/album/0xuwW3Q0bqsIstfTl4kgYi"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        }
+      ],
+      "duration_ms": 192416,
+      "name": "Dejarte Ir",
+      "url": "https://open.spotify.com/track/5eyC34a60pEb4iYysPTgBX"
+    },
+    {
+      "added_at": "2023-03-10 19:42:00",
+      "album": {
+        "name": "Verano en Coma",
+        "url": "https://open.spotify.com/album/4enBpErEDeCn3yKmg8FmKx"
+      },
+      "artists": [
+        {
+          "name": "Da Pawn",
+          "url": "https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy"
+        }
+      ],
+      "duration_ms": 330044,
+      "name": "Ballenas de Ruido",
+      "url": "https://open.spotify.com/track/3Glme0XFWokqcuHkIihryu"
+    },
+    {
+      "added_at": "2023-03-10 19:42:00",
+      "album": {
         "name": "Sentimiento",
         "url": "https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY"
       },
@@ -551,38 +567,6 @@
       "duration_ms": 172666,
       "name": "Sentimiento",
       "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
-    },
-    {
-      "added_at": "2023-03-10 19:42:00",
-      "album": {
-        "name": "El Ding Dong",
-        "url": "https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 159829,
-      "name": "El Ding Dong",
-      "url": "https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI"
-    },
-    {
-      "added_at": "2023-03-10 19:42:00",
-      "album": {
-        "name": "98",
-        "url": "https://open.spotify.com/album/6FIyZQ7DHCY6Jlg3AbrF50"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 206941,
-      "name": "98",
-      "url": "https://open.spotify.com/track/3H7oZCSHd0QbV79Ur2wCPZ"
     },
     {
       "added_at": "2023-03-10 19:42:00",
@@ -607,6 +591,22 @@
     {
       "added_at": "2023-03-10 19:42:00",
       "album": {
+        "name": "98",
+        "url": "https://open.spotify.com/album/6FIyZQ7DHCY6Jlg3AbrF50"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 206941,
+      "name": "98",
+      "url": "https://open.spotify.com/track/3H7oZCSHd0QbV79Ur2wCPZ"
+    },
+    {
+      "added_at": "2023-03-10 19:42:00",
+      "album": {
         "name": "Todo Es Perfecto",
         "url": "https://open.spotify.com/album/542V4yB6vkGz9lJhBHnIGp"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 211813,
       "name": "Todo Es Perfecto",
       "url": "https://open.spotify.com/track/00CaDxVVxJaUeAOebDI65k"
-    },
-    {
-      "added_at": "2023-03-10 19:42:00",
-      "album": {
-        "name": "Clich\u00e9",
-        "url": "https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E"
-      },
-      "artists": [
-        {
-          "name": "Marte",
-          "url": "https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm"
-        }
-      ],
-      "duration_ms": 196588,
-      "name": "Clich\u00e9",
-      "url": "https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99"
     },
     {
       "added_at": "2023-03-10 19:42:00",
@@ -655,6 +639,22 @@
     {
       "added_at": "2023-03-10 19:42:00",
       "album": {
+        "name": "Clich\u00e9",
+        "url": "https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E"
+      },
+      "artists": [
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm"
+        }
+      ],
+      "duration_ms": 196588,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99"
+    },
+    {
+      "added_at": "2023-03-10 19:42:00",
+      "album": {
         "name": "Last Spa on Earth",
         "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 214496,
       "name": "Nos Soltamos",
       "url": "https://open.spotify.com/track/5wiHLVINwcLi2x0G6IoIYL"
+    },
+    {
+      "added_at": "2023-03-10 19:42:00",
+      "album": {
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "dejarse querer",
+      "url": "https://open.spotify.com/track/2fVVRlRJoqWezN8l6LdpVa"
     },
     {
       "added_at": "2023-03-10 19:42:00",
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-03-10 19:42:00",
       "album": {
-        "name": "El Juego",
-        "url": "https://open.spotify.com/album/1h9nTZa5Z7euPox6PFtCfH"
-      },
-      "artists": [
-        {
-          "name": "Dante Ouvi\u00f1a",
-          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
-        }
-      ],
-      "duration_ms": 168774,
-      "name": "El Juego",
-      "url": "https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP"
-    },
-    {
-      "added_at": "2023-03-10 19:42:00",
-      "album": {
         "name": "AMOR MINIMAL",
         "url": "https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq"
       },
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-03-10 19:42:00",
       "album": {
+        "name": "El Juego",
+        "url": "https://open.spotify.com/album/1h9nTZa5Z7euPox6PFtCfH"
+      },
+      "artists": [
+        {
+          "name": "Dante Ouvi\u00f1a",
+          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
+        }
+      ],
+      "duration_ms": 168774,
+      "name": "El Juego",
+      "url": "https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP"
+    },
+    {
+      "added_at": "2023-03-10 19:42:00",
+      "album": {
         "name": "LOS FELIZ",
         "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
       },
@@ -764,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
         }
       ],
-      "duration_ms": 183960,
-      "name": "dejarse querer",
-      "url": "https://open.spotify.com/track/2fVVRlRJoqWezN8l6LdpVa"
+      "duration_ms": 161133,
+      "name": "mi pobre angelito 2",
+      "url": "https://open.spotify.com/track/5smZX3A2NyCZW2Kfmrvv4z"
     },
     {
       "added_at": "2023-03-10 19:42:00",
@@ -815,22 +831,6 @@
       "duration_ms": 169600,
       "name": "Miento",
       "url": "https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF"
-    },
-    {
-      "added_at": "2023-03-10 19:42:00",
-      "album": {
-        "name": "Atmosf\u00e9rica",
-        "url": "https://open.spotify.com/album/3SXUi0sFJxlgRKjtn8exL7"
-      },
-      "artists": [
-        {
-          "name": "Mexico City Heartbreak",
-          "url": "https://open.spotify.com/artist/6HCbitfK12jusZy0drIiqJ"
-        }
-      ],
-      "duration_ms": 237737,
-      "name": "Atmosf\u00e9rica",
-      "url": "https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz"
     }
   ],
   "unique_name": "anaranjado",

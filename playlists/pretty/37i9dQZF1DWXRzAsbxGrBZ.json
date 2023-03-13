@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 9412,
+  "num_followers": 9578,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDE3MDM1OTg3YTJjYzkxNThkN2VkZjVmZGQ5MDMyODcx",
+  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMGZlM2I2OGQ3ZWUxODM1NGQ2YzgyMmYwYzllOGExNmY0",
   "tracks": [
     {
       "added_at": "2022-09-14 09:57:38",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-09-29 21:59:00",
       "album": {
+        "name": "I Am Jazz",
+        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        }
+      ],
+      "duration_ms": 402782,
+      "name": "Gotsom",
+      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE"
       },
@@ -751,42 +767,6 @@
       "duration_ms": 366217,
       "name": "With You",
       "url": "https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "I Am Jazz",
-        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
-      },
-      "artists": [
-        {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
-        }
-      ],
-      "duration_ms": 402782,
-      "name": "Gotsom",
-      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "To The World",
-        "url": "https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v"
-      },
-      "artists": [
-        {
-          "name": "Brazo Wa Afrika",
-          "url": "https://open.spotify.com/artist/6uGuuIkpLIWdUYVJit1dvP"
-        },
-        {
-          "name": "Chymamusique",
-          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
-        }
-      ],
-      "duration_ms": 387494,
-      "name": "To The World",
-      "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -829,22 +809,6 @@
       "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "A (Ray)",
-        "url": "https://open.spotify.com/album/7wZwrvSUnOoUMKtGwYxqNM"
-      },
-      "artists": [
-        {
-          "name": "Slotta",
-          "url": "https://open.spotify.com/artist/41FafHCI5NnEUw25GAd4MZ"
-        }
-      ],
-      "duration_ms": 424810,
-      "name": "On It",
-      "url": "https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN"
-    },
-    {
       "added_at": "2022-09-14 09:57:38",
       "album": {
         "name": "Multiverse Theory",
@@ -863,6 +827,42 @@
       "duration_ms": 374257,
       "name": "Multiverse Theory",
       "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "To The World",
+        "url": "https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v"
+      },
+      "artists": [
+        {
+          "name": "Brazo Wa Afrika",
+          "url": "https://open.spotify.com/artist/6uGuuIkpLIWdUYVJit1dvP"
+        },
+        {
+          "name": "Chymamusique",
+          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
+        }
+      ],
+      "duration_ms": 387494,
+      "name": "To The World",
+      "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "A (Ray)",
+        "url": "https://open.spotify.com/album/7wZwrvSUnOoUMKtGwYxqNM"
+      },
+      "artists": [
+        {
+          "name": "Slotta",
+          "url": "https://open.spotify.com/artist/41FafHCI5NnEUw25GAd4MZ"
+        }
+      ],
+      "duration_ms": 424810,
+      "name": "On It",
+      "url": "https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -903,26 +903,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "She's On Fire",
-        "url": "https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Fako",
-          "url": "https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1"
-        }
-      ],
-      "duration_ms": 402000,
-      "name": "She's On Fire",
-      "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "Old but New Last Episode",
         "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
       },
@@ -957,38 +937,6 @@
       "url": "https://open.spotify.com/track/3rpMcYjuP9GZ1Ijoau4iUS"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Dafrotone",
-        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
-      },
-      "artists": [
-        {
-          "name": "Dafro",
-          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
-        }
-      ],
-      "duration_ms": 453453,
-      "name": "Four Lessons",
-      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "We Gonna Fight For Music",
-        "url": "https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb"
-      },
-      "artists": [
-        {
-          "name": "Echo Deep",
-          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
-        }
-      ],
-      "duration_ms": 521744,
-      "name": "We Gonna Fight For Music",
-      "url": "https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp"
-    },
-    {
       "added_at": "2022-11-10 21:59:00",
       "album": {
         "name": "Necessary",
@@ -1007,6 +955,58 @@
       "duration_ms": 395709,
       "name": "Love I Know",
       "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "She's On Fire",
+        "url": "https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Fako",
+          "url": "https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1"
+        }
+      ],
+      "duration_ms": 402000,
+      "name": "She's On Fire",
+      "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "We Gonna Fight For Music",
+        "url": "https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "duration_ms": 521744,
+      "name": "We Gonna Fight For Music",
+      "url": "https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Dafrotone",
+        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
+      },
+      "artists": [
+        {
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+        }
+      ],
+      "duration_ms": 453453,
+      "name": "Four Lessons",
+      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
     }
   ],
   "unique_name": "Deep House Session",

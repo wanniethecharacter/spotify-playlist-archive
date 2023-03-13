@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN",
-  "num_followers": 107128,
+  "num_followers": 107252,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg4NTI2NywwMDAwMDAwMDAzMTkwNjdiZjNiNzdjNTRlMzMzNWRlOTJlMzc4ODA4",
+  "snapshot_id": "MTY3Nzg4NTI2NywwMDAwMDAwMDRhMTdmNmUxZDdiMWVjNjU1YzdjZGQzYTU4YTQzNzlk",
   "tracks": [
     {
       "added_at": "2023-03-03 23:14:27",
@@ -375,18 +375,22 @@
     {
       "added_at": "2023-03-03 23:14:27",
       "album": {
-        "name": "O Bem Que Eu Quero Fazer N\u00e3o Fa\u00e7o",
-        "url": "https://open.spotify.com/album/2RGP9VALNUJ9oWyYwA2k5S"
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW"
       },
       "artists": [
         {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
         }
       ],
-      "duration_ms": 206000,
-      "name": "O Bem Que Eu Quero Fazer N\u00e3o Fa\u00e7o",
-      "url": "https://open.spotify.com/track/6AzxGlceDX62BM7Obp7JH2"
+      "duration_ms": 217272,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN"
     },
     {
       "added_at": "2023-03-03 23:14:27",
@@ -415,22 +419,18 @@
     {
       "added_at": "2023-03-03 23:14:27",
       "album": {
-        "name": "Labirinto",
-        "url": "https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW"
+        "name": "O Bem Que Eu Quero Fazer N\u00e3o Fa\u00e7o",
+        "url": "https://open.spotify.com/album/2RGP9VALNUJ9oWyYwA2k5S"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        },
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
         }
       ],
-      "duration_ms": 217272,
-      "name": "Labirinto",
-      "url": "https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN"
+      "duration_ms": 206000,
+      "name": "O Bem Que Eu Quero Fazer N\u00e3o Fa\u00e7o",
+      "url": "https://open.spotify.com/track/6AzxGlceDX62BM7Obp7JH2"
     },
     {
       "added_at": "2023-03-03 23:14:27",
@@ -447,6 +447,26 @@
       "duration_ms": 193333,
       "name": "Montanha",
       "url": "https://open.spotify.com/track/4KnjB9F6E9TKv7fYh3GpkP"
+    },
+    {
+      "added_at": "2023-03-03 23:14:27",
+      "album": {
+        "name": "Predestinado",
+        "url": "https://open.spotify.com/album/1hrWv8EAx6K8ePi2r5XcP7"
+      },
+      "artists": [
+        {
+          "name": "Samuel Shikoba",
+          "url": "https://open.spotify.com/artist/4GODihF5IXcVquZ5qq5S5r"
+        },
+        {
+          "name": "SAMU\u00c9U",
+          "url": "https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7"
+        }
+      ],
+      "duration_ms": 164070,
+      "name": "Predestinado",
+      "url": "https://open.spotify.com/track/0IlSLH0ymezHJdmVMIjOsl"
     },
     {
       "added_at": "2023-03-03 23:14:27",
@@ -491,26 +511,6 @@
       "duration_ms": 285634,
       "name": "Messias (feat. MN MC, Dona Kelly, Sarah Renata, tiago arrais & Jo\u00e3o Carlos Jr)",
       "url": "https://open.spotify.com/track/6WpsUNO3xmsctxQfwZpVYy"
-    },
-    {
-      "added_at": "2023-03-03 23:14:27",
-      "album": {
-        "name": "Predestinado",
-        "url": "https://open.spotify.com/album/1hrWv8EAx6K8ePi2r5XcP7"
-      },
-      "artists": [
-        {
-          "name": "Samuel Shikoba",
-          "url": "https://open.spotify.com/artist/4GODihF5IXcVquZ5qq5S5r"
-        },
-        {
-          "name": "SAMU\u00c9U",
-          "url": "https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7"
-        }
-      ],
-      "duration_ms": 164070,
-      "name": "Predestinado",
-      "url": "https://open.spotify.com/track/0IlSLH0ymezHJdmVMIjOsl"
     },
     {
       "added_at": "2023-03-03 23:14:27",
@@ -627,6 +627,30 @@
     {
       "added_at": "2023-03-03 23:14:27",
       "album": {
+        "name": "Diamante na Lama",
+        "url": "https://open.spotify.com/album/0D5Yz9YNHe2DVSLjXfGD7o"
+      },
+      "artists": [
+        {
+          "name": "Samuel Shikoba",
+          "url": "https://open.spotify.com/artist/4GODihF5IXcVquZ5qq5S5r"
+        },
+        {
+          "name": "Franco Trapboy",
+          "url": "https://open.spotify.com/artist/1lEF3mYcI4rXGRlPXx8ScU"
+        },
+        {
+          "name": "Mollina",
+          "url": "https://open.spotify.com/artist/3MGVz8UR64lAnmMRf1AIsV"
+        }
+      ],
+      "duration_ms": 166738,
+      "name": "Diamante na Lama",
+      "url": "https://open.spotify.com/track/7nwxUkKjvGBICXZxg4hXFY"
+    },
+    {
+      "added_at": "2023-03-03 23:14:27",
+      "album": {
         "name": "Teste",
         "url": "https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi"
       },
@@ -683,30 +707,6 @@
     {
       "added_at": "2023-03-03 23:14:27",
       "album": {
-        "name": "Diamante na Lama",
-        "url": "https://open.spotify.com/album/0D5Yz9YNHe2DVSLjXfGD7o"
-      },
-      "artists": [
-        {
-          "name": "Samuel Shikoba",
-          "url": "https://open.spotify.com/artist/4GODihF5IXcVquZ5qq5S5r"
-        },
-        {
-          "name": "Franco Trapboy",
-          "url": "https://open.spotify.com/artist/1lEF3mYcI4rXGRlPXx8ScU"
-        },
-        {
-          "name": "Mollina",
-          "url": "https://open.spotify.com/artist/3MGVz8UR64lAnmMRf1AIsV"
-        }
-      ],
-      "duration_ms": 166738,
-      "name": "Diamante na Lama",
-      "url": "https://open.spotify.com/track/7nwxUkKjvGBICXZxg4hXFY"
-    },
-    {
-      "added_at": "2023-03-03 23:14:27",
-      "album": {
         "name": "Ac\u00fastico OnSet #1 - Siga Adiante",
         "url": "https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-03-03 23:14:27",
       "album": {
-        "name": "Notas de um Cora\u00e7\u00e3o Amado",
-        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133653,
-      "name": "Al\u00e9m",
-      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
-    },
-    {
-      "added_at": "2023-03-03 23:14:27",
-      "album": {
         "name": "Se P\u00e1",
         "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 163794,
       "name": "Se P\u00e1",
       "url": "https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR"
+    },
+    {
+      "added_at": "2023-03-03 23:14:27",
+      "album": {
+        "name": "N\u00e3o Se Trata de Mim",
+        "url": "https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y"
+      },
+      "artists": [
+        {
+          "name": "Emithir",
+          "url": "https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb"
+        }
+      ],
+      "duration_ms": 197671,
+      "name": "N\u00e3o Se Trata de Mim",
+      "url": "https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2"
     },
     {
       "added_at": "2023-03-03 23:14:27",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-03-03 23:14:27",
       "album": {
-        "name": "N\u00e3o Se Trata de Mim",
-        "url": "https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y"
-      },
-      "artists": [
-        {
-          "name": "Emithir",
-          "url": "https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb"
-        }
-      ],
-      "duration_ms": 197671,
-      "name": "N\u00e3o Se Trata de Mim",
-      "url": "https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2"
-    },
-    {
-      "added_at": "2023-03-03 23:14:27",
-      "album": {
         "name": "Alto",
         "url": "https://open.spotify.com/album/2u6pu9HyxZP9gxKXIZgIco"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 165019,
       "name": "Alto",
       "url": "https://open.spotify.com/track/6eFeusECAHuopsDZPeaVte"
+    },
+    {
+      "added_at": "2023-03-03 23:14:27",
+      "album": {
+        "name": "Notas de um Cora\u00e7\u00e3o Amado",
+        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133653,
+      "name": "Al\u00e9m",
+      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
     },
     {
       "added_at": "2023-03-03 23:14:27",
@@ -867,22 +867,22 @@
     {
       "added_at": "2023-03-03 23:14:27",
       "album": {
-        "name": "Epifania",
-        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
+        "name": "Cada um Com uma Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/2Laqz2edRxTXe4rH0tlcbv"
       },
       "artists": [
         {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
         },
         {
-          "name": "Kivitz",
-          "url": "https://open.spotify.com/artist/7sua8S5Zjhkru2Ma50lfHL"
+          "name": "Atitude Consciente",
+          "url": "https://open.spotify.com/artist/34ILrH8OV6fXpG611vxEMr"
         }
       ],
-      "duration_ms": 294703,
-      "name": "Ele \u00c9 Deus Em Mim",
-      "url": "https://open.spotify.com/track/2VOh7QzZkz6PwPBPcK1Hr3"
+      "duration_ms": 406442,
+      "name": "Cada um Com uma Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/5o6OEZrqTJf23J8Z6BK3jW"
     },
     {
       "added_at": "2023-03-03 23:14:27",
@@ -943,22 +943,38 @@
     {
       "added_at": "2023-03-03 23:14:27",
       "album": {
-        "name": "Cada um Com uma Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/2Laqz2edRxTXe4rH0tlcbv"
+        "name": "Epifania",
+        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
       "artists": [
         {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
         },
         {
-          "name": "Atitude Consciente",
-          "url": "https://open.spotify.com/artist/34ILrH8OV6fXpG611vxEMr"
+          "name": "Kivitz",
+          "url": "https://open.spotify.com/artist/7sua8S5Zjhkru2Ma50lfHL"
         }
       ],
-      "duration_ms": 406442,
-      "name": "Cada um Com uma Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/5o6OEZrqTJf23J8Z6BK3jW"
+      "duration_ms": 294703,
+      "name": "Ele \u00c9 Deus Em Mim",
+      "url": "https://open.spotify.com/track/2VOh7QzZkz6PwPBPcK1Hr3"
+    },
+    {
+      "added_at": "2023-03-03 23:14:27",
+      "album": {
+        "name": "Casa de Miseric\u00f3rdia",
+        "url": "https://open.spotify.com/album/5NpAMsx25TKKTcGrM8IjNE"
+      },
+      "artists": [
+        {
+          "name": "P. Oliveira",
+          "url": "https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd"
+        }
+      ],
+      "duration_ms": 113941,
+      "name": "Casa de Miseric\u00f3rdia",
+      "url": "https://open.spotify.com/track/0gEu711kUN1VYRleEe2n0p"
     },
     {
       "added_at": "2023-03-03 23:14:27",
@@ -995,22 +1011,6 @@
       "duration_ms": 216034,
       "name": "Se Cair",
       "url": "https://open.spotify.com/track/6qx9NzaqtRvYrcJ0ojAZzh"
-    },
-    {
-      "added_at": "2023-03-03 23:14:27",
-      "album": {
-        "name": "Casa de Miseric\u00f3rdia",
-        "url": "https://open.spotify.com/album/5NpAMsx25TKKTcGrM8IjNE"
-      },
-      "artists": [
-        {
-          "name": "P. Oliveira",
-          "url": "https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd"
-        }
-      ],
-      "duration_ms": 113941,
-      "name": "Casa de Miseric\u00f3rdia",
-      "url": "https://open.spotify.com/track/0gEu711kUN1VYRleEe2n0p"
     },
     {
       "added_at": "2023-03-03 23:14:27",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-03-03 23:14:27",
       "album": {
-        "name": "Palavras Tem Poder",
-        "url": "https://open.spotify.com/album/2hytBe2NaIGE6pmBjxOJWh"
-      },
-      "artists": [
-        {
-          "name": "BB Rocha",
-          "url": "https://open.spotify.com/artist/0EZQjfQIj9nhFgTFYHvXCp"
-        }
-      ],
-      "duration_ms": 105176,
-      "name": "Palavras Tem Poder",
-      "url": "https://open.spotify.com/track/1dUF1jMNL4deMXvQ32aMWO"
-    },
-    {
-      "added_at": "2023-03-03 23:14:27",
-      "album": {
         "name": "Mulher de F\u00e9",
         "url": "https://open.spotify.com/album/0IT2j6KDkwBEQdT9qkXZpi"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 230062,
       "name": "Old Self",
       "url": "https://open.spotify.com/track/0Ry0fuuon25rXmMWus1YSn"
+    },
+    {
+      "added_at": "2023-03-03 23:14:27",
+      "album": {
+        "name": "Palavras Tem Poder",
+        "url": "https://open.spotify.com/album/2hytBe2NaIGE6pmBjxOJWh"
+      },
+      "artists": [
+        {
+          "name": "BB Rocha",
+          "url": "https://open.spotify.com/artist/0EZQjfQIj9nhFgTFYHvXCp"
+        }
+      ],
+      "duration_ms": 105176,
+      "name": "Palavras Tem Poder",
+      "url": "https://open.spotify.com/track/1dUF1jMNL4deMXvQ32aMWO"
     },
     {
       "added_at": "2023-03-03 23:14:27",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-03-03 23:14:27",
       "album": {
-        "name": "Parecido (Deluxe)",
-        "url": "https://open.spotify.com/album/7kULMw8Url9Fx5KOWVxRQh"
-      },
-      "artists": [
-        {
-          "name": "SAMU\u00c9U",
-          "url": "https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7"
-        },
-        {
-          "name": "Curioso Beats",
-          "url": "https://open.spotify.com/artist/6yKGxz1NyKpjxh4jAkbU4u"
-        }
-      ],
-      "duration_ms": 128373,
-      "name": "Fiquei Rico",
-      "url": "https://open.spotify.com/track/3cHrklJmf2X5eaIgD1q8ik"
-    },
-    {
-      "added_at": "2023-03-03 23:14:27",
-      "album": {
         "name": "Diamante na Lama 2",
         "url": "https://open.spotify.com/album/2EpLV3YANgbIFJrVQjXnMh"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 208695,
       "name": "Diamante na Lama 2",
       "url": "https://open.spotify.com/track/5N48BDEsBrloyontAV7PHb"
+    },
+    {
+      "added_at": "2023-03-03 23:14:27",
+      "album": {
+        "name": "Parecido (Deluxe)",
+        "url": "https://open.spotify.com/album/7kULMw8Url9Fx5KOWVxRQh"
+      },
+      "artists": [
+        {
+          "name": "SAMU\u00c9U",
+          "url": "https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7"
+        },
+        {
+          "name": "Curioso Beats",
+          "url": "https://open.spotify.com/artist/6yKGxz1NyKpjxh4jAkbU4u"
+        }
+      ],
+      "duration_ms": 128373,
+      "name": "Fiquei Rico",
+      "url": "https://open.spotify.com/track/3cHrklJmf2X5eaIgD1q8ik"
     },
     {
       "added_at": "2023-03-03 23:14:27",

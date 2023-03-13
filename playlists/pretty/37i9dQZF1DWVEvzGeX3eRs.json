@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2601051,
+  "num_followers": 2601423,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU2NTU1NiwwMDAwMDAwMDhkZjk4ZGQ5NDQ3OWFlYzdhYjY3ODhlNmYwMjdlMDVh",
+  "snapshot_id": "MTY3NjU2NTU1NiwwMDAwMDAwMDM2ZTE3ZjVmMGIxYjJmZTAxNzIwNDMyYTBkNWVhNGI2",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "Chillin'",
-        "url": "https://open.spotify.com/album/1UIA4LOQQjE6PwiOo6MMDR"
-      },
-      "artists": [
-        {
-          "name": "Force M.D.'s",
-          "url": "https://open.spotify.com/artist/3KpLtTMpLAko7nBDmiYg7Z"
-        }
-      ],
-      "duration_ms": 234053,
-      "name": "Tender Love",
-      "url": "https://open.spotify.com/track/6D527hFJzl1vWSzosEbyQk"
-    },
-    {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
         "name": "Three for Love",
         "url": "https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 304000,
       "name": "This Is for the Lover in You",
       "url": "https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Chillin'",
+        "url": "https://open.spotify.com/album/1UIA4LOQQjE6PwiOo6MMDR"
+      },
+      "artists": [
+        {
+          "name": "Force M.D.'s",
+          "url": "https://open.spotify.com/artist/3KpLtTMpLAko7nBDmiYg7Z"
+        }
+      ],
+      "duration_ms": 234053,
+      "name": "Tender Love",
+      "url": "https://open.spotify.com/track/6D527hFJzl1vWSzosEbyQk"
     },
     {
       "added_at": "2023-02-02 23:04:07",

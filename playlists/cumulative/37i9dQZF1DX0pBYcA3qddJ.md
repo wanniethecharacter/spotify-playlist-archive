@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-328 songs - 21 hr 57 min
+329 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,11 +144,12 @@
 | [little star \(2022 Illumination ver.\)](https://open.spotify.com/track/6nnCXOMLQz0NhRMYmHKs98) | [Socca](https://open.spotify.com/artist/1Ok7RP5GZH0jY8gZo098M6) | [little star \(2022 Illumination ver.\)](https://open.spotify.com/album/2ArCRaS2o7Cqaj8lxBeNLP) | 3:39 | 2023-01-05 | 2023-03-01 |
 | [LOMP](https://open.spotify.com/track/5Au7IBDfjqXhhrFSu6AkOU) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd), [Chima](https://open.spotify.com/artist/4i1UhzFZ5BK4tDuShC4Uwk) | [LOMP](https://open.spotify.com/album/45xLAc2wSAb10MYg3S3hOL) | 4:20 | 2023-03-07 |  |
 | [Lonely Bones](https://open.spotify.com/track/5HFzAeZkaTDBhlaqwcRmeL) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Hot Mess](https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO) | 3:04 | 2022-10-20 | 2023-01-06 |
+| [Lonely Love Song](https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Lonely Love Song](https://open.spotify.com/album/133u1HCKHE50wMw0PrcKFg) | 2:37 | 2023-03-09 |  |
 | [Love On The Run](https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 7:03 | 2022-10-20 | 2023-02-08 |
 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 | 2023-02-28 |  |
 | [Love's Daydream End](https://open.spotify.com/track/63DFBgVx1eBrMQkG5LuwCh) | [岡村匡紘](https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR) | [Love's Daydream End](https://open.spotify.com/album/1JqhrNaGYbmXQlrTJ4Id6q) | 3:59 | 2022-10-25 | 2022-11-02 |
 | [Lyric Pieces, Book 5, Op\. 54: Nocturne](https://open.spotify.com/track/2GJFu2G9fhaYFrOoX9bejs) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alessio Bax](https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur) | [Lullabies for Mila](https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx) | 3:40 | 2022-10-20 | 2022-11-16 |
-| [Mad Rush: Part D \(Bar 232 \- Bar 273\)](https://open.spotify.com/track/6QAGeFtnxxXGN8sig88JEC) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Vestard Shimkus](https://open.spotify.com/artist/4golKT6I9CV71gu6hHC4Dl) | [Mad Rush: Part D \(Bar 232 \- Bar 273\)](https://open.spotify.com/album/0f1utxCEh4RRCXVPQYfhXG) | 3:30 | 2023-02-28 |  |
+| [Mad Rush: Part D \(Bar 232 \- Bar 273\)](https://open.spotify.com/track/6QAGeFtnxxXGN8sig88JEC) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Vestard Shimkus](https://open.spotify.com/artist/4golKT6I9CV71gu6hHC4Dl) | [Mad Rush: Part D \(Bar 232 \- Bar 273\)](https://open.spotify.com/album/0f1utxCEh4RRCXVPQYfhXG) | 3:30 | 2023-02-28 | 2023-03-13 |
 | [Me Time](https://open.spotify.com/track/2wd6t9a86EJhesgMIv33FJ) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Me Time](https://open.spotify.com/album/4P0VkjOeK4srTWqEe2M8sH) | 3:30 | 2022-12-01 | 2023-02-03 |
 | [memento](https://open.spotify.com/track/2XplMSBUiDrgjrjE9aJem1) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [memento](https://open.spotify.com/album/5wpdUQhPZxUTGObATg9bja) | 3:37 | 2023-02-28 |  |
 | [Memorial \(feat\. Chelsea Wolfe\)](https://open.spotify.com/track/5Y6u1FBAsYsfUAzBX7ym7k) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Memorial](https://open.spotify.com/album/2169qq2aiycEtmgwEQlwgp) | 3:45 | 2022-10-20 | 2022-11-30 |

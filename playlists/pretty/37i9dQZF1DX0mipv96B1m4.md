@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 455 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 458 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 27 | [Gyal A Bubble](https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Karole Kasita](https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0) | [Feel Me](https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R) | 3:16 |
 | 28 | [Emergency](https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Star Gal](https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ) | 3:26 |
 | 29 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |
-| 30 | [Nsudiya](https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2) | [Nsudiya](https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV) | 2:45 |
-| 31 | [Blessed](https://open.spotify.com/track/5KaGzEZXtr2tBRoTYkxihk) | [Lilly Ahabwe](https://open.spotify.com/artist/4amT8UkGYYhiKiylL76EVl), [Andy Muzic](https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z) | [Blessed](https://open.spotify.com/album/6G0B9SiRE7ZoJNatb9VKHZ) | 2:54 |
+| 30 | [Blessed](https://open.spotify.com/track/5KaGzEZXtr2tBRoTYkxihk) | [Lilly Ahabwe](https://open.spotify.com/artist/4amT8UkGYYhiKiylL76EVl), [Andy Muzic](https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z) | [Blessed](https://open.spotify.com/album/6G0B9SiRE7ZoJNatb9VKHZ) | 2:54 |
+| 31 | [Nsudiya](https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2) | [Nsudiya](https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV) | 2:45 |
 | 32 | [Bwonjagala](https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Fille](https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx) | [Bwonjagala](https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q) | 2:58 |
 | 33 | [I Need Your Love](https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [I Need Your Love](https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb) | 2:49 |
 | 34 | [Bikole](https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6), [Oma Afrikana](https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf) | [Bikole](https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw) | 3:04 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 43 | [The One](https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [The One](https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU) | 3:28 |
 | 44 | [Misege](https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Misege](https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br) | 3:08 |
 | 45 | [Kiriza \- Remix](https://open.spotify.com/track/3CJJBRNeQ7ypuw4uT4VqSg) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Kiriza \(Remix\)](https://open.spotify.com/album/6JSkoPNtL66yYRhDR8hcsd) | 2:42 |
-| 46 | [Sunset](https://open.spotify.com/track/2n3MwWYG4pOOBUkD6ztgQM) | [Cindy Sanyu](https://open.spotify.com/artist/18t4XuHqIzZRypjviaepTs) | [Kisses at Midnight](https://open.spotify.com/album/0vj2zDD1YqVkAinMPj3XpM) | 3:16 |
-| 47 | [Best Friend](https://open.spotify.com/track/1Xx1ANa143J6W82ocYwq4b) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [King Saha](https://open.spotify.com/artist/2q1gW9fMZWElkfCOWbBqE3) | [Kokonya](https://open.spotify.com/album/6SEPhQLO1WCYyynan8uCTS) | 3:49 |
+| 46 | [Best Friend](https://open.spotify.com/track/1Xx1ANa143J6W82ocYwq4b) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [King Saha](https://open.spotify.com/artist/2q1gW9fMZWElkfCOWbBqE3) | [Kokonya](https://open.spotify.com/album/6SEPhQLO1WCYyynan8uCTS) | 3:49 |
+| 47 | [Sunset](https://open.spotify.com/track/2n3MwWYG4pOOBUkD6ztgQM) | [Cindy Sanyu](https://open.spotify.com/artist/18t4XuHqIzZRypjviaepTs) | [Kisses at Midnight](https://open.spotify.com/album/0vj2zDD1YqVkAinMPj3XpM) | 3:16 |
 | 48 | [Bakuwe](https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst) | [Guvnor Ace](https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Bakuwe](https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ) | 3:06 |
 | 49 | [Born To Love You \- 2020 Remix](https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Keicy](https://open.spotify.com/artist/5Xg53515cZvxy46kVXf1vW), [BEN](https://open.spotify.com/artist/4FR3mobLORBTuXIxGJTkFW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [We Can](https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC) | 3:40 |
 | 50 | [Bubble Up](https://open.spotify.com/track/6ys37R562Bjkk6cddXH3m0) | [Deejay Xp](https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj), [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Second of All](https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh) | 2:56 |
 
-Snapshot ID: `MTY3NDc2Njc0MCwwMDAwMDAwMGJmNDdjMWM1ZWI5NWFmMDI4MGUxMzZlNDY2MTVlOWIz`
+Snapshot ID: `MTY3NDc2Njc0MCwwMDAwMDAwMDI2YzEzYTlhMjU1ZGI5OTNkYjNjZWNhZjY3OGY2ZTMy`

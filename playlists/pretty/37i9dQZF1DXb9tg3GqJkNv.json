@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: NAV",
-  "num_followers": 382,
+  "num_followers": 450,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMDRkMTc2M2MwYThiMDUzOTY1ODA3MzNiYmU3YTgwOTc0",
+  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMDllNThhYmQ2OWMwYWJkNzg3NDdmOTI3YTM3OGFjYmFj",
   "tracks": [
     {
       "added_at": "2023-03-03 05:01:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "HOOD AVANT-GARDE (Deluxe)",
-        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
-      },
-      "artists": [
-        {
-          "name": "Charmaine",
-          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "WOO!",
-      "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "DUSK to DAWN",
         "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 149042,
       "name": "NIGHTFALL (feat. Dro Kenji)",
       "url": "https://open.spotify.com/track/04EvAhYmelTjLIxWzK7JLm"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "HOOD AVANT-GARDE (Deluxe)",
+        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
+      },
+      "artists": [
+        {
+          "name": "Charmaine",
+          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "WOO!",
+      "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Bionic Man",
-        "url": "https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd"
-      },
-      "artists": [
-        {
-          "name": "BVB",
-          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
-        },
-        {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bionic Man",
-      "url": "https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "Special Occasion",
         "url": "https://open.spotify.com/album/0m3fAxrcKWZ7S6sqWQKrUp"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 233239,
       "name": "Bass (feat. Tech N9ne & Hopsin)",
       "url": "https://open.spotify.com/track/4fX0nbOg4zoGYsngVBtq4s"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Bionic Man",
+        "url": "https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd"
+      },
+      "artists": [
+        {
+          "name": "BVB",
+          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
+        },
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bionic Man",
+      "url": "https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
+        "name": "When The Moving Stops",
+        "url": "https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 208670,
+      "name": "When The Moving Stops",
+      "url": "https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
         "name": "no long talk.",
         "url": "https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 198676,
       "name": "My Town (feat. Giggs)",
       "url": "https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "When The Moving Stops",
-        "url": "https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 208670,
-      "name": "When The Moving Stops",
-      "url": "https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1127,22 +1127,22 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Priceless",
-        "url": "https://open.spotify.com/album/3IkBPsHdtfjTozntH3W9ek"
+        "name": "Added Sugar",
+        "url": "https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6"
       },
       "artists": [
         {
-          "name": "Robin Banks",
-          "url": "https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE"
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
         },
         {
-          "name": "FB",
-          "url": "https://open.spotify.com/artist/5bDOWnyQ73utiM8fCtv1Ar"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 272052,
-      "name": "Priceless",
-      "url": "https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp"
+      "duration_ms": 160000,
+      "name": "Brk Frm Nrml",
+      "url": "https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1159,6 +1159,26 @@
       "duration_ms": 109446,
       "name": "NightmareZ",
       "url": "https://open.spotify.com/track/6VY3ID6avXR4EyraG6SDKz"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Priceless",
+        "url": "https://open.spotify.com/album/3IkBPsHdtfjTozntH3W9ek"
+      },
+      "artists": [
+        {
+          "name": "Robin Banks",
+          "url": "https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE"
+        },
+        {
+          "name": "FB",
+          "url": "https://open.spotify.com/artist/5bDOWnyQ73utiM8fCtv1Ar"
+        }
+      ],
+      "duration_ms": 272052,
+      "name": "Priceless",
+      "url": "https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1203,26 +1223,6 @@
       "duration_ms": 166922,
       "name": "Sleep Like A Baby",
       "url": "https://open.spotify.com/track/2jpmO8XlofmTA3mXul68gK"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Added Sugar",
-        "url": "https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Brk Frm Nrml",
-      "url": "https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED"
     },
     {
       "added_at": "2023-03-03 05:01:00",

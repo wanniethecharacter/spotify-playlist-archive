@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-538 songs - 2 day 2 hr 36 min
+539 songs - 2 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Acrid Avid Jam Shred](https://open.spotify.com/track/3Bp478Itxv8gxqqEcf8HRL) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 7:39 | 2022-04-13 | 2022-07-29 |
 | [Adozenaday](https://open.spotify.com/track/3Yc7AxUfMy50QPWwwkwlh2) | [Brothomstates](https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z) | [Qtio](https://open.spotify.com/album/3kq8Hu3D10vLbHQbhGi0DA) | 5:33 | 2022-04-13 | 2022-07-27 |
 | [Aero Deck](https://open.spotify.com/track/3CxY2EYnLDdGVaRcEiE7wp) | [Oval](https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af) | [Systemisch](https://open.spotify.com/album/1VjWcD0lLRFpAIK0AFRUBl) | 4:33 | 2022-04-13 |  |
-| [Afraid Of Monsters](https://open.spotify.com/track/4PbMuyuUAJPhBdsW3vf2Fs) | [Xela](https://open.spotify.com/artist/1DpTCZ0h0a2IDmLiKJtDN5) | [For Frosty Mornings And Summer Nights](https://open.spotify.com/album/6aRdKJaXUBi23MPtwUMTb7) | 5:03 | 2022-04-13 | 2023-02-10 |
+| [Afraid Of Monsters](https://open.spotify.com/track/4PbMuyuUAJPhBdsW3vf2Fs) | [Xela](https://open.spotify.com/artist/1DpTCZ0h0a2IDmLiKJtDN5) | [For Frosty Mornings And Summer Nights](https://open.spotify.com/album/6aRdKJaXUBi23MPtwUMTb7) | 5:03 | 2022-04-13 |  |
 | [Ageispolis](https://open.spotify.com/track/7KRQoq9GeWeCm0ZAXg5XMb) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 5:23 | 2022-04-13 |  |
 | [Agen](https://open.spotify.com/track/10p90NN7hFkhJEN0QfLhhG) | [patten](https://open.spotify.com/artist/1ld2Kfp4s2LHg94Lby403n) | [ESTOILE NAIANT](https://open.spotify.com/album/6AD69WciPpBEpTFv1tyx90) | 4:27 | 2022-04-13 | 2022-07-28 |
 | [Akwalek](https://open.spotify.com/track/2L2yPzvZQBuhYE91h1NIqD) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Tiny Reminders](https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc) | 4:36 | 2022-04-13 |  |
@@ -128,6 +128,7 @@
 | [diskhat ALL prepared1mixed 13](https://open.spotify.com/track/4bP5n83Cx3Ek2JspqI3qXR) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Computer Controlled Acoustic Instruments pt2 EP](https://open.spotify.com/album/5IUjJ4VcmUvZnGAONAp2IX) | 5:22 | 2022-04-13 | 2022-07-29 |
 | [Do While ⌘X](https://open.spotify.com/track/16fZFSlV2VIDcY77mVtUMI) | [Oval](https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af) | [94diskont.](https://open.spotify.com/album/33xUwaoTPJ9aNbCJZEpRol) | 4:50 | 2022-04-13 |  |
 | [Do You Know Squarepusher](https://open.spotify.com/track/2Il2EdhsgaLmBszoqfHr94) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Do You Know Squarepusher](https://open.spotify.com/album/2E1b73aV55wbSSc2Cd7hmX) | 5:05 | 2022-04-13 | 2023-02-02 |
+| [Do You Know Squarepusher](https://open.spotify.com/track/3NS43vBFHEMeV8XJsnTr0u) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Do You Know Squarepusher](https://open.spotify.com/album/3i2Vq3LdfsYVNbes9T3eMq) | 5:05 | 2022-04-13 |  |
 | [Dolby C](https://open.spotify.com/track/3jg6a6FQ0xkYsfBGH2XIVD) | [Req](https://open.spotify.com/artist/0z3GtlDD6Qx65Nynsd9IoY) | [Sketchbook](https://open.spotify.com/album/1aLr1RUu6fZaCvtIvsMsfM) | 4:30 | 2022-04-13 | 2022-07-28 |
 | [Don't Go Plastic](https://open.spotify.com/track/66577SXFVNDvguUqsSj8iG) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Music Is Rotted One Note](https://open.spotify.com/album/3jhO2H84PXUq5ZBHavn4L1) | 4:20 | 2022-04-13 | 2022-07-26 |
 | [Don't Sweat the Technics](https://open.spotify.com/track/1xP8JxQnYng93Th2vPVuYR) | [Kid606](https://open.spotify.com/artist/7kDf1ziRxPFtWbbZB1XmrM) | [Kid606 And Friends Vol\. 1](https://open.spotify.com/album/648Jyjny8w5VWce67jjXOn) | 4:22 | 2022-04-13 | 2022-07-17 |
@@ -298,7 +299,7 @@
 | [Mr\. Frosty](https://open.spotify.com/track/6gG3LaEbu4O0bPfar4UpYz) | [Mike & Rich](https://open.spotify.com/artist/6J3zaNqIk0fXXFhpbLDg0H) | [Expert Knob Twiddlers](https://open.spotify.com/album/7FkYY7UIpjx44tuk6oGCKr) | 6:53 | 2022-04-13 |  |
 | [MT1 t29r2](https://open.spotify.com/track/766E5SBcB2gZP5wFA6kd7m) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Collapse EP](https://open.spotify.com/album/3SbGxJVC8fHv41RFKCGIl3) | 6:04 | 2022-04-13 | 2022-07-29 |
 | [Music Is Math](https://open.spotify.com/track/3vBJYnujT3yxLjLEG1jtDS) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 5:21 | 2022-04-13 | 2022-07-29 |
-| [My Red Hot Car](https://open.spotify.com/track/2wjbR0QM2uRIz8QacUE494) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Go Plastic](https://open.spotify.com/album/14DV5JzgIRhtqMMjtO4QOj) | 4:42 | 2022-04-13 |  |
+| [My Red Hot Car](https://open.spotify.com/track/2wjbR0QM2uRIz8QacUE494) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Go Plastic](https://open.spotify.com/album/14DV5JzgIRhtqMMjtO4QOj) | 4:42 | 2022-04-13 | 2023-03-13 |
 | [Nattflykt Genom C](https://open.spotify.com/track/3e1eQLpeck1GUofDHpSfZN) | [Spinform](https://open.spotify.com/artist/6arB6QEvX5jhfGQVoOw7Ne) | [Superstjerna](https://open.spotify.com/album/39U7esH1IGUfmXGVDcZphH) | 5:09 | 2022-04-13 | 2022-07-28 |
 | [Nautical Dub](https://open.spotify.com/track/2zk7IoOyTJkJ4FexIzO99W) | [Porter Ricks](https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR) | [Biokinetics](https://open.spotify.com/album/53NpZCeQB2JdALLsHsObjg) | 5:48 | 2022-04-13 |  |
 | [Nephatiti](https://open.spotify.com/track/2qFvSLNidOcYd5d7KELAEI) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ex:el](https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z) | 4:49 | 2022-04-13 |  |
@@ -508,7 +509,7 @@
 | [VI Scose Poise](https://open.spotify.com/track/590UMXfthFy1uWpW8HvCQo) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 6:56 | 2022-04-13 | 2023-02-03 |
 | [Vic Acid](https://open.spotify.com/track/6TvXWDa7HYcZEnIyJ1hR6l) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Vic Acid](https://open.spotify.com/album/4u1Pu42ql7MkdlNvbEEhk2) | 3:06 | 2022-04-13 | 2022-07-29 |
 | [Viimo](https://open.spotify.com/track/1xv6E9bFh5bmkINR5e72Q5) | [Brothomstates](https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z) | [Claro](https://open.spotify.com/album/0XxwFrdmdzzoRWvNuSMGE9) | 8:12 | 2022-04-13 | 2023-02-02 |
-| [Viimo](https://open.spotify.com/track/5wKQVRYWXpS3WqayHDbAp4) | [Brothomstates](https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z) | [Claro](https://open.spotify.com/album/7rWqWNXrn9djtvNMZsPnXD) | 8:12 | 2022-04-13 |  |
+| [Viimo](https://open.spotify.com/track/5wKQVRYWXpS3WqayHDbAp4) | [Brothomstates](https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z) | [Claro](https://open.spotify.com/album/7rWqWNXrn9djtvNMZsPnXD) | 8:12 | 2022-04-13 | 2023-03-13 |
 | [Viral](https://open.spotify.com/track/5yVJghDg4UB789vqjWzqp5) | [Ad Vanz](https://open.spotify.com/artist/7Js3i7yNTyUx1E7pdQY7Tb), [Gescom](https://open.spotify.com/artist/15gVTrdUtcXOz3utK1GPp2) | [Split Series \#2](https://open.spotify.com/album/268l0v7Z48nJ8T3tQPfLTe) | 7:00 | 2022-04-13 | 2022-07-27 |
 | [Viral](https://open.spotify.com/track/6wnDHdEecId9KIDdcXr2W1) | [Ad Vanz](https://open.spotify.com/artist/7Js3i7yNTyUx1E7pdQY7Tb), [Gescom](https://open.spotify.com/artist/15gVTrdUtcXOz3utK1GPp2) | [Split Series \#2](https://open.spotify.com/album/6wkonozXeJjU2vFAI3GAxC) | 7:00 | 2022-04-13 | 2023-02-22 |
 | [Volu Beit](https://open.spotify.com/track/32w0ZJctO0JnLJfJQYS2mU) | [Aelters](https://open.spotify.com/artist/5O2mG2SfsV7bs3yZ8zsD71) | [Volu Beit](https://open.spotify.com/album/43EgFiGv9qy8HMtVf7Sz8x) | 3:43 | 2022-04-13 | 2022-07-23 |

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Cầm
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,737 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,791 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Anh Chưa Thương Em Đến Vậy Đâu](https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tập 12: The Masked Singer Vietnam](https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA) | 4:30 |
+| 1 | [nếu lúc đó](https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [nếu lúc đó](https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV) | 4:24 |
 | 2 | [Cà Phê](https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:10 |
-| 3 | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/track/489cWPdS6lbpdBHmd9duxp) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Duy Manh](https://open.spotify.com/artist/0MDeZ8vIkpFX3QkvY0el6B) | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/album/0bRkXFokx3dtwJst6rcLCN) | 3:02 |
-| 4 | [Kìa Bóng Dáng Ai](https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Sterry](https://open.spotify.com/artist/2yT9yRYRWEC22aqXEa6vBu) | [Kìa Bóng Dáng Ai](https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp) | 2:44 |
-| 5 | [nếu lúc đó](https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [nếu lúc đó](https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV) | 4:24 |
-| 6 | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf) | 3:33 |
-| 7 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 |
-| 8 | [Một Cú Lừa](https://open.spotify.com/track/16YX7SfThwFHdSYYWO6VaL) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/56sZf01q5Ih5jXICYyslq7) | 3:28 |
-| 9 | [Bo Xì Bo](https://open.spotify.com/track/4X2iEvLVDm1Acd8Xmxw1ZC) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 2:52 |
-| 10 | [Like This Like That \(feat\. tlinh\)](https://open.spotify.com/track/2sN4QQDFXMzqyfsm97iu9F) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [CONG](https://open.spotify.com/album/72AOO32yF86LlSFWH1uquV) | 3:45 |
+| 3 | [Kìa Bóng Dáng Ai](https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Sterry](https://open.spotify.com/artist/2yT9yRYRWEC22aqXEa6vBu) | [Kìa Bóng Dáng Ai](https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp) | 2:44 |
+| 4 | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf) | 3:33 |
+| 5 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 |
+| 6 | [Anh Chưa Thương Em Đến Vậy Đâu](https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tập 12: The Masked Singer Vietnam](https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA) | 4:30 |
+| 7 | [Một Cú Lừa](https://open.spotify.com/track/16YX7SfThwFHdSYYWO6VaL) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/56sZf01q5Ih5jXICYyslq7) | 3:28 |
+| 8 | [Bo Xì Bo](https://open.spotify.com/track/4X2iEvLVDm1Acd8Xmxw1ZC) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 2:52 |
+| 9 | [Like This Like That \(feat\. tlinh\)](https://open.spotify.com/track/2sN4QQDFXMzqyfsm97iu9F) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [CONG](https://open.spotify.com/album/72AOO32yF86LlSFWH1uquV) | 3:45 |
+| 10 | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/track/489cWPdS6lbpdBHmd9duxp) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Duy Manh](https://open.spotify.com/artist/0MDeZ8vIkpFX3QkvY0el6B) | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/album/0bRkXFokx3dtwJst6rcLCN) | 3:02 |
 | 11 | [Phải Chăng Em Đã Yêu? \(feat\. RedT\)](https://open.spotify.com/track/3i02vLHwlt14hNJtdXmeM7) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [REDT](https://open.spotify.com/artist/5iggzY0xY68wNNWXhiPrZz) | [Phải Chăng Em Đã Yêu? \(feat\. RedT\)](https://open.spotify.com/album/6oLvir8rZVaQRF3z2mp0rG) | 3:10 |
 | 12 | [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/1gIaX9HEGZsWSd5HDJatSr) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/2hHic1AMDTtCmK072fentL) | 3:48 |
 | 13 | [ThichThich](https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP) | [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Điều Ngọt Ngào Khi Chờ Đợi Anh](https://open.spotify.com/track/4g05dGhnA69TG6AJljEcL6) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Điều Ngọt Ngào Khi Chờ Đợi Anh](https://open.spotify.com/album/4O5Y2CJavAsV8AkPZQqXrt) | 5:22 |
 | 50 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl) | 4:38 |
 
-Snapshot ID: `MTY3ODI2MTA5OCwwMDAwMDAwMDBhN2IzYmNhZmFiNWI0MTg1YmMyMDMzNTYxNmQ4MjRm`
+Snapshot ID: `MTY3ODU5MjYxOSwwMDAwMDAwMDgyNDdlMTIxMmYxNzU4MDJjZDRhODI3YzhiMWY2MmFj`

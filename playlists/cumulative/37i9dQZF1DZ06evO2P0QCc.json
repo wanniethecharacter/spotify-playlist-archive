@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 236451,
       "name": "Dolor en el Sur",
       "url": "https://open.spotify.com/track/26G3ejHXZlHm1o2GTaCqUr"
@@ -837,7 +837,7 @@
     },
     {
       "album": {
-        "name": "25 Years On The Road",
+        "name": "Best Of 25 Years On The Road",
         "url": "https://open.spotify.com/album/5G8yBKYcfpEkF3SZmRhdaQ"
       },
       "artists": [
@@ -852,9 +852,9 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 135221,
-      "name": "Taxi driver (feat. Inspector)",
+      "name": "Taxi driver",
       "url": "https://open.spotify.com/track/4DALnqsoxNqnomaniIhV1J"
     },
     {

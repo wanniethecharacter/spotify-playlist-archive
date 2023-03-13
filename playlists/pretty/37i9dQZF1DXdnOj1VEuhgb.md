@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: UZI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,194,342 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,194,822 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [VAMPIR](https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [VAMPIR](https://open.spotify.com/album/4QBczRY1FMlmk9KIEhAZJ0) | 3:36 |
-| 2 | [Randuman / Ring Ring Ring](https://open.spotify.com/track/6Q0tOMIEUSMDkwkxiDYdAu) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Randuman / Ring Ring Ring](https://open.spotify.com/album/2E0ZtQyUtB3Owq2GPTm9xo) | 1:59 |
-| 3 | [RANDEVU](https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [RANDEVU](https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b) | 2:32 |
+| 2 | [RANDEVU](https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [RANDEVU](https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b) | 2:32 |
+| 3 | [Randuman / Ring Ring Ring](https://open.spotify.com/track/6Q0tOMIEUSMDkwkxiDYdAu) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Randuman / Ring Ring Ring](https://open.spotify.com/album/2E0ZtQyUtB3Owq2GPTm9xo) | 1:59 |
 | 4 | [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 |
 | 5 | [AFFETMEM](https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [AFFETMEM](https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg) | 3:02 |
 | 6 | [İMPARATOR](https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [İMPARATOR](https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre) | 2:04 |
-| 7 | [10.000 Parça](https://open.spotify.com/track/2GHXhJopDCWRdq9jEPKz0O) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [10.000 Parça](https://open.spotify.com/album/0NqPEg5RKcFl0J7cn5h6j7) | 2:21 |
-| 8 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 |
-| 9 | [NKBİ X YAPAMAM \- Remix](https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [NKBİ X YAPAMAM \(Remix\)](https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ) | 3:02 |
-| 10 | [Günleri Saydım](https://open.spotify.com/track/3EvnxnwxvUgmXDy75xeoNx) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD) | [Günleri Saydım](https://open.spotify.com/album/41L569Sbr9hSf9KOYtkzqb) | 2:58 |
-| 11 | [TALIBANA](https://open.spotify.com/track/01KdkKsCC3BkA4nsQQLwOm) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/4wvjyNp47Q9uvY62To3fYq) | 2:36 |
-| 12 | [YALA DEDI YALAMA](https://open.spotify.com/track/3IUfGKVNE3QN1tePTN1bxF) | [yungcihad](https://open.spotify.com/artist/0jH6MFIcFJ9LpvHJ8xws6d), [Qimp](https://open.spotify.com/artist/2WfHd8ywTD4968YzTSmzF9), [SWIRF](https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG) | [YALA DEDI YALAMA](https://open.spotify.com/album/3Vm3nBEbl08PHep0rCmWx7) | 2:05 |
-| 13 | [VUR](https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [VUR](https://open.spotify.com/album/5EdPNG1RhELV1di2tYhklr) | 3:10 |
-| 14 | [yok muydu vaktin bana?](https://open.spotify.com/track/1noP6QHaeHTFZfLcEQAtqm) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [yok muydu vaktin bana?](https://open.spotify.com/album/5AVm3TD7AFqJLdtwAtgGgC) | 3:07 |
-| 15 | [Diyardan Diyara](https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Diyardan Diyara](https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP) | 2:29 |
+| 7 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 |
+| 8 | [NKBİ X YAPAMAM \- Remix](https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [NKBİ X YAPAMAM \(Remix\)](https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ) | 3:02 |
+| 9 | [10.000 Parça](https://open.spotify.com/track/2GHXhJopDCWRdq9jEPKz0O) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [10.000 Parça](https://open.spotify.com/album/0NqPEg5RKcFl0J7cn5h6j7) | 2:21 |
+| 10 | [TALIBANA](https://open.spotify.com/track/01KdkKsCC3BkA4nsQQLwOm) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/4wvjyNp47Q9uvY62To3fYq) | 2:36 |
+| 11 | [YALA DEDI YALAMA](https://open.spotify.com/track/3IUfGKVNE3QN1tePTN1bxF) | [yungcihad](https://open.spotify.com/artist/0jH6MFIcFJ9LpvHJ8xws6d), [Qimp](https://open.spotify.com/artist/2WfHd8ywTD4968YzTSmzF9), [SWIRF](https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG) | [YALA DEDI YALAMA](https://open.spotify.com/album/3Vm3nBEbl08PHep0rCmWx7) | 2:05 |
+| 12 | [Günleri Saydım](https://open.spotify.com/track/3EvnxnwxvUgmXDy75xeoNx) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD) | [Günleri Saydım](https://open.spotify.com/album/41L569Sbr9hSf9KOYtkzqb) | 2:58 |
+| 13 | [Diyardan Diyara](https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Diyardan Diyara](https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP) | 2:29 |
+| 14 | [VUR](https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [VUR](https://open.spotify.com/album/5EdPNG1RhELV1di2tYhklr) | 3:10 |
+| 15 | [yok muydu vaktin bana?](https://open.spotify.com/track/1noP6QHaeHTFZfLcEQAtqm) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [yok muydu vaktin bana?](https://open.spotify.com/album/5AVm3TD7AFqJLdtwAtgGgC) | 3:07 |
 | 16 | [10MG](https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [10MG](https://open.spotify.com/album/09Tg4f9e4j80dkIcwJ5YI4) | 2:21 |
 | 17 | [CRIMINAL](https://open.spotify.com/track/6Xr5IpNOPgW6X0Giyd7yUw) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl), [OSVETA](https://open.spotify.com/artist/7kRCHCbPeiKoKAg6Kxdf4M) | [CRIMINAL](https://open.spotify.com/album/44mBi9nKjqxRkNGVaQyvVX) | 2:48 |
 | 18 | [25](https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [25](https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [ESTAFURLA](https://open.spotify.com/track/67FQS0mvwg4j5LgdlTwJuc) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [ESTAFURLA](https://open.spotify.com/album/3iyn3IpyDYMy3myhSUWxXz) | 1:38 |
 | 50 | [DACIA](https://open.spotify.com/track/0okYvXKPqzZpj3iZrJH6JK) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DACIA](https://open.spotify.com/album/4nO3TIfUPnGSnryBvA9q1N) | 2:09 |
 
-Snapshot ID: `MTY3ODUxNjU5NSwwMDAwMDAwMGVlMGY2Nzg5OGZkZDZhNzc3MDMyNWQyN2I5ZjhkMjMz`
+Snapshot ID: `MTY3ODYwNTAzOSwwMDAwMDAwMGEwMzFkYjM5MzUxMWU5ZmQ1ZjBhN2FkNmI4NDg4NzM0`

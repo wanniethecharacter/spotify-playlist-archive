@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-141 songs - 10 hr 58 min
+142 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Graveyard](https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG) | [Sonja Tofik](https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3) | [Anomi](https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV) | 2:53 | 2022-05-18 |  |
 | [Guiding Light](https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa), [Chris Lippincott](https://open.spotify.com/artist/3r5vtXmOYoBH3cpMng374W) | [Guiding Light](https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE) | 3:14 | 2022-05-18 |  |
 | [Haven't Left Home 4 4 Days](https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 4:24 | 2022-05-18 |  |
+| [hold me](https://open.spotify.com/track/4b0t7J2Ymjgd8Hkbcl8ebS) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy), [Miranda Rain](https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c) | [sweet nothings](https://open.spotify.com/album/0aRSkBysa3PHcNQbKkfDBt) | 1:50 | 2023-03-10 |  |
 | [Horoathea Mass of Aegorath](https://open.spotify.com/track/4wv0tfqEIxeBr3gj340kTC) | [Halgrath](https://open.spotify.com/artist/6Pe8wvqAWxK6nFhwHjb0GD) | [Out of Time](https://open.spotify.com/album/2mKIWplmdZT3F4pDhLyitT) | 5:38 | 2022-07-01 |  |
 | [Hush Now Baby](https://open.spotify.com/track/6kGlgelRujRG66GEjvaREw) | [Ea Akilat](https://open.spotify.com/artist/67P3OoSUfsjVUEQQioTmhJ), [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [Hush Now Baby](https://open.spotify.com/album/7ynWqs3YeWAhkFEhGpaApR) | 1:41 | 2023-01-13 |  |
 | [Hymenaios](https://open.spotify.com/track/6SIZcquI0qu7GNisyDzcqm) | [We like We](https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN), [Jacob Kirkegaard](https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE) | [Time Is Local](https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV) | 2:56 | 2022-05-18 | 2022-07-26 |
@@ -82,7 +83,7 @@
 | [in altar wine](https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP) | [Wickerbird](https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti) | [in altar wine](https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9) | 5:34 | 2022-12-02 |  |
 | [Indigo Grit \(feat\. guest\)](https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [guest](https://open.spotify.com/artist/3z72l07aiHkKJ04PeJmWU0) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 1:52 | 2022-05-18 |  |
 | [Inspirit](https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 4:12 | 2022-05-18 |  |
-| [Iridescent](https://open.spotify.com/track/3GEvRsUIB2VwSgGik53j30) | [Todesfuge](https://open.spotify.com/artist/4xGHfwdkKZkJVgMXmqlb8w) | [In The Void Nothing Happens](https://open.spotify.com/album/0qWEN2TK6Tj4ULAOeyfGJX) | 1:54 | 2022-05-18 |  |
+| [Iridescent](https://open.spotify.com/track/3GEvRsUIB2VwSgGik53j30) | [Todesfuge](https://open.spotify.com/artist/4xGHfwdkKZkJVgMXmqlb8w) | [In The Void Nothing Happens](https://open.spotify.com/album/0qWEN2TK6Tj4ULAOeyfGJX) | 1:54 | 2022-05-18 | 2023-03-13 |
 | [Japanese Summer Lost](https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [Japanese Summer Lost](https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi) | 3:31 | 2022-08-05 |  |
 | [Labyrinthine](https://open.spotify.com/track/58OsQvr8IkoysLGiaLth6I) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 4:32 | 2022-07-01 |  |
 | [Labyrinthine](https://open.spotify.com/track/78crZjUoVtj9ebTpsWuquw) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/1rMSF8WzsF016bhkREx45l) | 4:32 | 2022-05-18 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with WHIPPED CREAM.",
-  "num_followers": 956758,
+  "num_followers": 956847,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGE2MGU5MWQyNWJlYjQwNTAyYmU2NGNkYmZjZWE3ZTUz",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDdkNTBhMzk0NjEwZDc3MWYxMDkzOWUyZWUzNTlhMzhi",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -571,6 +571,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Mercy (2022 Edit)",
+      "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "DON'T LOOK DOWN (feat. Lizzy Land)",
         "url": "https://open.spotify.com/album/7m8fnIJ9yEu4ose0FQUR3N"
       },
@@ -591,22 +611,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
+        "name": "PEW PEW",
+        "url": "https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3"
       },
       "artists": [
         {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
         },
         {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Mercy (2022 Edit)",
-      "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
+      "duration_ms": 199111,
+      "name": "PEW PEW",
+      "url": "https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -631,26 +651,6 @@
       "duration_ms": 160500,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/7DRDufzLV8vbLRPdkJIqWq"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "PEW PEW",
-        "url": "https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 199111,
-      "name": "PEW PEW",
-      "url": "https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -695,22 +695,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Stop Thinking (feat. Lights)",
-        "url": "https://open.spotify.com/album/2cC9ykuhZFjOaaytZGRi8K"
+        "name": "Sweet Dreams (Are Made Of This)",
+        "url": "https://open.spotify.com/album/6TCJvwsIvDhoSlJQEhWWKI"
       },
       "artists": [
         {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
         },
         {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
         }
       ],
-      "duration_ms": 292633,
-      "name": "Stop Thinking (feat. Lights)",
-      "url": "https://open.spotify.com/track/6bfyfZ0UV3K9Broh54iXaw"
+      "duration_ms": 154285,
+      "name": "Sweet Dreams (Are Made Of This)",
+      "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -735,22 +735,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Sweet Dreams (Are Made Of This)",
-        "url": "https://open.spotify.com/album/6TCJvwsIvDhoSlJQEhWWKI"
+        "name": "Stop Thinking (feat. Lights)",
+        "url": "https://open.spotify.com/album/2cC9ykuhZFjOaaytZGRi8K"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
         },
         {
-          "name": "fknsyd",
-          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Sweet Dreams (Are Made Of This)",
-      "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
+      "duration_ms": 292633,
+      "name": "Stop Thinking (feat. Lights)",
+      "url": "https://open.spotify.com/track/6bfyfZ0UV3K9Broh54iXaw"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Suffer In Silence",
+        "url": "https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 194248,
+      "name": "Suffer In Silence",
+      "url": "https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Beyond The Veil (Deluxe)",
         "url": "https://open.spotify.com/album/4K5YF7y9LvkmFUYna1GtXy"
       },
@@ -895,26 +911,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "DRMVRSE",
-        "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "KLAXX",
-          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/4LfJbl62cw3nr0POfs8Yy5"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Thirst (Hex Cougar Remix)",
         "url": "https://open.spotify.com/album/0qfL5xHK6BopkSSWeYVGvd"
       },
@@ -931,6 +927,26 @@
       "duration_ms": 204963,
       "name": "Thirst - Hex Cougar Remix",
       "url": "https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "DRMVRSE",
+        "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/4LfJbl62cw3nr0POfs8Yy5"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -983,26 +999,6 @@
       "duration_ms": 217846,
       "name": "BACK ONLINE",
       "url": "https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Every Time (feat. So Below)",
-        "url": "https://open.spotify.com/album/1I9Bg2BoorxcedzgQrlvuU"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "So Below",
-          "url": "https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi"
-        }
-      ],
-      "duration_ms": 342008,
-      "name": "Every Time (feat. So Below)",
-      "url": "https://open.spotify.com/track/6AkEP2vEcpTRn2ilHVPNsa"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1067,6 +1063,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Every Time (feat. So Below)",
+        "url": "https://open.spotify.com/album/1I9Bg2BoorxcedzgQrlvuU"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "So Below",
+          "url": "https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi"
+        }
+      ],
+      "duration_ms": 342008,
+      "name": "Every Time (feat. So Below)",
+      "url": "https://open.spotify.com/track/6AkEP2vEcpTRn2ilHVPNsa"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "My Heart Has Teeth (From \u201cResident Evil\u201d)",
         "url": "https://open.spotify.com/album/0dfwFYOSdC2bDAvepzVZ90"
       },
@@ -1107,26 +1123,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Think Of You",
-        "url": "https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Blunts & Blondes",
-          "url": "https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Think Of You",
-      "url": "https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Deep (with DJ Snake & Yung Felix)",
         "url": "https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u"
       },
@@ -1151,18 +1147,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Suffer In Silence",
-        "url": "https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc"
+        "name": "Think Of You",
+        "url": "https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Blunts & Blondes",
+          "url": "https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3"
         }
       ],
-      "duration_ms": 194248,
-      "name": "Suffer In Silence",
-      "url": "https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS"
+      "duration_ms": 185142,
+      "name": "Think Of You",
+      "url": "https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Eden (feat. fussy)",
+        "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "fussy",
+          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
+        }
+      ],
+      "duration_ms": 176761,
+      "name": "Eden (feat. fussy)",
+      "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "I'm Delighted",
         "url": "https://open.spotify.com/album/7DvM5EovlXacl7ngrQcI1h"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 294340,
       "name": "Falling Fast (feat. GG Magree)",
       "url": "https://open.spotify.com/track/3TSk2ns9rVF8kiYOSuNx3r"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Eden (feat. fussy)",
-        "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "fussy",
-          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
-        }
-      ],
-      "duration_ms": 176761,
-      "name": "Eden (feat. fussy)",
-      "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1683,6 +1683,30 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/3PbKTYH2g4or5eeizzwOQ4"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Biometrix",
+          "url": "https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/1VRgvtnfkkjgPw9a48KMiT"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/0j1JntUGndsVxvXu6DwvRg"
       },
@@ -1743,26 +1767,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/3PbKTYH2g4or5eeizzwOQ4"
+        "name": "Ding Dong",
+        "url": "https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp"
       },
       "artists": [
         {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        },
-        {
-          "name": "Biometrix",
-          "url": "https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
         }
       ],
-      "duration_ms": 182250,
-      "name": "Isolation",
-      "url": "https://open.spotify.com/track/1VRgvtnfkkjgPw9a48KMiT"
+      "duration_ms": 177656,
+      "name": "Ding Dong",
+      "url": "https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1783,22 +1799,6 @@
       "duration_ms": 172857,
       "name": "Space Candy",
       "url": "https://open.spotify.com/track/6niRLPoOk9g29qJMdBobwg"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Ding Dong",
-        "url": "https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 177656,
-      "name": "Ding Dong",
-      "url": "https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "MIDHEAVEN: OPUS 01",
+        "url": "https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "duration_ms": 175135,
+      "name": "ACHROMATIC (YOI)",
+      "url": "https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "BODY SH!T",
         "url": "https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 184049,
       "name": "BODY SH!T",
       "url": "https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "MIDHEAVEN: OPUS 01",
-        "url": "https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt"
-      },
-      "artists": [
-        {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
-        }
-      ],
-      "duration_ms": 175135,
-      "name": "ACHROMATIC (YOI)",
-      "url": "https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
-      },
-      "artists": [
-        {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "THIEF IN THE NIGHT",
         "url": "https://open.spotify.com/album/3ydrHaAw7BOX1gNcqd8Pc4"
       },
@@ -1983,22 +1967,6 @@
       "duration_ms": 119172,
       "name": "THIEF IN THE NIGHT",
       "url": "https://open.spotify.com/track/12kIpARSic31mwXTdUuMLU"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "All We Needed",
-        "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "All We Needed",
-      "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2023,6 +1991,38 @@
       "duration_ms": 238285,
       "name": "Reason For Fighting (feat. ERV ELLO)",
       "url": "https://open.spotify.com/track/2L2rzhnx1Xr6LiGuaYMepY"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
+      },
+      "artists": [
+        {
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "All We Needed",
+        "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "All We Needed",
+      "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2059,26 +2059,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/2Bqy3jSg9uQRY0BQwomJto"
-      },
-      "artists": [
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "Calivania",
-          "url": "https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1"
-        }
-      ],
-      "duration_ms": 185824,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/0MP17yUIUmS2bLHPBQTMyT"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Let That Go",
         "url": "https://open.spotify.com/album/2RhXo1ZwnnqUWAuxWgnLyP"
       },
@@ -2095,6 +2075,26 @@
       "duration_ms": 231724,
       "name": "Let That Go",
       "url": "https://open.spotify.com/track/2NX8NP9hZ0Cl97jrmgxJh6"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/2Bqy3jSg9uQRY0BQwomJto"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "Calivania",
+          "url": "https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1"
+        }
+      ],
+      "duration_ms": 185824,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/0MP17yUIUmS2bLHPBQTMyT"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2191,26 +2191,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Outcast",
-        "url": "https://open.spotify.com/album/7bzJEJoMYDnwJlZC3h9hBb"
-      },
-      "artists": [
-        {
-          "name": "INHUMAN",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
-        },
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 272431,
-      "name": "Outcast",
-      "url": "https://open.spotify.com/track/20eAFFTSJktGui5yaZ9DCr"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "The Uprising",
         "url": "https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0"
       },
@@ -2227,6 +2207,26 @@
       "duration_ms": 197735,
       "name": "The Uprising",
       "url": "https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Outcast",
+        "url": "https://open.spotify.com/album/7bzJEJoMYDnwJlZC3h9hBb"
+      },
+      "artists": [
+        {
+          "name": "INHUMAN",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 272431,
+      "name": "Outcast",
+      "url": "https://open.spotify.com/track/20eAFFTSJktGui5yaZ9DCr"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2251,38 +2251,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "All Eyez On Me",
-        "url": "https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf"
-      },
-      "artists": [
-        {
-          "name": "Capozzi",
-          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "All Eyez On Me",
-      "url": "https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/7BuqieOHw8lBxS316dD6qY"
-      },
-      "artists": [
-        {
-          "name": "Ekali",
-          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/0AzoovrzyAFTlOf2UaUPIx"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "MIDHEAVEN: OPUS 04",
         "url": "https://open.spotify.com/album/1YCcu7dz8NqUS7m24YTKH3"
       },
@@ -2295,6 +2263,22 @@
       "duration_ms": 158297,
       "name": "AXIOM",
       "url": "https://open.spotify.com/track/6qhkbEzLyKmBlFTIGn7L8p"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf"
+      },
+      "artists": [
+        {
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "All Eyez On Me",
+      "url": "https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2335,6 +2319,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/7BuqieOHw8lBxS316dD6qY"
+      },
+      "artists": [
+        {
+          "name": "Ekali",
+          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/0AzoovrzyAFTlOf2UaUPIx"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Heavenly",
         "url": "https://open.spotify.com/album/5yWY4gVRl4oJEuRSBbBOHq"
       },
@@ -2347,22 +2347,6 @@
       "duration_ms": 269623,
       "name": "Forgive You Anyway",
       "url": "https://open.spotify.com/track/5NpVwsN4IvmWUzWdn22ILw"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Not Giving In",
-        "url": "https://open.spotify.com/album/7pIuUpNRFjdhvDjWoAWNxK"
-      },
-      "artists": [
-        {
-          "name": "Culture Code",
-          "url": "https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Not Giving In",
-      "url": "https://open.spotify.com/track/4BGisE3DH8PkP5ibmLkmQB"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2383,6 +2367,22 @@
       "duration_ms": 196800,
       "name": "Within The Boundaries",
       "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Not Giving In",
+        "url": "https://open.spotify.com/album/7pIuUpNRFjdhvDjWoAWNxK"
+      },
+      "artists": [
+        {
+          "name": "Culture Code",
+          "url": "https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Not Giving In",
+      "url": "https://open.spotify.com/track/4BGisE3DH8PkP5ibmLkmQB"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2687,6 +2687,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Bang Harder",
+        "url": "https://open.spotify.com/album/6XS7UbDpIqRIWNMxG5I8XV"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "Bang Harder",
+      "url": "https://open.spotify.com/track/3DrLjM8mwvw6YHDIO4cQJT"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Trip To Mars",
         "url": "https://open.spotify.com/album/5Er1tnoWX3ER2XPeDFmQLq"
       },
@@ -2703,22 +2719,6 @@
       "duration_ms": 212935,
       "name": "Trip To Mars",
       "url": "https://open.spotify.com/track/3jMtndFPgcjtKHuUnGHf9E"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Bang Harder",
-        "url": "https://open.spotify.com/album/6XS7UbDpIqRIWNMxG5I8XV"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "Bang Harder",
-      "url": "https://open.spotify.com/track/3DrLjM8mwvw6YHDIO4cQJT"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2879,26 +2879,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Kiwi",
-        "url": "https://open.spotify.com/album/0ieBSQU75oRUKPzmb9lvJT"
-      },
-      "artists": [
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        },
-        {
-          "name": "Foramic",
-          "url": "https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Kiwi",
-      "url": "https://open.spotify.com/track/55b0r9RIvfhCJKCRqpGy4q"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "LEFT TO RIGHT (Subsonic Remix)",
         "url": "https://open.spotify.com/album/0bfCjB90W0daFxgDBt8mTm"
       },
@@ -2931,6 +2911,26 @@
       "duration_ms": 228922,
       "name": "JSYK",
       "url": "https://open.spotify.com/track/3nOg31lPxRYK0Y0o1XoAf0"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Kiwi",
+        "url": "https://open.spotify.com/album/0ieBSQU75oRUKPzmb9lvJT"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        },
+        {
+          "name": "Foramic",
+          "url": "https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Kiwi",
+      "url": "https://open.spotify.com/track/55b0r9RIvfhCJKCRqpGy4q"
     }
   ],
   "unique_name": "Bass Arcade",

@@ -1,12 +1,12 @@
 {
   "description": "Classic rock favorites. Cover: Bruce Springsteen",
-  "num_followers": 264477,
+  "num_followers": 264821,
   "original_name": "Dad Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM3NzE4NywwMDAwMDAwMGFjYjQ5OGQ5NDg1YzhhMjYzMjg3OGM3ZDAyNzI3ZGFm",
+  "snapshot_id": "MTY3ODM3NzE4NywwMDAwMDAwMDViMTJlMDEzNDFjNzc4ZWJmMDBhYzUyYWE5NmJmZjIw",
   "tracks": [
     {
       "added_at": "2022-06-15 19:50:25",
@@ -365,20 +365,20 @@
       "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
-      "added_at": "2022-03-31 19:45:13",
+      "added_at": "2022-03-04 19:00:59",
       "album": {
-        "name": "Not Fragile",
-        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
       },
       "artists": [
         {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
         }
       ],
-      "duration_ms": 234866,
-      "name": "You Ain't Seen Nothing Yet",
-      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
+      "duration_ms": 277467,
+      "name": "Reelin' In The Years",
+      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs"
     },
     {
       "added_at": "2022-03-04 19:00:59",
@@ -397,20 +397,20 @@
       "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
     },
     {
-      "added_at": "2022-03-04 19:00:59",
+      "added_at": "2022-03-31 19:45:13",
       "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+        "name": "Not Fragile",
+        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
       },
       "artists": [
         {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
         }
       ],
-      "duration_ms": 277467,
-      "name": "Reelin' In The Years",
-      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs"
+      "duration_ms": 234866,
+      "name": "You Ain't Seen Nothing Yet",
+      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
     },
     {
       "added_at": "2022-03-14 17:21:32",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
     },
     {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "BAD TO THE BONE",
-        "url": "https://open.spotify.com/album/2YeoeDa3soxjD4ANZGG1fj"
-      },
-      "artists": [
-        {
-          "name": "George Thorogood & The Destroyers",
-          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
-        }
-      ],
-      "duration_ms": 292173,
-      "name": "Bad To The Bone",
-      "url": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk"
-    },
-    {
       "added_at": "2022-03-14 17:21:32",
       "album": {
         "name": "Bat Out Of Hell",
@@ -507,6 +491,22 @@
       "duration_ms": 508333,
       "name": "Paradise By the Dashboard Light",
       "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "BAD TO THE BONE",
+        "url": "https://open.spotify.com/album/2YeoeDa3soxjD4ANZGG1fj"
+      },
+      "artists": [
+        {
+          "name": "George Thorogood & The Destroyers",
+          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
+        }
+      ],
+      "duration_ms": 292173,
+      "name": "Bad To The Bone",
+      "url": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk"
     },
     {
       "added_at": "2022-03-14 17:21:32",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6"
     },
     {
-      "added_at": "2022-03-14 17:21:32",
-      "album": {
-        "name": "Permanent Waves",
-        "url": "https://open.spotify.com/album/3nUNxSh2szhmN7iifAKv5i"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 296466,
-      "name": "The Spirit Of Radio",
-      "url": "https://open.spotify.com/track/4e9hUiLsN4mx61ARosFi7p"
-    },
-    {
       "added_at": "2022-03-04 19:14:07",
       "album": {
         "name": "Van Halen II (Remastered)",
@@ -763,6 +747,22 @@
       "duration_ms": 188083,
       "name": "Dance the Night Away - 2015 Remaster",
       "url": "https://open.spotify.com/track/4RS9PmtHQe7I0o5fEeweOY"
+    },
+    {
+      "added_at": "2022-03-14 17:21:32",
+      "album": {
+        "name": "Permanent Waves",
+        "url": "https://open.spotify.com/album/3nUNxSh2szhmN7iifAKv5i"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 296466,
+      "name": "The Spirit Of Radio",
+      "url": "https://open.spotify.com/track/4e9hUiLsN4mx61ARosFi7p"
     },
     {
       "added_at": "2022-06-15 19:50:25",

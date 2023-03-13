@@ -4,7 +4,7 @@
 
 > All the best soul disco sounds for getting down.
 
-120 songs - 8 hr 30 min
+121 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,9 +93,10 @@
 | [Running Away](https://open.spotify.com/track/42kFGNfCDZQWnql4rSiKhT) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Roy Ayers \- Universal Masters](https://open.spotify.com/album/5xO3QmYfDvMSR5UQtlXmy5) | 3:57 | 2020-04-14 | 2022-07-29 |
 | [Running Away](https://open.spotify.com/track/2trLMQT5JG5EESVEOrgUzJ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Disco, rítmo y buena onda](https://open.spotify.com/album/04Epa1yRt7GZbFmVWC1yt4) | 3:59 | 2020-04-14 | 2022-11-13 |
 | [Running Away](https://open.spotify.com/track/3KLYkhq8QGEuKRkKj6E694) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 4:00 | 2020-04-14 |  |
-| [September](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:35 | 2020-04-14 |  |
+| [September](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:35 | 2020-04-14 | 2023-03-13 |
 | [September](https://open.spotify.com/track/5hHm4e3dYYduLfxPnOY1TA) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Boogie Wonderland: The Best Of Earth, Wind & Fire](https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb) | 3:35 | 2020-04-14 | 2022-07-29 |
 | [September](https://open.spotify.com/track/2fckeyAojYpJ9xGSrGa94g) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Clive Davis: The Soundtrack of Our Lives](https://open.spotify.com/album/13VY4UMIBiyl1IHbodEDYE) | 3:35 | 2020-04-14 | 2022-11-13 |
+| [September](https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September \(sped up + slowed\)](https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI) | 3:36 | 2020-04-14 |  |
 | [Shake Your Body \(Down to the Ground\) \- 7" Version](https://open.spotify.com/track/26QORAYrHVWk6Pn6ELkzvn) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny \(Expanded Version\)](https://open.spotify.com/album/4uHjiaukvzX2i2IzLkUqWy) | 3:47 | 2020-04-14 |  |
 | [Shake Your Body \(Down to the Ground\) \- Single Edit](https://open.spotify.com/track/6lSVidZXCnOnYAWcgIqVDF) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:44 | 2020-04-14 | 2022-11-13 |
 | [Shake Your Body \(Down To The Ground\) \- Single Version](https://open.spotify.com/track/6yhVPXKXRblL2T4jFfz7mw) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Can You Feel It: The Jacksons Collection](https://open.spotify.com/album/2CvbITS0dlUwUtXoWD4OwS) | 3:45 | 2020-04-14 | 2022-07-29 |

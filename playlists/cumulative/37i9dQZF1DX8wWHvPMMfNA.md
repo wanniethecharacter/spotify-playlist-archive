@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-304 songs - 21 hr 37 min
+305 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [I Fall in Love Too Easily](https://open.spotify.com/track/5VQ5ZDPKpaqIcrgjgYkk8g) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO), [Andrea Rea Trio](https://open.spotify.com/artist/1fVvnDjO9UR9VzEsRFCwfG), [Joe Rehmer](https://open.spotify.com/artist/2X9guPdoOHugu34oKnxgWa), [Marcello Di Leonardo](https://open.spotify.com/artist/4Nf1TXdpJFjkLmUgXdXeSU) | [Quiet Nights of Quiet Songs](https://open.spotify.com/album/371VzyXWti506VTodQfkf8) | 6:15 | 2022-09-08 | 2022-11-11 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/1wnbi9NzQPBCobZ6OYCpqH) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc) | 2:42 | 2021-12-16 | 2022-09-09 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 6:43 | 2021-12-16 | 2022-11-11 |
-| [I Got It Bad](https://open.spotify.com/track/7mAaoHCzBBjj3tYb1l25OH) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [I Got It Bad](https://open.spotify.com/album/4fifEjoLEumLNYYMlSvaan) | 4:26 | 2022-11-11 |  |
+| [I Got It Bad](https://open.spotify.com/track/7mAaoHCzBBjj3tYb1l25OH) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [I Got It Bad](https://open.spotify.com/album/4fifEjoLEumLNYYMlSvaan) | 4:26 | 2022-11-11 | 2023-03-13 |
 | [I Guess I'll Have To Change My Plan](https://open.spotify.com/track/5w2gihx0xSbmWIxauR35nK) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants](https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg) | 9:35 | 2021-12-16 | 2022-11-11 |
 | [I Guess I'll Have To Change My Plans](https://open.spotify.com/track/1Dn4xfTFsE7T3QM7adZFo4) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [I Guess I'll Have To Change My Plans](https://open.spotify.com/album/7iJ7DbrzgjSKQF0aBwDoNx) | 3:51 | 2022-11-11 | 2023-01-11 |
 | [I Love You](https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW) | [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [Jazz 'N' Samba](https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG) | 4:37 | 2022-05-18 | 2022-11-11 |
@@ -199,6 +199,7 @@
 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 | 2022-11-11 | 2022-12-08 |
 | [Night Lights](https://open.spotify.com/track/5eVERkVvJKBgV2FziCoLDE) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 4:58 | 2021-12-16 | 2022-10-06 |
 | [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-11-11 | 2022-12-13 |
+| [Nostalgia](https://open.spotify.com/track/5CX7Ndfp4IJT94jdKSdair) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [Nostalgia](https://open.spotify.com/album/40TSaISQjPsgp7y10MtdwD) | 3:41 | 2023-03-09 |  |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-11-11 | 2023-02-23 |
 | [Nothing Lasts Forever](https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:42 | 2022-11-11 | 2022-11-26 |
 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 | 2022-11-11 | 2023-01-29 |

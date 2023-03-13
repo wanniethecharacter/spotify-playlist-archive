@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 45473,
+  "num_followers": 45577,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEwMzU1NywwMDAwMDAwMDkyMWE4NDQxYTlkMzkxYzg5M2Q3MzA2MTkxYzZlNDM4",
+  "snapshot_id": "MTY3NzEwMzU1NywwMDAwMDAwMDcxY2QyMGQ5YTEyYjYzODc3NDkxZmY4YzhlNTdhM2U3",
   "tracks": [
     {
       "added_at": "2022-12-06 14:58:14",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
     },
     {
-      "added_at": "2023-03-12 01:00:37",
+      "added_at": "2023-03-13 00:30:00",
       "album": {
         "name": "Et Bam",
         "url": "https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/7vlLFUFZKochwQGnoRnWcM"
     },
     {
-      "added_at": "2023-03-12 01:00:37",
+      "added_at": "2023-03-13 00:30:00",
       "album": {
         "name": "Popcorn Sal\u00e9",
         "url": "https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V"
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Ami Ou Ennemi",
-        "url": "https://open.spotify.com/album/6SLKeOEgpg9XmpsKxxXCBU"
-      },
-      "artists": [
-        {
-          "name": "Maurane",
-          "url": "https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if"
-        }
-      ],
-      "duration_ms": 290226,
-      "name": "Sur un pr\u00e9lude de Bach",
-      "url": "https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Les Frangines (Nouvelle \u00e9dition)",
         "url": "https://open.spotify.com/album/1AnZKsSHpXjV4d4zyUDGu5"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 192053,
       "name": "Pour une seconde",
       "url": "https://open.spotify.com/track/4uiR0HGXDcqsR4E1P2EzLW"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Ami Ou Ennemi",
+        "url": "https://open.spotify.com/album/6SLKeOEgpg9XmpsKxxXCBU"
+      },
+      "artists": [
+        {
+          "name": "Maurane",
+          "url": "https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if"
+        }
+      ],
+      "duration_ms": 290226,
+      "name": "Sur un pr\u00e9lude de Bach",
+      "url": "https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -1185,6 +1185,22 @@
       "url": "https://open.spotify.com/track/2i3ZEXYOanRZlariHUfSLN"
     },
     {
+      "added_at": "2023-03-13 00:30:00",
+      "album": {
+        "name": "Br\u00fbler le Feu 2",
+        "url": "https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "L\u2019\u00c9pine",
+      "url": "https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp"
+    },
+    {
       "added_at": "2022-12-06 14:58:14",
       "album": {
         "name": "La nuit (Version acoustique)",
@@ -1219,22 +1235,6 @@
       "duration_ms": 174400,
       "name": "Ton visage - Acoustic",
       "url": "https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR"
-    },
-    {
-      "added_at": "2023-03-12 01:00:37",
-      "album": {
-        "name": "Br\u00fbler le Feu 2",
-        "url": "https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "L\u2019\u00c9pine",
-      "url": "https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp"
     },
     {
       "added_at": "2022-12-06 14:58:14",

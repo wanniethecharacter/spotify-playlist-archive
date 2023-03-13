@@ -1325,6 +1325,32 @@
     },
     {
       "album": {
+        "name": "LOVE IS",
+        "url": "https://open.spotify.com/album/23f2kd0MMf7L6aJZ5vOkAb"
+      },
+      "artists": [
+        {
+          "name": "Jason Mountario",
+          "url": "https://open.spotify.com/artist/6ibPIgByjCH7qYPlBbN4Tr"
+        },
+        {
+          "name": "Sri Hanuraga",
+          "url": "https://open.spotify.com/artist/6oBbSq1WI51saPC5Vys7z2"
+        },
+        {
+          "name": "Kelvin Andreas",
+          "url": "https://open.spotify.com/artist/2hl3KpfiMWRSP51mLLi4Pd"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "LOVE IS",
+      "url": "https://open.spotify.com/track/1Sx3NLx0k01HRqA2JhVguv"
+    },
+    {
+      "album": {
         "name": "Makan Teman",
         "url": "https://open.spotify.com/album/4F99lV3Ql04YNP8P3WV3mh"
       },

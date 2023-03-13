@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-221 songs - 11 hr 46 min
+222 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ah Ah Ah](https://open.spotify.com/track/2pFjlvjdRT9EaGWLeCczZp) | [CaZe](https://open.spotify.com/artist/03UufkfoklvOSbG7veLHCL), [Miss Pammie](https://open.spotify.com/artist/25FihmnGmTbt6o0u6TFljm), [Baby Paw](https://open.spotify.com/artist/5ddWBVsLBP4hg3uTKS3Uck) | [Ah Ah Ah](https://open.spotify.com/album/3vXKsTdymqUvbtXIC6PHLy) | 3:35 | 2022-02-17 | 2022-07-29 |
 | [Apollo](https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:50 | 2022-03-11 |  |
 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 | 2022-03-11 | 2022-12-18 |
+| [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 | 2023-03-10 |  |
 | [Aso](https://open.spotify.com/track/5wHk6dHg0L0wf969TA1p9b) | [Skrilla Ghad](https://open.spotify.com/artist/0WkzfB1NFXWyYF2rDbtJ93) | [Aso](https://open.spotify.com/album/2lnTdMbJf9eNCzFrPL2web) | 1:46 | 2022-06-16 | 2022-07-25 |
 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 | 2022-11-25 |  |
 | [Atenu](https://open.spotify.com/track/7LKOOxFzqTRkzsTwipxXFQ) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Fire](https://open.spotify.com/album/7pQThPR8GmQWkzpvqIteNH) | 2:24 | 2022-06-23 | 2022-07-28 |
@@ -43,7 +44,7 @@
 | [Cash Out](https://open.spotify.com/track/09nKQUX0rISchtWlsDS4uB) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Cash Out](https://open.spotify.com/album/1Ne4TthIrhxHoCM4TrlzXX) | 3:08 | 2022-10-21 | 2022-11-19 |
 | [Caution](https://open.spotify.com/track/3s1vxTu48FlpPpwztVB4ht) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Caution](https://open.spotify.com/album/0yrnHtfgm66Ky53Nzdivnl) | 2:25 | 2022-08-12 | 2023-02-10 |
 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 | 2022-06-16 |  |
-| [Chale](https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Chale](https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY) | 6:14 | 2023-02-03 |  |
+| [Chale](https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Chale](https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY) | 6:14 | 2023-02-03 | 2023-03-13 |
 | [Chance \(Na Ham\)](https://open.spotify.com/track/56iVI65i40FrCO5p382IrK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5) | 2:57 | 2022-11-04 |  |
 | [Charger](https://open.spotify.com/track/5IMX7sh5kGdVX7iWqN5Url) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Charger](https://open.spotify.com/album/5jvsWsFqZzym9fMhBtDKZ8) | 3:26 | 2022-03-17 | 2022-07-29 |
 | [Cho Cho Cho](https://open.spotify.com/track/1quf400g3rYDKzYbjpvyK9) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Killashay](https://open.spotify.com/artist/1D77wT9J4xlUWqO7YZgB3N) | [Cho Cho Cho](https://open.spotify.com/album/7GKtlpyVsjosh6w6FQlyWu) | 2:57 | 2022-06-23 | 2022-07-23 |

@@ -4,7 +4,7 @@
 
 > Suena en el barrio, suena acá\. Foto: DT.Bilardo
 
-103 songs - 5 hr 5 min
+104 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Tamo Chelo \- Remix](https://open.spotify.com/track/0utOOrcBB24KZil9cgAwXB) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [DINERO EN EL BEAT](https://open.spotify.com/artist/6z6d7XTjd4u2sXVJTVwzE0) | [Tamo Chelo \(Remix\)](https://open.spotify.com/album/7mFkiXqQqnWYveSQeA9GXE) | 5:38 | 2022-06-06 |  |
 | [TARJETA GOLD](https://open.spotify.com/track/6PQC4GNmRv0dL3PCJuKMia) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TARJETA GOLD](https://open.spotify.com/album/4hCx1wdfVDmZPRwxiqB4W0) | 3:05 | 2021-12-24 |  |
 | [TEKA \| E6](https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [TEKA \| E6](https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay) | 2:17 | 2022-07-07 |  |
-| [Tembleque](https://open.spotify.com/track/4UrA9uPAwQTJC8TxdLyQGv) | [Nahu Baby](https://open.spotify.com/artist/0E29LmUmNIWy4e620QAe4d), [CXB](https://open.spotify.com/artist/5gcwcJitEUrfcz32kiSyIp) | [Tembleque](https://open.spotify.com/album/2b1tvjFy2lJrsG2cNuVOl4) | 3:14 | 2021-12-24 |  |
+| [Tembleque](https://open.spotify.com/track/4UrA9uPAwQTJC8TxdLyQGv) | [Nahu Baby](https://open.spotify.com/artist/0E29LmUmNIWy4e620QAe4d), [CXB](https://open.spotify.com/artist/5gcwcJitEUrfcz32kiSyIp) | [Tembleque](https://open.spotify.com/album/2b1tvjFy2lJrsG2cNuVOl4) | 3:14 | 2021-12-24 | 2023-03-13 |
+| [Tembleque](https://open.spotify.com/track/4kpt4TL2epP2BFt8P84hOT) | [Nahu Baby](https://open.spotify.com/artist/0E29LmUmNIWy4e620QAe4d), [CXB](https://open.spotify.com/artist/5gcwcJitEUrfcz32kiSyIp) | [Tembleque](https://open.spotify.com/album/31vVX14BtGipOUrJgL9kTG) | 3:14 | 2023-01-27 |  |
 | [Tik Tok](https://open.spotify.com/track/2MlZssOqnJhK0OTSWBF08f) | [El Amante](https://open.spotify.com/artist/2rFznqF1juLuKmA0h11u2Z), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Tik Tok](https://open.spotify.com/album/1Ot0tf7OnYS10qgZL2km5q) | 2:04 | 2021-12-24 | 2022-04-29 |
 | [Tiki Taka](https://open.spotify.com/track/5QDFTP24z4dXNsk8FWHAMA) | [SK GoldenBoy](https://open.spotify.com/artist/7vsHwzX51HutOI0wfI1kix), [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB) | [Tiki Taka](https://open.spotify.com/album/2KU8ZqTdisGV3QSB1kDDxw) | 2:29 | 2021-12-24 |  |
 | [Tinty Nasty](https://open.spotify.com/track/1e0NatUVfOD9xRgeXSedrl) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Tinty Nasty](https://open.spotify.com/album/2svQMn9RrCglH2SbMIqlzU) | 3:07 | 2021-12-24 |  |

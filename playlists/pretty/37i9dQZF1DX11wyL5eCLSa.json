@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Bruses en portada.",
-  "num_followers": 141761,
+  "num_followers": 141824,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ2MDYwMywwMDAwMDAwMDliMGVkNTZkZGZiYmRkZDJmYjEzZmFlOGYwNWNjMjYy",
+  "snapshot_id": "MTY3ODQ2MDYwMywwMDAwMDAwMGZhY2UwMTk0MDM3YmJmOWUzZTcyMWQwZTU2MzU5YmYx",
   "tracks": [
     {
       "added_at": "2023-03-10 06:00:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4MNPF36soeinIWw2D5QbmM"
     },
     {
-      "added_at": "2023-03-12 01:21:14",
+      "added_at": "2023-03-13 00:34:26",
       "album": {
         "name": "Holidays - Chromocosmic Avenue",
         "url": "https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz"
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/2eFWliYRleozZ8w8JRm5FP"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Prenda del Alma - Spotify Singles",
-        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 258579,
-      "name": "Prenda del Alma - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
-    },
-    {
       "added_at": "2023-03-03 06:00:00",
       "album": {
         "name": "Se\u00f1orita Revoluci\u00f3n",
@@ -651,6 +635,22 @@
       "duration_ms": 158478,
       "name": "Se\u00f1orita Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "Prenda del Alma - Spotify Singles",
+        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 258579,
+      "name": "Prenda del Alma - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/2VekSimbB6RVkb1Der7qXG"
     },
     {
+      "added_at": "2023-03-03 06:00:00",
+      "album": {
+        "name": "Medalla de Oro",
+        "url": "https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 340200,
+      "name": "Medalla de Oro",
+      "url": "https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl"
+    },
+    {
       "added_at": "2022-07-22 17:47:39",
       "album": {
         "name": "La Historia Sin Fin",
@@ -1105,22 +1121,6 @@
       "url": "https://open.spotify.com/track/1yfUatJAVvmmZh5sJyW3Re"
     },
     {
-      "added_at": "2023-03-03 06:00:00",
-      "album": {
-        "name": "Medalla de Oro",
-        "url": "https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 340200,
-      "name": "Medalla de Oro",
-      "url": "https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl"
-    },
-    {
       "added_at": "2022-07-22 17:47:39",
       "album": {
         "name": "La Final",
@@ -1185,22 +1185,6 @@
       "url": "https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW"
     },
     {
-      "added_at": "2022-12-16 06:00:00",
-      "album": {
-        "name": "Tratar\u00e9",
-        "url": "https://open.spotify.com/album/2Wmq4uZPKAUNFgi25xofCI"
-      },
-      "artists": [
-        {
-          "name": "La Texana",
-          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
-        }
-      ],
-      "duration_ms": 247871,
-      "name": "Tratar\u00e9",
-      "url": "https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ"
-    },
-    {
       "added_at": "2022-08-09 02:12:39",
       "album": {
         "name": "Demasiado Bien",
@@ -1247,6 +1231,26 @@
       "duration_ms": 194146,
       "name": "Corre Amor",
       "url": "https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv"
+    },
+    {
+      "added_at": "2022-08-13 02:35:38",
+      "album": {
+        "name": "\u00bfY C\u00f3mo?",
+        "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Yawners",
+          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
+        }
+      ],
+      "duration_ms": 155533,
+      "name": "Mi Habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/399BxbhCL9R03WhKykK8ks"
     }
   ],
   "unique_name": "EL ROCK NO HA MUERTO",

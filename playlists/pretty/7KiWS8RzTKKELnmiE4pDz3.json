@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "Njk0MSxmMWQzNzNkYjBhYWY1NmQzMTQ2NmJiMmEzOWE2MGU0NzQ1Y2M3YWEz",
+  "snapshot_id": "Njk0NCxkMDViMzA2YzAxZDhmNDNlYjI0N2RjMjVkZDkzNDc0MjZhZWYwNmI4",
   "tracks": [
     {
       "added_at": "2022-10-24 17:24:21",
@@ -6575,6 +6575,54 @@
       "duration_ms": 188475,
       "name": "IG",
       "url": "https://open.spotify.com/track/5e1SWZlh4fcOA1t2QB5QXG"
+    },
+    {
+      "added_at": "2023-03-12 16:51:48",
+      "album": {
+        "name": "Aliv\u00eb",
+        "url": "https://open.spotify.com/album/2VLfVJIWbfaMsFQNfS11ad"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 153286,
+      "name": "Oh eX whY",
+      "url": "https://open.spotify.com/track/15bjjTkuMb2vwdBijmD02S"
+    },
+    {
+      "added_at": "2023-03-12 17:54:13",
+      "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "D\u00ebmon tied",
+      "url": "https://open.spotify.com/track/00G8RCi9pouKt0K5vQQmzE"
+    },
+    {
+      "added_at": "2023-03-12 18:01:02",
+      "album": {
+        "name": "NO STYLIST",
+        "url": "https://open.spotify.com/album/4eofl3fkWPQWKpttvulret"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 137195,
+      "name": "PRSSURE",
+      "url": "https://open.spotify.com/track/48y5VJEYelOWiuOB3WPQBJ"
     }
   ],
   "unique_name": "main ",

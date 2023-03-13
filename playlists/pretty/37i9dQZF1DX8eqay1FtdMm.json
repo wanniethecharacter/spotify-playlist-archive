@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover: HUHGAK(\ud5c8\uac01)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 315888,
+  "num_followers": 315968,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM2Mzk0MSwwMDAwMDAwMDg0MzU0NDIxNWJmZDE0ZjJlYmE4MDFhODkwOTIwNTE4",
+  "snapshot_id": "MTY3ODM2Mzk0MSwwMDAwMDAwMDgzMjdiMDA5ZDc0NDg0YjM5ZmQ5ZTk0MDlkMGIwMWRh",
   "tracks": [
     {
       "added_at": "2023-02-27 05:55:09",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3cgDEWthQdpLcTTeWMV0VB"
     },
     {
-      "added_at": "2023-03-12 00:42:19",
+      "added_at": "2023-03-13 01:20:11",
       "album": {
         "name": "The Work Of Erasing You",
         "url": "https://open.spotify.com/album/7w6PcIh2p6O2zPaymwCuXI"
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
-        "name": "Be ordinary",
-        "url": "https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe"
-      },
-      "artists": [
-        {
-          "name": "Hwang Chi Yeul",
-          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
-        }
-      ],
-      "duration_ms": 258950,
-      "name": "A Daily Song",
-      "url": "https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
         "name": "The King's Affection OST Part.3",
         "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 221080,
       "name": "IF I",
       "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
+        "name": "Be ordinary",
+        "url": "https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "duration_ms": 258950,
+      "name": "A Daily Song",
+      "url": "https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz"
     },
     {
       "added_at": "2023-02-27 05:55:09",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
         "name": "Spring Again",
         "url": "https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk"
       },
@@ -775,22 +759,34 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
-        "name": "When it snows(Feat.Heize)",
-        "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
       },
       "artists": [
         {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        },
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
         }
       ],
-      "duration_ms": 232026,
-      "name": "When it snows(Feat.Heize)",
-      "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
+      "duration_ms": 162586,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
+        "name": "Lovers of the Red Sky OST Part.1",
+        "url": "https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "Is it me?",
+      "url": "https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ"
     },
     {
       "added_at": "2023-02-27 05:55:09",
@@ -815,18 +811,22 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
-        "name": "Lovers of the Red Sky OST Part.1",
-        "url": "https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe"
+        "name": "When it snows(Feat.Heize)",
+        "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         }
       ],
-      "duration_ms": 248066,
-      "name": "Is it me?",
-      "url": "https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ"
+      "duration_ms": 232026,
+      "name": "When it snows(Feat.Heize)",
+      "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
     },
     {
       "added_at": "2023-02-27 05:55:09",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
-        "name": "Crash Course in Romance OST Part 3",
-        "url": "https://open.spotify.com/album/1ngSqp4QFiMFePyYQnjvsH"
-      },
-      "artists": [
-        {
-          "name": "Lee Juck",
-          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
-        }
-      ],
-      "duration_ms": 250831,
-      "name": "The opposite side",
-      "url": "https://open.spotify.com/track/63jQ5Els02lQZFwZSqn8Dh"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
         "name": "Butterfly Effect",
         "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
+        "name": "Crash Course in Romance OST Part 3",
+        "url": "https://open.spotify.com/album/1ngSqp4QFiMFePyYQnjvsH"
+      },
+      "artists": [
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+        }
+      ],
+      "duration_ms": 250831,
+      "name": "The opposite side",
+      "url": "https://open.spotify.com/track/63jQ5Els02lQZFwZSqn8Dh"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
         "name": "Like Yesterday",
         "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/6ySezBYVHuSk0eUqhiUYQD"
-      },
-      "artists": [
-        {
-          "name": "Xydo",
-          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/2QiqcWQBXB6PD14CvQHuIc"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
         "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 256314,
       "name": "It\u2032s My Life",
       "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/6ySezBYVHuSk0eUqhiUYQD"
+      },
+      "artists": [
+        {
+          "name": "Xydo",
+          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/2QiqcWQBXB6PD14CvQHuIc"
     },
     {
       "added_at": "2023-02-27 05:55:09",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Soju Hanjan",
+      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 225120,
       "name": "Back In Time (The Moon during the Day X K.will)",
       "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Soju Hanjan",
-      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
     },
     {
       "added_at": "2023-02-27 05:55:09",
@@ -1327,6 +1327,38 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
+        "name": "I'M",
+        "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 238252,
+      "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
+        "name": "Sweet Lullaby",
+        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Sweet Lullaby",
+      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -1351,38 +1383,6 @@
       "duration_ms": 370946,
       "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
-        "name": "Sweet Lullaby",
-        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Sweet Lullaby",
-      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
-        "name": "I'M",
-        "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 238252,
-      "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
     },
     {
       "added_at": "2023-02-27 05:55:09",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
-        "name": "The Forbidden Marriage, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0UoIZMkWzH1OqYXbc934Mv"
-      },
-      "artists": [
-        {
-          "name": "SEO EUNKWANG",
-          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
-        }
-      ],
-      "duration_ms": 275503,
-      "name": "How Can I Forget You",
-      "url": "https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
         "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
+        "name": "The Forbidden Marriage, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0UoIZMkWzH1OqYXbc934Mv"
       },
       "artists": [
         {
-          "name": "Jang Jane",
-          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
+          "name": "SEO EUNKWANG",
+          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
         }
       ],
-      "duration_ms": 214346,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
+      "duration_ms": 275503,
+      "name": "How Can I Forget You",
+      "url": "https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT"
     },
     {
       "added_at": "2023-02-27 05:55:09",
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
+      },
+      "artists": [
+        {
+          "name": "Jang Jane",
+          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
         "name": "Wish & Wind",
         "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
-        "name": "May I love you",
-        "url": "https://open.spotify.com/album/6DEUPpKn8fR1m5sY0Yfwzv"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 209240,
-      "name": "May I love you",
-      "url": "https://open.spotify.com/track/4Q0abYbjqmNBC4KEd3JfnL"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
         "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 202858,
       "name": "Lie to me",
       "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
+        "name": "May I love you",
+        "url": "https://open.spotify.com/album/6DEUPpKn8fR1m5sY0Yfwzv"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "duration_ms": 209240,
+      "name": "May I love you",
+      "url": "https://open.spotify.com/track/4Q0abYbjqmNBC4KEd3JfnL"
     },
     {
       "added_at": "2023-02-27 05:55:09",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
-        "name": "Starting Now",
-        "url": "https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Starting Now",
-      "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
         "name": "Ode To The Stars",
         "url": "https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 282853,
       "name": "Ode To The Stars",
       "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
+        "name": "Starting Now",
+        "url": "https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Starting Now",
+      "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
     }
   ],
   "unique_name": "v o K a l",

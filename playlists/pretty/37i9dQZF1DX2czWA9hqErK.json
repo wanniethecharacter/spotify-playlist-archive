@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 414460,
+  "num_followers": 414546,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIwMDkzOSwwMDAwMDAwMDg4MTJiYWE1NWMwMGQxZmZhNjM2Yzg0OTkzNWY2MGJj",
+  "snapshot_id": "MTY3ODIwMDkzOSwwMDAwMDAwMDAzZGQwZTI2ZGY0NGExMWM3Njc1ZWRhNzRhYmQyNDlm",
   "tracks": [
     {
       "added_at": "2023-03-07 14:55:39",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-03-07 14:55:39",
       "album": {
-        "name": "One Foot In Front Of The Other",
-        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 156963,
-      "name": "Shade of Yellow",
-      "url": "https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO"
-    },
-    {
-      "added_at": "2023-03-07 14:55:39",
-      "album": {
         "name": "GUCCI BAG",
         "url": "https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 134193,
       "name": "GUCCI BAG",
       "url": "https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb"
+    },
+    {
+      "added_at": "2023-03-07 14:55:39",
+      "album": {
+        "name": "One Foot In Front Of The Other",
+        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 156963,
+      "name": "Shade of Yellow",
+      "url": "https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO"
     },
     {
       "added_at": "2023-03-07 14:55:39",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-03-07 14:55:39",
       "album": {
-        "name": "my dear",
-        "url": "https://open.spotify.com/album/5oJXHbrcbTpww5UMaBMXFC"
+        "name": "Sunshine on a Cloudy Day",
+        "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
       },
       "artists": [
         {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
         }
       ],
-      "duration_ms": 132122,
-      "name": "my dear",
-      "url": "https://open.spotify.com/track/6gt1hp6vmwR45wC67Zu4rx"
+      "duration_ms": 163414,
+      "name": "Hallelujah I Love Her So",
+      "url": "https://open.spotify.com/track/4Fuyarf5fHo2zJ6GoYC48N"
     },
     {
       "added_at": "2023-03-07 14:55:39",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2023-03-07 14:55:39",
       "album": {
-        "name": "Sunshine on a Cloudy Day",
-        "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
+        "name": "my dear",
+        "url": "https://open.spotify.com/album/5oJXHbrcbTpww5UMaBMXFC"
       },
       "artists": [
         {
-          "name": "Laura Zocca",
-          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
         }
       ],
-      "duration_ms": 163414,
-      "name": "Hallelujah I Love Her So",
-      "url": "https://open.spotify.com/track/4Fuyarf5fHo2zJ6GoYC48N"
+      "duration_ms": 132122,
+      "name": "my dear",
+      "url": "https://open.spotify.com/track/6gt1hp6vmwR45wC67Zu4rx"
     },
     {
       "added_at": "2023-03-07 14:55:39",

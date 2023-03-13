@@ -1,12 +1,12 @@
 {
   "description": "Co-curated by CATT. Learn more in our playlist clips!",
-  "num_followers": 24791,
+  "num_followers": 24818,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5NTk4MSwwMDAwMDAwMDRlNDcxMmJjYmZlYzZiZmFlZGUwNGYwNWRmYzExNjU4",
+  "snapshot_id": "MTY3ODA5NTk4MSwwMDAwMDAwMDM1M2Y5ODc0OTA0NjQ1Njc2OGQyNDBhM2Q0MGFkNTMw",
   "tracks": [
     {
       "added_at": "2023-03-06 09:38:59",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "BBB #40",
-        "url": "https://open.spotify.com/album/5LuB1rFFATNhE2yKo17Stq"
-      },
-      "artists": [
-        {
-          "name": "TRINA",
-          "url": "https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "BBB #40",
-      "url": "https://open.spotify.com/track/75UAvAAZnHbKvkrC3kKdfN"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "SOUL TO KEEP",
         "url": "https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 420408,
       "name": "SOUL TO KEEP",
       "url": "https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "BBB #40",
+        "url": "https://open.spotify.com/album/5LuB1rFFATNhE2yKo17Stq"
+      },
+      "artists": [
+        {
+          "name": "TRINA",
+          "url": "https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "BBB #40",
+      "url": "https://open.spotify.com/track/75UAvAAZnHbKvkrC3kKdfN"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Echt",
-        "url": "https://open.spotify.com/album/62ROhodMC9Pgx0O9o4QFde"
-      },
-      "artists": [
-        {
-          "name": "Phela",
-          "url": "https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O"
-        }
-      ],
-      "duration_ms": 176730,
-      "name": "Echt",
-      "url": "https://open.spotify.com/track/5m1EmuvBcvReq1Wbsuzcl0"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "Running Round",
         "url": "https://open.spotify.com/album/4RyaEcWmkekK6VnfCAb1ez"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 211034,
       "name": "Running Round",
       "url": "https://open.spotify.com/track/2pzRkBRoIc2GBgZNQ8wYxY"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Echt",
+        "url": "https://open.spotify.com/album/62ROhodMC9Pgx0O9o4QFde"
+      },
+      "artists": [
+        {
+          "name": "Phela",
+          "url": "https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O"
+        }
+      ],
+      "duration_ms": 176730,
+      "name": "Echt",
+      "url": "https://open.spotify.com/track/5m1EmuvBcvReq1Wbsuzcl0"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
         "name": "Therapies",
         "url": "https://open.spotify.com/album/5Zk6aKDnOCgKsUYxNlYFx5"
       },
@@ -675,6 +691,22 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
+        "name": "Opia EP",
+        "url": "https://open.spotify.com/album/7jjxWvwVRvMcPjhkjaOTAn"
+      },
+      "artists": [
+        {
+          "name": "Magdalena",
+          "url": "https://open.spotify.com/artist/4wlgF2WCCPNhQ0FpNwO3vc"
+        }
+      ],
+      "duration_ms": 439998,
+      "name": "Opia",
+      "url": "https://open.spotify.com/track/2iuh1TuXGRxLvr2frc8HFA"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
         "name": "Equalista",
         "url": "https://open.spotify.com/album/4ZcVC1LJ2AbKVPwZyH00GR"
       },
@@ -703,38 +735,6 @@
       "duration_ms": 183673,
       "name": "Blick",
       "url": "https://open.spotify.com/track/4ezrW9t7zRdIPPmlcIvKyj"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
-        "name": "Opia EP",
-        "url": "https://open.spotify.com/album/7jjxWvwVRvMcPjhkjaOTAn"
-      },
-      "artists": [
-        {
-          "name": "Magdalena",
-          "url": "https://open.spotify.com/artist/4wlgF2WCCPNhQ0FpNwO3vc"
-        }
-      ],
-      "duration_ms": 439998,
-      "name": "Opia",
-      "url": "https://open.spotify.com/track/2iuh1TuXGRxLvr2frc8HFA"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz"
     },
     {
       "added_at": "2023-03-06 09:38:59",

@@ -410,7 +410,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 303546,
       "name": "Afraid Of Monsters",
       "url": "https://open.spotify.com/track/4PbMuyuUAJPhBdsW3vf2Fs"
@@ -2194,6 +2194,24 @@
       "duration_ms": 305533,
       "name": "Do You Know Squarepusher",
       "url": "https://open.spotify.com/track/2Il2EdhsgaLmBszoqfHr94"
+    },
+    {
+      "album": {
+        "name": "Do You Know Squarepusher",
+        "url": "https://open.spotify.com/album/3i2Vq3LdfsYVNbes9T3eMq"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305533,
+      "name": "Do You Know Squarepusher",
+      "url": "https://open.spotify.com/track/3NS43vBFHEMeV8XJsnTr0u"
     },
     {
       "album": {
@@ -5296,7 +5314,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 282066,
       "name": "My Red Hot Car",
       "url": "https://open.spotify.com/track/2wjbR0QM2uRIz8QacUE494"
@@ -9108,7 +9126,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 492026,
       "name": "Viimo",
       "url": "https://open.spotify.com/track/5wKQVRYWXpS3WqayHDbAp4"

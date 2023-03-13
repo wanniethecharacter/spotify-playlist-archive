@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover:
 
-120 songs - 8 hr 34 min
+121 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Late Motion](https://open.spotify.com/track/6i0NdwSm1upF6v8Sd89jIO) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Late Motion](https://open.spotify.com/album/3objZ0Q20F9f5R42HfB1B3) | 2:34 | 2022-09-02 | 2022-11-18 |
 | [Leila \- Instrumental](https://open.spotify.com/track/3epfDlHCiGJMICVRFngWfm) | [David Manuhutu](https://open.spotify.com/artist/3qCCL9ki2Y4XCEJamluKMC), [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ), [Pete Bernstein](https://open.spotify.com/artist/6bd5oX2lDq7HtWnKrHm64C) | [A Journey \(Instrumental\)](https://open.spotify.com/album/4yCGYsN6zT7hhpJD5IbDYw) | 5:45 | 2023-03-03 |  |
 | [Little Bit Simple \- Instrumental Version](https://open.spotify.com/track/0vlnOeaiMERE83zsDwV1i5) | [Harif Santoso](https://open.spotify.com/artist/7E6DDaLrcTuOodp5meW12r) | [Little Bit Simple \(Instrumental Version\)](https://open.spotify.com/album/3dYqureVrHc38jE6m4EqRH) | 3:17 | 2022-09-02 |  |
+| [LOVE IS](https://open.spotify.com/track/1Sx3NLx0k01HRqA2JhVguv) | [Jason Mountario](https://open.spotify.com/artist/6ibPIgByjCH7qYPlBbN4Tr), [Sri Hanuraga](https://open.spotify.com/artist/6oBbSq1WI51saPC5Vys7z2), [Kelvin Andreas](https://open.spotify.com/artist/2hl3KpfiMWRSP51mLLi4Pd) | [LOVE IS](https://open.spotify.com/album/23f2kd0MMf7L6aJZ5vOkAb) | 6:00 | 2023-03-12 |  |
 | [Makan Teman](https://open.spotify.com/track/7MHKaG1rgfunhfW1bbsw1S) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Makan Teman](https://open.spotify.com/album/4F99lV3Ql04YNP8P3WV3mh) | 2:40 | 2022-09-02 |  |
 | [Makna Nostalgia](https://open.spotify.com/track/5UzwDbdDqEyU7pQc9kh1Bu) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Detik Waktu \#2 : Perjalanan Karya Cipta Candra Darusman](https://open.spotify.com/album/4HnAERSlErB6VxHNkUZrhB) | 5:16 | 2022-09-02 |  |
 | [Melawan Takdir](https://open.spotify.com/track/5NT81HlBEmoi8IEhL5jV8m) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy), [Azizah Hanum](https://open.spotify.com/artist/5mEePWMgxiwAULqU0nrQig) | [Melawan Takdir](https://open.spotify.com/album/32Rr9t1JgFxjFAXLXY1vmQ) | 3:09 | 2022-09-02 |  |

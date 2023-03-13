@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,593 likes - 89 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,779 likes - 89 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,17 +61,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 51 | [I Am Blessed](https://open.spotify.com/track/1gpA7IZTNvrL6DUuc4qDPx) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [I Am Blessed](https://open.spotify.com/album/2OBChPG9zg8lu4XL3UgY0A) | 3:08 |
 | 52 | [Run Run](https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Run Run](https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr) | 3:06 |
 | 53 | [Party Hard](https://open.spotify.com/track/0S0qKgHu2CCL3MjPo3HMl5) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 3:38 |
-| 54 | [Nuh Linga](https://open.spotify.com/track/1XDu72IZMRTO2gDPaMydXE) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Dance & Sweep! \- Adventures Of The Energy God](https://open.spotify.com/album/1h6idb5MNxRtSz4EWsMe84) | 2:08 |
-| 55 | [Ghetto Story](https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:11 |
+| 54 | [Ghetto Story](https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:11 |
+| 55 | [Nuh Linga](https://open.spotify.com/track/1XDu72IZMRTO2gDPaMydXE) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Dance & Sweep! \- Adventures Of The Energy God](https://open.spotify.com/album/1h6idb5MNxRtSz4EWsMe84) | 2:08 |
 | 56 | [21 Seconds \- 12" Version](https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [21 Seconds](https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe) | 4:54 |
-| 57 | [Levels](https://open.spotify.com/track/1rfANUAbPjPZhRUIz5uj7h) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Levels](https://open.spotify.com/album/4eSSKHuHQj7SaH45cPSrSk) | 2:56 |
-| 58 | [Big Chune](https://open.spotify.com/track/1IjPlLjheWe899ounTjCby) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [IamNuhRush](https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE) | [Big Chune](https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs) | 2:43 |
+| 57 | [Big Chune](https://open.spotify.com/track/1IjPlLjheWe899ounTjCby) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [IamNuhRush](https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE) | [Big Chune](https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs) | 2:43 |
+| 58 | [Levels](https://open.spotify.com/track/1rfANUAbPjPZhRUIz5uj7h) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Levels](https://open.spotify.com/album/4eSSKHuHQj7SaH45cPSrSk) | 2:56 |
 | 59 | [Goodas Mi Back Mi Back](https://open.spotify.com/track/0vPBj8SXXsIdBwz4FIzcT8) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Riddim Driven: Gully Slime](https://open.spotify.com/album/0kpVC3GfFWpsgwQOE1dXH8) | 3:44 |
-| 60 | [Willie Bounce](https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Strictly The Best Vol 33](https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV) | 4:10 |
-| 61 | [Mi Nuh Know](https://open.spotify.com/track/77jt9bt0fTtc1Aw1CGT3ji) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Mi Nuh Know](https://open.spotify.com/album/2vp0eSTrV1ywAaM40SQmr2) | 2:26 |
-| 62 | [Money & Done \- Remix](https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Money & Done \(Remix\)](https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO) | 2:40 |
-| 63 | [Head, Shoulders, Kneez & Toez \- Radio Edit](https://open.spotify.com/track/0amlI2JWPEfxioAcc7kVSJ) | [K.I.G](https://open.spotify.com/artist/5urltEzdvmWz8tl1J4reSj) | [Head, Shoulders, Kneez & Toez](https://open.spotify.com/album/2Xi4tCQ7x4vnoNDCSdRoQv) | 3:32 |
-| 64 | [Gyal Generals](https://open.spotify.com/track/4TLbSwP6Yuq061t5VUZvtc) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Excuses](https://open.spotify.com/album/0MqznZG1JtYF7hhLUWfNU9) | 2:55 |
+| 60 | [Mi Nuh Know](https://open.spotify.com/track/77jt9bt0fTtc1Aw1CGT3ji) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Mi Nuh Know](https://open.spotify.com/album/2vp0eSTrV1ywAaM40SQmr2) | 2:26 |
+| 61 | [Money & Done \- Remix](https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Money & Done \(Remix\)](https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO) | 2:40 |
+| 62 | [Head, Shoulders, Kneez & Toez \- Radio Edit](https://open.spotify.com/track/0amlI2JWPEfxioAcc7kVSJ) | [K.I.G](https://open.spotify.com/artist/5urltEzdvmWz8tl1J4reSj) | [Head, Shoulders, Kneez & Toez](https://open.spotify.com/album/2Xi4tCQ7x4vnoNDCSdRoQv) | 3:32 |
+| 63 | [Gyal Generals](https://open.spotify.com/track/4TLbSwP6Yuq061t5VUZvtc) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Excuses](https://open.spotify.com/album/0MqznZG1JtYF7hhLUWfNU9) | 2:55 |
+| 64 | [Willie Bounce](https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Strictly The Best Vol 33](https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV) | 4:10 |
 | 65 | [Dat Sexy Body](https://open.spotify.com/track/3MA9vuvFgT11GTazSK5FQ0) | [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY) | [Bookshelf Riddim](https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc) | 2:49 |
 | 66 | [Deport Them](https://open.spotify.com/track/2KD9Ao72XR2C4VjI3d1AtG) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Bookshelf Riddim](https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc) | 3:08 |
 | 67 | [Ocean Wave](https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Ocean Wave](https://open.spotify.com/album/722vGdkmCeXfKriYdKonto) | 2:43 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 72 | [Paranoid](https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Rygin King](https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr) | [I Am Great](https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz) | 3:07 |
 | 73 | [Top Prize](https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on) | 3:12 |
 | 74 | [Give Me the Light](https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Buzz Riddim](https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9) | 3:46 |
-| 75 | [All 2 Myself](https://open.spotify.com/track/3lUsC8WAJTEqvsnOCLDyNk) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [All 2 Myself](https://open.spotify.com/album/55L9lmkSHhPw7dL397V8nZ) | 2:31 |
-| 76 | [Vitamin S](https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:12 |
+| 75 | [Vitamin S](https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:12 |
+| 76 | [All 2 Myself](https://open.spotify.com/track/3lUsC8WAJTEqvsnOCLDyNk) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [All 2 Myself](https://open.spotify.com/album/55L9lmkSHhPw7dL397V8nZ) | 2:31 |
 | 77 | [Gallis](https://open.spotify.com/track/3RLkSmtXZOjPCPNnIw7ZZ3) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Riddim Driven: Trippple Bounce](https://open.spotify.com/album/3t5RTHE4Zh7S0qeAbzPUwe) | 2:37 |
 | 78 | [Who Am I](https://open.spotify.com/track/2d6gIQ6KRsmMKQYjEBFEN9) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [No Fear](https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV) | 3:15 |
 | 79 | [Protect Me](https://open.spotify.com/track/7y6HITUoZv9iCCE6LJxtXf) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Protect Me](https://open.spotify.com/album/5DPhF3aIVWGMOngl5IBVYq) | 2:53 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 88 | [Infiltrate](https://open.spotify.com/track/1lyrrWS0fqtYPLXntd5DwK) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Fear](https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV) | 3:27 |
 | 89 | [Original Nuttah](https://open.spotify.com/track/53mh7POQqTXj2Cfh7phP5b) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Uk Apache](https://open.spotify.com/artist/0YE17nrGKTk37bcKpKVUvi) | [Original Nuttah](https://open.spotify.com/album/3z68B1FAnvehe5zSdLhNCO) | 5:12 |
 
-Snapshot ID: `MTY3Nzg0NjQ1MCwwMDAwMDAwMGIxNDcxNWQ2YTVlNWY5NGExYjhlOGIzY2E3MzZhNGZl`
+Snapshot ID: `MTY3Nzg0NjQ1MCwwMDAwMDAwMDY4MGE5NmViM2NlNWM5ZWZhOTAzMjYwMTI4MTRiMjQw`

@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 48888,
+  "num_followers": 48964,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc0NzI2NywwMDAwMDAwMDExYmE0ZGI3YzM0ZDc0M2JjNWEyYTllNDk5YjhhZWJj",
+  "snapshot_id": "MTY3Nzc0NzI2NywwMDAwMDAwMGU0NGU0YzdjYTU5YWUzMzQwZDk3Y2NiNjE5OTRhNjhk",
   "tracks": [
     {
       "added_at": "2023-03-02 08:54:27",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
+        "name": "The Jazz Giants '56",
+        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 602173,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/1lAoG1TBej7gYJQ3UHUxjT"
+    },
+    {
+      "added_at": "2023-03-02 08:54:27",
+      "album": {
         "name": "Blowin' Country",
         "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 225160,
       "name": "Just In Time",
       "url": "https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF"
-    },
-    {
-      "added_at": "2023-03-02 08:54:27",
-      "album": {
-        "name": "Moonlight In Vermont",
-        "url": "https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Smith",
-          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
-        }
-      ],
-      "duration_ms": 146880,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb"
     },
     {
       "added_at": "2023-03-02 08:54:27",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
+        "name": "Moonlight In Vermont",
+        "url": "https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Smith",
+          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
+        }
+      ],
+      "duration_ms": 146880,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb"
+    },
+    {
+      "added_at": "2023-03-02 08:54:27",
+      "album": {
         "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
         "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 178920,
       "name": "Waltz Me Blues",
       "url": "https://open.spotify.com/track/6Mi3MsunPLMhJ6wl09RZEP"
-    },
-    {
-      "added_at": "2023-03-02 08:54:27",
-      "album": {
-        "name": "The Jazz Giants '56",
-        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 602173,
-      "name": "I Didn't Know What Time It Was",
-      "url": "https://open.spotify.com/track/1lAoG1TBej7gYJQ3UHUxjT"
     },
     {
       "added_at": "2023-03-02 08:54:27",
@@ -891,22 +891,18 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
-        "name": "The Ivory Hunters",
-        "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
+        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
       },
       "artists": [
         {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 446066,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
+      "duration_ms": 191906,
+      "name": "Ergo - Remastered 2004",
+      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
     },
     {
       "added_at": "2023-03-02 08:54:27",
@@ -927,18 +923,22 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
-        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
+        "name": "The Ivory Hunters",
+        "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 191906,
-      "name": "Ergo - Remastered 2004",
-      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
+      "duration_ms": 446066,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
     },
     {
       "added_at": "2023-03-02 08:54:27",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
-        "name": "Django (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "One Bass Hit",
-      "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
-    },
-    {
-      "added_at": "2023-03-02 08:54:27",
-      "album": {
         "name": "Jazz Masters Deluxe Collection: Gerry Mulligan",
         "url": "https://open.spotify.com/album/2hK2NVvfVEflYkNNC33dDd"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 250472,
       "name": "Laura",
       "url": "https://open.spotify.com/track/0pdajpmRwVX10gYQgZUYbO"
+    },
+    {
+      "added_at": "2023-03-02 08:54:27",
+      "album": {
+        "name": "Django (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "One Bass Hit",
+      "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
     },
     {
       "added_at": "2023-03-02 08:54:27",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
-        "name": "Django (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "The Queen's Fancy",
-      "url": "https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F"
-    },
-    {
-      "added_at": "2023-03-02 08:54:27",
-      "album": {
         "name": "Chet Baker Sextet",
         "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
       },
@@ -1103,22 +1087,6 @@
       "duration_ms": 194546,
       "name": "I'm Glad There Is You - Remaster/2004",
       "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
-    },
-    {
-      "added_at": "2023-03-02 08:54:27",
-      "album": {
-        "name": "A Night At The Vanguard",
-        "url": "https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell Trio",
-          "url": "https://open.spotify.com/artist/1W2Oyg9ATMWvuc3cuf31BU"
-        }
-      ],
-      "duration_ms": 260973,
-      "name": "Just A-Sittin' And A-Rockin' - Live At The Village Vanguard, New York / 1959",
-      "url": "https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1"
     },
     {
       "added_at": "2023-03-02 08:54:27",
@@ -1139,6 +1107,22 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
+        "name": "A Night At The Vanguard",
+        "url": "https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell Trio",
+          "url": "https://open.spotify.com/artist/1W2Oyg9ATMWvuc3cuf31BU"
+        }
+      ],
+      "duration_ms": 260973,
+      "name": "Just A-Sittin' And A-Rockin' - Live At The Village Vanguard, New York / 1959",
+      "url": "https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1"
+    },
+    {
+      "added_at": "2023-03-02 08:54:27",
+      "album": {
         "name": "The Teddy Charles Tentet",
         "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 265360,
       "name": "You Go to My Head",
       "url": "https://open.spotify.com/track/7DcQmtVhcB55QoxXN4Q8VM"
+    },
+    {
+      "added_at": "2023-03-02 08:54:27",
+      "album": {
+        "name": "Django (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "The Queen's Fancy",
+      "url": "https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F"
     },
     {
       "added_at": "2023-03-02 08:54:27",

@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 140169,
+  "num_followers": 140305,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMDA1ZjBiNjllZTI0NTMxOTkwYzE1OTMwNmFjZGFhYzk0",
+  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMGQ5YmJhZWYzMmY1MTkyZDRhMDNlODBmZTY5OTM3ZDgw",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Another Riff For The Good Times / Daydreaming",
+        "url": "https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 228843,
+      "name": "Another Riff For The Good Times",
+      "url": "https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Celestia EP",
         "url": "https://open.spotify.com/album/7hBWsXRF3UzahsPs9fgDcp"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 229249,
       "name": "Celestia",
       "url": "https://open.spotify.com/track/3BZ8KRBfIg9Lu9Zl3i2X6N"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Another Riff For The Good Times / Daydreaming",
-        "url": "https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 228843,
-      "name": "Another Riff For The Good Times",
-      "url": "https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP"
-      },
-      "artists": [
-        {
-          "name": "Herr Lang",
-          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
-        }
-      ],
-      "duration_ms": 323302,
-      "name": "Selbst",
-      "url": "https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Brightest Lights Remixed",
         "url": "https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 295597,
       "name": "How Often - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP"
+      },
+      "artists": [
+        {
+          "name": "Herr Lang",
+          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
+        }
+      ],
+      "duration_ms": 323302,
+      "name": "Selbst",
+      "url": "https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Influence",
-        "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
-      },
-      "artists": [
-        {
-          "name": "Joe Turner",
-          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
-        }
-      ],
-      "duration_ms": 259364,
-      "name": "Influence - Edit",
-      "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Freedom Call",
         "url": "https://open.spotify.com/album/6MdOQa7i68HuppXqgBgkEo"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 239789,
       "name": "Freedom Call",
       "url": "https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Influence",
+        "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
+      },
+      "artists": [
+        {
+          "name": "Joe Turner",
+          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
+        }
+      ],
+      "duration_ms": 259364,
+      "name": "Influence - Edit",
+      "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Shizumu",
-        "url": "https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj"
-      },
-      "artists": [
-        {
-          "name": "Lycoriscoris",
-          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
-        }
-      ],
-      "duration_ms": 231830,
-      "name": "Shizumu",
-      "url": "https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Shimmer",
         "url": "https://open.spotify.com/album/3fuaGLXhZvnGJKd2HfOLev"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 190280,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/7AbYGhAapbr9yxFe6IycxR"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Shizumu",
+        "url": "https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj"
+      },
+      "artists": [
+        {
+          "name": "Lycoriscoris",
+          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
+        }
+      ],
+      "duration_ms": 231830,
+      "name": "Shizumu",
+      "url": "https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ"
     },
     {
       "added_at": "2022-11-25 16:56:36",

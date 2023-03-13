@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 448779,
+  "num_followers": 448838,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDU0OTZkNTU0MmY2Njg0YWU3ZDg1YjM1MGE5ZDY3OTA1",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMGE5M2JkMzYwNDM4OTMzZTdlY2EyM2NlNTU0NTA5ZTZh",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Renacer Pt. 1",
-        "url": "https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva"
-      },
-      "artists": [
-        {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
-        }
-      ],
-      "duration_ms": 163423,
-      "name": "Marte",
-      "url": "https://open.spotify.com/track/2tKSIeksPzMglcIJVc83ID"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Bichota \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
       },
@@ -323,22 +307,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Bailando mal",
-        "url": "https://open.spotify.com/album/2dYBQ2eqTzaRf7gAV7bA5W"
+        "name": "Renacer Pt. 1",
+        "url": "https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva"
       },
       "artists": [
         {
-          "name": "ELYELLA",
-          "url": "https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8"
-        },
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
         }
       ],
-      "duration_ms": 204193,
-      "name": "Bailando mal",
-      "url": "https://open.spotify.com/track/0rXu31eAk32F9QA7ZIBCM1"
+      "duration_ms": 163423,
+      "name": "Marte",
+      "url": "https://open.spotify.com/track/2tKSIeksPzMglcIJVc83ID"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -355,6 +335,26 @@
       "duration_ms": 179191,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Bailando mal",
+        "url": "https://open.spotify.com/album/2dYBQ2eqTzaRf7gAV7bA5W"
+      },
+      "artists": [
+        {
+          "name": "ELYELLA",
+          "url": "https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8"
+        },
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 204193,
+      "name": "Bailando mal",
+      "url": "https://open.spotify.com/track/0rXu31eAk32F9QA7ZIBCM1"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Moody",
-        "url": "https://open.spotify.com/album/5xgUkUTLMCu6Qx4IZXRxHX"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 198377,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/3fHxCZdMhWqYynQVMF4O3R"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Miss Colombia",
         "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Moody",
+        "url": "https://open.spotify.com/album/5xgUkUTLMCu6Qx4IZXRxHX"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 198377,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/3fHxCZdMhWqYynQVMF4O3R"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
+        "name": "FLOTANDO",
+        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 261453,
-      "name": "Disco de Oro",
-      "url": "https://open.spotify.com/track/1Wm8HQmsWZr1JFqnNLdhMI"
+      "duration_ms": 162000,
+      "name": "FLOTANDO",
+      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "FLOTANDO",
-        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "FLOTANDO",
-      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Disco de Oro",
+        "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 261453,
+      "name": "Disco de Oro",
+      "url": "https://open.spotify.com/track/1Wm8HQmsWZr1JFqnNLdhMI"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Cool",
-        "url": "https://open.spotify.com/album/60ollCR8TmOExAIxC6A5gK"
-      },
-      "artists": [
-        {
-          "name": "Micaela Salaverry",
-          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
-        }
-      ],
-      "duration_ms": 224571,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/0dauihENtfevnqjwnFPfgm"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Trebol",
         "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 226393,
       "name": "Trebol",
       "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/60ollCR8TmOExAIxC6A5gK"
+      },
+      "artists": [
+        {
+          "name": "Micaela Salaverry",
+          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
+        }
+      ],
+      "duration_ms": 224571,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/0dauihENtfevnqjwnFPfgm"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Reconciliados",
+        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
+      },
+      "artists": [
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Reconciliados",
+      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Tm\u00ed",
         "url": "https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 212685,
       "name": "me perdono",
       "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Reconciliados",
-        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
-      },
-      "artists": [
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Reconciliados",
-      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1531,18 +1531,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Pastel",
-        "url": "https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3"
+        "name": "Pausa",
+        "url": "https://open.spotify.com/album/3OSClJOjr54bInwJnKLZ93"
       },
       "artists": [
         {
-          "name": "Katz\u00f9 Oso",
-          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        },
+        {
+          "name": "Gian Rojas",
+          "url": "https://open.spotify.com/artist/5uHZUnYECoSfXNIlR76HOU"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Honeydew",
-      "url": "https://open.spotify.com/track/7vvn5rvFxxfBDoftYZbwCg"
+      "duration_ms": 232000,
+      "name": "Pausa",
+      "url": "https://open.spotify.com/track/00ezOW7kOSRCnXYDUasfQm"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1563,22 +1567,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Pausa",
-        "url": "https://open.spotify.com/album/3OSClJOjr54bInwJnKLZ93"
+        "name": "Pastel",
+        "url": "https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3"
       },
       "artists": [
         {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
-        },
-        {
-          "name": "Gian Rojas",
-          "url": "https://open.spotify.com/artist/5uHZUnYECoSfXNIlR76HOU"
+          "name": "Katz\u00f9 Oso",
+          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Pausa",
-      "url": "https://open.spotify.com/track/00ezOW7kOSRCnXYDUasfQm"
+      "duration_ms": 252000,
+      "name": "Honeydew",
+      "url": "https://open.spotify.com/track/7vvn5rvFxxfBDoftYZbwCg"
     },
     {
       "added_at": "2023-03-03 05:00:00",

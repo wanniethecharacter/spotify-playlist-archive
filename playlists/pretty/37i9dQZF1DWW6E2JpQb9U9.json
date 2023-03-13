@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: La Beriso",
-  "num_followers": 96710,
+  "num_followers": 96738,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwOTMzNSwwMDAwMDAwMDlmODVlNTJjODg4NGQ4NTVlYmZhODFmNWEwYjdlNmU3",
+  "snapshot_id": "MTY3ODQwOTMzNSwwMDAwMDAwMDc2MDNhZDg3MWRiNWIwOWNhYzg4M2VkMDEzODMyZTg2",
   "tracks": [
     {
       "added_at": "2023-03-03 03:00:00",
@@ -911,22 +911,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Instante Eterno (ac\u00fastico en Vivo)",
-        "url": "https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev"
+        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
       },
       "artists": [
         {
-          "name": "El Bordo",
-          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
-        },
-        {
-          "name": "Facundo Soto",
-          "url": "https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem"
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
         }
       ],
-      "duration_ms": 227050,
-      "name": "A D\u00f3nde Vas - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/5En6kK2Xn4HgYQBhBgcxY0"
+      "duration_ms": 186456,
+      "name": "Mil Horas - En Vivo",
+      "url": "https://open.spotify.com/track/0hgyNtZGfzFHuz5UMt4xnG"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -947,18 +943,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
+        "name": "Instante Eterno (ac\u00fastico en Vivo)",
+        "url": "https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev"
       },
       "artists": [
         {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+          "name": "El Bordo",
+          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
+        },
+        {
+          "name": "Facundo Soto",
+          "url": "https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem"
         }
       ],
-      "duration_ms": 186456,
-      "name": "Mil Horas - En Vivo",
-      "url": "https://open.spotify.com/track/0hgyNtZGfzFHuz5UMt4xnG"
+      "duration_ms": 227050,
+      "name": "A D\u00f3nde Vas - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/5En6kK2Xn4HgYQBhBgcxY0"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Se Fue al Cielo (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 230528,
-      "name": "Se Fue al Cielo - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 285053,
       "name": "Pasos al Costado - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Se Fue al Cielo (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 230528,
+      "name": "Se Fue al Cielo - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Fr\u00e1gil (En Vivo)",
-        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
+        "name": "En Directo",
+        "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 200985,
-      "name": "Fr\u00e1gil - En Vivo",
-      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
+      "duration_ms": 381826,
+      "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
+      "url": "https://open.spotify.com/track/6LvWM7uIXgVG8FQWj5Gv1d"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "Fr\u00e1gil (En Vivo)",
+        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 200985,
+      "name": "Fr\u00e1gil - En Vivo",
+      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
         "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 212106,
       "name": "Beatle - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "En Directo",
-        "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 381826,
-      "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
-      "url": "https://open.spotify.com/track/6LvWM7uIXgVG8FQWj5Gv1d"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Hoy Como Ayer (En Vivo)",
-        "url": "https://open.spotify.com/album/1JYKLf6VSzu0c0V9YMKxqz"
+        "name": "Alucinados como la primera vez",
+        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
       },
       "artists": [
         {
-          "name": "Carajo",
-          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
         }
       ],
-      "duration_ms": 253320,
-      "name": "Sacate la Mierda - En Vivo",
-      "url": "https://open.spotify.com/track/63tUQEbpxDar0yjmtPB6jg"
+      "duration_ms": 331453,
+      "name": "Sacrificio y Rock and Roll",
+      "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
     },
     {
       "added_at": "2023-03-03 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 113822,
+  "num_followers": 114300,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzODU5MywwMDAwMDAwMDI1MjNiYjU5ZWQzOGIyMDdjOTE0YmI1YjYwMTY5MTM2",
+  "snapshot_id": "MTY3NjAzODU5MywwMDAwMDAwMDAzMzFjZTQ3ZDJhYmM1ZTYwMzlkZDg3NTNjMjdhZjI1",
   "tracks": [
     {
       "added_at": "2023-02-10 14:16:33",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 408669,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
+    },
+    {
+      "added_at": "2023-02-10 14:16:33",
+      "album": {
         "name": "WANNA GO BANG",
         "url": "https://open.spotify.com/album/3L2XHaprl2pQWAIzwem33z"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 237157,
       "name": "WANNA GO BANG",
       "url": "https://open.spotify.com/track/37vqTNt3bLeDeBVWL6tNqh"
-    },
-    {
-      "added_at": "2023-02-10 14:16:33",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 408669,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
     },
     {
       "added_at": "2023-02-10 14:16:33",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O"
       },
       "artists": [
         {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+          "name": "Warp Brothers",
+          "url": "https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T"
         }
       ],
-      "duration_ms": 413538,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
+      "duration_ms": 357227,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
     },
     {
       "added_at": "2023-02-10 14:16:33",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
       },
       "artists": [
         {
-          "name": "Warp Brothers",
-          "url": "https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T"
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         }
       ],
-      "duration_ms": 357227,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
+      "duration_ms": 413538,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
     }
   ],
   "unique_name": "Techno Workout",

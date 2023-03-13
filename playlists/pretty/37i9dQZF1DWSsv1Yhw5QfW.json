@@ -1,12 +1,12 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 94508,
+  "num_followers": 94587,
   "original_name": "Enganchados: Lentos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NjAzODMzOSwwMDAwMDAwMDNkMmMzMzllMmZlOWRjN2MzZmJkMzI4MjFhMjg5ZTY1",
+  "snapshot_id": "MTU5NjAzODMzOSwwMDAwMDAwMDU5ODY5MGNhY2E3YTZkMzA1OTRhOGFiMTcxYTNkNjdm",
   "tracks": [
     {
       "added_at": "2020-07-29 15:58:59",
@@ -283,22 +283,6 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 316693,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/74irxdVWstNlEQjsvArITq"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
         "name": "Automatic For The People",
         "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 320266,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 316693,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/74irxdVWstNlEQjsvArITq"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -363,6 +363,22 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
         "name": "My Way (Expanded Edition)",
         "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 394400,
       "name": "Bed Of Roses",
       "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -475,18 +475,18 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Lost in Love",
-        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
       },
       "artists": [
         {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 243000,
-      "name": "All Out of Love",
-      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
+      "duration_ms": 271533,
+      "name": "Ode To My Family",
+      "url": "https://open.spotify.com/track/5kcsc92tGAjS0uvhDY3Mok"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -507,18 +507,18 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
-        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
+        "name": "Lost in Love",
+        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
         }
       ],
-      "duration_ms": 271533,
-      "name": "Ode To My Family",
-      "url": "https://open.spotify.com/track/5kcsc92tGAjS0uvhDY3Mok"
+      "duration_ms": 243000,
+      "name": "All Out of Love",
+      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -635,18 +635,18 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "All Out Of Love",
-        "url": "https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX"
+        "name": "...But Seriously (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
       },
       "artists": [
         {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 341746,
-      "name": "Making Love Out of Nothing at All",
-      "url": "https://open.spotify.com/track/01MXkFA8sL7at6txavDErt"
+      "duration_ms": 327746,
+      "name": "I Wish It Would Rain Down - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4F2t297QK40XFcIHqkmLHs"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -667,18 +667,18 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "...But Seriously (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+        "name": "All Out Of Love",
+        "url": "https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
         }
       ],
-      "duration_ms": 327746,
-      "name": "I Wish It Would Rain Down - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4F2t297QK40XFcIHqkmLHs"
+      "duration_ms": 341746,
+      "name": "Making Love Out of Nothing at All",
+      "url": "https://open.spotify.com/track/01MXkFA8sL7at6txavDErt"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "The Earth Is...",
-        "url": "https://open.spotify.com/album/3tbuKVVtZTGT7iwZo60sN3"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 272626,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0aW5JH6RnfTv5cGvPS3cca"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
         "name": "Chicago 16 (Expanded Edition)",
         "url": "https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 368226,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/1A6Kwtsg3JWKU2KWM2udpM"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "The Earth Is...",
+        "url": "https://open.spotify.com/album/3tbuKVVtZTGT7iwZo60sN3"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 272626,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0aW5JH6RnfTv5cGvPS3cca"
     },
     {
       "added_at": "2020-07-29 15:58:59",

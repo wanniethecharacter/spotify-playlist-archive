@@ -1,12 +1,12 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: Lou Reed. ",
-  "num_followers": 1081687,
+  "num_followers": 1082323,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAwNjg5NywwMDAwMDAwMGM0MmMzOTE1NTlkMzA3YTgzYTY1MGQ4ZTdkNTJlMWRm",
+  "snapshot_id": "MTY3MDAwNjg5NywwMDAwMDAwMDEzNGU3MDViZjEyMDJhNWI3ODFmY2NmMTJiY2E2NDYx",
   "tracks": [
     {
       "added_at": "2022-12-02 18:48:17",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-12-02 18:48:17",
       "album": {
-        "name": "Without a Sound",
-        "url": "https://open.spotify.com/album/0yxM1OyaFOZiJhi9eNThE4"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur Jr.",
-          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
-        }
-      ],
-      "duration_ms": 259600,
-      "name": "Feel the Pain",
-      "url": "https://open.spotify.com/track/28c4nfBHdb3xviamRCEsIe"
-    },
-    {
-      "added_at": "2022-12-02 18:48:17",
-      "album": {
         "name": "Best Of Blondie",
         "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 212893,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY"
+    },
+    {
+      "added_at": "2022-12-02 18:48:17",
+      "album": {
+        "name": "Without a Sound",
+        "url": "https://open.spotify.com/album/0yxM1OyaFOZiJhi9eNThE4"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Jr.",
+          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+        }
+      ],
+      "duration_ms": 259600,
+      "name": "Feel the Pain",
+      "url": "https://open.spotify.com/track/28c4nfBHdb3xviamRCEsIe"
     },
     {
       "added_at": "2022-12-02 18:48:17",

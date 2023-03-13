@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to Indian women, at full volume\. Cover: Bhoomi Trivedi
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,700 likes - 38 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,767 likes - 38 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 12 | [Besharam Rang \(From "Pathaan"\)](https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Besharam Rang \(From "Pathaan"\)](https://open.spotify.com/album/5CvI5ppsG522pV554VLezD) | 4:18 |
 | 13 | [Meri Jaan](https://open.spotify.com/track/080Snoc5O7MuKyu5TkH4TD) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Gangubai Kathiawadi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3kT50JTcaeVQMIh0NUNjyM) | 3:58 |
 | 14 | [O Sajna](https://open.spotify.com/track/1SVE8yjAt2m9JWjeOaGG4Q) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [O Sajna](https://open.spotify.com/album/1TXJwhaxqLrY0xaHkkDHfK) | 4:05 |
-| 15 | [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 |
+| 15 | [Dilbar](https://open.spotify.com/track/5YCdQ5NhaZ3PBdcmAV0CZS) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/4pv9PobaeFfnzvZd3IKHEJ) | 2:48 |
 | 16 | [Phero Na Najariya](https://open.spotify.com/track/6bngLYnL3AbtpXd7uPAMMd) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Qala \(Music From The Netflix Film\)](https://open.spotify.com/album/3yVX4sKtPoqFjBKOVyJenW) | 3:59 |
 | 17 | [Tauba \(feat\. Badshah\)](https://open.spotify.com/track/1GzgV0pRSUbenz25xWV2s8) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Tauba \(feat\. Badshah\)](https://open.spotify.com/album/7xSdMyPr5KPL3A171ZbQ9M) | 3:19 |
 | 18 | [Oo Antava Oo Oo Antava](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Pushpa \- The Rise](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 37 | [Tu Hai](https://open.spotify.com/track/7dZU2M1wzwOixYS6OoSMfO) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Jammin \- Season 1](https://open.spotify.com/album/2TOpxaq3s212H86RbwKx4z) | 3:29 |
 | 38 | [8 Parche](https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [8 Parche](https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu) | 3:30 |
 
-Snapshot ID: `MTY3Nzc2Mzk4OCwwMDAwMDAwMDE3Y2I3N2I4MDRmZjRmOTQ0MTY5YjVmMDViNmQ1Nzgz`
+Snapshot ID: `MTY3Nzc2Mzk4OCwwMDAwMDAwMDc1NWRjNTU0YThlNWI5MTdkMjU2ODliZGVkNjE3MTA3`

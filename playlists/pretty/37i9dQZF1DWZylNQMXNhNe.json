@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Pabllo Vittar",
-  "num_followers": 218812,
+  "num_followers": 218814,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODUwNTgwNiwwMDAwMDAwMDkwZTRhMjJjYjA5YmVkMWM4YjFmYzMzNTJiMDFjNTY0",
+  "snapshot_id": "MTY3ODUwNTgwNiwwMDAwMDAwMDJkNmExMGEwNTcyZjk1ZTkzZDA4OWZiNGFlZjI2ODNh",
   "tracks": [
     {
       "added_at": "2023-03-11 03:34:24",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I"
     },
     {
-      "added_at": "2023-03-12 00:39:40",
+      "added_at": "2023-03-13 01:14:55",
       "album": {
         "name": "PROIBIDONA",
         "url": "https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU"
@@ -379,18 +379,22 @@
     {
       "added_at": "2023-03-11 03:34:24",
       "album": {
-        "name": "BRINCA COM A...",
-        "url": "https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2"
+        "name": "NOITE DE CA\u00c7A",
+        "url": "https://open.spotify.com/album/4BpC89Hz3YwISnrcYBfWbH"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 182709,
-      "name": "BRINCA COM A...",
-      "url": "https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW"
+      "duration_ms": 158571,
+      "name": "NOITE DE CA\u00c7A",
+      "url": "https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx"
     },
     {
       "added_at": "2023-03-11 03:34:24",
@@ -435,22 +439,18 @@
     {
       "added_at": "2023-03-11 03:34:24",
       "album": {
-        "name": "NOITE DE CA\u00c7A",
-        "url": "https://open.spotify.com/album/4BpC89Hz3YwISnrcYBfWbH"
+        "name": "BRINCA COM A...",
+        "url": "https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2"
       },
       "artists": [
         {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
         }
       ],
-      "duration_ms": 158571,
-      "name": "NOITE DE CA\u00c7A",
-      "url": "https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx"
+      "duration_ms": 182709,
+      "name": "BRINCA COM A...",
+      "url": "https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW"
     },
     {
       "added_at": "2023-03-11 03:34:24",

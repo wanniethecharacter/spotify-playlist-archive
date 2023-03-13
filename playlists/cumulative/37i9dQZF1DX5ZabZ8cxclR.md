@@ -4,14 +4,15 @@
 
 > Enjoy the soundtrack of Broker! \(영화 브로커의 사운드트랙을 즐겨보세요!\)
 
-43 songs - 1 hr 20 min
+45 songs - 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Betrayal](https://open.spotify.com/track/12WK8Woe1a4gpEgL686VFK) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [BROKER](https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08) | 0:54 | 2022-07-07 | 2023-03-11 |
 | [Betrayal](https://open.spotify.com/track/1QAPoJfIi2fZbAqT3WB2Ij) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 0:54 | 2022-07-07 |  |
 | [Booooo](https://open.spotify.com/track/4qqXOVqbU9WS2FJELqjxkT) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [BROKER](https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08) | 0:26 | 2022-07-07 |  |
-| [Bus Stop](https://open.spotify.com/track/4sHX6AmqHCxu2DKlv4YxnS) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [BROKER](https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08) | 0:43 | 2022-07-07 |  |
+| [Bus Stop](https://open.spotify.com/track/0IKB0sdYNfXIvoxKWlh05D) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 0:43 | 2022-07-07 |  |
+| [Bus Stop](https://open.spotify.com/track/4sHX6AmqHCxu2DKlv4YxnS) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [BROKER](https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08) | 0:43 | 2022-07-07 | 2023-03-13 |
 | [Companiero](https://open.spotify.com/track/4P5fV7NVNeX9y4Z22K29va) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 1:08 | 2022-07-07 |  |
 | [Companiero](https://open.spotify.com/track/54SeI4jOvwj8BzW3wJnRLK) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [BROKER](https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08) | 1:08 | 2022-07-07 | 2023-03-11 |
 | [Daughter](https://open.spotify.com/track/0LbbOVdlWGoaTgnAiUHzAQ) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [BROKER](https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08) | 0:51 | 2022-07-07 | 2023-03-11 |
@@ -41,7 +42,8 @@
 | [Running](https://open.spotify.com/track/3OWR4yEhzEkR1vuSf101xl) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 1:09 | 2022-07-07 |  |
 | [Saddle The Wind](https://open.spotify.com/track/4bMGyyyCxzo1La63txPrAn) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [BROKER](https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08) | 1:01 | 2022-07-07 | 2023-03-11 |
 | [Saddle the Wind](https://open.spotify.com/track/5QzUOwrWDdn42EhXHKcWJa) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 1:01 | 2022-07-07 |  |
-| [See You When I See You](https://open.spotify.com/track/4QCGlNnDJAXJdTDHw2ixb9) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [BROKER](https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08) | 0:43 | 2022-07-07 |  |
+| [See You When I See You](https://open.spotify.com/track/3SAUTXs424L3xaYODfS7xS) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 0:43 | 2022-07-07 |  |
+| [See You When I See You](https://open.spotify.com/track/4QCGlNnDJAXJdTDHw2ixb9) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [BROKER](https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08) | 0:43 | 2022-07-07 | 2023-03-13 |
 | [Staircases](https://open.spotify.com/track/2mjO5LcLtrklQ7aQCSciUg) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 1:45 | 2022-07-07 |  |
 | [Staircases](https://open.spotify.com/track/7hI5asPsgmZOTa53Jffvp0) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [BROKER](https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08) | 1:45 | 2022-07-07 | 2023-03-11 |
 | [Suspended Step](https://open.spotify.com/track/5wpRIkcxQPV4ITy9VUxW3W) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [BROKER](https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08) | 1:43 | 2022-07-07 |  |

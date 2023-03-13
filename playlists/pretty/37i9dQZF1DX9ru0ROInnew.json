@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 83094,
+  "num_followers": 83140,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDg1MywwMDAwMDAwMDY0NjAwNTE2N2MyYzI1YzM1MzI0NWYwNWI3OWI4MmIy",
+  "snapshot_id": "MTY3MzI0NDg1MywwMDAwMDAwMDgyNDU2NGUyOTUxYjM1MDczZjU1ZGVlOWYxYTdmZjMx",
   "tracks": [
     {
       "added_at": "2023-01-09 06:14:13",
@@ -203,26 +203,6 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "Si Tu Novio Te Deja Sola",
-        "url": "https://open.spotify.com/album/3bp5wUKcfBhrqCACidyPKa"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Si Tu Novio Te Deja Sola",
-      "url": "https://open.spotify.com/track/2joKSGkqac0LIwYG9Ghrwq"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
         "name": "La Ocasi\u00f3n",
         "url": "https://open.spotify.com/album/3CgogddksNmKJrnAATIMFG"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 336149,
       "name": "La Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
+        "name": "Si Tu Novio Te Deja Sola",
+        "url": "https://open.spotify.com/album/3bp5wUKcfBhrqCACidyPKa"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Si Tu Novio Te Deja Sola",
+      "url": "https://open.spotify.com/track/2joKSGkqac0LIwYG9Ghrwq"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -947,30 +947,6 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Bipolar",
-      "url": "https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
         "name": "Buen Viaje",
         "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 221802,
       "name": "Vengo De Nada",
       "url": "https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
         "name": "Ahora Dice (Real Hasta La Muerte Remix)",
         "url": "https://open.spotify.com/album/69kbK6RzAI23eD2TImJ687"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 276013,
       "name": "Ahora Dice - Real Hasta La Muerte Remix",
       "url": "https://open.spotify.com/track/2TQTZ2TSAO5eGgkCtjxjrt"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
-        "name": "Kobe En LA",
-        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Kobe En LA",
-      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1307,6 +1307,26 @@
       "duration_ms": 259250,
       "name": "Narcos",
       "url": "https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
+        "name": "Famouz Reloaded",
+        "url": "https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 249253,
+      "name": "Subiendo De Nivel - Remix",
+      "url": "https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1423,26 +1443,6 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "Famouz Reloaded",
-        "url": "https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 249253,
-      "name": "Subiendo De Nivel - Remix",
-      "url": "https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
         "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
         "url": "https://open.spotify.com/album/2D7VGl437ipTJnMQg0bs99"
       },
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
+        "name": "LowKey",
+        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 193027,
+      "name": "LowKey",
+      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
         "name": "A Mi Manera",
         "url": "https://open.spotify.com/album/38KUTPLiMJCq0hCxSg9iTL"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 226371,
       "name": "Flow Cabron",
       "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
-        "name": "LowKey",
-        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "LowKey",
-      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
     },
     {
       "added_at": "2023-01-09 06:14:13",

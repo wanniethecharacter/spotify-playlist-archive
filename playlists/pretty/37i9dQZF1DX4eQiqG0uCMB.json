@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 16161,
+  "num_followers": 16221,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ1MzA5NywwMDAwMDAwMDdlMDI1ZWY1Mjg0NjU4MTg2NjQyY2RkMjdlMzhmYzU2",
+  "snapshot_id": "MTY3ODQ1MzA5NywwMDAwMDAwMDBlMTM3NjU3ZDQyNTI4YTNkZTViNzdlMzg1YjJmZjkz",
   "tracks": [
     {
       "added_at": "2023-03-03 08:21:05",
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
     },
     {
-      "added_at": "2023-03-12 00:29:34",
+      "added_at": "2023-03-13 01:26:03",
       "album": {
         "name": "2 Bad",
         "url": "https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ"
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-03-03 08:21:05",
       "album": {
+        "name": "Earth Song",
+        "url": "https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 183536,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy"
+    },
+    {
+      "added_at": "2023-03-03 08:21:05",
+      "album": {
         "name": "Different (With Majid Jordan)",
         "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 146400,
       "name": "Different (With Majid Jordan)",
       "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
-    },
-    {
-      "added_at": "2023-03-03 08:21:05",
-      "album": {
-        "name": "Earth Song",
-        "url": "https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP"
-      },
-      "artists": [
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        }
-      ],
-      "duration_ms": 183536,
-      "name": "Earth Song",
-      "url": "https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy"
     },
     {
       "added_at": "2023-03-03 08:21:05",

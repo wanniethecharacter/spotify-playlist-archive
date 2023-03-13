@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed le ponemos ritmo a las tareas del hogar.",
-  "num_followers": 214174,
+  "num_followers": 214424,
   "original_name": "\u00a1A Limpiar con Ritmo!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTMwNTE5NiwwMDAwMDAwMDQ2ZDFiYTkzY2Q3NmZkODBjNTA1ZTBkOGJhNGQxYTYz",
+  "snapshot_id": "MTY2MTMwNTE5NiwwMDAwMDAwMGNjNWNhZmNhNmRlMGNiZTBkNTYxZTAwMWVkNmIyYjQ3",
   "tracks": [
     {
       "added_at": "2022-08-24 01:39:55",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "Pasi\u00f3n Y Cumbia",
-        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Amor Regresa",
-      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
         "name": "Millenium Hits",
         "url": "https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 281260,
       "name": "Persona Ideal",
       "url": "https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
+        "name": "Pasi\u00f3n Y Cumbia",
+        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Amor Regresa",
+      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 316093,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
         "name": "M\u00e1s + Coraz\u00f3n Profundo",
         "url": "https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 278626,
       "name": "Cuando Nos Volvamos a Encontrar (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 316093,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 234373,
-      "name": "Pasos de cero",
-      "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 293106,
       "name": "Tu Eres Ajena",
       "url": "https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 234373,
+      "name": "Pasos de cero",
+      "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Coraz\u00f3n En La Maleta",
-      "url": "https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 256133,
       "name": "Lloviendo Estrellas",
       "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Coraz\u00f3n En La Maleta",
+      "url": "https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "Amores Dif\u00edciles",
-        "url": "https://open.spotify.com/album/01oAsRFo8FXUuvGt16vI8P"
-      },
-      "artists": [
-        {
-          "name": "Cabas",
-          "url": "https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i"
-        }
-      ],
-      "duration_ms": 237335,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/6HNsJQihjxODgGWQafAJau"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 409080,
       "name": "Peri\u00f3dico De Ayer",
       "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
+        "name": "Amores Dif\u00edciles",
+        "url": "https://open.spotify.com/album/01oAsRFo8FXUuvGt16vI8P"
+      },
+      "artists": [
+        {
+          "name": "Cabas",
+          "url": "https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i"
+        }
+      ],
+      "duration_ms": 237335,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/6HNsJQihjxODgGWQafAJau"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "Cabas",
-        "url": "https://open.spotify.com/album/3zOiYPGZRhvWJioOQh4O8s"
-      },
-      "artists": [
-        {
-          "name": "Cabas",
-          "url": "https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i"
-        }
-      ],
-      "duration_ms": 193946,
-      "name": "Mi Bombom",
-      "url": "https://open.spotify.com/track/29ET4ONM7UGb5fIbLfHoDK"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
         "name": "Sin Bandera",
         "url": "https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 266466,
       "name": "Sirena",
       "url": "https://open.spotify.com/track/1fjB9hdAjlHSS9oH5z63qt"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
+        "name": "Cabas",
+        "url": "https://open.spotify.com/album/3zOiYPGZRhvWJioOQh4O8s"
+      },
+      "artists": [
+        {
+          "name": "Cabas",
+          "url": "https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "Mi Bombom",
+      "url": "https://open.spotify.com/track/29ET4ONM7UGb5fIbLfHoDK"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 331306,
+      "name": "No Podras Escapar De Mi",
+      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 275440,
       "name": "Sue\u00f1os (with Julieta Venegas) - MTV Unplugged",
       "url": "https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "No Podras Escapar De Mi",
-      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
     }
   ],
   "unique_name": "\u00a1A Limpiar con Ritmo!",

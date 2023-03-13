@@ -756,7 +756,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 202758,
       "name": "Bone Breaker",
       "url": "https://open.spotify.com/track/6t7QJBcI7xDcjKjRO4mBDf"
@@ -2976,7 +2976,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 222861,
       "name": "Invane",
       "url": "https://open.spotify.com/track/5GXQKVMqoz4jBQA6Botohj"
@@ -4230,6 +4230,28 @@
       "duration_ms": 232315,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/4rGJKqbPpn5HUhMKeZMFhe"
+    },
+    {
+      "album": {
+        "name": "Parallels",
+        "url": "https://open.spotify.com/album/5fI00S2DlKDEegko9s0t0Z"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Parallels",
+      "url": "https://open.spotify.com/track/2SS2oPAFHFHUimjfwyoYyC"
     },
     {
       "album": {
@@ -6406,6 +6428,24 @@
       "duration_ms": 189120,
       "name": "Voices",
       "url": "https://open.spotify.com/track/2djhpOJMkWCjNh3aggayyJ"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/3ZBZUT81UWro8rfdcxop06"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/74xGI2SshPv14Rg0kOiyRv"
     },
     {
       "album": {

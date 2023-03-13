@@ -5586,7 +5586,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 364251,
       "name": "JIGGIRI FREESTYLE, Vol. 1",
       "url": "https://open.spotify.com/track/4MULhpFgyate8oE1KGCSd0"
@@ -7646,7 +7646,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 237344,
       "name": "Mbappe - Remix",
       "url": "https://open.spotify.com/track/21ocGfx68UnoPH89sXkhzu"
@@ -11215,6 +11215,28 @@
     },
     {
       "album": {
+        "name": "Redondo",
+        "url": "https://open.spotify.com/album/5GI305B1o9SiOYCFBsw2Bk"
+      },
+      "artists": [
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        },
+        {
+          "name": "VLA Music Entertainment",
+          "url": "https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165984,
+      "name": "Redondo",
+      "url": "https://open.spotify.com/track/1FH9XLXW6PxrKxq59CUSrx"
+    },
+    {
+      "album": {
         "name": "Relaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
       },
@@ -12164,7 +12186,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 191506,
       "name": "Si Te La Encuentras Por Ah\u00ed",
       "url": "https://open.spotify.com/track/2vsoD8S1OyrWSVIA43hjaU"

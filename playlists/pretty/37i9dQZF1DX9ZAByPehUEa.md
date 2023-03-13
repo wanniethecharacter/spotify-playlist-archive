@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,568 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,639 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 27 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 |
 | 28 | [Sky's the Limit \- Edit](https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP) | [Full Intention](https://open.spotify.com/artist/1tayOcNuoYWnrXeuh1HhXB) | [Sky's the Limit \(Edit\)](https://open.spotify.com/album/5pQwvmqU1IU8VdvqBGuSl1) | 2:43 |
 | 29 | [Pleasure Love](https://open.spotify.com/track/22itU9LO5xcgMIQ2wDYg3b) | [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV), [De Funk](https://open.spotify.com/artist/1e2MsinOAaS2JUYEEHSaU5) | [Pleasure Love](https://open.spotify.com/album/1Km9xN9NEfN3tVTnC2n63S) | 2:44 |
-| 30 | [Heaven \(feat\. Andreya Triana\)](https://open.spotify.com/track/1L6ZbPR2kIzguE0EjVEsLw) | [The Vision](https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [The Vision](https://open.spotify.com/album/7G3RYP4Wc2vtFHihpR8HXN) | 4:58 |
-| 31 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 |
+| 30 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 |
+| 31 | [Heaven \(feat\. Andreya Triana\)](https://open.spotify.com/track/1L6ZbPR2kIzguE0EjVEsLw) | [The Vision](https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [The Vision](https://open.spotify.com/album/7G3RYP4Wc2vtFHihpR8HXN) | 4:58 |
 | 32 | [Please \- Single Edit](https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Please](https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR) | 3:39 |
 | 33 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 |
 | 34 | [Celebration](https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celebration](https://open.spotify.com/album/69TDYss3NTUG1MlHq1AkvK) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [Real Groove \(feat\. Dua Lipa\) \- Studio 2054 Initial Talk Remix](https://open.spotify.com/track/3I9gIF7c1VwAdvjTsvLgod) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Initial Talk](https://open.spotify.com/artist/0YQmcNgfnoqxBMJ8dcw3Eh) | [Real Groove \(feat\. Dua Lipa\) \[Studio 2054 Initial Talk Remix\]](https://open.spotify.com/album/5qhswDV7pVbYdJvU9PuVA8) | 3:43 |
 | 50 | [Do you Feel Like I do?](https://open.spotify.com/track/5xbKD51JPTqbqLjWnvmnmF) | [Another Chemical Love Story](https://open.spotify.com/artist/7Kgt7Exe4T5w9HEoy3Zeqv), [Elliot Adamson](https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz) | [Do you Feel Like I do?](https://open.spotify.com/album/7yKlkYxkKBk7dFZoexmJlb) | 6:38 |
 
-Snapshot ID: `MTY3NTcwNjg4NCwwMDAwMDAwMGNkZGFkOGYwM2IwZmUwNTM5ZmQ3MDYyODBiYTA2YTNl`
+Snapshot ID: `MTY3NTcwNjg4NCwwMDAwMDAwMGVlNmI3ZDBmMTNiZTMxNmYyNGE2NTk3Yjg1NzkxMDgw`

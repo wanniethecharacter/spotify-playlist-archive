@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 75089,
+  "num_followers": 75123,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDAxNjI3YWMwNzVjZDA5NzIwOTJhZjRiYzllNDI1MThl",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDY2OGNjODVmNWY5MWJkNzNhOGNhYmIwZjU4MDRjOWEz",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -711,22 +711,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
-        "url": "https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y"
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
       },
       "artists": [
         {
-          "name": "Phora",
-          "url": "https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
         }
       ],
-      "duration_ms": 253202,
-      "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1"
+      "duration_ms": 145700,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -747,18 +743,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
+        "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y"
       },
       "artists": [
         {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+          "name": "Phora",
+          "url": "https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 145700,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
+      "duration_ms": 253202,
+      "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "We Made It",
-        "url": "https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 314848,
-      "name": "We Made It",
-      "url": "https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Sweet Spot",
         "url": "https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 156909,
       "name": "One Time",
       "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 314848,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Better Than the Boys",
+        "url": "https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9yah",
+          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
+        }
+      ],
+      "duration_ms": 154884,
+      "name": "Better Than the Boys",
+      "url": "https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
@@ -1295,26 +1311,6 @@
       "duration_ms": 282110,
       "name": "Power",
       "url": "https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/0Qf2zbgqkcBQ6FHiOaRLzV"
-      },
-      "artists": [
-        {
-          "name": "AmPm",
-          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
-        },
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/2wVlyzhcwcJmM46l4BfVj0"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1347,6 +1343,26 @@
       "duration_ms": 225267,
       "name": "Dance Like Nobody's Watching",
       "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/0Qf2zbgqkcBQ6FHiOaRLzV"
+      },
+      "artists": [
+        {
+          "name": "AmPm",
+          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+        },
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/2wVlyzhcwcJmM46l4BfVj0"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 229848,
       "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
       "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Better Than the Boys",
-        "url": "https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9yah",
-          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
-        }
-      ],
-      "duration_ms": 154884,
-      "name": "Better Than the Boys",
-      "url": "https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx"
     },
     {
       "added_at": "2023-03-10 05:00:00",

@@ -2552,7 +2552,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 193175,
       "name": "gold",
       "url": "https://open.spotify.com/track/3vGgCXDCJZmkO83Yi5eUqf"
@@ -3770,6 +3770,32 @@
       "duration_ms": 279719,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/6XX2urlNfbou2B4XSdnpyp"
+    },
+    {
+      "album": {
+        "name": "Lights Out (Remix)",
+        "url": "https://open.spotify.com/album/6MaW5BIEjrRYJe1Zb424CC"
+      },
+      "artists": [
+        {
+          "name": "Taska Black",
+          "url": "https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3"
+        },
+        {
+          "name": "Alioth",
+          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
+        },
+        {
+          "name": "OSKI",
+          "url": "https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "Lights Out - Remix",
+      "url": "https://open.spotify.com/track/6gVpJ1C8NJTsSkJePxTh0n"
     },
     {
       "album": {
@@ -5608,7 +5634,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 222831,
       "name": "Sleeptalking",
       "url": "https://open.spotify.com/track/1L6KXZpo1fKZcAtqsD3p9i"
@@ -6100,6 +6126,28 @@
       "duration_ms": 228292,
       "name": "Sunsets With You",
       "url": "https://open.spotify.com/track/2akq2VGOfII2v4nI1S66fL"
+    },
+    {
+      "album": {
+        "name": "Supercharged",
+        "url": "https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139130,
+      "name": "Supercharged",
+      "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,249 likes - 109 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,255 likes - 109 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

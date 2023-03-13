@@ -1,12 +1,12 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2172,
+  "num_followers": 2174,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "Mjg4OSwwZDA0YTkzZGQ1NzZlOTI2MDI5M2NhY2Q0NWM1ZWY1YTg4NTdhMzlm",
+  "snapshot_id": "MjkxNiw2NDNlZmIwZWQ0NGY1NjczYWVhNTlmY2JhY2RlMTBjNmQyMGUxODU4",
   "tracks": [
     {
       "added_at": "2023-02-10 17:30:44",
@@ -23,6 +23,74 @@
       "duration_ms": 189196,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
+    },
+    {
+      "added_at": "2023-03-12 09:57:30",
+      "album": {
+        "name": "GET IT",
+        "url": "https://open.spotify.com/album/0hA8jrWzuihDqEm7DZtZEK"
+      },
+      "artists": [
+        {
+          "name": "ZIOS",
+          "url": "https://open.spotify.com/artist/1HFgOhnb76kDSv4U6SqLHX"
+        }
+      ],
+      "duration_ms": 212887,
+      "name": "GET IT",
+      "url": "https://open.spotify.com/track/1iE60Ny9k6vGmPRF7iKoUr"
+    },
+    {
+      "added_at": "2023-03-12 09:57:37",
+      "album": {
+        "name": "Everything You Have Done (Meduza Edit)",
+        "url": "https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 156218,
+      "name": "Everything You Have Done - Meduza Edit",
+      "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
+    },
+    {
+      "added_at": "2023-03-12 09:57:39",
+      "album": {
+        "name": "Bumpin'",
+        "url": "https://open.spotify.com/album/4sESCe1Q8O2NxP9S2TnGEv"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        }
+      ],
+      "duration_ms": 208869,
+      "name": "Bumpin'",
+      "url": "https://open.spotify.com/track/3mNNfmxCOsLHv74CoIzMDl"
+    },
+    {
+      "added_at": "2023-01-20 06:39:56",
+      "album": {
+        "name": "Don't Wanna Be",
+        "url": "https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Don't Wanna Be",
+      "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
     },
     {
       "added_at": "2023-03-05 13:16:01",
@@ -57,6 +125,26 @@
       "url": "https://open.spotify.com/track/6Kea7kd9xbq4bAgEp1srdN"
     },
     {
+      "added_at": "2023-03-12 09:57:28",
+      "album": {
+        "name": "Pam Pam",
+        "url": "https://open.spotify.com/album/1cdc1XeYkT0YTEYHsh97SU"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Side B",
+          "url": "https://open.spotify.com/artist/3hm9D6w73Erm43Ym0gtmjR"
+        }
+      ],
+      "duration_ms": 208396,
+      "name": "Flamingos",
+      "url": "https://open.spotify.com/track/0lAQ4hpL4wS7EdgXYd3I2w"
+    },
+    {
       "added_at": "2023-03-05 13:15:28",
       "album": {
         "name": "Eso",
@@ -73,10 +161,10 @@
       "url": "https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T"
     },
     {
-      "added_at": "2023-01-20 06:39:56",
+      "added_at": "2022-09-30 05:47:41",
       "album": {
-        "name": "Don't Wanna Be",
-        "url": "https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh"
+        "name": "CLOD",
+        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
       },
       "artists": [
         {
@@ -84,9 +172,9 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 203333,
-      "name": "Don't Wanna Be",
-      "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
+      "duration_ms": 139107,
+      "name": "CLOD",
+      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
     },
     {
       "added_at": "2023-02-19 12:43:37",
@@ -125,6 +213,22 @@
       "url": "https://open.spotify.com/track/2eNyIYoHZRUeEl5p5PKdOC"
     },
     {
+      "added_at": "2023-03-12 09:57:45",
+      "album": {
+        "name": "winter '23",
+        "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 412500,
+      "name": "symphonia.",
+      "url": "https://open.spotify.com/track/0FSdefPsdTZgxFM5Rvwqnu"
+    },
+    {
       "added_at": "2023-02-19 12:43:35",
       "album": {
         "name": "Orient Express",
@@ -139,6 +243,22 @@
       "duration_ms": 166540,
       "name": "Orient Express",
       "url": "https://open.spotify.com/track/293qKOjripajaL2vyZnJkX"
+    },
+    {
+      "added_at": "2022-08-17 22:53:11",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/445kF1rP1Ee5HjS7hA1xGG"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 192862,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/1H3rFP8VEwng3ksIiWOaqi"
     },
     {
       "added_at": "2023-03-05 13:15:20",
@@ -161,36 +281,20 @@
       "url": "https://open.spotify.com/track/5By6A6jdZiJ9j3YION9hQW"
     },
     {
-      "added_at": "2022-09-30 05:47:41",
+      "added_at": "2023-03-12 09:57:42",
       "album": {
-        "name": "CLOD",
-        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/5BFu1tFCVsVvTn6gvU3WRo"
       },
       "artists": [
         {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+          "name": "Detlef",
+          "url": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
         }
       ],
-      "duration_ms": 139107,
-      "name": "CLOD",
-      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
-    },
-    {
-      "added_at": "2023-02-19 12:43:39",
-      "album": {
-        "name": "How We Get Down",
-        "url": "https://open.spotify.com/album/3LXZzUYOfJZHR8UkVvNTUA"
-      },
-      "artists": [
-        {
-          "name": "Dale Howard",
-          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
-        }
-      ],
-      "duration_ms": 198508,
-      "name": "How We Get Down",
-      "url": "https://open.spotify.com/track/7wLTQOUSE3sH3QsY6TI1Zx"
+      "duration_ms": 183307,
+      "name": "Bronx",
+      "url": "https://open.spotify.com/track/5oWXxAqoHGY96OnwzmdHdH"
     },
     {
       "added_at": "2023-02-12 13:30:27",
@@ -225,6 +329,22 @@
       "url": "https://open.spotify.com/track/2fRPAxlfizmSKUwfGZZjNk"
     },
     {
+      "added_at": "2022-05-26 08:21:11",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/5WUts3vG3zcXW0KqK2KnGK"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 157341,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/6bUZWGb0T87wJ2ZPyz0UfC"
+    },
+    {
       "added_at": "2023-03-05 13:15:26",
       "album": {
         "name": "In My Brain",
@@ -241,40 +361,20 @@
       "url": "https://open.spotify.com/track/75VaEHJpYnWtHj7CenYbf8"
     },
     {
-      "added_at": "2022-08-17 22:53:11",
+      "added_at": "2023-03-12 09:57:34",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/445kF1rP1Ee5HjS7hA1xGG"
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/0Tc1tg1w34KqvGfbydJFPu"
       },
       "artists": [
         {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+          "name": "Moreno Pezzolato",
+          "url": "https://open.spotify.com/artist/4T7wlRMvx47eHo5z78A5tQ"
         }
       ],
-      "duration_ms": 192862,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/1H3rFP8VEwng3ksIiWOaqi"
-    },
-    {
-      "added_at": "2023-02-19 12:43:42",
-      "album": {
-        "name": "Booty EP",
-        "url": "https://open.spotify.com/album/5KWIpioH5MPmmafacSw60u"
-      },
-      "artists": [
-        {
-          "name": "Chantrero",
-          "url": "https://open.spotify.com/artist/5nrupbqYt4u4PdhQXkyz3t"
-        },
-        {
-          "name": "Mr. Nobody",
-          "url": "https://open.spotify.com/artist/1lWbryCkR2tzmvEIM2Lknp"
-        }
-      ],
-      "duration_ms": 189251,
-      "name": "Booty",
-      "url": "https://open.spotify.com/track/6lhAa62sQdn2eUDbZgoaeF"
+      "duration_ms": 337142,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/6VF8DFuo2NVsoBKaqt5Nlw"
     },
     {
       "added_at": "2023-03-05 13:15:46",
@@ -309,30 +409,10 @@
       "url": "https://open.spotify.com/track/7I6VWFNZoUo0gRDYiAcC4M"
     },
     {
-      "added_at": "2023-02-19 12:43:32",
+      "added_at": "2022-07-15 16:45:56",
       "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/3SqPahMunJaCgMcVYJlLTY"
-      },
-      "artists": [
-        {
-          "name": "NightFunk",
-          "url": "https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O"
-        },
-        {
-          "name": "ATTICUS",
-          "url": "https://open.spotify.com/artist/6HyXfF5iDIPmNNXbg6729J"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/5rZicx0JZLZR233YKcA4ok"
-    },
-    {
-      "added_at": "2022-05-26 08:21:11",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/5WUts3vG3zcXW0KqK2KnGK"
+        "name": "Abra",
+        "url": "https://open.spotify.com/album/73QJDc0XOLeUvA0ZbpoaHH"
       },
       "artists": [
         {
@@ -340,33 +420,9 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 157341,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/6bUZWGb0T87wJ2ZPyz0UfC"
-    },
-    {
-      "added_at": "2023-02-19 12:43:30",
-      "album": {
-        "name": "Move to the Beat",
-        "url": "https://open.spotify.com/album/4h4yvLmNEMiPMhEnm14vC8"
-      },
-      "artists": [
-        {
-          "name": "Simon Ricci",
-          "url": "https://open.spotify.com/artist/0yZzFyRzS1w61VNtQYCagB"
-        },
-        {
-          "name": "Gosts",
-          "url": "https://open.spotify.com/artist/6hMxBHVIRXtr1njOIOv8aS"
-        },
-        {
-          "name": "Gabriele Agostino",
-          "url": "https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ"
-        }
-      ],
-      "duration_ms": 211464,
-      "name": "Move to the Beat",
-      "url": "https://open.spotify.com/track/0aGSfFcOjxzRFTYWXeiFjg"
+      "duration_ms": 155634,
+      "name": "Abra",
+      "url": "https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI"
     },
     {
       "added_at": "2023-03-05 13:15:23",
@@ -383,54 +439,6 @@
       "duration_ms": 182440,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/6KqaitakrynOXlmjy6CSmp"
-    },
-    {
-      "added_at": "2023-02-12 13:30:16",
-      "album": {
-        "name": "I'm Crazy",
-        "url": "https://open.spotify.com/album/1qQgSs2PUqB8r3hOPYtUd9"
-      },
-      "artists": [
-        {
-          "name": "DOUG!",
-          "url": "https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "I'm Crazy",
-      "url": "https://open.spotify.com/track/1Jhmughb25ns8f9DfWgl5d"
-    },
-    {
-      "added_at": "2023-02-12 13:30:12",
-      "album": {
-        "name": "132.00FM",
-        "url": "https://open.spotify.com/album/19fKnOtNDHzrUvRrt4mSzO"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6NC1118KAvcnZdBmGDdt9d"
-    },
-    {
-      "added_at": "2022-07-15 16:45:56",
-      "album": {
-        "name": "Abra",
-        "url": "https://open.spotify.com/album/73QJDc0XOLeUvA0ZbpoaHH"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 155634,
-      "name": "Abra",
-      "url": "https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI"
     },
     {
       "added_at": "2023-03-05 13:15:49",
@@ -491,22 +499,6 @@
       "duration_ms": 302325,
       "name": "Black Swan",
       "url": "https://open.spotify.com/track/4XakrAsCDt8dQEw9DwnTvB"
-    },
-    {
-      "added_at": "2023-02-19 12:43:44",
-      "album": {
-        "name": "Back N Forth",
-        "url": "https://open.spotify.com/album/0DGlrQi4k2PkBTXiZ0Bbre"
-      },
-      "artists": [
-        {
-          "name": "SLVR",
-          "url": "https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU"
-        }
-      ],
-      "duration_ms": 132924,
-      "name": "Back N Forth",
-      "url": "https://open.spotify.com/track/1lu9DGjufsxS6m7CnuL1An"
     },
     {
       "added_at": "2023-03-05 13:15:57",

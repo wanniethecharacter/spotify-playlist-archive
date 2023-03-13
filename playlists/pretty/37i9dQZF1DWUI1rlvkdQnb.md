@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 
 > Soft, relaxing music for workout recovery.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,716 likes - 110 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,730 likes - 110 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

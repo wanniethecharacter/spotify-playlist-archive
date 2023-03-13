@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 87611,
+  "num_followers": 87715,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0MDQwNCwwMDAwMDAwMDI4ZDM2M2YxZjY4NTU3NjA1MzllNjNiNDk3ZWZmOWE4",
+  "snapshot_id": "MTY3NjY0MDQwNCwwMDAwMDAwMGIxMDZhZGYyZmUyYjA3MjczMjE1ZmI4ZDZlNWI3NzI3",
   "tracks": [
     {
       "added_at": "2023-02-02 23:01:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 91706,
-      "name": "Olson",
-      "url": "https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Mordechai",
         "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 167972,
       "name": "Pelota",
       "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 91706,
+      "name": "Olson",
+      "url": "https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -295,6 +295,26 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Texas Sun",
+        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 283406,
+      "name": "C-Side",
+      "url": "https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "Stronger Than Pride",
         "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
       },
@@ -307,22 +327,6 @@
       "duration_ms": 242240,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/2KpjKWyj0TI0FmGgENEKr6"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Kindness",
-        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 156069,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -343,22 +347,18 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Texas Sun",
-        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 283406,
-      "name": "C-Side",
-      "url": "https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF"
+      "duration_ms": 156069,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Essential Levitation - 20 Years of Ibiza Chillout Music",
-        "url": "https://open.spotify.com/album/2m18LIEu3yRDXpe2C9lGQG"
-      },
-      "artists": [
-        {
-          "name": "Levitation",
-          "url": "https://open.spotify.com/artist/231kUXNyI5BYxIvZacVbCu"
-        },
-        {
-          "name": "Cathy Battistessa",
-          "url": "https://open.spotify.com/artist/7B9gTlTLJOW6YKBDgSrEOO"
-        }
-      ],
-      "duration_ms": 441160,
-      "name": "More Than Ever People - Late Night Mix",
-      "url": "https://open.spotify.com/track/2ESCeu4Z0WXGl6zezMQTvX"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Soleil Kr\u00e9yol",
         "url": "https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah"
       },
@@ -775,18 +755,22 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "A Journey to You",
-        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
+        "name": "Essential Levitation - 20 Years of Ibiza Chillout Music",
+        "url": "https://open.spotify.com/album/2m18LIEu3yRDXpe2C9lGQG"
       },
       "artists": [
         {
-          "name": "Melodiesinfonie",
-          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+          "name": "Levitation",
+          "url": "https://open.spotify.com/artist/231kUXNyI5BYxIvZacVbCu"
+        },
+        {
+          "name": "Cathy Battistessa",
+          "url": "https://open.spotify.com/artist/7B9gTlTLJOW6YKBDgSrEOO"
         }
       ],
-      "duration_ms": 274285,
-      "name": "AO Longo Do Rio",
-      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
+      "duration_ms": 441160,
+      "name": "More Than Ever People - Late Night Mix",
+      "url": "https://open.spotify.com/track/2ESCeu4Z0WXGl6zezMQTvX"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -811,18 +795,18 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Reminisce",
-        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
+        "name": "A Journey to You",
+        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
       },
       "artists": [
         {
-          "name": "WMD",
-          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
         }
       ],
-      "duration_ms": 273117,
-      "name": "It Was 9:30 and You Were Beautiful",
-      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+      "duration_ms": 274285,
+      "name": "AO Longo Do Rio",
+      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -839,6 +823,22 @@
       "duration_ms": 229066,
       "name": "Three",
       "url": "https://open.spotify.com/track/7FKhuZtIPchBVNIhFnNL5W"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
+      },
+      "artists": [
+        {
+          "name": "WMD",
+          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
+        }
+      ],
+      "duration_ms": 273117,
+      "name": "It Was 9:30 and You Were Beautiful",
+      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Am\u00e9rica",
-        "url": "https://open.spotify.com/album/0EcZMXi07XsJDJEcDs8Cro"
-      },
-      "artists": [
-        {
-          "name": "Pietro Nicosia",
-          "url": "https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Am\u00e9rica",
-      "url": "https://open.spotify.com/track/2Mm7MLp976hA04NQi2dBF8"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Protection",
         "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 299960,
       "name": "Weather Storm",
       "url": "https://open.spotify.com/track/4u5KFWcW1ptk0hJqp2lrCE"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Am\u00e9rica",
+        "url": "https://open.spotify.com/album/0EcZMXi07XsJDJEcDs8Cro"
+      },
+      "artists": [
+        {
+          "name": "Pietro Nicosia",
+          "url": "https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/2Mm7MLp976hA04NQi2dBF8"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Tiefer",
+        "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
+      },
+      "artists": [
+        {
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+        }
+      ],
+      "duration_ms": 214014,
+      "name": "Tiefer - Edit",
+      "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "Quiet Night",
         "url": "https://open.spotify.com/album/3qrdALmql8njlLqI0Ek4ep"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 212000,
       "name": "Quiet Night",
       "url": "https://open.spotify.com/track/37uDjCFbCIj8Doz8NMyiHT"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Tiefer",
-        "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
-      },
-      "artists": [
-        {
-          "name": "Boozoo Bajou",
-          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
-        }
-      ],
-      "duration_ms": 214014,
-      "name": "Tiefer - Edit",
-      "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Mendes & Mendes",
-        "url": "https://open.spotify.com/album/4UqjJ3DpAQRa78hPNJhqB4"
-      },
-      "artists": [
-        {
-          "name": "Mendes & Mendes",
-          "url": "https://open.spotify.com/artist/4Bh3bsbrB7fnChSdZZEHvf"
-        }
-      ],
-      "duration_ms": 329440,
-      "name": "Mitamiyo",
-      "url": "https://open.spotify.com/track/2q9SWGXBh3VE7ZmERLEbYS"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Pina Colada (And Other Early Tunes)",
         "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 366946,
       "name": "Pina Colada (Jazz Mix)",
       "url": "https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Mendes & Mendes",
+        "url": "https://open.spotify.com/album/4UqjJ3DpAQRa78hPNJhqB4"
+      },
+      "artists": [
+        {
+          "name": "Mendes & Mendes",
+          "url": "https://open.spotify.com/artist/4Bh3bsbrB7fnChSdZZEHvf"
+        }
+      ],
+      "duration_ms": 329440,
+      "name": "Mitamiyo",
+      "url": "https://open.spotify.com/track/2q9SWGXBh3VE7ZmERLEbYS"
     },
     {
       "added_at": "2023-02-02 23:01:00",

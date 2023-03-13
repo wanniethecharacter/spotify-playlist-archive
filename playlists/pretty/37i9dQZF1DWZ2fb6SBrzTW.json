@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 10653,
+  "num_followers": 10681,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ1MTYzMSwwMDAwMDAwMGFhNzRkYmUzOTVhYWM2OTUzMzIyYzdhMzc3NmYwZTVj",
+  "snapshot_id": "MTY3ODQ1MTYzMSwwMDAwMDAwMDgzNDM1NjQ1YWRiZTNjYzkwOGY0OWZlNGFkY2VhZGFh",
   "tracks": [
     {
       "added_at": "2023-03-10 12:33:51",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-03-10 12:33:51",
       "album": {
+        "name": "Billion Dollar Baby",
+        "url": "https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 177449,
+      "name": "Chance (Na Ham)",
+      "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
+    },
+    {
+      "added_at": "2023-03-10 12:33:51",
+      "album": {
         "name": "Otilo (Izz Gone)",
         "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 162782,
       "name": "Otilo (Izz Gone)",
       "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
-    },
-    {
-      "added_at": "2023-03-10 12:33:51",
-      "album": {
-        "name": "Billion Dollar Baby",
-        "url": "https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 177449,
-      "name": "Chance (Na Ham)",
-      "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
     },
     {
       "added_at": "2023-03-10 12:33:51",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-03-10 12:33:51",
       "album": {
-        "name": "Hypertension / Things I Need",
-        "url": "https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q"
-      },
-      "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "Hypertension",
-      "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
-    },
-    {
-      "added_at": "2023-03-10 12:33:51",
-      "album": {
         "name": "Gbese",
         "url": "https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 162991,
       "name": "Gbese",
       "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
+    },
+    {
+      "added_at": "2023-03-10 12:33:51",
+      "album": {
+        "name": "Hypertension / Things I Need",
+        "url": "https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "Hypertension",
+      "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
     },
     {
       "added_at": "2023-03-10 12:33:51",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-03-10 12:33:51",
       "album": {
-        "name": "Ololade Asake",
-        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 190791,
-      "name": "Sungba",
-      "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
-    },
-    {
-      "added_at": "2023-03-10 12:33:51",
-      "album": {
         "name": "La Maluka",
         "url": "https://open.spotify.com/album/32UflENeLioWm4rKSpyRvm"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 274285,
       "name": "La Maluka",
       "url": "https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7"
+    },
+    {
+      "added_at": "2023-03-10 12:33:51",
+      "album": {
+        "name": "Ololade Asake",
+        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 190791,
+      "name": "Sungba",
+      "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
     },
     {
       "added_at": "2023-03-10 12:33:51",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-03-10 12:33:51",
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY"
+        "name": "Ara (Gen Gen Tin)",
+        "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
       },
       "artists": [
         {
-          "name": "Sho Madjozi",
-          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 374009,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K"
+      "duration_ms": 146000,
+      "name": "Ara (Gen Gen Tin)",
+      "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
     },
     {
       "added_at": "2023-03-10 12:33:51",

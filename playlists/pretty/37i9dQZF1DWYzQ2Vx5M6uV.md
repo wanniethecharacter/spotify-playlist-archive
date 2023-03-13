@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Aya Nakamura & Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,901 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,947 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 9 | [Mama Tetema \(feat\. Rayvanny\)](https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Mama Tetema \(feat\. Rayvanny\)](https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z) | 3:08 |
 | 10 | [Loco \- Remix](https://open.spotify.com/track/6nGM44ZP7vSo0istUW2MOq) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Loco \(Remix\)](https://open.spotify.com/album/17UNdqbdbTyTz6JdO0T0Gb) | 4:08 |
 | 11 | [Djadja \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Djadja \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV) | 2:46 |
-| 12 | [Angel](https://open.spotify.com/track/0hRyt5qiE2pwTSAeeUS7lW) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [The Prince I Became](https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB) | 3:16 |
-| 13 | [Fuego \(with Sean Paul & Anitta, feat\. Tainy\)](https://open.spotify.com/track/660eekzsNZ7sdATvfIsAkR) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:15 |
+| 12 | [Fuego \(with Sean Paul & Anitta, feat\. Tainy\)](https://open.spotify.com/track/660eekzsNZ7sdATvfIsAkR) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:15 |
+| 13 | [Angel](https://open.spotify.com/track/0hRyt5qiE2pwTSAeeUS7lW) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [The Prince I Became](https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB) | 3:16 |
 | 14 | [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Touch It](https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c) | 2:45 |
 | 15 | [Sempe \- Remix](https://open.spotify.com/track/27aOnrAdyXMNTDInNoXcYj) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Lil Silvio](https://open.spotify.com/artist/0iEsMMMvNaDBX3l61sRkok) | [ZaZa Vibes \(Extended Version\)](https://open.spotify.com/album/1QFQBlZ2zwGRcwhPwEOCpQ) | 2:44 |
 | 16 | [Rotate](https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rotate](https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX) | 3:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [LOML \(feat\. Olamide\)](https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [LOML \(feat\. Olamide\)](https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH) | 3:16 |
 | 70 | [Eclipse Lunar](https://open.spotify.com/track/3Liew5UzQGzXWfjiwX5B4F) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Eclipse Lunar](https://open.spotify.com/album/1ctvqsXCBr04r5wmnSt8xn) | 3:13 |
 
-Snapshot ID: `MTY3NzgzMDUyOSwwMDAwMDAwMDllMWNhY2YxOGExOGY1MTUzZTFlYjkzN2JjYTcwODhh`
+Snapshot ID: `MTY3NzgzMDUyOSwwMDAwMDAwMDA3MzFlMzdlNmNjYzUxY2Y4YmZmMjhiYjlkOTc3YzBm`

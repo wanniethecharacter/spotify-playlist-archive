@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbck8sFsEQGj.md) - [plain]
 
 > Hottest tracks from Coke Studio Pakistan\. Cover: Talal Qureshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,752 likes - 42 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,832 likes - 42 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

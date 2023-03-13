@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: En Sokum(\uc740\uc18c\uae08)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 37150,
+  "num_followers": 37215,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM2MDQ2MiwwMDAwMDAwMDRiZjNjZWYxYjc3NjRiNzJhOTIxNTYwM2I0MmIxNjU2",
+  "snapshot_id": "MTY3NjM2MDQ2MiwwMDAwMDAwMGZjYzY2MmEwM2NjZDM4MjhiZmEwYTY0NDA5N2NmMzNh",
   "tracks": [
     {
       "added_at": "2023-02-14 07:41:01",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Love & Evil",
-        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
-      },
-      "artists": [
-        {
-          "name": "LOO\u03a0\u0394 1/3",
-          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
-        }
-      ],
-      "duration_ms": 187703,
-      "name": "You and Me Together",
-      "url": "https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "After a Long Time (Digging Club Seoul Ver.)",
         "url": "https://open.spotify.com/album/2tETtfB9qQGJ60gNmESEz3"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 252903,
       "name": "After a long time(Digging Club Seoul Ver.)",
       "url": "https://open.spotify.com/track/6PJ1sh2oLgYQE9hpUivC8k"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "duration_ms": 187703,
+      "name": "You and Me Together",
+      "url": "https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Onstage Digging Club Seoul THEME 01",
-        "url": "https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 252798,
-      "name": "Suddenly - Digging Club Seoul Version",
-      "url": "https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "& New",
         "url": "https://open.spotify.com/album/1p8YgPgFCXInpT5uM4PZoi"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 248078,
       "name": "& New",
       "url": "https://open.spotify.com/track/49U6ijIBwe6XZ2d2H7VDDe"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "Onstage Digging Club Seoul THEME 01",
+        "url": "https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 252798,
+      "name": "Suddenly - Digging Club Seoul Version",
+      "url": "https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
+        "name": "Naturalness",
+        "url": "https://open.spotify.com/album/2cKoCocQwbuvCRhGs9T2tW"
+      },
+      "artists": [
+        {
+          "name": "Dalshabet",
+          "url": "https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel"
+        }
+      ],
+      "duration_ms": 200767,
+      "name": "Someone like U",
+      "url": "https://open.spotify.com/track/4TmLdQlOV37Xp6mlyQAGBA"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Naturalness",
-        "url": "https://open.spotify.com/album/2cKoCocQwbuvCRhGs9T2tW"
-      },
-      "artists": [
-        {
-          "name": "Dalshabet",
-          "url": "https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel"
-        }
-      ],
-      "duration_ms": 200767,
-      "name": "Someone like U",
-      "url": "https://open.spotify.com/track/4TmLdQlOV37Xp6mlyQAGBA"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "[COSMOS]",
         "url": "https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "I Just Wanna Dance - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
-      },
-      "artists": [
-        {
-          "name": "TIFFANY",
-          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
-        }
-      ],
-      "duration_ms": 214490,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "THIS CITY",
         "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 194400,
       "name": "THIS CITY",
       "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "I Just Wanna Dance - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
+      },
+      "artists": [
+        {
+          "name": "TIFFANY",
+          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
+        }
+      ],
+      "duration_ms": 214490,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
     },
     {
       "added_at": "2023-02-14 07:41:01",

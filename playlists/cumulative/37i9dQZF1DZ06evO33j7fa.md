@@ -4,7 +4,7 @@
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 10 min
+45 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,10 +14,12 @@
 | [Been Smoking Too Long](https://open.spotify.com/track/0mpy4rRJcHILTMdnPatza8) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 2:13 | 2022-09-16 | 2023-03-04 |
 | [Been Smoking Too Long](https://open.spotify.com/track/5lOv3f1Q1R9pnCxLKO8tkM) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Digital Box Set](https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC) | 2:13 | 2023-03-03 |  |
 | [Black Eyed Dog](https://open.spotify.com/track/1ORNDo58BSH2uP0nNXJTT1) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:27 | 2022-09-16 |  |
+| [Blossom](https://open.spotify.com/track/0zF1Zat6vld8KFNjlowDMl) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Digital Box Set](https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC) | 2:41 | 2023-03-12 |  |
 | [Blues Run The Game](https://open.spotify.com/track/2x0iOnnRsVQDY4C8Pg7XoU) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 2:24 | 2022-09-16 | 2023-03-04 |
 | [Blues Run The Game](https://open.spotify.com/track/6vXiqeYFjrNfj5dBwbC4iP) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Digital Box Set](https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC) | 2:25 | 2023-03-03 |  |
 | [Clothes Of Sand](https://open.spotify.com/track/6YRcClEQPYq3yGOOgabbn3) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 2:31 | 2022-09-16 |  |
-| [Come Into The Garden \(Introduction\)](https://open.spotify.com/track/4PlLayYBWMf0C65EJVtXnS) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Digital Box Set](https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC) | 0:32 | 2023-03-05 |  |
+| [Come Into The Garden \(Introduction\)](https://open.spotify.com/track/1bSFWyVcamk2V5cSIzPvFj) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6YcM0ELCFt9WFdkye4ejxm) | 0:32 | 2023-03-12 |  |
+| [Come Into The Garden \(Introduction\)](https://open.spotify.com/track/4PlLayYBWMf0C65EJVtXnS) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Digital Box Set](https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC) | 0:32 | 2023-03-05 | 2023-03-13 |
 | [Come Into The Garden \(Introduction\)](https://open.spotify.com/track/4kBpRGDsUpGwkyu0q6kQQJ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 0:32 | 2022-09-16 | 2023-03-05 |
 | [Day Is Done](https://open.spotify.com/track/66790TBuwlIrGxWWTVc6yl) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 2:26 | 2022-09-16 |  |
 | [Fly](https://open.spotify.com/track/2laHHuyz8Pt5syFk7aXP5R) | [Chris Adams](https://open.spotify.com/artist/2aTr5YBE3BLn7KlHqExc8v), [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Beyond All Reasonable Doubt](https://open.spotify.com/album/4xQxAwjX8qceJNktf58itw) | 3:19 | 2022-12-09 |  |

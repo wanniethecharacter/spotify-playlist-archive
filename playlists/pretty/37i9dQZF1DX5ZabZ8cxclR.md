@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZabZ8cxclR.md) - [plain]
 
 > Enjoy the soundtrack of Broker! \(영화 브로커의 사운드트랙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,213 likes - 25 songs - 43 min 14 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,217 likes - 25 songs - 43 min 14 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Message from Jung Jae Il](https://open.spotify.com/track/3fY6Vvug3ipzNXaTAuo1ab) | [Jung Jae Il](https://open.spotify.com/artist/6H254DhyRvYsGdRz9tTsHa) | [Audio Liner \- Jung Jae Il](https://open.spotify.com/album/3YN91OIiII9YSO9zh8vUk3) | 0:23 |
 | 2 | [Staircases](https://open.spotify.com/track/2mjO5LcLtrklQ7aQCSciUg) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 1:45 |
-| 3 | [Bus Stop](https://open.spotify.com/track/4sHX6AmqHCxu2DKlv4YxnS) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [BROKER](https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08) | 0:43 |
+| 3 | [Bus Stop](https://open.spotify.com/track/0IKB0sdYNfXIvoxKWlh05D) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 0:43 |
 | 4 | [In The Beginning Was Rain](https://open.spotify.com/track/7y1Igrzzq5nwJSEoFFkYuS) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 2:28 |
 | 5 | [To Be a Bird](https://open.spotify.com/track/4XmDAEaBCJXz09e0OogXoG) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 4:55 |
 | 6 | [Eavesdrop](https://open.spotify.com/track/2lFxdoyIgacLzTc5lTZaNV) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 1:54 |
 | 7 | [Family Trip](https://open.spotify.com/track/3qgEqKt23APkQn3h74tdj5) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 2:48 |
 | 8 | [Follow the Dot](https://open.spotify.com/track/68x9drlczIcwxy0UqSTWYK) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 2:01 |
 | 9 | [Saddle the Wind](https://open.spotify.com/track/5QzUOwrWDdn42EhXHKcWJa) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 1:01 |
-| 10 | [See You When I See You](https://open.spotify.com/track/4QCGlNnDJAXJdTDHw2ixb9) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [BROKER](https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08) | 0:43 |
+| 10 | [See You When I See You](https://open.spotify.com/track/3SAUTXs424L3xaYODfS7xS) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 0:43 |
 | 11 | [Companiero](https://open.spotify.com/track/4P5fV7NVNeX9y4Z22K29va) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 1:08 |
 | 12 | [From Afar](https://open.spotify.com/track/66ixyDYaVBTqZTKghQzKjc) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 3:46 |
 | 13 | [The Box](https://open.spotify.com/track/0brGZ0l0rwNZgGo7HHjj2N) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [BROKER](https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08) | 0:38 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZabZ8cxclR.md) - [plain]
 | 24 | [Us](https://open.spotify.com/track/5KNk7pUqW70iv1AC4obcmU) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 2:05 |
 | 25 | [Prayer](https://open.spotify.com/track/1xcy2SRnKyhHt7jNWthFK5) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 1:17 |
 
-Snapshot ID: `MTY1NzE3NDg4OSwwMDAwMDAwMGYzNjdiMjU4NDgwOWYzNjI0OWRiNmE0ZDA3MGEwM2Y3`
+Snapshot ID: `MTY1NzE3NDg4OSwwMDAwMDAwMDA5MzRmMjAxZmI4MjE0MDgxNGEzNGVmY2I4MGZjMWRj`

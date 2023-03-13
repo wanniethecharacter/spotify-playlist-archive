@@ -1,13 +1,33 @@
 {
-  "description": "i'm a walking red flag and proud of it \ud83d\udea9",
-  "num_followers": 173135,
+  "description": "paul mescal deserves the world for aftersun ",
+  "num_followers": 173138,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwMjgwMCwwMDAwMDAwMGJlNmVjZTM4NzRmMmE1NDIxMDEwY2YwOTc2Mjg0M2E4",
+  "snapshot_id": "MTY3ODY1MzkwMiwwMDAwMDAwMGM5ZmUwMmJlZDJhNjBhOTAxYjA1YzgxYjViMmZjNzVl",
   "tracks": [
+    {
+      "added_at": "2023-03-12 20:45:02",
+      "album": {
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
+    },
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {

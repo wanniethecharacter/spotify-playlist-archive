@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1iiODxaiVpBp522dalIe9V.md) - [plain]
 
 > Hip hop heat from the Lone Star State featuring Megan Thee Stallion, Sauce Walka, Don Toliver, Travis Scott, Sunnitharapper, TrapboyDre10k, LilCJ Kasino, Sosamann, Peso Peso.
 
-[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,502 likes - 75 songs - 3 hr 36 min
+[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,500 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

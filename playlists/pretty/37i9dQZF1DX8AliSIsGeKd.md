@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Juliet Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,414 likes - 79 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,518 likes - 79 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

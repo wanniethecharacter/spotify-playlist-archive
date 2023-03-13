@@ -1,12 +1,12 @@
 {
   "description": "Uptempo gospel songs from West Africa to get you dancing and praising. ",
-  "num_followers": 33293,
+  "num_followers": 33411,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ1MTMxNCwwMDAwMDAwMDEyNzRiZGUwMTc0MzY1ZjgyNWRmMGJkNTVhNjIyNjNh",
+  "snapshot_id": "MTY3ODQ1MTMxNCwwMDAwMDAwMDZkYzgxMmFmYTZmYTUzYTk4YTc0MmM4MTM1NTMxOGM0",
   "tracks": [
     {
       "added_at": "2023-03-03 08:09:51",
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
     },
     {
-      "added_at": "2023-03-12 01:36:57",
+      "added_at": "2023-03-13 00:34:58",
       "album": {
         "name": "Greater",
         "url": "https://open.spotify.com/album/3uq6TjozBhH2dDBbkK88fU"
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Count Your Blessings (Remix)",
-        "url": "https://open.spotify.com/album/4qQNeCaIjxS1yh7zcfBO2p"
-      },
-      "artists": [
-        {
-          "name": "Lamboginny",
-          "url": "https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF"
-        },
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Count Your Blessings - Remix",
-      "url": "https://open.spotify.com/track/311qbzPKlmeK5VI2lCzPGn"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
         "name": "This can only be God",
         "url": "https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 218644,
       "name": "This can only be God",
       "url": "https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
+        "name": "Count Your Blessings (Remix)",
+        "url": "https://open.spotify.com/album/4qQNeCaIjxS1yh7zcfBO2p"
+      },
+      "artists": [
+        {
+          "name": "Lamboginny",
+          "url": "https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 181224,
+      "name": "Count Your Blessings - Remix",
+      "url": "https://open.spotify.com/track/311qbzPKlmeK5VI2lCzPGn"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
+        "name": "Come & See (Creative Version)",
+        "url": "https://open.spotify.com/album/6DIEcOqCnFOmwMw9TAxInT"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 433232,
+      "name": "Come & See",
+      "url": "https://open.spotify.com/track/6u15MnjmTHU0eeSn5ulhYZ"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
         "name": "NEVER FORGET",
         "url": "https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 217959,
       "name": "NEVER FORGET",
       "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
-        "name": "Come & See (Creative Version)",
-        "url": "https://open.spotify.com/album/6DIEcOqCnFOmwMw9TAxInT"
-      },
-      "artists": [
-        {
-          "name": "Joepraize",
-          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 433232,
-      "name": "Come & See",
-      "url": "https://open.spotify.com/track/6u15MnjmTHU0eeSn5ulhYZ"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Hosanna (Live)",
-        "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
+        "name": "Grateful Hearts",
+        "url": "https://open.spotify.com/album/2FgtNPBfKJVBq4nc4qjCxq"
       },
       "artists": [
         {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+          "name": "Joyful Way Incorporated",
+          "url": "https://open.spotify.com/artist/5DdIfWrYhLhQCi2jusXZnM"
         }
       ],
-      "duration_ms": 344862,
-      "name": "Hossana (Live)",
-      "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
+      "duration_ms": 850671,
+      "name": "Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day",
+      "url": "https://open.spotify.com/track/42nQ9vfTQsw4JCG2UOSnl5"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1087,34 +1087,38 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Grateful Hearts",
-        "url": "https://open.spotify.com/album/2FgtNPBfKJVBq4nc4qjCxq"
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
       },
       "artists": [
         {
-          "name": "Joyful Way Incorporated",
-          "url": "https://open.spotify.com/artist/5DdIfWrYhLhQCi2jusXZnM"
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
         }
       ],
-      "duration_ms": 850671,
-      "name": "Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day",
-      "url": "https://open.spotify.com/track/42nQ9vfTQsw4JCG2UOSnl5"
+      "duration_ms": 161333,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
     },
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "MELODY",
-        "url": "https://open.spotify.com/album/0ixZo2uyDnmSU95hYll2jQ"
+        "name": "Hosanna (Live)",
+        "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
       },
       "artists": [
         {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/73H0cSqI8qcSV5EvZ52LDg"
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
         }
       ],
-      "duration_ms": 324947,
-      "name": "Onye eze",
-      "url": "https://open.spotify.com/track/3Rr4jAOBZDxtvSQAjbFih8"
+      "duration_ms": 344862,
+      "name": "Hossana (Live)",
+      "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1135,22 +1139,18 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
+        "name": "MELODY",
+        "url": "https://open.spotify.com/album/0ixZo2uyDnmSU95hYll2jQ"
       },
       "artists": [
         {
-          "name": "King Dareal",
-          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/73H0cSqI8qcSV5EvZ52LDg"
         }
       ],
-      "duration_ms": 161333,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
+      "duration_ms": 324947,
+      "name": "Onye eze",
+      "url": "https://open.spotify.com/track/3Rr4jAOBZDxtvSQAjbFih8"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Come Alive (Deluxe)",
-        "url": "https://open.spotify.com/album/4D4aX5yCP3QMb8Thp10WHF"
-      },
-      "artists": [
-        {
-          "name": "All Nations Music",
-          "url": "https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU"
-        },
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 311623,
-      "name": "Come Alive (feat. Todd Dulaney)",
-      "url": "https://open.spotify.com/track/0vbNaNFCWorlaHrzsCli4w"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
         "name": "Afurum Gi Nanya",
         "url": "https://open.spotify.com/album/5MoKsBnpO108u2NAtwXTae"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 139320,
       "name": "Afurum Gi Nanya",
       "url": "https://open.spotify.com/track/55hhlxMF4pUKCzQzSaOSai"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
+        "name": "Come Alive (Deluxe)",
+        "url": "https://open.spotify.com/album/4D4aX5yCP3QMb8Thp10WHF"
+      },
+      "artists": [
+        {
+          "name": "All Nations Music",
+          "url": "https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 311623,
+      "name": "Come Alive (feat. Todd Dulaney)",
+      "url": "https://open.spotify.com/track/0vbNaNFCWorlaHrzsCli4w"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/22Y4oLdS0QPrzMmz8gQE6i"
-      },
-      "artists": [
-        {
-          "name": "Celebrate Africa",
-          "url": "https://open.spotify.com/artist/1DLPgNqNZFWY3n8Vp7Xyh8"
-        },
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 224203,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/43a4ZtP3TRzwWQiF3nU1Yr"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 309393,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2jPpjqNgpYiOfarRH5A1p2"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/22Y4oLdS0QPrzMmz8gQE6i"
+      },
+      "artists": [
+        {
+          "name": "Celebrate Africa",
+          "url": "https://open.spotify.com/artist/1DLPgNqNZFWY3n8Vp7Xyh8"
+        },
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 224203,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc"
     },
     {
       "added_at": "2023-03-03 08:09:51",

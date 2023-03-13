@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 108717,
+  "num_followers": 109208,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU1ODc4NSwwMDAwMDAwMDlkM2QzOGFjYjQ1NWI1MWJiMzljYTA4MzBmZTM1MDAy",
+  "snapshot_id": "MTY3NzU1ODc4NSwwMDAwMDAwMGYxOGJlMDJiMzc3NjY3YzUwYTA5MjQxOTI2YmI5OGJi",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
     },
     {
-      "added_at": "2023-03-12 01:01:34",
+      "added_at": "2023-03-13 00:45:04",
       "album": {
         "name": "Crux Australis",
         "url": "https://open.spotify.com/album/5NnNrnljeZVpPsW2lPfg4M"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx"
     },
     {
-      "added_at": "2023-03-12 01:01:34",
+      "added_at": "2023-03-13 00:45:04",
       "album": {
         "name": "Big Night",
         "url": "https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/5OyoVt6IEIqAXUFbCJ6TnV"
     },
     {
-      "added_at": "2023-03-12 01:01:34",
+      "added_at": "2023-03-13 00:45:04",
       "album": {
         "name": "Regresar (Vibes4YourSoul Remix)",
         "url": "https://open.spotify.com/album/2ek84DXerG63Z5QhSz79lA"
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 134220,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
       },
@@ -523,6 +507,26 @@
       "duration_ms": 219600,
       "name": "Hipn\u00f3tico",
       "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -551,22 +555,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        },
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
         }
       ],
-      "duration_ms": 234213,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
+      "duration_ms": 134220,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
     },
     {
       "added_at": "2022-09-29 01:47:59",
@@ -607,18 +607,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Sentir",
-        "url": "https://open.spotify.com/album/6JrZVD3zusGjBWMuT37q3z"
+        "name": "On te l'avait dit",
+        "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
       },
       "artists": [
         {
-          "name": "Ilse Hendrix",
-          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        },
+        {
+          "name": "Sir Jean",
+          "url": "https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0"
         }
       ],
-      "duration_ms": 228194,
-      "name": "Sentir",
-      "url": "https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx"
+      "duration_ms": 432963,
+      "name": "Spies Are Watching Me",
+      "url": "https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN"
     },
     {
       "added_at": "2022-07-01 02:43:42",
@@ -639,22 +643,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "On te l'avait dit",
-        "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
+        "name": "Sentir",
+        "url": "https://open.spotify.com/album/6JrZVD3zusGjBWMuT37q3z"
       },
       "artists": [
         {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
-        },
-        {
-          "name": "Sir Jean",
-          "url": "https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0"
+          "name": "Ilse Hendrix",
+          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
         }
       ],
-      "duration_ms": 432963,
-      "name": "Spies Are Watching Me",
-      "url": "https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN"
+      "duration_ms": 228194,
+      "name": "Sentir",
+      "url": "https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/4lvRuiCSvrrfmnAb4YHZHn"
     },
     {
-      "added_at": "2023-01-02 21:43:35",
-      "album": {
-        "name": "Noest\u00e1saqu\u00ed",
-        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
-      },
-      "artists": [
-        {
-          "name": "Caramelo Haze",
-          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Window Seat",
-      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Laberinto (Bosq Remix)",
@@ -1057,6 +1041,22 @@
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
     },
     {
+      "added_at": "2023-01-02 21:43:35",
+      "album": {
+        "name": "Noest\u00e1saqu\u00ed",
+        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
+      },
+      "artists": [
+        {
+          "name": "Caramelo Haze",
+          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Drama",
@@ -1071,22 +1071,6 @@
       "duration_ms": 213810,
       "name": "Mar\u00e9",
       "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Cenotes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0Gk9ZPx40L9vCMS2okBUTZ"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 262325,
-      "name": "Tecolotin",
-      "url": "https://open.spotify.com/track/3RvzGjAhYiOGNFToYyIdTH"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1107,6 +1091,22 @@
       "duration_ms": 207621,
       "name": "Paso a Huella - Captain Planet Remix",
       "url": "https://open.spotify.com/track/157GatsyJwcoaLGDD43duL"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Cenotes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Gk9ZPx40L9vCMS2okBUTZ"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 262325,
+      "name": "Tecolotin",
+      "url": "https://open.spotify.com/track/3RvzGjAhYiOGNFToYyIdTH"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Jallalla",
+        "url": "https://open.spotify.com/album/5GgPj1eGdTFiZefQYEPqOi"
+      },
+      "artists": [
+        {
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        }
+      ],
+      "duration_ms": 340616,
+      "name": "La Frontera",
+      "url": "https://open.spotify.com/track/7lcLZXcsDQmCLBzFjZZ3nF"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Apolinar",
         "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 181926,
       "name": "Tropical Gypsy",
       "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Jallalla",
-        "url": "https://open.spotify.com/album/5GgPj1eGdTFiZefQYEPqOi"
-      },
-      "artists": [
-        {
-          "name": "Lagartijeando",
-          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
-        },
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 340616,
-      "name": "La Frontera",
-      "url": "https://open.spotify.com/track/7lcLZXcsDQmCLBzFjZZ3nF"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1265,22 +1265,6 @@
       "url": "https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Ojos",
-        "url": "https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v"
-      },
-      "artists": [
-        {
-          "name": "Mente Org\u00e1nica",
-          "url": "https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT"
-        }
-      ],
-      "duration_ms": 310401,
-      "name": "Manos",
-      "url": "https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1"
-    },
-    {
       "added_at": "2022-11-03 18:27:44",
       "album": {
         "name": "Mientras Tanto",
@@ -1303,6 +1287,22 @@
       "duration_ms": 135000,
       "name": "Mientras Tanto",
       "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Ojos",
+        "url": "https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v"
+      },
+      "artists": [
+        {
+          "name": "Mente Org\u00e1nica",
+          "url": "https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT"
+        }
+      ],
+      "duration_ms": 310401,
+      "name": "Manos",
+      "url": "https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1"
     }
   ],
   "unique_name": "Tulum Vibes",

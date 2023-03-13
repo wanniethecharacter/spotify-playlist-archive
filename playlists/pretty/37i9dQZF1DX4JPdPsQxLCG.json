@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49692,
+  "num_followers": 49703,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMGExZTllNzQ3MTcyNDNhNjdmNWUyN2ZjOGJhYzg5MjI5",
+  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDZiZGYzNzJiMTY3MzlmMWRmZjJjNDc2MmUyMzNlYjYw",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The Thin Red Line (Deluxe)",
-        "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
-      },
-      "artists": [
-        {
-          "name": "Glass Tiger",
-          "url": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Don't Forget Me (When I'm Gone)",
-      "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Knock 'Em Dead Kid",
         "url": "https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 214253,
       "name": "We're Here For A Good Time (Not A Long Time)",
       "url": "https://open.spotify.com/track/5QSf82Wy6anGZ1NEUr1neJ"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "The Thin Red Line (Deluxe)",
+        "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
+      },
+      "artists": [
+        {
+          "name": "Glass Tiger",
+          "url": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Don't Forget Me (When I'm Gone)",
+      "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
+        "name": "Thick As Thieves",
+        "url": "https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0"
+      },
+      "artists": [
+        {
+          "name": "Trooper",
+          "url": "https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "Raise A Little Hell",
+      "url": "https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
         "name": "American Woman",
         "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
       },
@@ -1051,38 +1067,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Thick As Thieves",
-        "url": "https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0"
-      },
-      "artists": [
-        {
-          "name": "Trooper",
-          "url": "https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN"
-        }
-      ],
-      "duration_ms": 222426,
-      "name": "Raise A Little Hell",
-      "url": "https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 345013,
-      "name": "Hello, I'm In Delaware",
-      "url": "https://open.spotify.com/track/1PUh1GENlvlgu0dW28I6tY"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "We Are the Halluci Nation",
         "url": "https://open.spotify.com/album/2iQBWB6FgiNl1mrzNX7ei4"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 209981,
       "name": "R.E.D.",
       "url": "https://open.spotify.com/track/0E2ydjbrsOYbWFZzexOyYd"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 345013,
+      "name": "Hello, I'm In Delaware",
+      "url": "https://open.spotify.com/track/1PUh1GENlvlgu0dW28I6tY"
     },
     {
       "added_at": "2022-09-13 21:55:44",

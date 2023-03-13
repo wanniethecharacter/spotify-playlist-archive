@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 312999,
+  "num_followers": 313031,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ2MzUwNiwwMDAwMDAwMGM2NmRhYzc0OWU5NTQ5NzNkOTA3NzkzOTgzMDEwZmRm",
+  "snapshot_id": "MTY3ODQ2MzUwNiwwMDAwMDAwMDNmZGFlOTJkZjZlMTBmZmVhODVhZjFjZTQ0NjlhN2Rm",
   "tracks": [
     {
       "added_at": "2023-03-10 15:50:05",
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw"
     },
     {
-      "added_at": "2023-03-12 00:37:04",
+      "added_at": "2023-03-13 00:35:17",
       "album": {
         "name": "Holidays - Chromocosmic Avenue",
         "url": "https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz"
@@ -299,26 +299,6 @@
     {
       "added_at": "2023-03-10 15:50:05",
       "album": {
-        "name": "Cracker Island (feat. Thundercat)",
-        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Cracker Island (feat. Thundercat)",
-      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
-    },
-    {
-      "added_at": "2023-03-10 15:50:05",
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -339,34 +319,22 @@
     {
       "added_at": "2023-03-10 15:50:05",
       "album": {
-        "name": "High Times: Singles 1992-2006",
-        "url": "https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX"
+        "name": "Cracker Island (feat. Thundercat)",
+        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
       },
       "artists": [
         {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Virtual Insanity - Remastered",
-      "url": "https://open.spotify.com/track/2hNaljpWGHzwcIvkPIHMk7"
-    },
-    {
-      "added_at": "2023-03-10 15:50:05",
-      "album": {
-        "name": "Love From The Other Side",
-        "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
-      },
-      "artists": [
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 247320,
-      "name": "Love From The Other Side - Edit",
-      "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
+      "duration_ms": 213750,
+      "name": "Cracker Island (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
     },
     {
       "added_at": "2023-03-10 15:50:05",
@@ -383,6 +351,22 @@
       "duration_ms": 215251,
       "name": "00:00",
       "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
+    },
+    {
+      "added_at": "2023-03-10 15:50:05",
+      "album": {
+        "name": "Love From The Other Side",
+        "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "Love From The Other Side - Edit",
+      "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
     },
     {
       "added_at": "2023-03-10 15:50:05",
@@ -419,22 +403,6 @@
     {
       "added_at": "2023-03-10 15:50:05",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
-    },
-    {
-      "added_at": "2023-03-10 15:50:05",
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -447,6 +415,22 @@
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
+    },
+    {
+      "added_at": "2023-03-10 15:50:05",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
     },
     {
       "added_at": "2023-03-10 15:50:05",
@@ -907,6 +891,38 @@
     {
       "added_at": "2023-03-10 15:50:05",
       "album": {
+        "name": "Sonidos De Karm\u00e1tica Resonancia",
+        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 270906,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
+    },
+    {
+      "added_at": "2023-03-10 15:50:05",
+      "album": {
+        "name": "Jaibol",
+        "url": "https://open.spotify.com/album/1iLGWwqCD5NVbI81y5xFPM"
+      },
+      "artists": [
+        {
+          "name": "La Gusana Ciega",
+          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
+        }
+      ],
+      "duration_ms": 257240,
+      "name": "Hey!",
+      "url": "https://open.spotify.com/track/4f3M1o9elhV6gma79EoVRp"
+    },
+    {
+      "added_at": "2023-03-10 15:50:05",
+      "album": {
         "name": "Tonight (feat. Ezra Koenig)",
         "url": "https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV"
       },
@@ -943,38 +959,6 @@
     {
       "added_at": "2023-03-10 15:50:05",
       "album": {
-        "name": "Jaibol",
-        "url": "https://open.spotify.com/album/1iLGWwqCD5NVbI81y5xFPM"
-      },
-      "artists": [
-        {
-          "name": "La Gusana Ciega",
-          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
-        }
-      ],
-      "duration_ms": 257240,
-      "name": "Hey!",
-      "url": "https://open.spotify.com/track/4f3M1o9elhV6gma79EoVRp"
-    },
-    {
-      "added_at": "2023-03-10 15:50:05",
-      "album": {
-        "name": "Sonidos De Karm\u00e1tica Resonancia",
-        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 270906,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
-    },
-    {
-      "added_at": "2023-03-10 15:50:05",
-      "album": {
         "name": "Loving In Stereo",
         "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
@@ -991,22 +975,6 @@
     {
       "added_at": "2023-03-10 15:50:05",
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/31HPnd8Ss99acJ0MrHBQvu"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 194096,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/44Y47AT30lSl5iPMZr6o83"
-    },
-    {
-      "added_at": "2023-03-10 15:50:05",
-      "album": {
         "name": "Kinky (Remastered)",
         "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
       },
@@ -1019,6 +987,22 @@
       "duration_ms": 191000,
       "name": "Soun Tha Mi Primer Amor - Remastered",
       "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
+    },
+    {
+      "added_at": "2023-03-10 15:50:05",
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/31HPnd8Ss99acJ0MrHBQvu"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 194096,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/44Y47AT30lSl5iPMZr6o83"
     },
     {
       "added_at": "2023-03-10 15:50:05",
@@ -1187,6 +1171,26 @@
       "duration_ms": 212229,
       "name": "Kil\u00f3metros",
       "url": "https://open.spotify.com/track/6fAToGuBw5lPlWvzdzGyYx"
+    },
+    {
+      "added_at": "2023-03-10 15:50:05",
+      "album": {
+        "name": "Gal\u00e1ctica",
+        "url": "https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        },
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Gal\u00e1ctica",
+      "url": "https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL"
     }
   ],
   "unique_name": "mam\u00e1 cool",

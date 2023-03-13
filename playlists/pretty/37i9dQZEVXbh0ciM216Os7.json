@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5NzM3NDAsMDAwMDAwMDBlMDgzM2M1MzI1Y2FkMzdjZTliZWQyZGE1YWI0NjgxNg==",
+  "snapshot_id": "Mjc5NzM2ODAsMDAwMDAwMDBlYzgxMDlkYzAxZjQ2YjJmMjBhYTQ0ZDcyODZhM2E0ZA==",
   "tracks": [
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Insane (feat. Ant Clemons)",
         "url": "https://open.spotify.com/album/5dBWQQ0cqVGcYZZWRYlaY2"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/0RGYP9RGSXfAGFjSrDyhIQ"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Wings Of Time (From the Motion Picture Dungeons & Dragons: Honor Among Thieves)",
         "url": "https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Slide Again",
         "url": "https://open.spotify.com/album/1ehm10z6uOkUCa7chKy29H"
@@ -73,7 +73,35 @@
       "url": "https://open.spotify.com/track/680UAnBzIM0mKkXUpT5OyS"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
+      "album": {
+        "name": "Music to Get Rich To (feat. Ghostface Killah, Lorentz & Jahju16)",
+        "url": "https://open.spotify.com/album/0FaS0JzKiRNo4m5AkyCtI7"
+      },
+      "artists": [
+        {
+          "name": "Halon",
+          "url": "https://open.spotify.com/artist/6FsTyMvWygqPWyx4d1MvoT"
+        },
+        {
+          "name": "Lorentz",
+          "url": "https://open.spotify.com/artist/2QDnY1LY2mnzeeKGZLHoc7"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Jahju16",
+          "url": "https://open.spotify.com/artist/0NWqCsFrGXt0a7su3xJSaC"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Music to Get Rich To (feat. Ghostface Killah, Lorentz & Jahju16)",
+      "url": "https://open.spotify.com/track/1geGiUehw4HuopF0xo7f4p"
+    },
+    {
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "GAMBINOS",
         "url": "https://open.spotify.com/album/1ImmQnBFr1ej7uIV2Y8x69"
@@ -97,7 +125,7 @@
       "url": "https://open.spotify.com/track/0WlgUBuHQP5KEavW4uq1dc"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Sweet Southern Comfort",
         "url": "https://open.spotify.com/album/4omLcMWjPidak2J4cZtK22"
@@ -125,7 +153,7 @@
       "url": "https://open.spotify.com/track/7JSaBwtAXtQ91vE4HLVrqL"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Things I Like",
         "url": "https://open.spotify.com/album/77sn93da6cO2WivIKLaahQ"
@@ -141,7 +169,7 @@
       "url": "https://open.spotify.com/track/7ibnBtLC00cf6AFJFYmUlv"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Pontius Pilate's Home Movies",
         "url": "https://open.spotify.com/album/1i2UudOjUlX4RKyARPGbh1"
@@ -157,7 +185,7 @@
       "url": "https://open.spotify.com/track/152Ddv62y84DfPLEKTUKd5"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Rivers (Live At The Afas Live)",
         "url": "https://open.spotify.com/album/6aU1IBgcfYGEdJT37piNLN"
@@ -177,7 +205,7 @@
       "url": "https://open.spotify.com/track/6PRQE3khfCrdun9EmO1Fqx"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "All Nighter",
         "url": "https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV"
@@ -193,7 +221,7 @@
       "url": "https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Lofi And Chill (432 Hz)",
         "url": "https://open.spotify.com/album/17nSP6VsrUPyhsAeQGaZJL"
@@ -213,7 +241,7 @@
       "url": "https://open.spotify.com/track/3JrEDpJpAlTmFgHZQty1Rl"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
@@ -233,7 +261,7 @@
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "One For",
         "url": "https://open.spotify.com/album/4yW6K3Wd7BLHX3F3wGhsLK"
@@ -253,7 +281,7 @@
       "url": "https://open.spotify.com/track/79erxfnOS3GubC1BUAC8Jx"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Trucks Gone Wild",
         "url": "https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN"
@@ -273,7 +301,7 @@
       "url": "https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Cracker Island (Deluxe)",
         "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
@@ -293,7 +321,7 @@
       "url": "https://open.spotify.com/track/24LSAGp2LmT1Kd6y8PPFr2"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
@@ -309,7 +337,7 @@
       "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "We Didn't Start The Fire (Metal Version)",
         "url": "https://open.spotify.com/album/77icbyAjyuSGoqUi9pbNLA"
@@ -325,7 +353,7 @@
       "url": "https://open.spotify.com/track/7Bypq9FcdD9EPvuXmajovk"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Fuck Wit Y'All (Chopped & Screwed)",
         "url": "https://open.spotify.com/album/2BR7tCF7MQH9YGkfoSbtoG"
@@ -345,7 +373,7 @@
       "url": "https://open.spotify.com/track/0Su4rQjztMYBGnLvDP4iO1"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "If Darkness Had a Son",
         "url": "https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb"
@@ -361,7 +389,7 @@
       "url": "https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Hungry Heart ft. Hayley Kiyoko",
         "url": "https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu"
@@ -385,7 +413,7 @@
       "url": "https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Aged Eyes",
         "url": "https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG"
@@ -405,7 +433,7 @@
       "url": "https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Walk With Me",
         "url": "https://open.spotify.com/album/5E1hgax8y4HNmdqgTz0zUD"
@@ -425,7 +453,7 @@
       "url": "https://open.spotify.com/track/2FLXGK0uYcyG0rSWYRByGy"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "I Was Made For Lovin' You",
         "url": "https://open.spotify.com/album/0I49BKedDZNdkLSNjsq3PB"
@@ -445,7 +473,7 @@
       "url": "https://open.spotify.com/track/7kmvG897NnuVUfNuWL1dKr"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Gugle",
         "url": "https://open.spotify.com/album/3hxmWwG0G3IXdjbi2AyHEH"
@@ -469,7 +497,7 @@
       "url": "https://open.spotify.com/track/2Nf1D46vyEZYNbuCx0Y4iD"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Live At SoFi Stadium",
         "url": "https://open.spotify.com/album/1OARrXe5sB0gyy3MhQ8h92"
@@ -485,7 +513,7 @@
       "url": "https://open.spotify.com/track/1um00PH48BzDbULgyQyRUA"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Mami",
         "url": "https://open.spotify.com/album/0UJuzh4Dtev5lHXG696a1y"
@@ -501,7 +529,7 @@
       "url": "https://open.spotify.com/track/7GHzGRsozCmF7yI1fazXST"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Mike (desert island duvet)",
         "url": "https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa"
@@ -525,27 +553,7 @@
       "url": "https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Goodies - Knock2 Remix",
-        "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 209523,
-      "name": "Goodies - Knock2 Remix",
-      "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Blood Money Part Zer0",
         "url": "https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt"
@@ -561,7 +569,7 @@
       "url": "https://open.spotify.com/track/0Lqi31Ocwn2SdASbRoRmth"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/4l13qXR6ZTxw6wHBKTb0sg"
@@ -577,7 +585,7 @@
       "url": "https://open.spotify.com/track/0yY78nwNEr9mXkt1rAz8jl"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-10 04:00:00",
       "album": {
         "name": "Thousand Lifetimes (feat. Corey Glover of Living Colour)",
         "url": "https://open.spotify.com/album/2lYajN3YIVlefdcwxG4jV3"

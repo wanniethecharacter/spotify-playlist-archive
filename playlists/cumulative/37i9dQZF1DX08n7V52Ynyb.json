@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 312186,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/2pTg3UNkYi7dT5dghfUjjy"
@@ -1238,6 +1238,28 @@
       "duration_ms": 330746,
       "name": "I Will Wait For You",
       "url": "https://open.spotify.com/track/7C7KLdwjjIvCWcxPwmgvaV"
+    },
+    {
+      "album": {
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/5RXXDpraIIfdtZjGLKqp95"
+      },
+      "artists": [
+        {
+          "name": "Silva Thordardottir",
+          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
+        },
+        {
+          "name": "Steingr\u00edmur Teague",
+          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293700,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/2JlTDtzMu6P1RNT2ARoZb8"
     },
     {
       "album": {

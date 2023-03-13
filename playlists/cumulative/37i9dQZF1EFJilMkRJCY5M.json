@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Goodbye To All Of That, 2023",
+        "url": "https://open.spotify.com/album/5rJqKtbGfVUH8glGRtPVic"
+      },
+      "artists": [
+        {
+          "name": "The Wldlfe",
+          "url": "https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174137,
+      "name": "Both/And",
+      "url": "https://open.spotify.com/track/3MyHVOLCrWtItxITiaJvAy"
+    },
+    {
+      "album": {
         "name": "Break It",
         "url": "https://open.spotify.com/album/5Y8IvesNHyIUGuPzPy6St8"
       },

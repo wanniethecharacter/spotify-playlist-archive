@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 51998,
+  "num_followers": 52134,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMGY1ZmVkODFjZWNiNTUwMzM2M2M1Mzk2YTcxZWY4Nzdl",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMGUyNGZiZWZjMGY2YzIzODU1YjRiODY5M2VkNWFiZDYx",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Shepherd's Dog",
-        "url": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 241917,
-      "name": "Flightless Bird, American Mouth",
-      "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Veckatimest",
         "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 246213,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Shepherd's Dog",
+        "url": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 241917,
+      "name": "Flightless Bird, American Mouth",
+      "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Tallahassee",
-        "url": "https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX"
-      },
-      "artists": [
-        {
-          "name": "The Mountain Goats",
-          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
-        }
-      ],
-      "duration_ms": 168306,
-      "name": "No Children",
-      "url": "https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Cease To Begin",
         "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 259120,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Tallahassee",
+        "url": "https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 168306,
+      "name": "No Children",
+      "url": "https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "War Elephant",
-        "url": "https://open.spotify.com/album/0mOjYGdxvpusOVunsElaCq"
-      },
-      "artists": [
-        {
-          "name": "Deer Tick",
-          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "Baltimore Blues No. 1",
-      "url": "https://open.spotify.com/track/3Dy8QNZ77cre9ThUPRguy0"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Boxer",
         "url": "https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 205040,
       "name": "Fake Empire",
       "url": "https://open.spotify.com/track/7hanhZrUArC9qUerln4jh1"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "War Elephant",
+        "url": "https://open.spotify.com/album/0mOjYGdxvpusOVunsElaCq"
+      },
+      "artists": [
+        {
+          "name": "Deer Tick",
+          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Baltimore Blues No. 1",
+      "url": "https://open.spotify.com/track/3Dy8QNZ77cre9ThUPRguy0"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "And Then Nothing Turned Itself Inside-Out",
-        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "Our Way to Fall",
-      "url": "https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Trials of Van Occupanther",
         "url": "https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 286880,
       "name": "Roscoe",
       "url": "https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "And Then Nothing Turned Itself Inside-Out",
+        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "Our Way to Fall",
+      "url": "https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Hospice",
-        "url": "https://open.spotify.com/album/6fFp2F91noBeodV88bRwTD"
-      },
-      "artists": [
-        {
-          "name": "The Antlers",
-          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
-        }
-      ],
-      "duration_ms": 311240,
-      "name": "Kettering",
-      "url": "https://open.spotify.com/track/453spNn4mGdYErYt3rGhSX"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Crane Wife",
         "url": "https://open.spotify.com/album/4qvFBtRrwbSgoH3nyVlTCp"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 313600,
       "name": "Sons & Daughters",
       "url": "https://open.spotify.com/track/721tATaNQPPGSuC3dYEI3h"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Hospice",
+        "url": "https://open.spotify.com/album/6fFp2F91noBeodV88bRwTD"
+      },
+      "artists": [
+        {
+          "name": "The Antlers",
+          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+        }
+      ],
+      "duration_ms": 311240,
+      "name": "Kettering",
+      "url": "https://open.spotify.com/track/453spNn4mGdYErYt3rGhSX"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Mountain Rock",
-        "url": "https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy"
-      },
-      "artists": [
-        {
-          "name": "Dear Nora",
-          "url": "https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5"
-        }
-      ],
-      "duration_ms": 91320,
-      "name": "The Lonesome Border, Pt. 1",
-      "url": "https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Emotionalism (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pb5b6XKuzzh5CqPFOzptQ"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 279253,
       "name": "Jim Cain",
       "url": "https://open.spotify.com/track/3KZRkM7Uv0F2oCTUHAvv0a"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Mountain Rock",
+        "url": "https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy"
+      },
+      "artists": [
+        {
+          "name": "Dear Nora",
+          "url": "https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5"
+        }
+      ],
+      "duration_ms": 91320,
+      "name": "The Lonesome Border, Pt. 1",
+      "url": "https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Cassadaga",
-        "url": "https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB"
+        "name": "Woke On A Whaleheart",
+        "url": "https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH"
       },
       "artists": [
         {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
         }
       ],
-      "duration_ms": 256262,
-      "name": "Four Winds",
-      "url": "https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN"
+      "duration_ms": 335800,
+      "name": "Sycamore",
+      "url": "https://open.spotify.com/track/0do3zfmbVl5DiGxUXrbhrT"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Woke On A Whaleheart",
-        "url": "https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH"
+        "name": "Cassadaga",
+        "url": "https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB"
       },
       "artists": [
         {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
         }
       ],
-      "duration_ms": 335800,
-      "name": "Sycamore",
-      "url": "https://open.spotify.com/track/0do3zfmbVl5DiGxUXrbhrT"
+      "duration_ms": 256262,
+      "name": "Four Winds",
+      "url": "https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN"
     },
     {
       "added_at": "2022-02-04 22:01:34",

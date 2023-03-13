@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Rubén Figueroa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,926 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,988 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 57 | [El Beso De Judas](https://open.spotify.com/track/3ikFRM3ekAaqnoe9JwW0fP) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [El Beso De Judas](https://open.spotify.com/album/0CAIxZqRA8Gs6UfzZSrlhc) | 3:06 |
 | 58 | [Sigo De Pie \(En Vivo\)](https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sigo De Pie \(En Vivo\)](https://open.spotify.com/album/1XxcGwCslj56YQYgNgutWJ) | 3:20 |
 | 59 | [De La Nada](https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf), [Hd\_offisial](https://open.spotify.com/artist/5nKa5tAE66U8DCpVmR3AsX) | [De La Nada](https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ) | 4:24 |
-| 60 | [Contigo](https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Contigo](https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ) | 3:33 |
-| 61 | [Al Ladito De Mi Sombra](https://open.spotify.com/track/4qdPTE5pmLw6FdXTq8iwxw) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ) | [Al Ladito De Mi Sombra](https://open.spotify.com/album/1YAJoaesc067ftdir8W1EE) | 2:41 |
-| 62 | [El Sera Y El Chavo](https://open.spotify.com/track/63I3KP3FbfAztF5R8Kw5Td) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [El Sera Y El Chavo](https://open.spotify.com/album/6U6shLWotKyQwwvmIFiH8F) | 2:50 |
+| 60 | [El Sera Y El Chavo](https://open.spotify.com/track/63I3KP3FbfAztF5R8Kw5Td) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [El Sera Y El Chavo](https://open.spotify.com/album/6U6shLWotKyQwwvmIFiH8F) | 2:50 |
+| 61 | [Contigo](https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Contigo](https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ) | 3:33 |
+| 62 | [Al Ladito De Mi Sombra](https://open.spotify.com/track/4qdPTE5pmLw6FdXTq8iwxw) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ) | [Al Ladito De Mi Sombra](https://open.spotify.com/album/1YAJoaesc067ftdir8W1EE) | 2:41 |
 | 63 | [El Flaco](https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [El Flaco](https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd) | 2:27 |
 | 64 | [Pequeña y Fragíl](https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C) | [Pequeña y Fragíl](https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58) | 2:53 |
 | 65 | [Soy Nayarita](https://open.spotify.com/track/0YkJpBbsTm7oY7jfqrFZ6A) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Soy Nayarita](https://open.spotify.com/album/3DTxuAjvu0P7tZlEmdA6Pv) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 74 | [Hombre Normal](https://open.spotify.com/track/2ZrDe83QNYiddNxvsjzKyC) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Hombre Normal](https://open.spotify.com/album/5FUQoA6Vw1X6JsjSNVlM04) | 4:14 |
 | 75 | [Amorfoda](https://open.spotify.com/track/5elClHK2wxnC4qZqHWxC4L) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Amorfoda](https://open.spotify.com/album/6EV5tWxW11k6c107nDSA04) | 2:42 |
 
-Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMGNhOWI1ZDVkYWEyNDQ4ZTg1YmNhOWYzNDFkYjQzZTdh`
+Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMGUxZmExYjFhMGVlN2E4ZDc5NjZlZTM3MzgxZTM0M2I1`

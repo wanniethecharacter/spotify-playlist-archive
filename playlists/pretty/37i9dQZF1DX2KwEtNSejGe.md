@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KwEtNSejGe.md) - [plain]
 
 > songs you can't help but scream along to
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,063 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,931 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

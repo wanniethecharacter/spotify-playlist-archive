@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,063 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,067 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ju Mer Dom Spottar](https://open.spotify.com/track/3uVO0fpvKhuPCfGCAjJev0) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Fläcken Som Aldrig Går Bort](https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA) | 3:12 |
 | 2 | [Helt seriöst](https://open.spotify.com/track/6uucB29G6Y7LThzNfuRkiw) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Helt seriöst](https://open.spotify.com/album/5bymFthEXpFzkXps7bwXV3) | 3:03 |
 | 3 | [Miss Fatty](https://open.spotify.com/track/2bRP3HXbCzJ3l0F1Gv1deV) | [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [Miss Fatty](https://open.spotify.com/album/0JtZfRi3R7R9cvWVOJzhXg) | 3:57 |
-| 4 | [Naiv](https://open.spotify.com/track/5qFctlq6LI01bQYQmqWaje) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [Naiv](https://open.spotify.com/album/4nMAjfGIkpekF8vKQbxjzB) | 2:56 |
-| 5 | [Fakkin fin](https://open.spotify.com/track/02qoqHv29LQCBw1mymxlY5) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Garalaowit](https://open.spotify.com/album/1yEJRvVMeJD40BXtIUl0Me) | 4:02 |
+| 4 | [Fakkin fin](https://open.spotify.com/track/02qoqHv29LQCBw1mymxlY5) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Garalaowit](https://open.spotify.com/album/1yEJRvVMeJD40BXtIUl0Me) | 4:02 |
+| 5 | [Naiv](https://open.spotify.com/track/5qFctlq6LI01bQYQmqWaje) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [Naiv](https://open.spotify.com/album/4nMAjfGIkpekF8vKQbxjzB) | 2:56 |
 | 6 | [Vår betong](https://open.spotify.com/track/0RrWsDOJJQfodBZyNYeiLy) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [Vår betong](https://open.spotify.com/album/49Bkm31Gse04stXWXy1s5c) | 3:44 |
 | 7 | [Skin](https://open.spotify.com/track/4Y3ZFOlvVcLJGcjFxW8RI7) | [Ras Cricket](https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH) | [Min Tid](https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv) | 2:56 |
 | 8 | [1.000.000 Nollor](https://open.spotify.com/track/2zKQmG3vaoRpogBihuBb3p) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Fläcken Som Aldrig Går Bort](https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA) | 3:46 |
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 11 | [Smugglaren](https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0) | [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f), [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [One](https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI) | 4:20 |
 | 12 | [Spontanitet](https://open.spotify.com/track/7nriQOQo6oaMoD3ZBBP7cX) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Kalibreraren](https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR) | 3:14 |
 | 13 | [Polisen slår](https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7) | [Ras Cricket](https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH) | [Min Tid](https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv) | 3:46 |
-| 14 | [Nån Annan \(feat\. Jacco\)](https://open.spotify.com/track/0FDF7UebxnxtLZwJIsbnbB) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [Hela Livet](https://open.spotify.com/album/3ObxkdT65iK1fa2t5X7a8N) | 3:44 |
-| 15 | [Pang Pang](https://open.spotify.com/track/3xW8Zh2zLhuDpkUtSlwaBt) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Pang Pang](https://open.spotify.com/album/7xkDczPwYypYljYKRKZTjW) | 4:05 |
+| 14 | [Pang Pang](https://open.spotify.com/track/3xW8Zh2zLhuDpkUtSlwaBt) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Pang Pang](https://open.spotify.com/album/7xkDczPwYypYljYKRKZTjW) | 4:05 |
+| 15 | [Nån Annan \(feat\. Jacco\)](https://open.spotify.com/track/0FDF7UebxnxtLZwJIsbnbB) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [Hela Livet](https://open.spotify.com/album/3ObxkdT65iK1fa2t5X7a8N) | 3:44 |
 | 16 | [You Are My Angel](https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Natural](https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM) | 4:20 |
 | 17 | [Dimman](https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Dimman](https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r) | 3:37 |
 | 18 | [In Kommer Ting](https://open.spotify.com/track/21SZLKjYJQfoNS4pVbHQz6) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Fläcken Som Aldrig Går Bort](https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Bida Din Tid](https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Rotlösa Singlar](https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH) | 3:53 |
 | 50 | [Aina Älskar Reggae](https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb) | [LöstFolk](https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [The Tomtations Show](https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q) | 4:42 |
 
-Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMGZkM2I4ZTJiNmU4MjEzMzBiOWNlN2Q3M2IzNzJjMDYz`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMGM1MGYxMjU3MTAxNzEyNTMzYzM1NzVhYTQ2ZDljMzcw`

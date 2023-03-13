@@ -4,12 +4,12 @@
 
 > Royel Otis are our new RADAR artist to watch!
 
-215 songs - 11 hr 8 min
+218 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10's & 8's \(no 4's or 5's\)](https://open.spotify.com/track/26JfqluzJmS53ICnM7ADP7) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [burnt ur clothes & changed the addy](https://open.spotify.com/album/1glKNCGA70lAvykhx0Onr2) | 2:45 | 2022-11-10 |  |
-| [190](https://open.spotify.com/track/3Yl5Lbx1PC7UdVJFAIG342) | [Hugo Basclain](https://open.spotify.com/artist/0AMwJ7ohVHJl0iKC0CpdVG) | [190](https://open.spotify.com/album/0hFGnUbSIHMRq6SnIhOvRT) | 3:31 | 2022-11-10 |  |
+| [190](https://open.spotify.com/track/3Yl5Lbx1PC7UdVJFAIG342) | [Hugo Basclain](https://open.spotify.com/artist/0AMwJ7ohVHJl0iKC0CpdVG) | [190](https://open.spotify.com/album/0hFGnUbSIHMRq6SnIhOvRT) | 3:31 | 2022-11-10 | 2023-03-13 |
 | [About A Girl](https://open.spotify.com/track/68A10gwRQs1VHy7BgSjQJA) | [Kobie Dee](https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO) | [About A Girl](https://open.spotify.com/album/7cRJ3DLTPqNvYRB0JwQnuW) | 3:21 | 2021-10-15 | 2022-08-16 |
 | [All Good](https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Good](https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI) | 4:31 | 2023-03-02 |  |
 | [Anakin](https://open.spotify.com/track/2UwGt0YhbHfGoEUPgcMDs6) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Anakin](https://open.spotify.com/album/29sRzR6ZbXnEhH8jQfPss3) | 4:33 | 2022-08-15 | 2022-11-11 |
@@ -48,6 +48,7 @@
 | [Cotton Candy](https://open.spotify.com/track/4uA2YqAL6Pm2u8ECRUNJU8) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [Cotton Candy](https://open.spotify.com/album/4hn9fzp2FQfVWbWi9LXje6) | 2:16 | 2021-10-15 | 2022-08-16 |
 | [Cry](https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Cry](https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU) | 3:09 | 2022-08-15 | 2022-11-11 |
 | [DANCING ALL ALONE](https://open.spotify.com/track/3vHKqg3WDgtWA5unl5layh) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [DANCING ALL ALONE](https://open.spotify.com/album/6E1rMJkFB1eJwgyMQhN1mg) | 2:51 | 2023-03-02 |  |
+| [Dead End](https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Dead End](https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9) | 2:58 | 2023-03-12 |  |
 | [Deadweight](https://open.spotify.com/track/73g1ySW6QzK3u3iwTA6zBX) | [Olive Amun](https://open.spotify.com/artist/5pvcPGz8wKYEcV4cdXEZOv) | [Deadweight](https://open.spotify.com/album/0ip00vW7mfVphllwNShfUv) | 2:47 | 2021-10-15 | 2022-08-16 |
 | [Don't Stop the Car](https://open.spotify.com/track/72OrO3uJtMEGRlPyKLogvk) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [You'll Get It When You're Older](https://open.spotify.com/album/3Cyholll5qarrrlnIlxiCu) | 2:39 | 2023-03-02 |  |
 | [Drive Me Home](https://open.spotify.com/track/6p0QVqnCWpGw1nWdFoDFLe) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Unsolicited Advice for Your DIY Disaster](https://open.spotify.com/album/4pbYeo7Ey0SMWKsPjnHpd2) | 3:12 | 2021-10-15 | 2022-08-16 |
@@ -110,7 +111,7 @@
 | [it's not how it used to be](https://open.spotify.com/track/5eYJJXpmTUiIBdqnJDongW) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Breakfast for Dinner](https://open.spotify.com/album/6tCvXIIA6A6zmdtmCq1fiD) | 3:27 | 2022-08-28 | 2023-03-02 |
 | [it's not that bad](https://open.spotify.com/track/6iUsnQ0gqehflExGxmICBG) | [Caroline & Claude](https://open.spotify.com/artist/31KYVnV5N4VuzjfBXPZMMl) | [It's Not That Bad](https://open.spotify.com/album/0aSAgvZV6LfEf9KVfcLXz8) | 2:40 | 2022-08-15 | 2022-11-11 |
 | [Jinx](https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Jinx](https://open.spotify.com/album/1sOBPFuUVC0B1wFvVifEVp) | 2:46 | 2022-08-15 | 2023-03-02 |
-| [kill\[h\]er](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [kill\[h\]er](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 | 2023-03-02 |  |
+| [kill\[h\]er](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [kill\[h\]er](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 | 2023-03-02 | 2023-03-13 |
 | [Kool Aid](https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Kool Aid](https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph) | 3:36 | 2022-11-10 | 2023-03-02 |
 | [La Fiesta](https://open.spotify.com/track/6G0naKtVSu2Q1FS1ewQwYK) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [La Fiesta](https://open.spotify.com/album/6U8rFSFS3IbHR6tYBZUaKR) | 3:43 | 2021-10-15 | 2022-08-16 |
 | [Leave It All Behind](https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Leave It All Behind](https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh) | 3:55 | 2022-08-15 | 2023-03-02 |
@@ -125,7 +126,7 @@
 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-08-15 | 2022-11-25 |
 | [Me Myself & I](https://open.spotify.com/track/78Qk1m8zbvvvrmWH2M1yxT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:57 | 2022-11-10 | 2023-03-02 |
 | [Meet U Again](https://open.spotify.com/track/5olHyFqKwYuX4UNE1bHeBO) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Meet U Again](https://open.spotify.com/album/3Wf8JA1DpgNWqFLJEItImP) | 2:35 | 2022-08-15 | 2023-03-02 |
-| [Memories of You](https://open.spotify.com/track/180yjcIvKU1Vx6KifwaTU9) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Memories of You](https://open.spotify.com/album/1ddVg2hiXNHyNZHCkZ1NFh) | 3:21 | 2022-11-10 |  |
+| [Memories of You](https://open.spotify.com/track/180yjcIvKU1Vx6KifwaTU9) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Memories of You](https://open.spotify.com/album/1ddVg2hiXNHyNZHCkZ1NFh) | 3:21 | 2022-11-10 | 2023-03-13 |
 | [MEXICO](https://open.spotify.com/track/5lM91CtjHLkREYf1CVdcbE) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MEXICO](https://open.spotify.com/album/285ln9j6Hny71rTh3rV65n) | 2:14 | 2022-11-10 | 2023-03-02 |
 | [MF ILY](https://open.spotify.com/track/3EivEDlbLFYosFPcW9UiQl) | [iyah may](https://open.spotify.com/artist/060ow5U2oWdOVFgffCgpwp) | [MF ILY](https://open.spotify.com/album/2MELzbc2Ts8s3rZCFjdH4B) | 3:00 | 2021-10-15 | 2022-08-16 |
 | [Mid Years](https://open.spotify.com/track/3DweCW4XdD9BWzSjMkj0as) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Mid Years](https://open.spotify.com/album/6goF0ZEnG6xaySuYrYAeEH) | 2:58 | 2021-10-15 | 2022-08-16 |
@@ -155,6 +156,7 @@
 | [Price I Paid](https://open.spotify.com/track/6R8MZHzphXVrA0SBLCGD4I) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Price I Paid](https://open.spotify.com/album/34bqrZ8jJm2dDlGGfyjKGo) | 3:41 | 2021-10-15 | 2022-08-16 |
 | [Ready For The Sky](https://open.spotify.com/track/3XOX3I1JNdxQNGbMvXjEPY) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Ready For The Sky](https://open.spotify.com/album/6p57HASzXc9WVwpJTb0Pc4) | 3:17 | 2022-08-15 | 2023-03-02 |
 | [Rhythms](https://open.spotify.com/track/7B1k04cXHoNGF1ve0k3acD) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Rhythms](https://open.spotify.com/album/2J7YuvDTltVy6R3noYv416) | 3:15 | 2023-03-02 |  |
+| [Right Now \(Used in the motion picture SCREAM VI\)](https://open.spotify.com/track/7an15q8ChuA2zKrTidBXxW) | [Hugo Basclain](https://open.spotify.com/artist/0AMwJ7ohVHJl0iKC0CpdVG) | [NOSTALGIA IS A LIAR](https://open.spotify.com/album/1JIIi8lZLcdbPpu0HMl2Xa) | 3:14 | 2023-03-12 |  |
 | [Ripple](https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Ripple](https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks) | 3:34 | 2023-03-02 |  |
 | [Rollin'](https://open.spotify.com/track/1o8aLzMLNpW6wsMpVCpLpy) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Rollin'](https://open.spotify.com/album/5qVB1w5FpWODqzRjMT3mnN) | 2:43 | 2022-11-10 |  |
 | [Rolling Loud](https://open.spotify.com/track/7hTYdOc41vwhO8EBqRQNJ2) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Rolling Loud](https://open.spotify.com/album/0FudF3AQdTVQXVL2MV6TbP) | 2:55 | 2023-03-02 |  |
@@ -199,6 +201,7 @@
 | [Threads](https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd) | 3:52 | 2022-11-10 | 2023-03-02 |
 | [Threads](https://open.spotify.com/track/15oHRVscvEQR8zBWzsMVjI) | [Liyah Knight](https://open.spotify.com/artist/5We4m1ZNMQBteKJNc7CvhF) | [Threads](https://open.spotify.com/album/7thTWoiQF0LW9Jg6flrk2z) | 3:25 | 2021-10-15 | 2022-08-16 |
 | [Til The Death](https://open.spotify.com/track/0OUHnvZ9PD337H7k6zbTgY) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Til The Death](https://open.spotify.com/album/4mWRMbD7bTE2YTD6Q2UgoH) | 3:18 | 2021-10-15 | 2022-08-16 |
+| [Till You’re Ready](https://open.spotify.com/track/6uhOg5d86Bvr5KQ3Tj6eo1) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Till You’re Ready](https://open.spotify.com/album/77stMVoaQ9h2oIkHFbFXNU) | 2:56 | 2023-03-12 |  |
 | [Too Easy](https://open.spotify.com/track/4AjaZOpRvW2p6LbmkMBVZ8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [is it me, or is it you?](https://open.spotify.com/album/4ZSt8gHnOnfHZz4UMsgMH5) | 3:06 | 2022-11-10 | 2023-03-02 |
 | [Touch Me \(Hold My Hand\)](https://open.spotify.com/track/65WxintbjsESKlBJBlyGzK) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Esther / Touch Me \(Hold My Hand\)](https://open.spotify.com/album/3w2eNXuWshQnWBI8wurPbJ) | 4:01 | 2021-10-15 | 2022-08-16 |
 | [Trapped In L.A.](https://open.spotify.com/track/2RVOWW1qslpLW57CHoQ6dq) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Trapped In L.A.](https://open.spotify.com/album/3x53wtMGKU425IaCbQgaq1) | 2:08 | 2022-08-15 | 2022-11-11 |

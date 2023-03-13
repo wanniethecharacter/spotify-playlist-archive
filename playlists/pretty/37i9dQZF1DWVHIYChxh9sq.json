@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Luis Alfonso Partida El Yaki",
-  "num_followers": 49111,
+  "num_followers": 49143,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0MTIyMywwMDAwMDAwMDIwNmNkYmJjOTFmZDA3ZTg2YmNhOTFlZTljMmZiMWQy",
+  "snapshot_id": "MTY3NDg0MTIyMywwMDAwMDAwMDY1M2MzZGY4ZTg5MTQyNDRjZmE4NDRiN2RhYzNjZjFl",
   "tracks": [
     {
       "added_at": "2023-01-27 17:40:22",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "El Doble R (En Vivo)",
-        "url": "https://open.spotify.com/album/7pf3JcYWMmFGYNC8sCqmdv"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 144871,
-      "name": "El Doble R - En Vivo",
-      "url": "https://open.spotify.com/track/2WeNqWQXNq8gXhiSPvH0yZ"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "F\u00e1cil Criticar (En Vivo)",
         "url": "https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn"
       },
@@ -1007,8 +987,28 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Pisteando Con Amigos (En Vivo)",
-        "url": "https://open.spotify.com/album/3eyWMTbJs0XLxLaOaUFLSU"
+        "name": "El Doble R (En Vivo)",
+        "url": "https://open.spotify.com/album/7pf3JcYWMmFGYNC8sCqmdv"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 144871,
+      "name": "El Doble R - En Vivo",
+      "url": "https://open.spotify.com/track/2WeNqWQXNq8gXhiSPvH0yZ"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "El Apache (En Vivo)",
+        "url": "https://open.spotify.com/album/5TOmF3KlyehmdJRbkhAsTh"
       },
       "artists": [
         {
@@ -1016,13 +1016,17 @@
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
         }
       ],
-      "duration_ms": 180323,
-      "name": "El H (En Vivo)",
-      "url": "https://open.spotify.com/track/6053Is00EA36bQRzjvairQ"
+      "duration_ms": 168251,
+      "name": "El Apache (En Vivo)",
+      "url": "https://open.spotify.com/track/7htXI3zf9dS7UAWkoYVMqQ"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1283,22 +1287,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Chingo A Mi Madre (En Vivo)",
-        "url": "https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "duration_ms": 173053,
-      "name": "Chingo A Mi Madre - En Vivo",
-      "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "En Vivo Desde Hacienda Heights",
         "url": "https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl"
       },
@@ -1311,6 +1299,22 @@
       "duration_ms": 522409,
       "name": "Popurri De Cumbias (En Vivo)",
       "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "Chingo A Mi Madre (En Vivo)",
+        "url": "https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "duration_ms": 173053,
+      "name": "Chingo A Mi Madre - En Vivo",
+      "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1331,6 +1335,22 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
+        "name": "A La Antig\u00fcita (En Vivo)",
+        "url": "https://open.spotify.com/album/5jPw5qjvMpafTX2ynchnAh"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 164306,
+      "name": "A La Antig\u00fcita - En Vivo",
+      "url": "https://open.spotify.com/track/3qLGC9pnNACqjokQZA5iBZ"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
         "name": "La Chapiza (En Vivo)",
         "url": "https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6"
       },
@@ -1347,22 +1367,6 @@
       "duration_ms": 125956,
       "name": "La Chapiza - En Vivo",
       "url": "https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
-        "name": "A La Antig\u00fcita (En Vivo)",
-        "url": "https://open.spotify.com/album/5jPw5qjvMpafTX2ynchnAh"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 164306,
-      "name": "A La Antig\u00fcita - En Vivo",
-      "url": "https://open.spotify.com/track/3qLGC9pnNACqjokQZA5iBZ"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1543,22 +1547,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "B\u00e9lico X Siempre (En Vivo)",
-        "url": "https://open.spotify.com/album/6PvM8qWEQNvh7hcyVMkxOV"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "B\u00e9lico X Siempre - En Vivo",
-      "url": "https://open.spotify.com/track/67V38GVtNuQcuq7lcevAjh"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "De Lo M\u00e1s Interesante (En Vivo)",
         "url": "https://open.spotify.com/album/64ussNq7ErhaSSFbSkoKuv"
       },
@@ -1575,6 +1563,22 @@
       "duration_ms": 139000,
       "name": "De Lo M\u00e1s Interesante - En Vivo",
       "url": "https://open.spotify.com/track/11bCxgcltxjDErax0lBmKi"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "B\u00e9lico X Siempre (En Vivo)",
+        "url": "https://open.spotify.com/album/6PvM8qWEQNvh7hcyVMkxOV"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "B\u00e9lico X Siempre - En Vivo",
+      "url": "https://open.spotify.com/track/67V38GVtNuQcuq7lcevAjh"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1695,22 +1699,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Corridos En Vivo",
-        "url": "https://open.spotify.com/album/14SAq62aSgJcLqDc8iuyyF"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "Los Ninis (En Vivo)",
-      "url": "https://open.spotify.com/track/535Pqi5MSztvisF6Pw8F9W"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "L\u00e1rgate (En Vivo)",
         "url": "https://open.spotify.com/album/5EFOvXqlA0BNEzXlLqhJNF"
       },
@@ -1727,6 +1715,22 @@
       "duration_ms": 195000,
       "name": "L\u00e1rgate - En Vivo",
       "url": "https://open.spotify.com/track/3V4vwziUxmEPgVnzkRCEdg"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "Corridos En Vivo",
+        "url": "https://open.spotify.com/album/14SAq62aSgJcLqDc8iuyyF"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "Los Ninis (En Vivo)",
+      "url": "https://open.spotify.com/track/535Pqi5MSztvisF6Pw8F9W"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1839,22 +1843,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Desde el corral (En Vivo)",
-        "url": "https://open.spotify.com/album/6qsXUi1aIwzBroAPMh1mgU"
-      },
-      "artists": [
-        {
-          "name": "Los Humildes Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/22GEcjAc2Uvgl2neYIZwdL"
-        }
-      ],
-      "duration_ms": 167506,
-      "name": "Besos y Copas - En Vivo",
-      "url": "https://open.spotify.com/track/1OVjCXRrPSbYfDwMTSTXRF"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "Moneda Sin Valor (En Vivo)",
         "url": "https://open.spotify.com/album/1EHa53YtchjH74lSAoUusg"
       },
@@ -1879,6 +1867,22 @@
       "duration_ms": 197915,
       "name": "Moneda Sin Valor - En Vivo",
       "url": "https://open.spotify.com/track/1EnRBNHTSDsBFEjUl5JZfM"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "Desde el corral (En Vivo)",
+        "url": "https://open.spotify.com/album/6qsXUi1aIwzBroAPMh1mgU"
+      },
+      "artists": [
+        {
+          "name": "Los Humildes Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/22GEcjAc2Uvgl2neYIZwdL"
+        }
+      ],
+      "duration_ms": 167506,
+      "name": "Besos y Copas - En Vivo",
+      "url": "https://open.spotify.com/track/1OVjCXRrPSbYfDwMTSTXRF"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -2179,22 +2183,18 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "El Juan",
-        "url": "https://open.spotify.com/album/4L9mAa5eSsHZl94K4SYVEl"
+        "name": "En Vivo: Desde Los Cabos",
+        "url": "https://open.spotify.com/album/0SmEChk9jU13NLoMVT6bv7"
       },
       "artists": [
         {
-          "name": "Diego Herrera",
-          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
-        },
-        {
-          "name": "Humberto Herrera",
-          "url": "https://open.spotify.com/artist/3oGU6JOOVjwy1eChS1j4dC"
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
         }
       ],
-      "duration_ms": 138703,
-      "name": "El Juan - Vivo",
-      "url": "https://open.spotify.com/track/3vvMHwRReo6VdAYw7vNOhj"
+      "duration_ms": 151579,
+      "name": "Alma Enamorada - En Vivo",
+      "url": "https://open.spotify.com/track/5aFyH3gM15qZGmWe1C38Uf"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -2219,18 +2219,22 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "En Vivo: Desde Los Cabos",
-        "url": "https://open.spotify.com/album/0SmEChk9jU13NLoMVT6bv7"
+        "name": "El Juan",
+        "url": "https://open.spotify.com/album/4L9mAa5eSsHZl94K4SYVEl"
       },
       "artists": [
         {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+          "name": "Diego Herrera",
+          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
+        },
+        {
+          "name": "Humberto Herrera",
+          "url": "https://open.spotify.com/artist/3oGU6JOOVjwy1eChS1j4dC"
         }
       ],
-      "duration_ms": 151579,
-      "name": "Alma Enamorada - En Vivo",
-      "url": "https://open.spotify.com/track/5aFyH3gM15qZGmWe1C38Uf"
+      "duration_ms": 138703,
+      "name": "El Juan - Vivo",
+      "url": "https://open.spotify.com/track/3vvMHwRReo6VdAYw7vNOhj"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -2487,22 +2491,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "La Receta (En Vivo)",
-        "url": "https://open.spotify.com/album/3LeJnT1HvvXzr93VVXAQ1m"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "La Receta - En Vivo",
-      "url": "https://open.spotify.com/track/58QkaQHFlxKTQsf9neikRA"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "Aunque Est\u00e9s Lejos (Live Sessions from 16*83 Studios)",
         "url": "https://open.spotify.com/album/28lU2XaXtZwzZEgjw5FP6n"
       },
@@ -2515,6 +2503,22 @@
       "duration_ms": 200412,
       "name": "Aunque Estes Lejos - Live Sessions From 16*83 Studios",
       "url": "https://open.spotify.com/track/3OLb3I3L4nD4j28jULl8lj"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "La Receta (En Vivo)",
+        "url": "https://open.spotify.com/album/3LeJnT1HvvXzr93VVXAQ1m"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "La Receta - En Vivo",
+      "url": "https://open.spotify.com/track/58QkaQHFlxKTQsf9neikRA"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -2643,22 +2647,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Volumen 2",
-        "url": "https://open.spotify.com/album/0qKcVvwYT8omzgJOV5XODe"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 240648,
-      "name": "Hasta El D\u00eda De Hoy - En Vivo",
-      "url": "https://open.spotify.com/track/6NwYyRMf0y0g6hOsitO1Ex"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "Besos Y Copas (En Vivo)",
         "url": "https://open.spotify.com/album/46Y1UoLLf7GBVSwwR1jxKJ"
       },
@@ -2671,6 +2659,22 @@
       "duration_ms": 187061,
       "name": "Besos Y Copas (En Vivo)",
       "url": "https://open.spotify.com/track/0xHedGzkiufKRHj2S1hdSf"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "Peleando La Ciudad (En Vivo)",
+        "url": "https://open.spotify.com/album/4B95B43CS1GoJpYEnpCae9"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 207214,
+      "name": "Peleando La Ciudad (En Vivo)",
+      "url": "https://open.spotify.com/track/1xEii4pWw0awhAmkYO7Rap"
     }
   ],
   "unique_name": "M\u00fasica Mexicana En Vivo",

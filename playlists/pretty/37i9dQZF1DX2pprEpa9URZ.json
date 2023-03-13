@@ -1,15 +1,15 @@
 {
   "description": "A deep sound, combining electronic elements and organic instrumentation stemming from the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 693916,
+  "num_followers": 694143,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0Nzk5NywwMDAwMDAwMDM1NDk5MDAzYTFjNTYyOWRjOWY1ZTRhZTFkY2Q3YmNi",
+  "snapshot_id": "MTY3NjY0Nzk5NywwMDAwMDAwMDcxMzE5MjY4Y2YwMzA4ZWM2Y2FkYWFmNzI5ZjE5Mjk3",
   "tracks": [
     {
-      "added_at": "2023-03-12 01:25:12",
+      "added_at": "2023-03-13 01:12:59",
       "album": {
         "name": "Kamili",
         "url": "https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx"
     },
     {
-      "added_at": "2023-03-12 01:25:12",
+      "added_at": "2023-03-13 01:12:59",
       "album": {
         "name": "REKERE",
         "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
+      },
+      "artists": [
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        }
+      ],
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
         "name": "Man Dies Alone",
         "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 292000,
       "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
       "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
-      },
-      "artists": [
-        {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
-        }
-      ],
-      "duration_ms": 402545,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
     },
     {
-      "added_at": "2023-03-12 01:25:12",
+      "added_at": "2023-03-13 01:12:59",
       "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
@@ -931,18 +931,90 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/2lAfbgutc69q6qlCPIppjP"
+        "name": "Neko Ep",
+        "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
       },
       "artists": [
         {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+          "name": "Jacob Groening",
+          "url": "https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f"
+        },
+        {
+          "name": "Kotoe",
+          "url": "https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM"
         }
       ],
-      "duration_ms": 456745,
-      "name": "Amanecer",
-      "url": "https://open.spotify.com/track/4dsZt7bgIe1kVltGhbXP5D"
+      "duration_ms": 273523,
+      "name": "Neko (feat Kotoe)",
+      "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
+        "name": "Quem Sou Eu",
+        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
+      },
+      "artists": [
+        {
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+        }
+      ],
+      "duration_ms": 328912,
+      "name": "Quem Sou Eu",
+      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
+        "name": "Leave the Bones",
+        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 354043,
+      "name": "Kite Zo A",
+      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
+        "name": "Graceland",
+        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
+      },
+      "artists": [
+        {
+          "name": "Till Von Sein",
+          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
+        }
+      ],
+      "duration_ms": 405213,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -967,90 +1039,38 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/2lAfbgutc69q6qlCPIppjP"
       },
       "artists": [
         {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
         }
       ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
+      "duration_ms": 456745,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/4dsZt7bgIe1kVltGhbXP5D"
     },
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Neko Ep",
-        "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
+        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
       },
       "artists": [
         {
-          "name": "Jacob Groening",
-          "url": "https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f"
+          "name": "Urban Village",
+          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
         },
         {
-          "name": "Kotoe",
-          "url": "https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM"
+          "name": "Chlo\u00e9 (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
         }
       ],
-      "duration_ms": 273523,
-      "name": "Neko (feat Kotoe)",
-      "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
-        "name": "Graceland",
-        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
-      },
-      "artists": [
-        {
-          "name": "Till Von Sein",
-          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
-        }
-      ],
-      "duration_ms": 405213,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
-        "name": "Quem Sou Eu",
-        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
-      },
-      "artists": [
-        {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        }
-      ],
-      "duration_ms": 328912,
-      "name": "Quem Sou Eu",
-      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
-        "name": "Leave the Bones",
-        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 354043,
-      "name": "Kite Zo A",
-      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
+      "duration_ms": 384330,
+      "name": "Izivunguvungu - Chlo\u00e9 Remix",
+      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -1083,26 +1103,6 @@
       "duration_ms": 223637,
       "name": "Lotus - Radio Edit",
       "url": "https://open.spotify.com/track/3tx2LWG7qvk51C8A6d3qdg"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
-        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
-        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
-      },
-      "artists": [
-        {
-          "name": "Urban Village",
-          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
-        },
-        {
-          "name": "Chlo\u00e9 (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
-        }
-      ],
-      "duration_ms": 384330,
-      "name": "Izivunguvungu - Chlo\u00e9 Remix",
-      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
     }
   ],
   "unique_name": "Org\u00e1nica",

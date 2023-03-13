@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: SINDOSI:22) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 181479,
+  "num_followers": 181573,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5NTUwMCwwMDAwMDAwMDE4ZjU2N2E1NDg2ZGQ1ZDgyZmRiNDBkNTEyYTY4NzBl",
+  "snapshot_id": "MTY3ODA5NTUwMCwwMDAwMDAwMDc2MDRjYjBlMGIxNjFlZTkzN2U4NDdhMzgwMzk4YjI0",
   "tracks": [
     {
       "added_at": "2023-03-06 09:38:20",
@@ -483,8 +483,8 @@
     {
       "added_at": "2023-03-06 09:38:20",
       "album": {
-        "name": "Akita",
-        "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
+        "name": "Show Me The Money 10 Episode 3",
+        "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
       },
       "artists": [
         {
@@ -492,13 +492,13 @@
           "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
         },
         {
-          "name": "hartts",
-          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
         }
       ],
-      "duration_ms": 224293,
-      "name": "Akita (Feat. hartts) (Prod. OBSN)",
-      "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
+      "duration_ms": 220681,
+      "name": "Limousine (Feat. MINO) (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV"
     },
     {
       "added_at": "2023-03-06 09:38:20",
@@ -599,8 +599,8 @@
     {
       "added_at": "2023-03-06 09:38:20",
       "album": {
-        "name": "Show Me The Money 10 Episode 3",
-        "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
+        "name": "Akita",
+        "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
       },
       "artists": [
         {
@@ -608,13 +608,13 @@
           "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
         },
         {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+          "name": "hartts",
+          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
         }
       ],
-      "duration_ms": 220681,
-      "name": "Limousine (Feat. MINO) (Prod. GRAY)",
-      "url": "https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV"
+      "duration_ms": 224293,
+      "name": "Akita (Feat. hartts) (Prod. OBSN)",
+      "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
     },
     {
       "added_at": "2023-03-06 09:38:20",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-03-06 09:38:20",
       "album": {
-        "name": "Trippy",
-        "url": "https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Trippy",
-      "url": "https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj"
-    },
-    {
-      "added_at": "2023-03-06 09:38:20",
-      "album": {
         "name": "FREAK LIKE ME",
         "url": "https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 167706,
       "name": "FREAK LIKE ME",
       "url": "https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex"
+    },
+    {
+      "added_at": "2023-03-06 09:38:20",
+      "album": {
+        "name": "Trippy",
+        "url": "https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Trippy",
+      "url": "https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj"
     },
     {
       "added_at": "2023-03-06 09:38:20",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-03-06 09:38:20",
       "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "Run away",
+      "url": "https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5"
+    },
+    {
+      "added_at": "2023-03-06 09:38:20",
+      "album": {
         "name": "Show Me The Money 10 Episode 1",
         "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 370533,
       "name": "Wake Up (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/3ijq6sRH7PgRabMb83VvQO"
-    },
-    {
-      "added_at": "2023-03-06 09:38:20",
-      "album": {
-        "name": "TAKE",
-        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
-      },
-      "artists": [
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        }
-      ],
-      "duration_ms": 145706,
-      "name": "Run away",
-      "url": "https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5"
     },
     {
       "added_at": "2023-03-06 09:38:20",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-03-06 09:38:20",
       "album": {
-        "name": "Loop",
-        "url": "https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 155986,
-      "name": "Loop",
-      "url": "https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy"
-    },
-    {
-      "added_at": "2023-03-06 09:38:20",
-      "album": {
         "name": "Show Me the Money 777 Episode 1",
         "url": "https://open.spotify.com/album/6yr53YySD8G0GRwveBg835"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 206613,
       "name": "RING RING",
       "url": "https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V"
+    },
+    {
+      "added_at": "2023-03-06 09:38:20",
+      "album": {
+        "name": "Loop",
+        "url": "https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 155986,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy"
     },
     {
       "added_at": "2023-03-06 09:38:20",
@@ -1279,26 +1279,22 @@
     {
       "added_at": "2023-03-06 09:38:20",
       "album": {
-        "name": "pool vol. 1 - the way you move",
-        "url": "https://open.spotify.com/album/6qqLPbX9JdQmfia6WPMKdM"
+        "name": "School Rapper4 Semi Final 2",
+        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
       "artists": [
         {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+          "name": "PARKHYUNJIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
         },
         {
-          "name": "Rovv",
-          "url": "https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy"
-        },
-        {
-          "name": "Sweet The Kid",
-          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 149479,
-      "name": "the way you move",
-      "url": "https://open.spotify.com/track/6V63olQ6UOmPqRgcO0bEcb"
+      "duration_ms": 213626,
+      "name": "PARADISE (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
     },
     {
       "added_at": "2023-03-06 09:38:20",
@@ -1339,26 +1335,6 @@
     {
       "added_at": "2023-03-06 09:38:20",
       "album": {
-        "name": "School Rapper4 Semi Final 2",
-        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
-      },
-      "artists": [
-        {
-          "name": "PARKHYUNJIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "PARADISE (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
-    },
-    {
-      "added_at": "2023-03-06 09:38:20",
-      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 217773,
       "name": "Rich Kids Anthem (Feat. Lee Hi)",
       "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
+    },
+    {
+      "added_at": "2023-03-06 09:38:20",
+      "album": {
+        "name": "pool vol. 1 - the way you move",
+        "url": "https://open.spotify.com/album/6qqLPbX9JdQmfia6WPMKdM"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        },
+        {
+          "name": "Rovv",
+          "url": "https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy"
+        },
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "duration_ms": 149479,
+      "name": "the way you move",
+      "url": "https://open.spotify.com/track/6V63olQ6UOmPqRgcO0bEcb"
     },
     {
       "added_at": "2023-03-06 09:38:20",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2023-03-06 09:38:20",
       "album": {
-        "name": "Double-sidedness",
-        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 199064,
-      "name": "Deep Sea (Feat. BE'O)",
-      "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
-    },
-    {
-      "added_at": "2023-03-06 09:38:20",
-      "album": {
         "name": "FRIENDS",
         "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 190690,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
+    },
+    {
+      "added_at": "2023-03-06 09:38:20",
+      "album": {
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 199064,
+      "name": "Deep Sea (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
     },
     {
       "added_at": "2023-03-06 09:38:20",
@@ -1523,6 +1523,30 @@
     {
       "added_at": "2023-03-06 09:38:20",
       "album": {
+        "name": "LOVE MAZE",
+        "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 227560,
+      "name": "NG (Feat. pH-1, Jay Park)",
+      "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
+    },
+    {
+      "added_at": "2023-03-06 09:38:20",
+      "album": {
         "name": "COCO BOTTLE",
         "url": "https://open.spotify.com/album/18T01XcLc1WzIZ3bCzwOsg"
       },
@@ -1555,30 +1579,6 @@
       "duration_ms": 231413,
       "name": "Meeting is easy, parting is hard (Feat. Leellamarz) (Prod. TOIL)",
       "url": "https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev"
-    },
-    {
-      "added_at": "2023-03-06 09:38:20",
-      "album": {
-        "name": "LOVE MAZE",
-        "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
-      },
-      "artists": [
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 227560,
-      "name": "NG (Feat. pH-1, Jay Park)",
-      "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
     },
     {
       "added_at": "2023-03-06 09:38:20",

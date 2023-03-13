@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran, con m\u00fasica y acciones. Cover: KAROL G",
-  "num_followers": 613706,
+  "num_followers": 613949,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDk1OTZkMmQ2MTRhMTkyZjIyNzYxODZmYzgwYmVhOTU0",
+  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDZkMzgyMGM1NGE2Mzk5MDliNWE2Mjg5ZDBhYTBjZWEx",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "NO voy a llorar :')",
+        "url": "https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 178874,
+      "name": "NO voy a llorar :')",
+      "url": "https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "En Extasis",
         "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 282893,
       "name": "Piel Morena",
       "url": "https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Nobody Like Yo",
-        "url": "https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Nobody Like Yo",
-      "url": "https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Nobody Like Yo",
+        "url": "https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Nobody Like Yo",
+      "url": "https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Psycho B**ch",
         "url": "https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 167360,
       "name": "Psycho B**ch",
       "url": "https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "NO voy a llorar :')",
-        "url": "https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 178874,
-      "name": "NO voy a llorar :')",
-      "url": "https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW"
     },
     {
       "added_at": "2023-03-10 05:01:00",

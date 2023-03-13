@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 185781,
+  "num_followers": 185785,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwNjAyNywwMDAwMDAwMDBkNTMyYTNiNWE1OTM3OTVkOWQ0NGQ2NWZiZTc4YmQ5",
+  "snapshot_id": "MTY2NTcwNjAyNywwMDAwMDAwMDMxNWMyOTk3MjJiMWE3ZmVmN2FmYTQwZGMwYmZlYmI3",
   "tracks": [
     {
       "added_at": "2021-11-01 17:39:36",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "El Tren de la Alegr\u00eda",
-        "url": "https://open.spotify.com/album/5bdtr6jYC4Lqm8gkfebEG6"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "El Fantasma Enamorado",
-      "url": "https://open.spotify.com/track/02VciW1DGSHEyxt61nMElb"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Serie Diamante (USA)",
         "url": "https://open.spotify.com/album/2eoBGUFrJZobGxGpwZ7dAp"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 195533,
       "name": "Paloma negra",
       "url": "https://open.spotify.com/track/2ib9PWWqtNyw9rff0qcm5G"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "El Tren de la Alegr\u00eda",
+        "url": "https://open.spotify.com/album/5bdtr6jYC4Lqm8gkfebEG6"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "El Fantasma Enamorado",
+      "url": "https://open.spotify.com/track/02VciW1DGSHEyxt61nMElb"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Flor de Biznaga",
-        "url": "https://open.spotify.com/album/4LWaaqC9aAr5OhNsWqOZ3J"
-      },
-      "artists": [
-        {
-          "name": "Ampersan",
-          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
-        }
-      ],
-      "duration_ms": 370120,
-      "name": "Colores",
-      "url": "https://open.spotify.com/track/5dLoAn6kUOAlO6Aolf9rey"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Suite Mexicana de Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 236346,
       "name": "Janitzio",
       "url": "https://open.spotify.com/track/2ViwuwrjUKpop2PxROUJP5"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Flor de Biznaga",
+        "url": "https://open.spotify.com/album/4LWaaqC9aAr5OhNsWqOZ3J"
+      },
+      "artists": [
+        {
+          "name": "Ampersan",
+          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
+        }
+      ],
+      "duration_ms": 370120,
+      "name": "Colores",
+      "url": "https://open.spotify.com/track/5dLoAn6kUOAlO6Aolf9rey"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -959,22 +959,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Pasajeros",
-        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
-      },
-      "artists": [
-        {
-          "name": "Espumas y Terciopelo",
-          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Pasajeros",
-      "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/3sV4fTa3XvPRJEF1MSWpks"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 348544,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/4c9VVKlTrfrIzNbEyDWYzO"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Pasajeros",
+        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
+      },
+      "artists": [
+        {
+          "name": "Espumas y Terciopelo",
+          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Pasajeros",
+      "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Canciones de D\u00eda de Muertos",
-        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
-      },
-      "artists": [
-        {
-          "name": "CARLOS AZCUAGA",
-          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Calaverita de Az\u00facar",
-      "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Rosa Mexicano",
         "url": "https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 164080,
       "name": "Monton de Tierra",
       "url": "https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Canciones de D\u00eda de Muertos",
+        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
+      },
+      "artists": [
+        {
+          "name": "CARLOS AZCUAGA",
+          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Calaverita de Az\u00facar",
+      "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Siguiente",
-        "url": "https://open.spotify.com/album/1Px6ATcmtKsrP7WAKmbch3"
-      },
-      "artists": [
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        }
-      ],
-      "duration_ms": 204680,
-      "name": "Era Mi Abuelo",
-      "url": "https://open.spotify.com/track/6fCvxTPA1u5ov55svizA97"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Alfonsina y el Mar (Remasterizado)",
         "url": "https://open.spotify.com/album/0eJA4NkiiRl68lTXSYaPAr"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 245644,
       "name": "Gracias a la Vida",
       "url": "https://open.spotify.com/track/1fi85DWMkQEmQfR5odB40c"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Siguiente",
+        "url": "https://open.spotify.com/album/1Px6ATcmtKsrP7WAKmbch3"
+      },
+      "artists": [
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 204680,
+      "name": "Era Mi Abuelo",
+      "url": "https://open.spotify.com/track/6fCvxTPA1u5ov55svizA97"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs"
+        "name": "Tres Canciones Nuevas",
+        "url": "https://open.spotify.com/album/1t3hGZtxBBXWmWGCuFM6QH"
       },
       "artists": [
         {
-          "name": "Susana Harp",
-          "url": "https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo"
+          "name": "Espanto",
+          "url": "https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ"
         }
       ],
-      "duration_ms": 207280,
-      "name": "La Catrina",
-      "url": "https://open.spotify.com/track/3UPnYhcztFLQ1snJlB0CYt"
+      "duration_ms": 184351,
+      "name": "Los Esqueletos",
+      "url": "https://open.spotify.com/track/2evbt2sweKafw1Xx6tUVq6"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Tres Canciones Nuevas",
-        "url": "https://open.spotify.com/album/1t3hGZtxBBXWmWGCuFM6QH"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs"
       },
       "artists": [
         {
-          "name": "Espanto",
-          "url": "https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ"
+          "name": "Susana Harp",
+          "url": "https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo"
         }
       ],
-      "duration_ms": 184351,
-      "name": "Los Esqueletos",
-      "url": "https://open.spotify.com/track/2evbt2sweKafw1Xx6tUVq6"
+      "duration_ms": 207280,
+      "name": "La Catrina",
+      "url": "https://open.spotify.com/track/3UPnYhcztFLQ1snJlB0CYt"
     },
     {
       "added_at": "2021-11-01 17:39:36",

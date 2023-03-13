@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Valdes.",
-  "num_followers": 53687,
+  "num_followers": 53695,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMGE3MjA1NzY4NGM0NDgyZWNhOGJmYzQ4MDAxOTU0YzVj",
+  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMGE1YmM1YTgzMmRmNWU1MGNiMGI0Zjk1MzFkNjEzMmFj",
   "tracks": [
     {
       "added_at": "2022-11-11 21:41:34",
@@ -95,18 +95,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Dark Folk, Vol.1",
-        "url": "https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu"
+        "name": "Un Koala En Una Palmera",
+        "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
       },
       "artists": [
         {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Amor Con Filo",
-      "url": "https://open.spotify.com/track/0wq8bmjHq0ECOj2BpivYhX"
+      "duration_ms": 183529,
+      "name": "Curarte",
+      "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -127,18 +127,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Un Koala En Una Palmera",
-        "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
+        "name": "Dark Folk, Vol.1",
+        "url": "https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu"
       },
       "artists": [
         {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Curarte",
-      "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
+      "duration_ms": 178000,
+      "name": "Amor Con Filo",
+      "url": "https://open.spotify.com/track/0wq8bmjHq0ECOj2BpivYhX"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Ser De Ti",
-      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Pa Poderte Ver",
         "url": "https://open.spotify.com/album/3SAtWLXztoa1yCChDBa7sk"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 166207,
       "name": "Pa Poderte Ver",
       "url": "https://open.spotify.com/track/43hSlJcM3EZeocev7yCNKX"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Ser De Ti",
+      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Aquellos Misterios",
-        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 149625,
-      "name": "Aquellos Misterios",
-      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "COLAPSO",
         "url": "https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 209247,
       "name": "COLAPSO",
       "url": "https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Aquellos Misterios",
+        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 149625,
+      "name": "Aquellos Misterios",
+      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Ni\u00f1a",
+        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 200245,
+      "name": "Ni\u00f1a",
+      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Tu Despedida",
         "url": "https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 223349,
       "name": "Sigo Llorando",
       "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Ni\u00f1a",
-        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 200245,
-      "name": "Ni\u00f1a",
-      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Pedazos",
+        "url": "https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 164999,
+      "name": "Pedazos",
+      "url": "https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Tranki Town",
         "url": "https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 233671,
       "name": "La Poesia Intermitente",
       "url": "https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Pedazos",
-        "url": "https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 164999,
-      "name": "Pedazos",
-      "url": "https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1435,8 +1435,8 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Simona a Guitarra y Voz (Lado A)",
-        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
+        "name": "Isla",
+        "url": "https://open.spotify.com/album/4vT2DYTDbxcsY6uHohDshb"
       },
       "artists": [
         {
@@ -1444,9 +1444,9 @@
           "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
         }
       ],
-      "duration_ms": 247636,
-      "name": "Paredes Finas",
-      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
+      "duration_ms": 222729,
+      "name": "Isla",
+      "url": "https://open.spotify.com/track/3B32feO30ttYUIIFe0RD0l"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1607,8 +1607,8 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Isla",
-        "url": "https://open.spotify.com/album/4vT2DYTDbxcsY6uHohDshb"
+        "name": "Simona a Guitarra y Voz (Lado A)",
+        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
       },
       "artists": [
         {
@@ -1616,9 +1616,25 @@
           "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
         }
       ],
-      "duration_ms": 222729,
-      "name": "Isla",
-      "url": "https://open.spotify.com/track/3B32feO30ttYUIIFe0RD0l"
+      "duration_ms": 247636,
+      "name": "Paredes Finas",
+      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Respirar de Nuevo",
+        "url": "https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On"
+      },
+      "artists": [
+        {
+          "name": "Margarita Pla",
+          "url": "https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii"
+        }
+      ],
+      "duration_ms": 273511,
+      "name": "No Te Acerques Tanto a M\u00ed",
+      "url": "https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Respirar de Nuevo",
-        "url": "https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On"
-      },
-      "artists": [
-        {
-          "name": "Margarita Pla",
-          "url": "https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii"
-        }
-      ],
-      "duration_ms": 273511,
-      "name": "No Te Acerques Tanto a M\u00ed",
-      "url": "https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Meteorito",
         "url": "https://open.spotify.com/album/4nRJxicIb0T5H78HR9vaoe"
       },
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Pasajeros",
-        "url": "https://open.spotify.com/album/71slCIIGbJjaIpH8VHUAww"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 165205,
-      "name": "Pasajeros",
-      "url": "https://open.spotify.com/track/65VrYowEhFUUuyK8DQKdHY"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Un Caf\u00e9",
         "url": "https://open.spotify.com/album/0WkFkZMYw79SJMLPzoL3AG"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 215690,
       "name": "Un Caf\u00e9",
       "url": "https://open.spotify.com/track/3b1Hvw1zcIKPMtO8hw2Cpc"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Pasajeros",
+        "url": "https://open.spotify.com/album/71slCIIGbJjaIpH8VHUAww"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 165205,
+      "name": "Pasajeros",
+      "url": "https://open.spotify.com/track/65VrYowEhFUUuyK8DQKdHY"
     },
     {
       "added_at": "2022-11-11 21:41:34",

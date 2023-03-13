@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Hatebreeder (International Edition)",
+        "url": "https://open.spotify.com/album/55H8LerEv2RiQ219d9oPeA"
+      },
+      "artists": [
+        {
+          "name": "Children Of Bodom",
+          "url": "https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267612,
+      "name": "Aces High",
+      "url": "https://open.spotify.com/track/0M9DMRvqGZWKxg3DQtYEic"
+    },
+    {
+      "album": {
         "name": "Heart Beats Pacific",
         "url": "https://open.spotify.com/album/41Zyth4BpMZZyr5xWngKR7"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 134706,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/7yhPFKShKFymungjXhdYxZ"
@@ -214,7 +232,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 219800,
       "name": "Architecture Of Aggression",
       "url": "https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 412720,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/3R94Q75KX8DBA5N3sdOgCV"
@@ -524,7 +542,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 243531,
       "name": "Hammer To Fall - Live Aid",
       "url": "https://open.spotify.com/track/5ekobRVHvm435Eipr1StAg"
@@ -542,10 +560,28 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 186866,
       "name": "Hands Down",
       "url": "https://open.spotify.com/track/6yVSp9H2STyLeOs7pjy2w4"
+    },
+    {
+      "album": {
+        "name": "I Wanna Die in Los Angeles",
+        "url": "https://open.spotify.com/album/4uJeecYvf6JU7EF9LtLIw9"
+      },
+      "artists": [
+        {
+          "name": "Dead To Me",
+          "url": "https://open.spotify.com/artist/0WwbVkYbderW7JeP79ApoL"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142440,
+      "name": "I Wanna Die in Los Angeles",
+      "url": "https://open.spotify.com/track/0CDKEvcZFbZO1YTgpZxZno"
     },
     {
       "album": {
@@ -560,7 +596,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 295480,
       "name": "I Want to Know What Love Is - 2008 Remaster",
       "url": "https://open.spotify.com/track/5DeXQ3qADuDmqsosnZAK3o"
@@ -582,6 +618,60 @@
       "duration_ms": 53560,
       "name": "Initialization Sequence",
       "url": "https://open.spotify.com/track/5XRudtFV1XrzVETUVuJbZc"
+    },
+    {
+      "album": {
+        "name": "Inquisition Symphony",
+        "url": "https://open.spotify.com/album/43ZBK0wkWhW6v5Pdx7ht6d"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297200,
+      "name": "Inquisition Symphony - Instrumental Version",
+      "url": "https://open.spotify.com/track/0sLaYWSKsutAHx3ZXe0WTW"
+    },
+    {
+      "album": {
+        "name": "Bohemian Rhapsody (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236083,
+      "name": "Keep Yourself Alive - Live At The Rainbow",
+      "url": "https://open.spotify.com/track/34pz8XUZRfw04lk4DPtwa7"
+    },
+    {
+      "album": {
+        "name": "Shogun (Special Edition)",
+        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387400,
+      "name": "Kirisute Gomen",
+      "url": "https://open.spotify.com/track/5oELEE5XmqWw9gIFsb878g"
     },
     {
       "album": {
@@ -614,10 +704,28 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 250186,
       "name": "Lord Is It Mine - 2010 Remastered",
       "url": "https://open.spotify.com/track/3AUpYeScJOpYf8psTIz62l"
+    },
+    {
+      "album": {
+        "name": "Love Beyond The Grave",
+        "url": "https://open.spotify.com/album/3hyQLmDtP4UQ1sjXgi7wWj"
+      },
+      "artists": [
+        {
+          "name": "Crocodiles",
+          "url": "https://open.spotify.com/artist/1Z4Erxt5wSXH0gbOsVJUMv"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193844,
+      "name": "Love Beyond The Grave",
+      "url": "https://open.spotify.com/track/53BjsI3Lv1SIlExxGAb4p5"
     },
     {
       "album": {
@@ -729,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Need You Like",
+        "url": "https://open.spotify.com/album/0uECcKilcsQ7i0U1WwSx47"
+      },
+      "artists": [
+        {
+          "name": "May Rio",
+          "url": "https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122133,
+      "name": "Need You Like",
+      "url": "https://open.spotify.com/track/0K28plOjXm5jrSUzl0rXSf"
+    },
+    {
+      "album": {
         "name": "night at the bar",
         "url": "https://open.spotify.com/album/3C4yn2Z7k4kImGRGokxzbr"
       },
@@ -758,7 +884,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 158998,
       "name": "pawnshop",
       "url": "https://open.spotify.com/track/3twrw5DVZcnfQb1jtEF4ca"
@@ -780,6 +906,24 @@
       "duration_ms": 181900,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/5BgO84DnydOmjtSriVHvYa"
+    },
+    {
+      "album": {
+        "name": "Waking The Fallen: Resurrected",
+        "url": "https://open.spotify.com/album/23M9qOX1iPIlHKfm4l3oKU"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371752,
+      "name": "Remenissions - Demo",
+      "url": "https://open.spotify.com/track/3KHQrAYY5uXXx861VZ3q2S"
     },
     {
       "album": {
@@ -848,7 +992,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 192759,
       "name": "Silent Night, Bodom Night",
       "url": "https://open.spotify.com/track/74GOPl9zggeV66yADS8Gv1"
@@ -884,7 +1028,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 214752,
       "name": "TANDANG",
       "url": "https://open.spotify.com/track/2sjNju4iGLiOjRrePWWKU0"
@@ -938,7 +1082,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 226733,
       "name": "The Dope Show",
       "url": "https://open.spotify.com/track/1wrIp2G2kEa2pt6jsUJ05A"
@@ -974,7 +1118,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 226066,
       "name": "Tier",
       "url": "https://open.spotify.com/track/6Bk2TJEciLsFLqKffkwSVA"
@@ -999,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200800,
+      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU"
+    },
+    {
+      "album": {
         "name": "Unlove Me",
         "url": "https://open.spotify.com/album/0APyDpteAPwWPxGmwhLDw8"
       },
@@ -1017,6 +1179,42 @@
     },
     {
       "album": {
+        "name": "Killswitch Engage (Expanded Edition) [2004 Remaster]",
+        "url": "https://open.spotify.com/album/1MgyBHsiad6REK9veCUATT"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212386,
+      "name": "Vide Infra - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bU2ak4Wjsjn4pF783qhdJ"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Aerosmith: Devil's Got a New Disguise",
+        "url": "https://open.spotify.com/album/4kxrUUfNn4zgpSIchf06EP"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/0vBGZU6o3r2rc7PRwRCHSJ"
+    },
+    {
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/03RdxRparvZ2qgWFf1vGeD"
       },
@@ -1028,7 +1226,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 200293,
       "name": "Who Can It Be Now?",
       "url": "https://open.spotify.com/track/0DnA2DyUwy0W4xMYtRxocL"

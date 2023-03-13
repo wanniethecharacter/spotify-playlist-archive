@@ -1,12 +1,12 @@
 {
   "description": "Adoradores cantando sobre o amor. Foto: Paulo Cesar Baruk",
-  "num_followers": 80873,
+  "num_followers": 80917,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ5ODA4MSwwMDAwMDAwMDRmNjBiNTZjN2UwYzcwZGJjZWM0NWM0NGMwYmEwYWNl",
+  "snapshot_id": "MTY3ODQ5ODA4MSwwMDAwMDAwMGUwYThiY2ViODE3YTJiOTIwZDEyYzEwYTZmNDBmODMz",
   "tracks": [
     {
       "added_at": "2023-03-11 01:28:01",
@@ -315,26 +315,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Cantando o Amor Vol. 2",
-        "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Rebeca Nemer",
-          "url": "https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk"
-        }
-      ],
-      "duration_ms": 232710,
-      "name": "Isso \u00e9 Amor",
-      "url": "https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "Disse Sim",
         "url": "https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y"
       },
@@ -347,6 +327,22 @@
       "duration_ms": 201874,
       "name": "Disse Sim",
       "url": "https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "\u00c0 Moda Antiga",
+        "url": "https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB"
+      },
+      "artists": [
+        {
+          "name": "Lu Alone",
+          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
+        }
+      ],
+      "duration_ms": 182081,
+      "name": "\u00c0 Moda Antiga",
+      "url": "https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -367,18 +363,22 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "\u00c0 Moda Antiga",
-        "url": "https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB"
+        "name": "Cantando o Amor Vol. 2",
+        "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
       },
       "artists": [
         {
-          "name": "Lu Alone",
-          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Rebeca Nemer",
+          "url": "https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk"
         }
       ],
-      "duration_ms": 182081,
-      "name": "\u00c0 Moda Antiga",
-      "url": "https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL"
+      "duration_ms": 232710,
+      "name": "Isso \u00e9 Amor",
+      "url": "https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
+        "name": "25 de fevereiro",
+        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
+      },
+      "artists": [
+        {
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        }
+      ],
+      "duration_ms": 185448,
+      "name": "eu te convido",
+      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
         "name": "Mais Perto de Deus",
         "url": "https://open.spotify.com/album/2TdCDLiO9MvPNJVo7ZoSzB"
       },
@@ -847,6 +863,22 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
+        "name": "Eyshila Falando de Amor",
+        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 258345,
+      "name": "Meu Sonho",
+      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
         "name": "Meu Bem",
         "url": "https://open.spotify.com/album/7tAd298Bqlq5r9WQ6tq8F2"
       },
@@ -879,38 +911,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Amo Voc\u00ea Vol. 21",
-        "url": "https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj"
-      },
-      "artists": [
-        {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
-        }
-      ],
-      "duration_ms": 303206,
-      "name": "Bem Maior Que o C\u00e9u",
-      "url": "https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
-        "name": "Eyshila Falando de Amor",
-        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 258345,
-      "name": "Meu Sonho",
-      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "Deus Me Deu Voc\u00ea",
         "url": "https://open.spotify.com/album/27QzsDGSDFsnEQMqf6CyOl"
       },
@@ -923,6 +923,22 @@
       "duration_ms": 263213,
       "name": "Deus Me Deu Voc\u00ea",
       "url": "https://open.spotify.com/track/2UfgNRxseC9S9Hmf8sW7tm"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "Amo Voc\u00ea Vol. 21",
+        "url": "https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj"
+      },
+      "artists": [
+        {
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+        }
+      ],
+      "duration_ms": 303206,
+      "name": "Bem Maior Que o C\u00e9u",
+      "url": "https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -1127,22 +1143,6 @@
       "duration_ms": 238422,
       "name": "Minha J\u00f3ia Rara",
       "url": "https://open.spotify.com/track/1PbHuaCO9IrBt51mwcV93I"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
-        "name": "25 de fevereiro",
-        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
-      },
-      "artists": [
-        {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
-        }
-      ],
-      "duration_ms": 185448,
-      "name": "eu te convido",
-      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
     },
     {
       "added_at": "2023-03-11 01:28:01",

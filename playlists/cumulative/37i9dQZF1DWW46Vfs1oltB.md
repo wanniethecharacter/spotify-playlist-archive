@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: sokodomo, Vice Versa, Don Mills, Smugglers\)\)
 
-830 songs - 1 day 22 hr 10 min
+831 songs - 1 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [ANI\(feat.SOYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/3l1xBiDVRNJHTx4WvITGfs) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [ANI\(feat.SOYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/album/5nt7HzeKaxAp6Gh4fZoqMm) | 3:01 | 2021-12-21 | 2022-07-04 |
 | [Antisocial \(Prod\. Mokyo\)](https://open.spotify.com/track/5FFWhDhJe9u9y4l8qkz4LR) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [bimil:ier vol.3 "Antisocial \(Prod\. Mokyo\)"](https://open.spotify.com/album/1nCv396FdEoEd2T5OSWPL6) | 3:35 | 2021-12-18 | 2022-07-08 |
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-15 | 2022-12-20 |
+| [Asphalt \(feat\. pH\-1\)](https://open.spotify.com/track/58mChQUTpqCnaGYC6CCSD0) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Asphalt \(feat\. pH\-1\)](https://open.spotify.com/album/6opRDXGetgN7pAaReSCb1N) | 2:56 | 2023-03-12 |  |
 | [Astronaut In The Ocean \- Loopy, Owen & Bloo Remix](https://open.spotify.com/track/3cZZVwgrgQSS9m1yFIJ9Ea) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 2:51 | 2022-04-01 | 2022-04-21 |
 | [At Night](https://open.spotify.com/track/0da5hji35BCVb7nC8gRQzF) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [At Night](https://open.spotify.com/album/2zu8aSqeIOTL0db0YXyea3) | 3:02 | 2021-12-18 | 2022-07-05 |
 | [AURA \(feat\. pH\-1\) \(Prod\. GXXD\)](https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [AURA \(feat\. pH\-1\)](https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9) | 3:26 | 2021-12-18 | 2022-07-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Dance hits in 2023, featuring Jax Jones, Steve Aoki, Topic, and more!\. Cover: SG Lewis
 
-[Digster](https://open.spotify.com/user/digster.fm) - 116,707 likes - 50 songs - 2 hr 23 min
+[Digster](https://open.spotify.com/user/digster.fm) - 116,701 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

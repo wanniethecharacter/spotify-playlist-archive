@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 36479,
+  "num_followers": 36557,
   "original_name": "Hardcore Rage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwMjgwMCwwMDAwMDAwMDY3Yjc1ZGYyNmM4NzgyMmY5OTIxZmJlYzdjYTNkOGEw",
+  "snapshot_id": "MTY3ODQwMjgwMCwwMDAwMDAwMDkzYjBkMzJlNTNlZWY1NWIzZDUzNzI4NThkYjBkOGNk",
   "tracks": [
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "RUDE METHODS",
+        "url": "https://open.spotify.com/album/2dSW6exybjXs8rXYQ3utSd"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        }
+      ],
+      "duration_ms": 188487,
+      "name": "RUDE METHODS",
+      "url": "https://open.spotify.com/track/25jlmlUJiDquYv8NIyPBTV"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Drifting Away",
         "url": "https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi"
       },
@@ -1143,30 +1159,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/07GpeolPTgwFsrV04i37Pl"
-      },
-      "artists": [
-        {
-          "name": "DRS",
-          "url": "https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs"
-        },
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Warriors",
-      "url": "https://open.spotify.com/track/3CcUsyvCZbEzisnQItM7XX"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Pac-man 2.0",
         "url": "https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj"
       },
@@ -1199,6 +1191,30 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/07GpeolPTgwFsrV04i37Pl"
+      },
+      "artists": [
+        {
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs"
+        },
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Warriors",
+      "url": "https://open.spotify.com/track/3CcUsyvCZbEzisnQItM7XX"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "LOSE STRESS",
         "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 168101,
       "name": "LOSE STRESS",
       "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "RUDE METHODS",
-        "url": "https://open.spotify.com/album/2dSW6exybjXs8rXYQ3utSd"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        }
-      ],
-      "duration_ms": 188487,
-      "name": "RUDE METHODS",
-      "url": "https://open.spotify.com/track/25jlmlUJiDquYv8NIyPBTV"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Not Afraid to Fall",
+        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 185230,
+      "name": "Not Afraid to Fall",
+      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Mutilate",
         "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 230281,
       "name": "Mutilate",
       "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Not Afraid to Fall",
-        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 185230,
-      "name": "Not Afraid to Fall",
-      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Adrenaline Kicks",
+        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
+      },
+      "artists": [
+        {
+          "name": "Jur Terreur",
+          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+        }
+      ],
+      "duration_ms": 160390,
+      "name": "Adrenaline Kicks",
+      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Born To React",
         "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
       },
@@ -1707,18 +1723,22 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Adrenaline Kicks",
-        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
+        "name": "The Purge Remix EP",
+        "url": "https://open.spotify.com/album/12bmNEbOlb1626H8XqXlaY"
       },
       "artists": [
         {
-          "name": "Jur Terreur",
-          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Element",
+          "url": "https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU"
         }
       ],
-      "duration_ms": 160390,
-      "name": "Adrenaline Kicks",
-      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
+      "duration_ms": 228983,
+      "name": "Beyond Imagination - Element Remix",
+      "url": "https://open.spotify.com/track/4SXhmBta459ZhEXcOiN2rI"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1739,26 +1759,6 @@
       "duration_ms": 200400,
       "name": "Demolition Hardcore",
       "url": "https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "The Purge Remix EP",
-        "url": "https://open.spotify.com/album/12bmNEbOlb1626H8XqXlaY"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Element",
-          "url": "https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU"
-        }
-      ],
-      "duration_ms": 228983,
-      "name": "Beyond Imagination - Element Remix",
-      "url": "https://open.spotify.com/track/4SXhmBta459ZhEXcOiN2rI"
     },
     {
       "added_at": "2023-03-09 23:00:00",

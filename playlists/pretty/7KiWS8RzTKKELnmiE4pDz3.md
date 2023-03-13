@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 384 songs - 16 hr 59 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 387 songs - 17 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -392,5 +392,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 382 | [NIGHTCARE](https://open.spotify.com/track/6M3E2Zamd9yPqklfHqye8Y) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [Hit Me When You Land](https://open.spotify.com/album/5AZFefxiP690Wn5RapyUQ3) | 2:22 |
 | 383 | [WAR 1](https://open.spotify.com/track/53f9imwov2EaXhtWj0rthl) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Alivë](https://open.spotify.com/album/2VLfVJIWbfaMsFQNfS11ad) | 2:33 |
 | 384 | [IG](https://open.spotify.com/track/5e1SWZlh4fcOA1t2QB5QXG) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [IG](https://open.spotify.com/album/1VhKVzWNxkU2a5A5Saip2e) | 3:08 |
+| 385 | [Oh eX whY](https://open.spotify.com/track/15bjjTkuMb2vwdBijmD02S) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Alivë](https://open.spotify.com/album/2VLfVJIWbfaMsFQNfS11ad) | 2:33 |
+| 386 | [Dëmon tied](https://open.spotify.com/track/00G8RCi9pouKt0K5vQQmzE) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:43 |
+| 387 | [PRSSURE](https://open.spotify.com/track/48y5VJEYelOWiuOB3WPQBJ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 2:17 |
 
-Snapshot ID: `Njk0MSxmMWQzNzNkYjBhYWY1NmQzMTQ2NmJiMmEzOWE2MGU0NzQ1Y2M3YWEz`
+Snapshot ID: `Njk0NCxkMDViMzA2YzAxZDhmNDNlYjI0N2RjMjVkZDkzNDc0MjZhZWYwNmI4`

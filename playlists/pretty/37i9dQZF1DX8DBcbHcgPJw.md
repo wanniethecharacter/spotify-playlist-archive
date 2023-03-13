@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Luck Ra + La T y la M + Rusherking
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,177,203 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,177,359 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 44 | [Bésame](https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Bésame](https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6) | 2:22 |
 | 45 | [Mal de Amores](https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal de Amores](https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW) | 3:08 |
 | 46 | [Universo Paralelo](https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Universo Paralelo](https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP) | 2:36 |
-| 47 | [Carnavalintro](https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [El Otro](https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p) | 3:10 |
-| 48 | [No Te Contaron Mal](https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [No Te Contaron Mal](https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl) | 2:56 |
+| 47 | [No Te Contaron Mal](https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [No Te Contaron Mal](https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl) | 2:56 |
+| 48 | [Carnavalintro](https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [El Otro](https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p) | 3:10 |
 | 49 | [La Difícil](https://open.spotify.com/track/2tgImTwBcW1lOWRaUYUUx2) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [La Difícil](https://open.spotify.com/album/3b82LbRrcYmKCKtNzvdZOJ) | 2:25 |
 | 50 | [Si Tu Supieras](https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si Tu Supieras](https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv) | 3:02 |
 | 51 | [Escápate Conmigo](https://open.spotify.com/track/408q39K0rnY815TF5x52tb) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 3:05 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 95 | [Sigue Bailando](https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Sigue Bailando](https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS) | 2:39 |
 | 96 | [El Color de Tus Ojos](https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [El Color de Tus Ojos](https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO) | 2:36 |
 | 97 | [Pídeme la Luna](https://open.spotify.com/track/0vsyr3APhEL7FBv0AWk5TI) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Pídeme la Luna](https://open.spotify.com/album/4T4FeDNo1vPoJ1CycNu5gZ) | 2:49 |
-| 98 | [Gracias a Vos](https://open.spotify.com/track/7JrFcPtiHC0bB5F8LlHTIE) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Gracias a Vos](https://open.spotify.com/album/17JKI0xNdEeTDqJUKqNYUr) | 2:09 |
-| 99 | [Hoy Te Vi \- Remasterizado 2019](https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Hoy Te Vi](https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d) | 3:34 |
+| 98 | [Hoy Te Vi \- Remasterizado 2019](https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Hoy Te Vi](https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d) | 3:34 |
+| 99 | [Gracias a Vos](https://open.spotify.com/track/7JrFcPtiHC0bB5F8LlHTIE) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Gracias a Vos](https://open.spotify.com/album/17JKI0xNdEeTDqJUKqNYUr) | 2:09 |
 | 100 | [Donde Estas](https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/1MnOOeThicwy2KTa1ONDqg) | 2:34 |
 
-Snapshot ID: `MTY3ODQxNzIwMCwwMDAwMDAwMDZkNWViNGUzZGJlNmZmMTRmMWFkYWFiMjc2YzA3NDBk`
+Snapshot ID: `MTY3ODQxNzIwMCwwMDAwMDAwMGIwM2ZiMDMyYjQ5NWU5YWY2YWM5MTRkZTgxM2UxZjU3`

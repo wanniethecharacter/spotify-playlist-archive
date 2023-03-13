@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 116807,
+  "num_followers": 116894,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY2MTA5NiwwMDAwMDAwMGM0YTUzMjRlNjgwNzExNmQ4ZDIxNmIzNTA2YTZiNzhj",
+  "snapshot_id": "MTY3NDY2MTA5NiwwMDAwMDAwMDI5NGQxZmNmYjg3ZThiZGRmYzBkYjI2OWE0M2NjYjc2",
   "tracks": [
     {
       "added_at": "2023-01-25 15:38:15",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
-        "name": "Heartbroken 2022",
-        "url": "https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ"
-      },
-      "artists": [
-        {
-          "name": "T2",
-          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
-        },
-        {
-          "name": "ARPA",
-          "url": "https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd"
-        }
-      ],
-      "duration_ms": 172371,
-      "name": "Heartbroken 2022",
-      "url": "https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr"
-    },
-    {
-      "added_at": "2023-01-25 15:38:15",
-      "album": {
         "name": "VIP",
         "url": "https://open.spotify.com/album/0y0rbZ1pjtN3Q9YFA9d7ty"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 240337,
       "name": "Lumberjackin' - Vocal Mix",
       "url": "https://open.spotify.com/track/2rrQ5uFbqOpJ1dYFfiV30G"
+    },
+    {
+      "added_at": "2023-01-25 15:38:15",
+      "album": {
+        "name": "Heartbroken 2022",
+        "url": "https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ"
+      },
+      "artists": [
+        {
+          "name": "T2",
+          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
+        },
+        {
+          "name": "ARPA",
+          "url": "https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd"
+        }
+      ],
+      "duration_ms": 172371,
+      "name": "Heartbroken 2022",
+      "url": "https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr"
     },
     {
       "added_at": "2023-01-25 15:38:15",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF"
-      },
-      "artists": [
-        {
-          "name": "Danny Byrd",
-          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
-        },
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
-        }
-      ],
-      "duration_ms": 169009,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
-    },
-    {
-      "added_at": "2023-01-25 15:38:15",
-      "album": {
         "name": "The Damn Guy",
         "url": "https://open.spotify.com/album/7EcAkAIGh1Nd7EDyAp5bZ7"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 344999,
       "name": "The Damn Guy",
       "url": "https://open.spotify.com/track/78W81pRYN5j3SV1819Dz0F"
+    },
+    {
+      "added_at": "2023-01-25 15:38:15",
+      "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF"
+      },
+      "artists": [
+        {
+          "name": "Danny Byrd",
+          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "duration_ms": 169009,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
     },
     {
       "added_at": "2023-01-25 15:38:15",

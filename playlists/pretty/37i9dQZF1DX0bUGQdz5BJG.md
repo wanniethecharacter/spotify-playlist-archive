@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Kassi Ashton
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,244 likes - 154 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,303 likes - 154 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

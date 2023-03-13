@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,113 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,215 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 46 | [Hold Me Close](https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hold Me Close](https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj) | 2:28 |
 | 47 | [The Marriage Prayer](https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB) | [John Waller](https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL) | [As for Me and My House](https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2) | 4:05 |
 | 48 | [I Love You \(Remix\)](https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw) | [I Love You \(Remix\)](https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim) | 3:13 |
-| 49 | [All Of Me](https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Every Falling Tear](https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h) | 4:06 |
-| 50 | [Heaven \(All Around You\) \- Acoustic](https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:39 |
+| 49 | [Heaven \(All Around You\) \- Acoustic](https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:39 |
+| 50 | [All Of Me](https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Every Falling Tear](https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h) | 4:06 |
 | 51 | [This Kind Of Love](https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [This Kind Of Love](https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI) | 3:04 |
 | 52 | [Angel](https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 3:44 |
 | 53 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 55 | [Choose You](https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Choose You](https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA) | 3:05 |
 | 56 | [Another Song About Love](https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Enough Already](https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco) | 3:11 |
 | 57 | [Baby Will You Love Me](https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Baby Will You Love Me](https://open.spotify.com/album/2w38sOFtpwryYpMROouND9) | 3:33 |
-| 58 | [Love Letter](https://open.spotify.com/track/3vVRe4hWXAhC7Q5NNVvqPc) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Love Letter](https://open.spotify.com/album/3xN0nvkOFcvxlT2LeyxtDd) | 2:59 |
-| 59 | [Love in the West](https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Love in the West](https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH) | 2:18 |
+| 58 | [Love in the West](https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Love in the West](https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH) | 2:18 |
+| 59 | [Love Letter](https://open.spotify.com/track/3vVRe4hWXAhC7Q5NNVvqPc) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Love Letter](https://open.spotify.com/album/3xN0nvkOFcvxlT2LeyxtDd) | 2:59 |
 | 60 | [The Day Before You \- Acoustic](https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [The Writer's Room: An Acoustic EP](https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5) | 3:32 |
 | 61 | [Your Love](https://open.spotify.com/track/1LCiZ4QclxrAcuT1JhFM1D) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 2:38 |
 | 62 | [This Loving](https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [This Loving](https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr) | 2:36 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 64 | [We Will Dance](https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [All About Love](https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM) | 4:40 |
 | 65 | [I'll Wait For You](https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Brave](https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f) | 3:46 |
 | 66 | [Pilots](https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [The Soul](https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0) | 3:39 |
-| 67 | [Endlessly](https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq) | [Green River Ordinance](https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7) | [Fifteen](https://open.spotify.com/album/0VYa8Da3sGtLgBgv9AAejl) | 3:57 |
-| 68 | [Going Together](https://open.spotify.com/track/3s1gWhwN7IFE0dxxYhrJyW) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Wherever I Go](https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6) | 2:58 |
+| 67 | [Going Together](https://open.spotify.com/track/3s1gWhwN7IFE0dxxYhrJyW) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Wherever I Go](https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6) | 2:58 |
+| 68 | [Endlessly](https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq) | [Green River Ordinance](https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7) | [Fifteen](https://open.spotify.com/album/0VYa8Da3sGtLgBgv9AAejl) | 3:57 |
 | 69 | [Dear Future Wife \- Acoustic](https://open.spotify.com/track/0RQok78Z58rek1FfvvWmYp) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Dear Future Wife \(Acoustic\)](https://open.spotify.com/album/3yHmNaCf9I1nXTYSdd5WoT) | 2:48 |
 | 70 | [What A Mystery](https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Carry Me](https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0) | 2:57 |
 | 71 | [Till I Found You](https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4) | [Becca Bradley](https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU) | [Till I Found You](https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 99 | [Junto a Ti](https://open.spotify.com/track/309976H25vNibcds9nAH5A) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Junto a Ti](https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH) | 3:07 |
 | 100 | [Love Somebody](https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [True Beauty](https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re) | 3:48 |
 
-Snapshot ID: `MTY3NTE1OTI3MiwwMDAwMDAwMDliYzRmOTlmM2I5MGFmYmE1MDJlNmJmZjE5NmE0Y2Rh`
+Snapshot ID: `MTY3NTE1OTI3MiwwMDAwMDAwMDcyYWMxMTlkMWE0MjE2M2RiNDJiYWJmMDliZTVlMTk4`

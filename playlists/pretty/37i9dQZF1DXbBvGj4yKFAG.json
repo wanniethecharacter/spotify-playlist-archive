@@ -1,12 +1,12 @@
 {
   "description": "may include",
-  "num_followers": 12602,
+  "num_followers": 13048,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM4NDYxOCwwMDAwMDAwMDJkYTcxMTNkMjQ2YWEzMzczNzNkMzFhODBiMjczNjM3",
+  "snapshot_id": "MTY3ODM4NDYxOCwwMDAwMDAwMDQwNDgxYmRlMzlkMTQwMWI0ZmU0MjMzMmJkMjAzYzVj",
   "tracks": [
     {
       "added_at": "2023-02-09 18:38:29",
@@ -493,22 +493,6 @@
       "url": "https://open.spotify.com/track/3qPZlJAvV95TnC4kFgTvnA"
     },
     {
-      "added_at": "2023-02-09 18:38:29",
-      "album": {
-        "name": "The Year of Hibernation",
-        "url": "https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q"
-      },
-      "artists": [
-        {
-          "name": "Youth Lagoon",
-          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "17",
-      "url": "https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA"
-    },
-    {
       "added_at": "2023-02-24 15:35:53",
       "album": {
         "name": "No Surprises",
@@ -523,6 +507,22 @@
       "duration_ms": 120961,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
+    },
+    {
+      "added_at": "2023-02-09 18:38:29",
+      "album": {
+        "name": "The Year of Hibernation",
+        "url": "https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "17",
+      "url": "https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA"
     },
     {
       "added_at": "2023-02-09 18:38:29",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/3XOOdbkx0q2rjUxAPziH8S"
     },
     {
-      "added_at": "2023-02-09 18:38:29",
-      "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "Triptych",
-      "url": "https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i"
-    },
-    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "alibi",
@@ -807,6 +791,22 @@
     {
       "added_at": "2023-02-09 18:38:29",
       "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "Triptych",
+      "url": "https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i"
+    },
+    {
+      "added_at": "2023-02-09 18:38:29",
+      "album": {
         "name": "If Blue Could Be Happiness",
         "url": "https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v"
       },
@@ -821,20 +821,20 @@
       "url": "https://open.spotify.com/track/7ANZJD6wzlHplIIA7AjsUx"
     },
     {
-      "added_at": "2023-02-09 18:38:29",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W"
+        "name": "I cant commit to anything",
+        "url": "https://open.spotify.com/album/0rkcrSCvRTjm89O9PfUzvN"
       },
       "artists": [
         {
-          "name": "Duster",
-          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
         }
       ],
-      "duration_ms": 312240,
-      "name": "Familiar Fields",
-      "url": "https://open.spotify.com/track/2JaUbapUFcKEly61vqlaRz"
+      "duration_ms": 102545,
+      "name": "I cant commit to anything",
+      "url": "https://open.spotify.com/track/1yrqu7y4N2e3Ov8ZKjdjVY"
     }
   ],
   "unique_name": "side effects",

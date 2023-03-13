@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: Eddie Zuko",
-  "num_followers": 19101,
+  "num_followers": 19119,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGJjMmRkMThkMTJlNTg4Yjc4OTYzNjY5ZTE5MWE4Zjhl",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGM1NzBkNGIzM2M2MTkxYzAzZDM1NGU1N2YzZTllZWI4",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -495,26 +495,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Despierto",
-        "url": "https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        },
-        {
-          "name": "Di\u00e0go",
-          "url": "https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s"
-        }
-      ],
-      "duration_ms": 199017,
-      "name": "Despierto",
-      "url": "https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Hija de Su",
         "url": "https://open.spotify.com/album/5gzoFIcBf6wguzBK1z7wfl"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 179439,
       "name": "Hija de Su",
       "url": "https://open.spotify.com/track/6GhI4zyMx3xa6RvyYCKER6"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Despierto",
+        "url": "https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        },
+        {
+          "name": "Di\u00e0go",
+          "url": "https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s"
+        }
+      ],
+      "duration_ms": 199017,
+      "name": "Despierto",
+      "url": "https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "amorlove",
+        "url": "https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "d\u00e9jame vivir",
+      "url": "https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "De La Nada",
         "url": "https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 264003,
       "name": "De La Nada",
       "url": "https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "amorlove",
-        "url": "https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "d\u00e9jame vivir",
-      "url": "https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2"
     },
     {
       "added_at": "2023-03-10 05:00:00",

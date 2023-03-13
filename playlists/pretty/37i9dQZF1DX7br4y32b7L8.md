@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > Maks: "Oké jij wilt vies nou ik zal je wat vertellen\. Zij heeft dyscalculie dus is niet zo goed in tellen."
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,725 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,775 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

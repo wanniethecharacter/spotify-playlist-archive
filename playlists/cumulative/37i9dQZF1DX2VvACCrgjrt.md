@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: FETISH
 
-417 songs - 22 hr 12 min
+418 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Crave The Bassline](https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Crave The Bassline](https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S) | 2:46 | 2022-02-25 |  |
 | [Crew](https://open.spotify.com/track/7BI7gk1G4VgO8RZmk439vC) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [Crew](https://open.spotify.com/album/6dMhTnkHKvIFCeldylvkIQ) | 3:03 | 2022-08-12 | 2023-02-08 |
 | [Daddy](https://open.spotify.com/track/3Bp5P1UoYfprzFy7EClcoz) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Daddy / What Happens In Vegas](https://open.spotify.com/album/4jq7sudnqaNjpJh8FMNTKZ) | 2:27 | 2021-10-29 |  |
-| [Dance](https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Dance](https://open.spotify.com/album/31JMEsEl6SsAArvR0WLwQ3) | 3:07 | 2022-05-06 |  |
+| [Dance](https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Dance](https://open.spotify.com/album/31JMEsEl6SsAArvR0WLwQ3) | 3:07 | 2022-05-06 | 2023-03-13 |
 | [Dancerteria](https://open.spotify.com/track/0LVOxIv7HB4y9llCuUUObS) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Kickin Back](https://open.spotify.com/album/7sJhrdrW2NLgsZIemINUKa) | 3:54 | 2021-10-29 | 2022-01-07 |
 | [Danger](https://open.spotify.com/track/5Ztlpo0tihmvazlFYTL3fQ) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [Cipher One](https://open.spotify.com/album/0sXeA5zcpIua5syJn7RqIg) | 3:03 | 2021-10-29 | 2022-05-28 |
 | [Dark Side](https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Dark Side](https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya) | 2:37 | 2022-12-16 |  |
@@ -196,7 +196,7 @@
 | [Hustle](https://open.spotify.com/track/6YMSywt3HpzVLoxDN6tzqo) | [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Hustle](https://open.spotify.com/album/4FHhnmZpT898mjTBrcujXv) | 2:50 | 2021-10-29 | 2022-04-02 |
 | [Hype Beast](https://open.spotify.com/track/0AAtVQhBnuqduOZp7GsepG) | [Rich DietZ](https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8) | [Hype Beast](https://open.spotify.com/album/5s8FxM1lTlGR4kmbbvmoEq) | 3:21 | 2022-01-21 | 2022-07-29 |
 | [Hypnosis](https://open.spotify.com/track/218C3xKWaTkNwEmDLW6oD4) | [Brandon Mints](https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc) | [Hypnosis](https://open.spotify.com/album/1GSiJhz5OGVnWvxCqhHKSi) | 2:53 | 2021-10-29 | 2022-01-02 |
-| [Hypnotic](https://open.spotify.com/track/4P3WY1qYtJ0JcMHHm0bpvB) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Hypnotic](https://open.spotify.com/album/4CjGRwcpGLP95cEmCkDHFE) | 4:13 | 2022-08-19 |  |
+| [Hypnotic](https://open.spotify.com/track/4P3WY1qYtJ0JcMHHm0bpvB) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Hypnotic](https://open.spotify.com/album/4CjGRwcpGLP95cEmCkDHFE) | 4:13 | 2022-08-19 | 2023-03-13 |
 | [Hypnotized](https://open.spotify.com/track/3JvXqt7jhVbIDInIURichK) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Hypnotized](https://open.spotify.com/album/4jijt3cmZikji3Ld3101db) | 3:38 | 2021-10-29 | 2022-08-13 |
 | [I Am Ready](https://open.spotify.com/track/0ufeCauchfjHvwhCz0XiQL) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [I Am Ready](https://open.spotify.com/album/4GYWCwCY79SXdxM0X42TDg) | 3:00 | 2021-10-29 | 2022-01-15 |
 | [I Don't Care](https://open.spotify.com/track/7BXqCv3Y940NFSFJv19ywn) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [I Don't Care](https://open.spotify.com/album/6zoxovlr2YLSPz6wFYQixI) | 2:59 | 2022-03-18 | 2022-04-21 |
@@ -369,9 +369,10 @@
 | [Tell Me What](https://open.spotify.com/track/56AydkG6w9Mux2SGGUYGrF) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Tell Me What](https://open.spotify.com/album/4BjDdvhvjqcOljiVZ2U7KN) | 3:17 | 2022-02-04 | 2022-05-02 |
 | [The Afterhour Waltz](https://open.spotify.com/track/1bpt1M45P9CntixjQ0apti) | [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [The Afterhour Waltz](https://open.spotify.com/album/7AyEpqNZeUzzwIluqR3PKC) | 3:00 | 2022-03-25 | 2022-09-10 |
 | [The Answer](https://open.spotify.com/track/29AIZjKOLwFkP2bgy9RS2j) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [The Answer](https://open.spotify.com/album/34gfhO5DSUVvqAPlaPskOn) | 3:10 | 2021-10-29 | 2022-05-28 |
+| [The Blur](https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [The Blur](https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS) | 2:53 | 2023-03-13 |  |
 | [The Freaks](https://open.spotify.com/track/4NoJpQvvjVJ2m8S72eIDaF) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [The Freaks](https://open.spotify.com/album/2FvWOZzbKdAAJJ0fbac63a) | 4:15 | 2023-03-03 |  |
 | [The Freaks](https://open.spotify.com/track/1cTHUMdInmZvxVCHnzHOj2) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [The Freaks](https://open.spotify.com/album/1AZC2QcPfpS3Dn0Fpoodwb) | 4:16 | 2023-02-17 | 2023-03-10 |
-| [The Game is Dead \- Kenty Clide Remix](https://open.spotify.com/track/0316CMBIHMjhZLk24s53pm) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Kenty Clide](https://open.spotify.com/artist/2Shy7amYgzRmadn7sX4Ri0) | [Don Malaa – After Hours](https://open.spotify.com/album/2Cbwm5jHgXBW2KrKtGiCVY) | 3:02 | 2023-02-24 | 2023-03-12 |
+| [The Game is Dead \- Kenty Clide Remix](https://open.spotify.com/track/0316CMBIHMjhZLk24s53pm) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Kenty Clide](https://open.spotify.com/artist/2Shy7amYgzRmadn7sX4Ri0) | [Don Malaa – After Hours](https://open.spotify.com/album/2Cbwm5jHgXBW2KrKtGiCVY) | 3:02 | 2023-02-24 |  |
 | [The Grave](https://open.spotify.com/track/7tPbw62QKVG3N0fPlxrvtJ) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [The Grave](https://open.spotify.com/album/2qEXcLDcq68PRPSiXDUBic) | 3:32 | 2021-10-29 | 2022-01-21 |
 | [The One](https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R) | [DEVOWR.](https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [The One](https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO) | 3:35 | 2022-12-16 |  |
 | [The One](https://open.spotify.com/track/3Iy6cv2ptS8yAfEahSJsSH) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [The One \[UKF10\]](https://open.spotify.com/album/6iVi8d3zjkYJOM1M1RKTvD) | 3:11 | 2021-10-29 | 2021-12-25 |

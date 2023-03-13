@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002Cover:  YOASOBI",
+  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002Cover:  \u30de\u30ab\u30ed\u30cb\u3048\u3093\u3074\u3064",
   "name": "Tokyo Super Hits!",
   "tracks": [
     {
@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/1oqG9p7J2jOO8UWQukqiOF"
+      },
+      "artists": [
+        {
+          "name": "Tani Yuuki",
+          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229978,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/6B0CCq2EuUmjFEy4tTHG8I"
+    },
+    {
+      "album": {
         "name": "Choices",
         "url": "https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI"
       },
@@ -1347,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "Damn!",
+        "url": "https://open.spotify.com/album/58iLEcJ5gjmwjPH4T8Ahy9"
+      },
+      "artists": [
+        {
+          "name": "Wez Atlas",
+          "url": "https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161760,
+      "name": "Damn!",
+      "url": "https://open.spotify.com/track/7f8eO8Gd4FNZZemvweT31N"
+    },
+    {
+      "album": {
         "name": "daylight",
         "url": "https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA"
       },
@@ -1660,7 +1696,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 237686,
       "name": "eden",
       "url": "https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB"
@@ -1772,6 +1808,32 @@
       "duration_ms": 242341,
       "name": "escalate",
       "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
+    },
+    {
+      "album": {
+        "name": "Etude of Adolescence",
+        "url": "https://open.spotify.com/album/3a5OH0xdi3iWVV7a7rXgpR"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Haruko Nagaya",
+          "url": "https://open.spotify.com/artist/5P8drcKYuRizuKKXgUdPO8"
+        },
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273766,
+      "name": "Etude of Adolescence",
+      "url": "https://open.spotify.com/track/3DvIKEAVYG5oD4PaQC0IRk"
     },
     {
       "album": {
@@ -2730,7 +2792,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 162560,
       "name": "Himotoai",
       "url": "https://open.spotify.com/track/2MtTAPmEoGKUC0vDloY6nw"
@@ -3544,7 +3606,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 250506,
       "name": "Listen",
       "url": "https://open.spotify.com/track/5rtulpUZ7hinDGwe46ondS"
@@ -4887,6 +4949,24 @@
     },
     {
       "album": {
+        "name": "Orange Days",
+        "url": "https://open.spotify.com/album/6atQ8dmI3YfyZM6v90sSTw"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226085,
+      "name": "Orange Days",
+      "url": "https://open.spotify.com/track/3DiUeAXtGIivmWjTMimKwm"
+    },
+    {
+      "album": {
         "name": "Othello",
         "url": "https://open.spotify.com/album/3i2MhTc7yo7UNtpSSP3Lzp"
       },
@@ -4956,6 +5036,24 @@
       "duration_ms": 244348,
       "name": "O\u30fbLa",
       "url": "https://open.spotify.com/track/0fG9lay0PuGHNFiAqsOVKO"
+    },
+    {
+      "album": {
+        "name": "Painting in the Dusk",
+        "url": "https://open.spotify.com/album/5Q5rMzHJyXJFSMbLaRIV1v"
+      },
+      "artists": [
+        {
+          "name": "Natsuko Nisshoku",
+          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258393,
+      "name": "Painting in the Dusk",
+      "url": "https://open.spotify.com/track/0Aoh3DIsXbABQwCd2lf0iN"
     },
     {
       "album": {
@@ -5300,7 +5398,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 212142,
       "name": "Ratpark",
       "url": "https://open.spotify.com/track/451krgfVbiNmFxAIXTGQjL"
@@ -6076,7 +6174,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 208500,
       "name": "Sparkle Dancer",
       "url": "https://open.spotify.com/track/4aHvOIHuAzl21N7D2gHwen"
@@ -6734,6 +6832,24 @@
       "duration_ms": 207135,
       "name": "Take Me Maybe",
       "url": "https://open.spotify.com/track/0Sq6O7MvmJKmZxJEerxPte"
+    },
+    {
+      "album": {
+        "name": "Talkin' Talkin'",
+        "url": "https://open.spotify.com/album/76D9Qr6EaD8P56RKKjgCF9"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224366,
+      "name": "Talkin' Talkin'",
+      "url": "https://open.spotify.com/track/5qvsE4V7Vpqa8GHDHQoQta"
     },
     {
       "album": {
@@ -7692,7 +7808,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 198461,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/56axXmCSalRuKYgDXWzDW4"
@@ -7750,6 +7866,24 @@
       "duration_ms": 215834,
       "name": "YOSOMI",
       "url": "https://open.spotify.com/track/3yvF5pstpyzo8U2pFhbq2l"
+    },
+    {
+      "album": {
+        "name": "You Just Walked In My Life",
+        "url": "https://open.spotify.com/album/3r6AKB3Zf1lTcG0et17Hdz"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "You Just Walked In My Life",
+      "url": "https://open.spotify.com/track/7eRHytSFVvMRNk1at0HkWs"
     },
     {
       "album": {
@@ -8127,6 +8261,24 @@
     },
     {
       "album": {
+        "name": "\u304d\u3089\u304d\u3089",
+        "url": "https://open.spotify.com/album/411ShZaP7vuopafIAwrgZp"
+      },
+      "artists": [
+        {
+          "name": "SHISHAMO",
+          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272277,
+      "name": "\u304d\u3089\u304d\u3089",
+      "url": "https://open.spotify.com/track/32lWfnbzsZTX02L3935VF7"
+    },
+    {
+      "album": {
         "name": "\u304d\u3089\u308a",
         "url": "https://open.spotify.com/album/1fokTD5rDI2bHnFH1QSbPy"
       },
@@ -8279,6 +8431,28 @@
     },
     {
       "album": {
+        "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (feat. \u9ed2\u5ddd\u6c99\u826f)",
+        "url": "https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Sala Kurokawa",
+          "url": "https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264963,
+      "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (feat. \u9ed2\u5ddd\u6c99\u826f)",
+      "url": "https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC"
+    },
+    {
+      "album": {
         "name": "\u305d\u306e\u307e\u307e\u306e\u51b7\u305f\u3055\u3067",
         "url": "https://open.spotify.com/album/078vAuHwhFvs5yeifLsrJB"
       },
@@ -8312,6 +8486,24 @@
       "duration_ms": 249134,
       "name": "\u305d\u3070\u306b\u3044\u308b\u3088",
       "url": "https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K"
+    },
+    {
+      "album": {
+        "name": "\u305d\u3093\u306abitter\u306a\u8a71",
+        "url": "https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276082,
+      "name": "\u305d\u3093\u306abitter\u306a\u8a71",
+      "url": "https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY"
     },
     {
       "album": {
@@ -8608,7 +8800,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 256303,
       "name": "\u307e\u3076\u305f",
       "url": "https://open.spotify.com/track/6YCwX5jlAEFL775YJqgLqN"
@@ -8728,7 +8920,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 162366,
       "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
       "url": "https://open.spotify.com/track/67seLhibwW3OAyZcEw5Ijh"
@@ -9485,6 +9677,28 @@
     },
     {
       "album": {
+        "name": "\u30bf\u30a4\u30e0\u30e9\u30b0!",
+        "url": "https://open.spotify.com/album/6QeblPvzl1ml9eiq8FudT4"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        },
+        {
+          "name": "Moto",
+          "url": "https://open.spotify.com/artist/5U1pobjYB1fAg553UQGwvF"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155396,
+      "name": "\u30bf\u30a4\u30e0\u30e9\u30b0!",
+      "url": "https://open.spotify.com/track/7wu7M8ExZ82NMbwTynD65f"
+    },
+    {
+      "album": {
         "name": "\u30bf\u30aa\u30eb\u30b1\u30c3\u30c8\u306f\u7a4f\u3084\u304b\u306a",
         "url": "https://open.spotify.com/album/2byWdUAtCOUaxDe73nGfhU"
       },
@@ -9604,7 +9818,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 214213,
       "name": "\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u30fb\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
       "url": "https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO"
@@ -10416,7 +10630,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 158500,
       "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
       "url": "https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0"
@@ -10654,7 +10868,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-20",
+      "date_removed": null,
       "duration_ms": 239625,
       "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
@@ -13062,7 +13276,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 253066,
       "name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
       "url": "https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa"
@@ -13203,6 +13417,24 @@
     },
     {
       "album": {
+        "name": "Sketch",
+        "url": "https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy"
+      },
+      "artists": [
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191486,
+      "name": "\u84b2\u516c\u82f1",
+      "url": "https://open.spotify.com/track/7D4jDmHtDGiUSdf6BBb29C"
+    },
+    {
+      "album": {
         "name": "\u84b2\u516c\u82f1",
         "url": "https://open.spotify.com/album/1kp6AjG2lydwf5OjfbxENs"
       },
@@ -13214,7 +13446,7 @@
       ],
       "date_added": "2023-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 191988,
       "name": "\u84b2\u516c\u82f1",
       "url": "https://open.spotify.com/track/05qgaAIIEFSkrrvxqb5np2"
@@ -13802,7 +14034,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 253364,
       "name": "\u9be8\u306e\u5b50",
       "url": "https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg"

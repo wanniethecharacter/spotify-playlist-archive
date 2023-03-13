@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 56030,
+  "num_followers": 56042,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA3MDc0MywwMDAwMDAwMDY2MTcwNzI2MjY0ZjliYWMxZmJmYzY3YTE3OGVlZTIw",
+  "snapshot_id": "MTY3ODA3MDc0MywwMDAwMDAwMDAxZTY1ODJiYTQ4ZGFlZGEzNzIxYjM3NjBhNWIxMzVj",
   "tracks": [
     {
       "added_at": "2023-03-06 02:45:43",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-06 02:45:43",
       "album": {
-        "name": "Standard Time Vol. 3: The Resolution Of Romance",
-        "url": "https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq"
-    },
-    {
-      "added_at": "2023-03-06 02:45:43",
-      "album": {
         "name": "Stride",
         "url": "https://open.spotify.com/album/0o05AbCCpC7ae3h0NGJBKg"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 396520,
       "name": "Two Sleepy People",
       "url": "https://open.spotify.com/track/75A0vJQiBzAxkC7pMjoSeX"
+    },
+    {
+      "added_at": "2023-03-06 02:45:43",
+      "album": {
+        "name": "Standard Time Vol. 3: The Resolution Of Romance",
+        "url": "https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq"
     },
     {
       "added_at": "2023-03-06 02:45:43",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-03-06 02:45:43",
       "album": {
-        "name": "In A Sentimental Mood",
-        "url": "https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y"
-      },
-      "artists": [
-        {
-          "name": "Serenity State of Mind",
-          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
-        }
-      ],
-      "duration_ms": 162250,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/5TYsSSP6PIVJgFY91Pr8ZA"
-    },
-    {
-      "added_at": "2023-03-06 02:45:43",
-      "album": {
         "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2023-03-06 02:45:43",
       "album": {
-        "name": "Save US",
-        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
+        "name": "In A Sentimental Mood",
+        "url": "https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y"
       },
       "artists": [
         {
-          "name": "Dan Cray Trio",
-          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
+          "name": "Serenity State of Mind",
+          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
         }
       ],
-      "duration_ms": 336373,
-      "name": "Good Morning.Goodbye",
-      "url": "https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg"
+      "duration_ms": 162250,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/5TYsSSP6PIVJgFY91Pr8ZA"
     },
     {
       "added_at": "2023-03-06 02:45:43",
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2023-03-06 02:45:43",
       "album": {
-        "name": "Out Here",
-        "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
+        "name": "Save US",
+        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
       },
       "artists": [
         {
-          "name": "Christian McBride Trio",
-          "url": "https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP"
+          "name": "Dan Cray Trio",
+          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
         }
       ],
-      "duration_ms": 507534,
-      "name": "I Have Dreamed",
-      "url": "https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo"
+      "duration_ms": 336373,
+      "name": "Good Morning.Goodbye",
+      "url": "https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg"
     },
     {
       "added_at": "2023-03-06 02:45:43",
@@ -1163,6 +1147,22 @@
       "duration_ms": 335333,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe"
+    },
+    {
+      "added_at": "2023-03-06 02:45:43",
+      "album": {
+        "name": "Out Here",
+        "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride Trio",
+          "url": "https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP"
+        }
+      ],
+      "duration_ms": 507534,
+      "name": "I Have Dreamed",
+      "url": "https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo"
     },
     {
       "added_at": "2023-03-06 02:45:43",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-03-06 02:45:43",
       "album": {
+        "name": "The Gotland Session",
+        "url": "https://open.spotify.com/album/1eMVzFOPZrjBlEGKXYxadA"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ringblom Quartet",
+          "url": "https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru"
+        }
+      ],
+      "duration_ms": 193750,
+      "name": "Last Ride Home",
+      "url": "https://open.spotify.com/track/22QZgO76vLjdpZY161iF72"
+    },
+    {
+      "added_at": "2023-03-06 02:45:43",
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/7yDHwMVnH0SXCYw6eD7fDg"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 241200,
       "name": "Uphill",
       "url": "https://open.spotify.com/track/6g6U5Ip7Tvm1xsctpflOuk"
-    },
-    {
-      "added_at": "2023-03-06 02:45:43",
-      "album": {
-        "name": "The Gotland Session",
-        "url": "https://open.spotify.com/album/1eMVzFOPZrjBlEGKXYxadA"
-      },
-      "artists": [
-        {
-          "name": "Magnus Ringblom Quartet",
-          "url": "https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru"
-        }
-      ],
-      "duration_ms": 193750,
-      "name": "Last Ride Home",
-      "url": "https://open.spotify.com/track/22QZgO76vLjdpZY161iF72"
     }
   ],
   "unique_name": "\u50ac\u7720\u7235\u58eb",

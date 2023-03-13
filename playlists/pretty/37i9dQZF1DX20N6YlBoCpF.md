@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=NOdYaKEATx2QuNJfVQsTDQ">Karlien Van Jaarsveld</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,123 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,192 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Anjos de Resgate
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,588 likes - 70 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,706 likes - 70 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 50 | [Apenas Barro](https://open.spotify.com/track/6VCtzegvbikThIayNbKMBl) | [Dyego Afonso](https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG), [Juninho Cassimiro](https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S) | [Apenas Barro](https://open.spotify.com/album/1SCgr0nIPx6A9mJrH36dT0) | 4:58 |
 | 51 | [Já Deu Certo](https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Canthares](https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr) | [Já Deu Certo](https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns) | 4:36 |
 | 52 | [Irresistivelmente](https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Cantai a Deus Com Alegria 2022](https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv) | 5:49 |
-| 53 | [Te Adorar](https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ) | [Padre Anderson Gomes](https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9) | [Te Adorar](https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q) | 5:26 |
-| 54 | [Seja Bem\-Vindo Jesus](https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [Seja Bem\-Vindo Jesus](https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua) | 5:10 |
+| 53 | [Seja Bem\-Vindo Jesus](https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [Seja Bem\-Vindo Jesus](https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua) | 5:10 |
+| 54 | [Te Adorar](https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ) | [Padre Anderson Gomes](https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9) | [Te Adorar](https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q) | 5:26 |
 | 55 | [Acalma Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 |
 | 56 | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/track/4kwoJY1r3HEz1J6k9Oqwcn) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/album/0CjTATUNtQXUPAI15486Yi) | 4:45 |
 | 57 | [Ana e Maria](https://open.spotify.com/track/6Z5u1AKPvXMtIJaKah0KeM) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Ana e Maria](https://open.spotify.com/album/6jjVrZBuB3fRQmqiV9C2Jp) | 3:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
 | 70 | [Paciência](https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Paciência](https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL) | 4:28 |
 
-Snapshot ID: `MTY3ODQ5ODUyOCwwMDAwMDAwMDE2ODNjZjI3OGYwOTgzZWQwMDA5NTdhMDAyMzcyODlm`
+Snapshot ID: `MTY3ODQ5ODUyOCwwMDAwMDAwMGI3ZjQwNDI5MjkxNWQ4NzAzMWI5ZjA0ODhmZDNmYjEx`

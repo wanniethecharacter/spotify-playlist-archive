@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dZ7oW0l88P.md) - [plain]
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,313 likes - 98 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,434 likes - 98 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dZ7oW0l88P.md) - [plain]
 | 8 | [The Whirling Ways of Stars that Pass](https://open.spotify.com/track/1VWYKR91K0WYMxyBHNaYxt) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 1:52 |
 | 9 | [Pure Compassion](https://open.spotify.com/track/2lfF19uOXezWdCisdAtQJh) | [Trancistique](https://open.spotify.com/artist/5FIPYREWb6VB1awzWKGD0I) | [Pure Compassion](https://open.spotify.com/album/3PATLSMzIxGyO16NM4X44Y) | 2:44 |
 | 10 | [Imagination](https://open.spotify.com/track/4iJvgV83C0eljC2gZPXGyt) | [Zimdizi](https://open.spotify.com/artist/144HUlx66zGheUbx0092oN) | [Imagination](https://open.spotify.com/album/59ngJWf69ZTOcqluzAxTta) | 3:09 |
-| 11 | [Written on the Sky](https://open.spotify.com/track/0I6Pbgf7fjPMqu3Ah9jOhI) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Actus Tragicus](https://open.spotify.com/album/5y3BawuYMUk0iOdKsAepdr) | 2:02 |
+| 11 | [Written on the Sky](https://open.spotify.com/track/0I6Pbgf7fjPMqu3Ah9jOhI) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp), [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Actus Tragicus](https://open.spotify.com/album/5y3BawuYMUk0iOdKsAepdr) | 2:02 |
 | 12 | [The Brave Hearted](https://open.spotify.com/track/2Ju28ECq7fOas1vnjAlieD) | [Carla McVeigh](https://open.spotify.com/artist/7BmbWFyLHih6McFgWHjdKT) | [The Brave Hearted](https://open.spotify.com/album/7n2zVISJbZFdgd32UaVKAJ) | 2:55 |
 | 13 | [Angelic Harp](https://open.spotify.com/track/6veBbD4BqHpjRg6Il27Wd9) | [Laura Lotti](https://open.spotify.com/artist/2RIXIXkQwCbradmk0Scqjj) | [Angelic Harp](https://open.spotify.com/album/76aM79V9VXvpcXry4Q1O3z) | 1:47 |
 | 14 | [The Unicorn](https://open.spotify.com/track/4UbQPN5TaYLhUcbfIEWTPM) | [Chalmeris](https://open.spotify.com/artist/6qVGXh4jAcWmYKF2ppO46R) | [The Unicorn](https://open.spotify.com/album/5Ltol1xE3q59jdjrgVTLdF) | 2:21 |

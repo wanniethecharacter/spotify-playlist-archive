@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 7665,
+  "num_followers": 7681,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxNjYwOCwwMDAwMDAwMDQ0ZDNkMWEwZmJiZjEyMGIzOWQ3ZTZjYWI4MWRjOGM0",
+  "snapshot_id": "MTY3NzgxNjYwOCwwMDAwMDAwMDhiNTk0YjE1OGVjZGZmNmNhNzg4OGIwYTgyNzdkNTBm",
   "tracks": [
     {
       "added_at": "2023-03-03 04:10:08",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-03-03 04:10:08",
       "album": {
+        "name": "Sweet Lullaby",
+        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Sweet Lullaby",
+      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
+    },
+    {
+      "added_at": "2023-03-03 04:10:08",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 370946,
       "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
-    },
-    {
-      "added_at": "2023-03-03 04:10:08",
-      "album": {
-        "name": "Sweet Lullaby",
-        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Sweet Lullaby",
-      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
     },
     {
       "added_at": "2023-03-03 04:10:08",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-03-03 04:10:08",
       "album": {
-        "name": "Lean On Me (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
-      },
-      "artists": [
-        {
-          "name": "Kim Ho Yeon",
-          "url": "https://open.spotify.com/artist/4bE7weEOII2Pjnf9wnbXT1"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "It will be all fine",
-      "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
-    },
-    {
-      "added_at": "2023-03-03 04:10:08",
-      "album": {
         "name": "What Should I do",
         "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 231053,
       "name": "Is you",
       "url": "https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb"
+    },
+    {
+      "added_at": "2023-03-03 04:10:08",
+      "album": {
+        "name": "Lean On Me (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
+      },
+      "artists": [
+        {
+          "name": "Kim Ho Yeon",
+          "url": "https://open.spotify.com/artist/4bE7weEOII2Pjnf9wnbXT1"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "It will be all fine",
+      "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
     },
     {
       "added_at": "2023-03-03 04:10:08",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-03 04:10:08",
       "album": {
-        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
-      },
-      "artists": [
-        {
-          "name": "J Rabbit",
-          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
-    },
-    {
-      "added_at": "2023-03-03 04:10:08",
-      "album": {
         "name": "let\u2019s play tug",
         "url": "https://open.spotify.com/album/58dDHLjbbAYjwsKnxnTSuR"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 166196,
       "name": "let\u2019s play tug",
       "url": "https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca"
+    },
+    {
+      "added_at": "2023-03-03 04:10:08",
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
     },
     {
       "added_at": "2023-03-03 04:10:08",
@@ -723,18 +723,22 @@
     {
       "added_at": "2023-03-03 04:10:08",
       "album": {
-        "name": "OceanooM\u2218\u263d",
-        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
+        "name": "Do You Know My Heart",
+        "url": "https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD"
       },
       "artists": [
         {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+          "name": "Norwegian Wood",
+          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
+        },
+        {
+          "name": "NUITNUIT",
+          "url": "https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM"
         }
       ],
-      "duration_ms": 205306,
-      "name": "OceanooM\u2218\u263d",
-      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
+      "duration_ms": 201151,
+      "name": "Do You Know My Heart (Feat. NUITNUIT)",
+      "url": "https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC"
     },
     {
       "added_at": "2023-03-03 04:10:08",
@@ -755,22 +759,18 @@
     {
       "added_at": "2023-03-03 04:10:08",
       "album": {
-        "name": "Do You Know My Heart",
-        "url": "https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD"
+        "name": "OceanooM\u2218\u263d",
+        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
       },
       "artists": [
         {
-          "name": "Norwegian Wood",
-          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
-        },
-        {
-          "name": "NUITNUIT",
-          "url": "https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM"
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
         }
       ],
-      "duration_ms": 201151,
-      "name": "Do You Know My Heart (Feat. NUITNUIT)",
-      "url": "https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC"
+      "duration_ms": 205306,
+      "name": "OceanooM\u2218\u263d",
+      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
     },
     {
       "added_at": "2023-03-03 04:10:08",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-03-03 04:10:08",
       "album": {
+        "name": "Summer Festa",
+        "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "Summer Festa",
+      "url": "https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR"
+    },
+    {
+      "added_at": "2023-03-03 04:10:08",
+      "album": {
         "name": "SHE",
         "url": "https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 198040,
       "name": "SHE",
       "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
-    },
-    {
-      "added_at": "2023-03-03 04:10:08",
-      "album": {
-        "name": "Summer Festa",
-        "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 190040,
-      "name": "Summer Festa",
-      "url": "https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR"
     },
     {
       "added_at": "2023-03-03 04:10:08",

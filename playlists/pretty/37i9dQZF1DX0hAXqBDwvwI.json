@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 413870,
+  "num_followers": 414463,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODExODAyMSwwMDAwMDAwMDA2YTY0NDlhMzZmMmEzYTcxZTVmNmYxMjc5NDQ3NzQx",
+  "snapshot_id": "MTY3ODExODAyMSwwMDAwMDAwMDNkZjQzMjg5ZDVkOWFiMTVhZDhkNmM4ZGVlMTU4MDhm",
   "tracks": [
     {
       "added_at": "2023-03-06 15:53:41",
@@ -635,6 +635,26 @@
     {
       "added_at": "2023-03-06 15:53:41",
       "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Suzume",
+      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
+    },
+    {
+      "added_at": "2023-03-06 15:53:41",
+      "album": {
         "name": "\u9320\u5264",
         "url": "https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 280466,
       "name": "Boku no Sensou",
       "url": "https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh"
-    },
-    {
-      "added_at": "2023-03-06 15:53:41",
-      "album": {
-        "name": "Suzume (Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        },
-        {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Suzume",
-      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
     },
     {
       "added_at": "2023-03-06 15:53:41",

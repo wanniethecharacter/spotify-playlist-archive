@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 65063,
+  "num_followers": 65165,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE0OTIzNiwwMDAwMDAwMGQ5ODdjMWFlODdlMzE3MDFmOThhMTIzOGIxOWQ4MzNk",
+  "snapshot_id": "MTY3NDE0OTIzNiwwMDAwMDAwMDAzNzdkNmNiMmI2MWY3NGMzMjk1Yzk3NDFmYTEyMjYz",
   "tracks": [
     {
       "added_at": "2023-01-19 17:27:16",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Rock Me Tonight",
-        "url": "https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV"
-      },
-      "artists": [
-        {
-          "name": "Freddie Jackson",
-          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
-        }
-      ],
-      "duration_ms": 284119,
-      "name": "You Are My Lady",
-      "url": "https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "That's The Way Of The World",
         "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 299333,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Rock Me Tonight",
+        "url": "https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV"
+      },
+      "artists": [
+        {
+          "name": "Freddie Jackson",
+          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
+        }
+      ],
+      "duration_ms": 284119,
+      "name": "You Are My Lady",
+      "url": "https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf"
     },
     {
       "added_at": "2023-01-19 17:27:16",

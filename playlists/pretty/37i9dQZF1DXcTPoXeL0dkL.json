@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 171516,
+  "num_followers": 171609,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMDI4ZDlhYTEzMGFhMDc2NjcyYTFlN2JkNzRlOGU2MGUz",
+  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMDRiOGEwODJkOTg3YTllNjQyYjkwN2Q1NGIzNjU3MDYz",
   "tracks": [
     {
       "added_at": "2023-02-07 01:31:56",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenato",
-          "url": "https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X"
-        }
-      ],
-      "duration_ms": 269240,
-      "name": "El Santo Cachon",
-      "url": "https://open.spotify.com/track/3zR4QhbiQ7zZ6eR58jT43d"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
         "name": "Con Aroma de Mujer",
         "url": "https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 289133,
       "name": "Todo Daria por Ti",
       "url": "https://open.spotify.com/track/2Nbfy4NBo26CbHt9GC9nn2"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenato",
+          "url": "https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X"
+        }
+      ],
+      "duration_ms": 269240,
+      "name": "El Santo Cachon",
+      "url": "https://open.spotify.com/track/3zR4QhbiQ7zZ6eR58jT43d"
     },
     {
       "added_at": "2023-02-07 01:31:56",

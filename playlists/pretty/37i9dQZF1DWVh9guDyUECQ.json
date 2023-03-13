@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 161037,
+  "num_followers": 161095,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMDhkOGE3ZDA4MjI0Nzg1N2RjZDA3YjY1MGJjZmMxYjk0",
+  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMGEwNTdkYzJkMGViYTA4ODYxNjAyYWRmOWIzODJhNzdj",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Por un Momento",
-        "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
-      },
-      "artists": [
-        {
-          "name": "The cXurch",
-          "url": "https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL"
-        },
-        {
-          "name": "Villanova",
-          "url": "https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Por un Momento",
-      "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Apocalipsis (Remix)",
         "url": "https://open.spotify.com/album/1CFULVLikyzs7MLrRtuwmY"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 250480,
       "name": "Apocalipsis - Remix",
       "url": "https://open.spotify.com/track/3LlofqmjZxsorZ27t3qiHd"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Por un Momento",
+        "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
+      },
+      "artists": [
+        {
+          "name": "The cXurch",
+          "url": "https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL"
+        },
+        {
+          "name": "Villanova",
+          "url": "https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Por un Momento",
+      "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Sigo Aqui",
+        "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Sigo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Somos Las Voces",
         "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 242497,
       "name": "Somos Las Voces",
       "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "NO ME MOVER\u00c9",
-        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Isaac Rojas",
-          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
-        }
-      ],
-      "duration_ms": 186660,
-      "name": "NO ME MOVER\u00c9",
-      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1459,22 +1459,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Sigo Aqui",
-        "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
+        "name": "NO ME MOVER\u00c9",
+        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
       },
       "artists": [
         {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
         },
         {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+          "name": "Isaac Rojas",
+          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
         }
       ],
-      "duration_ms": 194986,
-      "name": "Sigo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
+      "duration_ms": 186660,
+      "name": "NO ME MOVER\u00c9",
+      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Yo Te Mir\u00e9",
-        "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Yo Te Mire",
-      "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Soy Tan Feliz",
         "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 144155,
       "name": "Veintiuno",
       "url": "https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Yo Te Mir\u00e9",
+        "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Yo Te Mire",
+      "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Inmenso",
+        "url": "https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Inmenso",
+      "url": "https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Blanco|Negro",
         "url": "https://open.spotify.com/album/1EryW4CnFqsvPWVWOOS4cI"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 157100,
       "name": "Los Bendigo",
       "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Inmenso",
-        "url": "https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Inmenso",
-      "url": "https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1903,6 +1903,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Un Call",
+        "url": "https://open.spotify.com/album/41skV30829DyjovTu9BPas"
+      },
+      "artists": [
+        {
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+        },
+        {
+          "name": "Townix",
+          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Un Call",
+      "url": "https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "No Tiene Sentido",
         "url": "https://open.spotify.com/album/1o7jXsTfe2SrhI4HEPoaKO"
       },
@@ -1923,26 +1943,6 @@
       "duration_ms": 253388,
       "name": "No Tiene Sentido",
       "url": "https://open.spotify.com/track/2jSSGUPLFu6OFlFuTWOLlP"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Un Call",
-        "url": "https://open.spotify.com/album/41skV30829DyjovTu9BPas"
-      },
-      "artists": [
-        {
-          "name": "Daniela Galeano",
-          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
-        },
-        {
-          "name": "Townix",
-          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Un Call",
-      "url": "https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo"
     },
     {
       "added_at": "2022-08-27 05:04:45",

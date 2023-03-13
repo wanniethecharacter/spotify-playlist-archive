@@ -4,7 +4,7 @@
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Orquesta Candela
 
-119 songs - 8 hr 15 min
+120 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Días Felices](https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:20 | 2022-02-11 |  |
 | [Dígame usted señorita](https://open.spotify.com/track/73uNKhA2TUC93J9mIk7hrZ) | [Mauricio Mesones](https://open.spotify.com/artist/3rncKt7sH5O1C2xPOyGlze), [Kale “La Evolución”](https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz) | [Dígame usted señorita](https://open.spotify.com/album/0AVgpKaGnG95xnZ1MBozW7) | 3:43 | 2022-12-16 | 2023-02-04 |
 | [Dónde Están Tus Promesas](https://open.spotify.com/track/4DmHyMwMcY8zTpjaPYUww7) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Dónde Están Tus Promesas](https://open.spotify.com/album/6WB90h49FN3lxERKThcrft) | 4:09 | 2022-08-05 | 2022-11-12 |
-| [El Arbolito](https://open.spotify.com/track/3aJQuNjwNNPnSzoajeuNvQ) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Embriágame Suavecito/Los Reyes De La Cumbia](https://open.spotify.com/album/6g8caHNdGCEXRDJrt18ofY) | 3:35 | 2022-02-11 |  |
+| [El Arbolito](https://open.spotify.com/track/3aJQuNjwNNPnSzoajeuNvQ) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Embriágame Suavecito/Los Reyes De La Cumbia](https://open.spotify.com/album/6g8caHNdGCEXRDJrt18ofY) | 3:35 | 2022-02-11 | 2023-03-13 |
 | [El Casorio](https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6) | [Orquesta Caña Brava](https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM) | [VOL.1](https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg) | 5:29 | 2022-02-11 | 2022-11-13 |
 | [El Ritmo de Mi Corazon](https://open.spotify.com/track/2RFMVm8ox1fX27BJLFhvLz) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [El Ritmo de Mi Corazon](https://open.spotify.com/album/65waTGJFJw8XASFnrfgAKC) | 3:43 | 2022-02-11 | 2022-07-25 |
 | [El Ritmo de Mi Corazón](https://open.spotify.com/track/3SQRqRJ4xl2FZ8B5eswvvU) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [El Ritmo de Mi Corazón](https://open.spotify.com/album/55mg4qE79gK6ZYCyihWYo6) | 3:40 | 2022-02-11 |  |
@@ -76,6 +76,7 @@
 | [Motivos](https://open.spotify.com/track/3ovuamiUGQPLN0HuVeCNKi) | [Los Morunos](https://open.spotify.com/artist/7aH8EFjZNlY5FLsjmR9Bqh), [Mariachi Los Fortunatos](https://open.spotify.com/artist/0lsLHvQYVP3ZRzADYk90vN) | [Es para Ti Esta Serenata](https://open.spotify.com/album/2Dkbg4ojESNAQFQw3Y6lsC) | 4:02 | 2022-02-11 | 2022-07-16 |
 | [Motor Y Motivo](https://open.spotify.com/track/2yjHvbMtfyoXXJYpsR3rYP) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Motor Y Motivo](https://open.spotify.com/album/69585tYHxNAZVvA9X1VwhK) | 3:16 | 2022-02-11 |  |
 | [Muchachita](https://open.spotify.com/track/7d0gsBmBCq2MXGyc8j94n1) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Embriágame Suavecito/Los Reyes De La Cumbia](https://open.spotify.com/album/6g8caHNdGCEXRDJrt18ofY) | 3:25 | 2022-02-11 | 2023-03-02 |
+| [Muchahita](https://open.spotify.com/track/5yGFm9tvElzhY4DkEl45h5) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Embriágame Suavecito/Los Reyes De La Cumbia](https://open.spotify.com/album/37Vtar7W83nFn6pfFbVu0s) | 3:24 | 2023-02-17 |  |
 | [Mujer Hilandera](https://open.spotify.com/track/0JbR3UC5ZLQATxFrJXIkgu) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Cumbia](https://open.spotify.com/album/4pw5CUedCL8T3kDSTRTDeU) | 5:00 | 2022-02-11 | 2022-07-06 |
 | [Necesito un Amor](https://open.spotify.com/track/36iXRKh2V3ADgwget5bzpy) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Necesito un Amor](https://open.spotify.com/album/6sQMUFiJsBhRcR6ut1zqG1) | 4:10 | 2022-02-11 |  |
 | [Necesito Un Amor](https://open.spotify.com/track/6LttWHXWaQeOttWPLll4BH) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [20 Años](https://open.spotify.com/album/5wBU0L4PDorACPWhXI4LQN) | 4:14 | 2022-02-11 | 2022-07-29 |

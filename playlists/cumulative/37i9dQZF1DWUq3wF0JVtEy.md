@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-304 songs - 14 hr 58 min
+305 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Fool](https://open.spotify.com/track/5DPkzkBSFFMY7u0QKSMIBC) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Fool](https://open.spotify.com/album/7srxSNnTWeirw0haBqUQey) | 3:15 | 2022-01-21 | 2022-07-29 |
 | [Fool for You](https://open.spotify.com/track/2tt4GTCzZdV3yP2PZQjrbr) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4) | [Fool for You](https://open.spotify.com/album/2UV9snZDoMGxjR8j40ZTyB) | 3:14 | 2021-10-29 | 2022-06-11 |
 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 | 2022-11-11 |  |
-| [Forever](https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM) | [Forever](https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e) | 3:58 | 2022-09-09 |  |
+| [Forever](https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM) | [Forever](https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e) | 3:58 | 2022-09-09 | 2023-03-13 |
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-10-29 | 2022-02-12 |
 | [Free My Mind](https://open.spotify.com/track/3FEDVRLhSQbtXKXrUhsEJa) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Free My Mind](https://open.spotify.com/album/1W09O51MifKfx4XAl851q9) | 2:51 | 2023-03-03 |  |
 | [Free My Mind](https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Free My Mind](https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU) | 2:51 | 2022-08-26 | 2023-02-27 |
@@ -160,6 +160,7 @@
 | [Leave Your Mind Behind](https://open.spotify.com/track/7CMjldJAvD3xRRBcIHwIlu) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [Leave Your Mind Behind](https://open.spotify.com/album/7Ckr9G0rfEY30E1qkDcn3I) | 3:06 | 2022-12-16 | 2023-01-06 |
 | [Left & Right](https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Left & Right](https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS) | 2:34 | 2022-10-14 |  |
 | [LEFT TO RIGHT](https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3) | 2:26 | 2022-08-26 | 2023-02-25 |
+| [LEFT TO RIGHT](https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q) | 2:26 | 2023-03-10 |  |
 | [LEFT TO RIGHT](https://open.spotify.com/track/4zzZGPInXkaUa4KEuuyFSn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4dFzMinnMwvmQZLQubahEh) | 2:26 | 2022-08-26 | 2022-09-05 |
 | [Let Me Be The One](https://open.spotify.com/track/5ijDq4SioO6LGGeAIZu6W9) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [Let Me Be The One](https://open.spotify.com/album/0ywvrZjl2FsnnjQGi6wOnU) | 2:39 | 2021-10-29 | 2022-04-21 |
 | [Let's Get Down](https://open.spotify.com/track/0XMEQwAZFgX4PGb5eu67B8) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Let's Get Down](https://open.spotify.com/album/0RMwN0JKg3S63dZQzhwhL6) | 3:13 | 2021-10-29 | 2022-11-12 |

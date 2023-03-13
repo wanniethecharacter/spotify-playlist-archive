@@ -2689,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "Lonely Love Song",
+        "url": "https://open.spotify.com/album/133u1HCKHE50wMw0PrcKFg"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157857,
+      "name": "Lonely Love Song",
+      "url": "https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw"
+    },
+    {
+      "album": {
         "name": "INTO THE BLUE",
         "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
       },
@@ -2780,7 +2798,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 210026,
       "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
       "url": "https://open.spotify.com/track/6QAGeFtnxxXGN8sig88JEC"

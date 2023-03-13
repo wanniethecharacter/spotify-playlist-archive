@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,978 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,183 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 59 | [You're Sensational](https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi) | [Eric Reed Trio](https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q) | [Blue Trane](https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x) | 6:52 |
 | 60 | [Yes Sir, That's My Baby](https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 4:20 |
 | 61 | [See See Rider](https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [My Kinda Swing](https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa) | 3:02 |
-| 62 | [On a Clear Day \(You Can See Forever\) \- Live](https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Exclusively for My Friends: Girl Talk, Vol\. II](https://open.spotify.com/album/3UL145zQyFoPH9WCRDUD3f) | 4:21 |
-| 63 | [Green Eyes](https://open.spotify.com/track/56z6nKTleua5OBs5dO76aV) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Light\-Foot](https://open.spotify.com/album/4TUkYB55C23uHCxyLjGAaR) | 5:19 |
+| 62 | [Green Eyes](https://open.spotify.com/track/56z6nKTleua5OBs5dO76aV) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Light\-Foot](https://open.spotify.com/album/4TUkYB55C23uHCxyLjGAaR) | 5:19 |
+| 63 | [On a Clear Day \(You Can See Forever\) \- Live](https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Exclusively for My Friends: Girl Talk, Vol\. II](https://open.spotify.com/album/3UL145zQyFoPH9WCRDUD3f) | 4:21 |
 | 64 | [Hello Bright Sunflower \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 7:33 |
 | 65 | [Ridin' High](https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:10 |
 | 66 | [Back Beat](https://open.spotify.com/track/1EDPO11fsLlQvGBhzxprqS) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jazz Masters 35: Johnny Hodges](https://open.spotify.com/album/4fPxmVU9pLV7SVfIKFkDLr) | 7:27 |
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 85 | [Ca\-Lee\-So \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Delightfulee](https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI) | 5:34 |
 | 86 | [Oops!](https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Cheek To Cheek: The Complete Duet Recordings](https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX) | 3:11 |
 | 87 | [Recado Bossa Nova \- Remastered 2005](https://open.spotify.com/track/5K5NOAnF7DwQATrEumi6dS) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Dippin'](https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j) | 8:11 |
-| 88 | [It's Crazy](https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 5:06 |
+| 88 | [On the Sunny Side of the Street](https://open.spotify.com/track/1oUUEvFBplfRbVwMkp8v8Z) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Peggy Lee \- The Great American Songbook](https://open.spotify.com/album/2dKw7DRG9yxRdn0v02p8q7) | 3:13 |
 | 89 | [I Feel Foolish](https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [I Feel Foolish](https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3) | 3:09 |
 | 90 | [I'm Putting All My Eggs In One Basket](https://open.spotify.com/track/63OYNxGrbMgvoPFatr9X9C) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Blue Moon](https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX) | 2:21 |
-| 91 | [On the Sunny Side of the Street](https://open.spotify.com/track/1oUUEvFBplfRbVwMkp8v8Z) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Peggy Lee \- The Great American Songbook](https://open.spotify.com/album/2dKw7DRG9yxRdn0v02p8q7) | 3:13 |
+| 91 | [It's Crazy](https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 5:06 |
 | 92 | [Doozy \- 1966 Album Version](https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Additions To Further Definitions](https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb) | 5:31 |
 | 93 | [I'm Beginning To See The Light \- Mono Version](https://open.spotify.com/track/3oDZ1hAeCOUo0oJKlqc9sw) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [The Complete Clef & Verve Fifties Studio Recordings](https://open.spotify.com/album/7GLEidBdAgwkHt3tDG5gvT) | 3:08 |
 | 94 | [Get Happy](https://open.spotify.com/track/7ndRluuhCWFbz9QdrxIuso) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Lady Sings the Blues](https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [It's All Right With Me \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/0fnMpSyjIY0PmtHlopoIow) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:00 |
 | 100 | [Uncle Rough](https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Sonic Boom](https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND) | 5:33 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDIwZmY0ZjIyNGQxZjUxNzMwY2U5NDFlZGIwY2E2ODEw`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDExZjg3M2YyNTEyNGQ0NDc3YjRjOWY1MjkyZmU1NzM3`

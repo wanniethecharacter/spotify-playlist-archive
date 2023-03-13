@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Stef Bos
 
-101 songs - 6 hr 27 min
+102 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Mooie Dag](https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:38 | 2023-02-10 |  |
 | [Niemand In De Stad](https://open.spotify.com/track/3dE95e0gGFeoPPRt4njApK) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 4:51 | 2023-02-10 |  |
 | [Niet Of Nooit Geweest](https://open.spotify.com/track/4439gDsZasiXC4mGpw6yJc) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Naar Huis](https://open.spotify.com/album/3FN2HuiYuwTvIueH6LOmEg) | 4:02 | 2023-02-10 |  |
-| [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 | 2023-02-10 |  |
+| [Oceaan](https://open.spotify.com/track/1YwR7Y6AmiaWEXFweKnTbj) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [Oceaan](https://open.spotify.com/album/0wIJiV022gnasuXF4vWT2r) | 2:42 | 2023-02-10 |  |
+| [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 | 2023-02-10 | 2023-03-13 |
 | [Omarm](https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Omarm](https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv) | 4:12 | 2023-02-10 |  |
 | [Ongeveer](https://open.spotify.com/track/197PHOBtgwBTSky9oye0u9) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Het Is](https://open.spotify.com/album/1Yc0HbRlIZwaOY9jGpxMY5) | 4:41 | 2023-02-10 |  |
 | [Ons huis](https://open.spotify.com/track/60gmU9gSmU41iszHNh4GZO) | [Tess Merlot](https://open.spotify.com/artist/4o289mGagoNKNbEJhQuoGP) | [Ons huis](https://open.spotify.com/album/3HRExOCSuLAwYNs7g7gfnT) | 4:17 | 2023-02-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Musica dance per le tue giornate di sole!",
-  "num_followers": 91715,
+  "num_followers": 91734,
   "original_name": "Voglia di Sole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU0ODQxNSwwMDAwMDAwMDY3NTY2NjJmNzY0YmYyMjNhZGU0ZGUyOTNiZTRkOTkw",
+  "snapshot_id": "MTY3MTU0ODQxNSwwMDAwMDAwMDE5NDMyODYzNDJlYjYzMDFmMDQ4OThiYjY0ZmQ0YmRj",
   "tracks": [
     {
       "added_at": "2022-12-20 15:00:15",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
         "name": "I Want More",
         "url": "https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 129600,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 193923,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
         "name": "NOTED...EP",
         "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 158104,
       "name": "Worst Thing",
       "url": "https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 193923,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
+        "name": "Sweet Talker",
+        "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 176930,
+      "name": "Sweet Talker",
+      "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
         "name": "Love To Go",
         "url": "https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 169353,
       "name": "Love To Go",
       "url": "https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
-        "name": "Sweet Talker",
-        "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 176930,
-      "name": "Sweet Talker",
-      "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Castles",
-        "url": "https://open.spotify.com/album/3BSnLCAE4SOZkMFiy10Rik"
-      },
-      "artists": [
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "World's First Cinema",
-          "url": "https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF"
-        }
-      ],
-      "duration_ms": 215527,
-      "name": "Castles",
-      "url": "https://open.spotify.com/track/3QdzpmSbCNb8zh98lnUeXE"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2EbGQOhrYnc6oAOIKh4mUl"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 158354,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "Castles",
+        "url": "https://open.spotify.com/album/3BSnLCAE4SOZkMFiy10Rik"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "World's First Cinema",
+          "url": "https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF"
+        }
+      ],
+      "duration_ms": 215527,
+      "name": "Castles",
+      "url": "https://open.spotify.com/track/3QdzpmSbCNb8zh98lnUeXE"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1959,22 +1959,22 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Make You Feel Like",
-        "url": "https://open.spotify.com/album/4YWN7kOFGK0z8XWluklKtU"
+        "name": "Way It Is",
+        "url": "https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO"
       },
       "artists": [
         {
-          "name": "Junge Junge",
-          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
         },
         {
-          "name": "Redward Martin",
-          "url": "https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2"
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
         }
       ],
-      "duration_ms": 187372,
-      "name": "Make You Feel Like",
-      "url": "https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL"
+      "duration_ms": 192905,
+      "name": "Way It Is",
+      "url": "https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ"
     }
   ],
   "unique_name": "Voglia di Sole",

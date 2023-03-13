@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Subamos el volumen a las mujeres\. Co\-curada por Francisca Valenzuela.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,469 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,477 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,21 +21,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 11 | [Decidí](https://open.spotify.com/track/526Et8BPKtXBTIctZsrm3Z) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 3:26 |
 | 12 | [Menos Mierda](https://open.spotify.com/track/6I4RfnGgotxBNN5ucshR0Z) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Menos Mierda](https://open.spotify.com/album/6R7sheQVYhx0mGCkoSzJLr) | 3:38 |
 | 13 | [Después de Ahogarme](https://open.spotify.com/track/2rC1iZrQPTXbL4Pjm4kxYq) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Después de Ahogarme](https://open.spotify.com/album/7LRgXEYPGxgF675k7AkaVq) | 3:18 |
-| 14 | [Un Día Lo Encontré](https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:00 |
-| 15 | [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 |
+| 14 | [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 |
+| 15 | [Un Día Lo Encontré](https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:00 |
 | 16 | [No Estamos Solas \(Tema Central de la Serie "La Jauría"\) \- Tema Central de la Serie "La Jauría"](https://open.spotify.com/track/4LxtkdudLT8Bhgm9xwRyn5) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [No Estamos Solas \(Tema Central de la Serie "La Jauría"\)](https://open.spotify.com/album/4N2jf1sqfVuOFlmGLBDvi1) | 2:53 |
 | 17 | [Hola Impostora](https://open.spotify.com/track/5MdDNCg76PKSzrKeKI68wf) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Hola Impostora](https://open.spotify.com/album/1CuamEchzUcvdeVYyiioSt) | 2:40 |
 | 18 | [Volando en la Nube](https://open.spotify.com/track/4kDO7SsBLzlXXNl1bKozFn) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Volando en la Nube](https://open.spotify.com/album/2dopJK4bzSHttm5bxMd495) | 3:11 |
 | 19 | [Romper Platos](https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Cristal](https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1) | 3:13 |
-| 20 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 |
-| 21 | [Soltar](https://open.spotify.com/track/0JLCVUGEKXgnOeOAU5V0A0) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Soltar](https://open.spotify.com/album/62wbj4HDQ2G2iNE8ogS4A0) | 3:34 |
+| 20 | [Soltar](https://open.spotify.com/track/0JLCVUGEKXgnOeOAU5V0A0) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Soltar](https://open.spotify.com/album/62wbj4HDQ2G2iNE8ogS4A0) | 3:34 |
+| 21 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 |
 | 22 | [Por Que Se Fue la Paloma](https://open.spotify.com/track/7MfqQD9POKCfuxn5GxEO7Y) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Por Que Se Fue la Paloma](https://open.spotify.com/album/3TW1yBSvYhoFflREstW8Cd) | 4:03 |
 | 23 | [¿Y Tú Qué Esperas?](https://open.spotify.com/track/3KtD9UUoMQx5K2tLmXnNSQ) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [¿Y Tú Qué Esperas?](https://open.spotify.com/album/75eQDaOHwg0zCmZwN9koDI) | 3:20 |
 | 24 | [Lo Que No Te Conté](https://open.spotify.com/track/3Z452bjBcSY5lVXxlCCwSf) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [Lo Que No Te Conté](https://open.spotify.com/album/6g5cG2wmNh2HPAW4oJXgS7) | 3:42 |
 | 25 | [SALÚ](https://open.spotify.com/track/3n9UWV1Xa23WtOKpEfnbVv) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Vida Tan Bonita](https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C) | 3:20 |
 | 26 | [Rara](https://open.spotify.com/track/7F7Bga2mi1fYcuY7gspC2G) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Voz Que Sana](https://open.spotify.com/album/1hdKat0bGuYY7vcPF9ywSp) | 3:32 |
-| 27 | [SOLO UN FIN](https://open.spotify.com/track/2Nm6gM6WU0WMc5BejJ78Cu) | [anto](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [SOLO UN FIN](https://open.spotify.com/album/64AjH3ht7XeqmgaAV3BLRK) | 2:34 |
-| 28 | [La Canción Es Protesta](https://open.spotify.com/track/4SwobFMtZrCVdcBE4PNBoy) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Fuego \(Canciones de Emergencia\)](https://open.spotify.com/album/41S8vaZ1x2DS1T1U9fH3ZR) | 4:58 |
+| 27 | [La Canción Es Protesta](https://open.spotify.com/track/4SwobFMtZrCVdcBE4PNBoy) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Fuego \(Canciones de Emergencia\)](https://open.spotify.com/album/41S8vaZ1x2DS1T1U9fH3ZR) | 4:58 |
+| 28 | [SOLO UN FIN](https://open.spotify.com/track/2Nm6gM6WU0WMc5BejJ78Cu) | [anto](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [SOLO UN FIN](https://open.spotify.com/album/64AjH3ht7XeqmgaAV3BLRK) | 2:34 |
 | 29 | [La Mariposa](https://open.spotify.com/track/56Q5cYrFTvaHbHmApsLdgI) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Sopita de pan](https://open.spotify.com/album/3XqCraq3luG498wyPggqup) | 4:24 |
 | 30 | [Manifiesto](https://open.spotify.com/track/7rXnH5CggkXAAIxWHh0U0H) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Mami Trap](https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc) | 2:27 |
 | 31 | [Quiérete Mucho ♡](https://open.spotify.com/track/7kDutlhRN5y6XeEgKz06eI) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X) | [Quiérete Mucho ♡](https://open.spotify.com/album/47b22rXJAyeKYdr4qn2vVF) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Tan en el Aire](https://open.spotify.com/track/3FR4AnFf2zbYaesNbLpSiK) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Historias para Cuando Sea Abuela](https://open.spotify.com/album/0LtK9bUcKNtbu0iwZBgyGU) | 3:24 |
 | 50 | [Todo Va a Andar Bien](https://open.spotify.com/track/40gB7Xjf1lU61cxUc3UBCw) | [Consuelo Schuster](https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk) | [Pa´ Tu Corazón](https://open.spotify.com/album/7JzbpfQPJp43G5DaLS6kvg) | 2:44 |
 
-Snapshot ID: `MTY3NzYzOTYwMCwwMDAwMDAwMDM0N2RmNDk2ODE4MTdmYzgxNDE5OWMxMzc1MjlmMWE2`
+Snapshot ID: `MTY3NzYzOTYwMCwwMDAwMDAwMDEzYThjY2MzNjNiOGY4N2MyZmMwNDQ2M2ZiOTM3OTk3`

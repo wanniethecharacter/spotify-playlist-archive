@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend ft\. boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,078 likes - 102 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,112 likes - 102 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

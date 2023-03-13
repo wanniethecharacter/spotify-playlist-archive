@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 19697,
+  "num_followers": 19738,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjcwMTMyMiwwMDAwMDAwMDI1NjFkNzkxOWU2MTkxMTU2YWYxYWJjYmE2NGI0NjE5",
+  "snapshot_id": "MTY3NjcwMTMyMiwwMDAwMDAwMDNiNTNhMmY4MDJkOGVkY2QwMGVmN2IxODE2MDlkNDI5",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -451,6 +451,30 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/6zDrYIeQaD7KS3HAZst1PJ"
+      },
+      "artists": [
+        {
+          "name": "Ecclesia",
+          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "duration_ms": 154624,
+      "name": "Radical",
+      "url": "https://open.spotify.com/track/1Y9JQO7FizZV8zLuy509I8"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
         "name": "Twenty Four Seven",
         "url": "https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn"
       },
@@ -479,30 +503,6 @@
       "duration_ms": 238608,
       "name": "Delight in You",
       "url": "https://open.spotify.com/track/37YF8RDQ7u7JLQOnxcCH9b"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/6zDrYIeQaD7KS3HAZst1PJ"
-      },
-      "artists": [
-        {
-          "name": "Ecclesia",
-          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        },
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        }
-      ],
-      "duration_ms": 154624,
-      "name": "Radical",
-      "url": "https://open.spotify.com/track/1Y9JQO7FizZV8zLuy509I8"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Pep Talks",
-        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
+        "name": "Bridges",
+        "url": "https://open.spotify.com/album/3Q1tTDAW1SKfobpECr5LGk"
       },
       "artists": [
         {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
         }
       ],
-      "duration_ms": 144629,
-      "name": "Joyboy",
-      "url": "https://open.spotify.com/track/5fehE0eNK1ZrDgrTUJczNy"
+      "duration_ms": 216315,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/3B7UFYjPaGma1Pm3ZZgWyf"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Bridges",
-        "url": "https://open.spotify.com/album/3Q1tTDAW1SKfobpECr5LGk"
+        "name": "Pep Talks",
+        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
       },
       "artists": [
         {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 216315,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/3B7UFYjPaGma1Pm3ZZgWyf"
+      "duration_ms": 144629,
+      "name": "Joyboy",
+      "url": "https://open.spotify.com/track/5fehE0eNK1ZrDgrTUJczNy"
     },
     {
       "added_at": "2023-02-18 06:22:02",

@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Agnes Nunes",
-  "num_followers": 417943,
+  "num_followers": 417984,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODUwMzYwMCwwMDAwMDAwMDFiODUzMzc1YzEzOWE0ODFkYzM0NzUzN2RjYTM5YmQ5",
+  "snapshot_id": "MTY3ODUwMzYwMCwwMDAwMDAwMDA2OGY3MjQyZDU5NTQyYTA2YWNkYmY5MTBjZDRhZjcy",
   "tracks": [
     {
       "added_at": "2023-03-11 03:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-03-11 03:00:00",
       "album": {
-        "name": "Vem Meu Amor",
-        "url": "https://open.spotify.com/album/3wZxVvSQH4RlPOyF3p8sUw"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 155738,
-      "name": "Vem Meu Amor",
-      "url": "https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA"
-    },
-    {
-      "added_at": "2023-03-11 03:00:00",
-      "album": {
         "name": "Lance ou Romance",
         "url": "https://open.spotify.com/album/3KjkGGle84fgZbwHGvCnFc"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 162857,
       "name": "Lance ou Romance",
       "url": "https://open.spotify.com/track/4CklYjne6eks3KfBAW9MI8"
+    },
+    {
+      "added_at": "2023-03-11 03:00:00",
+      "album": {
+        "name": "Vem Meu Amor",
+        "url": "https://open.spotify.com/album/3wZxVvSQH4RlPOyF3p8sUw"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 155738,
+      "name": "Vem Meu Amor",
+      "url": "https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA"
     },
     {
       "added_at": "2023-03-11 03:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-03-11 03:00:00",
       "album": {
-        "name": "Ningu\u00e9m Precisa Saber",
-        "url": "https://open.spotify.com/album/5DrTY2K8ZmcZ1rvoRN7hb0"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 151254,
-      "name": "Ningu\u00e9m Precisa Saber",
-      "url": "https://open.spotify.com/track/6uRvEfwHu4c1XMuOz0e1hx"
-    },
-    {
-      "added_at": "2023-03-11 03:00:00",
-      "album": {
         "name": "Depois de Te Encontrar",
         "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 193804,
       "name": "Depois de Te Encontrar",
       "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
+    },
+    {
+      "added_at": "2023-03-11 03:00:00",
+      "album": {
+        "name": "Ningu\u00e9m Precisa Saber",
+        "url": "https://open.spotify.com/album/5DrTY2K8ZmcZ1rvoRN7hb0"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 151254,
+      "name": "Ningu\u00e9m Precisa Saber",
+      "url": "https://open.spotify.com/track/6uRvEfwHu4c1XMuOz0e1hx"
     },
     {
       "added_at": "2023-03-11 03:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-11 03:00:00",
       "album": {
-        "name": "CULPADO",
-        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "CULPADO",
-      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
-    },
-    {
-      "added_at": "2023-03-11 03:00:00",
-      "album": {
         "name": "ODEIO GENTE CHATA",
         "url": "https://open.spotify.com/album/5pn5YgQZRFjTkHeK9zyrbr"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 130104,
       "name": "ODEIO GENTE CHATA",
       "url": "https://open.spotify.com/track/3F2Q5uwDQ3qjNZB7a10rn6"
+    },
+    {
+      "added_at": "2023-03-11 03:00:00",
+      "album": {
+        "name": "CULPADO",
+        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "CULPADO",
+      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
     },
     {
       "added_at": "2023-03-11 03:00:00",
@@ -835,42 +835,6 @@
     {
       "added_at": "2023-03-11 03:00:00",
       "album": {
-        "name": "Atalaia",
-        "url": "https://open.spotify.com/album/2dYMAlHoZot2yZG5X2M28Q"
-      },
-      "artists": [
-        {
-          "name": "Vitor Soltau",
-          "url": "https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS"
-        },
-        {
-          "name": "Paulo Novaes",
-          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
-        }
-      ],
-      "duration_ms": 192746,
-      "name": "Atalaia",
-      "url": "https://open.spotify.com/track/3gx5LqxSuGGRdV8UvHTSZl"
-    },
-    {
-      "added_at": "2023-03-11 03:00:00",
-      "album": {
-        "name": "Unilateral",
-        "url": "https://open.spotify.com/album/2LzdiXVbmRVKg9oUV0xJKO"
-      },
-      "artists": [
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Fica l\u00e1 Com Ela",
-      "url": "https://open.spotify.com/track/0D4oKyrvWNp7ONO0H7xlc5"
-    },
-    {
-      "added_at": "2023-03-11 03:00:00",
-      "album": {
         "name": "Org\u00e2nico Ver\u00e3o 2023",
         "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
       },
@@ -899,6 +863,58 @@
     {
       "added_at": "2023-03-11 03:00:00",
       "album": {
+        "name": "Unilateral",
+        "url": "https://open.spotify.com/album/2LzdiXVbmRVKg9oUV0xJKO"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Fica l\u00e1 Com Ela",
+      "url": "https://open.spotify.com/track/0D4oKyrvWNp7ONO0H7xlc5"
+    },
+    {
+      "added_at": "2023-03-11 03:00:00",
+      "album": {
+        "name": "Atalaia",
+        "url": "https://open.spotify.com/album/2dYMAlHoZot2yZG5X2M28Q"
+      },
+      "artists": [
+        {
+          "name": "Vitor Soltau",
+          "url": "https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS"
+        },
+        {
+          "name": "Paulo Novaes",
+          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
+        }
+      ],
+      "duration_ms": 192746,
+      "name": "Atalaia",
+      "url": "https://open.spotify.com/track/3gx5LqxSuGGRdV8UvHTSZl"
+    },
+    {
+      "added_at": "2023-03-11 03:00:00",
+      "album": {
+        "name": "Por Voc\u00ea",
+        "url": "https://open.spotify.com/album/7gi0akHHXJgx8BmLgO6pgs"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 191769,
+      "name": "Por Voc\u00ea",
+      "url": "https://open.spotify.com/track/5TfAXQ7sgpqVlG8ZfT2wPf"
+    },
+    {
+      "added_at": "2023-03-11 03:00:00",
+      "album": {
         "name": "giz de cera",
         "url": "https://open.spotify.com/album/2Yz4JPqKxo52SinbfGyHmr"
       },
@@ -919,18 +935,34 @@
     {
       "added_at": "2023-03-11 03:00:00",
       "album": {
-        "name": "Por Voc\u00ea",
-        "url": "https://open.spotify.com/album/7gi0akHHXJgx8BmLgO6pgs"
+        "name": "Org\u00e2nico Ver\u00e3o 2023",
+        "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
       },
       "artists": [
         {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "S\u00f3CIRO",
+          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
+        },
+        {
+          "name": "Deb Ribeiro",
+          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j"
         }
       ],
-      "duration_ms": 191769,
-      "name": "Por Voc\u00ea",
-      "url": "https://open.spotify.com/track/5TfAXQ7sgpqVlG8ZfT2wPf"
+      "duration_ms": 236041,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/7yp9hrQRwoXIlkLnQjuYKH"
     },
     {
       "added_at": "2023-03-11 03:00:00",
@@ -979,38 +1011,6 @@
       "duration_ms": 242696,
       "name": "A Voz",
       "url": "https://open.spotify.com/track/45eQA1sSBrkbQ6BP5bBIem"
-    },
-    {
-      "added_at": "2023-03-11 03:00:00",
-      "album": {
-        "name": "Org\u00e2nico Ver\u00e3o 2023",
-        "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "S\u00f3CIRO",
-          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
-        },
-        {
-          "name": "Deb Ribeiro",
-          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
-        },
-        {
-          "name": "TK",
-          "url": "https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j"
-        }
-      ],
-      "duration_ms": 236041,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/7yp9hrQRwoXIlkLnQjuYKH"
     },
     {
       "added_at": "2023-03-11 03:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-03-11 03:00:00",
       "album": {
-        "name": "Olhar Sereno",
-        "url": "https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 185552,
-      "name": "Olhar Sereno",
-      "url": "https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW"
-    },
-    {
-      "added_at": "2023-03-11 03:00:00",
-      "album": {
         "name": "vida leve",
         "url": "https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 156909,
       "name": "vida leve",
       "url": "https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK"
+    },
+    {
+      "added_at": "2023-03-11 03:00:00",
+      "album": {
+        "name": "Olhar Sereno",
+        "url": "https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 185552,
+      "name": "Olhar Sereno",
+      "url": "https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW"
     },
     {
       "added_at": "2023-03-11 03:00:00",

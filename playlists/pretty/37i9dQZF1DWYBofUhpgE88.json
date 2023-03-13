@@ -1,12 +1,12 @@
 {
   "description": "La carica giusta per i tuoi allenamenti!",
-  "num_followers": 298880,
+  "num_followers": 298986,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDMxODc5NywwMDAwMDAwMDQ1NmUxZTQ5NjI0NzhlNTVhNzg4MjVmYTYxZDAzN2Rm",
+  "snapshot_id": "MTY3MDMxODc5NywwMDAwMDAwMDE0NDFiOGJhMzczOGI0M2IzNzdjYWYyNDNmNTBmNjk1",
   "tracks": [
     {
       "added_at": "2022-12-06 09:26:37",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-12-06 09:26:37",
       "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 181661,
+      "name": "Non Abbiamo Et\u00e0",
+      "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
+    },
+    {
+      "added_at": "2022-12-06 09:26:37",
+      "album": {
         "name": "TKN (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 129370,
       "name": "TKN (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
-    },
-    {
-      "added_at": "2022-12-06 09:26:37",
-      "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 181661,
-      "name": "Non Abbiamo Et\u00e0",
-      "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
     },
     {
       "added_at": "2022-12-06 09:26:37",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-12-06 09:26:37",
       "album": {
+        "name": "Blockbuster",
+        "url": "https://open.spotify.com/album/5gHmCqjB4VVbYzaoxTokGA"
+      },
+      "artists": [
+        {
+          "name": "Ramz",
+          "url": "https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Barking",
+      "url": "https://open.spotify.com/track/2JbO1rep5Um3RAKB8szQrR"
+    },
+    {
+      "added_at": "2022-12-06 09:26:37",
+      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -1111,46 +1127,6 @@
       "duration_ms": 200186,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
-    },
-    {
-      "added_at": "2022-12-06 09:26:37",
-      "album": {
-        "name": "Blockbuster",
-        "url": "https://open.spotify.com/album/5gHmCqjB4VVbYzaoxTokGA"
-      },
-      "artists": [
-        {
-          "name": "Ramz",
-          "url": "https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Barking",
-      "url": "https://open.spotify.com/track/2JbO1rep5Um3RAKB8szQrR"
-    },
-    {
-      "added_at": "2022-12-06 09:26:37",
-      "album": {
-        "name": "Gi\u00f9",
-        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "2nd Roof",
-          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
-        },
-        {
-          "name": "Vale pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "FEDELE AL QUARTIERE (feat. Vale Pain)",
-      "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
     },
     {
       "added_at": "2022-12-06 09:26:37",
@@ -1179,6 +1155,30 @@
       "duration_ms": 178721,
       "name": "MALA (feat. Lazza, Tony Effe, JVLI)",
       "url": "https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E"
+    },
+    {
+      "added_at": "2022-12-06 09:26:37",
+      "album": {
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
+        },
+        {
+          "name": "Vale pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "FEDELE AL QUARTIERE (feat. Vale Pain)",
+      "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
     },
     {
       "added_at": "2022-12-06 09:26:37",

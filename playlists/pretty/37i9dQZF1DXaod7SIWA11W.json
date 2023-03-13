@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: Foggieraw, artwork by Ian Woods",
-  "num_followers": 41885,
+  "num_followers": 41954,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI4MTM2MCwwMDAwMDAwMDc2YmE2YmJmN2FhMmY3N2ZhMjU3M2FmMjE3Y2Q2NmM0",
+  "snapshot_id": "MTY3NzI4MTM2MCwwMDAwMDAwMGM0M2I2NjgxNTg0NjBmNzdhYThkZGNkNjkzOTU3MTdh",
   "tracks": [
     {
       "added_at": "2023-02-17 08:47:35",
@@ -251,38 +251,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Your World",
-        "url": "https://open.spotify.com/album/2qaz1wPf35kHxD8q572mtS"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        }
-      ],
-      "duration_ms": 196830,
-      "name": "Your World",
-      "url": "https://open.spotify.com/track/2tgk4RT1YiWKiuWMmDLhf3"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
-        "name": "Won't Be Long Now",
-        "url": "https://open.spotify.com/album/6TWsl5HF5rEzq811eQOTGc"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 195541,
-      "name": "Won't Be Long Now",
-      "url": "https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
         "url": "https://open.spotify.com/album/4KdsGYinvqc6quBfbTChHz"
       },
@@ -323,6 +291,38 @@
       "duration_ms": 188455,
       "name": "Abba",
       "url": "https://open.spotify.com/track/7giTK6DqwQcqIFWFLPfx75"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Won't Be Long Now",
+        "url": "https://open.spotify.com/album/6TWsl5HF5rEzq811eQOTGc"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 195541,
+      "name": "Won't Be Long Now",
+      "url": "https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Your World",
+        "url": "https://open.spotify.com/album/2qaz1wPf35kHxD8q572mtS"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 196830,
+      "name": "Your World",
+      "url": "https://open.spotify.com/track/2tgk4RT1YiWKiuWMmDLhf3"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Nights In Atlanta",
-        "url": "https://open.spotify.com/album/1OlLegTQGhMbpOtCtWekkE"
-      },
-      "artists": [
-        {
-          "name": "Da' T.R.U.T.H.",
-          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Nights In Atlanta",
-      "url": "https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "I Heard A Voice",
         "url": "https://open.spotify.com/album/2PrK3fThYOobj3kHtoT4kv"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 88826,
       "name": "I Heard A Voice",
       "url": "https://open.spotify.com/track/0cWoF0i1AUtHL98Qj9NZh8"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Nights In Atlanta",
+        "url": "https://open.spotify.com/album/1OlLegTQGhMbpOtCtWekkE"
+      },
+      "artists": [
+        {
+          "name": "Da' T.R.U.T.H.",
+          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Nights In Atlanta",
+      "url": "https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/6e9VWN39GEDn8hcIO7gJj4"
-      },
-      "artists": [
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 405912,
-      "name": "He Understands",
-      "url": "https://open.spotify.com/track/4e8QBO7h3dqLmPukNuE6Qi"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "CALL",
         "url": "https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 160000,
       "name": "CALL",
       "url": "https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/6e9VWN39GEDn8hcIO7gJj4"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 405912,
+      "name": "He Understands",
+      "url": "https://open.spotify.com/track/4e8QBO7h3dqLmPukNuE6Qi"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/1OG8AU9n1fFHEjmvfD9eW9"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        },
-        {
-          "name": "James Fortune",
-          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
-        }
-      ],
-      "duration_ms": 233766,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/6eDkRvkEVhdR0l6ZMmxIPe"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Way Home",
         "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 178454,
       "name": "All the Time (Thinking Bout Me)",
       "url": "https://open.spotify.com/track/4ebtGL3djv4q0hZUDY3ETh"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/1OG8AU9n1fFHEjmvfD9eW9"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        },
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        }
+      ],
+      "duration_ms": 233766,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/6eDkRvkEVhdR0l6ZMmxIPe"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "The Family Album",
-        "url": "https://open.spotify.com/album/7DAtrt1tuQAeM5KBEXtuDo"
-      },
-      "artists": [
-        {
-          "name": "RED Hands",
-          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
-        }
-      ],
-      "duration_ms": 283311,
-      "name": "YOUR WILL",
-      "url": "https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "I Get",
         "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 210124,
       "name": "I Get",
       "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "The Family Album",
+        "url": "https://open.spotify.com/album/7DAtrt1tuQAeM5KBEXtuDo"
+      },
+      "artists": [
+        {
+          "name": "RED Hands",
+          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
+        }
+      ],
+      "duration_ms": 283311,
+      "name": "YOUR WILL",
+      "url": "https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
+        "name": "Lift Me Again (Acoustic)",
+        "url": "https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 216055,
+      "name": "Lift Me Again - Acoustic",
+      "url": "https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
         "name": "Perfect Love",
         "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Lift Me Again (Acoustic)",
-        "url": "https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
       },
       "artists": [
         {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+          "name": "Robyn McGhee",
+          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
         }
       ],
-      "duration_ms": 216055,
-      "name": "Lift Me Again - Acoustic",
-      "url": "https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv"
+      "duration_ms": 268625,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1115,22 +1131,6 @@
       "duration_ms": 212615,
       "name": "NO WORRIES",
       "url": "https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
-      },
-      "artists": [
-        {
-          "name": "Robyn McGhee",
-          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
-        }
-      ],
-      "duration_ms": 268625,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Love, Evvie McKinney",
-        "url": "https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb"
-      },
-      "artists": [
-        {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "But God",
-      "url": "https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/5md45mofvGSgVFUS15ePkN"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 203027,
       "name": "Mine",
       "url": "https://open.spotify.com/track/0BdjCtXaFIHpy9Yy4WcWy8"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Love, Evvie McKinney",
+        "url": "https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb"
+      },
+      "artists": [
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "But God",
+      "url": "https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Wrong About You (Live)",
-        "url": "https://open.spotify.com/album/1GjVSBL8xIiQhXyhSe57CT"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 393306,
-      "name": "Wrong About You (Live)",
-      "url": "https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 157706,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Wrong About You (Live)",
+        "url": "https://open.spotify.com/album/1GjVSBL8xIiQhXyhSe57CT"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 393306,
+      "name": "Wrong About You (Live)",
+      "url": "https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
+        "name": "Be My Everything (Reimagined)",
+        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 233086,
+      "name": "Be My Everything - Reimagined",
+      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/6A7f7h4Jqk80zRZFZ3atWw"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 232849,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/53UsR0RJ4hiOJkseK82wes"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
-        "name": "Be My Everything (Reimagined)",
-        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 233086,
-      "name": "Be My Everything - Reimagined",
-      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
+        "name": "Hold It All Together",
+        "url": "https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "God of Dreams",
+      "url": "https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
         "name": "Journey: Acoustic Sessions",
         "url": "https://open.spotify.com/album/2HvjY8R1wvlAO3qK6tGZYj"
       },
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Hold It All Together",
-        "url": "https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E"
+        "name": "Aware",
+        "url": "https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9"
       },
       "artists": [
         {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
         }
       ],
-      "duration_ms": 158000,
-      "name": "God of Dreams",
-      "url": "https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB"
+      "duration_ms": 165928,
+      "name": "You Called Me Out",
+      "url": "https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1451,22 +1467,6 @@
       "duration_ms": 176062,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
-        "name": "IF I RAN AWAY",
-        "url": "https://open.spotify.com/album/7JfQ578ppKerR2a1pJMlpV"
-      },
-      "artists": [
-        {
-          "name": "Christopher Syncere",
-          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
-        }
-      ],
-      "duration_ms": 153418,
-      "name": "IF I RAN AWAY",
-      "url": "https://open.spotify.com/track/6R4SU3BpbQMcyg3ZB6GTCd"
     }
   ],
   "unique_name": "Lifted Frequency",

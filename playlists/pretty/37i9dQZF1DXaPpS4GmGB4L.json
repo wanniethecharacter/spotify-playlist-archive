@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 39177,
+  "num_followers": 39277,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzEyNiwwMDAwMDAwMDRiNzY3ZDIyZDljNjZjNWNhNTU2NDIyZGMzYThmMzM5",
+  "snapshot_id": "MTY3Nzg2NzEyNiwwMDAwMDAwMDE4NmI5Y2EyMDJjNDg2NDNkNmQwMTAyMjQxMzlmYjk5",
   "tracks": [
     {
       "added_at": "2023-03-03 18:12:06",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-03-03 18:12:06",
       "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "You Can't Judge A Book By Its Cover",
+      "url": "https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0"
+    },
+    {
+      "added_at": "2023-03-03 18:12:06",
+      "album": {
         "name": "That's What Love Will Make You Do",
         "url": "https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 245173,
       "name": "That's What Love Will Make You Do",
       "url": "https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL"
-    },
-    {
-      "added_at": "2023-03-03 18:12:06",
-      "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "You Can't Judge A Book By Its Cover",
-      "url": "https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0"
     },
     {
       "added_at": "2023-03-03 18:12:06",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-03-03 18:12:06",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "Shufflin' the Blues",
-      "url": "https://open.spotify.com/track/5I9dM2pwqMAQm266lUII5P"
-    },
-    {
-      "added_at": "2023-03-03 18:12:06",
-      "album": {
         "name": "Howlin' Wolf",
         "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 147400,
       "name": "Wang Dang Doodle",
       "url": "https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK"
+    },
+    {
+      "added_at": "2023-03-03 18:12:06",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "Shufflin' the Blues",
+      "url": "https://open.spotify.com/track/5I9dM2pwqMAQm266lUII5P"
     },
     {
       "added_at": "2023-03-03 18:12:06",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-03-03 18:12:06",
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "Poor Boy",
+      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
+    },
+    {
+      "added_at": "2023-03-03 18:12:06",
+      "album": {
         "name": "Take It Back",
         "url": "https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL"
       },
@@ -783,38 +799,6 @@
     {
       "added_at": "2023-03-03 18:12:06",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Poor Boy",
-      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
-    },
-    {
-      "added_at": "2023-03-03 18:12:06",
-      "album": {
-        "name": "Bayou Blues (Demo Version)",
-        "url": "https://open.spotify.com/album/4HpxmLgbT4eK3zMA4wVsQM"
-      },
-      "artists": [
-        {
-          "name": "Lily Belle",
-          "url": "https://open.spotify.com/artist/52JMyJYhF7HqCb0Ric9Zqd"
-        }
-      ],
-      "duration_ms": 217234,
-      "name": "Bayou Blues - Demo Version",
-      "url": "https://open.spotify.com/track/021PQTMq7rwoMDci9piPVm"
-    },
-    {
-      "added_at": "2023-03-03 18:12:06",
-      "album": {
         "name": "Georgia Women",
         "url": "https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS"
       },
@@ -827,6 +811,26 @@
       "duration_ms": 245280,
       "name": "Georgia Women",
       "url": "https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g"
+    },
+    {
+      "added_at": "2023-03-03 18:12:06",
+      "album": {
+        "name": "If These Walls Could Talk",
+        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        },
+        {
+          "name": "Roberto Luti",
+          "url": "https://open.spotify.com/artist/33Cme6gMFRML19GrfipNMH"
+        }
+      ],
+      "duration_ms": 216716,
+      "name": "Watch Me Change",
+      "url": "https://open.spotify.com/track/01jQJSRH05Y1GnldY8nhp1"
     }
   ],
   "unique_name": "Upbeat Blues",

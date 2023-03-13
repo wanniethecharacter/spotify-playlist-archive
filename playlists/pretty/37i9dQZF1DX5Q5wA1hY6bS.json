@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1487464,
+  "num_followers": 1487532,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzYxNzk4MCwwMDAwMDAwMGFhNjlmY2JjMjVhMjMxNWI4ZTBkOGNkNTRhMmYwYzc5",
+  "snapshot_id": "MTY3NzYxNzk4MCwwMDAwMDAwMDE0YzVhNWM2M2NmNWNjOWM1ZTExYTcyNjk3YjdmM2U4",
   "tracks": [
     {
       "added_at": "2023-02-28 20:59:39",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "Song In My Head",
-      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "MONOVISION",
         "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 214653,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 280293,
+      "name": "Song In My Head",
+      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Lovers Carvings (WXAXRXP Session)",
+        "url": "https://open.spotify.com/album/7zDW4DTfobs2nuUv09XIWl"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 270466,
+      "name": "Lovers Carvings - WXAXRXP Session",
+      "url": "https://open.spotify.com/track/6FnqA5BcNf6EMnOIdP4H7W"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 241746,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Lovers Carvings (WXAXRXP Session)",
-        "url": "https://open.spotify.com/album/7zDW4DTfobs2nuUv09XIWl"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 270466,
-      "name": "Lovers Carvings - WXAXRXP Session",
-      "url": "https://open.spotify.com/track/6FnqA5BcNf6EMnOIdP4H7W"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Hundred Acres",
-        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 243733,
-      "name": "More I See",
-      "url": "https://open.spotify.com/track/24l2W4vP77LGaQGKy9PYmU"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "I'm Alone, No You're Not",
         "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 199853,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Hundred Acres",
+        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 243733,
+      "name": "More I See",
+      "url": "https://open.spotify.com/track/24l2W4vP77LGaQGKy9PYmU"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Nocturne EP",
-        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "Olalla",
-      "url": "https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "The Weather Station",
         "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 220253,
       "name": "Thirty",
       "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Nocturne EP",
+        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "Olalla",
+      "url": "https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "The Man Was Burning",
-        "url": "https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly"
-      },
-      "artists": [
-        {
-          "name": "Jake Blount",
-          "url": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
-        }
-      ],
-      "duration_ms": 155665,
-      "name": "The Man Was Burning",
-      "url": "https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 176551,
       "name": "Summertime Mama",
       "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "The Man Was Burning",
+        "url": "https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly"
+      },
+      "artists": [
+        {
+          "name": "Jake Blount",
+          "url": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
+        }
+      ],
+      "duration_ms": 155665,
+      "name": "The Man Was Burning",
+      "url": "https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 235240,
-      "name": "Expectations",
-      "url": "https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Location 13 (Deluxe Version)",
         "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 255191,
       "name": "Letter to Lady J",
       "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 235240,
+      "name": "Expectations",
+      "url": "https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9"
     },
     {
       "added_at": "2022-10-14 04:00:00",

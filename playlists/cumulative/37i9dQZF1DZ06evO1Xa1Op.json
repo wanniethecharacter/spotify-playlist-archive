@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392226,
+      "name": "Bandolobourou (feat. Oumou Sangar\u00e9)",
+      "url": "https://open.spotify.com/track/08GUN9ZldEFK7tUjEE4wcA"
+    },
+    {
+      "album": {
         "name": "Ali & Toumani",
         "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
       },
@@ -617,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "Kenouna",
+      "url": "https://open.spotify.com/track/7duw8z4D3A66llLyquL7ra"
+    },
+    {
+      "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
       },
@@ -632,6 +672,24 @@
       "duration_ms": 302000,
       "name": "Kenouna",
       "url": "https://open.spotify.com/track/3Ddx0d6CGil3D7AfvrwTV4"
+    },
+    {
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267372,
+      "name": "Kombo Galia",
+      "url": "https://open.spotify.com/track/05cF4pOa6TdLPG153zWJif"
     },
     {
       "album": {
@@ -861,6 +919,28 @@
     },
     {
       "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295200,
+      "name": "Sadjona (feat. Oumou Sangar\u00e9)",
+      "url": "https://open.spotify.com/track/7nOgkPegqkCUSTbGP1X7d9"
+    },
+    {
+      "album": {
         "name": "Cherie (feat. Oumou Sangar\u00e9)",
         "url": "https://open.spotify.com/album/5Wwjx8vMkSFPNzxF7wZ35R"
       },
@@ -916,6 +996,24 @@
       "duration_ms": 197106,
       "name": "Samba Geladio",
       "url": "https://open.spotify.com/track/21FynyuRsfsnWNoLkmPDt9"
+    },
+    {
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312840,
+      "name": "Sambadio - Acoustic",
+      "url": "https://open.spotify.com/track/1JgCWF9ECm5wR5Ws6nIBE6"
     },
     {
       "album": {
@@ -1166,7 +1264,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 256853,
       "name": "Yer Bounda Fara",
       "url": "https://open.spotify.com/track/56diuxLa7MlePUpjTBRswc"

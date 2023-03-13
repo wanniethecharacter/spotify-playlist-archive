@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl?si=BviskDqxQW\-iSertWWgiVA"> Kuami Eugene</a>  and  <a href="https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf?si=mhjY\-We8Rhe89DSFpam0KA"> Rotimi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,094 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,119 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

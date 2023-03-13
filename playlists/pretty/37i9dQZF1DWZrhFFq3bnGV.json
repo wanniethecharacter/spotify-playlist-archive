@@ -1,12 +1,12 @@
 {
   "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: ",
-  "num_followers": 99717,
+  "num_followers": 99740,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM4MzM2OSwwMDAwMDAwMDk5YWE1ZDJlMzUyMDgyMmFjM2QxM2MyMTVlNjg2OWNh",
+  "snapshot_id": "MTY3ODYyNjA1NiwwMDAwMDAwMDUxMmMyNzU5NDAzYmFjYTgzNWU0YmVlNjA0ZjBhYzdl",
   "tracks": [
     {
       "added_at": "2023-03-09 17:36:09",
@@ -31,6 +31,30 @@
       "duration_ms": 179827,
       "name": "As We Talk",
       "url": "https://open.spotify.com/track/1xNoiDKbPQnPZknnOxLT6m"
+    },
+    {
+      "added_at": "2023-03-12 13:00:56",
+      "album": {
+        "name": "LOVE IS",
+        "url": "https://open.spotify.com/album/23f2kd0MMf7L6aJZ5vOkAb"
+      },
+      "artists": [
+        {
+          "name": "Jason Mountario",
+          "url": "https://open.spotify.com/artist/6ibPIgByjCH7qYPlBbN4Tr"
+        },
+        {
+          "name": "Sri Hanuraga",
+          "url": "https://open.spotify.com/artist/6oBbSq1WI51saPC5Vys7z2"
+        },
+        {
+          "name": "Kelvin Andreas",
+          "url": "https://open.spotify.com/artist/2hl3KpfiMWRSP51mLLi4Pd"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "LOVE IS",
+      "url": "https://open.spotify.com/track/1Sx3NLx0k01HRqA2JhVguv"
     },
     {
       "added_at": "2023-03-09 17:36:09",

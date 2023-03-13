@@ -1,12 +1,12 @@
 {
   "description": "Musica che, come la primavera, rende tutto pi\u00f9 bello.",
-  "num_followers": 55855,
+  "num_followers": 55869,
   "original_name": "Primavera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU5NjA3NSwwMDAwMDAwMDUyOWJiZDlkMjhkYmNiODRhNGYzYTA0ZTA3MTMwNWIx",
+  "snapshot_id": "MTY3NzU5NjA3NSwwMDAwMDAwMDhlNDA4ZDgyYjcyYjcwODUwNjdkMzg3NmZjZjk2ZDZm",
   "tracks": [
     {
       "added_at": "2023-02-17 14:27:26",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-02-17 14:27:26",
       "album": {
-        "name": "Giants",
-        "url": "https://open.spotify.com/album/6JBP6jsrUiFSmLVYdqetzu"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 177173,
-      "name": "Giants",
-      "url": "https://open.spotify.com/track/0l4AReW2LuX0yStPfgQgSR"
-    },
-    {
-      "added_at": "2023-02-17 14:27:26",
-      "album": {
         "name": "Flags",
         "url": "https://open.spotify.com/album/4JYjZh7R8F7Na5x1lVqOl9"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 216493,
       "name": "Flags",
       "url": "https://open.spotify.com/track/2RZ8SjEJYJHZ8YCUzls77w"
+    },
+    {
+      "added_at": "2023-02-17 14:27:26",
+      "album": {
+        "name": "Giants",
+        "url": "https://open.spotify.com/album/6JBP6jsrUiFSmLVYdqetzu"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 177173,
+      "name": "Giants",
+      "url": "https://open.spotify.com/track/0l4AReW2LuX0yStPfgQgSR"
     },
     {
       "added_at": "2023-02-17 14:27:26",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-02-17 14:27:26",
       "album": {
+        "name": "Look For The Good",
+        "url": "https://open.spotify.com/album/4eTkXKtjSt3N5FqFhu2GZy"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 239697,
+      "name": "Look For The Good - Single Version",
+      "url": "https://open.spotify.com/track/4XI5GjQ6zcJXsDnuyOGGEa"
+    },
+    {
+      "added_at": "2023-02-17 14:27:26",
+      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 169453,
       "name": "Pride (with mxmtoon)",
       "url": "https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy"
-    },
-    {
-      "added_at": "2023-02-17 14:27:26",
-      "album": {
-        "name": "Look For The Good",
-        "url": "https://open.spotify.com/album/4eTkXKtjSt3N5FqFhu2GZy"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 239697,
-      "name": "Look For The Good - Single Version",
-      "url": "https://open.spotify.com/track/4XI5GjQ6zcJXsDnuyOGGEa"
     },
     {
       "added_at": "2023-02-17 14:27:26",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-02-17 14:27:26",
       "album": {
-        "name": "Heart to Mouth",
-        "url": "https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g"
-      },
-      "artists": [
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "duration_ms": 223426,
-      "name": "Girls Go Wild",
-      "url": "https://open.spotify.com/track/5AOqxn4l8BHO0or40XxCuh"
-    },
-    {
-      "added_at": "2023-02-17 14:27:26",
-      "album": {
         "name": "The Sound Of Sunshine",
         "url": "https://open.spotify.com/album/6n3RWQarUS9N542RErAIgy"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 225133,
       "name": "The Sound Of Sunshine",
       "url": "https://open.spotify.com/track/6iBWazas8QsDtBnjlXkrXk"
+    },
+    {
+      "added_at": "2023-02-17 14:27:26",
+      "album": {
+        "name": "Heart to Mouth",
+        "url": "https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "duration_ms": 223426,
+      "name": "Girls Go Wild",
+      "url": "https://open.spotify.com/track/5AOqxn4l8BHO0or40XxCuh"
     },
     {
       "added_at": "2023-02-17 14:27:26",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-02-17 14:27:26",
       "album": {
-        "name": "Pretty Picture, Dirty Brush",
-        "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
-      },
-      "artists": [
-        {
-          "name": "The Harmaleighs",
-          "url": "https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN"
-        }
-      ],
-      "duration_ms": 156360,
-      "name": "I Keep Ticking On",
-      "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
-    },
-    {
-      "added_at": "2023-02-17 14:27:26",
-      "album": {
         "name": "Peace Or Love",
         "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 210377,
       "name": "Rocky Trail",
       "url": "https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW"
+    },
+    {
+      "added_at": "2023-02-17 14:27:26",
+      "album": {
+        "name": "Pretty Picture, Dirty Brush",
+        "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
+      },
+      "artists": [
+        {
+          "name": "The Harmaleighs",
+          "url": "https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN"
+        }
+      ],
+      "duration_ms": 156360,
+      "name": "I Keep Ticking On",
+      "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
     },
     {
       "added_at": "2023-02-17 14:27:26",
@@ -1333,7 +1333,7 @@
       "url": "https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P"
     },
     {
-      "added_at": "2023-03-12 01:32:43",
+      "added_at": "2023-03-13 01:29:04",
       "album": {
         "name": "Mia Gargaret",
         "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-02-17 14:27:26",
       "album": {
-        "name": "Pretty Girl (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
-      },
-      "artists": [
-        {
-          "name": "Becca Adams",
-          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
-        }
-      ],
-      "duration_ms": 180828,
-      "name": "Pretty Girl - Acoustic Version",
-      "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
-    },
-    {
-      "added_at": "2023-02-17 14:27:26",
-      "album": {
         "name": "Some Kind Of Purpose",
         "url": "https://open.spotify.com/album/0Og3biqAPjphY1IJvZvX13"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 236533,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/7IKhMrLuFiTfnKwp43YVGN"
+    },
+    {
+      "added_at": "2023-02-17 14:27:26",
+      "album": {
+        "name": "Pretty Girl (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
+      },
+      "artists": [
+        {
+          "name": "Becca Adams",
+          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
+        }
+      ],
+      "duration_ms": 180828,
+      "name": "Pretty Girl - Acoustic Version",
+      "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
     },
     {
       "added_at": "2023-02-17 14:27:26",

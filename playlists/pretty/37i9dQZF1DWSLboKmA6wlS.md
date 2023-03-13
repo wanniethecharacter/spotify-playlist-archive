@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: Run Baby Run\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,569 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,574 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 5 | [เลื่อนชั้น](https://open.spotify.com/track/2YTFJXAknO23Q2PfWx6Js7) | [Yes Indeed](https://open.spotify.com/artist/53LIIJFYjMhsfG0AM4Q8Dx) | [เลื่อนชั้น](https://open.spotify.com/album/10DmBTP6XZ0IwCU2LKG8xz) | 3:49 |
 | 6 | [สบายใจกว่าเยอะ! \- Introvert](https://open.spotify.com/track/46iZLoftB08hY1DXBsAa3e) | [PAWAE](https://open.spotify.com/artist/0phCZmKiRPoDuLUBL7SaSZ) | [สบายใจกว่าเยอะ! \(Introvert\)](https://open.spotify.com/album/2W5ZOff2n0b2t57ajeABlB) | 2:56 |
 | 7 | [เฟื่อน \(Spectrum\)](https://open.spotify.com/track/2KUjzr5waaefeog3hfMjSh) | [Nine](https://open.spotify.com/artist/49UULaSQTVE7oWxxhh90RK) | [เฟื่อน \(Spectrum\)](https://open.spotify.com/album/2nDDvbmOU1MOBUbJbMbwQ8) | 3:25 |
-| 8 | [จงกลม](https://open.spotify.com/track/08NR0qlrc2rjGmP60oS4vL) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [จงกลม](https://open.spotify.com/album/5hsy4WQbZTWW0V47kFuXex) | 3:24 |
+| 8 | [จงกลม \(Jongglom\)](https://open.spotify.com/track/08NR0qlrc2rjGmP60oS4vL) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [จงกลม \(Jongglom\)](https://open.spotify.com/album/5hsy4WQbZTWW0V47kFuXex) | 3:24 |
 | 9 | [ต่อให้เธออยู่ไกล \(Moon to Mars\)](https://open.spotify.com/track/5GFLKQNrG9WULCp3AxDXyo) | [OABNITHI](https://open.spotify.com/artist/0POiRdWHPEPL1bhVAyLpAv) | [ต่อให้เธออยู่ไกล \(Moon to Mars\)](https://open.spotify.com/album/6xglF99e8jnj5hfzpV2IQW) | 3:24 |
 | 10 | [คนที่ไม่ถูกรัก](https://open.spotify.com/track/0C9EuTp12kd9J3ydmUou0V) | [Richie Thitipat](https://open.spotify.com/artist/1QkqNYziSERzd2NPJF3gXu) | [คนที่ไม่ถูกรัก](https://open.spotify.com/album/0Epd5MfyrYRsQYlPhqx0tA) | 3:49 |
 | 11 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 |

@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Periphery
 
-2,910 songs - 8 day 5 hr 13 min
+2,911 songs - 8 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,7 +431,8 @@
 | [Call It Home](https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Call It Home](https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z) | 3:30 | 2022-05-13 | 2022-05-20 |
 | [Call Me Snake](https://open.spotify.com/track/07a1Zu7zlJ5U0mxxIM2to5) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Call Me Snake](https://open.spotify.com/album/1bOLrSXcoiGyP9BLQHF2gv) | 3:39 | 2022-07-08 | 2022-07-16 |
 | [Call My Name](https://open.spotify.com/track/3FkMke69v3NF3oufwhMygY) | [Sleeping Romance](https://open.spotify.com/artist/0ppFjJOvd6dhcpKktp6heM) | [Call My Name](https://open.spotify.com/album/69FOJK2zUuEdfdpLc3D7pl) | 4:27 | 2022-07-08 | 2022-07-16 |
-| [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 | 2022-12-16 |  |
+| [Call of the North](https://open.spotify.com/track/1xXDBblDaKJhbuFg7Z1QTI) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/0sZnsZKXYQNSNfFhzfqRwP) | 6:24 | 2023-03-10 |  |
+| [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 | 2022-12-16 | 2023-03-13 |
 | [Call of the Witch](https://open.spotify.com/track/5THPCPokg7K1oN9VkT10nl) | [Kissing Candice](https://open.spotify.com/artist/2yt3OhRpNY6eVWDoJUlwjS) | [Call of the Witch](https://open.spotify.com/album/10FJOcVWSolAkejeUxpPSA) | 1:14 | 2022-07-22 | 2022-07-30 |
 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 | 2022-05-20 | 2022-05-27 |
 | [Calling You](https://open.spotify.com/track/68j6RDtKgoN4Ei8eoDOSjO) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Calling You](https://open.spotify.com/album/2IgooFSzVdwB8BXKzoy1lz) | 3:37 | 2022-01-14 | 2022-02-11 |

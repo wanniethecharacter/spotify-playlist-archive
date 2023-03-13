@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-130 songs - 7 hr 56 min
+131 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Efya\-Am In Luv With U\(prod\. By Killbeatz\) \(feat\. Efya\)](https://open.spotify.com/track/0pE5QY5MzbQZ4LxrBBnOny) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 5:45 | 2021-12-31 | 2022-10-13 |
 | [Elijah \(feat\. Obrafour\)](https://open.spotify.com/track/5A5TegAvaWSqOgC7GJUS0u) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 5:16 | 2022-09-02 | 2022-09-04 |
 | [Fa Hooki Me](https://open.spotify.com/track/5E79kYZQN4Ea2HTJ4fLsQv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Fa Hooki Me](https://open.spotify.com/album/1gqTSytfkUbGMTTiXgRpOZ) | 3:06 | 2021-12-28 | 2022-10-13 |
+| [Fallacy](https://open.spotify.com/track/4Fqh26b1r31ome2J0U9Tri) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Big Time](https://open.spotify.com/album/6T069OH10Fo4kfJGO6kiWG) | 3:31 | 2023-03-12 |  |
 | [Far Away](https://open.spotify.com/track/3JGpJctFgQjVqernRw7YAP) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Koredo Bello](https://open.spotify.com/artist/7oF3zto0IUEEL5Jsczcmvd), [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 4:36 | 2022-01-11 | 2022-10-13 |
 | [Feelings \(feat\. Maleek Berry\)](https://open.spotify.com/track/4Z3s3IfcvJjxmHupIbb4SZ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:41 | 2021-12-28 | 2023-01-19 |
 | [Fever](https://open.spotify.com/track/1wCjMz6bqdzVjpJWl45p9L) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Fever](https://open.spotify.com/album/70gNO57xq8Anipepibg32m) | 4:13 | 2021-12-28 |  |
@@ -137,6 +138,6 @@
 | [Who Da Man](https://open.spotify.com/track/397tmDWdvcdlAL1UaaJpi3) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Who Da Man](https://open.spotify.com/album/1ls27oDCfeUr4wIS4rupur) | 2:58 | 2023-03-08 | 2023-03-12 |
 | [Yawa \(feat\. Sarkodie\)](https://open.spotify.com/track/1i5ZMR0XrSmkUiBjbHyXGp) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Yawa \(feat\. Sarkodie\)](https://open.spotify.com/album/2Vhd4O8Ed5IEdt0c655ATo) | 3:02 | 2021-12-28 | 2022-11-13 |
 | [Year of Return](https://open.spotify.com/track/2ovx9TSB1J3pEaWRUDnBed) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Coded](https://open.spotify.com/artist/4oUIlyHTTqRSmtWZTQNZ4r) | [Year of Return](https://open.spotify.com/album/4828QaSjhsNh3dtIt0leDt) | 3:58 | 2021-12-28 | 2022-10-11 |
-| [Your Waist](https://open.spotify.com/track/3JrGJpTH22g43YrSWuW4df) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:33 | 2021-12-28 |  |
+| [Your Waist](https://open.spotify.com/track/3JrGJpTH22g43YrSWuW4df) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:33 | 2021-12-28 | 2023-03-13 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

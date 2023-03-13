@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,807 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,894 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 40 | [Mesmerised](https://open.spotify.com/track/3VmzE0xZIiAmPdAxYHQMgP) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Mesmerised](https://open.spotify.com/album/130KpuQV0nYnvmqcJupUIu) | 4:26 |
 | 41 | [Waiting For You](https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Waiting For You](https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte) | 3:46 |
 | 42 | [Take Me As I Am](https://open.spotify.com/track/5UjccMIJkNhont0TGSU0iD) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [None Of Us Are Getting Out Of This Life Alive](https://open.spotify.com/album/4hEKRyUeVXejefnsvKYERB) | 3:06 |
-| 43 | [Heartbroken 2022](https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd), [ARPA](https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd) | [Heartbroken 2022](https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ) | 2:52 |
-| 44 | [Lumberjackin' \- Vocal Mix](https://open.spotify.com/track/2rrQ5uFbqOpJ1dYFfiV30G) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [VIP](https://open.spotify.com/album/0y0rbZ1pjtN3Q9YFA9d7ty) | 4:00 |
+| 43 | [Lumberjackin' \- Vocal Mix](https://open.spotify.com/track/2rrQ5uFbqOpJ1dYFfiV30G) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [VIP](https://open.spotify.com/album/0y0rbZ1pjtN3Q9YFA9d7ty) | 4:00 |
+| 44 | [Heartbroken 2022](https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd), [ARPA](https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd) | [Heartbroken 2022](https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ) | 2:52 |
 | 45 | [Renegade](https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Renegade](https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8) | 2:34 |
 | 46 | [Through It All \- Hedex Remix](https://open.spotify.com/track/5ts712TiZXqdbbkef0mRrI) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Through It All \(Hedex Remix\)](https://open.spotify.com/album/3g9yPWc8yVPueR4Zk1LPot) | 3:50 |
 | 47 | [Deep Blue](https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [Deep Blue](https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF) | 3:35 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 68 | [Daga Da](https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [We'll Be Alright EP](https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61) | 3:48 |
 | 69 | [Ghost \(feat\. DJ Rae\)](https://open.spotify.com/track/7gh9OOo02MSvBSp3MPeg6E) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Ghost \(feat\. DJ Rae\)](https://open.spotify.com/album/0R7Q4f6wA3u1Zl50wdT3gH) | 2:46 |
 | 70 | [SWAZZ](https://open.spotify.com/track/243WbqMMhN5ZHrKRwTS84O) | [The Manor](https://open.spotify.com/artist/2ZeAzgQtLfcPmMap31S0dZ) | [SWAZZ](https://open.spotify.com/album/5bWev71fkloo3FzHYlrDRQ) | 3:32 |
-| 71 | [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 |
-| 72 | [The Damn Guy](https://open.spotify.com/track/78W81pRYN5j3SV1819Dz0F) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [The Damn Guy](https://open.spotify.com/album/7EcAkAIGh1Nd7EDyAp5bZ7) | 5:44 |
+| 71 | [The Damn Guy](https://open.spotify.com/track/78W81pRYN5j3SV1819Dz0F) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [The Damn Guy](https://open.spotify.com/album/7EcAkAIGh1Nd7EDyAp5bZ7) | 5:44 |
+| 72 | [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 |
 | 73 | [All To Me](https://open.spotify.com/track/28TJ1DLGBJ9BddLpWwwuXQ) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [All To Me](https://open.spotify.com/album/5KgrT8AuRSZ202tqBdvrPW) | 3:26 |
 | 74 | [Cancelled](https://open.spotify.com/track/7mxDzIP1U1Yss9orJpM0KS) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Cancelled](https://open.spotify.com/album/38uvsLnhGvWVV0p02GZyQT) | 3:33 |
 | 75 | [Whippet](https://open.spotify.com/track/0iJRGATJdTzyahu6s4S1eY) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Whippet](https://open.spotify.com/album/2IWRdfMEjaA1RHBEtNdkSn) | 4:18 |
 
-Snapshot ID: `MTY3NDY2MTA5NiwwMDAwMDAwMGM0YTUzMjRlNjgwNzExNmQ4ZDIxNmIzNTA2YTZiNzhj`
+Snapshot ID: `MTY3NDY2MTA5NiwwMDAwMDAwMDI5NGQxZmNmYjg3ZThiZGRmYzBkYjI2OWE0M2NjYjc2`

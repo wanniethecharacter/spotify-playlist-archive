@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 24814,
+  "num_followers": 24832,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ1MzA1NCwwMDAwMDAwMDgwNzE4YzViOGU3ODY5OTA3MzU4MmIwNGU5MThjNmMy",
+  "snapshot_id": "MTY3ODQ1MzA1NCwwMDAwMDAwMGI2OTQ3ZDUwZDM1NGFkNzljZjM5ZTU5NDE0NGJhNzA5",
   "tracks": [
     {
       "added_at": "2023-03-03 08:19:37",
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
     },
     {
-      "added_at": "2023-03-12 01:00:00",
+      "added_at": "2023-03-13 01:13:17",
       "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/50Fnn6VgRmPXcCKKBFUxm0"
     },
     {
-      "added_at": "2023-03-12 01:00:00",
+      "added_at": "2023-03-13 01:13:17",
       "album": {
         "name": "Oluchi",
         "url": "https://open.spotify.com/album/391gOMyDsty5F8zBLjdTgb"
@@ -531,6 +531,26 @@
     {
       "added_at": "2023-03-03 08:19:37",
       "album": {
+        "name": "Loaded",
+        "url": "https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "Loaded",
+      "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
+    },
+    {
+      "added_at": "2023-03-03 08:19:37",
+      "album": {
         "name": "More Love, Less Ego",
         "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
       },
@@ -553,27 +573,7 @@
       "url": "https://open.spotify.com/track/0Z5HVNSXGXHf7MDb0zJHVW"
     },
     {
-      "added_at": "2023-03-03 08:19:37",
-      "album": {
-        "name": "Loaded",
-        "url": "https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155789,
-      "name": "Loaded",
-      "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
-    },
-    {
-      "added_at": "2023-03-12 01:00:00",
+      "added_at": "2023-03-13 01:13:17",
       "album": {
         "name": "bo card (things i need)",
         "url": "https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY"
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-03-03 08:19:37",
       "album": {
-        "name": "Certified Loner (No Competition)",
-        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Certified Loner (No Competition)",
-      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
-    },
-    {
-      "added_at": "2023-03-03 08:19:37",
-      "album": {
         "name": "Dada (feat. Davido) [Remix]",
         "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 177692,
       "name": "Dada (feat. Davido) [Remix]",
       "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
+    },
+    {
+      "added_at": "2023-03-03 08:19:37",
+      "album": {
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
       "added_at": "2023-03-03 08:19:37",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-03-03 08:19:37",
       "album": {
-        "name": "Bad To Me",
-        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 176850,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
-    },
-    {
-      "added_at": "2023-03-03 08:19:37",
-      "album": {
         "name": "Love Is Not Enough, Vol. 2",
         "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 149243,
       "name": "If You Leave",
       "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
+    },
+    {
+      "added_at": "2023-03-03 08:19:37",
+      "album": {
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
     },
     {
       "added_at": "2023-03-03 08:19:37",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-03-03 08:19:37",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 143452,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
-    },
-    {
-      "added_at": "2023-03-03 08:19:37",
-      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/2es5R7Gz861GtXSChRu6JG"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 162720,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6ZZgjRB0CXBsKGxpJIXYFD"
+    },
+    {
+      "added_at": "2023-03-03 08:19:37",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 143452,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
     },
     {
       "added_at": "2023-03-03 08:19:37",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-03-03 08:19:37",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 125030,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj"
-    },
-    {
-      "added_at": "2023-03-03 08:19:37",
-      "album": {
         "name": "The Second Wave",
         "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
+    },
+    {
+      "added_at": "2023-03-03 08:19:37",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 125030,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj"
     },
     {
       "added_at": "2023-03-03 08:19:37",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-03-03 08:19:37",
       "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
-    },
-    {
-      "added_at": "2023-03-03 08:19:37",
-      "album": {
         "name": "Lie",
         "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 156600,
       "name": "Lie",
       "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
+    },
+    {
+      "added_at": "2023-03-03 08:19:37",
+      "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
     },
     {
       "added_at": "2023-03-03 08:19:37",
@@ -1563,22 +1563,22 @@
     {
       "added_at": "2023-03-03 08:19:37",
       "album": {
-        "name": "Machala",
-        "url": "https://open.spotify.com/album/6YUssf4d3nQuCcQVRwRwqr"
+        "name": "Teslim: The Energy Still Lives in Me",
+        "url": "https://open.spotify.com/album/08k2IfdgUGN3JycLGkREJI"
       },
       "artists": [
         {
-          "name": "Carterefe",
-          "url": "https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n"
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
         },
         {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+          "name": "GoodGirl LA",
+          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
         }
       ],
-      "duration_ms": 154565,
-      "name": "Machala",
-      "url": "https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR"
+      "duration_ms": 194742,
+      "name": "Early Momo",
+      "url": "https://open.spotify.com/track/30vg5dgv2jtW6LCjgLnRSd"
     }
   ],
   "unique_name": "Party Dey!",

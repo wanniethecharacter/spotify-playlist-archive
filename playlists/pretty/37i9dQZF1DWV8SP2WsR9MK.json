@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 58897,
+  "num_followers": 59014,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM1NjA1MSwwMDAwMDAwMDViMTA0ODZhMWY1Yjc1OTA3NTU1MjgzMzNmMmFiNzZh",
+  "snapshot_id": "MTY3ODM1NjA1MSwwMDAwMDAwMGRlMzU2MmRiOTQ0M2Q5OGZjMzM5YTgxZjg4ZTRhMjQ4",
   "tracks": [
     {
       "added_at": "2023-03-09 10:00:51",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
+        "name": "Intermodulation",
+        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "All Across The City",
+      "url": "https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE"
+    },
+    {
+      "added_at": "2023-03-09 10:00:51",
+      "album": {
         "name": "Travel Guide",
         "url": "https://open.spotify.com/album/5ygzx8GmxucUl8RhAU2Nua"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 277560,
       "name": "Father Time",
       "url": "https://open.spotify.com/track/4GuzBvxkGq1MHaeYVWO7dL"
-    },
-    {
-      "added_at": "2023-03-09 10:00:51",
-      "album": {
-        "name": "Intermodulation",
-        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 290000,
-      "name": "All Across The City",
-      "url": "https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE"
     },
     {
       "added_at": "2023-03-09 10:00:51",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
-        "name": "Plectrist",
-        "url": "https://open.spotify.com/album/4yXQl7UAIbrszxlYSgEqla"
-      },
-      "artists": [
-        {
-          "name": "Billy Bauer",
-          "url": "https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf"
-        }
-      ],
-      "duration_ms": 254160,
-      "name": "It's a Blue World",
-      "url": "https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl"
-    },
-    {
-      "added_at": "2023-03-09 10:00:51",
-      "album": {
         "name": "East To Wes",
         "url": "https://open.spotify.com/album/0TLM2OGDvMRvbaFUaXQvzN"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 490573,
       "name": "Softly, As In A Morning Sunrise",
       "url": "https://open.spotify.com/track/3ykGDKAgzbmXhwnG3cEkRH"
+    },
+    {
+      "added_at": "2023-03-09 10:00:51",
+      "album": {
+        "name": "Plectrist",
+        "url": "https://open.spotify.com/album/4yXQl7UAIbrszxlYSgEqla"
+      },
+      "artists": [
+        {
+          "name": "Billy Bauer",
+          "url": "https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf"
+        }
+      ],
+      "duration_ms": 254160,
+      "name": "It's a Blue World",
+      "url": "https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl"
     },
     {
       "added_at": "2023-03-09 10:00:51",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je"
+      },
+      "artists": [
+        {
+          "name": "Emily Remler",
+          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
+        }
+      ],
+      "duration_ms": 469360,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH"
+    },
+    {
+      "added_at": "2023-03-09 10:00:51",
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
-        "name": "The Next Step",
-        "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 354293,
-      "name": "Minor Blues",
-      "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
-    },
-    {
-      "added_at": "2023-03-09 10:00:51",
-      "album": {
         "name": "Idle Moments",
         "url": "https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG"
       },
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
+        "name": "The Next Step",
+        "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 354293,
+      "name": "Minor Blues",
+      "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
+    },
+    {
+      "added_at": "2023-03-09 10:00:51",
+      "album": {
         "name": "Bill Frisell (with Dave Holland and Elvin Jones)",
         "url": "https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 386133,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS"
-    },
-    {
-      "added_at": "2023-03-09 10:00:51",
-      "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je"
-      },
-      "artists": [
-        {
-          "name": "Emily Remler",
-          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
-        }
-      ],
-      "duration_ms": 469360,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH"
     },
     {
       "added_at": "2023-03-09 10:00:51",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
+        "name": "Good Pickin's",
+        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
+      },
+      "artists": [
+        {
+          "name": "Howard Roberts",
+          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
+        }
+      ],
+      "duration_ms": 255280,
+      "name": "When The Sun Comes Out",
+      "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
+    },
+    {
+      "added_at": "2023-03-09 10:00:51",
+      "album": {
         "name": "Hand-Crafted Swing",
         "url": "https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
-        "name": "Good Pickin's",
-        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
-      },
-      "artists": [
-        {
-          "name": "Howard Roberts",
-          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
-        }
-      ],
-      "duration_ms": 255280,
-      "name": "When The Sun Comes Out",
-      "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
-    },
-    {
-      "added_at": "2023-03-09 10:00:51",
-      "album": {
         "name": "Imaginary Day",
         "url": "https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 584760,
       "name": "The Heat of the Day",
       "url": "https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ"
-    },
-    {
-      "added_at": "2023-03-09 10:00:51",
-      "album": {
-        "name": "Rambler",
-        "url": "https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 492266,
-      "name": "Rambler",
-      "url": "https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA"
     },
     {
       "added_at": "2023-03-09 10:00:51",
@@ -1251,6 +1235,22 @@
       "duration_ms": 443720,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/1kirrr7NRQrqAa9sxdaXiQ"
+    },
+    {
+      "added_at": "2023-03-09 10:00:51",
+      "album": {
+        "name": "Rambler",
+        "url": "https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 492266,
+      "name": "Rambler",
+      "url": "https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA"
     },
     {
       "added_at": "2023-03-09 10:00:51",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
-        "name": "Jazz Guitar",
-        "url": "https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK"
-      },
-      "artists": [
-        {
-          "name": "Russell Malone",
-          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "For Toddlers Only",
-      "url": "https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC"
-    },
-    {
-      "added_at": "2023-03-09 10:00:51",
-      "album": {
         "name": "The Shape Of Things To Come",
         "url": "https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 347413,
       "name": "Shape Of Things That Are And Were",
       "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
+    },
+    {
+      "added_at": "2023-03-09 10:00:51",
+      "album": {
+        "name": "Jazz Guitar",
+        "url": "https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK"
+      },
+      "artists": [
+        {
+          "name": "Russell Malone",
+          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "For Toddlers Only",
+      "url": "https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC"
     },
     {
       "added_at": "2023-03-09 10:00:51",
@@ -1507,30 +1507,6 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
-        "name": "I Have The Room Above Her",
-        "url": "https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3"
-      },
-      "artists": [
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        },
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "Odd Man Out",
-      "url": "https://open.spotify.com/track/4zSlzvNseGhiutbNKzq6nO"
-    },
-    {
-      "added_at": "2023-03-09 10:00:51",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW"
       },
@@ -1555,22 +1531,26 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
-        "name": "Dialogues",
-        "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
+        "name": "I Have The Room Above Her",
+        "url": "https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3"
       },
       "artists": [
         {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
         },
         {
-          "name": "Joachim Schoenecker",
-          "url": "https://open.spotify.com/artist/6PQjUcMKCXXV4oQpeZLFTa"
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
         }
       ],
-      "duration_ms": 371200,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF"
+      "duration_ms": 253866,
+      "name": "Odd Man Out",
+      "url": "https://open.spotify.com/track/4zSlzvNseGhiutbNKzq6nO"
     },
     {
       "added_at": "2023-03-09 10:00:51",
@@ -1591,18 +1571,22 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
-        "name": "Move! The Guitar Artistry Of Hank Garland",
-        "url": "https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF"
+        "name": "Dialogues",
+        "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
       },
       "artists": [
         {
-          "name": "Hank Garland",
-          "url": "https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU"
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Joachim Schoenecker",
+          "url": "https://open.spotify.com/artist/6PQjUcMKCXXV4oQpeZLFTa"
         }
       ],
-      "duration_ms": 266400,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU"
+      "duration_ms": 371200,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF"
     },
     {
       "added_at": "2023-03-09 10:00:51",
@@ -1619,6 +1603,22 @@
       "duration_ms": 356533,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
+    },
+    {
+      "added_at": "2023-03-09 10:00:51",
+      "album": {
+        "name": "Move! The Guitar Artistry Of Hank Garland",
+        "url": "https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF"
+      },
+      "artists": [
+        {
+          "name": "Hank Garland",
+          "url": "https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU"
     },
     {
       "added_at": "2023-03-09 10:00:51",
@@ -1687,6 +1687,30 @@
     {
       "added_at": "2023-03-09 10:00:51",
       "album": {
+        "name": "Gateway",
+        "url": "https://open.spotify.com/album/17BiOpPnez7L0w8r0yRp9Y"
+      },
+      "artists": [
+        {
+          "name": "John Abercrombie",
+          "url": "https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa"
+        },
+        {
+          "name": "Dave Holland",
+          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+        }
+      ],
+      "duration_ms": 661106,
+      "name": "May Dance",
+      "url": "https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb"
+    },
+    {
+      "added_at": "2023-03-09 10:00:51",
+      "album": {
         "name": "Deep Song",
         "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
       },
@@ -1715,30 +1739,6 @@
       "duration_ms": 397106,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
-    },
-    {
-      "added_at": "2023-03-09 10:00:51",
-      "album": {
-        "name": "Gateway",
-        "url": "https://open.spotify.com/album/17BiOpPnez7L0w8r0yRp9Y"
-      },
-      "artists": [
-        {
-          "name": "John Abercrombie",
-          "url": "https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa"
-        },
-        {
-          "name": "Dave Holland",
-          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
-        },
-        {
-          "name": "Jack DeJohnette",
-          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
-        }
-      ],
-      "duration_ms": 661106,
-      "name": "May Dance",
-      "url": "https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb"
     },
     {
       "added_at": "2023-03-09 10:00:51",

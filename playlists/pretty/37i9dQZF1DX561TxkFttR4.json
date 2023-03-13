@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 327796,
+  "num_followers": 327862,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMGE5NTQ3MjEwMWYwMGNmYjQxNzEzYmE4YWM5NDhjMDgy",
+  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMDUxZTFmNDMxZTgxOTc5ZTU0YzFmNmFkZDUxMzE2YTY4",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX"
-      },
-      "artists": [
-        {
-          "name": "Ron Adelaar",
-          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
-        }
-      ],
-      "duration_ms": 110868,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Old Friends New Friends",
         "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "duration_ms": 110868,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -759,6 +759,38 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "how we sleep",
+        "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
+      },
+      "artists": [
+        {
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
+        }
+      ],
+      "duration_ms": 130459,
+      "name": "poetry in touch",
+      "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Fractal",
+        "url": "https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 191114,
+      "name": "Fractal",
+      "url": "https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Collage",
         "url": "https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW"
       },
@@ -787,38 +819,6 @@
       "duration_ms": 175546,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Fractal",
-        "url": "https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 191114,
-      "name": "Fractal",
-      "url": "https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "how we sleep",
-        "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
-      },
-      "artists": [
-        {
-          "name": "Moux",
-          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
-        }
-      ],
-      "duration_ms": 130459,
-      "name": "poetry in touch",
-      "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "how we sleep",
+        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
+      },
+      "artists": [
+        {
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
+        }
+      ],
+      "duration_ms": 182805,
+      "name": "how we sleep",
+      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Entropy",
         "url": "https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "how we sleep",
-        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
-      },
-      "artists": [
-        {
-          "name": "Moux",
-          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
-        }
-      ],
-      "duration_ms": 182805,
-      "name": "how we sleep",
-      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "The Lost",
         "url": "https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT"
       },
@@ -951,34 +951,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
+        "name": "Bylur",
+        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
         }
       ],
-      "duration_ms": 141750,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Col",
-        "url": "https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP"
-      },
-      "artists": [
-        {
-          "name": "Elias Braun",
-          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
-        }
-      ],
-      "duration_ms": 142041,
-      "name": "Col",
-      "url": "https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu"
+      "duration_ms": 187200,
+      "name": "Dagdraumur",
+      "url": "https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1015,6 +999,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 141750,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "orange sky",
         "url": "https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb"
       },
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Bylur",
-        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
+        "name": "Col",
+        "url": "https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP"
       },
       "artists": [
         {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+          "name": "Elias Braun",
+          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Dagdraumur",
-      "url": "https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT"
+      "duration_ms": 142041,
+      "name": "Col",
+      "url": "https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Stay Longer",
+        "url": "https://open.spotify.com/album/3xVzYw1poJVwmGG1dUcrRe"
+      },
+      "artists": [
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "duration_ms": 130084,
+      "name": "Stay Longer",
+      "url": "https://open.spotify.com/track/4G6goSnfAiLNF59fc4Z6bU"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "145",
         "url": "https://open.spotify.com/album/265d3u8QBUwjLqrk2ByhYg"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 141602,
       "name": "145 - Revisited",
       "url": "https://open.spotify.com/track/5B26HpT55bm8jJ3WGQKzR8"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Stay Longer",
-        "url": "https://open.spotify.com/album/3xVzYw1poJVwmGG1dUcrRe"
-      },
-      "artists": [
-        {
-          "name": "Hiroco.M",
-          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
-        }
-      ],
-      "duration_ms": 130084,
-      "name": "Stay Longer",
-      "url": "https://open.spotify.com/track/4G6goSnfAiLNF59fc4Z6bU"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Asunder",
-        "url": "https://open.spotify.com/album/5yexAB7diAilKX5c3DcKvc"
-      },
-      "artists": [
-        {
-          "name": "Glenn Natale",
-          "url": "https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "Asunder",
-      "url": "https://open.spotify.com/track/0eGyesQQqxL1niUnIAH1gi"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Echoes In The Valley",
         "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 202288,
       "name": "Billow Gently",
       "url": "https://open.spotify.com/track/4PnYYqdB5CasOKBFm02CAe"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Asunder",
+        "url": "https://open.spotify.com/album/5yexAB7diAilKX5c3DcKvc"
+      },
+      "artists": [
+        {
+          "name": "Glenn Natale",
+          "url": "https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Asunder",
+      "url": "https://open.spotify.com/track/0eGyesQQqxL1niUnIAH1gi"
     }
   ],
   "unique_name": "Soft Piano",

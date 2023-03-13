@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
 
-298 songs - 19 hr 34 min
+299 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Provenza / Te Felicito / Despechao](https://open.spotify.com/track/6fRxpmgnQVpIlqQ7qxjy7M) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Provenza / Te Felicito / Despechao](https://open.spotify.com/album/1hCM28lo42mccoq9t3H9Dc) | 6:02 | 2023-01-13 |  |
 | [Q' Tal](https://open.spotify.com/track/1PDtrQFf9pseH4J58Rf8iw) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Una Pasión](https://open.spotify.com/album/6yISxI632Khpi7zWaj91sQ) | 3:10 | 2023-02-24 |  |
 | [Q' Tal](https://open.spotify.com/track/6KaxyYZhOU04b8IlJk7qOl) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Una Pasión](https://open.spotify.com/album/6yws1EOBYGXGK2kxgdUopP) | 3:10 | 2021-12-24 | 2023-03-12 |
-| [Que Bonito](https://open.spotify.com/track/3XmpHN0jwCV1unk8ygs1Ku) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Los Verdugos De La Mufa](https://open.spotify.com/album/3LPgoY2iN8kCmKhXp16NuN) | 3:58 | 2021-12-24 |  |
+| [Que Bonito](https://open.spotify.com/track/3XmpHN0jwCV1unk8ygs1Ku) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Los Verdugos De La Mufa](https://open.spotify.com/album/3LPgoY2iN8kCmKhXp16NuN) | 3:58 | 2021-12-24 | 2023-03-13 |
 | [Que Cachetada](https://open.spotify.com/track/13TKoueAGRnaFfTQLkH0Nk) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm) | [Que Cachetada](https://open.spotify.com/album/2pVRpxW6PwYV6swnFufOKS) | 3:10 | 2023-01-06 | 2023-01-22 |
 | [Que Ironia](https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:11 | 2021-12-24 |  |
 | [Que No Le Hago Falta](https://open.spotify.com/track/0Loq4vKgTxRdQqT4fJIk8I) | [El Rejunte](https://open.spotify.com/artist/72tGvtaVlYb6MDEc486udG) | [Que No Le Hago Falta](https://open.spotify.com/album/2vHCWKaLfUxtlVU35XHo7H) | 4:16 | 2021-12-24 |  |
@@ -223,6 +223,7 @@
 | [Quiereme](https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Nominado](https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7) | 3:39 | 2021-12-24 |  |
 | [Quiero](https://open.spotify.com/track/4ZVTz5LdINDFrBoUnDy8VK) | [Diego Olmos](https://open.spotify.com/artist/0HhAQGZNZAvnu9RZQOTetx) | [Quiero](https://open.spotify.com/album/7uPZWrXpKKSwyPvK9peRyh) | 2:47 | 2022-08-26 | 2022-09-10 |
 | [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 | 2022-12-10 |  |
+| [Qué bonito](https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Los Verdugos De La Mufa](https://open.spotify.com/album/5TZ3a5b6oKxNgIRkjfFTUO) | 3:58 | 2023-02-24 |  |
 | [Qué Se Siente](https://open.spotify.com/track/3M3VU3RPJmrjgIt4X3UsU3) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Qué Se Siente](https://open.spotify.com/album/3MdKZToIbpXYiQbzrvCBpG) | 4:00 | 2022-03-11 | 2022-06-21 |
 | [Ramito de violetas](https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 5:31 | 2021-12-24 |  |
 | [Recreo](https://open.spotify.com/track/6eZqovhe0LPyiphM1fU0uk) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Recreo](https://open.spotify.com/album/0FJ42fAcG3EDDqWWyRigI9) | 3:19 | 2021-12-24 | 2022-07-28 |

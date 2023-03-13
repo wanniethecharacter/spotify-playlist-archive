@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 40843,
+  "num_followers": 40902,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMDg0OWFmNzNkNTc3M2VhYmVjOGE2MTIxY2YzMTMyNTc0",
+  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMDQyYzQ1YzFmZjM2ZDlkOWQxNTZmNWQ2NWM0ZTc2NDgz",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Sunset Lover",
-        "url": "https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        }
-      ],
-      "duration_ms": 237792,
-      "name": "Sunset Lover",
-      "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 274320,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Sunset Lover",
+        "url": "https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 237792,
+      "name": "Sunset Lover",
+      "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Our Own House",
-        "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 232186,
-      "name": "Our Own House",
-      "url": "https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "If I Should Go Before You",
         "url": "https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 234698,
       "name": "Lover Come Back",
       "url": "https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Our Own House",
+        "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 232186,
+      "name": "Our Own House",
+      "url": "https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Art Angels",
-        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 198337,
-      "name": "California",
-      "url": "https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Make Out",
         "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 231002,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/79XlfHDVYTMeqb2UR3ojEA"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 198337,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4"
-      },
-      "artists": [
-        {
-          "name": "Ryn Weaver",
-          "url": "https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "OctaHate",
-      "url": "https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Every Open Eye",
         "url": "https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 237480,
       "name": "Leave a Trace",
       "url": "https://open.spotify.com/track/5HTBPhN9b2GMp5YXAGV6lT"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4"
+      },
+      "artists": [
+        {
+          "name": "Ryn Weaver",
+          "url": "https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "OctaHate",
+      "url": "https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+        "name": "Why Make Sense? (Definitive Version)",
+        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
         }
       ],
-      "duration_ms": 321133,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/5ORY1GDl3lpEDyU1CzSq26"
+      "duration_ms": 329169,
+      "name": "Huarache Lights",
+      "url": "https://open.spotify.com/track/24OUTJgZif1CA1nemnDgXn"
     }
   ],
   "unique_name": "Best of Indie 2015",

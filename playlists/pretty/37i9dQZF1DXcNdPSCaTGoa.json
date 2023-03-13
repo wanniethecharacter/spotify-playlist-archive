@@ -1,12 +1,12 @@
 {
   "description": "Mzansi's musical wealth and heritage in one playlist.",
-  "num_followers": 32552,
+  "num_followers": 32601,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDQ3OTQzOCwwMDAwMDAwMDFhYjAzZTBjMzFhZDI5Y2FhZjcxM2UyYTFkNzA0MGM3",
+  "snapshot_id": "MTY3NDQ3OTQzOCwwMDAwMDAwMDU1MGJiZDI5ZGE2MzRhZjVjYjZkZmQ4YzMxZWUxMWM1",
   "tracks": [
     {
       "added_at": "2023-01-23 13:10:38",
@@ -107,22 +107,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Skhanda Republic",
-        "url": "https://open.spotify.com/album/0i15VXopYrR8o0iHP5VCcf"
+        "name": "Sibongile",
+        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
       },
       "artists": [
         {
-          "name": "K.O",
-          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
-        },
-        {
-          "name": "Kid X",
-          "url": "https://open.spotify.com/artist/7bbG2jEwQ56ay7Ve4QW3Bf"
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
         }
       ],
-      "duration_ms": 226321,
-      "name": "Caracara",
-      "url": "https://open.spotify.com/track/4A9say7qoHC3LJTFtK77CY"
+      "duration_ms": 351053,
+      "name": "Ndihamba Nawe",
+      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -147,18 +143,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Sibongile",
-        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
+        "name": "Skhanda Republic",
+        "url": "https://open.spotify.com/album/0i15VXopYrR8o0iHP5VCcf"
       },
       "artists": [
         {
-          "name": "Mafikizolo",
-          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        },
+        {
+          "name": "Kid X",
+          "url": "https://open.spotify.com/artist/7bbG2jEwQ56ay7Ve4QW3Bf"
         }
       ],
-      "duration_ms": 351053,
-      "name": "Ndihamba Nawe",
-      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
+      "duration_ms": 226321,
+      "name": "Caracara",
+      "url": "https://open.spotify.com/track/4A9say7qoHC3LJTFtK77CY"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "The Ultimate 'Hotstix'",
-        "url": "https://open.spotify.com/album/3UjSkBMpuXbgOMe9l54ZAw"
-      },
-      "artists": [
-        {
-          "name": "Sipho 'Hotstix' Mabuse",
-          "url": "https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx"
-        }
-      ],
-      "duration_ms": 294200,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/0wqorlaFfScZh2Iqf9BvWD"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Lenyora",
         "url": "https://open.spotify.com/album/4O8DBlsMzrukb209docL0j"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "The Ultimate 'Hotstix'",
+        "url": "https://open.spotify.com/album/3UjSkBMpuXbgOMe9l54ZAw"
+      },
+      "artists": [
+        {
+          "name": "Sipho 'Hotstix' Mabuse",
+          "url": "https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx"
+        }
+      ],
+      "duration_ms": 294200,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/0wqorlaFfScZh2Iqf9BvWD"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "Boom Shaka",
         "url": "https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 339000,
       "name": "It's About Time",
       "url": "https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Best of TK",
+        "url": "https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI"
+      },
+      "artists": [
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn"
+        }
+      ],
+      "duration_ms": 306786,
+      "name": "How Do You Feel",
+      "url": "https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -647,22 +663,6 @@
       "duration_ms": 436960,
       "name": "Lengoma",
       "url": "https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Best of TK",
-        "url": "https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI"
-      },
-      "artists": [
-        {
-          "name": "TK",
-          "url": "https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn"
-        }
-      ],
-      "duration_ms": 306786,
-      "name": "How Do You Feel",
-      "url": "https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "Khokhovula",
+        "url": "https://open.spotify.com/album/5xmeO5jAS6KCMByzQD8Fdg"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+        }
+      ],
+      "duration_ms": 317760,
+      "name": "Sana Luma (That's The Way Love Is)",
+      "url": "https://open.spotify.com/track/6UiuOhWSurVn1DUcpdA6Vf"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "Memeza",
         "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 248933,
       "name": "Cooler as Ekke",
       "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Khokhovula",
-        "url": "https://open.spotify.com/album/5xmeO5jAS6KCMByzQD8Fdg"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
-        }
-      ],
-      "duration_ms": 317760,
-      "name": "Sana Luma (That's The Way Love Is)",
-      "url": "https://open.spotify.com/track/6UiuOhWSurVn1DUcpdA6Vf"
     },
     {
       "added_at": "2023-01-23 13:10:38",

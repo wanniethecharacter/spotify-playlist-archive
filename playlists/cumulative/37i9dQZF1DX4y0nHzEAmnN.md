@@ -4,7 +4,7 @@
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-63 songs - 2 hr 13 min
+64 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Please and Thank You Song](https://open.spotify.com/track/30k4py9NpSlNYa27ovCFqv) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Life Lessons for Children from LittleBabyBum](https://open.spotify.com/album/0n6nBTGAJIJBhvKdjXchIc) | 1:31 | 2020-04-22 | 2022-07-29 |
 | [Please and Thank You Song](https://open.spotify.com/track/4NlTNo92Y3Uvked8mVmKNw) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Social Emotional Learning](https://open.spotify.com/album/6V5lv2YxGokgdUbem3ReYL) | 1:31 | 2020-04-22 | 2022-11-13 |
 | [Rise And Shine](https://open.spotify.com/track/0NW7dYHm3TxI5CQtXYOIhs) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Sofia](https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali) | [Sofia the First: Once Upon a Princess](https://open.spotify.com/album/60YMCDFuBPIl0vmyEkaVrF) | 2:56 | 2020-04-22 |  |
-| [Ronda De Los Conejos](https://open.spotify.com/track/5XZ21ldGtfj91u7K5OVn1T) | [Adriana Szuster](https://open.spotify.com/artist/5YyLdKTOYX7gaUlSL6EiyM) | [Cantando En Amapola \- Volumen 3](https://open.spotify.com/album/2mJNvYCxLvWKDA7aQ49yQ4) | 1:42 | 2020-04-22 |  |
+| [Ronda De Los Conejos](https://open.spotify.com/track/5XZ21ldGtfj91u7K5OVn1T) | [Adriana Szuster](https://open.spotify.com/artist/5YyLdKTOYX7gaUlSL6EiyM) | [Cantando En Amapola \- Volumen 3](https://open.spotify.com/album/2mJNvYCxLvWKDA7aQ49yQ4) | 1:42 | 2020-04-22 | 2023-03-13 |
+| [Ronda De Los Conejos](https://open.spotify.com/track/2sxymfPSpZ0TbepFC2pQQc) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [La Granja de Zenón Vol\. 2](https://open.spotify.com/album/2VkG1yYDatWC1Avw3eZ1SI) | 1:42 | 2020-04-22 |  |
 | [Snack Time \(Juice and Cookies\)](https://open.spotify.com/track/0he5JaHRZGio2iZOwwxe0N) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street's Olivia](https://open.spotify.com/artist/5rYht0MbgC4BBWy5sMxeGr) | [Sesame Street: Getting Ready for School](https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM) | 1:33 | 2020-04-22 |  |
 | [Sonidos al Comer](https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Las 4 Estaciones, vol\. 11](https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2) | 0:58 | 2020-04-22 |  |
 | [The Clean\-Up Song](https://open.spotify.com/track/41ROjX8HcFz3LVLMkIzzQJ) | [Jody Abboud & The New Song Kids Choir](https://open.spotify.com/artist/2VmyOyiSWOcoTzn78iGo6c) | [The Clean\-Up Song](https://open.spotify.com/album/6JzKt88LOjhyqUVnIx5V2S) | 1:30 | 2020-04-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: Nieah (\ub2c8\uc544))",
-  "num_followers": 832131,
+  "num_followers": 832241,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODMzNjg2MywwMDAwMDAwMDkwMWRlZDlkMmJjOGZjOWM1Mzg2NzkzOTYyYTFlZjll",
+  "snapshot_id": "MTY3ODMzNjg2MywwMDAwMDAwMGY0MzY0ZjVhMTA5NGFmOTk5MDgzYmI4MmU1NjRjNzdi",
   "tracks": [
     {
       "added_at": "2023-03-07 09:03:40",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5DLfhr11jMK4yJanglbWcl"
     },
     {
-      "added_at": "2023-03-12 01:17:19",
+      "added_at": "2023-03-13 01:40:33",
       "album": {
         "name": "Archive 01",
         "url": "https://open.spotify.com/album/1rnLfXYRONXmkMKOAGEUpH"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/7fjAIwn4DpKwTEqO08zN9H"
     },
     {
-      "added_at": "2023-03-12 01:17:19",
+      "added_at": "2023-03-13 01:40:33",
       "album": {
         "name": "Archive 01",
         "url": "https://open.spotify.com/album/1rnLfXYRONXmkMKOAGEUpH"
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-03-07 09:03:40",
       "album": {
+        "name": "Peaches - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "duration_ms": 198080,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
+    },
+    {
+      "added_at": "2023-03-07 09:03:40",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
-    },
-    {
-      "added_at": "2023-03-07 09:03:40",
-      "album": {
-        "name": "Peaches - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        }
-      ],
-      "duration_ms": 198080,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
     },
     {
       "added_at": "2023-03-07 09:03:40",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-07 09:03:40",
       "album": {
-        "name": "B",
-        "url": "https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7"
-      },
-      "artists": [
-        {
-          "name": "BamBam",
-          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "Slow Mo",
-      "url": "https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF"
-    },
-    {
-      "added_at": "2023-03-07 09:03:40",
-      "album": {
         "name": "LISTEN 035 Restless",
         "url": "https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 267080,
       "name": "Restless",
       "url": "https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe"
+    },
+    {
+      "added_at": "2023-03-07 09:03:40",
+      "album": {
+        "name": "B",
+        "url": "https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "Slow Mo",
+      "url": "https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF"
     },
     {
       "added_at": "2023-03-07 09:03:40",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-03-07 09:03:40",
       "album": {
-        "name": "Animal Farm",
-        "url": "https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt"
+        "name": "modern breakups",
+        "url": "https://open.spotify.com/album/2QnNSkWnmb2Aw42kEGvDQL"
       },
       "artists": [
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
         }
       ],
-      "duration_ms": 203945,
-      "name": "Animal Farm",
-      "url": "https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ"
+      "duration_ms": 184833,
+      "name": "maybe we need a break",
+      "url": "https://open.spotify.com/track/2P2r0647uy5pKUikGZ7q9B"
     },
     {
       "added_at": "2023-03-07 09:03:40",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-03-07 09:03:40",
       "album": {
-        "name": "modern breakups",
-        "url": "https://open.spotify.com/album/2QnNSkWnmb2Aw42kEGvDQL"
+        "name": "Animal Farm",
+        "url": "https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt"
       },
       "artists": [
         {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 184833,
-      "name": "maybe we need a break",
-      "url": "https://open.spotify.com/track/2P2r0647uy5pKUikGZ7q9B"
+      "duration_ms": 203945,
+      "name": "Animal Farm",
+      "url": "https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ"
     },
     {
       "added_at": "2023-03-07 09:03:40",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-03-07 09:03:40",
       "album": {
+        "name": "WHEE",
+        "url": "https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 197413,
+      "name": "Make Me Happy",
+      "url": "https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca"
+    },
+    {
+      "added_at": "2023-03-07 09:03:40",
+      "album": {
         "name": "Our Blues, Pt. 10 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 169893,
       "name": "ONCE AGAIN",
       "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
-    },
-    {
-      "added_at": "2023-03-07 09:03:40",
-      "album": {
-        "name": "WHEE",
-        "url": "https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 197413,
-      "name": "Make Me Happy",
-      "url": "https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca"
     },
     {
       "added_at": "2023-03-07 09:03:40",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-03-07 09:03:40",
       "album": {
-        "name": "CHASE - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
-      },
-      "artists": [
-        {
-          "name": "MINHO",
-          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Chase",
-      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
-    },
-    {
-      "added_at": "2023-03-07 09:03:40",
-      "album": {
         "name": "Irene",
         "url": "https://open.spotify.com/album/1lQl6XgV5kmfxQQDGNo71F"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 199672,
       "name": "Irene",
       "url": "https://open.spotify.com/track/3TaUP2qulb5m6gKDdPqV3k"
+    },
+    {
+      "added_at": "2023-03-07 09:03:40",
+      "album": {
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Chase",
+      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
     },
     {
       "added_at": "2023-03-07 09:03:40",

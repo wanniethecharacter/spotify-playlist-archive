@@ -2152,10 +2152,32 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 194483,
       "name": "Tembleque",
       "url": "https://open.spotify.com/track/4UrA9uPAwQTJC8TxdLyQGv"
+    },
+    {
+      "album": {
+        "name": "Tembleque",
+        "url": "https://open.spotify.com/album/31vVX14BtGipOUrJgL9kTG"
+      },
+      "artists": [
+        {
+          "name": "Nahu Baby",
+          "url": "https://open.spotify.com/artist/0E29LmUmNIWy4e620QAe4d"
+        },
+        {
+          "name": "CXB",
+          "url": "https://open.spotify.com/artist/5gcwcJitEUrfcz32kiSyIp"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194483,
+      "name": "Tembleque",
+      "url": "https://open.spotify.com/track/4kpt4TL2epP2BFt8P84hOT"
     },
     {
       "album": {

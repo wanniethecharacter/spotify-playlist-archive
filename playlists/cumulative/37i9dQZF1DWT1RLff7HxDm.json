@@ -614,7 +614,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 230306,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp"
@@ -1660,6 +1660,24 @@
       "duration_ms": 410133,
       "name": "Stop Breakin' Down - Live",
       "url": "https://open.spotify.com/track/27PHQJ30KsTvJWhPKOtGz4"
+    },
+    {
+      "album": {
+        "name": "Live At Montreux 1999",
+        "url": "https://open.spotify.com/album/1dP8l4ixSJsI0T4au2j6ln"
+      },
+      "artists": [
+        {
+          "name": "The Jeff Healey Band",
+          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410960,
+      "name": "Stop Breakin' Down - Live",
+      "url": "https://open.spotify.com/track/6dB8978aNpxv00JwIY3gui"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: Forrest Frank
 
-270 songs - 16 hr 51 min
+271 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [My Heart Alone](https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [My Heart Alone](https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB) | 3:21 | 2023-02-19 |  |
 | [Mōhio](https://open.spotify.com/track/6ck8vtqwTOJtsdUK2emEvR) | [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c), [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI) | [Mōhio](https://open.spotify.com/album/4tSGbI8oOTj9W2LF25Ym3h) | 4:20 | 2023-02-19 |  |
 | [Names \- Acoustic](https://open.spotify.com/track/1yJ7WrQql0OIsXQflW0Zpv) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Names \(Acoustic\)](https://open.spotify.com/album/5jwzW7iNZgN9tNPLl7bof2) | 6:09 | 2023-02-24 | 2023-03-03 |
+| [Names \- Acoustic](https://open.spotify.com/track/2dnEcb10peK8kQeGa69Zvv) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Throne Room](https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt) | 6:09 | 2023-02-24 |  |
 | [Need You](https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq) | [Caz](https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu) | [Need You](https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl) | 3:20 | 2023-02-19 |  |
 | [Needed](https://open.spotify.com/track/7uUYwH6moimJ0iQmHVW9Jq) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Needed](https://open.spotify.com/album/17hveC08PQdEHxFQRTMsOd) | 2:55 | 2023-02-20 |  |
 | [Never Grow Tired](https://open.spotify.com/track/68m3fFj8up50boqi077Yr8) | [The Evidence](https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe) | [Never Grow Tired](https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M) | 4:21 | 2020-12-18 | 2022-11-15 |
@@ -241,7 +242,7 @@
 | [This Is Love](https://open.spotify.com/track/6dt39KMTAzJS87Hfp0n1Mc) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [Love Secrets](https://open.spotify.com/album/18j2N1p5fuk0yCFmfV0JmM) | 3:33 | 2020-12-18 | 2023-02-19 |
 | [This Love](https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [This Love](https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC) | 3:17 | 2023-02-19 |  |
 | [This Wild Earth \(Subjects\)](https://open.spotify.com/track/7AdpVVMu4wK9cUKnpdWGPG) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [This Wild Earth \(Subjects\)](https://open.spotify.com/album/0XZTzEfubkS48pcQoOTbfm) | 3:38 | 2023-02-19 |  |
-| [Thousands of Years](https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0) | [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa) | [Thousands of Years](https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS) | 3:01 | 2023-02-19 |  |
+| [Thousands of Years](https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0) | [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa) | [Thousands of Years](https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS) | 3:01 | 2023-02-19 | 2023-03-13 |
 | [Tides](https://open.spotify.com/track/0hlbkCqqxAXOkoN4340d91) | [RELIC](https://open.spotify.com/artist/2i1soaUZ6BZhbrxOpKy6we) | [High Hopes](https://open.spotify.com/album/5ke4ep5wCyDS6zsBbRTCxL) | 3:17 | 2020-12-18 | 2023-02-19 |
 | [Time](https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Time](https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL) | 4:01 | 2023-02-24 |  |
 | [Trust](https://open.spotify.com/track/2Ymjppgp5agBspxZDzKQa5) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Trust](https://open.spotify.com/album/0IB32GKzb1LTt89nFnqUpG) | 3:03 | 2023-02-24 |  |

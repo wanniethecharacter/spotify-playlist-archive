@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Alex Ferreira.
 
-352 songs - 21 hr 36 min
+353 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Rumba en Cahuita](https://open.spotify.com/track/2cpVlayykQr0o0orPVt9ZZ) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Rumba en Cahuita](https://open.spotify.com/album/0SHpnCl4SJhdpdOSCMjZdm) | 2:47 | 2021-12-24 | 2022-07-29 |
 | [Sabéis Quiénes Sois](https://open.spotify.com/track/2LzQ5MZuUFAuuqSctvnA7M) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Sabéis Quiénes Sois](https://open.spotify.com/album/6vhOlsztLifwHFGDVzdmyq) | 3:45 | 2021-12-24 |  |
 | [Sal](https://open.spotify.com/track/5OvUfM106u76qTySjzr6W9) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Sal](https://open.spotify.com/album/2hX2C5ASN3oQF178Vn6ZMm) | 3:33 | 2021-12-24 | 2022-04-08 |
-| [Sana Sana](https://open.spotify.com/track/341SLEDngz2H0kE52OTXao) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Sana Sana](https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9) | 5:02 | 2022-07-22 |  |
+| [Sana Sana](https://open.spotify.com/track/341SLEDngz2H0kE52OTXao) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Sana Sana](https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9) | 5:02 | 2022-07-22 | 2023-03-13 |
 | [Sana sana](https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Sana sana](https://open.spotify.com/album/1piUtiyESANVRuWdVNSoZJ) | 5:02 | 2021-12-24 | 2022-07-28 |
 | [Saudade \- Acústica](https://open.spotify.com/track/5dhNc7vLnc3nQGyZRDAAl6) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex), [Los Hermanos Naturales](https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx) | [Saudade \(Acústica\)](https://open.spotify.com/album/377XRcQ64pFZEyoRtJfPlT) | 4:56 | 2021-12-24 | 2022-07-29 |
 | [Saudade \- Acústica](https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Hermanos Naturales](https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Saudade \(Acústica\)](https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg) | 4:56 | 2022-07-22 |  |
@@ -336,6 +336,7 @@
 | [Un Golpe de Suerte](https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Un Golpe de Suerte](https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4) | 4:29 | 2021-12-24 |  |
 | [Un Poquito Así](https://open.spotify.com/track/3O9Ghu3VChNXL5LsrnnaV0) | [Adri Stuven](https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn), [Walki](https://open.spotify.com/artist/0Z62JhOUGFNa5cFs1Fr4O0) | [Métete en Tu Amor](https://open.spotify.com/album/4w8SyxKXxrc86jJs8b8tBm) | 3:20 | 2022-01-14 | 2022-07-25 |
 | [Una Fecha En El Calendario](https://open.spotify.com/track/4SZToPB2zdHUmIASfZFFlI) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Una Fecha En El Calendario](https://open.spotify.com/album/4fn2pYbNE7QD6FoIjWCfOO) | 3:58 | 2021-12-24 | 2022-07-29 |
+| [Una Fecha En El Calendario](https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 3:58 | 2023-03-10 |  |
 | [Una herida](https://open.spotify.com/track/7CPQMi5mEonIFzo8VtV7cy) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Una herida](https://open.spotify.com/album/0Dydnkcx3W58VZhWnJQJhq) | 3:02 | 2022-09-23 | 2022-10-22 |
 | [Universo](https://open.spotify.com/track/5OyW17JzgrvjAJkycMHAmp) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Universo](https://open.spotify.com/album/6hKxfX97K2i0tmZJETLfFP) | 3:04 | 2021-12-24 | 2022-02-12 |
 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 | 2022-07-22 | 2022-08-26 |

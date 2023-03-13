@@ -3982,7 +3982,7 @@
     {
       "album": {
         "name": "Oh Dear",
-        "url": "https://open.spotify.com/album/3UKHpFVmkETC8lhOoKqmar"
+        "url": "https://open.spotify.com/album/27VCTA2nCe7ulozoaMTV2Y"
       },
       "artists": [
         {
@@ -3993,6 +3993,24 @@
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192310,
+      "name": "Oh Dear",
+      "url": "https://open.spotify.com/track/44EhnfZw9q6YsR0B6tfYYQ"
+    },
+    {
+      "album": {
+        "name": "Oh Dear",
+        "url": "https://open.spotify.com/album/3UKHpFVmkETC8lhOoKqmar"
+      },
+      "artists": [
+        {
+          "name": "Isolde Lasoen",
+          "url": "https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-13",
       "duration_ms": 192310,
       "name": "Oh Dear",
       "url": "https://open.spotify.com/track/4goXWybJqvpAM2iU07UBAi"

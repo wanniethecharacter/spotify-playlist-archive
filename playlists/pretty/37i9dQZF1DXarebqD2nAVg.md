@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,180 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,308 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 9 | [Can't Love Myself](https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Can't Love Myself](https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be) | 2:02 |
 | 10 | [I'm sorry](https://open.spotify.com/track/7pgneFkR3Vb8Q8J1Nheepd) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [Theres Still Us](https://open.spotify.com/album/3YjNmDFxVL4IkODiF0cPwp) | 2:37 |
 | 11 | [french inhale](https://open.spotify.com/track/0zNEiQuUejW9MZTY5bSDvx) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:48 |
-| 12 | [I Don't Sleep](https://open.spotify.com/track/0f0gfm6wHjhqrBMHBn9Ajr) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Sleep](https://open.spotify.com/album/49OHwmq4uGM51itc6QT4tE) | 1:45 |
-| 13 | [disappear](https://open.spotify.com/track/3x1edFtdUWSV6bFmAdHO3u) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [disappear](https://open.spotify.com/album/3innYFypOVQEwccHtItsh6) | 1:49 |
+| 12 | [disappear](https://open.spotify.com/track/3x1edFtdUWSV6bFmAdHO3u) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [disappear](https://open.spotify.com/album/3innYFypOVQEwccHtItsh6) | 1:49 |
+| 13 | [I Don't Sleep](https://open.spotify.com/track/0f0gfm6wHjhqrBMHBn9Ajr) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Sleep](https://open.spotify.com/album/49OHwmq4uGM51itc6QT4tE) | 1:45 |
 | 14 | [You're in My Head](https://open.spotify.com/track/6xLeyTBwtgC1hQWFJ1vlC2) | [moow](https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d), [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [I Can't Tell You How Much It Hurts](https://open.spotify.com/album/7umRmLEaY837V0LRXaI7na) | 1:37 |
 | 15 | [I Love You, That's the Problem](https://open.spotify.com/track/1tfAVU1HIrtlr79isORUW6) | [Kochetkovv](https://open.spotify.com/artist/7BPQzcw927WoBtakErDh6d) | [I Love You, That's the Problem](https://open.spotify.com/album/26C68ZCAfMugnKcTp3Kf9u) | 2:22 |
 | 16 | [Monday Loop](https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 49 | [same stars](https://open.spotify.com/track/0XFp0z42T0x3s3qxidqvTE) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js) | [if you're reading this ily](https://open.spotify.com/album/5WZFEyUjIgJL8iV04b9pwp) | 1:56 |
 | 50 | [Behind](https://open.spotify.com/track/4MKnTSEJuUFKvf4LcKMsw6) | [Sensi Sye](https://open.spotify.com/artist/0vDAUcrogFgvsMAXkjHZEQ) | [Behind](https://open.spotify.com/album/0pUE8rJ1nTr1JIVhOTXEaD) | 2:53 |
 
-Snapshot ID: `MTY3NjU4NzgwNywwMDAwMDAwMDEwNTk3YjgyM2ViOTQ0NzQ2ZDBjY2M2N2U5MGM5ZTY2`
+Snapshot ID: `MTY3NjU4NzgwNywwMDAwMDAwMGIzZmIzYmMzZTU5YmNlNzhmOGJmNjliNjFhMzQ2ZWNj`

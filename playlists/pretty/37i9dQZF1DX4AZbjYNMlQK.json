@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Feliz Navidad! Celebra los d\u00edas festivos con estas canciones. ",
-  "num_followers": 288085,
+  "num_followers": 288070,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNDI2OSwwMDAwMDAwMGIyODQ4ZmFlZTI0ZWQ3ZWU0MTE3ODJhMzY5ZDkyM2Vm",
+  "snapshot_id": "MTY3MTczNDI2OSwwMDAwMDAwMGFhN2VkNjc5NmI4NWI4MDZmZWJlYWRkZWRhYmViZDNi",
   "tracks": [
     {
       "added_at": "2022-12-22 18:37:48",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
-        "name": "Otro a\u00f1o +",
-        "url": "https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 100231,
-      "name": "Otro a\u00f1o +",
-      "url": "https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj"
-    },
-    {
-      "added_at": "2022-12-22 18:37:48",
-      "album": {
         "name": "Navidad En Pr",
         "url": "https://open.spotify.com/album/7p7YqBXRbW5vEohzUDB6eq"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 251533,
       "name": "Navidad En Pr",
       "url": "https://open.spotify.com/track/13mE3Skl0hCb1oigQzobQl"
+    },
+    {
+      "added_at": "2022-12-22 18:37:48",
+      "album": {
+        "name": "Otro a\u00f1o +",
+        "url": "https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 100231,
+      "name": "Otro a\u00f1o +",
+      "url": "https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj"
     },
     {
       "added_at": "2022-12-22 18:37:48",

@@ -4,7 +4,7 @@
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-138 songs - 9 hr 42 min
+139 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,8 +113,9 @@
 | [Que Sea para Mí \(Sabor a Mar\)](https://open.spotify.com/track/4h3VRMvEiivdNsQJRBUDML) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Que Sea para Mí \(Sabor a Mar\)](https://open.spotify.com/album/4hYkMJUvRrTXdJKQUVoTUU) | 3:18 | 2022-03-04 |  |
 | [Quiero Verte Feliz](https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Quiero Verte Feliz](https://open.spotify.com/album/06aAMIxG5RZzUAZ6KUe4bx) | 2:57 | 2022-03-04 |  |
 | [Rogaciano El Huapanguero \- 2016 Remaster](https://open.spotify.com/track/6rBis9kKBk15XmQJ9ELyVh) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Canciones de mi Padre \(2016 Remaster\)](https://open.spotify.com/album/7ly7GjsQ4i9bTjM5HTmhye) | 3:03 | 2022-03-04 |  |
-| [Sana Sana](https://open.spotify.com/track/341SLEDngz2H0kE52OTXao) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Sana Sana](https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9) | 5:02 | 2022-03-04 |  |
+| [Sana Sana](https://open.spotify.com/track/341SLEDngz2H0kE52OTXao) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Sana Sana](https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9) | 5:02 | 2022-03-04 | 2023-03-13 |
 | [Sana sana](https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Sana sana](https://open.spotify.com/album/1piUtiyESANVRuWdVNSoZJ) | 5:02 | 2022-03-04 | 2022-07-29 |
+| [Sana Sana](https://open.spotify.com/track/6INLstv52hDkfJ5P8OhKqx) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Madre Padre Marte](https://open.spotify.com/album/63AhXYacnlHnitNe6qG334) | 5:02 | 2023-03-03 |  |
 | [Sandunga](https://open.spotify.com/track/4GnLO8VUbm2rQA2CLcLtSs) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb) | [Sin Maquillaje](https://open.spotify.com/album/25jvak72nQ8nwXjR9pMneb) | 2:27 | 2022-03-04 |  |
 | [Santo Canto](https://open.spotify.com/track/6OnMudP5H3yXkv9K2cXuJH) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:13 | 2022-03-04 | 2023-03-04 |
 | [Se acaba el mundo \(The World is coming to an end\)](https://open.spotify.com/track/07dfnPckaeJCxs0t3q5FYK) | [Grupo Mono Blanco Y Stone Lips](https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu) | [Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar](https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz) | 6:36 | 2022-03-04 |  |

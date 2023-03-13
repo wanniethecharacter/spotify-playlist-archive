@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,267 likes - 38 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,481 likes - 38 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 21 | [Stillness](https://open.spotify.com/track/1V0xxtY4yJGo5sotrsR5Oq) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Stillness](https://open.spotify.com/album/0tHMoVyt7PcxXeJHdC3GHU) | 3:13 |
 | 22 | [The Long Way Home](https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:49 |
 | 23 | [Jours Heureux](https://open.spotify.com/track/0s7HtboRz3xS0OV0sYHpaM) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Jours Heureux](https://open.spotify.com/album/1xOB5BZcjqUybxX8fnt2HZ) | 1:49 |
-| 24 | [Summer Breeze](https://open.spotify.com/track/6WeBzOmaFwsWN4Svwg6p1F) | [Ambient Stream](https://open.spotify.com/artist/49wJGRXonVaTLd77rtGBYA) | [Summer Breeze](https://open.spotify.com/album/1j30XDwij7ZewdsszR43AJ) | 2:14 |
-| 25 | [Tears in Heaven & Relaxing Mornings](https://open.spotify.com/track/3xxEgKyzXdz1N7SoyFq2f8) | [Liam Gray](https://open.spotify.com/artist/3nSFyO3JTPhzXGJnR7wI1j) | [Relaxing Mornings, Vol\. IV](https://open.spotify.com/album/5gTdlkIcQC0N2dDbfkU8qJ) | 1:42 |
-| 26 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 |
-| 27 | [Looking for the Self](https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs) | [Ascend](https://open.spotify.com/album/2g8yMFt1ZbttMXChvjKIDv) | 3:13 |
+| 24 | [Tears in Heaven & Relaxing Mornings](https://open.spotify.com/track/3xxEgKyzXdz1N7SoyFq2f8) | [Liam Gray](https://open.spotify.com/artist/3nSFyO3JTPhzXGJnR7wI1j) | [Relaxing Mornings, Vol\. IV](https://open.spotify.com/album/5gTdlkIcQC0N2dDbfkU8qJ) | 1:42 |
+| 25 | [Summer Breeze](https://open.spotify.com/track/6WeBzOmaFwsWN4Svwg6p1F) | [Ambient Stream](https://open.spotify.com/artist/49wJGRXonVaTLd77rtGBYA) | [Summer Breeze](https://open.spotify.com/album/1j30XDwij7ZewdsszR43AJ) | 2:14 |
+| 26 | [Looking for the Self](https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs) | [Ascend](https://open.spotify.com/album/2g8yMFt1ZbttMXChvjKIDv) | 3:13 |
+| 27 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 |
 | 28 | [Rhizome](https://open.spotify.com/track/351e6h8azojdBQ9IVoCZSj) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Rhizome](https://open.spotify.com/album/0NzS4TXtxjpOZOtGLLYyNt) | 2:08 |
 | 29 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 |
 | 30 | [Song from the meadow](https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 2:15 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 37 | [Finally Home](https://open.spotify.com/track/0AkcaCZBjywy5bNnIR310e) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Gentle Evening Rain](https://open.spotify.com/album/11ClOEWh75IghVOySc1dLJ) | 2:24 |
 | 38 | [Countryside](https://open.spotify.com/track/1niV98qbCKuViXYebTlyEX) | [Noche Larga](https://open.spotify.com/artist/4QOp3aQnEKX1eFwZiT5U3I) | [Countryside](https://open.spotify.com/album/3P5GsO5dYCjBD7nLXMANPG) | 3:24 |
 
-Snapshot ID: `MTY3Nzg0OTE1NSwwMDAwMDAwMDk5NGE0NjY4ZGRhNDVkZjViYzA3ZTFmNmQ3OTIxMTM2`
+Snapshot ID: `MTY3Nzg0OTE1NSwwMDAwMDAwMDJhYzVjMjUxOTc0ZDFjYWJmMzUwMmJjOTAzOTY0ZTJi`

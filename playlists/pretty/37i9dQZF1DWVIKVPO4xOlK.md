@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Becky G & Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,761 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,894 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 34 | [Red on My Mind](https://open.spotify.com/track/1xjlu7pqQoqYRkFzSQKLr6) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Red on My Mind](https://open.spotify.com/album/0V7lso2skTahpWZBSp4e87) | 2:19 |
 | 35 | [Judge Not](https://open.spotify.com/track/6NFbwWsDoXyqLKZsQq9dVP) | [The Bromigos](https://open.spotify.com/artist/7IstQm3HsOZGoNhX0LJo0C) | [Judge Not](https://open.spotify.com/album/1JLe0I0YpC6hJmEIkW265O) | 2:38 |
 | 36 | [Nos Acoplamos Macizo](https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Nos Acoplamos Macizo](https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl) | 4:06 |
-| 37 | [Chiki Bombón](https://open.spotify.com/track/0nfsrNIB814CthJad7fBth) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Chiki Bombón](https://open.spotify.com/album/1WEGwNXItdSQ4FubJpfzMn) | 2:02 |
+| 37 | [Lagrimas De Un Niño](https://open.spotify.com/track/1OUOgB9xjsm6wfGDnXqh0R) | [Mac Rockelle](https://open.spotify.com/artist/0J9W7WVIGjIzrNFeu7gHb2) | [Lagrimas De Un Niño](https://open.spotify.com/album/0JuGK46ql3YRsEhctOIwzu) | 3:56 |
 | 38 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 |
 | 39 | [Sexo Sin Drama](https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Sexo Sin Drama](https://open.spotify.com/album/2ndDGHFi69bEujXAftA959) | 2:22 |
 | 40 | [Tah Desacata](https://open.spotify.com/track/451kT5y8M0fTtGsg9hZYaD) | [CC Love](https://open.spotify.com/artist/7ujSvrC6WQrBOA3QLG56xG), [Z Made This One](https://open.spotify.com/artist/7zVScZ9MWaKEjijwSaj8bM), [NXGEN](https://open.spotify.com/artist/1Hht0spczP4d3vfZE4FlGx), [Lokovy](https://open.spotify.com/artist/0wGJwcwSfPb0LYRjX16Qtg) | [Tah Desacata](https://open.spotify.com/album/0WfiUgCy1IKIB7c1JEx6mE) | 2:29 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDRhMjc2NDgyYmFjZWFlN2M2YzVhZmM5MmFhOGE2Njhh`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDcwMDIxZTdiN2EyYjQzMDBmYjE0NDY1YTBlYTg5M2Vk`

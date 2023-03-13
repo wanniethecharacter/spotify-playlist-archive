@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,632 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,794 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 16 | [Cold Heart \- PS1 Remix](https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj) | [Cold Heart \(PS1 Remix\)](https://open.spotify.com/album/0bwdYvNEEMESNEnudVRysj) | 2:46 |
 | 17 | [Green Green Grass \- Sam Feldt Remix](https://open.spotify.com/track/7hRssVtvUSR7WnqzrqOACT) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Green Green Grass](https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q) | 2:18 |
 | 18 | [Your Side Of The Bed \- Steve Reece Remix](https://open.spotify.com/track/5yX3kZyw1nM14mRiZO1Irb) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [Steve Reece](https://open.spotify.com/artist/1DQB6eOgTQ8NogvA5C3xYM) | [Your Side Of The Bed \(Remixes\)](https://open.spotify.com/album/52N7HDRAFmmcRlZWHbJXKO) | 2:42 |
-| 19 | [Million Dollar Baby \- Nathan Dawe Remix](https://open.spotify.com/track/5gyrGCIucSPBZdgupcgKHX) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Million Dollar Baby \(Nathan Dawe Remix\)](https://open.spotify.com/album/2TDpkgdowmz5Vp5tPGl84T) | 3:05 |
-| 20 | [Made You Look \- Joel Corry Remix](https://open.spotify.com/track/5ZU8mWLqPz8KqBe6bXqrPe) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Made You Look \(Joel Corry Remix\)](https://open.spotify.com/album/3LsHvwXaJGjAyAwWawRPZ2) | 3:03 |
+| 19 | [Made You Look \- Joel Corry Remix](https://open.spotify.com/track/5ZU8mWLqPz8KqBe6bXqrPe) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Made You Look \(Joel Corry Remix\)](https://open.spotify.com/album/3LsHvwXaJGjAyAwWawRPZ2) | 3:03 |
+| 20 | [Million Dollar Baby \- Nathan Dawe Remix](https://open.spotify.com/track/5gyrGCIucSPBZdgupcgKHX) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Million Dollar Baby \(Nathan Dawe Remix\)](https://open.spotify.com/album/2TDpkgdowmz5Vp5tPGl84T) | 3:05 |
 | 21 | [I Know You \(feat\. Bastille\) \- Vigiland Remix](https://open.spotify.com/track/1byydVLDAt7An5Pk3SuL5j) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds) | [I Know You \(Remixes\) \(feat\. Bastille\)](https://open.spotify.com/album/2WhixOxit7FV5fyM3XQTwo) | 3:03 |
 | 22 | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ) | 3:12 |
 | 23 | [Anti\-Hero \- Jayda G Remix](https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Anti\-Hero \(Remixes\)](https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [Close To Me \(with Diplo\) \(feat\. Swae Lee\) \- Felix Cartal Remix](https://open.spotify.com/track/5mYNWSc1AE7pWS3Ax4e8Dl) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Close To Me \(Remixes\)](https://open.spotify.com/album/2tRRqWb7Zfodd3bO0cTDwc) | 3:43 |
 | 50 | [Swish Swish \- Valentino Khan Remix](https://open.spotify.com/track/60jMCb9jnlhICNbD3wqmGR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Swish Swish \(Valentino Khan Remix\)](https://open.spotify.com/album/4nBHxbpFjEtPuxif8qf7pv) | 3:20 |
 
-Snapshot ID: `MTY3NjAzMzcxNCwwMDAwMDAwMGUzNTEwZDQ2ODZjZmUxYWY0ZjhjNTdjOWYyOTFkYjY1`
+Snapshot ID: `MTY3NjAzMzcxNCwwMDAwMDAwMDFkY2Y5MTgyNDBmMzFlNzJmNmVmMGJjMDI5ODBmMjZh`

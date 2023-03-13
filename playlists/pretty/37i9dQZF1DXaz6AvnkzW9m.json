@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Yerai R & Michelle BI en portada.",
-  "num_followers": 72433,
+  "num_followers": 72502,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyODAwMCwwMDAwMDAwMDIxMmY4YzY1ZjQ0MmQ0OGMxM2Y5YWQyMDk0ZjNmOWM5",
+  "snapshot_id": "MTY3ODQyODAwMCwwMDAwMDAwMGZjNWY1NTU5YzUxNzI2ZGUzMzNkOTZlZDg5ODM1MjM1",
   "tracks": [
     {
       "added_at": "2023-03-10 06:00:00",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
     },
     {
-      "added_at": "2022-12-02 06:00:00",
-      "album": {
-        "name": "Vive Y Dejame Vivir",
-        "url": "https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        }
-      ],
-      "duration_ms": 176208,
-      "name": "El Vago De Los Nike",
-      "url": "https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1"
-    },
-    {
       "added_at": "2023-02-03 06:00:00",
       "album": {
         "name": "Seguimos Dejando Marca (En Vivo)",
@@ -563,6 +547,22 @@
       "duration_ms": 147781,
       "name": "Gente Corriente - En Vivo",
       "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
+    },
+    {
+      "added_at": "2022-12-02 06:00:00",
+      "album": {
+        "name": "Vive Y Dejame Vivir",
+        "url": "https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        }
+      ],
+      "duration_ms": 176208,
+      "name": "El Vago De Los Nike",
+      "url": "https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
     },
     {
-      "added_at": "2022-12-02 06:00:00",
-      "album": {
-        "name": "Les Cerre La Boca",
-        "url": "https://open.spotify.com/album/2E54TvL90EkOYk7YmhmvHU"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "El Black",
-      "url": "https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X"
-    },
-    {
       "added_at": "2023-02-24 06:00:00",
       "album": {
         "name": "Negro Como La Pantera",
@@ -787,18 +771,18 @@
     {
       "added_at": "2022-12-02 06:00:00",
       "album": {
-        "name": "Seguimos Laborando",
-        "url": "https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN"
+        "name": "Les Cerre La Boca",
+        "url": "https://open.spotify.com/album/2E54TvL90EkOYk7YmhmvHU"
       },
       "artists": [
         {
-          "name": "Grupo 360",
-          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
         }
       ],
-      "duration_ms": 205813,
-      "name": "Seguimos Laborando",
-      "url": "https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ"
+      "duration_ms": 206160,
+      "name": "El Black",
+      "url": "https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -815,6 +799,22 @@
       "duration_ms": 193874,
       "name": "Buena Vibra",
       "url": "https://open.spotify.com/track/6Y2qNukfWKFGbAv2iONhvy"
+    },
+    {
+      "added_at": "2022-12-02 06:00:00",
+      "album": {
+        "name": "Seguimos Laborando",
+        "url": "https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN"
+      },
+      "artists": [
+        {
+          "name": "Grupo 360",
+          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Seguimos Laborando",
+      "url": "https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-12-02 06:00:00",
       "album": {
-        "name": "El Boom",
-        "url": "https://open.spotify.com/album/1yKupzUivdMwcsplXhaLDR"
-      },
-      "artists": [
-        {
-          "name": "Grupo 360",
-          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
-        }
-      ],
-      "duration_ms": 261070,
-      "name": "El Boom",
-      "url": "https://open.spotify.com/track/1SQe4UUgUSRvY2SD10Ft3o"
-    },
-    {
-      "added_at": "2022-12-02 06:00:00",
-      "album": {
         "name": "Mexicano",
         "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 174193,
       "name": "Mexicano",
       "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
+    },
+    {
+      "added_at": "2023-01-13 06:00:00",
+      "album": {
+        "name": "Ni\u00f1o De Oro (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        }
+      ],
+      "duration_ms": 176480,
+      "name": "Ni\u00f1o De Oro",
+      "url": "https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb"
     },
     {
       "added_at": "2023-02-03 06:00:00",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk"
     },
     {
-      "added_at": "2023-01-13 06:00:00",
-      "album": {
-        "name": "Ni\u00f1o De Oro (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        }
-      ],
-      "duration_ms": 176480,
-      "name": "Ni\u00f1o De Oro",
-      "url": "https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb"
-    },
-    {
       "added_at": "2022-12-02 06:00:00",
       "album": {
         "name": "En El Refuego",
@@ -1011,22 +995,18 @@
     {
       "added_at": "2022-12-02 06:00:00",
       "album": {
-        "name": "Denver Ruleteamos",
-        "url": "https://open.spotify.com/album/47KjLcIoLIn0g6yAIFSjBY"
+        "name": "El Boom",
+        "url": "https://open.spotify.com/album/1yKupzUivdMwcsplXhaLDR"
       },
       "artists": [
         {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Los Minis de Caborca",
-          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
+          "name": "Grupo 360",
+          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
         }
       ],
-      "duration_ms": 212973,
-      "name": "Denver Ruleteamos",
-      "url": "https://open.spotify.com/track/0uJ9kGk1Pf5Nv2mbojVdkN"
+      "duration_ms": 261070,
+      "name": "El Boom",
+      "url": "https://open.spotify.com/track/1SQe4UUgUSRvY2SD10Ft3o"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1047,6 +1027,26 @@
       "duration_ms": 205309,
       "name": "Mecha Corta",
       "url": "https://open.spotify.com/track/6fMVfi5TK2A5b1gMbWfjOV"
+    },
+    {
+      "added_at": "2022-12-02 06:00:00",
+      "album": {
+        "name": "Denver Ruleteamos",
+        "url": "https://open.spotify.com/album/47KjLcIoLIn0g6yAIFSjBY"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Los Minis de Caborca",
+          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "Denver Ruleteamos",
+      "url": "https://open.spotify.com/track/0uJ9kGk1Pf5Nv2mbojVdkN"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -1361,24 +1361,20 @@
       "url": "https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn"
     },
     {
-      "added_at": "2023-02-03 06:00:00",
+      "added_at": "2022-12-02 06:00:00",
       "album": {
-        "name": "Tumbate El Rollo",
-        "url": "https://open.spotify.com/album/5GE54IpPFRPlNJUczVw7X1"
+        "name": "Tragos y Cigarros",
+        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
       },
       "artists": [
         {
-          "name": "Los De La Zona",
-          "url": "https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg"
-        },
-        {
-          "name": "ForyFive",
-          "url": "https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq"
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 181240,
-      "name": "Tumbate El Rollo",
-      "url": "https://open.spotify.com/track/2nCFQaUCvrcPiMkhT7Wb6D"
+      "duration_ms": 152426,
+      "name": "Maryjane y Blancanieves",
+      "url": "https://open.spotify.com/track/1x7KRBVwvqgA0vYU6UeXHP"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -1401,20 +1397,24 @@
       "url": "https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es"
     },
     {
-      "added_at": "2022-12-02 06:00:00",
+      "added_at": "2023-02-03 06:00:00",
       "album": {
-        "name": "Tragos y Cigarros",
-        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
+        "name": "Tumbate El Rollo",
+        "url": "https://open.spotify.com/album/5GE54IpPFRPlNJUczVw7X1"
       },
       "artists": [
         {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+          "name": "Los De La Zona",
+          "url": "https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg"
+        },
+        {
+          "name": "ForyFive",
+          "url": "https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq"
         }
       ],
-      "duration_ms": 152426,
-      "name": "Maryjane y Blancanieves",
-      "url": "https://open.spotify.com/track/1x7KRBVwvqgA0vYU6UeXHP"
+      "duration_ms": 181240,
+      "name": "Tumbate El Rollo",
+      "url": "https://open.spotify.com/track/2nCFQaUCvrcPiMkhT7Wb6D"
     }
   ],
   "unique_name": "Trap Corridos",

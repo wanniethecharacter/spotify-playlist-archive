@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,746,557 likes - 250 songs - 13 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,747,045 likes - 250 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 31 | [Africa Is Paradise](https://open.spotify.com/track/4mE0swmToqH3VTxczrriGJ) | [Conscious Minds](https://open.spotify.com/artist/11y1qoHYKS7JRxKP10VDen) | [The Best of Lloyd Charmers](https://open.spotify.com/album/4hjg5OZnRMnkXIvY8D8HYM) | 3:15 |
 | 32 | [What Does It Take \(To Win Your Love\)](https://open.spotify.com/track/3CCm37PRX6o0SAzgzR2WiD) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 3:17 |
 | 33 | [Rivers of Babylon](https://open.spotify.com/track/3t3ef0BO5oPbaeYUJsxGWW) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:25 |
-| 34 | [The Further You Look \(The Less You See\)](https://open.spotify.com/track/0Fx1OZsFHjFMVNoZVa5YHV) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [4000 Volts of Holt: The Classic Albums Collection](https://open.spotify.com/album/1d5ZtXjhgYxQArbE7DHjey) | 3:08 |
+| 34 | [The Further You Look \(The Less You See\)](https://open.spotify.com/track/0Fx1OZsFHjFMVNoZVa5YHV) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [4000 Volts of Holt: The Classic Albums Collection](https://open.spotify.com/album/1d5ZtXjhgYxQArbE7DHjey) | 3:05 |
 | 35 | [Words of My Mouth](https://open.spotify.com/track/2UFkQ2jhMnp2NuWqFSC023) | [The Gatherers](https://open.spotify.com/artist/0hqhLiP1K5NAakipJK5Y8J) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm) | 3:36 |
 | 36 | [Sister Big Stuff](https://open.spotify.com/track/028ARUhVE9NpsVPX8V1WWy) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu), [The Tommy McCook All Stars](https://open.spotify.com/artist/70X0T8ZeXYHO8wzffEKji3) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:31 |
 | 37 | [Herbsman Shuffle](https://open.spotify.com/track/0ST6B44PZWbEKlNYJcSaAn) | [King Stitt](https://open.spotify.com/artist/4mnqzsY3NjCMTQte4d9nRx) | [Reggae Beat](https://open.spotify.com/album/1k52P98BISGHnBCjaFNCWH) | 2:41 |

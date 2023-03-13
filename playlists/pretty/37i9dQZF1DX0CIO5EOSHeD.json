@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 414336,
+  "num_followers": 414547,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc4NTQ5MSwwMDAwMDAwMDQzMTRlYmVmYjdhODgyYTE5YmFmMTA0Y2NiOWFiYjdh",
+  "snapshot_id": "MTY3Nzc4NTQ5MSwwMDAwMDAwMDE2MmQ3N2ZjZWQyZGI3M2ZjNDBjZGU1YWQ3M2YzZjM0",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Blue Suicide",
-        "url": "https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB"
-      },
-      "artists": [
-        {
-          "name": "Coma Cinema",
-          "url": "https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu"
-        }
-      ],
-      "duration_ms": 153234,
-      "name": "Her Sinking Sun",
-      "url": "https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Double Superfine",
         "url": "https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 204564,
       "name": "Darcy",
       "url": "https://open.spotify.com/track/20ZVYu0lsdCsuzMKfcadZN"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Blue Suicide",
+        "url": "https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB"
+      },
+      "artists": [
+        {
+          "name": "Coma Cinema",
+          "url": "https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu"
+        }
+      ],
+      "duration_ms": 153234,
+      "name": "Her Sinking Sun",
+      "url": "https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "ALLTHETIME",
-        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
-      },
-      "artists": [
-        {
-          "name": "POLICE CAR COLLECTIVE",
-          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
-        }
-      ],
-      "duration_ms": 425680,
-      "name": "ALLTHETIME",
-      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Half Life",
         "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 239343,
       "name": "Into",
       "url": "https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "ALLTHETIME",
+        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
+      },
+      "artists": [
+        {
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        }
+      ],
+      "duration_ms": 425680,
+      "name": "ALLTHETIME",
+      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "OH GOD",
-        "url": "https://open.spotify.com/album/7x4qNYyuYnLTNjuJgG0KJ5"
-      },
-      "artists": [
-        {
-          "name": "marinelli",
-          "url": "https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a"
-        }
-      ],
-      "duration_ms": 132323,
-      "name": "OH GOD",
-      "url": "https://open.spotify.com/track/5jRsnHqasY3MPLsZq76KiO"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/3j4P5XClGIWJhnXT6NTix2"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 206000,
       "name": "New York, Paris and London",
       "url": "https://open.spotify.com/track/1qz48hLN202OabIYOSkCFZ"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "OH GOD",
+        "url": "https://open.spotify.com/album/7x4qNYyuYnLTNjuJgG0KJ5"
+      },
+      "artists": [
+        {
+          "name": "marinelli",
+          "url": "https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a"
+        }
+      ],
+      "duration_ms": 132323,
+      "name": "OH GOD",
+      "url": "https://open.spotify.com/track/5jRsnHqasY3MPLsZq76KiO"
     },
     {
       "added_at": "2022-09-13 23:04:24",

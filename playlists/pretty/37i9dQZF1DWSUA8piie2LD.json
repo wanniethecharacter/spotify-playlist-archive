@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 65151,
+  "num_followers": 65318,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI4MDMxOSwwMDAwMDAwMDg3OTIxNzE1ZGE5NTYyMjNkZGY4ZTg5NmQzODIwZGNh",
+  "snapshot_id": "MTY3ODI4MDMxOSwwMDAwMDAwMDBmMGFhYTcxYTIwMjllMGYwYjMyY2RiMTRhYzhiOWJk",
   "tracks": [
     {
       "added_at": "2023-03-08 12:58:39",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
+        "name": "Day Into Night",
+        "url": "https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB"
+      },
+      "artists": [
+        {
+          "name": "Bob Mamet",
+          "url": "https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "Greenstreet",
+      "url": "https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW"
+    },
+    {
+      "added_at": "2023-03-08 12:58:39",
+      "album": {
         "name": "Kisses In The Rain",
         "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 256853,
       "name": "If I Could Fly",
       "url": "https://open.spotify.com/track/6ZrF3FEq8MQd1CN9MXTHqa"
-    },
-    {
-      "added_at": "2023-03-08 12:58:39",
-      "album": {
-        "name": "Day Into Night",
-        "url": "https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB"
-      },
-      "artists": [
-        {
-          "name": "Bob Mamet",
-          "url": "https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "Greenstreet",
-      "url": "https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW"
     },
     {
       "added_at": "2023-03-08 12:58:39",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
+        "name": "Personal Touch",
+        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
       },
       "artists": [
         {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
         }
       ],
-      "duration_ms": 293533,
-      "name": "Undun",
-      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
+      "duration_ms": 224626,
+      "name": "Personal Touch",
+      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
     },
     {
       "added_at": "2023-03-08 12:58:39",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 293533,
+      "name": "Undun",
+      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
+    },
+    {
+      "added_at": "2023-03-08 12:58:39",
+      "album": {
         "name": "Smooth Sensation",
         "url": "https://open.spotify.com/album/12tng68mKohYzlVWT1QRna"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 276506,
       "name": "Smooth Sensation",
       "url": "https://open.spotify.com/track/1jKOG02lqHnwYXHpyLF3Nd"
-    },
-    {
-      "added_at": "2023-03-08 12:58:39",
-      "album": {
-        "name": "Personal Touch",
-        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Personal Touch",
-      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
     },
     {
       "added_at": "2023-03-08 12:58:39",
@@ -299,18 +299,22 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
-        "name": "Just Around The Corner",
-        "url": "https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b"
+        "name": "Double Vision",
+        "url": "https://open.spotify.com/album/2XzZV3u8qwJLOke0J8DvGB"
       },
       "artists": [
         {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+          "name": "Bob James",
+          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
+        },
+        {
+          "name": "David Sanborn",
+          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
         }
       ],
-      "duration_ms": 250746,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9"
+      "duration_ms": 408466,
+      "name": "Maputo",
+      "url": "https://open.spotify.com/track/0QM8IOYgFzvWcBYn0oi0Cs"
     },
     {
       "added_at": "2023-03-08 12:58:39",
@@ -331,22 +335,18 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
-        "name": "Double Vision",
-        "url": "https://open.spotify.com/album/2XzZV3u8qwJLOke0J8DvGB"
+        "name": "Just Around The Corner",
+        "url": "https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b"
       },
       "artists": [
         {
-          "name": "Bob James",
-          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
-        },
-        {
-          "name": "David Sanborn",
-          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
         }
       ],
-      "duration_ms": 408466,
-      "name": "Maputo",
-      "url": "https://open.spotify.com/track/0QM8IOYgFzvWcBYn0oi0Cs"
+      "duration_ms": 250746,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9"
     },
     {
       "added_at": "2023-03-08 12:58:39",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 314312,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc"
-    },
-    {
-      "added_at": "2023-03-08 12:58:39",
-      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 270773,
       "name": "Who's That Lady",
       "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
+    },
+    {
+      "added_at": "2023-03-08 12:58:39",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 314312,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc"
     },
     {
       "added_at": "2023-03-08 12:58:39",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 266693,
-      "name": "The Closer I Get To You",
-      "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
-    },
-    {
-      "added_at": "2023-03-08 12:58:39",
-      "album": {
         "name": "GK",
         "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 287840,
       "name": "Floating in Bahia",
       "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
+    },
+    {
+      "added_at": "2023-03-08 12:58:39",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 266693,
+      "name": "The Closer I Get To You",
+      "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
     },
     {
       "added_at": "2023-03-08 12:58:39",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
+    },
+    {
+      "added_at": "2023-03-08 12:58:39",
+      "album": {
         "name": "Full Stride",
         "url": "https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
+        "name": "Seduction",
+        "url": "https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D"
       },
       "artists": [
         {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 253760,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
+      "duration_ms": 238053,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll"
     },
     {
       "added_at": "2023-03-08 12:58:39",
@@ -775,22 +791,6 @@
       "duration_ms": 356040,
       "name": "Dreamwalk",
       "url": "https://open.spotify.com/track/1tDdDgGz1q5CqmteYO7Dni"
-    },
-    {
-      "added_at": "2023-03-08 12:58:39",
-      "album": {
-        "name": "Seduction",
-        "url": "https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 238053,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll"
     },
     {
       "added_at": "2023-03-08 12:58:39",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
+        "name": "GK",
+        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 286093,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/27wLc0cxnw9IbhRMyMeBmR"
+    },
+    {
+      "added_at": "2023-03-08 12:58:39",
+      "album": {
         "name": "Work to Do",
         "url": "https://open.spotify.com/album/6THuvzMAocj3aImePgicNH"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 304400,
       "name": "Sneak a Peek",
       "url": "https://open.spotify.com/track/2uc5qiIZZPPFpNaQn3M54w"
-    },
-    {
-      "added_at": "2023-03-08 12:58:39",
-      "album": {
-        "name": "GK",
-        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/27wLc0cxnw9IbhRMyMeBmR"
     },
     {
       "added_at": "2023-03-08 12:58:39",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
+        "name": "Born 2 Groove",
+        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 308826,
+      "name": "A Summer Night's Dream",
+      "url": "https://open.spotify.com/track/0c0BVgVakGq5rylCucXVau"
+    },
+    {
+      "added_at": "2023-03-08 12:58:39",
+      "album": {
         "name": "Above The Clouds",
         "url": "https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv"
       },
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
-        "name": "Born 2 Groove",
-        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 308826,
-      "name": "A Summer Night's Dream",
-      "url": "https://open.spotify.com/track/0c0BVgVakGq5rylCucXVau"
-    },
-    {
-      "added_at": "2023-03-08 12:58:39",
-      "album": {
         "name": "Perfect Moment",
         "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 285733,
       "name": "Somethin' Bout Love",
       "url": "https://open.spotify.com/track/0nbpJT18zdfjt0dN2tds9h"
-    },
-    {
-      "added_at": "2023-03-08 12:58:39",
-      "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
     },
     {
       "added_at": "2023-03-08 12:58:39",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "duration_ms": 283866,
+      "name": "Twice in a Lifetime",
+      "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
+    },
+    {
+      "added_at": "2023-03-08 12:58:39",
+      "album": {
         "name": "Nice & Slow",
         "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
       },
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
       },
       "artists": [
         {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 283866,
-      "name": "Twice in a Lifetime",
-      "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
+      "duration_ms": 265893,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
     },
     {
       "added_at": "2023-03-08 12:58:39",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
-        "name": "Blue Touch",
-        "url": "https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 295800,
-      "name": "Blue Touch",
-      "url": "https://open.spotify.com/track/1f0Jry39WffW5ydai7egP7"
-    },
-    {
-      "added_at": "2023-03-08 12:58:39",
-      "album": {
         "name": "Send One Your Love",
         "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 274013,
       "name": "Send One Your Love",
       "url": "https://open.spotify.com/track/1RMGbJnIQY6QhlqxKH8Fxf"
+    },
+    {
+      "added_at": "2023-03-08 12:58:39",
+      "album": {
+        "name": "Blue Touch",
+        "url": "https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 295800,
+      "name": "Blue Touch",
+      "url": "https://open.spotify.com/track/1f0Jry39WffW5ydai7egP7"
     }
   ],
   "unique_name": "Romantic Smooth Jazz",

@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-165 songs - 12 hr 21 min
+166 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [How Deep Is The Ocean](https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [How Deep Is The Ocean](https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj) | 5:18 | 2022-04-13 |  |
 | [How Long](https://open.spotify.com/track/3VKEFn4xRdTOcHrLsCOMFb) | [Ksenia Parkhatskaya](https://open.spotify.com/artist/6AZm6N0cbEAzLkxdlbzbmy) | [Colours](https://open.spotify.com/album/1mThTkKwU2AUYhDfs0hG2O) | 4:35 | 2022-04-13 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 | 2022-04-13 |  |
-| [I Can't Get Started](https://open.spotify.com/track/2pTg3UNkYi7dT5dghfUjjy) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [No Bounds](https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC) | 5:12 | 2022-04-13 |  |
+| [I Can't Get Started](https://open.spotify.com/track/2pTg3UNkYi7dT5dghfUjjy) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [No Bounds](https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC) | 5:12 | 2022-04-13 | 2023-03-13 |
 | [I Can't Get Started](https://open.spotify.com/track/6hYK6zZdmTBDwiZAy7ztN5) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP) | [For Connoisseurs Only](https://open.spotify.com/album/57jlLW5snTeDKnJPIuO0Kk) | 5:00 | 2022-05-19 | 2022-08-12 |
 | [I Didn't Know About You](https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn) | [Jocelyn Barth](https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX) | [Tell Him I Said Hello](https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J) | 4:26 | 2022-04-13 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8) | [Yotam Ishay](https://open.spotify.com/artist/3ABpfCZ60PQjECYhCuXRWs) | [SEED](https://open.spotify.com/album/1VHxkrq4ZeKF0JaeoGvNtg) | 5:28 | 2022-04-13 |  |
@@ -68,6 +68,7 @@
 | [I Loves You, Porgy](https://open.spotify.com/track/4saZV3enmCs9p3JfdtpCwn) | [Norma Winstone](https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5) | [Like Song, Like Weather](https://open.spotify.com/album/3GXSmLkrNU89CpYIuv9QD7) | 6:06 | 2022-07-21 |  |
 | [I Walk A Little Faster](https://open.spotify.com/track/13IsFI2oDwC0CNR2hLAKeS) | [María Esteban Quintet](https://open.spotify.com/artist/2sZxjmgR2KmuFB54tvc9YY), [María Esteban](https://open.spotify.com/artist/2IGB5nA5VbGU7bKSoJMqMN), [Edu Cabello](https://open.spotify.com/artist/0THtNsDRswHw7gbFaPrVU9), [Rai Paz](https://open.spotify.com/artist/7fyYCDMJffGkMcoatNcKHk), [Xavi Castillo](https://open.spotify.com/artist/5dC65gJBz1D1xqPE4PnKDp), [Santi Colomer](https://open.spotify.com/artist/39eWTAyXJRsLxEvTjJPvwa) | [Voces Veladas, Vol.2\-Un Homenaje a Letristas e Intérpretes de Jazz](https://open.spotify.com/album/68Zzm6yDNA2CUBGA5rsjbe) | 5:17 | 2022-07-21 |  |
 | [I Will Wait For You](https://open.spotify.com/track/7C7KLdwjjIvCWcxPwmgvaV) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [From New York To Paris](https://open.spotify.com/album/0ew4bQVWNluLXdaODGW1C0) | 5:30 | 2022-04-13 | 2022-08-12 |
+| [I Wish I Knew](https://open.spotify.com/track/2JlTDtzMu6P1RNT2ARoZb8) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [More Than You Know](https://open.spotify.com/album/5RXXDpraIIfdtZjGLKqp95) | 4:53 | 2023-03-09 |  |
 | [I Wish I Knew](https://open.spotify.com/track/4WipUexDpNvekJbFMBsGa3) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [More Than You Know](https://open.spotify.com/album/4VU42lLFiXY4Xcr4tcoPZa) | 4:53 | 2022-05-03 | 2023-02-18 |
 | [I'll Be Seeing You](https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 3:19 | 2022-04-13 |  |
 | [I'm a Fool to Want You](https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq) | [Laverne Butler](https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi) | [Blues in the City](https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw) | 5:03 | 2022-04-13 |  |

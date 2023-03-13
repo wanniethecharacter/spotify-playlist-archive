@@ -67,6 +67,32 @@
     },
     {
       "album": {
+        "name": "Afro Bolero",
+        "url": "https://open.spotify.com/album/6eyUDhcGyhx68IZXaVERl7"
+      },
+      "artists": [
+        {
+          "name": "Philippe Cohen Solal",
+          "url": "https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Mo Laudi",
+          "url": "https://open.spotify.com/artist/3jWjZtXKLucI8YSgshXJhW"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190462,
+      "name": "Afro Bolero",
+      "url": "https://open.spotify.com/track/45u9j7yYusneijsns98g12"
+    },
+    {
+      "album": {
         "name": "Aye",
         "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
       },
@@ -1736,7 +1762,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-13",
       "duration_ms": 204240,
       "name": "Salala",
       "url": "https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN"

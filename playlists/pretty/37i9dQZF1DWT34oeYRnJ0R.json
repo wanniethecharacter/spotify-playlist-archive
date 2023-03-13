@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Chris Wendell",
-  "num_followers": 695846,
+  "num_followers": 695826,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI2MDEzOCwwMDAwMDAwMDMyMGI3NGQ3MTA0MjIzNWYwNmQzZWNhYWE0YTE2ZDhm",
+  "snapshot_id": "MTY3NzI2MDEzOCwwMDAwMDAwMGIxNGNlMDU3ZWE4MDgwMzliNGVlNjI5Y2RhZTNjMDk1",
   "tracks": [
     {
       "added_at": "2023-02-24 17:35:38",
@@ -283,6 +283,26 @@
     {
       "added_at": "2023-02-24 17:35:38",
       "album": {
+        "name": "CONTINGENTE",
+        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 213877,
+      "name": "VENENO",
+      "url": "https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB"
+    },
+    {
+      "added_at": "2023-02-24 17:35:38",
+      "album": {
         "name": "S\u00edntomas de Soltera",
         "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 241908,
       "name": "S\u00edntomas de Soltera",
       "url": "https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv"
-    },
-    {
-      "added_at": "2023-02-24 17:35:38",
-      "album": {
-        "name": "CONTINGENTE",
-        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 213877,
-      "name": "VENENO",
-      "url": "https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB"
     },
     {
       "added_at": "2023-02-24 17:35:38",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-02-24 17:35:38",
       "album": {
-        "name": "NOTEVI",
-        "url": "https://open.spotify.com/album/3PBOYHT7YbSLIs6qScxIEw"
-      },
-      "artists": [
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        },
-        {
-          "name": "Jimmix",
-          "url": "https://open.spotify.com/artist/3j1xVZx3m3UPoREAQ8depP"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "NOTEVI",
-      "url": "https://open.spotify.com/track/6BZA4lYx4FxsdgFYb6Cq7E"
-    },
-    {
-      "added_at": "2023-02-24 17:35:38",
-      "album": {
         "name": "lyu2 (with marcos g)",
         "url": "https://open.spotify.com/album/3pwWV4Y1XnsZpcpqtjyax3"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 182526,
       "name": "lyu2 (with marcos g)",
       "url": "https://open.spotify.com/track/1eKhGmIxCVwXHjxrh3aqT5"
+    },
+    {
+      "added_at": "2023-02-24 17:35:38",
+      "album": {
+        "name": "NOTEVI",
+        "url": "https://open.spotify.com/album/3PBOYHT7YbSLIs6qScxIEw"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Jimmix",
+          "url": "https://open.spotify.com/artist/3j1xVZx3m3UPoREAQ8depP"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "NOTEVI",
+      "url": "https://open.spotify.com/track/6BZA4lYx4FxsdgFYb6Cq7E"
     },
     {
       "added_at": "2023-02-24 17:35:38",

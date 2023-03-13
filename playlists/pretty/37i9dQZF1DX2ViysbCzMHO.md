@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,318 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,420 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 74 | [Little More Be Alright](https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Little More Be Alright](https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM) | 3:35 |
 | 75 | [Better Off Gone \(Acoustic Sessions\)](https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Acoustic Sessions](https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V) | 3:24 |
 | 76 | [Another \- Wedding Version](https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Another \(Wedding Version\)](https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd) | 2:51 |
-| 77 | [I Don't Wanna Go To Heaven \- Choir Version](https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven \(Choir Version\)](https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X) | 3:25 |
-| 78 | [Truth Is \- Acoustic](https://open.spotify.com/track/1zYWbiwLIoVdl53KwH60DT) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Truth Is \(Acoustic\)](https://open.spotify.com/album/6SvdzgAk9PpKjsUjgF5gCH) | 2:51 |
+| 77 | [Truth Is \- Acoustic](https://open.spotify.com/track/1zYWbiwLIoVdl53KwH60DT) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Truth Is \(Acoustic\)](https://open.spotify.com/album/6SvdzgAk9PpKjsUjgF5gCH) | 2:51 |
+| 78 | [I Don't Wanna Go To Heaven \- Choir Version](https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven \(Choir Version\)](https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X) | 3:25 |
 | 79 | [Heart Shut \(feat\. Tenille Townes\)](https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Six Strings](https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk) | 3:21 |
 | 80 | [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 |
 | 81 | [Forever and Always \(Acoustic\)](https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Forever and Always \(Acoustic\)](https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3) | 3:10 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 89 | [At the End of a Bar \- Acoustic](https://open.spotify.com/track/77UxRSc10Z4zM1XUB9ec2o) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [At the End of a Bar \(Acoustic\)](https://open.spotify.com/album/1fH1s6HBeYwxaRTHcLm2th) | 3:02 |
 | 90 | [Last Cigarette \- Acoustic](https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Acoustic Sessions EP](https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH) | 2:50 |
 | 91 | [Landslide \- Live from Nashville](https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:17 |
-| 92 | [Austin \- Acoustic](https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Austin \(Acoustic\)](https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls) | 3:46 |
+| 92 | [Almost Maybes \- Acoustic](https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes \(Acoustic\)](https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW) | 2:59 |
 | 93 | [What A Song Can Do \- Stripped Down](https://open.spotify.com/track/5bzbzfiqtmNazwQOgAB2ik) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do \(Stripped Down\)](https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd) | 3:57 |
-| 94 | [Almost Maybes \- Acoustic](https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes \(Acoustic\)](https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW) | 2:59 |
+| 94 | [Austin \- Acoustic](https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Austin \(Acoustic\)](https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls) | 3:46 |
 | 95 | [I Didn't Love You](https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [12/12 \(Acoustic\)](https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT) | 2:59 |
 | 96 | [I Wanna Remember \(feat\. Carrie Underwood\) \- Acoustic](https://open.spotify.com/track/34eeqKzBs5jWOPRoLaagrz) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [I Wanna Remember \(feat\. Carrie Underwood\) \[Acoustic\]](https://open.spotify.com/album/11r0mt27sHJJi8RVhH4Urn) | 3:26 |
 | 97 | [Just About Over You \- Acoustic Version](https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Acoustic Version\)](https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [Sunrise Tells The Story \- Acoustic](https://open.spotify.com/track/4IXILY7BOCehZjc5axsn1C) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story \(Acoustic\)](https://open.spotify.com/album/5jrgfI0K2Z8jllFP84V40z) | 3:25 |
 | 100 | [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/track/2ZVec8GTFATsJBkYdKhagf) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 2:44 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDBjMzY5NTc1NDhkZTI1NTVjYjNlNzJjOGQ3NjJhY2Yw`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDY1OWQ4MmQxMDM2NWFjOGE0MDg1NDljMTlhYWNlZjAx`

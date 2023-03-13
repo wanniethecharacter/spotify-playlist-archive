@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Miley Cyrus \(pictured\), Calvin Harris, Nia Archives and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,718 likes - 131 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,739 likes - 131 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 126 | [2 Bad](https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [2 Bad](https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ) | 2:36 |
 | 127 | [Big Dog Barking](https://open.spotify.com/track/4kEarTa6pcGd3TCN6CYGSm) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [Big Dog Barking](https://open.spotify.com/album/5z57cpq7qtolGiw2PIuGdJ) | 2:19 |
 | 128 | [Talkin' to Me](https://open.spotify.com/track/6plcjy4ICjGIn6FBD1fbAx) | [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp), [Harleighblu](https://open.spotify.com/artist/4cEYh7S0lnB9zj30tzPorE) | [Talkin' to Me](https://open.spotify.com/album/7m3NhrdkpODf59SyYjLo2O) | 4:00 |
-| 129 | [In My Room](https://open.spotify.com/track/1P5MpILPf5pgEmsZzqEVoy) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [In My Room](https://open.spotify.com/album/7E4VRFdU8aKvZ7qVY8ekrM) | 2:25 |
+| 129 | [In My Room \(feat\. SHELLS\)](https://open.spotify.com/track/1P5MpILPf5pgEmsZzqEVoy) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [In My Room \(feat\. SHELLS\)](https://open.spotify.com/album/7E4VRFdU8aKvZ7qVY8ekrM) | 2:25 |
 | 130 | [marigold](https://open.spotify.com/track/3hOR32pKvOpj9cE32Po3dE) | [kenzo jae](https://open.spotify.com/artist/1649ehpEZceiBKsl19kumf) | [marigold](https://open.spotify.com/album/2RzzkqoNAe7ZS2L4LM44ot) | 2:44 |
 | 131 | [Teeth](https://open.spotify.com/track/0WVCLhaqfBVm8RutijCiMB) | [Local Boy](https://open.spotify.com/artist/34Ze0nb54KG3gietZGFZIj) | [Teeth](https://open.spotify.com/album/1cfCP9505PAGSh4eVmYQhS) | 3:32 |
 

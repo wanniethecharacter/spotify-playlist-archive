@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Jackie Venson
 
-120 songs - 12 hr 17 min
+121 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Empty Promises \- Live](https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Empty Promises \(Live\)](https://open.spotify.com/album/3MuYZQPycwGmL0qu0rZNC9) | 7:49 | 2020-10-30 |  |
 | [Everyday I Have The Blues \- Live \(San Quentin\)](https://open.spotify.com/track/0rTmNc15RZrI9EzBM7cE0L) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At San Quentin](https://open.spotify.com/album/1Lm56IVJSuSNumkGqlHOL2) | 4:41 | 2020-10-30 |  |
 | [Feeling Good \- Live](https://open.spotify.com/track/2aeLJxzpJ1oK73BDp01898) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Live At The Roxy](https://open.spotify.com/album/6eNrhA2jblBr2MxXI7EhOd) | 3:52 | 2020-10-30 | 2022-07-29 |
-| [Freedom](https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Live In Europe](https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf) | 3:50 | 2020-10-30 |  |
+| [Freedom](https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Live In Europe](https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf) | 3:50 | 2020-10-30 | 2023-03-13 |
 | [Frosty \(Live\)](https://open.spotify.com/track/5mWpxiRT5itAt6u2RAD2Y4) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Frosty \(Live\)](https://open.spotify.com/album/0Y3RF1vbBHc8bTm0hFZvwS) | 5:52 | 2020-10-30 | 2022-07-29 |
 | [Gravity \- Live at the House of Blues, Chicago, Illinois, September 22, 2005](https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [TRY! \- Live In Concert](https://open.spotify.com/album/0X9bvQYYtrAYdkO4OKtYwz) | 5:49 | 2020-10-30 |  |
 | [Gunslinger \- Live](https://open.spotify.com/track/3pU28LbuY6LpaAwHGehN8d) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Knows Diddley Live](https://open.spotify.com/album/2z1TNVOGgtg69QcZskgSdj) | 4:27 | 2022-12-16 | 2023-02-26 |
@@ -97,6 +97,7 @@
 | [Stoop Down Baby \- Live](https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad and Beautiful \(Live\)](https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2) | 5:50 | 2020-10-30 |  |
 | [Stoop Down Baby \- Live](https://open.spotify.com/track/73QVbPlOgcRJ4uASFps0ZF) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad & Beautiful \- Live](https://open.spotify.com/album/6ndzdS57WqfMOkglqGMDDp) | 5:50 | 2020-10-30 | 2022-07-29 |
 | [Stop Breakin' Down \- Live](https://open.spotify.com/track/27PHQJ30KsTvJWhPKOtGz4) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Live At Montreux 1999](https://open.spotify.com/album/0owj4Gjka5q4S5az5SL7kt) | 6:50 | 2020-10-30 | 2022-07-29 |
+| [Stop Breakin' Down \- Live](https://open.spotify.com/track/6dB8978aNpxv00JwIY3gui) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Live At Montreux 1999](https://open.spotify.com/album/1dP8l4ixSJsI0T4au2j6ln) | 6:50 | 2020-10-30 |  |
 | [Summertime \(Live\)](https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 5:49 | 2022-06-10 |  |
 | [Tell Her You Belong To Me \(Live\)](https://open.spotify.com/track/1tKNTwcXiWWqRpU4YcbHxi) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Tell Her You Belong To Me \(Live\)](https://open.spotify.com/album/3yC3tT5PY3yeLUC8vJe7gc) | 6:36 | 2020-10-30 | 2022-07-29 |
 | [Tell Her You Belong To Me \- Live](https://open.spotify.com/track/6DMUEb4IFTZoG1dhPUXzZT) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Front And Center: Live From New York](https://open.spotify.com/album/485jKzcn4ZPRxB5Sc4PUx8) | 6:36 | 2020-10-30 |  |

@@ -1,28 +1,28 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: Chromeo",
-  "num_followers": 56394,
+  "num_followers": 56438,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM4MDE1MywwMDAwMDAwMDFlNTk4MWRhNzdiODQ0NDI0ZWU4MTA2ZDY0NDY4ODI1",
+  "snapshot_id": "MTY2MTM4MDE1MywwMDAwMDAwMGJkMTk2ZGMwM2NkOGU1MGE0MDE1YmNhNDk2MjIzMDIz",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Crystal Castles",
-        "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
+        "name": "Bag Raiders (Deluxe)",
+        "url": "https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo"
       },
       "artists": [
         {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
         }
       ],
-      "duration_ms": 258453,
-      "name": "Crimewave",
-      "url": "https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq"
+      "duration_ms": 235813,
+      "name": "Shooting Stars",
+      "url": "https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Bag Raiders (Deluxe)",
-        "url": "https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo"
-      },
-      "artists": [
-        {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "Shooting Stars",
-      "url": "https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Tongue N' Cheek (Dirtee Deluxe Edition)",
         "url": "https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 215786,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "Crimewave",
+      "url": "https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -727,6 +727,26 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
+        "name": "Kitsun\u00e9: Lisztomania (Remixes)",
+        "url": "https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Classixx",
+          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
+        }
+      ],
+      "duration_ms": 304413,
+      "name": "Lisztomania - Classixx Version",
+      "url": "https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
         "name": "Idealism",
         "url": "https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8"
       },
@@ -739,22 +759,6 @@
       "duration_ms": 250693,
       "name": "Idealistic",
       "url": "https://open.spotify.com/track/2VbIou1DtUewZVgfte6kIW"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
-        "name": "Rainbow Man 2.0",
-        "url": "https://open.spotify.com/album/4RunDtINJwyxkCsIGuRErt"
-      },
-      "artists": [
-        {
-          "name": "Busy P",
-          "url": "https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "Rainbow Man",
-      "url": "https://open.spotify.com/track/3ZutS6kzYIHQknkuuHtpUP"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -795,22 +799,18 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Kitsun\u00e9: Lisztomania (Remixes)",
-        "url": "https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT"
+        "name": "Rainbow Man 2.0",
+        "url": "https://open.spotify.com/album/4RunDtINJwyxkCsIGuRErt"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        },
-        {
-          "name": "Classixx",
-          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
+          "name": "Busy P",
+          "url": "https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV"
         }
       ],
-      "duration_ms": 304413,
-      "name": "Lisztomania - Classixx Version",
-      "url": "https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr"
+      "duration_ms": 214626,
+      "name": "Rainbow Man",
+      "url": "https://open.spotify.com/track/3ZutS6kzYIHQknkuuHtpUP"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
+        "name": "Pedrophilia",
+        "url": "https://open.spotify.com/album/0J5P7uBgt2rh6HZD3lZG4b"
+      },
+      "artists": [
+        {
+          "name": "Busy P",
+          "url": "https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV"
+        }
+      ],
+      "duration_ms": 306801,
+      "name": "To Protect and Entertain - Crookers Remix",
+      "url": "https://open.spotify.com/track/7qoS2OjXf3mE2q23Y1D9EC"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
         "name": "Kitsun\u00e9 Boombox Mixed by Jerry Bouthier",
         "url": "https://open.spotify.com/album/7mdUhfsfAXgtxS0x5jAnh7"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 251866,
       "name": "La musique (JBAG's Boomboxed Re-Edit) - Mixed",
       "url": "https://open.spotify.com/track/6jwcG2bkn6adlKtlkSrEmf"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
-        "name": "Pedrophilia",
-        "url": "https://open.spotify.com/album/0J5P7uBgt2rh6HZD3lZG4b"
-      },
-      "artists": [
-        {
-          "name": "Busy P",
-          "url": "https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV"
-        }
-      ],
-      "duration_ms": 306801,
-      "name": "To Protect and Entertain - Crookers Remix",
-      "url": "https://open.spotify.com/track/7qoS2OjXf3mE2q23Y1D9EC"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Do I Look Like a Slut?",
-        "url": "https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz"
-      },
-      "artists": [
-        {
-          "name": "Avenue D",
-          "url": "https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "Do I Look Like a Slut - Original Mix",
-      "url": "https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Hands: Bonus Disc",
         "url": "https://open.spotify.com/album/7yxVBOqeXa8cIFwPLsxS7c"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 386149,
       "name": "Stuck On Repeat - Fake Blood Mix",
       "url": "https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Do I Look Like a Slut?",
+        "url": "https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz"
+      },
+      "artists": [
+        {
+          "name": "Avenue D",
+          "url": "https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "Do I Look Like a Slut - Original Mix",
+      "url": "https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt"
     },
     {
       "added_at": "2022-08-24 22:29:13",

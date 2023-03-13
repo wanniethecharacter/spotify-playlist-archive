@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 47786,
+  "num_followers": 47908,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA5MzQ4MiwwMDAwMDAwMDI5ZTZjMzI3NTczYTI1Y2U3NmVjY2I2YjJkYTdlOTJm",
+  "snapshot_id": "MTY3NzA5MzQ4MiwwMDAwMDAwMGIwMjI1OWQ4OGZlZjIwNjQ4ZDMxODFhMjAxOTZmMjQz",
   "tracks": [
     {
       "added_at": "2023-02-22 19:18:02",
@@ -903,6 +903,26 @@
     {
       "added_at": "2023-02-22 19:18:02",
       "album": {
+        "name": "High Tide (Doss Remix)",
+        "url": "https://open.spotify.com/album/2h2McsLfMB1ZNJywK2TRG4"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        },
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "High Tide - Doss Remix",
+      "url": "https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa"
+    },
+    {
+      "added_at": "2023-02-22 19:18:02",
+      "album": {
         "name": "What's the Word (Wax Wings Remix)",
         "url": "https://open.spotify.com/album/7DNGZ4fefzzTijus6WXMxO"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 209872,
       "name": "What's the Word - Wax Wings Remix",
       "url": "https://open.spotify.com/track/6Es4E4HxhijoUHSqNz0Eut"
-    },
-    {
-      "added_at": "2023-02-22 19:18:02",
-      "album": {
-        "name": "High Tide (Doss Remix)",
-        "url": "https://open.spotify.com/album/2h2McsLfMB1ZNJywK2TRG4"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        },
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "High Tide - Doss Remix",
-      "url": "https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa"
     }
   ],
   "unique_name": "Sweat.",

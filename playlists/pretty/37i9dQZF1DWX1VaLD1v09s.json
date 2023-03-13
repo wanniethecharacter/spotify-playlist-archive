@@ -1,12 +1,12 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 73306,
+  "num_followers": 73318,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5OTY5OSwwMDAwMDAwMDY5MTBiOWNmNDU0MTM4YTMwN2U3YmQ2NWY3YjNkNzUy",
+  "snapshot_id": "MTY3NjY5OTY5OSwwMDAwMDAwMGEyYTNjY2FmNDFlY2MyYzcxMTkyNWE4MzA2YWZkMDA2",
   "tracks": [
     {
       "added_at": "2023-02-18 05:54:59",
@@ -175,22 +175,18 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "What A Beautiful Name",
-        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
+        "name": "Pat Barrett",
+        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
         }
       ],
-      "duration_ms": 238200,
-      "name": "What A Beautiful Name",
-      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
+      "duration_ms": 244893,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -211,18 +207,22 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Pat Barrett",
-        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
+        "name": "What A Beautiful Name",
+        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
       },
       "artists": [
         {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 244893,
-      "name": "Build My Life",
-      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
+      "duration_ms": 238200,
+      "name": "What A Beautiful Name",
+      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Chain Breaker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Chain Breaker",
-      "url": "https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
         "name": "We Will Not Be Shaken (Live)",
         "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 373691,
       "name": "No Longer Slaves (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
+        "name": "Chain Breaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Chain Breaker",
+      "url": "https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+        "name": "You Deliver Me",
+        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
         }
       ],
-      "duration_ms": 467053,
-      "name": "Resurrecting (Live)",
-      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
+      "duration_ms": 204133,
+      "name": "How Deep The Father's Love For Us",
+      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "You Deliver Me",
-        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
       },
       "artists": [
         {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 204133,
-      "name": "How Deep The Father's Love For Us",
-      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
+      "duration_ms": 467053,
+      "name": "Resurrecting (Live)",
+      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 300026,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
         "name": "Greatest Hymns, Vol. 2",
         "url": "https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
-        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
         }
       ],
-      "duration_ms": 329213,
-      "name": "O Praise The Name (An\u00e1stasis) - Live",
-      "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
+      "duration_ms": 300026,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -1035,6 +1019,22 @@
       "duration_ms": 280880,
       "name": "Glorious Day (Living He Loved Me)",
       "url": "https://open.spotify.com/track/0co8dS1eYzTanYw3N5BEvM"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
+        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
+        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 329213,
+      "name": "O Praise The Name (An\u00e1stasis) - Live",
+      "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
+        "name": "Precious Memories",
+        "url": "https://open.spotify.com/album/010wiwXUvegsmlERAv7vMe"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "The Old Rugged Cross",
+      "url": "https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 286453,
       "name": "Where Do I Fit In (feat. Tori Kelly, Chandler Moore & Judah Smith)",
       "url": "https://open.spotify.com/track/6e3oGWsdfHSKBCFv548RRm"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
-        "name": "Precious Memories",
-        "url": "https://open.spotify.com/album/010wiwXUvegsmlERAv7vMe"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "The Old Rugged Cross",
-      "url": "https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75"
+      },
+      "artists": [
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "duration_ms": 322952,
+      "name": "You Are Good",
+      "url": "https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
         "name": "Cornerstone (Live)",
         "url": "https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 409146,
       "name": "Cornerstone - Live",
       "url": "https://open.spotify.com/track/5KTJJnSs2H1p5SaBXsG0Hb"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75"
-      },
-      "artists": [
-        {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
-        }
-      ],
-      "duration_ms": 322952,
-      "name": "You Are Good",
-      "url": "https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
+        "name": "Citizens",
+        "url": "https://open.spotify.com/album/7EtWK30PesO8kiVHoPFVhE"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Made Alive",
+      "url": "https://open.spotify.com/track/7zb6qjGi5l9cgUjYaoYI3Y"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
         "name": "Forever Amen",
         "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 266826,
       "name": "Christ The Lord Is with Me (with Amanda Lindsey Cook & Wonder Grace Gretzinger)",
       "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
-        "name": "Citizens",
-        "url": "https://open.spotify.com/album/7EtWK30PesO8kiVHoPFVhE"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Made Alive",
-      "url": "https://open.spotify.com/track/7zb6qjGi5l9cgUjYaoYI3Y"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Bigger Story",
-        "url": "https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Every Step of the Way",
-      "url": "https://open.spotify.com/track/7mNt8zWAJypW0Oy3QpzFaj"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
         "name": "The Outsiders",
         "url": "https://open.spotify.com/album/3BB1Pe1PfijkrftFVmBEBs"
       },
@@ -1979,6 +1963,26 @@
       "duration_ms": 190560,
       "name": "Lay 'Em Down",
       "url": "https://open.spotify.com/track/5384anjbn1d5biZEgrDUA7"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
+        "name": "Freedom.",
+        "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 165346,
+      "name": "Freedom (with BEAM)",
+      "url": "https://open.spotify.com/track/63HbQY6pMHcBlE9LIyIuOG"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -2003,22 +2007,18 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Freedom.",
-        "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
+        "name": "Bigger Story",
+        "url": "https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
         }
       ],
-      "duration_ms": 165346,
-      "name": "Freedom (with BEAM)",
-      "url": "https://open.spotify.com/track/63HbQY6pMHcBlE9LIyIuOG"
+      "duration_ms": 195506,
+      "name": "Every Step of the Way",
+      "url": "https://open.spotify.com/track/7mNt8zWAJypW0Oy3QpzFaj"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -2087,34 +2087,6 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Freedom.",
-        "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Judah Smith",
-          "url": "https://open.spotify.com/artist/2Cxb2kuXKmtE7g8noyL5yJ"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Where You Go I Follow (feat. Pink Sweat$, Chandler Moore & Judah Smith)",
-      "url": "https://open.spotify.com/track/4DrBQoFqYm3WTNyJEAkbU9"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
         "name": "Love Has A Name (Studio Version)",
         "url": "https://open.spotify.com/album/0b527EhU07LSel3Dwc9oMQ"
       },
@@ -2171,6 +2143,34 @@
       "duration_ms": 253706,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/13p3U002Sv8z722mFjTuWi"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
+        "name": "Freedom.",
+        "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Judah Smith",
+          "url": "https://open.spotify.com/artist/2Cxb2kuXKmtE7g8noyL5yJ"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Where You Go I Follow (feat. Pink Sweat$, Chandler Moore & Judah Smith)",
+      "url": "https://open.spotify.com/track/4DrBQoFqYm3WTNyJEAkbU9"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Simple Gospel (Live)",
-        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Head to the Heart (Live)",
-      "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
         "name": "The Answer",
         "url": "https://open.spotify.com/album/7MvLqEJ066ULDEcqrQUGIM"
       },
@@ -2399,18 +2383,18 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Something Different (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
       },
       "artists": [
         {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
         }
       ],
-      "duration_ms": 228040,
-      "name": "To Live Is Christ",
-      "url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw"
+      "duration_ms": 320400,
+      "name": "Head to the Heart (Live)",
+      "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -2431,6 +2415,22 @@
       "duration_ms": 201401,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/0tXaXcuDbaX0Jhzns45Gx5"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
+        "name": "Something Different (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "To Live Is Christ",
+      "url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Yours Alone",
-        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 288134,
-      "name": "Jerusalem",
-      "url": "https://open.spotify.com/track/037u9C5umoOYx84lhm7EgA"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
         "name": "In Christ Alone",
         "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 329720,
       "name": "The Power Of The Cross",
       "url": "https://open.spotify.com/track/0BaI66HnzOMf3Kk7femx8m"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
+        "name": "Yours Alone",
+        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 288134,
+      "name": "Jerusalem",
+      "url": "https://open.spotify.com/track/037u9C5umoOYx84lhm7EgA"
     },
     {
       "added_at": "2023-02-18 05:54:59",

@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Los Bitchos",
-  "num_followers": 48187,
+  "num_followers": 48199,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDM4ZGJiMmM2NmM0MzliYzQ0Y2JlMzA5M2UwMDk3YTlk",
+  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDAwYzc5ZjdjODNmMGMxZWY5ZWNjYzhkNTRjZGM3ZGZh",
   "tracks": [
     {
       "added_at": "2023-03-03 00:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "3 Days Sober",
-        "url": "https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop"
-      },
-      "artists": [
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
-        }
-      ],
-      "duration_ms": 177209,
-      "name": "3 Days Sober",
-      "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "GENRELESS",
         "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 101650,
       "name": "COLD BEER",
       "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "3 Days Sober",
+        "url": "https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 177209,
+      "name": "3 Days Sober",
+      "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Cave World (Deluxe)",
-        "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 283187,
-      "name": "It Ain't Enough",
-      "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Expert In A Dying Field",
         "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 176040,
       "name": "Silence Is Golden",
       "url": "https://open.spotify.com/track/7m3Lu7PUKNDJ2HgvrAKME9"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Cave World (Deluxe)",
+        "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 283187,
+      "name": "It Ain't Enough",
+      "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Knees Deep",
-      "url": "https://open.spotify.com/track/6QZ5TAWM48V8b6pkwByX5k"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "THE UNRAVELING OF PUPTHEBAND",
         "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 223986,
       "name": "Totally Fine",
       "url": "https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Knees Deep",
+      "url": "https://open.spotify.com/track/6QZ5TAWM48V8b6pkwByX5k"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "I.N.V.U.",
+        "url": "https://open.spotify.com/album/27oTauaixYNCxN2LYHcz9v"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "I.N.V.U.",
+      "url": "https://open.spotify.com/track/6qTagiSQjEcfpVm1NHJJEU"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "TAKE THIS CROWN (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 215986,
       "name": "TAKE THIS CROWN (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "I.N.V.U.",
-        "url": "https://open.spotify.com/album/27oTauaixYNCxN2LYHcz9v"
-      },
-      "artists": [
-        {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "I.N.V.U.",
-      "url": "https://open.spotify.com/track/6qTagiSQjEcfpVm1NHJJEU"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "ATTENTION!",
-        "url": "https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh"
-      },
-      "artists": [
-        {
-          "name": "WHOKILLEDXIX",
-          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
-        }
-      ],
-      "duration_ms": 161697,
-      "name": "ATTENTION!",
-      "url": "https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "serotonin",
         "url": "https://open.spotify.com/album/3VuJ9cyJWBvjQ8TxbJGrge"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Bye Bye Big Bear",
-        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
+        "name": "ATTENTION!",
+        "url": "https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh"
       },
       "artists": [
         {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
         }
       ],
-      "duration_ms": 176902,
-      "name": "Bye Bye Big Bear",
-      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
+      "duration_ms": 161697,
+      "name": "ATTENTION!",
+      "url": "https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -903,6 +887,22 @@
       "duration_ms": 196000,
       "name": "Little Fix",
       "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Bye Bye Big Bear",
+        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 176902,
+      "name": "Bye Bye Big Bear",
+      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/23UvDBMl3LgUfdYdj9Wnay"
+      },
+      "artists": [
+        {
+          "name": "Grandmas House",
+          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
+        }
+      ],
+      "duration_ms": 115936,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/0TMa5jD2LbTMoHMZi7yoOf"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Most Normal",
         "url": "https://open.spotify.com/album/3UcqK7oJ4UiScKZD8IQsk0"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/23UvDBMl3LgUfdYdj9Wnay"
-      },
-      "artists": [
-        {
-          "name": "Grandmas House",
-          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
-        }
-      ],
-      "duration_ms": 115936,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/0TMa5jD2LbTMoHMZi7yoOf"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/3hMj3XLQTq6irh3C0U1HdD"
       },
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Fashion",
-        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
-      },
-      "artists": [
-        {
-          "name": "Bilk",
-          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
-        }
-      ],
-      "duration_ms": 174379,
-      "name": "Fashion",
-      "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "TNSW",
         "url": "https://open.spotify.com/album/0yqxysPGRWAWR2H6sqIFUb"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 230857,
       "name": "Changes",
       "url": "https://open.spotify.com/track/6m4BBz6Ui5oQKXNmiy1QOg"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Fashion",
+        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
+      },
+      "artists": [
+        {
+          "name": "Bilk",
+          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
+        }
+      ],
+      "duration_ms": 174379,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "I should've listened to my friends",
-        "url": "https://open.spotify.com/album/60TpcJV38QMJlRB0bBt3VO"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 166483,
-      "name": "I should've listened to my friends",
-      "url": "https://open.spotify.com/track/5JFYTUEMFKVJafHr4S89kr"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Grade 2",
         "url": "https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 182243,
       "name": "Fast Pace",
       "url": "https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "I should've listened to my friends",
+        "url": "https://open.spotify.com/album/60TpcJV38QMJlRB0bBt3VO"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 166483,
+      "name": "I should've listened to my friends",
+      "url": "https://open.spotify.com/track/5JFYTUEMFKVJafHr4S89kr"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Hell of Mine",
-        "url": "https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T"
-      },
-      "artists": [
-        {
-          "name": "joe unknown",
-          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
-        }
-      ],
-      "duration_ms": 125484,
-      "name": "Hell of Mine",
-      "url": "https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Paying The Price",
         "url": "https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Hell of Mine",
+        "url": "https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T"
+      },
+      "artists": [
+        {
+          "name": "joe unknown",
+          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
+        }
+      ],
+      "duration_ms": 125484,
+      "name": "Hell of Mine",
+      "url": "https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Ain't No Thief",
         "url": "https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w"
       },
@@ -1195,22 +1195,6 @@
       "duration_ms": 239349,
       "name": "Ain\u2019t No Thief",
       "url": "https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Bullet Farm",
-        "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
-      },
-      "artists": [
-        {
-          "name": "Dead Pony",
-          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
-        }
-      ],
-      "duration_ms": 190614,
-      "name": "Bullet Farm",
-      "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1243,6 +1227,22 @@
       "duration_ms": 281425,
       "name": "32",
       "url": "https://open.spotify.com/track/2sYl3t3Rrnrs7mDbDHnIPg"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Bullet Farm",
+        "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "duration_ms": 190614,
+      "name": "Bullet Farm",
+      "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Always Lose",
-        "url": "https://open.spotify.com/album/5lh1VO9fp2wdxzW7DSV7YI"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 187305,
-      "name": "Always Lose",
-      "url": "https://open.spotify.com/track/6mvZ1pGBRc4Q3KeXQJUGss"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Who Am I",
         "url": "https://open.spotify.com/album/112fCF19lmyd56p14czHBO"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 106638,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/2gDzbtMofzJlmaN5oGjI7x"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
+      },
+      "artists": [
+        {
+          "name": "Petrol Girls",
+          "url": "https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L"
+        }
+      ],
+      "duration_ms": 192281,
+      "name": "Baby, I Had an Abortion",
+      "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
     }
   ],
   "unique_name": "The Punk List",

@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: So!YoON! \(황소윤\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-311 songs - 17 hr 43 min
+312 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Meteor](https://open.spotify.com/track/6Sp9f4XlwwcLC5rYZ0Lciz) | [RooRee](https://open.spotify.com/artist/62HcvUj43NJbUB70pjC2Uk) | [Meteor](https://open.spotify.com/album/1OV9TqU11H7Z1RWfbQ6Nxc) | 4:15 | 2022-03-22 | 2022-07-14 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-11-21 |  |
 | [Moonlight](https://open.spotify.com/track/6FHwkEfmpjhoEzS9s8ao7f) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [Moonlight](https://open.spotify.com/album/5emTRUsmyNF1hNSTVqlyO9) | 3:39 | 2021-11-21 | 2022-05-19 |
-| [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-20 |  |
+| [MOONLIGHT SUNRISE](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:00 | 2023-03-07 |  |
+| [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-20 | 2023-03-13 |
 | [MVSK \- Remix](https://open.spotify.com/track/5Io9E7JUo707GXVPGC68j8) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 3:41 | 2022-07-07 | 2022-07-19 |
 | [My Beating Heart](https://open.spotify.com/track/1Rx9F1DXJ1u5IUu0nl9zMB) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [My Beating Heart](https://open.spotify.com/album/3X6GJecRH4tNLHuaBQYYfd) | 3:09 | 2021-11-21 | 2022-06-30 |
 | [my day is too long](https://open.spotify.com/track/7kP8vfTk0L5FyWYiOyHV23) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [my day is too long](https://open.spotify.com/album/4dV8JFiIyxThVOZRS1AQ8j) | 2:58 | 2021-11-21 | 2022-07-01 |
@@ -221,7 +222,7 @@
 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 | 2022-09-06 | 2022-11-21 |
 | [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2021-11-21 | 2022-07-29 |
 | [Rollin'](https://open.spotify.com/track/4ajYy2PqT3czWrpI4rgmIP) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/4GQIMQs8dxEjI3el1HCGzq) | 3:17 | 2022-07-07 | 2022-08-04 |
-| [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 | 2022-08-02 | 2023-02-23 |
+| [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 | 2022-08-02 |  |
 | [Roomie](https://open.spotify.com/track/1KH10P3M4x3ONABMhiv8B5) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Roomie](https://open.spotify.com/album/0XIFtmJyxwfYFzTxzq4ILi) | 3:52 | 2021-11-21 | 2022-06-14 |
 | [Rose Blossom](https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 1st Mini Album \[Rose Blossom\]](https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L) | 3:15 | 2023-01-11 |  |
 | [RUN](https://open.spotify.com/track/4gHUimlUJuaZMn1E7mFBvt) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [RUN](https://open.spotify.com/album/5WQdyEPsMtXtFIldEhgqpF) | 3:15 | 2022-07-07 | 2022-08-02 |
@@ -289,7 +290,7 @@
 | [WANT 원해 \(feat\. Q THE TRUMPET\)](https://open.spotify.com/track/2p7Lic9aZImmcKA9N7K1pG) | [OVCOCO](https://open.spotify.com/artist/5z1P1AsCpcqWjw3XUeQght), [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW) | [WANT 원해 \(feat\. Q THE TRUMPET\)](https://open.spotify.com/album/6UNqsFipnH5UlS2FFq1uNM) | 3:09 | 2021-11-21 | 2022-05-30 |
 | [We'll be alright](https://open.spotify.com/track/28b6eAJ9TMthHN7BWylfnM) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [We'll be alright](https://open.spotify.com/album/6lExoei5xbBYsuFuZFEuSa) | 3:11 | 2021-11-21 | 2022-07-19 |
 | [What Do I Call You](https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 2:47 | 2021-11-21 | 2022-08-02 |
-| [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-11-29 |  |
+| [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-11-29 | 2023-03-13 |
 | [When I'm with you](https://open.spotify.com/track/1XVk5RpNPlUnsau8TJ8Slf) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [RE:FRESH](https://open.spotify.com/album/39RB7l7UElREy8SpJuvhbW) | 3:34 | 2021-11-21 | 2022-04-17 |
 | [When You Come To My Heart](https://open.spotify.com/track/11Qfz94iFMV0CJ8yapbYZN) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [\[Vol.8\] You Hee yul's Sketchbook 10th Anniversary Project : 4th Voice 'Sketchbook X Hwa Sa'](https://open.spotify.com/album/5l820EUqNJRBTvpsJlTp1n) | 4:00 | 2021-11-21 | 2022-07-29 |
 | [Where You At \(feat\. Jayci Yucca\)](https://open.spotify.com/track/70rP6tXeYbOcwj7fiYiiOd) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [Where You At \(feat\. Jayci Yucca\)](https://open.spotify.com/album/2yidviuxkpR79X08oiFTut) | 3:26 | 2022-01-19 | 2022-06-14 |

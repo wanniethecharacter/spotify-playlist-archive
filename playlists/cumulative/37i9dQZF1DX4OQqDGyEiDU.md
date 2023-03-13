@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-473 songs - 1 day 3 hr 15 min
+474 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Ai no Sukima](https://open.spotify.com/track/2shwfq9XQBHMnSnhPOJECa) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd) | [Ai no Sukima](https://open.spotify.com/album/2vSPw6zQcdOEE7QBbbs31V) | 3:39 | 2022-07-14 | 2022-07-19 |
 | [Alice in N.Y.](https://open.spotify.com/track/1iPRe1ptuXReCWKRjzjelt) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [If the world3](https://open.spotify.com/album/7pguOxS2emX530AOO34KC4) | 3:53 | 2022-06-23 | 2022-07-15 |
 | [Alien Alien](https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Nayutan Sei Kara No Buttai Y](https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P) | 3:01 | 2022-10-13 |  |
-| [Aoku Aoku Hikaru](https://open.spotify.com/track/4remMpKJioVgkTecTRvT52) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [Aoku Aoku Hikaru](https://open.spotify.com/album/6D1H5mmhfS3GwAPLDzeet3) | 3:47 | 2023-03-09 |  |
+| [Aoku Aoku Hikaru](https://open.spotify.com/track/1W6l1pZR06xDwWi2nhb5YJ) | [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [ULTRAPANIC2](https://open.spotify.com/album/1zg4XTpXBFeAltnyQPSDbV) | 3:47 | 2023-03-09 |  |
+| [Aoku Aoku Hikaru](https://open.spotify.com/track/4remMpKJioVgkTecTRvT52) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [Aoku Aoku Hikaru](https://open.spotify.com/album/6D1H5mmhfS3GwAPLDzeet3) | 3:47 | 2023-03-09 | 2023-03-13 |
 | [ATELIER](https://open.spotify.com/track/55HkMllhxhnB78YXanuwgK) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ave](https://open.spotify.com/album/7gGyCGkce4VpXWGSopZEKy) | 3:41 | 2022-06-14 | 2022-06-22 |
 | [Awake Now](https://open.spotify.com/track/14NNOtVmIhGHLcwaluyoHn) | [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks) | [Awake Now](https://open.spotify.com/album/0pivFXtrPhKw6TZvksvBVO) | 3:16 | 2022-07-26 | 2022-08-17 |
 | [Awake Now](https://open.spotify.com/track/7MBhcb9p4z70uofoNxGXkG) | [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks) | [Awake Now](https://open.spotify.com/album/73AKllCZLqEq5kVsn4cdDW) | 3:16 | 2022-06-09 | 2022-07-29 |

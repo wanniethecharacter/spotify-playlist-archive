@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 257065,
+  "num_followers": 257643,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODE4MjkyNSwwMDAwMDAwMDY1ZDIwOGNjOTgwNTk0YzU4ZTU3ZGU5NGIwOTI4Njlh",
+  "snapshot_id": "MTY3ODE4MjkyNSwwMDAwMDAwMDI0N2Y5YmJjMGJkMDM4OTc2OTJlNzhkMWE4YjdhNDVm",
   "tracks": [
     {
       "added_at": "2023-03-07 09:55:25",
@@ -131,6 +131,22 @@
     {
       "added_at": "2023-03-07 09:55:25",
       "album": {
+        "name": "chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
+    },
+    {
+      "added_at": "2023-03-07 09:55:25",
+      "album": {
         "name": "All the Way (feat. Jordan Officer)",
         "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 203160,
       "name": "Un jour de diff\u00e9rence",
       "url": "https://open.spotify.com/track/4szoAieU3gUmaObmgPaTGa"
-    },
-    {
-      "added_at": "2023-03-07 09:55:25",
-      "album": {
-        "name": "chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
     },
     {
       "added_at": "2023-03-07 09:55:25",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-03-07 09:55:25",
       "album": {
-        "name": "Cajueiro",
-        "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
       },
       "artists": [
         {
-          "name": "M\u00e1rcio Faraco",
-          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
-      "duration_ms": 201807,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
+      "duration_ms": 149533,
+      "name": "Plus Je T'embrasse",
+      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
     },
     {
       "added_at": "2023-03-07 09:55:25",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-03-07 09:55:25",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "Plus Je T'embrasse",
-      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
-    },
-    {
-      "added_at": "2023-03-07 09:55:25",
-      "album": {
         "name": "Les ronds de carotte",
         "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 245226,
       "name": "Au caf\u00e9 de la paix",
       "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
+    },
+    {
+      "added_at": "2023-03-07 09:55:25",
+      "album": {
+        "name": "Cajueiro",
+        "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcio Faraco",
+          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
+        }
+      ],
+      "duration_ms": 201807,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
     },
     {
       "added_at": "2023-03-07 09:55:25",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-03-07 09:55:25",
       "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 113493,
+      "name": "Une histoire de plage",
+      "url": "https://open.spotify.com/track/2gBySoyAkqPUoOmoGgtUpK"
+    },
+    {
+      "added_at": "2023-03-07 09:55:25",
+      "album": {
         "name": "Just The Two Of Us",
         "url": "https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-03-07 09:55:25",
       "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 113493,
-      "name": "Une histoire de plage",
-      "url": "https://open.spotify.com/track/2gBySoyAkqPUoOmoGgtUpK"
-    },
-    {
-      "added_at": "2023-03-07 09:55:25",
-      "album": {
         "name": "Amourettes",
         "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
       },
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-03-07 09:55:25",
       "album": {
-        "name": "My One And Only Thrill",
-        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
       },
       "artists": [
         {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
         }
       ],
-      "duration_ms": 198346,
-      "name": "Les Etoiles",
-      "url": "https://open.spotify.com/track/3a61AXiLnRT456B4MeW7mT"
+      "duration_ms": 167199,
+      "name": "Je cherche un homme",
+      "url": "https://open.spotify.com/track/6VKXPG2C2PSuseVx21iYua"
     },
     {
       "added_at": "2023-03-07 09:55:25",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-03-07 09:55:25",
       "album": {
-        "name": "Chansons",
-        "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 167199,
-      "name": "Je cherche un homme",
-      "url": "https://open.spotify.com/track/6VKXPG2C2PSuseVx21iYua"
-    },
-    {
-      "added_at": "2023-03-07 09:55:25",
-      "album": {
         "name": "Hoping for Love",
         "url": "https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2023-03-07 09:55:25",
       "album": {
-        "name": "Rendez Vous",
-        "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
+        "name": "My One And Only Thrill",
+        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
       },
       "artists": [
         {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
         }
       ],
-      "duration_ms": 217880,
-      "name": "Le Temps Qui Passe",
-      "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
+      "duration_ms": 198346,
+      "name": "Les Etoiles",
+      "url": "https://open.spotify.com/track/3a61AXiLnRT456B4MeW7mT"
     },
     {
       "added_at": "2023-03-07 09:55:25",
@@ -743,6 +727,22 @@
       "duration_ms": 150760,
       "name": "Il Faut Du Temps Au Temps",
       "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
+    },
+    {
+      "added_at": "2023-03-07 09:55:25",
+      "album": {
+        "name": "Rendez Vous",
+        "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Le Temps Qui Passe",
+      "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
     },
     {
       "added_at": "2023-03-07 09:55:25",
@@ -775,6 +775,22 @@
       "duration_ms": 186253,
       "name": "La chanson d'Orph\u00e9e (Manha Do Carnaval)",
       "url": "https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf"
+    },
+    {
+      "added_at": "2023-03-07 09:55:25",
+      "album": {
+        "name": "Tous mes r\u00eaves",
+        "url": "https://open.spotify.com/album/1zDcTxR4u2YE80bUsjaQpw"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 155664,
+      "name": "Tous mes r\u00eaves",
+      "url": "https://open.spotify.com/track/6lCv1OYP94cH0yni2WDDmD"
     },
     {
       "added_at": "2023-03-07 09:55:25",
@@ -843,22 +859,6 @@
     {
       "added_at": "2023-03-07 09:55:25",
       "album": {
-        "name": "Tous mes r\u00eaves",
-        "url": "https://open.spotify.com/album/1zDcTxR4u2YE80bUsjaQpw"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 155664,
-      "name": "Tous mes r\u00eaves",
-      "url": "https://open.spotify.com/track/6lCv1OYP94cH0yni2WDDmD"
-    },
-    {
-      "added_at": "2023-03-07 09:55:25",
-      "album": {
         "name": "My Gentleman Friend",
         "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
       },
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-03-07 09:55:25",
       "album": {
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Comme s'il en pleuvait",
+      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
+    },
+    {
+      "added_at": "2023-03-07 09:55:25",
+      "album": {
         "name": "Manquait Plus Qu'Ca",
         "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 155120,
       "name": "M'envoyer des fleurs",
       "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
-    },
-    {
-      "added_at": "2023-03-07 09:55:25",
-      "album": {
-        "name": "Lovely Difficult",
-        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "Les mots d'amour",
-      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
     },
     {
       "added_at": "2023-03-07 09:55:25",
@@ -987,8 +987,8 @@
     {
       "added_at": "2023-03-07 09:55:25",
       "album": {
-        "name": "Navega",
-        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
+        "name": "Lovely Difficult",
+        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
         }
       ],
-      "duration_ms": 222800,
-      "name": "Comme s'il en pleuvait",
-      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
+      "duration_ms": 227026,
+      "name": "Les mots d'amour",
+      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
     },
     {
       "added_at": "2023-03-07 09:55:25",

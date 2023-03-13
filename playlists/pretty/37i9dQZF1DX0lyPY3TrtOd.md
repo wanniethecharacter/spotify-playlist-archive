@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 
 > Extatische gevoelens met prachtige muziek
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,592 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,597 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 12 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 |
 | 13 | [Jesus Freak Lighter](https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Jesus Freak Lighter](https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP) | 2:32 |
 | 14 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 |
-| 15 | [Moment](https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:32 |
-| 16 | [Hi\-Fidelity](https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ZNelJy2iPIK2YtGHCuB3t) | 3:19 |
+| 15 | [Hi\-Fidelity](https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ZNelJy2iPIK2YtGHCuB3t) | 3:19 |
+| 16 | [Moment](https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:32 |
 | 17 | [Blue](https://open.spotify.com/track/51xEnSLkf5A6x39Ct9e02W) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Blue](https://open.spotify.com/album/5q3fFAhzVHpoThI38zn3Qr) | 3:26 |
 | 18 | [Ice V](https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Ice, Death, Planets, Lungs, Mushrooms And Lava](https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s) | 10:15 |
 | 19 | [Colour Me Blue](https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 3:16 |
@@ -64,19 +64,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 54 | [Live It Up](https://open.spotify.com/track/3EuQ0cCmo81wMxM2wTn5Yh) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Always In My Head](https://open.spotify.com/album/5yNSrDrLVydHp5WjKAkKju) | 3:18 |
 | 55 | [Peace, Love & Profit](https://open.spotify.com/track/7jByqm6en8id0GM0NbVth9) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [yellow](https://open.spotify.com/album/5COeDegmKD30s0oDWAY1Cb) | 2:57 |
 | 56 | [Here We Go Again](https://open.spotify.com/track/3yYZe2t3bgCxJvAA4Dg3dA) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T) | [Here We Go Again](https://open.spotify.com/album/1hZFUyWzdmcMgD85mrPsCb) | 3:15 |
-| 57 | [Inside Out \- Kraak & Smaak Remix](https://open.spotify.com/track/5xuiK7v2JYO6aphlTMON3U) | [Summer Heart](https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Inside Out \(Kraak & Smaak Remix\)](https://open.spotify.com/album/5GxlIIFZGmY9T6WYjwi1sb) | 4:16 |
-| 58 | [cool](https://open.spotify.com/track/14jT3UbIxuy5QKXy2MSh4u) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:53 |
+| 57 | [Love, Surround Me In Everything I Do](https://open.spotify.com/track/7ishyqC45Wi3Fe3fXoAYeE) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Love, Surround Me In Everything I Do](https://open.spotify.com/album/6REkZRczH1l0zCrE7GmUte) | 4:00 |
+| 58 | [Inside Out \- Kraak & Smaak Remix](https://open.spotify.com/track/5xuiK7v2JYO6aphlTMON3U) | [Summer Heart](https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Inside Out \(Kraak & Smaak Remix\)](https://open.spotify.com/album/5GxlIIFZGmY9T6WYjwi1sb) | 4:16 |
 | 59 | [Electric Connect](https://open.spotify.com/track/72UFN3URrwusWbigHJd9zS) | [Milo Clare](https://open.spotify.com/artist/1m3q3h3I9cMdSEbREVwvJR) | [Electric Connect](https://open.spotify.com/album/3kenR9Bok0L3Oc53ZfIr1d) | 3:45 |
-| 60 | [Just \(Good\) Enough](https://open.spotify.com/track/1SFnRRBob0uMlvTS0dY2FG) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Just \(Good\) Enough](https://open.spotify.com/album/6fbJuvJY02viWCVxXtND1g) | 3:55 |
-| 61 | [it's a setup](https://open.spotify.com/track/7ofHL446H6rlUaalD0aFpT) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [it's a setup](https://open.spotify.com/album/3JJx2oLUYfOmAk1OjJsXl5) | 3:56 |
-| 62 | [BACKYARD PARTY](https://open.spotify.com/track/59SZWfl2cuxiaJKI94LCRK) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [WE SURVIVED THE STORM, VOL\. 1](https://open.spotify.com/album/6qMZQhxycxbNmswW4bEfim) | 2:06 |
-| 63 | [Back to Bed](https://open.spotify.com/track/5wHBP7FV46dDjyAej8h81y) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Back to Bed](https://open.spotify.com/album/7FuDYsundeiBKaMYwYtNVn) | 2:25 |
-| 64 | [Stubborn](https://open.spotify.com/track/4Iq71aDAJ4Uiqa3J0uXfoW) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Stubborn](https://open.spotify.com/album/61qaZAT9e9rhKLZ7r54AK2) | 3:08 |
-| 65 | [On Repeat \- Single Edit](https://open.spotify.com/track/6DYYvuS33ooMZgNXrYk1cJ) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [On Repeat](https://open.spotify.com/album/39KoavteTlQETyKudqlegD) | 3:28 |
-| 66 | [Boulevard](https://open.spotify.com/track/1BtIqJk8JLPfyIJFu6Q0jt) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Boulevard](https://open.spotify.com/album/2eY7FAgb6vfEjfFqFD3mIG) | 3:05 |
-| 67 | [Future Monuments](https://open.spotify.com/track/6GdpJH4VWJSPLtSi7VHBuL) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Future Monuments](https://open.spotify.com/album/7AoJhm8JXyO3Qrd7vtG3Pe) | 4:26 |
-| 68 | [Earth Sick](https://open.spotify.com/track/5IeeVJ9rsxhhqNHGrkNbVE) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Earth Sick](https://open.spotify.com/album/4HDb2F4k940fPLqIl4OOei) | 3:05 |
-| 69 | [Nuts](https://open.spotify.com/track/0CCjJJ7H7R8NMDggyZxIZU) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Nuts](https://open.spotify.com/album/2W6d846yiktbTixQ8IdKuX) | 2:03 |
-| 70 | [Love, Surround Me In Everything I Do](https://open.spotify.com/track/7ishyqC45Wi3Fe3fXoAYeE) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Love, Surround Me In Everything I Do](https://open.spotify.com/album/6REkZRczH1l0zCrE7GmUte) | 4:00 |
+| 60 | [cool](https://open.spotify.com/track/14jT3UbIxuy5QKXy2MSh4u) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:53 |
+| 61 | [Just \(Good\) Enough](https://open.spotify.com/track/1SFnRRBob0uMlvTS0dY2FG) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Just \(Good\) Enough](https://open.spotify.com/album/6fbJuvJY02viWCVxXtND1g) | 3:55 |
+| 62 | [it's a setup](https://open.spotify.com/track/7ofHL446H6rlUaalD0aFpT) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [it's a setup](https://open.spotify.com/album/3JJx2oLUYfOmAk1OjJsXl5) | 3:56 |
+| 63 | [BACKYARD PARTY](https://open.spotify.com/track/59SZWfl2cuxiaJKI94LCRK) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [WE SURVIVED THE STORM, VOL\. 1](https://open.spotify.com/album/6qMZQhxycxbNmswW4bEfim) | 2:06 |
+| 64 | [Back to Bed](https://open.spotify.com/track/5wHBP7FV46dDjyAej8h81y) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Back to Bed](https://open.spotify.com/album/7FuDYsundeiBKaMYwYtNVn) | 2:25 |
+| 65 | [Stubborn](https://open.spotify.com/track/4Iq71aDAJ4Uiqa3J0uXfoW) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Stubborn](https://open.spotify.com/album/61qaZAT9e9rhKLZ7r54AK2) | 3:08 |
+| 66 | [On Repeat \- Single Edit](https://open.spotify.com/track/6DYYvuS33ooMZgNXrYk1cJ) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [On Repeat](https://open.spotify.com/album/39KoavteTlQETyKudqlegD) | 3:28 |
+| 67 | [Boulevard](https://open.spotify.com/track/1BtIqJk8JLPfyIJFu6Q0jt) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Boulevard](https://open.spotify.com/album/2eY7FAgb6vfEjfFqFD3mIG) | 3:05 |
+| 68 | [Future Monuments](https://open.spotify.com/track/6GdpJH4VWJSPLtSi7VHBuL) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Future Monuments](https://open.spotify.com/album/7AoJhm8JXyO3Qrd7vtG3Pe) | 4:26 |
+| 69 | [3 Nights](https://open.spotify.com/track/3VjxQzKXRtV2c8W7IeAXQh) | [KUZKO](https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo) | [Milkshakes & Heartbreaks](https://open.spotify.com/album/4HctltJvLZNQuRM3qeCR8s) | 2:40 |
+| 70 | [Earth Sick](https://open.spotify.com/track/5IeeVJ9rsxhhqNHGrkNbVE) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Earth Sick](https://open.spotify.com/album/4HDb2F4k940fPLqIl4OOei) | 3:05 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGZlNDA4NTZjMThlZTI2ODZjNGMyNzExN2Q5YjcyNGIw`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDU1ZmI0YWJlYmYwYjY3ODNmNmY1NmNkNTgxMTkyMWQ4`

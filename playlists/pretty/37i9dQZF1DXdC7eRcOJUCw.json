@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Yuridia en portada.",
-  "num_followers": 105031,
+  "num_followers": 105118,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MzI4NSwwMDAwMDAwMGJlMDI2ZGY5NDc2ZmNhMzY2NWY3ZWViYWRhYmZjMGI0",
+  "snapshot_id": "MTY3Nzg2MzI4NSwwMDAwMDAwMGQwM2RmZDM3ZDU3M2I4YThkZDI0OGY0YWY0YjAyNzJh",
   "tracks": [
     {
       "added_at": "2023-02-17 06:00:00",
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT"
     },
     {
-      "added_at": "2023-03-12 01:08:04",
+      "added_at": "2023-03-13 01:42:30",
       "album": {
         "name": "Te Mereces Un Amor",
         "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 147280,
-      "name": "Esta situaci\u00f3n",
-      "url": "https://open.spotify.com/track/1iR35eXxKgIxk1NFM83oZo"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 270600,
       "name": "Hoja En Blanco",
       "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 147280,
+      "name": "Esta situaci\u00f3n",
+      "url": "https://open.spotify.com/track/1iR35eXxKgIxk1NFM83oZo"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1075,22 +1075,18 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Por Amor A M\u00e9xico",
-        "url": "https://open.spotify.com/album/6EHM8eB3PTm9hVHAJtJlPj"
+        "name": "T\u00fa Sigues Siendo El Mismo",
+        "url": "https://open.spotify.com/album/5Jhz8VVmhpVNi7uPuJBNXp"
       },
       "artists": [
         {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        },
-        {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+          "name": "Flor Silvestre",
+          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
         }
       ],
-      "duration_ms": 215026,
-      "name": "Cielo Rojo - Duet Version",
-      "url": "https://open.spotify.com/track/5p6n8kvFV22SN20xwawZB5"
+      "duration_ms": 162829,
+      "name": "Con Mis Propias Manos",
+      "url": "https://open.spotify.com/track/0TMapOJ7zkHYuZax2ZuKnB"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1127,22 +1123,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "T\u00fa Sigues Siendo El Mismo",
-        "url": "https://open.spotify.com/album/5Jhz8VVmhpVNi7uPuJBNXp"
-      },
-      "artists": [
-        {
-          "name": "Flor Silvestre",
-          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
-        }
-      ],
-      "duration_ms": 162829,
-      "name": "Con Mis Propias Manos",
-      "url": "https://open.spotify.com/track/0TMapOJ7zkHYuZax2ZuKnB"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Pecados Y Milagros",
         "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 284013,
       "name": "Fallaste Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3HYf9vCyDkA3JkVWp9RwxH"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Por Amor A M\u00e9xico",
+        "url": "https://open.spotify.com/album/6EHM8eB3PTm9hVHAJtJlPj"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        },
+        {
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "Cielo Rojo - Duet Version",
+      "url": "https://open.spotify.com/track/5p6n8kvFV22SN20xwawZB5"
     },
     {
       "added_at": "2023-02-17 06:00:00",

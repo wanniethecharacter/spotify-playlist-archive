@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Venna
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,282 likes - 140 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,265 likes - 140 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
