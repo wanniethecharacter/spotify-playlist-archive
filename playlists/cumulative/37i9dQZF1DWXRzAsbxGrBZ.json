@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Ivar the Boneless",
+        "url": "https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I"
+      },
+      "artists": [
+        {
+          "name": "Gigg Cosco",
+          "url": "https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404480,
+      "name": "Ivar the Boneless",
+      "url": "https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm"
+    },
+    {
+      "album": {
         "name": "Back To Front EP",
         "url": "https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0"
       },
@@ -1174,7 +1192,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 402000,
       "name": "She's On Fire",
       "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,747,045 likes - 250 songs - 13 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,747,340 likes - 250 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 33 | [Rivers of Babylon](https://open.spotify.com/track/3t3ef0BO5oPbaeYUJsxGWW) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:25 |
 | 34 | [The Further You Look \(The Less You See\)](https://open.spotify.com/track/0Fx1OZsFHjFMVNoZVa5YHV) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [4000 Volts of Holt: The Classic Albums Collection](https://open.spotify.com/album/1d5ZtXjhgYxQArbE7DHjey) | 3:05 |
 | 35 | [Words of My Mouth](https://open.spotify.com/track/2UFkQ2jhMnp2NuWqFSC023) | [The Gatherers](https://open.spotify.com/artist/0hqhLiP1K5NAakipJK5Y8J) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm) | 3:36 |
-| 36 | [Sister Big Stuff](https://open.spotify.com/track/028ARUhVE9NpsVPX8V1WWy) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu), [The Tommy McCook All Stars](https://open.spotify.com/artist/70X0T8ZeXYHO8wzffEKji3) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:31 |
+| 36 | [Sister Big Stuff](https://open.spotify.com/track/028ARUhVE9NpsVPX8V1WWy) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu), [The Tommy McCook All Stars](https://open.spotify.com/artist/70X0T8ZeXYHO8wzffEKji3) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:28 |
 | 37 | [Herbsman Shuffle](https://open.spotify.com/track/0ST6B44PZWbEKlNYJcSaAn) | [King Stitt](https://open.spotify.com/artist/4mnqzsY3NjCMTQte4d9nRx) | [Reggae Beat](https://open.spotify.com/album/1k52P98BISGHnBCjaFNCWH) | 2:41 |
 | 38 | [Iggy Iggy](https://open.spotify.com/track/4NR2wBGHCFb0ryfw51BKK8) | [Lord Comic](https://open.spotify.com/artist/4GQNh5PRSLvTzJ0wujPC4c), [The Aquarians](https://open.spotify.com/artist/4AKVELb1aIpNn9IfqrGcGf) | [The Story Of Trojan Records](https://open.spotify.com/album/1SudwwvggZ8pGJhtF0MlsO) | 2:24 |
 | 39 | [Music Alone Shall Live](https://open.spotify.com/track/6bvbc4422kioQ00SVNMwCr) | [The Medetators](https://open.spotify.com/artist/0t0H2eJVdufGHMyullr6wj) | [The Story Of Trojan Records](https://open.spotify.com/album/1SudwwvggZ8pGJhtF0MlsO) | 2:38 |

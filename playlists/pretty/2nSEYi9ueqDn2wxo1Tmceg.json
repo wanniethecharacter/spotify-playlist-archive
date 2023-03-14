@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78604,
+  "num_followers": 78603,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzY0MSxhYTU3N2FjYzM4ZmJlMjI2ZDNjZDY2YzQ0NWU1YjdkYTliYWUyMjRk",
+  "snapshot_id": "MzY0Miw5MDZhNmRkNDJjYjIyYjdiMDQwODNkNzc5OTYxYzFmMGNmNDFiZWEx",
   "tracks": [
+    {
+      "added_at": "2023-03-13 17:32:42",
+      "album": {
+        "name": "Chocolate Girl / Untitled #1",
+        "url": "https://open.spotify.com/album/6jvirGz5Ar0vfyk2wSACbW"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 409943,
+      "name": "Untitled #1",
+      "url": "https://open.spotify.com/track/5xk9fGfVzaa3k9dcjDmUpJ"
+    },
     {
       "added_at": "2023-03-09 11:16:41",
       "album": {

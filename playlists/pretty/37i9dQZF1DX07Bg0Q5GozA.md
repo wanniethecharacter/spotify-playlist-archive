@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Róisín Murphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,904 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,972 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 54 | [harder](https://open.spotify.com/track/66zt8IyGtkoJEoxxnZOuQB) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [harder](https://open.spotify.com/album/2RYiKmYrXAt6QEyE3Pht2w) | 3:01 |
 | 55 | [Act One \- Edit](https://open.spotify.com/track/65uNCvnsgLI8O7JriMZ6Wi) | [Brandt Brauer Frick](https://open.spotify.com/artist/29TG40TGDvrOFQZM4adBf7), [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Act One](https://open.spotify.com/album/6QPss1H5EjNUyeBno9EmPe) | 3:20 |
 | 56 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 |
-| 57 | [Kandy](https://open.spotify.com/track/5TytypfM1sVy0GIX7MLUz8) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Kandy](https://open.spotify.com/album/3iCPgpzdYSUQjlJUuNhr8B) | 4:07 |
+| 57 | [Kandy](https://open.spotify.com/track/1I3YtpyO4auh961y23a1Ia) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 4:07 |
 | 58 | [ALL I WANT](https://open.spotify.com/track/076eiWHHHFGmjduZQM4v5G) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [ALL I WANT](https://open.spotify.com/album/715TgYzWSZPq3i2BB5sOaV) | 3:53 |
 | 59 | [Burning Bridges](https://open.spotify.com/track/5vDkKykIOkzmx7ExSux8kd) | [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO) | [Burning Bridges](https://open.spotify.com/album/6zFLd973JFMHYZOxr8F9Lm) | 4:01 |
 | 60 | [Amnesia](https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy \- Chapter 1](https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz) | 4:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [A Place To Lie](https://open.spotify.com/track/5KFS9MC8czFqXczPjaOi7R) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [A Place To Lie](https://open.spotify.com/album/4CinlAbdXopU8pbdDjuiqM) | 5:23 |
 | 75 | [I Know, I Know](https://open.spotify.com/track/6NWBt3dF86G49ZL9Cg3DUm) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [I Know, I Know](https://open.spotify.com/album/0UETdQXKfEJtzQoiiXV7Kz) | 2:33 |
 
-Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMGMzZmZmYWE2MDI1Y2E2YzdkZTA1NTAyNjQ4MWNiYjNj`
+Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMGRkODQ2MmJmMjY4OWIxNzljNmQwMjhlMDk1NmUyYzFh`

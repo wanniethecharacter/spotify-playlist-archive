@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-158 songs - 9 hr 50 min
+159 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Angel In The Alleyways](https://open.spotify.com/track/4q0iE01soDpTD7jObdxTX9) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Patti Scialfa](https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Angel In The Alleyways](https://open.spotify.com/album/0dDD5xoKda8099F4wTuByT) | 4:20 | 2022-05-25 | 2023-01-13 |
 | [Another Weary Soul](https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x) | [Rī Wolf](https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n), [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [Elemental](https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz) | 4:07 | 2023-01-13 |  |
 | [Avalon Blues](https://open.spotify.com/track/2LMHSxhp5CahCt9DJVLX0F) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Avalon Blues](https://open.spotify.com/album/5Er6ubiIavSvQNQI5cwXYm) | 4:23 | 2022-10-10 |  |
-| [Baby Back to Me](https://open.spotify.com/track/4JNwX5jryAvLWcB38Kriyh) | [Mongarfield](https://open.spotify.com/artist/0RiXHV3CODQwPjdM79ntEX) | [Top Jazz Blues Festival 1964](https://open.spotify.com/album/68AAzzir4EMjSEZYDvbDM0) | 3:22 | 2023-01-13 |  |
+| [Baby Back to Me](https://open.spotify.com/track/4JNwX5jryAvLWcB38Kriyh) | [Mongarfield](https://open.spotify.com/artist/0RiXHV3CODQwPjdM79ntEX) | [Top Jazz Blues Festival 1964](https://open.spotify.com/album/68AAzzir4EMjSEZYDvbDM0) | 3:22 | 2023-01-13 | 2023-03-14 |
 | [Back on Top](https://open.spotify.com/track/0E1xWsxgrVR01fsfTQTXh4) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Back on Top](https://open.spotify.com/album/5tpqIo7C4bCdDKh4kZrjwW) | 3:25 | 2022-05-25 | 2022-07-29 |
 | [Back on Top](https://open.spotify.com/track/1Ps6uZFGUtM8VZlOTY6EnU) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:25 | 2022-07-08 |  |
 | [Been Here Before](https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:54 | 2022-05-25 |  |
@@ -117,6 +117,7 @@
 | [Only Porter at the Station](https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 4:27 | 2022-10-14 |  |
 | [Outside \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:58 | 2022-05-25 |  |
 | [Paris Blues](https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Paris Blues](https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT) | 5:53 | 2022-11-18 |  |
+| [Passing Through](https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj) | [Mark Harrison](https://open.spotify.com/artist/14CtALWVNL2IsuvjO27qBd) | [The Road to Liberty, Pt\. 1](https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk) | 3:24 | 2023-02-24 |  |
 | [Perpetual Blues Machine](https://open.spotify.com/track/2CgFNet99tzGTEIxYrYbuN) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Martin Scorsese Presents The Blues: Keb' Mo'](https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc) | 3:15 | 2022-05-25 |  |
 | [Please Take My Hand](https://open.spotify.com/track/2wWvmScZdELY3qBA4d22Kc) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [In Too Deep](https://open.spotify.com/album/3ptdoPUdZaNSVAZSdEYeeZ) | 3:03 | 2022-05-25 | 2022-07-28 |
 | [Please Take My Hand](https://open.spotify.com/track/4b5MhQ12ztQKOIPoyESfR3) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [In Too Deep](https://open.spotify.com/album/4UsUWtLQqW0QyGFBKgddue) | 3:03 | 2022-11-18 |  |

@@ -434,7 +434,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 189333,
       "name": "g\u00f6zlerindeki ay",
       "url": "https://open.spotify.com/track/5Ll8YoELGiZ3jeoaY3TABg"
@@ -808,6 +808,24 @@
       "duration_ms": 132244,
       "name": "MARS",
       "url": "https://open.spotify.com/track/5ribh1wRPknjD7Cg1RLH9P"
+    },
+    {
+      "album": {
+        "name": "MERVE (Masada Chivas)",
+        "url": "https://open.spotify.com/album/6Q21JmmA4ohsWT4GcZfq2z"
+      },
+      "artists": [
+        {
+          "name": "B4TU INC.",
+          "url": "https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159112,
+      "name": "MERVE - Masada Chivas",
+      "url": "https://open.spotify.com/track/1QR6XjncDYLxeYCmxPb2Ab"
     },
     {
       "album": {

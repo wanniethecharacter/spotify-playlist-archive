@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-6,848 songs - 14 day 19 hr 58 min
+6,849 songs - 14 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,8 @@
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-06-23 | 2022-07-01 |
 | [Angel](https://open.spotify.com/track/0QenQiXnBs7s9fBWGluD17) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Angel](https://open.spotify.com/album/05wdcnTRK6d5tzQxCPTY3c) | 4:23 | 2022-11-24 | 2022-12-02 |
 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 | 2022-12-15 | 2022-12-24 |
-| [Angel From Montgomery](https://open.spotify.com/track/1dp0u6CgdgNcSXbpNfICFX) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw), [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Jills Veranda Nashville \(Livemusiken från säsong 5\) \[Episode 1\]](https://open.spotify.com/album/5QAHiu5PAbK5Eq2sN9Xula) | 4:20 | 2023-03-09 |  |
+| [Angel From Montgomery](https://open.spotify.com/track/1dp0u6CgdgNcSXbpNfICFX) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw), [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Jills Veranda Nashville \(Livemusiken från säsong 5\) \[Episode 1\]](https://open.spotify.com/album/5QAHiu5PAbK5Eq2sN9Xula) | 4:20 | 2023-03-09 | 2023-03-14 |
+| [Angel From Montgomery](https://open.spotify.com/track/4zT1mPU2doUBQOq4G2eiNK) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw), [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Jills Veranda Nashville \(Livemusiken från säsong 5\) \[Episode 1\]](https://open.spotify.com/album/0TWPaD1VT4lsNuKnVGuvyH) | 4:20 | 2023-03-10 |  |
 | [Angel Of The Morning](https://open.spotify.com/track/6nKlDpO0rE3WLrsikQRvfU) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Angel Of The Morning](https://open.spotify.com/album/4pl0HTdU208sfFiMHI4Dnf) | 4:03 | 2023-01-19 | 2023-01-27 |
 | [Angela](https://open.spotify.com/track/5tce90fkQoHjAbLfgVCYzw) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Angela](https://open.spotify.com/album/0ILgDNrWP0lrVWdtzYD8Lf) | 3:16 | 2022-06-16 | 2022-06-24 |
 | [ANGELA \(feat\. Jimi Somewhere\)](https://open.spotify.com/track/6CSTneaZKWmtPzZcLfSstQ) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [ANGELA \(feat\. Jimi Somewhere\)](https://open.spotify.com/album/598OcPPCVwE5jK68mTOGNX) | 3:09 | 2023-01-19 | 2023-01-27 |

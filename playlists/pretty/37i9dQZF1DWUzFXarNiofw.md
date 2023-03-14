@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Elmiene
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,823 likes - 129 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,037 likes - 129 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

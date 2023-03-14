@@ -2947,6 +2947,24 @@
     },
     {
       "album": {
+        "name": "Jetlag",
+        "url": "https://open.spotify.com/album/03VgPuslq0glCtWuLUqqRT"
+      },
+      "artists": [
+        {
+          "name": "The Hard Aches",
+          "url": "https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196218,
+      "name": "Jetlag",
+      "url": "https://open.spotify.com/track/0AruFQCxgou0FaVFzdVMjO"
+    },
+    {
+      "album": {
         "name": "Kids in America",
         "url": "https://open.spotify.com/album/1vkImX94Ko16MnEb5kUca8"
       },
@@ -5266,6 +5284,24 @@
       "duration_ms": 314627,
       "name": "Surrounded By Spies",
       "url": "https://open.spotify.com/track/5LXezNuUE2SRJhoqiwTs3P"
+    },
+    {
+      "album": {
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165317,
+      "name": "T.M.I",
+      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
     },
     {
       "album": {

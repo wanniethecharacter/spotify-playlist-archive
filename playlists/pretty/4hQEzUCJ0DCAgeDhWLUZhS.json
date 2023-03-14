@@ -1,12 +1,12 @@
 {
   "description": "GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: All Time Low",
-  "num_followers": 1650,
+  "num_followers": 1649,
   "original_name": "Plugged In",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTY3MSw4MjY4YjM0Y2YwOWViYjIyZjMyNDMwM2MxMmYxZDZiNjc5MjY5MTY3",
+  "snapshot_id": "MTY3NCxmNDI4YjMxZTc1MzM2YmMwODQ3N2Y4MzlmZmYzNmViNzNkMDQyNDli",
   "tracks": [
     {
       "added_at": "2023-03-01 22:38:20",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
     },
     {
+      "added_at": "2023-03-13 05:42:58",
+      "album": {
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 165317,
+      "name": "T.M.I",
+      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
+    },
+    {
       "added_at": "2023-03-01 22:38:20",
       "album": {
         "name": "It Hurts",
@@ -119,6 +135,22 @@
       "duration_ms": 196085,
       "name": "Regret Me",
       "url": "https://open.spotify.com/track/3l5qEpePfGDv6ZFYWRNNtq"
+    },
+    {
+      "added_at": "2023-03-13 05:47:22",
+      "album": {
+        "name": "Jetlag",
+        "url": "https://open.spotify.com/album/03VgPuslq0glCtWuLUqqRT"
+      },
+      "artists": [
+        {
+          "name": "The Hard Aches",
+          "url": "https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq"
+        }
+      ],
+      "duration_ms": 196218,
+      "name": "Jetlag",
+      "url": "https://open.spotify.com/track/0AruFQCxgou0FaVFzdVMjO"
     },
     {
       "added_at": "2023-03-01 22:38:20",

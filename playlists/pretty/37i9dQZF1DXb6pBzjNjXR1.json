@@ -1,71 +1,15 @@
 {
   "description": "Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors. ",
-  "num_followers": 3859,
+  "num_followers": 3896,
   "original_name": "AfroTech Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2NTU0MCwwMDAwMDAwMDFiMmVlYjE3YTg5M2UzMDA2ODA1NTlmNzdiOWVjYmZi",
+  "snapshot_id": "MTY3ODcwMTczMywwMDAwMDAwMGE4ZmYxNjVhMmNkMjNmMmIzYzgzYzJlZWEyN2UyNjM4",
   "tracks": [
     {
-      "added_at": "2023-01-19 21:59:00",
-      "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/4AfrYoRVAlaH39vq5fHPpT"
-      },
-      "artists": [
-        {
-          "name": "Lizwi",
-          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
-        }
-      ],
-      "duration_ms": 482329,
-      "name": "Prayer",
-      "url": "https://open.spotify.com/track/4hq89ojVRjGEvpHyQY4VGp"
-    },
-    {
-      "added_at": "2023-01-19 21:59:00",
-      "album": {
-        "name": "God First",
-        "url": "https://open.spotify.com/album/4SWN2MuEeLqPMeatYXhffK"
-      },
-      "artists": [
-        {
-          "name": "TNS",
-          "url": "https://open.spotify.com/artist/5uAbOIIAk6nHfy7gikjmYy"
-        },
-        {
-          "name": "Zaba",
-          "url": "https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H"
-        }
-      ],
-      "duration_ms": 350163,
-      "name": "4AM",
-      "url": "https://open.spotify.com/track/64LIUUtjRyjmvGymR0QYEF"
-    },
-    {
-      "added_at": "2023-01-19 21:59:00",
-      "album": {
-        "name": "Thula EP",
-        "url": "https://open.spotify.com/album/2QyWyvrhEVnBaLG4loqEi1"
-      },
-      "artists": [
-        {
-          "name": "Blanka Mazimela",
-          "url": "https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C"
-        },
-        {
-          "name": "Khonaye",
-          "url": "https://open.spotify.com/artist/05QAPP670eYB6veuT6aSzO"
-        }
-      ],
-      "duration_ms": 441972,
-      "name": "Thula",
-      "url": "https://open.spotify.com/track/2oGJRoKav60Mddy3c6RKZG"
-    },
-    {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Asanda",
         "url": "https://open.spotify.com/album/6vCt7Qg2q1ayRZd8vL1IOn"
@@ -89,23 +33,7 @@
       "url": "https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
-      "album": {
-        "name": "Subah",
-        "url": "https://open.spotify.com/album/0jgsoKNlPvtnQstROMXxIZ"
-      },
-      "artists": [
-        {
-          "name": "Double Drop",
-          "url": "https://open.spotify.com/artist/1KiSpGrzs4IkIUb83atLVr"
-        }
-      ],
-      "duration_ms": 334832,
-      "name": "Cradle in War",
-      "url": "https://open.spotify.com/track/1GFpaXJPjhslgPE92SUPZW"
-    },
-    {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Voices In My Head",
         "url": "https://open.spotify.com/album/29oPX8QLAVCFpY6Ftgy4cu"
@@ -125,7 +53,59 @@
       "url": "https://open.spotify.com/track/5v2sgCmUwMQIhhVdD5Hush"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
+      "album": {
+        "name": "Subah",
+        "url": "https://open.spotify.com/album/0jgsoKNlPvtnQstROMXxIZ"
+      },
+      "artists": [
+        {
+          "name": "Double Drop",
+          "url": "https://open.spotify.com/artist/1KiSpGrzs4IkIUb83atLVr"
+        }
+      ],
+      "duration_ms": 334832,
+      "name": "Cradle in War",
+      "url": "https://open.spotify.com/track/1GFpaXJPjhslgPE92SUPZW"
+    },
+    {
+      "added_at": "2023-03-13 10:02:13",
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/4AfrYoRVAlaH39vq5fHPpT"
+      },
+      "artists": [
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "duration_ms": 482329,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/4hq89ojVRjGEvpHyQY4VGp"
+    },
+    {
+      "added_at": "2023-03-13 10:02:13",
+      "album": {
+        "name": "Thula EP",
+        "url": "https://open.spotify.com/album/2QyWyvrhEVnBaLG4loqEi1"
+      },
+      "artists": [
+        {
+          "name": "Blanka Mazimela",
+          "url": "https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C"
+        },
+        {
+          "name": "Khonaye",
+          "url": "https://open.spotify.com/artist/05QAPP670eYB6veuT6aSzO"
+        }
+      ],
+      "duration_ms": 441972,
+      "name": "Thula",
+      "url": "https://open.spotify.com/track/2oGJRoKav60Mddy3c6RKZG"
+    },
+    {
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Luxury (Enoo Napa Remix)",
         "url": "https://open.spotify.com/album/7wXfcUpqoHICMJTqn7jcYS"
@@ -149,7 +129,7 @@
       "url": "https://open.spotify.com/track/2BlQJQKab1AbQmTy5N9Jta"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "The Republic of Atmofrika",
         "url": "https://open.spotify.com/album/6Yv3Pc9Wq9muZCdi9aRHHh"
@@ -165,7 +145,7 @@
       "url": "https://open.spotify.com/track/1iaF44Uh61Non8nnHxDphC"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Banike",
         "url": "https://open.spotify.com/album/6US9oSxNBX1O1sMyH7lnBn"
@@ -185,7 +165,7 @@
       "url": "https://open.spotify.com/track/0jN4e5DNTym9lA8tW8RsKy"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Au Dede (Karyendasoul Remix)",
         "url": "https://open.spotify.com/album/78b4DMtqUAN7vad5sl9Efi"
@@ -205,7 +185,7 @@
       "url": "https://open.spotify.com/track/6nXZdEDO1ksyr8113Qsplt"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Two Zulu Men In Ibiza EP",
         "url": "https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz"
@@ -225,7 +205,7 @@
       "url": "https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "iFu",
         "url": "https://open.spotify.com/album/5avT3gQsru5kveW0urcN8f"
@@ -245,7 +225,7 @@
       "url": "https://open.spotify.com/track/7dbfI3aPl94kEEl1rPuXgW"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Sfede",
         "url": "https://open.spotify.com/album/73QpLmYkPfXgX5cd2eey93"
@@ -265,7 +245,7 @@
       "url": "https://open.spotify.com/track/6OFb2fIb9MLO9MFalHAv2O"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Thunderstorm",
         "url": "https://open.spotify.com/album/6o9D2gCHdi1KEyZRK6Q2OX"
@@ -289,7 +269,7 @@
       "url": "https://open.spotify.com/track/1lf0fNau1vyhuwadJz8k2h"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Finally Famous",
         "url": "https://open.spotify.com/album/1I6Kl9idNvQCeEkkN50Wc5"
@@ -313,7 +293,7 @@
       "url": "https://open.spotify.com/track/2bJ3KkfVgyNI1xeoYCJ0Ir"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Tot Samyi (The One)",
         "url": "https://open.spotify.com/album/3cHx7xSwru4aeNfF7RzpEv"
@@ -341,7 +321,7 @@
       "url": "https://open.spotify.com/track/4Yr59gAMO9se8wJ7TqDV5D"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Ntinga Ntaka",
         "url": "https://open.spotify.com/album/6sOndSTzqdFQtNm4MBEKLa"
@@ -365,7 +345,7 @@
       "url": "https://open.spotify.com/track/78ELbuKid579q8ip7sv7Vk"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "XX XX (Enoo Napa Remix)",
         "url": "https://open.spotify.com/album/7nQpcH4F26cgvGeYfkKO9D"
@@ -385,7 +365,7 @@
       "url": "https://open.spotify.com/track/5ulVDD2bMcqMd4MgBAKYr6"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Shweleza",
         "url": "https://open.spotify.com/album/1e17QmapD7ZKhng4GjHER3"
@@ -413,7 +393,7 @@
       "url": "https://open.spotify.com/track/4LwtsCTbkaunXAWHSyoo6t"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "The 12 Year Saga",
         "url": "https://open.spotify.com/album/3xloxYskgtTZmtIpBDNjH5"
@@ -437,7 +417,7 @@
       "url": "https://open.spotify.com/track/7ymsC9MDZ9eqcPgxGk7huP"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Owam",
         "url": "https://open.spotify.com/album/3gDdaYeQkUfUK0SeY05WyZ"
@@ -461,7 +441,7 @@
       "url": "https://open.spotify.com/track/0IVJgvxbcpwebKoQUwEpRN"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "iMali",
         "url": "https://open.spotify.com/album/6ggoVHjrshZtOhuEpHjOXN"
@@ -485,7 +465,7 @@
       "url": "https://open.spotify.com/track/280MTeg7bZYCHaHxhaAtPq"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Tshwala Bami",
         "url": "https://open.spotify.com/album/1man3N1G9mg0eQGypyxL3C"
@@ -509,7 +489,7 @@
       "url": "https://open.spotify.com/track/1t9i8N7VERUnG5oAZbGU5L"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "My Story",
         "url": "https://open.spotify.com/album/4VK04E5cKOGEQHnpE6ysge"
@@ -533,7 +513,27 @@
       "url": "https://open.spotify.com/track/16qkCa4zVqLCEYSMWcQHG5"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
+      "album": {
+        "name": "God First",
+        "url": "https://open.spotify.com/album/4SWN2MuEeLqPMeatYXhffK"
+      },
+      "artists": [
+        {
+          "name": "TNS",
+          "url": "https://open.spotify.com/artist/5uAbOIIAk6nHfy7gikjmYy"
+        },
+        {
+          "name": "Zaba",
+          "url": "https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H"
+        }
+      ],
+      "duration_ms": 350163,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/64LIUUtjRyjmvGymR0QYEF"
+    },
+    {
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Bumblebee",
         "url": "https://open.spotify.com/album/61xF9hB3dvdF6Tlyge7F0P"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/5l9P47axQgVYwdeTj2sXcj"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "IQHAWE",
         "url": "https://open.spotify.com/album/4FxgWaDxIrMGItb5cc5ur4"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/30RylevGyD4EFyV4VYbPj3"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Sounds Of Lobola",
         "url": "https://open.spotify.com/album/2gUWUTh7KF2kQbOkvnaY1g"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/2OsdfoWoswEFMCa45xAET7"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "HAYII",
         "url": "https://open.spotify.com/album/73IrTAOufu4VMnQqcKw1za"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Ngilinde (feat. Mango SA)",
         "url": "https://open.spotify.com/album/0n0qkaAvQKWrQwwzJuLNWQ"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/7nLwR3QysknGglnJ3zxe83"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "One Man",
         "url": "https://open.spotify.com/album/3wjmJ6YkEwyTeTEUjKPRwX"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/6h5lnTQja76tPQOnveu6dX"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Tout S'en Va",
         "url": "https://open.spotify.com/album/0Z7HOg9bzgDMrRL2jPSmNv"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/2yIbj1FlRfhD60bydLCfog"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Lotjhani",
         "url": "https://open.spotify.com/album/1oxSBfAPHqet0QQ5qjyqcg"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/6gW8Lf7fNrzSw39Y50xc7f"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Amani EP",
         "url": "https://open.spotify.com/album/3R9b7M812Z2wnN8p6fJtIQ"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/0FngU0lVyh6dNPxN49Wo1B"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "MISAVA",
         "url": "https://open.spotify.com/album/6Qs01I9CWfP5gitMZrOQPd"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/6BmD8tRPWDgGD2Y0pQY1Ll"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Reasons (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/0ZVMnMR0dTUWHk8BtDFFPc"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/7zwmPye7GEgHouNGGFOG8R"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "iVolovolo",
         "url": "https://open.spotify.com/album/5EHqm4YXBZ0kQLObE0c7WR"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/1JLoqwDcNStb1HgHAyxWsM"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Soul Awakening",
         "url": "https://open.spotify.com/album/6xGXv8qccrPr6GSKt6q7wG"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/2HfjIixRwnaOd6m3BFxl2V"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Respect The Drumboss 2021, Pt. 1 (10 Years Of Heavy-K Edition)",
         "url": "https://open.spotify.com/album/5CSL70ug8HGlHcYGbD79eA"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/3fpoN7kl6ZtOqqbk0enwpq"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Smoking Monkey",
         "url": "https://open.spotify.com/album/5wBX45jvEXrOPI0sObjUAr"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/2oFkuIr1gVgrjvsHUX5p8R"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Figo",
         "url": "https://open.spotify.com/album/2BvgYRixw4oWlFJ75fe2Zh"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/6UjeI3QRwqOwSUQXkTnsdk"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Maya",
         "url": "https://open.spotify.com/album/2hfNUwkRhfw7VjCWIQU4hZ"
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/37aSg02eKxZMSueTi5qE89"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/1DGoKk76hCDu3TU9LnoPsS"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/7A6YJDDaVuO03sl8Y7YFxD"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "AMAZWI",
         "url": "https://open.spotify.com/album/1KygMxVjnXbnuqqKlDx3f4"
@@ -937,7 +937,7 @@
       "url": "https://open.spotify.com/track/2q92nuY3WtRGtlvxAaPNz0"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/3OdQh8jCAcKS608jwFBrOC"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/2yiYfQ8JKGlarfxQ3gMGGu"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Turmoil",
         "url": "https://open.spotify.com/album/28wN2o412xOVYXOWFyn85y"
@@ -973,7 +973,7 @@
       "url": "https://open.spotify.com/track/4Yk9WHAIpHTBREPJzYfUsR"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Silence & Secrets (Black Coffee Remix)",
         "url": "https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI"
@@ -993,7 +993,7 @@
       "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Ubomi",
         "url": "https://open.spotify.com/album/79G6OtDk17Lq9UmlyxUqev"
@@ -1017,7 +1017,7 @@
       "url": "https://open.spotify.com/track/2L5JfERa3VxgMAj93Q4gT4"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "The 12 Year Saga",
         "url": "https://open.spotify.com/album/3xloxYskgtTZmtIpBDNjH5"
@@ -1041,7 +1041,7 @@
       "url": "https://open.spotify.com/track/0TWr1HfWDoqZ4zPiBySwxM"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Mabebuza",
         "url": "https://open.spotify.com/album/5MwJllAjpaGazBZfP8CtCd"
@@ -1061,7 +1061,7 @@
       "url": "https://open.spotify.com/track/3HPgwat1jJCtrbtDZYMUVL"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Fight to Love (Radio Edit)",
         "url": "https://open.spotify.com/album/6ttCwZ0VxKrzDFnOhHlTj3"
@@ -1081,7 +1081,7 @@
       "url": "https://open.spotify.com/track/0V2rtUVbb3Vpz2ZE5pu0Sa"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Abaphansi (KeysGroove Remix)",
         "url": "https://open.spotify.com/album/62Jq3OiiPT7cW5khSD3sc4"
@@ -1105,7 +1105,7 @@
       "url": "https://open.spotify.com/track/0HaGqD8cdGIVceTSe07t5V"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "NGUWE",
         "url": "https://open.spotify.com/album/0wY6UcIM25Yd8M9DCQHEUS"
@@ -1129,7 +1129,7 @@
       "url": "https://open.spotify.com/track/52nXrFT91veBphtsiY1uhR"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Impumelelo",
         "url": "https://open.spotify.com/album/0la0Xxoi5nnL5OCK0e8ESf"
@@ -1153,7 +1153,7 @@
       "url": "https://open.spotify.com/track/2cPJ70rDO8Mt74vGImjiz3"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "American Storyteller",
         "url": "https://open.spotify.com/album/4ZG5gs2kGSZIZNVunNinC2"
@@ -1169,7 +1169,7 @@
       "url": "https://open.spotify.com/track/4NpWFSt3bLD6OHpDGvztkV"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Matasa",
         "url": "https://open.spotify.com/album/1r7Z8yvkt3sFRt7XK0jFR7"
@@ -1193,7 +1193,7 @@
       "url": "https://open.spotify.com/track/6G0od201NbSzN4Yutk2Ufc"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "The Hideout",
         "url": "https://open.spotify.com/album/4CMCuEOBHD7luLg1QE6VtN"
@@ -1209,7 +1209,7 @@
       "url": "https://open.spotify.com/track/1wIOUQMVHiAfaUJ7CM3Ezl"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Yoruba",
         "url": "https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9"
@@ -1225,7 +1225,7 @@
       "url": "https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Bruku EP",
         "url": "https://open.spotify.com/album/20shOK3T6TDAu1VU2xgZVN"
@@ -1241,7 +1241,7 @@
       "url": "https://open.spotify.com/track/2UBa2j9ztkzvzd87ZfreLV"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Angimazi Ubabalo",
         "url": "https://open.spotify.com/album/0zRbVHjRimy7UEN5cmWJZP"
@@ -1265,7 +1265,7 @@
       "url": "https://open.spotify.com/track/35LVqbC4mflUDt9b9thC1C"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-03-13 10:02:13",
       "album": {
         "name": "Clarity (Shredded Mix)",
         "url": "https://open.spotify.com/album/1u8BcbmT09Ue7dIYpamP1S"

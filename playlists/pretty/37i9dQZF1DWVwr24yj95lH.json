@@ -1,12 +1,12 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Seether",
-  "num_followers": 558108,
+  "num_followers": 558446,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgyMjYzNSwwMDAwMDAwMDY2YmZhZmNmMThiYzM3ZDU4MDBlNzA1YjBlMDA1ZjEx",
+  "snapshot_id": "MTY3MjgyMjYzNSwwMDAwMDAwMGFjNDg1M2Q0MWM5ZWEzMTQ3OWM1NDMxZmRiODFjODVj",
   "tracks": [
     {
       "added_at": "2023-01-04 08:57:15",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 260026,
-      "name": "My Hero",
-      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "Silver Side Up",
         "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 223840,
       "name": "How You Remind Me",
       "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 260026,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Three Days Grace (Expanded Edition)",
-        "url": "https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "I Hate Everything About You",
-      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "Crossfade",
         "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 194226,
       "name": "Cold",
       "url": "https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "Karma and Effect",
+        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Karma and Effect",
-        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
+        "name": "Three Days Grace (Expanded Edition)",
+        "url": "https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5"
       },
       "artists": [
         {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 207213,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
+      "duration_ms": 231480,
+      "name": "I Hate Everything About You",
+      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
+        "name": "Disclaimer",
+        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 243640,
+      "name": "Fine Again",
+      "url": "https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
         "name": "Savages",
         "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 252360,
       "name": "Send the Pain Below",
       "url": "https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
-        "name": "Disclaimer",
-        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 243640,
-      "name": "Fine Again",
-      "url": "https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Out of Exile",
-        "url": "https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Doesn't Remind Me",
-      "url": "https://open.spotify.com/track/0o995gJCGebaza0LWybToU"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "Yourself or Someone Like You",
         "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
       },
@@ -831,22 +815,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "Short Bus",
         "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
       },
@@ -859,6 +827,38 @@
       "duration_ms": 314440,
       "name": "Hey Man, Nice Shot - Remastered Version",
       "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "Out of Exile",
+        "url": "https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Doesn't Remind Me",
+      "url": "https://open.spotify.com/track/0o995gJCGebaza0LWybToU"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Anthem For The Underdog (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/2Qp0yu0Uaw3C83YNYqfgdv"
-      },
-      "artists": [
-        {
-          "name": "12 Stones",
-          "url": "https://open.spotify.com/artist/0DrXhci3WAyo0WJv1RBOG6"
-        }
-      ],
-      "duration_ms": 184426,
-      "name": "Anthem For The Underdog",
-      "url": "https://open.spotify.com/track/6FFwt1ea9hJ4MfMQLywahm"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "The Punisher: The Album",
         "url": "https://open.spotify.com/album/35bHrnMSA8aZ0P5nemqhIp"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 198360,
       "name": "Slow Chemical",
       "url": "https://open.spotify.com/track/2h5Kce0Vt3PWgMYkYuUL3E"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "Anthem For The Underdog (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2Qp0yu0Uaw3C83YNYqfgdv"
+      },
+      "artists": [
+        {
+          "name": "12 Stones",
+          "url": "https://open.spotify.com/artist/0DrXhci3WAyo0WJv1RBOG6"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "Anthem For The Underdog",
+      "url": "https://open.spotify.com/track/6FFwt1ea9hJ4MfMQLywahm"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
+        "name": "One Day Remains",
+        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 340106,
+      "name": "In Loving Memory",
+      "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
         "name": "Jar",
         "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 297173,
       "name": "You",
       "url": "https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
-        "name": "One Day Remains",
-        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 340106,
-      "name": "In Loving Memory",
-      "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Ours Is Chrome",
-        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
-      },
-      "artists": [
-        {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
-        }
-      ],
-      "duration_ms": 267284,
-      "name": "Poor Aileen",
-      "url": "https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "February Son",
         "url": "https://open.spotify.com/album/3DxLga8esIW4kag2FGPWMI"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 222706,
       "name": "It Only Hurts",
       "url": "https://open.spotify.com/track/1k0FCgVwb1jZR57ESOWUVa"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "Ours Is Chrome",
+        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 267284,
+      "name": "Poor Aileen",
+      "url": "https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "10: 1993-2003 - Ten Years of K's Choice",
-        "url": "https://open.spotify.com/album/7u5VdkpJuSXEWxNq4PdXJ2"
-      },
-      "artists": [
-        {
-          "name": "K's Choice",
-          "url": "https://open.spotify.com/artist/1lO13Grp3I1AsIbcACRWvv"
-        }
-      ],
-      "duration_ms": 288183,
-      "name": "Not An Addict",
-      "url": "https://open.spotify.com/track/38TozZBUSqO5HA4ya6OxZr"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "13 Ways To Bleed Onstage",
         "url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 197333,
       "name": "No One",
       "url": "https://open.spotify.com/track/5Z5k7MQotAckv0S3ZA9dXa"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "10: 1993-2003 - Ten Years of K's Choice",
+        "url": "https://open.spotify.com/album/7u5VdkpJuSXEWxNq4PdXJ2"
+      },
+      "artists": [
+        {
+          "name": "K's Choice",
+          "url": "https://open.spotify.com/artist/1lO13Grp3I1AsIbcACRWvv"
+        }
+      ],
+      "duration_ms": 288183,
+      "name": "Not An Addict",
+      "url": "https://open.spotify.com/track/38TozZBUSqO5HA4ya6OxZr"
     },
     {
       "added_at": "2023-01-04 08:57:15",

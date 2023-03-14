@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Boss music for boss people. Cover: The Reytons",
+  "description": "Boss music for boss people. Cover: The Lathums",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "Leader of the Pack",
+      "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
+    },
+    {
+      "album": {
         "name": "Emergency (15 Year Anniversary Version)",
         "url": "https://open.spotify.com/album/56nvxwuP4qL4GhO6ZgKjGS"
       },
@@ -1046,6 +1064,42 @@
       "duration_ms": 250280,
       "name": "Love Will Get You There",
       "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
+    },
+    {
+      "album": {
+        "name": "Lovers Come and Lovers Go",
+        "url": "https://open.spotify.com/album/6K7sOJaH3TEsJ764csQ5MS"
+      },
+      "artists": [
+        {
+          "name": "The Pigeon Detectives",
+          "url": "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159586,
+      "name": "Lovers Come and Lovers Go",
+      "url": "https://open.spotify.com/track/0JWafcuc5QarfXoWSs5MLO"
+    },
+    {
+      "album": {
+        "name": "From Nothing To A Little Bit More",
+        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171280,
+      "name": "Lucky Bean",
+      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
     },
     {
       "album": {
@@ -1204,7 +1258,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 217782,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/4JyTqHzS1hrQO62v0mGRep"
@@ -1258,7 +1312,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 230019,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/3LIWMXIo6rPoo9Slcd1PaK"
@@ -1478,6 +1532,24 @@
       "duration_ms": 214240,
       "name": "The Sulking Poet",
       "url": "https://open.spotify.com/track/4RpGkjgHNP8DjB6mp7uvsz"
+    },
+    {
+      "album": {
+        "name": "An Ocean Full of Islands",
+        "url": "https://open.spotify.com/album/5qg03RMXqMLis0jVnGeug1"
+      },
+      "artists": [
+        {
+          "name": "Tide Lines",
+          "url": "https://open.spotify.com/artist/47WvBuryaMeInhqbcoi0uN"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198647,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2SL3kWWD9lt3YaVtF2kATH"
     },
     {
       "album": {

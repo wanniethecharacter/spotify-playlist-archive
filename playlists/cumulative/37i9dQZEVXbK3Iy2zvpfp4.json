@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 173454,
       "name": "100 Hiba",
       "url": "https://open.spotify.com/track/2OcJ6IFLooNGjyiL9HaDab"
@@ -172,6 +172,24 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
+    },
+    {
+      "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170100,
+      "name": "3 Nap",
+      "url": "https://open.spotify.com/track/0R7YvZPeHphkV48ffoGmsl"
     },
     {
       "album": {
@@ -5732,7 +5750,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 134769,
       "name": "Hate.",
       "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
@@ -6718,7 +6736,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 156640,
       "name": "Inverzia - Bonus",
       "url": "https://open.spotify.com/track/7rVRO72e2V9R38yYD1dxPh"
@@ -7946,7 +7964,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
@@ -11480,7 +11498,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 147979,
       "name": "Queen of Kings",
       "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
@@ -14980,7 +14998,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 122833,
       "name": "Utols\u00f3 dal",
       "url": "https://open.spotify.com/track/4O4BgsTejcZ5fJBfhwiaGO"
@@ -16668,7 +16686,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 216833,
       "name": "\u042f\u0434",
       "url": "https://open.spotify.com/track/59vIllaE2ottAAAtAiAuLt"

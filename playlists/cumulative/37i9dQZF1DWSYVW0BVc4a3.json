@@ -346,6 +346,24 @@
     {
       "album": {
         "name": "Alright",
+        "url": "https://open.spotify.com/album/2Ee25kB7a4Jz4IkkClgmaw"
+      },
+      "artists": [
+        {
+          "name": "Hidden Empire",
+          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412068,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1ZU33JIKd1rsR8cxPElos1"
+    },
+    {
+      "album": {
+        "name": "Alright",
         "url": "https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi"
       },
       "artists": [
@@ -598,6 +616,32 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest of Them All) [Edit] - Radio Edit",
       "url": "https://open.spotify.com/track/0MUVKM0uQXXMtN09oxj9pB"
+    },
+    {
+      "album": {
+        "name": "Back To You (Deluxe Pack)",
+        "url": "https://open.spotify.com/album/6KtBNnZGglKI9hB3rLTt2K"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173463,
+      "name": "Back To You - Tom & Collins Remix",
+      "url": "https://open.spotify.com/track/2SxhnK9xl2xgS5MF0DMiYl"
     },
     {
       "album": {
@@ -3768,7 +3812,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 354098,
       "name": "Inochi",
       "url": "https://open.spotify.com/track/40qMnVCrSqMSuFWooAzqB3"
@@ -6962,7 +7006,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 253325,
       "name": "Someday",
       "url": "https://open.spotify.com/track/5uQyM8sY3jXvJ8Qpcr1axC"

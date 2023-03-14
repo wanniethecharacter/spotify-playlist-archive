@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: RaRa",
+  "description": "Dendang Dangdut teratas. Cover: Sridevi DA5, Eby DA5, Afan DA5",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -110,6 +110,32 @@
       "duration_ms": 307555,
       "name": "Balungan Kere",
       "url": "https://open.spotify.com/track/7kmkGZEE6KSciuxQYDcKTV"
+    },
+    {
+      "album": {
+        "name": "Bertauhid",
+        "url": "https://open.spotify.com/album/70GKblOZsbv191FHhGOHsk"
+      },
+      "artists": [
+        {
+          "name": "Sridevi DA5",
+          "url": "https://open.spotify.com/artist/7KM65RnfkPrC4zzLoKuQ0s"
+        },
+        {
+          "name": "Eby DA5",
+          "url": "https://open.spotify.com/artist/3di1pESdZfMHYO406ck1oy"
+        },
+        {
+          "name": "Afan DA5",
+          "url": "https://open.spotify.com/artist/60jQVcXcjnlcFmXPkHEbfB"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Bertauhid",
+      "url": "https://open.spotify.com/track/2pQ6I2NzRL0dsGc3D5Im5F"
     },
     {
       "album": {

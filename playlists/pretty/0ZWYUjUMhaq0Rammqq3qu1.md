@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 ### [Dance Hits 2023](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
-> Dance hits in 2023, featuring Jax Jones, Steve Aoki, Topic, and more!\. Cover: SG Lewis
+> Dance hits in 2023\. Cover: SG Lewis
 
-[Digster](https://open.spotify.com/user/digster.fm) - 116,701 likes - 50 songs - 2 hr 23 min
+[Digster](https://open.spotify.com/user/digster.fm) - 116,699 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 49 | [Heavy Metal Love](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Heavy Metal Love](https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH) | 2:12 |
 | 50 | [Where Did You Go?](https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go?](https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA) | 2:57 |
 
-Snapshot ID: `NDU4OSxjMDY3ZjQ3NjNjYTM1YzZhOTllYjY1ZWQ0N2Q1ZmU0ZGNhMDExMmM5`
+Snapshot ID: `NDU5MCwxZjY4YjA2MjNmZDdmNmU3YTI1YjgwMWI3M2JmZWRmYmUzY2Q2ZWRm`

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "The Contino Sessions",
+        "url": "https://open.spotify.com/album/4qUKzyXuy3GSzQD5RTJLdq"
+      },
+      "artists": [
+        {
+          "name": "Death In Vegas",
+          "url": "https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352826,
+      "name": "Aisha",
+      "url": "https://open.spotify.com/track/6987QQm1UGiJjFrpXmFPBq"
+    },
+    {
+      "album": {
         "name": "\"A Divina Com\u00e9dia Ou Ando Meio Desligado\"",
         "url": "https://open.spotify.com/album/7Brj8kqhEO9Zg4daamMieT"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 285920,
       "name": "Ando Meio Desligado",
       "url": "https://open.spotify.com/track/1MhkTY7vEuWR0VfDefE6Lf"
@@ -59,6 +77,60 @@
     },
     {
       "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/125bv7EBFzsaqeW2LzY6QP"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214066,
+      "name": "Arms Around Your Love",
+      "url": "https://open.spotify.com/track/3U07KE9Jse87pLyZAD2b37"
+    },
+    {
+      "album": {
+        "name": "Propaganda",
+        "url": "https://open.spotify.com/album/1rlCSXl4oodSDQRUYDUgiP"
+      },
+      "artists": [
+        {
+          "name": "Sparks",
+          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185786,
+      "name": "At Home At Work At Play",
+      "url": "https://open.spotify.com/track/7jpt4P7GjVGFFgI3bqLThp"
+    },
+    {
+      "album": {
+        "name": "Barrett (Deluxe Version)",
+        "url": "https://open.spotify.com/album/44DmJswBlwWivBKU6zOJIp"
+      },
+      "artists": [
+        {
+          "name": "Syd Barrett",
+          "url": "https://open.spotify.com/artist/6Lt3HS8R2v8Q4G7ZkUWa8R"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251760,
+      "name": "Baby Lemonade",
+      "url": "https://open.spotify.com/track/3oGuIvBNVW00E8aHmzRYoT"
+    },
+    {
+      "album": {
         "name": "Here Come The Warm Jets",
         "url": "https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi"
       },
@@ -70,7 +142,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 319373,
       "name": "Baby's On Fire - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/2PV9sorI2h94qEPke7SlGI"
@@ -95,6 +167,24 @@
     },
     {
       "album": {
+        "name": "6 6 6",
+        "url": "https://open.spotify.com/album/2lWDphDAlgk8PNdODreJwv"
+      },
+      "artists": [
+        {
+          "name": "Aphrodite's Child",
+          "url": "https://open.spotify.com/artist/2XhhAWeUOlrZnGOB7aKEI8"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/6sUm7ZNoptrA6UQWuJ6b0Q"
+    },
+    {
+      "album": {
         "name": "Especially For You",
         "url": "https://open.spotify.com/album/3QeS81XoIL62rTHHw2pyJn"
       },
@@ -106,10 +196,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 203964,
       "name": "Behind The Wall Of Sleep",
       "url": "https://open.spotify.com/track/4T5Rcn6qefZOUMgDb8AkEt"
+    },
+    {
+      "album": {
+        "name": "Live at the Bass Performance Hall",
+        "url": "https://open.spotify.com/album/4I8fSNYh03Bhwf6lP8X3By"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209240,
+      "name": "Big Love - Live",
+      "url": "https://open.spotify.com/track/4u152W5T3yuDXSjRvZAx1h"
     },
     {
       "album": {
@@ -124,7 +232,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 248826,
       "name": "Birth, School, Work, Death",
       "url": "https://open.spotify.com/track/7lWvECULXPh7RoAT1fmgo3"
@@ -142,7 +250,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 319773,
       "name": "Black Magic Woman / Gypsy Queen",
       "url": "https://open.spotify.com/track/7cDxjUnMitNKQC5c8RQUko"
@@ -160,7 +268,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 178760,
       "name": "Can't Stand Losing You",
       "url": "https://open.spotify.com/track/6DjKJgwe9c90Bd2iya0fre"
@@ -196,7 +304,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 150186,
       "name": "Children Of The Revolution",
       "url": "https://open.spotify.com/track/3P4uUs9X0cPw7rf37NTndV"
@@ -221,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Is Nothing Sacred?",
+        "url": "https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8"
+      },
+      "artists": [
+        {
+          "name": "Lords Of The New Church",
+          "url": "https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205693,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV"
+    },
+    {
+      "album": {
         "name": "Give the People What They Want",
         "url": "https://open.spotify.com/album/3r0m91ziIsbCcZJPGihXLt"
       },
@@ -232,7 +358,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 226966,
       "name": "Destroyer",
       "url": "https://open.spotify.com/track/5i305QcqbNK8ErelBTzJKH"
@@ -286,10 +412,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 171734,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2b3gYFVO0aKOYlbV9eRrfl"
+    },
+    {
+      "album": {
+        "name": "Climbing!",
+        "url": "https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP"
+      },
+      "artists": [
+        {
+          "name": "Mountain",
+          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202893,
+      "name": "For Yasgur's Farm",
+      "url": "https://open.spotify.com/track/76WEdM5L1tsllTGk2CW64s"
     },
     {
       "album": {
@@ -311,6 +455,60 @@
     },
     {
       "album": {
+        "name": "Permission to Land",
+        "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176053,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/0FXIFD0DV5RBb3EytmjUBS"
+    },
+    {
+      "album": {
+        "name": "Last Scream of the Missing Neighbors",
+        "url": "https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc"
+      },
+      "artists": [
+        {
+          "name": "D.O.A.",
+          "url": "https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 837173,
+      "name": "Full Metal Jackoff",
+      "url": "https://open.spotify.com/track/7myoGGz89DV68WbRDHNA5P"
+    },
+    {
+      "album": {
+        "name": "Frank Black",
+        "url": "https://open.spotify.com/album/20zAeTA8IYd1nfh6UgXjun"
+      },
+      "artists": [
+        {
+          "name": "Frank Black",
+          "url": "https://open.spotify.com/artist/5Q8gM5SMBT2LAoZ5LzqAvH"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Hang On to Your Ego",
+      "url": "https://open.spotify.com/track/3SeTcVLHGH5eXET6USyM3J"
+    },
+    {
+      "album": {
         "name": "Tin Machine",
         "url": "https://open.spotify.com/album/0juQn8RD24F8sPnSWMZdls"
       },
@@ -322,10 +520,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 367493,
       "name": "Heaven's in Here - 1999 Remaster",
       "url": "https://open.spotify.com/track/0h55iaKJV7pXc87WPNcZl9"
+    },
+    {
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/0kFT2lVOnmc5S8XLoVBhgH"
+      },
+      "artists": [
+        {
+          "name": "Kult",
+          "url": "https://open.spotify.com/artist/3QrpmDKMmvcSUTHH8xED93"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321013,
+      "name": "Hej, czy nie wiecie",
+      "url": "https://open.spotify.com/track/5aV6NxUaWtQdDV4K6VSLww"
     },
     {
       "album": {
@@ -365,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Creedence Clearwater Revival (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271786,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP"
+    },
+    {
+      "album": {
         "name": "Fistful of Metal",
         "url": "https://open.spotify.com/album/1xg9CNkTZ6zxN48GxyjANK"
       },
@@ -380,6 +614,24 @@
       "duration_ms": 246640,
       "name": "I'm Eighteen",
       "url": "https://open.spotify.com/track/1pHjoOvVeBJh1kgli27xHX"
+    },
+    {
+      "album": {
+        "name": "Is There Love In Space?",
+        "url": "https://open.spotify.com/album/2rSSRNgFyaVKuAWoz6yYWO"
+      },
+      "artists": [
+        {
+          "name": "Joe Satriani",
+          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391080,
+      "name": "If I Could Fly",
+      "url": "https://open.spotify.com/track/1nTIlEfFDYpeRTkvhdF6I3"
     },
     {
       "album": {
@@ -416,7 +668,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 200653,
       "name": "Instant Karma! (We All Shine On) - Remastered 2010",
       "url": "https://open.spotify.com/track/2BkXpZSvPoUDMLI2Xw9kAL"
@@ -438,6 +690,24 @@
       "duration_ms": 209786,
       "name": "Johnny Remember Me",
       "url": "https://open.spotify.com/track/3sV75yOl6n9QM8JpUaq5wr"
+    },
+    {
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397160,
+      "name": "Journey of the Sorcerer - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG"
     },
     {
       "album": {
@@ -470,7 +740,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 348933,
       "name": "Kundalini Express",
       "url": "https://open.spotify.com/track/6BKpU7hRPo5ZYwXXkgo2NN"
@@ -488,7 +758,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 221320,
       "name": "Life During Wartime - 2005 Remaster",
       "url": "https://open.spotify.com/track/7CqleiaEqHVazV19P532X9"
@@ -506,10 +776,68 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 278106,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/6fKQblT3h0U2ydiDbnsyfa"
+    },
+    {
+      "album": {
+        "name": "Ram (Archive Collection)",
+        "url": "https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Linda McCartney",
+          "url": "https://open.spotify.com/artist/6QEKXJs8gQCiyBq5L8knco"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324133,
+      "name": "Monkberry Moon Delight - Remastered 2012",
+      "url": "https://open.spotify.com/track/7afDukwRRDs0rmg3leQ8ti"
+    },
+    {
+      "album": {
+        "name": "En ny tid \u00e4r h\u00e4r",
+        "url": "https://open.spotify.com/album/3GB3hs0SVd4dMKHjs77Uor"
+      },
+      "artists": [
+        {
+          "name": "November",
+          "url": "https://open.spotify.com/artist/2Rg37SKvbGHpmtTWi2c9ow"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218600,
+      "name": "Mount Everest",
+      "url": "https://open.spotify.com/track/4rG7S7MiXj0ipEt3j4DlIR"
+    },
+    {
+      "album": {
+        "name": "Pyromaani palaa rikospaikalle",
+        "url": "https://open.spotify.com/album/1mX8xncB2V0Snarc4QugDr"
+      },
+      "artists": [
+        {
+          "name": "Juice Leskinen",
+          "url": "https://open.spotify.com/artist/4W6vvLzFQKixmJXSJK3wLp"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260560,
+      "name": "Musta Aurinko Nousee",
+      "url": "https://open.spotify.com/track/2acxoDtSAjLIC1uVEJuYpB"
     },
     {
       "album": {
@@ -542,10 +870,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 76600,
       "name": "My Way",
       "url": "https://open.spotify.com/track/56nBD3NBZLH6BKZtTGj1FD"
+    },
+    {
+      "album": {
+        "name": "Black and White",
+        "url": "https://open.spotify.com/album/5PfI1x0Rub41UUeLEksUCU"
+      },
+      "artists": [
+        {
+          "name": "The Stranglers",
+          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194080,
+      "name": "Nice 'N' Sleazy",
+      "url": "https://open.spotify.com/track/2CeBK22RiNWepnaCs0yHPb"
     },
     {
       "album": {
@@ -560,7 +906,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 269106,
       "name": "Nights In White Satin - Single Version / Mono",
       "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
@@ -585,6 +931,42 @@
     },
     {
       "album": {
+        "name": "A Kind Of Magic (2011 Remaster)",
+        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311026,
+      "name": "One Vision - Remastered 2011",
+      "url": "https://open.spotify.com/track/3ROPrLWea9uICOW4V2Px1y"
+    },
+    {
+      "album": {
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199240,
+      "name": "Personal Jesus",
+      "url": "https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV"
+    },
+    {
+      "album": {
         "name": "Picturesque Matchstickable Messages from the Status Quo",
         "url": "https://open.spotify.com/album/6GjmCt1jb9IiOTw106Xa4W"
       },
@@ -596,7 +978,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 190600,
       "name": "Pictures of Matchstick Men - Mono Version",
       "url": "https://open.spotify.com/track/0MRs5O62wfDgf5cQKalrPq"
@@ -618,7 +1000,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 179826,
       "name": "Pipeline",
       "url": "https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68"
@@ -636,7 +1018,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 276712,
       "name": "Planet Claire",
       "url": "https://open.spotify.com/track/3t3GtCFoABBDACLLSleDgV"
@@ -690,7 +1072,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 136466,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/01qiuRcLpJcFJBXUoSkn5p"
@@ -726,7 +1108,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 202200,
       "name": "She Does It Right - 2006 Remaster",
       "url": "https://open.spotify.com/track/6Ii2IbnbiRnRlnCrbmgWYg"
@@ -798,7 +1180,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 315306,
       "name": "Space Station #5",
       "url": "https://open.spotify.com/track/2kLGZ6ESCKHdQ0DqXoX4PS"
@@ -823,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "In Too Much Too Soon",
+        "url": "https://open.spotify.com/album/4O8ikIyzCM53suYmcoJdiF"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243866,
+      "name": "Stranded In The Jungle - Alternate Version",
+      "url": "https://open.spotify.com/track/3ZUILDZRnGDYPAWTDsedak"
+    },
+    {
+      "album": {
         "name": "Runaway Boys",
         "url": "https://open.spotify.com/album/4Hj9QS0N1QnVDj0R7IK4in"
       },
@@ -834,7 +1234,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 195066,
       "name": "Stray Cat Strut",
       "url": "https://open.spotify.com/track/4wnYKwgV6N72C8Lc1caJBh"
@@ -895,6 +1295,42 @@
     },
     {
       "album": {
+        "name": "A Change of Seasons",
+        "url": "https://open.spotify.com/album/1ALR5shWvJ99oItXgRTbKj"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 633840,
+      "name": "The Big Medley - In the Flesh? / Carry on Wayward Son / Bohemian Rhapsody / Lovin, Touchin, Squeezin / Cruise Control / Turn It on Again - Live at Ronnie Scott's Jazz Club, London, England, UK, 1/31/1995",
+      "url": "https://open.spotify.com/track/0dgvPQkNyJ75mJcyfVmFkz"
+    },
+    {
+      "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321533,
+      "name": "The Chauffeur - 2009 Remaster",
+      "url": "https://open.spotify.com/track/4kZOi9K2i06Syi2DiSfEqT"
+    },
+    {
+      "album": {
         "name": "Eat To The Beat",
         "url": "https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5"
       },
@@ -910,6 +1346,42 @@
       "duration_ms": 222600,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/03SV49CTiBv7llc0s0FqhV"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200706,
+      "name": "The Real Me",
+      "url": "https://open.spotify.com/track/0bNdtECaLZcHA4B9QPjeUk"
+    },
+    {
+      "album": {
+        "name": "The Thunderthief",
+        "url": "https://open.spotify.com/album/7AIpDOQaIxlB3c1cEQhVRJ"
+      },
+      "artists": [
+        {
+          "name": "John Paul Jones",
+          "url": "https://open.spotify.com/artist/6RhcZuUOb20IZvR8BbdnJX"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358626,
+      "name": "The Thunderthief",
+      "url": "https://open.spotify.com/track/0C8ISFdmXXccGM4JBkTwNB"
     },
     {
       "album": {
@@ -942,10 +1414,46 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 340466,
       "name": "Too Old to Rock 'n' Roll: Too Young to Die! - 2002 Remaster",
       "url": "https://open.spotify.com/track/6sgmjVBMFcz1XhueFtIfgO"
+    },
+    {
+      "album": {
+        "name": "High Visibility",
+        "url": "https://open.spotify.com/album/0EuXyADUMu7Dzl2xa41rjx"
+      },
+      "artists": [
+        {
+          "name": "The Hellacopters",
+          "url": "https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212506,
+      "name": "Toys And Flavors",
+      "url": "https://open.spotify.com/track/0m3Wkftervmm67dkpwunXj"
+    },
+    {
+      "album": {
+        "name": "Earth And Sun And Moon",
+        "url": "https://open.spotify.com/album/6leD41Ewc0h6NxX5UJHI9x"
+      },
+      "artists": [
+        {
+          "name": "Midnight Oil",
+          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311333,
+      "name": "Truganini",
+      "url": "https://open.spotify.com/track/320ZjxlU4ZdoSuQorN7gH3"
     },
     {
       "album": {
@@ -978,7 +1486,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 143360,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/04cdEVbQPb8BJb7593e5fO"
@@ -996,7 +1504,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 248360,
       "name": "What Do You Want From Me?",
       "url": "https://open.spotify.com/track/3H097K41pskob32JipdXzK"
@@ -1014,7 +1522,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 360293,
       "name": "What God Wants, Pt. I",
       "url": "https://open.spotify.com/track/2Y9lhxU2IFZr2SVJW3Y5ej"
@@ -1032,7 +1540,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 240306,
       "name": "What\u2019s The Frequency, Kenneth? - Remastered",
       "url": "https://open.spotify.com/track/7ywlnXV5O0h8T5pCRUN1f5"
@@ -1050,7 +1558,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 285000,
       "name": "While My Guitar Gently Weeps - Remastered 2009",
       "url": "https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O"
@@ -1068,10 +1576,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 409466,
       "name": "White Punks On Dope",
       "url": "https://open.spotify.com/track/2QdadVGqkAGPGJMnJWHIcR"
+    },
+    {
+      "album": {
+        "name": "Origins Vol. 1",
+        "url": "https://open.spotify.com/album/6DEaA1KIFoSmndhCsN21QO"
+      },
+      "artists": [
+        {
+          "name": "Ace Frehley",
+          "url": "https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304198,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/51CPA0TFL0VwHjTIEAxLhd"
     },
     {
       "album": {
@@ -1090,6 +1616,24 @@
       "duration_ms": 267253,
       "name": "Yer Blues - Remastered 2018",
       "url": "https://open.spotify.com/track/6UrgPc2f78pgDrdodMJA42"
+    },
+    {
+      "album": {
+        "name": "So Alone",
+        "url": "https://open.spotify.com/album/1RUZkUP7Fj7vqbfQaNjBZC"
+      },
+      "artists": [
+        {
+          "name": "Johnny Thunders",
+          "url": "https://open.spotify.com/artist/421A23lYymEUE6SozCfWbr"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226079,
+      "name": "You Can't Put Your Arms Round a Memory",
+      "url": "https://open.spotify.com/track/2soxUQx6rPfOk0kHNePbhq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXcKbRenf7f0wN"

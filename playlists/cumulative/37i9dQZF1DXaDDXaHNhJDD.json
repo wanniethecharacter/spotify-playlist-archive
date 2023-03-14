@@ -1065,6 +1065,32 @@
     },
     {
       "album": {
+        "name": "Karinthol (From \"Rrr\")",
+        "url": "https://open.spotify.com/album/1OIdyZqmKKnFSQqVOm0uSe"
+      },
+      "artists": [
+        {
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        },
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        },
+        {
+          "name": "Maragadhamani",
+          "url": "https://open.spotify.com/artist/1bRcW8SnU3AKrhzxnbdR64"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214389,
+      "name": "Karinthol (From \"Rrr\")",
+      "url": "https://open.spotify.com/track/1AcQmRLLDNAjB6Zi3OgEt4"
+    },
+    {
+      "album": {
         "name": "Kim Kim (From \"Jack N' Jill\")",
         "url": "https://open.spotify.com/album/3EbxbDKT235dRi7Uu4BPFB"
       },

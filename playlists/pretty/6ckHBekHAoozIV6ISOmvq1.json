@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTY2MixiNjY1MGQ2OWZkODJiMzZiMzE5ZWE5OWI0N2I5ZDNiNGJhOTU4YzUw",
+  "snapshot_id": "NTY2Myw1MWFjOGVlZDNkOTMyNTAyMGE1NmM0MjkzNjhkNGZmOGI4NWEzYTY1",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -1049,6 +1049,26 @@
       "url": "https://open.spotify.com/track/6jjsjiIXyeNtktp6KRTIb3"
     },
     {
+      "added_at": "2019-01-04 16:22:42",
+      "album": {
+        "name": "Vocal Music (Medieval) - Walther Von Der Vogelweide / Oswald Von Wolkenstein / Codax (Songs of Women in the Middle Ages)",
+        "url": "https://open.spotify.com/album/3kyB7nrhu9ZVglRxsGclam"
+      },
+      "artists": [
+        {
+          "name": "Martin Codax",
+          "url": "https://open.spotify.com/artist/7Jfor6Kn416bIaffLWodxx"
+        },
+        {
+          "name": "Estampie",
+          "url": "https://open.spotify.com/artist/0VzFYfDDwb79K5TVr5z0JZ"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "Mia yrmana fremos",
+      "url": "https://open.spotify.com/track/540mfIUF3bs0ayeY358REc"
+    },
+    {
       "added_at": "2018-02-09 19:10:59",
       "album": {
         "name": "Dante & Troubadours",
@@ -1075,26 +1095,6 @@
       "duration_ms": 733800,
       "name": "Dejosta'ls breus jorns e'ls loncs sers",
       "url": "https://open.spotify.com/track/7r1UZHc00wyhiZvzmyrZzw"
-    },
-    {
-      "added_at": "2019-01-04 16:22:42",
-      "album": {
-        "name": "Vocal Music (Medieval) - Walther Von Der Vogelweide / Oswald Von Wolkenstein / Codax (Songs of Women in the Middle Ages)",
-        "url": "https://open.spotify.com/album/3kyB7nrhu9ZVglRxsGclam"
-      },
-      "artists": [
-        {
-          "name": "Martin Codax",
-          "url": "https://open.spotify.com/artist/7Jfor6Kn416bIaffLWodxx"
-        },
-        {
-          "name": "Estampie",
-          "url": "https://open.spotify.com/artist/0VzFYfDDwb79K5TVr5z0JZ"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Mia yrmana fremos",
-      "url": "https://open.spotify.com/track/540mfIUF3bs0ayeY358REc"
     },
     {
       "added_at": "2021-05-07 13:32:21",
@@ -2073,6 +2073,26 @@
       "url": "https://open.spotify.com/track/4GeINy8JYsHPofZZR36zyN"
     },
     {
+      "added_at": "2022-12-02 20:12:07",
+      "album": {
+        "name": "Music for the Bentivoglio: Unica and highlights from codex Q 18",
+        "url": "https://open.spotify.com/album/3obytt0n3XcYmk58i42Zdk"
+      },
+      "artists": [
+        {
+          "name": "Antoine Busnois",
+          "url": "https://open.spotify.com/artist/1bAvQk2VaIRTiRhw22y2tX"
+        },
+        {
+          "name": "Speculum Ensemble",
+          "url": "https://open.spotify.com/artist/7w92c0Kget2te77ZQfZNpx"
+        }
+      ],
+      "duration_ms": 617466,
+      "name": "De tous bien plein",
+      "url": "https://open.spotify.com/track/7vcxjNhIQOXN88fDKMWJ8L"
+    },
+    {
       "added_at": "2023-03-03 13:40:45",
       "album": {
         "name": "Istampitte: Danze italiane del Medioevo",
@@ -2111,26 +2131,6 @@
       "duration_ms": 218066,
       "name": "3 Branles de Bourgogne and Branle gay nouveau",
       "url": "https://open.spotify.com/track/5RsY0LMcEpAY89x3gDQKyx"
-    },
-    {
-      "added_at": "2022-12-02 20:12:07",
-      "album": {
-        "name": "Music for the Bentivoglio: Unica and highlights from codex Q 18",
-        "url": "https://open.spotify.com/album/3obytt0n3XcYmk58i42Zdk"
-      },
-      "artists": [
-        {
-          "name": "Antoine Busnois",
-          "url": "https://open.spotify.com/artist/1bAvQk2VaIRTiRhw22y2tX"
-        },
-        {
-          "name": "Speculum Ensemble",
-          "url": "https://open.spotify.com/artist/7w92c0Kget2te77ZQfZNpx"
-        }
-      ],
-      "duration_ms": 617466,
-      "name": "De tous bien plein",
-      "url": "https://open.spotify.com/track/7vcxjNhIQOXN88fDKMWJ8L"
     },
     {
       "added_at": "2018-12-10 16:22:28",
@@ -2249,30 +2249,6 @@
       "url": "https://open.spotify.com/track/4BLP0mzUyEy3C56d3FHPkW"
     },
     {
-      "added_at": "2023-01-20 21:03:50",
-      "album": {
-        "name": "Dufay: Missa Se la face ay pale",
-        "url": "https://open.spotify.com/album/3ZNwGBJXSleyuLltiFs0G7"
-      },
-      "artists": [
-        {
-          "name": "Guillaume Dufay",
-          "url": "https://open.spotify.com/artist/0kLNgrvMXHTm4yWGrfMuLc"
-        },
-        {
-          "name": "Diabolus in Musica",
-          "url": "https://open.spotify.com/artist/2gChbtOwNOifa0aVsBTt6O"
-        },
-        {
-          "name": "Antoine Guerber",
-          "url": "https://open.spotify.com/artist/65FVhhXHH8rOgeeDJQFqSm"
-        }
-      ],
-      "duration_ms": 607000,
-      "name": "Missa Se la face ay pale: III. Gloria",
-      "url": "https://open.spotify.com/track/5XAxrtjlUxGE6nKcu20jrA"
-    },
-    {
       "added_at": "2023-02-03 20:48:01",
       "album": {
         "name": "Moyen-\u00e2ge, chants et musiques du XIIIe (Medieval Music & Songs - Trouv\u00e8res Et Troubadours Du Xiiie Si\u00e8cle)",
@@ -2295,6 +2271,30 @@
       "duration_ms": 209400,
       "name": "Cantigos de Santa Maria: Cantiga 353",
       "url": "https://open.spotify.com/track/7MlPbkTK9kAImft2wYYUXn"
+    },
+    {
+      "added_at": "2023-01-20 21:03:50",
+      "album": {
+        "name": "Dufay: Missa Se la face ay pale",
+        "url": "https://open.spotify.com/album/3ZNwGBJXSleyuLltiFs0G7"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Dufay",
+          "url": "https://open.spotify.com/artist/0kLNgrvMXHTm4yWGrfMuLc"
+        },
+        {
+          "name": "Diabolus in Musica",
+          "url": "https://open.spotify.com/artist/2gChbtOwNOifa0aVsBTt6O"
+        },
+        {
+          "name": "Antoine Guerber",
+          "url": "https://open.spotify.com/artist/65FVhhXHH8rOgeeDJQFqSm"
+        }
+      ],
+      "duration_ms": 607000,
+      "name": "Missa Se la face ay pale: III. Gloria",
+      "url": "https://open.spotify.com/track/5XAxrtjlUxGE6nKcu20jrA"
     },
     {
       "added_at": "2022-07-15 20:19:19",

@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Depeche Mode. ",
-  "num_followers": 71700,
+  "num_followers": 71875,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMDIwYTYxMmQyMjhhNGY2M2FkOTQwMTRjZTBlMzA4NzJk",
+  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMDgyZTQxYTlhYmJhY2NiYTM3YjUyZjYzMzdlMTUzYTY3",
   "tracks": [
     {
       "added_at": "2023-01-25 15:11:28",
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
     },
     {
-      "added_at": "2023-03-13 00:24:14",
+      "added_at": "2023-03-14 00:11:11",
       "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD"
     },
     {
-      "added_at": "2023-03-13 00:24:14",
+      "added_at": "2023-03-14 00:11:11",
       "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
-        "name": "Upstairs At Eric's",
-        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 346800,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
         "name": "Non-Stop Erotic Cabaret",
         "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 323866,
       "name": "Say Hello, Wave Goodbye - 7\" Single Version",
       "url": "https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
+        "name": "Upstairs At Eric's",
+        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 346800,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
     },
     {
       "added_at": "2023-01-25 15:11:28",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
-        "name": "You And Me Both",
-        "url": "https://open.spotify.com/album/2R2ayUdwlcamdEKFJD5BZu"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 269453,
-      "name": "Nobody's Diary",
-      "url": "https://open.spotify.com/track/1qQKLpOEtUJYMSOzxOIfkS"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
         "name": "Fascination!",
         "url": "https://open.spotify.com/album/0esnpjv1cOeVWSYTSY3jRc"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 230373,
       "name": "Mirror Man",
       "url": "https://open.spotify.com/track/52s6Ea6aSZMvPUIH0dSpk4"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
+        "name": "You And Me Both",
+        "url": "https://open.spotify.com/album/2R2ayUdwlcamdEKFJD5BZu"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 269453,
+      "name": "Nobody's Diary",
+      "url": "https://open.spotify.com/track/1qQKLpOEtUJYMSOzxOIfkS"
     },
     {
       "added_at": "2023-01-25 15:11:28",

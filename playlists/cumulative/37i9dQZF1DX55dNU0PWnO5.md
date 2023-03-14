@@ -4,13 +4,13 @@
 
 > Jazzy blips and blops\. Cover: Flying Lotus
 
-301 songs - 18 hr 30 min
+302 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [19](https://open.spotify.com/track/7G37IzJIxkrZFeIBzPqvoH) | [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [COLOR OF NOIZE](https://open.spotify.com/album/4eARmd0GWRsEMrodDDHkug) | 4:57 | 2021-01-29 | 2022-03-26 |
 | [2 Far Gone](https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 5:43 | 2021-01-29 | 2021-12-22 |
-| [2 FUNKY](https://open.spotify.com/track/5YC5hyGD9Mp7GY1Exqufp7) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO) | [2 FUNKY](https://open.spotify.com/album/6qag4GDrLrMCGpTDbN8Aha) | 2:48 | 2022-06-10 |  |
+| [2 FUNKY](https://open.spotify.com/track/5YC5hyGD9Mp7GY1Exqufp7) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO) | [2 FUNKY](https://open.spotify.com/album/6qag4GDrLrMCGpTDbN8Aha) | 2:48 | 2022-06-10 | 2023-03-14 |
 | [37,000 Feet](https://open.spotify.com/track/0ECKs70DzRZ937EgkDs8uU) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P) | [Midnight Snacks vol.1](https://open.spotify.com/album/3u0nEa0WmDG65OzPylGtwK) | 3:10 | 2021-09-24 | 2022-08-02 |
 | [856](https://open.spotify.com/track/4jlFJMEgi8SRPuWywYvBhB) | [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf) | [Freedom Exercise](https://open.spotify.com/album/501assmGyiYAl2u9PGUNEL) | 2:09 | 2021-01-29 | 2022-03-26 |
 | [88' Jason](https://open.spotify.com/track/1gTFeBtNXNU0ibIThvm0xc) | [Marcus Alan Ward](https://open.spotify.com/artist/7vaVHucaokI1K9NDZUqcB2), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [88' Jason](https://open.spotify.com/album/5ouV0Mf6x1mMggYSGGOY4S) | 3:12 | 2022-10-21 | 2023-01-03 |
@@ -79,6 +79,7 @@
 | [Day by Day](https://open.spotify.com/track/0F7PoGjWRPbiafQ8o2qiMe) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u), [Jonathan Renaud](https://open.spotify.com/artist/0v910chHbxloVa5LF9IBrv), [2chill](https://open.spotify.com/artist/5f8S9cIHGRNa8uP3vt3Qsu) | [Day by Day](https://open.spotify.com/album/1sO77Aw0GdV12KubKpeGHw) | 2:10 | 2022-05-27 | 2022-07-29 |
 | [Dazed](https://open.spotify.com/track/02d5NRh9mUGchOfmwHOm4W) | [THREESIXTY](https://open.spotify.com/artist/3uCyergxu3WFt6R1qGe3V5) | [Dazed](https://open.spotify.com/album/2FjNnJa5iOokbI5Ns9simp) | 3:44 | 2022-08-08 | 2023-02-18 |
 | [De Flore Sonos](https://open.spotify.com/track/4H7KeBPS3uoUN0LymB664I) | [phonon](https://open.spotify.com/artist/4CySw3P8BeBPMBr9Rymc8Y) | [De Flore Sonos](https://open.spotify.com/album/1DzXiB37ADb5ABbdegXSBN) | 3:32 | 2021-07-09 | 2022-07-22 |
+| [deep in it](https://open.spotify.com/track/3J2WUEn6oFN8eDPZov7w9I) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141), [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [deep in it](https://open.spotify.com/album/7ElbJht6FB0z3ykuVKEh1L) | 2:34 | 2023-03-14 |  |
 | [Deux](https://open.spotify.com/track/22X6wz63oZcPVHvrknxgkH) | [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86), [Harry Kosminski](https://open.spotify.com/artist/7bCMn3cDvGs8Ua8f2JICZa) | [Sky City Tapes](https://open.spotify.com/album/5hyW8PPTjXW7FJgGPqzEcs) | 1:44 | 2022-05-20 | 2022-07-29 |
 | [Dimitive](https://open.spotify.com/track/7rGhZMJO80BnSgeCsYdP9B) | [Stan van Dijk](https://open.spotify.com/artist/25GV3gaaXXUYzESF1TiNFS) | [Dimitive](https://open.spotify.com/album/5D9SB5fEJjndOPxg2mbKnk) | 2:13 | 2022-12-16 | 2023-02-08 |
 | [Dirty Mariposa](https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Moonlight Love Affair](https://open.spotify.com/album/1AJhYeele3DMImHJ0SzVPp) | 5:24 | 2022-06-24 |  |

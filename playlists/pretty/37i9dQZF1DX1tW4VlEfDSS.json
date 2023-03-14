@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 338970,
+  "num_followers": 339003,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDI0YTdjODk2ZDcwMzc1NGIyNDJmOGI2NTU4NWVkNTI4",
+  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDUzMGE2MjY4ODVlMGQwYTgwNDc0NjIyZjBiZmRkOTBi",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Bourgie Bourgie",
-        "url": "https://open.spotify.com/album/6Gg2rwi5mAlzx1ws0Woxga"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 392812,
-      "name": "Bourgie Bourgie",
-      "url": "https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 265570,
       "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Bourgie Bourgie",
+        "url": "https://open.spotify.com/album/6Gg2rwi5mAlzx1ws0Woxga"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 392812,
+      "name": "Bourgie Bourgie",
+      "url": "https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Come Back",
-        "url": "https://open.spotify.com/album/2TbxuBCoWx2x5gQE6bW44R"
-      },
-      "artists": [
-        {
-          "name": "NIMMO",
-          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Come Back",
-      "url": "https://open.spotify.com/track/0jnfcPhR4K98OgIwih63Wk"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Love the Way (Happiness)",
         "url": "https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 215243,
       "name": "Love the Way (Happiness)",
       "url": "https://open.spotify.com/track/1okhlrAG0YsKTx9PpPprXv"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/2TbxuBCoWx2x5gQE6bW44R"
+      },
+      "artists": [
+        {
+          "name": "NIMMO",
+          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/0jnfcPhR4K98OgIwih63Wk"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/1fzuUk3cUSc8OZTp3C7GZa"
-      },
-      "artists": [
-        {
-          "name": "Tom Everett",
-          "url": "https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK"
-        }
-      ],
-      "duration_ms": 206447,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/6T8m7PxHhJb25OZmgWXSej"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Rescue Me",
         "url": "https://open.spotify.com/album/6ltVvOxJSn1nAkeViLkOlo"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 147970,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/4Np57R3dz1W2A9WBbwuHpY"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/1fzuUk3cUSc8OZTp3C7GZa"
+      },
+      "artists": [
+        {
+          "name": "Tom Everett",
+          "url": "https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK"
+        }
+      ],
+      "duration_ms": 206447,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/6T8m7PxHhJb25OZmgWXSej"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2wONkDvCwXWSIw4SGz36pZ"
+      },
+      "artists": [
+        {
+          "name": "Aevion",
+          "url": "https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg"
+        }
+      ],
+      "duration_ms": 250862,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5s3UTdgdjBnkRKmPeBEnyk"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 165000,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2wONkDvCwXWSIw4SGz36pZ"
-      },
-      "artists": [
-        {
-          "name": "Aevion",
-          "url": "https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg"
-        }
-      ],
-      "duration_ms": 250862,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/5s3UTdgdjBnkRKmPeBEnyk"
     }
   ],
   "unique_name": "Groove Theory",

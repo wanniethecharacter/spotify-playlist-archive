@@ -1,6 +1,6 @@
 {
   "description": "New music from popular Hindi artists. Cover- Kanishk Seth",
-  "num_followers": 19679,
+  "num_followers": 19713,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
@@ -154,6 +154,10 @@
         {
           "name": "Madhur Sharma",
           "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        },
+        {
+          "name": "Chirag Soni",
+          "url": "https://open.spotify.com/artist/3UMC3IINcoIuI0GeNb6Jm3"
         }
       ],
       "duration_ms": 194900,

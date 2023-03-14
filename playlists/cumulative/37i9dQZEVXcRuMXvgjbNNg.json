@@ -342,7 +342,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 190124,
       "name": "A Hurt Like That",
       "url": "https://open.spotify.com/track/5ZexyOqEsTpebhYXOl1n89"
@@ -2748,7 +2748,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 217322,
       "name": "Bugs",
       "url": "https://open.spotify.com/track/4hqzAvAbP5ulItbPPdnfuj"
@@ -2966,6 +2966,24 @@
       "duration_ms": 166614,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/2JZfijrU0XZaftggWXWToy"
+    },
+    {
+      "album": {
+        "name": "Pontiac",
+        "url": "https://open.spotify.com/album/57h6E4g2dPKQVVyTk8MJIP"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237413,
+      "name": "Can't Look Back",
+      "url": "https://open.spotify.com/track/2I8viySl7skcGFCR7nWZCb"
     },
     {
       "album": {
@@ -3634,7 +3652,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 283133,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/4bHMMh7HaKWDcQ8qUzhJb9"
@@ -4154,7 +4172,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 263080,
       "name": "Crying on the Dancefloor",
       "url": "https://open.spotify.com/track/34bkeltN0CGAKzj4DRG4sX"
@@ -4338,7 +4356,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 211782,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/3um7PdgFORPl7JODlbg2Pd"
@@ -4552,6 +4570,28 @@
       "duration_ms": 204895,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/5TEdUjSdav52z7mABDtzHy"
+    },
+    {
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "Lydia Cole",
+          "url": "https://open.spotify.com/artist/64zfutbG9lnFEdzPxGIvpq"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194922,
+      "name": "Dearest (feat. Lydia Cole)",
+      "url": "https://open.spotify.com/track/3RFj986WYsjgYBgzrtWARi"
     },
     {
       "album": {
@@ -5932,7 +5972,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 193948,
       "name": "Favorite Place (feat. The Band CAMINO)",
       "url": "https://open.spotify.com/track/524kbqs9nMy4TT3JFQHewT"
@@ -6264,7 +6304,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 239102,
       "name": "Flight",
       "url": "https://open.spotify.com/track/19ymPOxpTMo9Ghfca0gxQ0"
@@ -6462,7 +6502,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 255586,
       "name": "Forest",
       "url": "https://open.spotify.com/track/7vEdB5iMHeDapfu9kzqquJ"
@@ -6776,7 +6816,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 233969,
       "name": "Garden Song",
       "url": "https://open.spotify.com/track/7GYrwtOThIk6Zc11yJwEhh"
@@ -6848,7 +6888,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 279239,
       "name": "Girl in Calico Live with Skylight City String Quartet",
       "url": "https://open.spotify.com/track/7jdbJov6bzkO3Uvp8PfUA5"
@@ -7126,7 +7166,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 177746,
       "name": "Gone",
       "url": "https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh"
@@ -7768,7 +7808,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 267066,
       "name": "HEARTSONG",
       "url": "https://open.spotify.com/track/1ElhhIQkuuzoLG4S5hp067"
@@ -8320,7 +8360,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 189264,
       "name": "Home",
       "url": "https://open.spotify.com/track/1lIUrOa83EFonIiC5a5ffO"
@@ -8500,7 +8540,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 201125,
       "name": "honey, i just",
       "url": "https://open.spotify.com/track/0sUZhfHKzL7mdSNdowawpW"
@@ -9552,7 +9592,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 222194,
       "name": "If I Can Be Honest",
       "url": "https://open.spotify.com/track/29JmpCDpzpo8g7M0ZsUBJX"
@@ -10285,6 +10325,24 @@
     },
     {
       "album": {
+        "name": "Baptized Imagination",
+        "url": "https://open.spotify.com/album/1fbxmuiX3FXjhMzwJGYwQE"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256066,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/6I9B9nC7FbNVSAIjJzsphX"
+    },
+    {
+      "album": {
         "name": "Juggaar",
         "url": "https://open.spotify.com/album/6ET3bvBW3nlcQcQe0KKa5o"
       },
@@ -10612,7 +10670,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 282627,
       "name": "Kyra - The Midnight Remix",
       "url": "https://open.spotify.com/track/28JgeXZxmTfzsfYLGo3e5G"
@@ -11512,7 +11570,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 221632,
       "name": "Look At Those Clouds",
       "url": "https://open.spotify.com/track/2GFsGAnVE0UJ6SAvZJp4av"
@@ -11656,7 +11714,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Lost at Sea",
       "url": "https://open.spotify.com/track/59crDqEUjV0UEI9QVlQn2B"
@@ -11678,7 +11736,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 218987,
       "name": "Lost in Translation",
       "url": "https://open.spotify.com/track/5gtWojaNb3Ty0iekU2gcze"
@@ -12444,7 +12502,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 232056,
       "name": "Maple Whisky",
       "url": "https://open.spotify.com/track/64DZ2i9qbyUpjuh67hOU5t"
@@ -13152,7 +13210,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 216533,
       "name": "Move Me",
       "url": "https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi"
@@ -14238,7 +14296,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 278573,
       "name": "On Your Knees",
       "url": "https://open.spotify.com/track/78D5fgtoA82PDciza9AZQK"
@@ -14506,7 +14564,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 308373,
       "name": "Ouroboros",
       "url": "https://open.spotify.com/track/4rR9QNdMpQR7TMLs91nhBO"
@@ -16576,7 +16634,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 300000,
       "name": "Silent Movies",
       "url": "https://open.spotify.com/track/1slkuQEbLuWdOeTFNrPAKA"
@@ -16652,7 +16710,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 246461,
       "name": "sink our love now (work tape)",
       "url": "https://open.spotify.com/track/1FNvmZLzmMR2Ozjzzul0iQ"
@@ -17158,7 +17216,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 184253,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/3ph7CkhxkT7rduXJrm1jto"
@@ -17176,7 +17234,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 241120,
       "name": "Something Tells Me",
       "url": "https://open.spotify.com/track/6yWn9RKfL1il1b4hFe6H1i"
@@ -17410,7 +17468,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 242573,
       "name": "Starjumper",
       "url": "https://open.spotify.com/track/0jAlxwXcjKNaFKoOiBCdiW"
@@ -18602,7 +18660,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 354977,
       "name": "Tennessee",
       "url": "https://open.spotify.com/track/1NuRdepUMCGNgZJoi1R9Ov"
@@ -20668,7 +20726,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 189938,
       "name": "what are you afraid of (work tape)",
       "url": "https://open.spotify.com/track/2mfoVCqMqnUPR8K0Fq8Cs4"
@@ -21484,7 +21542,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 221502,
       "name": "You",
       "url": "https://open.spotify.com/track/5532lQKkhAZUyUKOBA9yrB"

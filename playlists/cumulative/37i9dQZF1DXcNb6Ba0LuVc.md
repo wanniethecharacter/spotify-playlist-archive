@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-410 songs - 15 hr 54 min
+411 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Innerspace](https://open.spotify.com/track/7nWqc6CGV8ln1ouTtCtqZ4) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Innerspace](https://open.spotify.com/album/0PBeF8qYooUOWdT27GufRK) | 2:43 | 2021-11-11 | 2022-06-03 |
 | [Inspector Fidget](https://open.spotify.com/track/6qXTQx6WNF4bL8OUqltK5T) | [Monster Guy](https://open.spotify.com/artist/6Aizv6tVH9fFMbEbS4baLY) | [Dangerous Eyes](https://open.spotify.com/album/6fNRme6o5ByiWKfVFIERFz) | 2:07 | 2021-11-11 | 2022-06-03 |
 | [Isabellanova](https://open.spotify.com/track/0svNNQKUZNpJdY4qKEohug) | [Milken](https://open.spotify.com/artist/5fBsJKisD0865dYGu3tSpW) | [Isabellanova](https://open.spotify.com/album/17VYQwX7wBKu2K9btgCpYP) | 2:21 | 2021-11-11 | 2022-05-20 |
+| [It's in the bag](https://open.spotify.com/track/08WZNyUHHNTRPC10hFGonN) | [Gizmo](https://open.spotify.com/artist/5yGSDOiFgai6RwHW3DAtW0) | [It's In The Bag](https://open.spotify.com/album/2CeR5FEBHwdktygxjcMzHg) | 2:24 | 2023-03-13 |  |
 | [Jazz Bars](https://open.spotify.com/track/6KEA0AhFQUafaUwQtw3VkR) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Crackle & Chop](https://open.spotify.com/album/4pTfyCntNJFtf5tmgOwjki) | 2:31 | 2022-02-04 |  |
 | [Jazz for my soul](https://open.spotify.com/track/4MD7x2aG2Tcmx6fXDhC6pI) | [Toe](https://open.spotify.com/artist/4jIHrPnViq1dh4NvTRPpIQ) | [Jazz for my soul](https://open.spotify.com/album/1LtgxQP2IPWPl607ZsKayr) | 2:16 | 2022-09-02 |  |
 | [Jazzy Afternoon](https://open.spotify.com/track/4zT7o5DXTHqujNoe4tX1y2) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [Selected Lifestyle Poems](https://open.spotify.com/album/70q5SaiI4N2lhAlaQB6MSL) | 1:46 | 2021-11-11 | 2022-05-27 |

@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-340 songs - 15 hr 46 min
+342 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [WAY](https://open.spotify.com/track/3DIqWBdLAGx7CLqAfypQcW) | [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR), [Yvng Tavo](https://open.spotify.com/artist/0cNu3VVuE76EYfID6I9v1H) | [WAY](https://open.spotify.com/album/3t3lV0abO9yYZgw9O1YFws) | 2:19 | 2022-04-22 | 2022-05-27 |
 | [Wesley](https://open.spotify.com/track/5yACaHvqRm1tCL5RsaIs9w) | [Velli Roze](https://open.spotify.com/artist/1tRALjpw3fKgtjhzkcjqLm) | [Upscencion](https://open.spotify.com/album/0glQ55ZkBXkyJIUxqx38a5) | 4:23 | 2021-09-10 | 2022-10-29 |
 | [Westcoast](https://open.spotify.com/track/1W3vO8ruXxFBdBBkfXBRTb) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Westcoast](https://open.spotify.com/album/5QOKXie53iPkrIHLUayNUZ) | 2:33 | 2022-07-08 |  |
+| [when in darkness](https://open.spotify.com/track/5CAqoK0YEhIBLJjzIt5XNP) | [Ex0Core](https://open.spotify.com/artist/4aWZJYo7Fm8fgueODIJoZk) | [learn to relearn](https://open.spotify.com/album/3YNYU0TIwlYDAMDJEH1yjL) | 2:54 | 2023-03-13 |  |
 | [WhirligiG](https://open.spotify.com/track/04DyIqLxOCBoJz6TLniVOc) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Shell Games](https://open.spotify.com/album/1QJkOlBuUBIcs5mE4ePhOo) | 2:39 | 2021-09-10 |  |
 | [Whirlpool](https://open.spotify.com/track/3aZfUnI78dyExxPFl2Inux) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Whirlpool](https://open.spotify.com/album/1JuUBeuiFGZuNF3eV3429n) | 2:26 | 2021-08-26 | 2022-05-27 |
 | [Whis](https://open.spotify.com/track/1KswaDddiXqRnneChbrOwL) | [Charles M](https://open.spotify.com/artist/20rOuJzUYSNKfaWM69IZb3) | [Hunter Z](https://open.spotify.com/album/6w4N0qQOoZUqg0xB6Swlbg) | 2:00 | 2021-06-18 | 2022-05-27 |
@@ -347,6 +348,7 @@
 | [Write Off](https://open.spotify.com/track/621MnT5Wi73X0Gp2lmwZ0M) | [Charles Hewits](https://open.spotify.com/artist/2ZvZcOt4Ybj9aTI4FZ1amd) | [Write Off](https://open.spotify.com/album/3pgXKSIeRbS7RLbeLnubHd) | 2:44 | 2021-11-10 |  |
 | [Yes Man](https://open.spotify.com/track/00QiT6wUZrnCkgUvP9xgh9) | [Kripto](https://open.spotify.com/artist/0VdlvJNWbvKfguCf7tdgop) | [Yes Man](https://open.spotify.com/album/3oEE9nG6uW2Jfqobx3iZq9) | 2:10 | 2022-05-27 |  |
 | [Yoko](https://open.spotify.com/track/2idiYkZiNtzFm8hwsY7lfT) | [Neon Lighthouse](https://open.spotify.com/artist/3EwvgZOFqqGPO7Xfgw4wcg) | [Brandy & Apple Juice](https://open.spotify.com/album/42YfWVfh7I3fuUvvlQGN99) | 3:20 | 2021-11-10 |  |
+| [Zoey Badass](https://open.spotify.com/track/7shCeTkY9mACp3Vdp0H14V) | [ormus](https://open.spotify.com/artist/2pESQKhDJ2ajViMHjehRmG) | [Zoey Badass](https://open.spotify.com/album/3VPsTbmUYkoizmoeYIc5fz) | 3:01 | 2023-03-13 |  |
 | [ᴅ ʀ ᴇ ᴀ ᴍ ᴡ ᴏ ʀ ʟ ᴅ \- slowed](https://open.spotify.com/track/1U7FKRbwfn2nORdoZ8mSBt) | [CRSHR](https://open.spotify.com/artist/1zL2uwpnfFZh3tacDP3d3O) | [ᴅ ʀ ᴇ ᴀ ᴍ ᴡ ᴏ ʀ ʟ ᴅ \(slowed\)](https://open.spotify.com/album/0QchjADdH00FWuvCDK5VWa) | 4:20 | 2021-04-26\* | 2022-04-22 |
 
 \*This playlist was first scraped on 2021-04-26. Prior content cannot be recovered.

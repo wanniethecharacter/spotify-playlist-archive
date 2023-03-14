@@ -999,6 +999,28 @@
     },
     {
       "album": {
+        "name": "TheWitch&TheWizard",
+        "url": "https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        },
+        {
+          "name": "GREAF",
+          "url": "https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114573,
+      "name": "BlackDynamite",
+      "url": "https://open.spotify.com/track/4UfuPARha6t2tkMRjaXAom"
+    },
+    {
+      "album": {
         "name": "DOG BOY",
         "url": "https://open.spotify.com/album/5RongMpRt5jcdZ7gpAKtWn"
       },
@@ -1726,7 +1748,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 109090,
       "name": "CHARLOTTE'S WEB",
       "url": "https://open.spotify.com/track/5reFpkDbm6k57Oqp6oWVby"

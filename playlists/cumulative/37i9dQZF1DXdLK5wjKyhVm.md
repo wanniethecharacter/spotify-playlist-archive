@@ -4,7 +4,7 @@
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-285 songs - 10 hr 47 min
+287 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Everything is fine](https://open.spotify.com/track/6nxxCt2DUm79YRelYPIldK) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Everything is fine](https://open.spotify.com/album/1T7j3NMZ508N0Py7Hcgsqh) | 2:36 | 2022-11-11 |  |
 | [Excursion](https://open.spotify.com/track/73S7laK3MRdZDS8EdODozs) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Excursion](https://open.spotify.com/album/1cOXShRfyla6aEJ4hniagX) | 2:23 | 2022-12-16 |  |
 | [Fallen Leaves](https://open.spotify.com/track/7IBc2QkYuuaTP52Vd2jhAt) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Cascades](https://open.spotify.com/album/1soCyDGfB9f7fX46z5dPk2) | 2:18 | 2022-09-16 | 2022-10-29 |
+| [Feel like that](https://open.spotify.com/track/1wmyRW1C7MIFJR7Wb8xXHM) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Feel like that](https://open.spotify.com/album/0LeeMJ2aOUhgEf0cFDi13N) | 2:07 | 2023-03-13 |  |
 | [Feelin' Good Tonight](https://open.spotify.com/track/4ZV3kIHh2khLBZSZKlezQI) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Feelin' Good Tonight](https://open.spotify.com/album/0YvDRoFESOgqusmhwpAdfV) | 2:52 | 2022-09-09 |  |
 | [Fiction](https://open.spotify.com/track/6uPZ5LeOnbced7wW3XF7rA) | [Shy Cope](https://open.spotify.com/artist/1WVrUGgqeU94YjCKCbAH4y) | [Fiction](https://open.spotify.com/album/5NPLNWTEVO9L3WRGcjPUwu) | 2:18 | 2022-12-02 |  |
 | [Fika](https://open.spotify.com/track/32gy3AZgAjxHUUpVzA42YD) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [Fika](https://open.spotify.com/album/3URxwmB9mC3IaONUtIEhvW) | 1:51 | 2022-09-09 |  |
@@ -134,6 +135,7 @@
 | [kambina](https://open.spotify.com/track/1aw9yqJMXtjOxqzuos4lAW) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [kambina](https://open.spotify.com/album/72rOi5YJYzQzX7ZI4ikN9Y) | 1:45 | 2022-09-30 |  |
 | [Karklö](https://open.spotify.com/track/1sQXPggcslG3Yf2wmCxJHk) | [Emotional thistle](https://open.spotify.com/artist/308rengQaTapxWBn0scsQk) | [Karklö](https://open.spotify.com/album/5JqDLYV1Dn7Tlsx720pFxd) | 3:15 | 2022-09-09 |  |
 | [KarmaKush](https://open.spotify.com/track/7v7UVqThk8JYANgzsssMWG) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [KarmaKush](https://open.spotify.com/album/7y7YKK3uAABbE1hp9ctEJs) | 2:15 | 2022-09-09 | 2023-01-07 |
+| [Keep](https://open.spotify.com/track/4ynHXPhG77tZBm7bFkIsQG) | [Home Cook](https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Keep](https://open.spotify.com/album/0owKbH8UdBgTavz8eQqmU7) | 2:09 | 2023-03-13 |  |
 | [keep calling](https://open.spotify.com/track/2vhWpSNBUv5xVXnzCgFddc) | [leonoel](https://open.spotify.com/artist/1kGDwOMmp0ZnSQLP74MHfo), [Adam Panek](https://open.spotify.com/artist/4irDpwU4JhKKCu4r1yRbR9), [Zen Dojo](https://open.spotify.com/artist/4otOZlWGnscb6H3hsgW99p) | [keep calling](https://open.spotify.com/album/5I2Xv3IXCmyy8kInDPRgLS) | 2:08 | 2022-10-28 |  |
 | [Kigali](https://open.spotify.com/track/1lfLoX6ua1LTHYDwbH1u0a) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [Kigali](https://open.spotify.com/album/0E1Lk9Qp7N2hm4ihBCgjLT) | 2:12 | 2022-09-09 |  |
 | [Landing](https://open.spotify.com/track/6PvjEMUp5hfunQCAmakT6v) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC), [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Landing](https://open.spotify.com/album/0e6UefvoUcVPvyhbD5TWOd) | 2:36 | 2022-11-18 |  |

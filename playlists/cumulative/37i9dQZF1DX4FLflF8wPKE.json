@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "BORDERS",
+        "url": "https://open.spotify.com/album/7rKxm5ZbTSVErOoJs8K40C"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179301,
+      "name": "BORDERS",
+      "url": "https://open.spotify.com/track/7kd29hQliuo3wqBZJfZj1F"
+    },
+    {
+      "album": {
         "name": "Debussy: Bruy\u00e8res (Home Session)",
         "url": "https://open.spotify.com/album/4BXFAXaREZ96i733A132um"
       },
@@ -462,6 +480,46 @@
       "duration_ms": 204520,
       "name": "Cello Sonata in G Minor, Op. 65: III. Largo",
       "url": "https://open.spotify.com/track/3zrcDZ9hPNkZuq20pxPb9o"
+    },
+    {
+      "album": {
+        "name": "Circle",
+        "url": "https://open.spotify.com/album/3GQkOHbOut7bvOsWSWO1Fc"
+      },
+      "artists": [
+        {
+          "name": "Phil France",
+          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/44ZvVLd2hl0h9RieOZ0YMB"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1E8FHGmqPhdiUjUhsECum0"
+      },
+      "artists": [
+        {
+          "name": "Wilson Trouv\u00e9",
+          "url": "https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E"
+        },
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111429,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7597u2WnODjeid70WaYxTT"
     },
     {
       "album": {
@@ -1387,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/5SlfPOZfk4Tc339US9TKOX"
+      },
+      "artists": [
+        {
+          "name": "GUIDO",
+          "url": "https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186889,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/3yvKMfTf8vmUGm1tpJhl6k"
+    },
+    {
+      "album": {
         "name": "A Hundred Years of British Piano Miniatures",
         "url": "https://open.spotify.com/album/0PwC5fdWWy7N6uZZyrEkiy"
       },
@@ -1735,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "Pure (Ride the World)",
+        "url": "https://open.spotify.com/album/1txIFT3asaSKUN6aF9cUxR"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198187,
+      "name": "Pure (Ride the World)",
+      "url": "https://open.spotify.com/track/1fSXVjUJLokyDRVbBrVVVR"
+    },
+    {
+      "album": {
         "name": "Ravel: Complete Works for Solo Piano",
         "url": "https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM"
       },
@@ -1865,6 +1959,28 @@
     },
     {
       "album": {
+        "name": "Wandering Mind",
+        "url": "https://open.spotify.com/album/5xdnfDa5waDfIgSu7M6KGF"
+      },
+      "artists": [
+        {
+          "name": "We Dream of Eden",
+          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
+        },
+        {
+          "name": "Jonathan Warman",
+          "url": "https://open.spotify.com/artist/4rOuVyfJluPW9tHKjL2FWf"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199624,
+      "name": "Sauntering Dream",
+      "url": "https://open.spotify.com/track/0c2FezsbQQHPFWgtlyGACF"
+    },
+    {
+      "album": {
         "name": "Schumann & Schubert - Transcriptions for Clarinet & Harp",
         "url": "https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk"
       },
@@ -1932,6 +2048,24 @@
       "duration_ms": 236000,
       "name": "Slaap",
       "url": "https://open.spotify.com/track/1yKNJZeDJMP9iaKXAQQm6H"
+    },
+    {
+      "album": {
+        "name": "Something from Nothing",
+        "url": "https://open.spotify.com/album/6COdAycioBpRvQYOen0kl5"
+      },
+      "artists": [
+        {
+          "name": "Pieter de Graaf",
+          "url": "https://open.spotify.com/artist/387mxb1p13O8OdJ6r8pc2q"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235289,
+      "name": "Something from Nothing",
+      "url": "https://open.spotify.com/track/78fOkzXOLDV6cXLY3QgIuA"
     },
     {
       "album": {
@@ -2156,6 +2290,46 @@
       "duration_ms": 256146,
       "name": "The Hours: An Unwelcome Friend (From \"The Hours\")",
       "url": "https://open.spotify.com/track/2GnYCy70I8cR4oEA2wsSDx"
+    },
+    {
+      "album": {
+        "name": "Rarities - Quartets",
+        "url": "https://open.spotify.com/album/3swTCdwjqX6zpBHUtpJDgB"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        },
+        {
+          "name": "Scoring Berlin",
+          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153104,
+      "name": "Venerable Dilemma",
+      "url": "https://open.spotify.com/track/7LcLD9Mb1lHmkhMMfB3QXT"
+    },
+    {
+      "album": {
+        "name": "Violet Sunset",
+        "url": "https://open.spotify.com/album/3Kpm60WSvlii37ntvhsGdr"
+      },
+      "artists": [
+        {
+          "name": "Arnold Kasar",
+          "url": "https://open.spotify.com/artist/700im8kgUAWwcvUOAqrTWm"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253140,
+      "name": "Violet Sunset",
+      "url": "https://open.spotify.com/track/1QvYfNXdbMTD9UJHJa7ulN"
     },
     {
       "album": {

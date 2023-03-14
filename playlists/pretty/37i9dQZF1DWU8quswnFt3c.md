@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Co\-curated by a number of our ambassadors for International Women’s Day\. Cover: Jamala.
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,465 likes - 81 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,449 likes - 81 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 57 | [SnOWfLAkE](https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW) | [ANNABELLE](https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm) | [KIDNAP ME PLS](https://open.spotify.com/album/7gR7TjkbGXEPhQMLnqyuLs) | 2:42 |
 | 58 | [Got You](https://open.spotify.com/track/26EvVb7HxLt5fVXtNRzUEw) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Amyl and The Sniffers](https://open.spotify.com/album/5d5j7Qr9OYZNFWy5fmSmLo) | 2:18 |
 | 59 | [Ladies First](https://open.spotify.com/track/76eqlAukVuAvxovEbCK3uh) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu) | [All Hail the Queen](https://open.spotify.com/album/6Agl4DVuihiDPuxuN1L8Jv) | 3:58 |
-| 60 | [Rulett](https://open.spotify.com/track/1Oe6yPVl5KgB14ZLssTvJq) | [OHNODY](https://open.spotify.com/artist/3NzgQIuDyjcGAFns3Tc3tS) | [Rulett](https://open.spotify.com/album/4CArdIZNMXA0M8f2moYb50) | 3:15 |
-| 61 | [Everything Is Good](https://open.spotify.com/track/28Wapmcb6WZhA3xnWdZYVb) | [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [Halluzinationen](https://open.spotify.com/album/1bPxiRQoUu66qWvEaOBg9i) | 3:00 |
+| 60 | [Everything Is Good](https://open.spotify.com/track/28Wapmcb6WZhA3xnWdZYVb) | [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [Halluzinationen](https://open.spotify.com/album/1bPxiRQoUu66qWvEaOBg9i) | 3:00 |
+| 61 | [Rulett](https://open.spotify.com/track/1Oe6yPVl5KgB14ZLssTvJq) | [OHNODY](https://open.spotify.com/artist/3NzgQIuDyjcGAFns3Tc3tS) | [Rulett](https://open.spotify.com/album/4CArdIZNMXA0M8f2moYb50) | 3:15 |
 | 62 | [as long as you're there](https://open.spotify.com/track/0HfiC0BALNXtrml73ouCf4) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [as long as you're there](https://open.spotify.com/album/4ZnLdPupZ4uDFklJ4nOnig) | 3:27 |
 | 63 | [Runaway Blues](https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:26 |
 | 64 | [Paracas Cavernas](https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Paracas Cavernas](https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk) | 4:28 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 70 | [Teenager](https://open.spotify.com/track/2bmq7wwgtGVPPJ0vYpjcXq) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [World Wide Pop](https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu) | 2:59 |
 | 71 | [Tangise Sarangan](https://open.spotify.com/track/2NjOl7W9zT3ZnyUFsEyrmU) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Tangise Sarangan](https://open.spotify.com/album/70BN1abiYV64ksDeUF0zDB) | 6:55 |
 | 72 | [Roshe](https://open.spotify.com/track/4Ar7mEFWCQVg1keCZfGtqL) | [Zeb Bangash](https://open.spotify.com/artist/0QuAJhN4N4LgXtdU3yUS24) | [Roshe](https://open.spotify.com/album/6IcI3XoZIkJvJlTR7RQ3Ch) | 7:52 |
-| 73 | [Yokluğunun Gerçeği](https://open.spotify.com/track/1JChkr6F2KvGzddhWNIR4Y) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Yokluğunun Gerçeği](https://open.spotify.com/album/4LzORgKHZ3u3NS0jYZYxOS) | 2:57 |
-| 74 | [Babul Teri Galliyaan](https://open.spotify.com/track/6v8zxfQJihReMngblfEiZZ) | [Bhoomi Trivedi](https://open.spotify.com/artist/16IWQKGP5XiiKxalXZuIMZ), [Harshit Saxena](https://open.spotify.com/artist/4auibajZua9Ld8sPMOmPYc) | [Babul Teri Galliyaan](https://open.spotify.com/album/6rmibXRijYIvOTmdezma9n) | 5:09 |
+| 73 | [Babul Teri Galliyaan](https://open.spotify.com/track/6v8zxfQJihReMngblfEiZZ) | [Bhoomi Trivedi](https://open.spotify.com/artist/16IWQKGP5XiiKxalXZuIMZ), [Harshit Saxena](https://open.spotify.com/artist/4auibajZua9Ld8sPMOmPYc) | [Babul Teri Galliyaan](https://open.spotify.com/album/6rmibXRijYIvOTmdezma9n) | 5:09 |
+| 74 | [Yokluğunun Gerçeği](https://open.spotify.com/track/1JChkr6F2KvGzddhWNIR4Y) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Yokluğunun Gerçeği](https://open.spotify.com/album/4LzORgKHZ3u3NS0jYZYxOS) | 2:57 |
 | 75 | [Hola Impostora](https://open.spotify.com/track/5MdDNCg76PKSzrKeKI68wf) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Hola Impostora](https://open.spotify.com/album/1CuamEchzUcvdeVYyiioSt) | 2:40 |
 | 76 | [Solos](https://open.spotify.com/track/6wbq1d4rH4JgOpesSVofCQ) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Solos](https://open.spotify.com/album/5xRA95jI1g2qR8xTmlcN6D) | 3:34 |
 | 77 | [لا لا يالخيزرانه](https://open.spotify.com/track/4ZBUuvMtpGqiqF18lqeeIB) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [لا لا يالخيزرانه](https://open.spotify.com/album/5kfATHTrJ77l3NVCQPqK8q) | 3:36 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 80 | [Dasht\-e\-Tanhai](https://open.spotify.com/track/0zSNSr1NVD2iwOwfazpGdT) | [Tina Sani](https://open.spotify.com/artist/4sNVLsdQvZ6RI5Y3C6Yr3B) | [Anokha Ladla & Other TV Hits](https://open.spotify.com/album/6Jx2WehFCZT7aleVBX1Txh) | 5:07 |
 | 81 | [¿Y Tú Qué Esperas?](https://open.spotify.com/track/3KtD9UUoMQx5K2tLmXnNSQ) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [¿Y Tú Qué Esperas?](https://open.spotify.com/album/75eQDaOHwg0zCmZwN9koDI) | 3:20 |
 
-Snapshot ID: `MTY3ODI2ODA0MywwMDAwMDAwMGEwMzI4NThmZjQ3YzhjYmM5OGJmNmI3M2MzMGVmNWI0`
+Snapshot ID: `MTY3ODI2ODA0MywwMDAwMDAwMDcxZmNiZTI0NDc1N2ZiYTQzOWYyZTg1YTkwNDM0OWQ4`

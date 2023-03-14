@@ -2,7 +2,7 @@
 
 ### [In the Name of the Blues: Marc Broussard Takeover](https://open.spotify.com/playlist/37i9dQZF1DXcnkReojaCnV)
 
-> Marc Broussard is taking over to share tracks of her new album, alongside current blues favorites.
+> Marc Broussard is taking over to share tracks of his new album, alongside current blues favorites.
 
 139 songs - 9 hr 59 min
 

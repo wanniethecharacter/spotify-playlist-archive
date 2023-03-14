@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Karina Daza\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,125 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,128 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 25 | [Tranquilita Quieta](https://open.spotify.com/track/1SzYWgwf3898EvxcCvl8Sr) | [Dalizz](https://open.spotify.com/artist/4wNPkDno84vmJuPwfVzhwc) | [Tranquilita Quieta](https://open.spotify.com/album/7nNcFmwj1G8O9cWyP0CRNq) | 2:08 |
 | 26 | [Shorty 2](https://open.spotify.com/track/4PxNkl09m4T65wW7qqPh6J) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki), [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws) | [Shorty 2](https://open.spotify.com/album/1YVcXIfifU15sAd7fIr7Dt) | 3:23 |
 | 27 | [Quererte Igual](https://open.spotify.com/track/2CSptzE2Sh7l0V5O6e8RFw) | [Paola Guanche](https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G) | [Quererte Igual](https://open.spotify.com/album/3RxtjXBIiWqCgtE9DE7VHe) | 2:50 |
-| 28 | [Noche No Te Vayas](https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Noche No Te Vayas](https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8) | 2:50 |
-| 29 | [soñar contigo](https://open.spotify.com/track/1OKV4QvY9t4uQFG4hFtG4e) | [Azel](https://open.spotify.com/artist/7jJ3YJxEOavjy2lvcHyPPa), [Divase](https://open.spotify.com/artist/4vjRyqRrNl49xRnCyvkgdq) | [soñar contigo](https://open.spotify.com/album/7FoxzhMx1BZlJG4lb1uL9x) | 2:55 |
+| 28 | [soñar contigo](https://open.spotify.com/track/1OKV4QvY9t4uQFG4hFtG4e) | [Azel](https://open.spotify.com/artist/7jJ3YJxEOavjy2lvcHyPPa), [Divase](https://open.spotify.com/artist/4vjRyqRrNl49xRnCyvkgdq) | [soñar contigo](https://open.spotify.com/album/7FoxzhMx1BZlJG4lb1uL9x) | 2:55 |
+| 29 | [Noche No Te Vayas](https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Noche No Te Vayas](https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8) | 2:50 |
 | 30 | [TQD](https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [TQD](https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA) | 3:20 |
-| 31 | [Hola Qué Tal](https://open.spotify.com/track/3ne3ikSjTbCBENG8CoT9ge) | [El Grupillo](https://open.spotify.com/artist/19HmVwfeIXS6ZcFv4FVIeW) | [Hola Qué Tal](https://open.spotify.com/album/3sKiAfMEgSDuDp0oioXjXp) | 3:31 |
-| 32 | [Bubalu](https://open.spotify.com/track/1gtyJiiPwLQin53n7BKjMC) | [Ryhan](https://open.spotify.com/artist/7ybeozC8yTsxkDEoCqoBIB) | [EXOTIK](https://open.spotify.com/album/3iJg6qhysMNVTnACGMs57R) | 3:21 |
-| 33 | [Luna \- Versión Acústica](https://open.spotify.com/track/3Ev1bShzfAfll36Sg3uUBi) | [Mireia De La Torre](https://open.spotify.com/artist/79hHqOo4tkldFLWZLwF0tG) | [Luna Rota](https://open.spotify.com/album/4Qt9PFlNzo9e6oXs5LtbT5) | 2:31 |
-| 34 | [CORAZON DE NIEVE](https://open.spotify.com/track/6jKdi3HZuPTpr8BPap6D2b) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [SINCERAMENTE, BEBE](https://open.spotify.com/album/5pRyuC3CDcSZkJbg3KUFut) | 2:48 |
+| 31 | [Bubalu](https://open.spotify.com/track/1gtyJiiPwLQin53n7BKjMC) | [Ryhan](https://open.spotify.com/artist/7ybeozC8yTsxkDEoCqoBIB) | [EXOTIK](https://open.spotify.com/album/3iJg6qhysMNVTnACGMs57R) | 3:21 |
+| 32 | [Hola Qué Tal](https://open.spotify.com/track/3ne3ikSjTbCBENG8CoT9ge) | [El Grupillo](https://open.spotify.com/artist/19HmVwfeIXS6ZcFv4FVIeW) | [Hola Qué Tal](https://open.spotify.com/album/3sKiAfMEgSDuDp0oioXjXp) | 3:31 |
+| 33 | [CORAZON DE NIEVE](https://open.spotify.com/track/6jKdi3HZuPTpr8BPap6D2b) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [SINCERAMENTE, BEBE](https://open.spotify.com/album/5pRyuC3CDcSZkJbg3KUFut) | 2:48 |
+| 34 | [Luna \- Versión Acústica](https://open.spotify.com/track/3Ev1bShzfAfll36Sg3uUBi) | [Mireia De La Torre](https://open.spotify.com/artist/79hHqOo4tkldFLWZLwF0tG) | [Luna Rota](https://open.spotify.com/album/4Qt9PFlNzo9e6oXs5LtbT5) | 2:31 |
 | 35 | [Me Siento Que No](https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Valentina](https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld) | [Me Siento Que No](https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG) | 3:56 |
 | 36 | [El Proceso](https://open.spotify.com/track/0XuoNwg645L5YBl2NvhbGw) | [Joel el negrito](https://open.spotify.com/artist/5gK51UR8WyIQPkHKRT41cR) | [El Proceso](https://open.spotify.com/album/0AUZP4CxPWnMBZQoCewqFf) | 4:02 |
 | 37 | [Normalidad](https://open.spotify.com/track/6Z6oIEeUbTotePo1cmJKQv) | [Patricio Tello](https://open.spotify.com/artist/7jwFNt4XttPDouOwMzTWse) | [Normalidad](https://open.spotify.com/album/3dJhTBEGyG82Qxgg7ImrBO) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [TE QUIERO TOO](https://open.spotify.com/track/3oRhGrqQ2B6yZeuo71bOkS) | [Andres Tagliaferro](https://open.spotify.com/artist/10r62aFR3aAv8h2XMhSoDl) | [TE QUIERO TOO](https://open.spotify.com/album/54dxLu64kvK9os72hFbp2o) | 3:10 |
 | 50 | [Rey de la India](https://open.spotify.com/track/1aFe2l0eJVyYppuKG5nplO) | [Pablo Prisma y las Pirámides](https://open.spotify.com/artist/0YFQlX7xBX1SD9nJNbw9EL), [Gúdar](https://open.spotify.com/artist/3LqgCszyAUGMwBSlVO3KKM) | [Rey de la India](https://open.spotify.com/album/1YEWYM0AMugYzZ4ZSjpbGR) | 2:09 |
 
-Snapshot ID: `MTY3ODI5ODQwMCwwMDAwMDAwMDdmYWZhYjc5ZWQwOGNkZDhjMmZjM2Q1YmJkNDVhMzhk`
+Snapshot ID: `MTY3ODI5ODQwMCwwMDAwMDAwMDY0MTFjNGUxYjQ4YTQ0OTUxZmNhNjU4MjVkYzNiYWE3`

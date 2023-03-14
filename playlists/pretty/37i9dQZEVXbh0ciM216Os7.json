@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5NzM2ODAsMDAwMDAwMDBlYzgxMDlkYzAxZjQ2YjJmMjBhYTQ0ZDcyODZhM2E0ZA==",
+  "snapshot_id": "Mjc5NzM2ODAsMDAwMDAwMDA2ZGM4MWU5ZDRhNDE0OWU4MTUyNDkzY2IwOGEzYjhlYw==",
   "tracks": [
     {
       "added_at": "2023-03-10 04:00:00",
@@ -88,12 +88,12 @@
           "url": "https://open.spotify.com/artist/2QDnY1LY2mnzeeKGZLHoc7"
         },
         {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
           "name": "Jahju16",
           "url": "https://open.spotify.com/artist/0NWqCsFrGXt0a7su3xJSaC"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
       "duration_ms": 216000,
@@ -279,6 +279,30 @@
       "duration_ms": 98668,
       "name": "One For",
       "url": "https://open.spotify.com/track/79erxfnOS3GubC1BUAC8Jx"
+    },
+    {
+      "added_at": "2023-03-10 04:00:00",
+      "album": {
+        "name": "Night Time Study (Lofi)",
+        "url": "https://open.spotify.com/album/7gvtvDJMeyONlHTRgycwzJ"
+      },
+      "artists": [
+        {
+          "name": "Heavenly Realms",
+          "url": "https://open.spotify.com/artist/37t9bT54d83HTqfWLET0Vj"
+        },
+        {
+          "name": "LoFi Bear",
+          "url": "https://open.spotify.com/artist/2S49iNx8Jjd1P9hxuD0oRE"
+        },
+        {
+          "name": "The Dream Life Factory",
+          "url": "https://open.spotify.com/artist/5xUCp9FjByKFgtUSCuyo67"
+        }
+      ],
+      "duration_ms": 128082,
+      "name": "Night Time Study - Lofi",
+      "url": "https://open.spotify.com/track/7ufNjClIo0SHEcEHXVqchb"
     },
     {
       "added_at": "2023-03-10 04:00:00",
@@ -527,30 +551,6 @@
       "duration_ms": 201574,
       "name": "Mami",
       "url": "https://open.spotify.com/track/7GHzGRsozCmF7yI1fazXST"
-    },
-    {
-      "added_at": "2023-03-10 04:00:00",
-      "album": {
-        "name": "Mike (desert island duvet)",
-        "url": "https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "The Streets",
-          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 264097,
-      "name": "Mike (desert island duvet)",
-      "url": "https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo"
     },
     {
       "added_at": "2023-03-10 04:00:00",

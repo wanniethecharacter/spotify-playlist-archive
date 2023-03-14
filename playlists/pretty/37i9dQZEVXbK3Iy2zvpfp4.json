@@ -1,15 +1,47 @@
 {
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
-  "num_followers": 4602,
+  "num_followers": 4603,
   "original_name": "Viral 50 - Slovakia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzMxOTM3NDk3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzMyMDI3MjYwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "La Cosa Nostra",
+        "url": "https://open.spotify.com/album/48NlXmZwck5tg38XFhzhiQ"
+      },
+      "artists": [
+        {
+          "name": "KOTL\u00c1R SECURITY",
+          "url": "https://open.spotify.com/artist/0z5HBunSnoCNMGy5NqEGYg"
+        }
+      ],
+      "duration_ms": 137010,
+      "name": "La Cosa Nostra",
+      "url": "https://open.spotify.com/track/1wDlHHkETfW9TTd97k6sU6"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "M\u00f4j typ \u017eeny",
+        "url": "https://open.spotify.com/album/02v0g7rhEtSgSqDurTExTN"
+      },
+      "artists": [
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "duration_ms": 156803,
+      "name": "M\u00f4j typ \u017eeny",
+      "url": "https://open.spotify.com/track/0OsN3na3JJI2502qObTqsG"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "S l\u00e1skou, Luk\u00e1\u0161.",
         "url": "https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t"
@@ -29,23 +61,7 @@
       "url": "https://open.spotify.com/track/0fP30PpvCS3AB4hBN91GPY"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "M\u00f4j typ \u017eeny",
-        "url": "https://open.spotify.com/album/02v0g7rhEtSgSqDurTExTN"
-      },
-      "artists": [
-        {
-          "name": "SIMILIVINLIFE",
-          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
-        }
-      ],
-      "duration_ms": 156803,
-      "name": "M\u00f4j typ \u017eeny",
-      "url": "https://open.spotify.com/track/0OsN3na3JJI2502qObTqsG"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "Na ceste za mnou",
         "url": "https://open.spotify.com/album/23NHjOVzpWLIyOMmWhMhmA"
@@ -65,23 +81,7 @@
       "url": "https://open.spotify.com/track/3YL0cxMy8BdxwBy0fkXwZC"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "La Cosa Nostra",
-        "url": "https://open.spotify.com/album/48NlXmZwck5tg38XFhzhiQ"
-      },
-      "artists": [
-        {
-          "name": "KOTL\u00c1R SECURITY",
-          "url": "https://open.spotify.com/artist/0z5HBunSnoCNMGy5NqEGYg"
-        }
-      ],
-      "duration_ms": 137010,
-      "name": "La Cosa Nostra",
-      "url": "https://open.spotify.com/track/1wDlHHkETfW9TTd97k6sU6"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "ROADTRIP",
         "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "S l\u00e1skou, Luk\u00e1\u0161.",
         "url": "https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/0oieWmZlfKdi2oxJP9ihk7"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
@@ -137,7 +137,39 @@
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "Slzy Ulic",
+        "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
+      },
+      "artists": [
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        }
+      ],
+      "duration_ms": 120827,
+      "name": "Valeriya",
+      "url": "https://open.spotify.com/track/09MbMeMVENgLv6Z9ogzkuG"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "Death of a Party Girl",
+        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Blue Hair",
+      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "S l\u00e1skou, Luk\u00e1\u0161.",
         "url": "https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t"
@@ -157,39 +189,7 @@
       "url": "https://open.spotify.com/track/2fsN1mjdT4QCfRZhPQRkck"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "Death of a Party Girl",
-        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Blue Hair",
-      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "Slzy Ulic",
-        "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
-      },
-      "artists": [
-        {
-          "name": "Samey",
-          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
-        }
-      ],
-      "duration_ms": 120827,
-      "name": "Valeriya",
-      "url": "https://open.spotify.com/track/09MbMeMVENgLv6Z9ogzkuG"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "S l\u00e1skou, Luk\u00e1\u0161.",
         "url": "https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/3PUpYDPhHjb5rG4b8t6RfT"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "How to: Friend, Love, Freefall",
         "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "Sugarbread",
         "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "Brazilian Phonk Mano",
         "url": "https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj"
@@ -261,23 +261,7 @@
       "url": "https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "i dont wna cry",
-        "url": "https://open.spotify.com/album/5AIZKUZZW9RE3xhTf64h39"
-      },
-      "artists": [
-        {
-          "name": "kurffew",
-          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
-        }
-      ],
-      "duration_ms": 121296,
-      "name": "i dont wna cry (haste)",
-      "url": "https://open.spotify.com/track/6RKeESxpM58GCfR5eRdfzY"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "Attack of the Killer Beast (Phonk)",
         "url": "https://open.spotify.com/album/2Co4pvEvpsBHIGXufGc3p3"
@@ -293,7 +277,39 @@
       "url": "https://open.spotify.com/track/1nJOtOQJqzHaxh8kzuudxR"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "Gladiator",
+        "url": "https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01"
+      },
+      "artists": [
+        {
+          "name": "Jann",
+          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
+        }
+      ],
+      "duration_ms": 211643,
+      "name": "Gladiator",
+      "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "i dont wna cry",
+        "url": "https://open.spotify.com/album/5AIZKUZZW9RE3xhTf64h39"
+      },
+      "artists": [
+        {
+          "name": "kurffew",
+          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
+        }
+      ],
+      "duration_ms": 121296,
+      "name": "i dont wna cry (haste)",
+      "url": "https://open.spotify.com/track/6RKeESxpM58GCfR5eRdfzY"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "SMOKE IT OFF!",
         "url": "https://open.spotify.com/album/59i6c9Y4NtR28gdkQ4Bg0S"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/7EdhZU5wyU8jwdZmcyQvAZ"
@@ -329,63 +345,7 @@
       "url": "https://open.spotify.com/track/5FXDsBtTJRSMmmWhFxhAI0"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
-        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
-          "name": "ARIZONATEARS",
-          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
-        }
-      ],
-      "duration_ms": 163139,
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "Gladiator",
-        "url": "https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01"
-      },
-      "artists": [
-        {
-          "name": "Jann",
-          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
-        }
-      ],
-      "duration_ms": 211643,
-      "name": "Gladiator",
-      "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "UGLY",
-        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
-      },
-      "artists": [
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 124768,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/6JAB3Ip1fJvc0qQjJ72bJa"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -409,135 +369,63 @@
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
-        "name": "Dumb Ways to Die",
-        "url": "https://open.spotify.com/album/4Bd3TKczuye0zb8w9i45R6"
+        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
+        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
       },
       "artists": [
         {
-          "name": "Tangerine Kitty",
-          "url": "https://open.spotify.com/artist/3pJh0RWw3DrGBnS70xcI2T"
-        }
-      ],
-      "duration_ms": 180022,
-      "name": "Dumb Ways to Die",
-      "url": "https://open.spotify.com/track/180MVaidIYWpB1MSYEv5BI"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "Pasion De Gavilanes",
-        "url": "https://open.spotify.com/album/00J7YGWNZ2oOYrIQMy9UO0"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Chadid",
-          "url": "https://open.spotify.com/artist/5xzP0E86GXxfBn1whd3nH7"
-        }
-      ],
-      "duration_ms": 190217,
-      "name": "Fiera Inquieta",
-      "url": "https://open.spotify.com/track/49jS8t2Kj4vPx2dmDzQEUg"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "\u041a\u0430\u043f\u0438\u0431\u0430\u0440\u0430",
-        "url": "https://open.spotify.com/album/0Nrvx6G0Ldu1ilJqzeSINk"
-      },
-      "artists": [
-        {
-          "name": "\u0421\u0442\u043e-\u041b\u0438\u0447\u043d\u044b\u0439 \u041e\u043d\u0430-\u041d\u0430\u0441",
-          "url": "https://open.spotify.com/artist/2gcrsPrJGDnAgpOJ0EkToD"
-        }
-      ],
-      "duration_ms": 124326,
-      "name": "\u041a\u0430\u043f\u0438\u0431\u0430\u0440\u0430",
-      "url": "https://open.spotify.com/track/4ppXYFIKT0GM6bGnxYk7qm"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "Push Up EP",
-        "url": "https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Push Up - Original Mix",
-      "url": "https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "Idegen",
-        "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 173454,
-      "name": "100 Hiba",
-      "url": "https://open.spotify.com/track/2OcJ6IFLooNGjyiL9HaDab"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "JUNGEN",
-        "url": "https://open.spotify.com/album/1km4LkW2OJCQ5c6w5F6GHc"
-      },
-      "artists": [
-        {
-          "name": "AstralKid22",
-          "url": "https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         },
         {
-          "name": "SIMILIVINLIFE",
-          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
         },
         {
-          "name": "Porsche Boy",
-          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+          "name": "ARIZONATEARS",
+          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
         }
       ],
-      "duration_ms": 207286,
-      "name": "Dirty Vans",
-      "url": "https://open.spotify.com/track/0qWNR5S5Hb3aOppJ86e08C"
+      "duration_ms": 163139,
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/5U5KhcGgli7Y4aQySFG1Cd"
+        "name": "If We Ever Broke Up",
+        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
       },
       "artists": [
         {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2v7hO7F1AWmS3HEkwvtPaE"
-        },
-        {
-          "name": "Ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        },
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
         }
       ],
-      "duration_ms": 153650,
-      "name": "Latyo \u00e9s haze",
-      "url": "https://open.spotify.com/track/5sybMF2Gbm98ociatHQFpT"
+      "duration_ms": 142758,
+      "name": "If We Ever Broke Up",
+      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "UGLY",
+        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 124768,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6JAB3Ip1fJvc0qQjJ72bJa"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "Watch The World Burn",
         "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
@@ -553,7 +441,23 @@
       "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "\u041a\u0430\u043f\u0438\u0431\u0430\u0440\u0430",
+        "url": "https://open.spotify.com/album/0Nrvx6G0Ldu1ilJqzeSINk"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u0442\u043e-\u041b\u0438\u0447\u043d\u044b\u0439 \u041e\u043d\u0430-\u041d\u0430\u0441",
+          "url": "https://open.spotify.com/artist/2gcrsPrJGDnAgpOJ0EkToD"
+        }
+      ],
+      "duration_ms": 124326,
+      "name": "\u041a\u0430\u043f\u0438\u0431\u0430\u0440\u0430",
+      "url": "https://open.spotify.com/track/4ppXYFIKT0GM6bGnxYk7qm"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "In Ha Mood",
         "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
@@ -569,59 +473,39 @@
       "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
-        "name": "S l\u00e1skou, Luk\u00e1\u0161.",
-        "url": "https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t"
+        "name": "Pasion De Gavilanes",
+        "url": "https://open.spotify.com/album/00J7YGWNZ2oOYrIQMy9UO0"
       },
       "artists": [
         {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        },
-        {
-          "name": "LNLY J",
-          "url": "https://open.spotify.com/artist/23q2ytYb96FFP3Iym1vetQ"
+          "name": "\u00c1ngela Chadid",
+          "url": "https://open.spotify.com/artist/5xzP0E86GXxfBn1whd3nH7"
         }
       ],
-      "duration_ms": 156640,
-      "name": "Inverzia - Bonus",
-      "url": "https://open.spotify.com/track/7rVRO72e2V9R38yYD1dxPh"
+      "duration_ms": 190217,
+      "name": "Fiera Inquieta",
+      "url": "https://open.spotify.com/track/49jS8t2Kj4vPx2dmDzQEUg"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
-        "name": "Slep\u00e1 Main",
-        "url": "https://open.spotify.com/album/5nRotw8WTqjDlu1nkePXKR"
+        "name": "Dumb Ways to Die",
+        "url": "https://open.spotify.com/album/4Bd3TKczuye0zb8w9i45R6"
       },
       "artists": [
         {
-          "name": "Call Dominika",
-          "url": "https://open.spotify.com/artist/6EBKq4KCXExYanXleLzIVT"
+          "name": "Tangerine Kitty",
+          "url": "https://open.spotify.com/artist/3pJh0RWw3DrGBnS70xcI2T"
         }
       ],
-      "duration_ms": 170578,
-      "name": "Slep\u00e1 Main",
-      "url": "https://open.spotify.com/track/7DUEneSpn5v4Bs1ZIIEFmW"
+      "duration_ms": 180022,
+      "name": "Dumb Ways to Die",
+      "url": "https://open.spotify.com/track/180MVaidIYWpB1MSYEv5BI"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 217103,
-      "name": "Mentalit\u00e9",
-      "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "Sassy Scene",
         "url": "https://open.spotify.com/album/5jBSw53XwT6G0slLxKSZLl"
@@ -645,91 +529,31 @@
       "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo"
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/5U5KhcGgli7Y4aQySFG1Cd"
       },
       "artists": [
         {
-          "name": "Sparky Deathcap",
-          "url": "https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR"
-        }
-      ],
-      "duration_ms": 189681,
-      "name": "September",
-      "url": "https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "You and you",
-        "url": "https://open.spotify.com/album/7JoXUsNQBlr2cjomo1D0O9"
-      },
-      "artists": [
-        {
-          "name": "Darwin",
-          "url": "https://open.spotify.com/artist/7mPbbLEj3zaCksvfPchsEi"
-        }
-      ],
-      "duration_ms": 71215,
-      "name": "You and you",
-      "url": "https://open.spotify.com/track/3DQGpmTE2PxtFagccs6XDF"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "ROADTRIP",
-        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2v7hO7F1AWmS3HEkwvtPaE"
         },
         {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 155492,
-      "name": "D\u00edvej",
-      "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "S l\u00e1skou, Luk\u00e1\u0161.",
-        "url": "https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t"
-      },
-      "artists": [
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        },
         {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 77360,
-      "name": "Klub b\u00fdval\u00fdch",
-      "url": "https://open.spotify.com/track/5RG6jLFbb40PrBDP5HWxzb"
+      "duration_ms": 153650,
+      "name": "Latyo \u00e9s haze",
+      "url": "https://open.spotify.com/track/5sybMF2Gbm98ociatHQFpT"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "Crazy Girls",
         "url": "https://open.spotify.com/album/154oJT2twqCFdna5UI2MyE"
@@ -745,43 +569,79 @@
       "url": "https://open.spotify.com/track/6cSDNYoWlMxzVfJLn6H301"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
-        "name": "Ve\u010der Na Izbe",
-        "url": "https://open.spotify.com/album/0GCyWbLbIJ1b0aUkM5t6YW"
+        "name": "Push Up EP",
+        "url": "https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b"
       },
       "artists": [
         {
-          "name": "Danisen",
-          "url": "https://open.spotify.com/artist/24cWfwjSynWITxK0NZQjr8"
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Push Up - Original Mix",
+      "url": "https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "You and you",
+        "url": "https://open.spotify.com/album/7JoXUsNQBlr2cjomo1D0O9"
+      },
+      "artists": [
+        {
+          "name": "Darwin",
+          "url": "https://open.spotify.com/artist/7mPbbLEj3zaCksvfPchsEi"
+        }
+      ],
+      "duration_ms": 71215,
+      "name": "You and you",
+      "url": "https://open.spotify.com/track/3DQGpmTE2PxtFagccs6XDF"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "JUNGEN",
+        "url": "https://open.spotify.com/album/1km4LkW2OJCQ5c6w5F6GHc"
+      },
+      "artists": [
+        {
+          "name": "AstralKid22",
+          "url": "https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ"
         },
         {
-          "name": "HAMSA",
-          "url": "https://open.spotify.com/artist/7F7BwfiIVqNJtyHXXgUZSB"
-        }
-      ],
-      "duration_ms": 178728,
-      "name": "Ve\u010der Na Izbe",
-      "url": "https://open.spotify.com/track/7B4PauJntjBaPZrPnsZclm"
-    },
-    {
-      "added_at": "2023-03-12 11:58:17",
-      "album": {
-        "name": "If We Ever Broke Up",
-        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
-      },
-      "artists": [
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        },
         {
-          "name": "Mae Stephens",
-          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
         }
       ],
-      "duration_ms": 142758,
-      "name": "If We Ever Broke Up",
-      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+      "duration_ms": 207286,
+      "name": "Dirty Vans",
+      "url": "https://open.spotify.com/track/0qWNR5S5Hb3aOppJ86e08C"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "IK TRIP 'M",
         "url": "https://open.spotify.com/album/2mv5IRXfeUNzqHnrlDRera"
@@ -801,7 +661,59 @@
       "url": "https://open.spotify.com/track/5gRYw2JYH3QUr5k2BQvpFZ"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "Slep\u00e1 Main",
+        "url": "https://open.spotify.com/album/5nRotw8WTqjDlu1nkePXKR"
+      },
+      "artists": [
+        {
+          "name": "Call Dominika",
+          "url": "https://open.spotify.com/artist/6EBKq4KCXExYanXleLzIVT"
+        }
+      ],
+      "duration_ms": 170578,
+      "name": "Slep\u00e1 Main",
+      "url": "https://open.spotify.com/track/7DUEneSpn5v4Bs1ZIIEFmW"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "ROADTRIP",
+        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 155492,
+      "name": "D\u00edvej",
+      "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 217103,
+      "name": "Mentalit\u00e9",
+      "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "Sure Thing (Sped Up)",
         "url": "https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT"
@@ -817,23 +729,55 @@
       "url": "https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+        "name": "S l\u00e1skou, Luk\u00e1\u0161.",
+        "url": "https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t"
       },
       "artists": [
         {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
         }
       ],
-      "duration_ms": 147979,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
+      "duration_ms": 77360,
+      "name": "Klub b\u00fdval\u00fdch",
+      "url": "https://open.spotify.com/track/5RG6jLFbb40PrBDP5HWxzb"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "French Exit",
+        "url": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Lovers Rock",
+      "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo"
+      },
+      "artists": [
+        {
+          "name": "Sparky Deathcap",
+          "url": "https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR"
+        }
+      ],
+      "duration_ms": 189681,
+      "name": "September",
+      "url": "https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
@@ -849,23 +793,23 @@
       "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
-        "name": "Idegen",
-        "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
+        "name": "\u0418\u0441\u0442\u043e\u0447\u043d\u0438\u043a",
+        "url": "https://open.spotify.com/album/2Ku50Drr3ULS0sGV8dPa9M"
       },
       "artists": [
         {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+          "name": "Erika Lundmoen",
+          "url": "https://open.spotify.com/artist/2uBR4Yh27WB4rn7t3c4uCX"
         }
       ],
-      "duration_ms": 122833,
-      "name": "Utols\u00f3 dal",
-      "url": "https://open.spotify.com/track/4O4BgsTejcZ5fJBfhwiaGO"
+      "duration_ms": 216833,
+      "name": "\u042f\u0434",
+      "url": "https://open.spotify.com/track/59vIllaE2ottAAAtAiAuLt"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "S l\u00e1skou, Luk\u00e1\u0161.",
         "url": "https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t"
@@ -881,7 +825,7 @@
       "url": "https://open.spotify.com/track/1ke6pjpooJymwb1AXoPwhG"
     },
     {
-      "added_at": "2023-03-12 11:58:17",
+      "added_at": "2023-03-13 12:54:20",
       "album": {
         "name": "\u0160patn\u00fd Sny",
         "url": "https://open.spotify.com/album/5aIsTYccjrPr7iD37hVBZo"
@@ -895,6 +839,58 @@
       "duration_ms": 180212,
       "name": "\u0160patn\u00fd Sny",
       "url": "https://open.spotify.com/track/3hnVZOWlMs5WU7iWo8tZyT"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "Ve\u010der Na Izbe",
+        "url": "https://open.spotify.com/album/0GCyWbLbIJ1b0aUkM5t6YW"
+      },
+      "artists": [
+        {
+          "name": "Danisen",
+          "url": "https://open.spotify.com/artist/24cWfwjSynWITxK0NZQjr8"
+        },
+        {
+          "name": "HAMSA",
+          "url": "https://open.spotify.com/artist/7F7BwfiIVqNJtyHXXgUZSB"
+        }
+      ],
+      "duration_ms": 178728,
+      "name": "Ve\u010der Na Izbe",
+      "url": "https://open.spotify.com/track/7B4PauJntjBaPZrPnsZclm"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 170100,
+      "name": "3 Nap",
+      "url": "https://open.spotify.com/track/0R7YvZPeHphkV48ffoGmsl"
+    },
+    {
+      "added_at": "2023-03-13 12:54:20",
+      "album": {
+        "name": "Hate.",
+        "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Hate.",
+      "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
     }
   ],
   "unique_name": "Viral 50 - Slovakia",

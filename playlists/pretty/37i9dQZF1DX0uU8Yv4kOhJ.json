@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 121309,
+  "num_followers": 121335,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMzQ4MCwwMDAwMDAwMDc2M2NiZmU0ZjIyMzQyYmU0ZDFlMjgzMDE0NDc5MDdj",
+  "snapshot_id": "MTY3NjYxMzQ4MCwwMDAwMDAwMDUxNDFiYzcyYzc3NGY2MTIxODIxYTE1OWUzY2E0MDRm",
   "tracks": [
     {
       "added_at": "2023-02-17 05:58:00",
@@ -111,18 +111,22 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Prender el Alma",
-        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/6OevmK3tcivYCuZKtJ6PRC"
       },
       "artists": [
         {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 315493,
-      "name": "La Cosecha",
-      "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
+      "duration_ms": 254815,
+      "name": "Coraz\u00f3n de Rub\u00ed",
+      "url": "https://open.spotify.com/track/4zBYQGO8dU0SVpm3Zld6q2"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -159,22 +163,18 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/6OevmK3tcivYCuZKtJ6PRC"
+        "name": "Prender el Alma",
+        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
       },
       "artists": [
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
         }
       ],
-      "duration_ms": 254815,
-      "name": "Coraz\u00f3n de Rub\u00ed",
-      "url": "https://open.spotify.com/track/4zBYQGO8dU0SVpm3Zld6q2"
+      "duration_ms": 315493,
+      "name": "La Cosecha",
+      "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
+        "name": "Ch'usay",
+        "url": "https://open.spotify.com/album/5aYodFC2rZJsJrUSWizQzn"
+      },
+      "artists": [
+        {
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+        }
+      ],
+      "duration_ms": 226780,
+      "name": "Herejia",
+      "url": "https://open.spotify.com/track/54M4kdHYlMY0xO2ENIE5KV"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
         "name": "Amansara Remixed",
         "url": "https://open.spotify.com/album/3zFmRK5xmyvsSIQ60kNbb6"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 239417,
       "name": "Sueno en Paraguay - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/59ERJnanE5T9s95cIMpQbx"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
-        "name": "Ch'usay",
-        "url": "https://open.spotify.com/album/5aYodFC2rZJsJrUSWizQzn"
-      },
-      "artists": [
-        {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
-        }
-      ],
-      "duration_ms": 226780,
-      "name": "Herejia",
-      "url": "https://open.spotify.com/track/54M4kdHYlMY0xO2ENIE5KV"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Monta\u00f1as",
-        "url": "https://open.spotify.com/album/1IeFuOpz4yMp2zE8e0IWqp"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 288091,
-      "name": "Monta\u00f1as",
-      "url": "https://open.spotify.com/track/2x0jS1pcwWxzWOd3eRSrzu"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Amor Ardiente (Bolivia y Su Folklore)",
         "url": "https://open.spotify.com/album/28ekMoSZk09F8bWYeO3O2c"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 215000,
       "name": "Tiwanacu",
       "url": "https://open.spotify.com/track/3NO8H307ShIWN71ifxTnAN"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Monta\u00f1as",
+        "url": "https://open.spotify.com/album/1IeFuOpz4yMp2zE8e0IWqp"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 288091,
+      "name": "Monta\u00f1as",
+      "url": "https://open.spotify.com/track/2x0jS1pcwWxzWOd3eRSrzu"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "\u201dZamba Puta\u201d",
         "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 235682,
       "name": "La Felicidad",
       "url": "https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9"
     },
     {
       "added_at": "2023-02-17 05:58:00",

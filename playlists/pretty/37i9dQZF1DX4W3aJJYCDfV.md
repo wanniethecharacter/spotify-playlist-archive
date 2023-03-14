@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Miley Cyrus \(pictured\), Calvin Harris, Nia Archives and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,739 likes - 131 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,767 likes - 131 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

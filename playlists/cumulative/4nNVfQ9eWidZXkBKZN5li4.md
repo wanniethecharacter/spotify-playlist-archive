@@ -4,7 +4,7 @@
 
 > Best of Bollywood \- All time favourites featuring A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood Top tracks only on this playlist!
 
-215 songs - 13 hr 1 min
+216 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Dil Chahte Ho](https://open.spotify.com/track/60dbY1IYizdQQVhC4QTyEc) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Dil Chahte Ho](https://open.spotify.com/album/55lZbgtwpfxnNO0ktC07np) | 4:12 | 2020-09-11 | 2022-04-19 |
 | [Dil Ko Karaar Aaya \(From "Sukoon"\)](https://open.spotify.com/track/5urYiIXu1ZhfMAOsp7WDTc) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Dil Ko Karaar Aaya \(From "Sukoon"\)](https://open.spotify.com/album/3PRk98aAwGeeXQsoDa5DGe) | 3:51 | 2021-07-12 | 2022-09-06 |
 | [Dil Tod Ke](https://open.spotify.com/track/71OoohX1NBG4ez6eijgaWE) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Dil Tod Ke](https://open.spotify.com/album/5mWY0yGOJSTeTN8zQmbm9L) | 3:59 | 2020-09-11 | 2022-01-14 |
+| [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 | 2023-03-13 |  |
 | [Do You Love Me](https://open.spotify.com/track/3neht9bfnLvQwV9jXIWVK9) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Baaghi 3](https://open.spotify.com/album/5ZnhEAXHIt3lomWlfswwnv) | 2:42 | 2020-10-27 | 2022-01-14 |
 | [Don't Be Shy Again \(From "Bala"\)](https://open.spotify.com/track/2TbCdbFzs2xO2nzasn0Qvw) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Gurdeep Mehendi](https://open.spotify.com/artist/0gAcfu6yXdP8FyirshZ0qR) | [Don't Be Shy Again \(From "Bala"\)](https://open.spotify.com/album/7dtf0qx0yeOZzcysKPVDUr) | 2:44 | 2019-10-18 | 2022-04-19 |
 | [Doobey \(From "Gehraiyaan"\)](https://open.spotify.com/track/7MBqVOzb8C3f0FXr2LBLiq) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Doobey \(From "Gehraiyaan"\)](https://open.spotify.com/album/48VomBCSqAsYmxI3C3TNSC) | 3:39 | 2022-01-24 |  |

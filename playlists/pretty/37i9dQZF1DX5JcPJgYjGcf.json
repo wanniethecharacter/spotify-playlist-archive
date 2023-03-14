@@ -1,15 +1,255 @@
 {
   "description": "All the megahits by the South Korean boy band are right here! Don't fight your feelings, EXO-Ls!",
-  "num_followers": 1081585,
+  "num_followers": 1081842,
   "original_name": "This Is: EXO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNzMwNTkwOCwwMDAwMDAwMGI3YmJlYmEzMjA3Njk2ZGQ2OWNjYmFjY2MyNTBmZTM1",
+  "snapshot_id": "MTY3ODY5MDczMCwwMDAwMDAwMGRkNzg0OWU5MDFmODdhMjMyMjVhYjhiZDk5MDliZDFl",
   "tracks": [
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 224482,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/1iifBZFQbZlO1BbeaO3KGi"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "THE WAR - The 4th Album",
+        "url": "https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 190422,
+      "name": "Ko Ko Bop",
+      "url": "https://open.spotify.com/track/5EzitieoPnjyKHAq0gfRMa"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "EXODUS - The 2nd Album",
+        "url": "https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "CALL ME BABY",
+      "url": "https://open.spotify.com/track/6Rx0ORYPP3GH9rTvGS5Vy8"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Growl",
+      "url": "https://open.spotify.com/track/4pi0Elz7B7cLfw37J3bYm9"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "EX'ACT",
+        "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 221341,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Love Shot",
+      "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "LOVE ME RIGHT - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 205128,
+      "name": "LOVE ME RIGHT",
+      "url": "https://open.spotify.com/track/1kFevEv3s7Gf6o5xSDR5DL"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "THE WAR - The 4th Album",
+        "url": "https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "The Eve",
+      "url": "https://open.spotify.com/track/2ujA6F1cpk3m8lsPE5aKua"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "LOTTO - The 3rd Album Repackage",
+        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 189774,
+      "name": "Lotto",
+      "url": "https://open.spotify.com/track/6ukWoX4AHV76JdYVdKRPk8"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "DON'T FIGHT THE FEELING - Special Album",
+        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Don't fight the feeling",
+      "url": "https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "OBSESSION",
+        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/7fK0csBoqbcgUuWGV0cpoD"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "Overdose - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/3Nyhs0ZYxVmXDVfv4PLsqv"
+      },
+      "artists": [
+        {
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
+        }
+      ],
+      "duration_ms": 205611,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/5NSPsOGVNWYOMeeyZPF7HY"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "DON'T FIGHT THE FEELING - Special Album",
+        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0KDCkxCsEBoSWj5fsyuvWq"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "KAI - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "duration_ms": 192346,
+      "name": "Mmmh",
+      "url": "https://open.spotify.com/track/5dntGTbUtmUO239wQ0k3yM"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 214380,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
@@ -25,7 +265,55 @@
       "url": "https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "THE POWER OF MUSIC \u2013 The 4th Album \u2018THE WAR\u2019 Repackage",
+        "url": "https://open.spotify.com/album/5yUlewRtRySsb77hEoTTIu"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 222405,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/53YZi9zgTnF0Py0K6ejyWz"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 227173,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
@@ -45,359 +333,7 @@
       "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "It's Love",
-      "url": "https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Dad",
-      "url": "https://open.spotify.com/track/0p4AJ91CdS1k8ibpguPJg5"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 153706,
-      "name": "Rose - English Version",
-      "url": "https://open.spotify.com/track/2shyarF21wZvWew00TdaP3"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Si Fueras M\u00eda",
-      "url": "https://open.spotify.com/track/2EDpsT55NCISpccODTIUiV"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Love Shot",
-      "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "EX'ACT",
-        "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 221341,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "DON'T FIGHT THE FEELING - Special Album",
-        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Don't fight the feeling",
-      "url": "https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 224482,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/1iifBZFQbZlO1BbeaO3KGi"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "EXODUS - The 2nd Album",
-        "url": "https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "CALL ME BABY",
-      "url": "https://open.spotify.com/track/6Rx0ORYPP3GH9rTvGS5Vy8"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Growl",
-      "url": "https://open.spotify.com/track/4pi0Elz7B7cLfw37J3bYm9"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "THE WAR - The 4th Album",
-        "url": "https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 190422,
-      "name": "Ko Ko Bop",
-      "url": "https://open.spotify.com/track/5EzitieoPnjyKHAq0gfRMa"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "THE WAR - The 4th Album",
-        "url": "https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "The Eve",
-      "url": "https://open.spotify.com/track/2ujA6F1cpk3m8lsPE5aKua"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "DON'T FIGHT THE FEELING - Special Album",
-        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/0KDCkxCsEBoSWj5fsyuvWq"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "KAI - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        }
-      ],
-      "duration_ms": 192346,
-      "name": "Mmmh",
-      "url": "https://open.spotify.com/track/5dntGTbUtmUO239wQ0k3yM"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "OBSESSION",
-        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/7fK0csBoqbcgUuWGV0cpoD"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "LOTTO - The 3rd Album Repackage",
-        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 189774,
-      "name": "Lotto",
-      "url": "https://open.spotify.com/track/6ukWoX4AHV76JdYVdKRPk8"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "Bambi - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "Bambi",
-      "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "Overdose - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/3Nyhs0ZYxVmXDVfv4PLsqv"
-      },
-      "artists": [
-        {
-          "name": "EXO-K",
-          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
-        }
-      ],
-      "duration_ms": 205611,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/5NSPsOGVNWYOMeeyZPF7HY"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "DON'T FIGHT THE FEELING - Special Album",
-        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/238Ra1ggmx3wUkHyZ8EjST"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "LOVE ME RIGHT - The 2nd Album Repackage",
-        "url": "https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 205128,
-      "name": "LOVE ME RIGHT",
-      "url": "https://open.spotify.com/track/1kFevEv3s7Gf6o5xSDR5DL"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "DON'T FIGHT THE FEELING - Special Album",
         "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
@@ -413,103 +349,7 @@
       "url": "https://open.spotify.com/track/64xTu0cKbXu3ZSRkfXiBnx"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "Delight - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 227173,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "THE POWER OF MUSIC \u2013 The 4th Album \u2018THE WAR\u2019 Repackage",
-        "url": "https://open.spotify.com/album/5yUlewRtRySsb77hEoTTIu"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 222405,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/53YZi9zgTnF0Py0K6ejyWz"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 214380,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "DON'T FIGHT THE FEELING - Special Album",
-        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 222933,
-      "name": "No matter",
-      "url": "https://open.spotify.com/track/5fumVsa0IxAEJvHHu2F2k5"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "Dear my dear - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7vIUunVE4NWLS0uq9X9o5f"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 238188,
-      "name": "My dear",
-      "url": "https://open.spotify.com/track/3qbsRctNTLFSgCvz6ZKYjW"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "EX'ACT",
-        "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 227485,
-      "name": "Lucky One",
-      "url": "https://open.spotify.com/track/6F07dfBaUEcylJdL3gky7y"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "Mama - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
@@ -525,10 +365,42 @@
       "url": "https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
-        "name": "That's okay",
-        "url": "https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf"
+        "name": "DON'T FIGHT THE FEELING - Special Album",
+        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/238Ra1ggmx3wUkHyZ8EjST"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "EX'ACT",
+        "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 227485,
+      "name": "Lucky One",
+      "url": "https://open.spotify.com/track/6F07dfBaUEcylJdL3gky7y"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
       "artists": [
         {
@@ -536,48 +408,28 @@
           "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
         }
       ],
-      "duration_ms": 221373,
-      "name": "That's okay",
-      "url": "https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo"
+      "duration_ms": 153706,
+      "name": "Rose - English Version",
+      "url": "https://open.spotify.com/track/2shyarF21wZvWew00TdaP3"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
-        "name": "KAI - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
       "artists": [
         {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
         }
       ],
-      "duration_ms": 160786,
-      "name": "Nothing On Me",
-      "url": "https://open.spotify.com/track/031mgKcbAk6cL9ZpfIEq4K"
+      "duration_ms": 174520,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "1 Billion Views - The 1st Album",
-        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
-      },
-      "artists": [
-        {
-          "name": "EXO-SC",
-          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
-        },
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
-        }
-      ],
-      "duration_ms": 209253,
-      "name": "1 Billion Views",
-      "url": "https://open.spotify.com/track/4gGZc6MMYavM5KFS2zwOVL"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "EXODUS - The 2nd Album",
         "url": "https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af"
@@ -593,7 +445,87 @@
       "url": "https://open.spotify.com/track/5il5nd4tIALwu7G1DBjdOq"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 187446,
+      "name": "Ooh La La La",
+      "url": "https://open.spotify.com/track/6n6G0ORHLwMiQYzgT0QxWV"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "City Lights - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 235509,
+      "name": "UN Village",
+      "url": "https://open.spotify.com/track/0WSTInLqMrT9po0LAHpZCJ"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "That's okay",
+        "url": "https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "That's okay",
+      "url": "https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Si Fueras M\u00eda",
+      "url": "https://open.spotify.com/track/2EDpsT55NCISpccODTIUiV"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn"
@@ -621,26 +553,10 @@
       "url": "https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
-        "name": "Doom at Your Service (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/2fy01jwC0GrnBGQ4Crcnve"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "U",
-      "url": "https://open.spotify.com/track/0AtHUIDAkXWgpbD0QkyKgi"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+        "name": "DON'T FIGHT THE FEELING - Special Album",
+        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
       },
       "artists": [
         {
@@ -648,12 +564,12 @@
           "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 187446,
-      "name": "Ooh La La La",
-      "url": "https://open.spotify.com/track/6n6G0ORHLwMiQYzgT0QxWV"
+      "duration_ms": 222933,
+      "name": "No matter",
+      "url": "https://open.spotify.com/track/5fumVsa0IxAEJvHHu2F2k5"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "The 1st Album 'XOXO' (Repackage)",
         "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
@@ -669,7 +585,23 @@
       "url": "https://open.spotify.com/track/3Fm1KdUH8FmJOdtFi8MBvx"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
@@ -689,103 +621,23 @@
       "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
-        "name": "City Lights - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3"
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
         }
       ],
-      "duration_ms": 235509,
-      "name": "UN Village",
-      "url": "https://open.spotify.com/track/0WSTInLqMrT9po0LAHpZCJ"
+      "duration_ms": 174360,
+      "name": "Dad",
+      "url": "https://open.spotify.com/track/0p4AJ91CdS1k8ibpguPJg5"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "KAI - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/5x2p715xYEKn2AdV9pNv52"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "PRODUCER",
-        "url": "https://open.spotify.com/album/7KVVfotZYLbM4rYaSGLrMX"
-      },
-      "artists": [
-        {
-          "name": "LAY",
-          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Joker",
-      "url": "https://open.spotify.com/track/7yVsn705mElzqZfuxoZSjv"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "EXODUS - The 2nd Album",
-        "url": "https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 212132,
-      "name": "PLAYBOY",
-      "url": "https://open.spotify.com/track/06KYwRJKN3IKOKzaWuP3ea"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "KAI - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/11dQTEghmS3uFipXhk1Tbl"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Wolf",
-      "url": "https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "Blooming Days - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/14zRuZjpOkB4IrUkFsrN31"
@@ -801,26 +653,30 @@
       "url": "https://open.spotify.com/track/4kmp56RAtXEzHOANS0BaLX"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/2FmUOkj3thjkzbuR10fLBb"
+        "name": "1 Billion Views - The 1st Album",
+        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
       },
       "artists": [
         {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
         }
       ],
-      "duration_ms": 215893,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/2B4Hz23pUeucJZEmgUIOtV"
+      "duration_ms": 209253,
+      "name": "1 Billion Views",
+      "url": "https://open.spotify.com/track/4gGZc6MMYavM5KFS2zwOVL"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
-        "name": "SING FOR YOU - Winter Special Album, 2015",
-        "url": "https://open.spotify.com/album/1eGKfrv3zUriBWbPOFKKxq"
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
       "artists": [
         {
@@ -828,12 +684,44 @@
           "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 182321,
-      "name": "Unfair",
-      "url": "https://open.spotify.com/track/78bSWIqoNPdJB8QpCVkv0K"
+      "duration_ms": 230600,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "EXODUS - The 2nd Album",
+        "url": "https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 212132,
+      "name": "PLAYBOY",
+      "url": "https://open.spotify.com/track/06KYwRJKN3IKOKzaWuP3ea"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "Dear my dear - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7vIUunVE4NWLS0uq9X9o5f"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 238188,
+      "name": "My dear",
+      "url": "https://open.spotify.com/track/3qbsRctNTLFSgCvz6ZKYjW"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "LOVE SHOT\u2013 The 5th Album Repackage",
         "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
@@ -849,7 +737,23 @@
       "url": "https://open.spotify.com/track/6EjU5hbaHHtzuZUGkH0cJQ"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "SING FOR YOU - Winter Special Album, 2015",
+        "url": "https://open.spotify.com/album/1eGKfrv3zUriBWbPOFKKxq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 182321,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/78bSWIqoNPdJB8QpCVkv0K"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "THE WAR - The 4th Album",
         "url": "https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn"
@@ -865,7 +769,7 @@
       "url": "https://open.spotify.com/track/3HbODbLPYqeHcRXApoWJDy"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "KAI - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
@@ -876,51 +780,15 @@
           "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
         }
       ],
-      "duration_ms": 200733,
-      "name": "Ride Or Die",
-      "url": "https://open.spotify.com/track/5Ej0A9BOsVSrxYwC6GSfCv"
+      "duration_ms": 160786,
+      "name": "Nothing On Me",
+      "url": "https://open.spotify.com/track/031mgKcbAk6cL9ZpfIEq4K"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
-        "name": "1 Billion Views - The 1st Album",
-        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
-      },
-      "artists": [
-        {
-          "name": "EXO-SC",
-          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
-        },
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 195613,
-      "name": "Telephone",
-      "url": "https://open.spotify.com/track/6ksOaijLwaSWTVRtPgakt0"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "What a life - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/60dCcEJcX0TamOud2jS87a"
-      },
-      "artists": [
-        {
-          "name": "EXO-SC",
-          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "What a life",
-      "url": "https://open.spotify.com/track/3TfLZodlQ1TzNpdrc4KXR5"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "EX'ACT",
-        "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
+        "name": "Universe \u2013 Winter Special Album, 2017",
+        "url": "https://open.spotify.com/album/45RVbFvHsy7bsO7CQ2oQ6e"
       },
       "artists": [
         {
@@ -928,12 +796,12 @@
           "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 225823,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/64wBH2x7lTYxhwUzoS5gvt"
+      "duration_ms": 218090,
+      "name": "Been Through",
+      "url": "https://open.spotify.com/track/5pesNiBKAx8JNwK2mQ2HEc"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "KAI - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
@@ -944,44 +812,12 @@
           "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
         }
       ],
-      "duration_ms": 168253,
-      "name": "Hello Stranger",
-      "url": "https://open.spotify.com/track/3LjS1vGAprMNthdyue5XZD"
+      "duration_ms": 173906,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/5x2p715xYEKn2AdV9pNv52"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "Record of Youth (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/1l3oUdtu9GYbNzSFgPW8p1"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 212213,
-      "name": "Every second",
-      "url": "https://open.spotify.com/track/1k555u88NiaBJH6AWlf5rA"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "Hey Mama!\u2013 The 1st Mini Album",
-        "url": "https://open.spotify.com/album/7qXTHawuBsARg5NdkZM5cU"
-      },
-      "artists": [
-        {
-          "name": "EXO-CBX",
-          "url": "https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Hey Mama!",
-      "url": "https://open.spotify.com/track/20bWnhRylVPnTpfsuIzorG"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "Descendants Of The Sun Pt.2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5TVsuCwCLLBk9qpElbX7nE"
@@ -1001,103 +837,23 @@
       "url": "https://open.spotify.com/track/1D6lK8qADoErTTLkY4YBfM"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
-        "name": "EX'ACT",
-        "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
+        "name": "Doom at Your Service (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/2fy01jwC0GrnBGQ4Crcnve"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         }
       ],
-      "duration_ms": 245772,
-      "name": "Artificial Love",
-      "url": "https://open.spotify.com/track/7JsdxIrUXhCJUCaX2ZhSNl"
+      "duration_ms": 224466,
+      "name": "U",
+      "url": "https://open.spotify.com/track/0AtHUIDAkXWgpbD0QkyKgi"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "LIGHTSABER",
-        "url": "https://open.spotify.com/album/7bNW8A8tZ2ogSQmKxSnZsV"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 184935,
-      "name": "LIGHTSABER",
-      "url": "https://open.spotify.com/track/0WgIKcomgCpfSvTHRT43aW"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "1 Billion Views - The 1st Album",
-        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
-      },
-      "artists": [
-        {
-          "name": "EXO-SC",
-          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "On Me",
-      "url": "https://open.spotify.com/track/7zgAysZmfnHKhayf30Dx2U"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "Universe \u2013 Winter Special Album, 2017",
-        "url": "https://open.spotify.com/album/45RVbFvHsy7bsO7CQ2oQ6e"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 218090,
-      "name": "Been Through",
-      "url": "https://open.spotify.com/track/5pesNiBKAx8JNwK2mQ2HEc"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "OBSESSION",
-        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/5vZU1sYp7e1osTKWIMtof5"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 194325,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/2Ewt35352UKONyzomJlqXu"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "LOVE SHOT\u2013 The 5th Album Repackage",
         "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
@@ -1113,7 +869,55 @@
       "url": "https://open.spotify.com/track/24r3v5xQdmC4qXH6twiWla"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "LIGHTSABER",
+        "url": "https://open.spotify.com/album/7bNW8A8tZ2ogSQmKxSnZsV"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 184935,
+      "name": "LIGHTSABER",
+      "url": "https://open.spotify.com/track/0WgIKcomgCpfSvTHRT43aW"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "EX'ACT",
+        "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 245772,
+      "name": "Artificial Love",
+      "url": "https://open.spotify.com/track/7JsdxIrUXhCJUCaX2ZhSNl"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "EX'ACT",
+        "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 225823,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/64wBH2x7lTYxhwUzoS5gvt"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "Universe \u2013 Winter Special Album, 2017",
         "url": "https://open.spotify.com/album/45RVbFvHsy7bsO7CQ2oQ6e"
@@ -1129,23 +933,55 @@
       "url": "https://open.spotify.com/track/5ptViFrfoKdGPTdd9oQCwr"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
-        "name": "THE WAR - The 4th Album",
-        "url": "https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn"
+        "name": "Hey Mama!\u2013 The 1st Mini Album",
+        "url": "https://open.spotify.com/album/7qXTHawuBsARg5NdkZM5cU"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "EXO-CBX",
+          "url": "https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD"
         }
       ],
-      "duration_ms": 226061,
-      "name": "Going Crazy",
-      "url": "https://open.spotify.com/track/64EJgeHPkqJThnr7RDppo3"
+      "duration_ms": 199796,
+      "name": "Hey Mama!",
+      "url": "https://open.spotify.com/track/20bWnhRylVPnTpfsuIzorG"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "What a life - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/60dCcEJcX0TamOud2jS87a"
+      },
+      "artists": [
+        {
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "What a life",
+      "url": "https://open.spotify.com/track/3TfLZodlQ1TzNpdrc4KXR5"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "KAI - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/11dQTEghmS3uFipXhk1Tbl"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R"
@@ -1169,23 +1005,23 @@
       "url": "https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
-        "name": "Delight - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+        "name": "THE WAR - The 4th Album",
+        "url": "https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 174506,
-      "name": "R U Ridin\u2019?",
-      "url": "https://open.spotify.com/track/4Jxc98fY5SQ6zyGg8Dnybw"
+      "duration_ms": 226061,
+      "name": "Going Crazy",
+      "url": "https://open.spotify.com/track/64EJgeHPkqJThnr7RDppo3"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "LOVE SHOT\u2013 The 5th Album Repackage",
         "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
@@ -1196,28 +1032,12 @@
           "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 248768,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
+      "duration_ms": 194325,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/2Ewt35352UKONyzomJlqXu"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "OBSESSION",
-        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "Jekyll",
-      "url": "https://open.spotify.com/track/028XrbNPgtmnSSScHuWuG1"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "Tell Me (What Is Love) - SM STATION",
         "url": "https://open.spotify.com/album/4EWHLsHdiW6h5vSEiV2xvd"
@@ -1237,7 +1057,59 @@
       "url": "https://open.spotify.com/track/0XFNh4Buo97mSzJK3C7gSJ"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/2FmUOkj3thjkzbuR10fLBb"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 215893,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2B4Hz23pUeucJZEmgUIOtV"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "1 Billion Views - The 1st Album",
+        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
+      },
+      "artists": [
+        {
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        },
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 195613,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/6ksOaijLwaSWTVRtPgakt0"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "OBSESSION",
+        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "Jekyll",
+      "url": "https://open.spotify.com/track/028XrbNPgtmnSSScHuWuG1"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "We Young",
         "url": "https://open.spotify.com/album/5YJFl4cNetPk0Tn4tqPRHk"
@@ -1257,39 +1129,7 @@
       "url": "https://open.spotify.com/track/0eilxZjVwGfcgzzDEbcFJP"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "1 Billion Views - The 1st Album",
-        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
-      },
-      "artists": [
-        {
-          "name": "EXO-SC",
-          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
-        }
-      ],
-      "duration_ms": 206293,
-      "name": "Nothin\u2019",
-      "url": "https://open.spotify.com/track/308Hr1dbj1mlLkggoWlxxB"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "\ube0c\ub78c\uc2a4\ub97c \uc88b\uc544\ud558\uc138\uc694? (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/0AyYSWdDhu1yiFCrsX0fD9"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 223041,
-      "name": "\ub108\uc758 \ub2ec\ube5b",
-      "url": "https://open.spotify.com/track/7rk0jW98zIHYlfL5FYtEx3"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "LOVE SHOT\u2013 The 5th Album Repackage",
         "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
@@ -1300,140 +1140,12 @@
           "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 193852,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/2WoZh6Z32L6lEEDu7wxmfT"
+      "duration_ms": 248768,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "OBSESSION",
-        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "Baby You Are",
-      "url": "https://open.spotify.com/track/1j37dCqGQuvWNYg80RIiOu"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "OBSESSION",
-        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 208613,
-      "name": "Groove",
-      "url": "https://open.spotify.com/track/4Xi0jBySALbHLMh9MnSvAb"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "1 Billion Views - The 1st Album",
-        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
-      },
-      "artists": [
-        {
-          "name": "EXO-SC",
-          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
-        }
-      ],
-      "duration_ms": 220506,
-      "name": "Rodeo Station",
-      "url": "https://open.spotify.com/track/7yfRLqROyibGRSW0t2vUSs"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "Our Beloved BoA #1 - SM STATION",
-        "url": "https://open.spotify.com/album/3RuJjHP8JUBcktoao5J2Wc"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "Garden In The Air",
-      "url": "https://open.spotify.com/track/1x6L3DD4MHziI0CVywZgnw"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "\ube0c\ub78c\uc2a4\ub97c \uc88b\uc544\ud558\uc138\uc694? (Original Television Soundtrack) Pt. 11",
-        "url": "https://open.spotify.com/album/1Fq3Vz0CDiKw2tMBPetQxR"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 232332,
-      "name": "happy",
-      "url": "https://open.spotify.com/track/42vjv9XG4joOCBajzAFRaN"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "\ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd80 2 (Original Television Soundtrack) Pt.1",
-        "url": "https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 193930,
-      "name": "\ub108\ub97c \uc0ac\ub791\ud558\uace0 \uc788\uc5b4",
-      "url": "https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "OBSESSION",
-        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 222040,
-      "name": "Ya Ya Ya",
-      "url": "https://open.spotify.com/track/2Dn0UlDRJ4iSMlSdZ103pg"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 222010,
-      "name": "Trauma",
-      "url": "https://open.spotify.com/track/4vh7bEuYAU9TtBRXwcLtn9"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "Delight - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
@@ -1449,7 +1161,167 @@
       "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "OBSESSION",
+        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/5vZU1sYp7e1osTKWIMtof5"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "KAI - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/5Ej0A9BOsVSrxYwC6GSfCv"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "PRODUCER",
+        "url": "https://open.spotify.com/album/7KVVfotZYLbM4rYaSGLrMX"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/7yVsn705mElzqZfuxoZSjv"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "OBSESSION",
+        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 208613,
+      "name": "Groove",
+      "url": "https://open.spotify.com/track/4Xi0jBySALbHLMh9MnSvAb"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "KAI - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/3LjS1vGAprMNthdyue5XZD"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "OBSESSION",
+        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "Baby You Are",
+      "url": "https://open.spotify.com/track/1j37dCqGQuvWNYg80RIiOu"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "1 Billion Views - The 1st Album",
+        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
+      },
+      "artists": [
+        {
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/7zgAysZmfnHKhayf30Dx2U"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/1l3oUdtu9GYbNzSFgPW8p1"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 212213,
+      "name": "Every second",
+      "url": "https://open.spotify.com/track/1k555u88NiaBJH6AWlf5rA"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "1 Billion Views - The 1st Album",
+        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
+      },
+      "artists": [
+        {
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        }
+      ],
+      "duration_ms": 220506,
+      "name": "Rodeo Station",
+      "url": "https://open.spotify.com/track/7yfRLqROyibGRSW0t2vUSs"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 193852,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/2WoZh6Z32L6lEEDu7wxmfT"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "Delight - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
@@ -1460,12 +1332,44 @@
           "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         }
       ],
-      "duration_ms": 206693,
-      "name": "Bungee",
-      "url": "https://open.spotify.com/track/6wwmbBoBaFxptJwuvF2QdM"
+      "duration_ms": 174506,
+      "name": "R U Ridin\u2019?",
+      "url": "https://open.spotify.com/track/4Jxc98fY5SQ6zyGg8Dnybw"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 222010,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/4vh7bEuYAU9TtBRXwcLtn9"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "OBSESSION",
+        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "Ya Ya Ya",
+      "url": "https://open.spotify.com/track/2Dn0UlDRJ4iSMlSdZ103pg"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "OBSESSION",
         "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
@@ -1481,7 +1385,55 @@
       "url": "https://open.spotify.com/track/3ki9UrYL2TZxYAyyGIPMPz"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "1 Billion Views - The 1st Album",
+        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
+      },
+      "artists": [
+        {
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        }
+      ],
+      "duration_ms": 206293,
+      "name": "Nothin\u2019",
+      "url": "https://open.spotify.com/track/308Hr1dbj1mlLkggoWlxxB"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "\ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd80 2 (Original Television Soundtrack) Pt.1",
+        "url": "https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 193930,
+      "name": "\ub108\ub97c \uc0ac\ub791\ud558\uace0 \uc788\uc5b4",
+      "url": "https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "Our Beloved BoA #1 - SM STATION",
+        "url": "https://open.spotify.com/album/3RuJjHP8JUBcktoao5J2Wc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "Garden In The Air",
+      "url": "https://open.spotify.com/track/1x6L3DD4MHziI0CVywZgnw"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "Delight - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
@@ -1492,32 +1444,28 @@
           "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Poppin\u2019",
-      "url": "https://open.spotify.com/track/1JTUPJr0rSf93hNlRR6S0g"
+      "duration_ms": 206693,
+      "name": "Bungee",
+      "url": "https://open.spotify.com/track/6wwmbBoBaFxptJwuvF2QdM"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
-        "name": "1 Billion Views - The 1st Album",
-        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
+        "name": "SSFW",
+        "url": "https://open.spotify.com/album/5eq9uD3Lm8SKdYfTBxRdX7"
       },
       "artists": [
         {
-          "name": "EXO-SC",
-          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
-        },
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
         }
       ],
-      "duration_ms": 200920,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/1v63HdaLjF520P32frB392"
+      "duration_ms": 219336,
+      "name": "SSFW",
+      "url": "https://open.spotify.com/track/4CrjiZPKCIMeDTW1wYZxRG"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "Self-Portrait - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1"
@@ -1533,7 +1481,39 @@
       "url": "https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Poppin\u2019",
+      "url": "https://open.spotify.com/track/1JTUPJr0rSf93hNlRR6S0g"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "OBSESSION",
+        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Non Stop",
+      "url": "https://open.spotify.com/track/7bTYdDUxiFegwLJm6u743n"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "\ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd80 2 (Original Television Soundtrack) Pt.3",
         "url": "https://open.spotify.com/album/1NjDOIVKh62Cv9U1XgZIeT"
@@ -1553,23 +1533,7 @@
       "url": "https://open.spotify.com/track/0qQ0R0SwHzLODkswy3fedU"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "OBSESSION",
-        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Non Stop",
-      "url": "https://open.spotify.com/track/7bTYdDUxiFegwLJm6u743n"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "Delight - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
@@ -1585,55 +1549,7 @@
       "url": "https://open.spotify.com/track/4pulHxja8nTUiojRtfwgTv"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "1 Billion Views - The 1st Album",
-        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
-      },
-      "artists": [
-        {
-          "name": "EXO-SC",
-          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "Jet Lag",
-      "url": "https://open.spotify.com/track/2pGiCkby7jZHeSTGM9aDKE"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "Delight - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/7tIFeLQFS7A6DLcZ12Mv3U"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
-      "album": {
-        "name": "SSFW",
-        "url": "https://open.spotify.com/album/5eq9uD3Lm8SKdYfTBxRdX7"
-      },
-      "artists": [
-        {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
-        }
-      ],
-      "duration_ms": 219336,
-      "name": "SSFW",
-      "url": "https://open.spotify.com/track/4CrjiZPKCIMeDTW1wYZxRG"
-    },
-    {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "Self-Portrait - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1"
@@ -1649,7 +1565,91 @@
       "url": "https://open.spotify.com/track/30NvzcboJe3GQRIDkJM0k3"
     },
     {
-      "added_at": "2021-07-26 13:25:08",
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "\ube0c\ub78c\uc2a4\ub97c \uc88b\uc544\ud558\uc138\uc694? (Original Television Soundtrack) Pt. 11",
+        "url": "https://open.spotify.com/album/1Fq3Vz0CDiKw2tMBPetQxR"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 232332,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/42vjv9XG4joOCBajzAFRaN"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "\ube0c\ub78c\uc2a4\ub97c \uc88b\uc544\ud558\uc138\uc694? (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/0AyYSWdDhu1yiFCrsX0fD9"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 223041,
+      "name": "\ub108\uc758 \ub2ec\ube5b",
+      "url": "https://open.spotify.com/track/7rk0jW98zIHYlfL5FYtEx3"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "1 Billion Views - The 1st Album",
+        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
+      },
+      "artists": [
+        {
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "Jet Lag",
+      "url": "https://open.spotify.com/track/2pGiCkby7jZHeSTGM9aDKE"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "1 Billion Views - The 1st Album",
+        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
+      },
+      "artists": [
+        {
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        },
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 200920,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/1v63HdaLjF520P32frB392"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/7tIFeLQFS7A6DLcZ12Mv3U"
+    },
+    {
+      "added_at": "2023-03-13 06:58:50",
       "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/0WxVZ3hfD1LKSIkbOriLGi"

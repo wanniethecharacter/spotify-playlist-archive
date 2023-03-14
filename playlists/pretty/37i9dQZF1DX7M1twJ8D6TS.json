@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 115891,
+  "num_followers": 115938,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDEwMTc1MDA5ZjQwMDRlMTFkOGIxYzdlZjQ1YjAyNDdk",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDZiYWVlZTVhZTkzODMwMDNjN2E2ZTE5NDFlZTQzNmU4",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 238211,
+      "name": "Drunk Driving",
+      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "A Long Way from Your Heart",
         "url": "https://open.spotify.com/album/04ffYrjCuXYHdWvFXzGeW9"
       },
@@ -191,18 +207,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 238211,
-      "name": "Drunk Driving",
-      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
+      "duration_ms": 254653,
+      "name": "Dear Rodeo",
+      "url": "https://open.spotify.com/track/5S8TnsIYMVrUg1bKxiGf6e"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -223,18 +239,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+        "name": "Good Ones Never Last (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0bP4iNa6xwBAHOmojqDsAy"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 254653,
-      "name": "Dear Rodeo",
-      "url": "https://open.spotify.com/track/5S8TnsIYMVrUg1bKxiGf6e"
+      "duration_ms": 206643,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/4tmGCHso6k8srKMSBHmtlt"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -255,18 +271,34 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Good Ones Never Last (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0bP4iNa6xwBAHOmojqDsAy"
+        "name": "Homeland Insecurity",
+        "url": "https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 206643,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/4tmGCHso6k8srKMSBHmtlt"
+      "duration_ms": 208293,
+      "name": "Come Back Down",
+      "url": "https://open.spotify.com/track/2OmdWZzYSufueUptTzGven"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/2uYVHiJwrv4qxQg9RhmeOn"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4oCUw978NJjfUIWYtEVaCP"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -283,22 +315,6 @@
       "duration_ms": 187633,
       "name": "Unrung",
       "url": "https://open.spotify.com/track/7zrfNVEwO2ig1pGVKh9z66"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Homeland Insecurity",
-        "url": "https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Come Back Down",
-      "url": "https://open.spotify.com/track/2OmdWZzYSufueUptTzGven"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -335,6 +351,38 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Welcome To Countryland",
+        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 200672,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/7zxsnW2mjKjpkgvfZqQNX4"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Vol. 1- EP",
+        "url": "https://open.spotify.com/album/5syk2daTo1YtSBRRjuyCjS"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 268538,
+      "name": "It Ain't Me",
+      "url": "https://open.spotify.com/track/610z3fv4hqlH5eff9yBJTN"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Lovin' Where It's Goin'",
         "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
       },
@@ -351,22 +399,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/2uYVHiJwrv4qxQg9RhmeOn"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4oCUw978NJjfUIWYtEVaCP"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Drowning in Dreams, Pt. 2",
         "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
       },
@@ -379,6 +411,22 @@
       "duration_ms": 268968,
       "name": "Pretty Things",
       "url": "https://open.spotify.com/track/6mPBxiy88z8Gkkqub3vyTC"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/0JvVboA2Yvci4CuBMgyifG"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 274716,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/0IQVTeD4kcuyLKmAF5h03b"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -403,38 +451,6 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Vol. 1- EP",
-        "url": "https://open.spotify.com/album/5syk2daTo1YtSBRRjuyCjS"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 268538,
-      "name": "It Ain't Me",
-      "url": "https://open.spotify.com/track/610z3fv4hqlH5eff9yBJTN"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Welcome To Countryland",
-        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 200672,
-      "name": "Some Things Never Change",
-      "url": "https://open.spotify.com/track/7zxsnW2mjKjpkgvfZqQNX4"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -467,22 +483,6 @@
       "duration_ms": 237060,
       "name": "Don't Even Say Bye",
       "url": "https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Austin",
-        "url": "https://open.spotify.com/album/0JvVboA2Yvci4CuBMgyifG"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 274716,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/0IQVTeD4kcuyLKmAF5h03b"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "How Lucky Am I",
-        "url": "https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 237578,
-      "name": "How Lucky Am I",
-      "url": "https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Ringling Road",
         "url": "https://open.spotify.com/album/3h5aXIK4YtJ0cRn6aWzN2V"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "How Lucky Am I",
+        "url": "https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 237578,
+      "name": "How Lucky Am I",
+      "url": "https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Leanna",
         "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 174555,
       "name": "Hey Moon",
       "url": "https://open.spotify.com/track/55UgjwzWbQqOGMu66RHQRe"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Hellbent",
+        "url": "https://open.spotify.com/album/2OySP5MCjKzroGIQmljuib"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 193645,
+      "name": "You, Me and a Bottle",
+      "url": "https://open.spotify.com/track/5l2vsw5MtFyUcFmsuguNcW"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -739,18 +755,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Hellbent",
-        "url": "https://open.spotify.com/album/2OySP5MCjKzroGIQmljuib"
+        "name": "Red Eye EP",
+        "url": "https://open.spotify.com/album/3tKu9bTu6dfnXHZot0kKFy"
       },
       "artists": [
         {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
         }
       ],
-      "duration_ms": 193645,
-      "name": "You, Me and a Bottle",
-      "url": "https://open.spotify.com/track/5l2vsw5MtFyUcFmsuguNcW"
+      "duration_ms": 319591,
+      "name": "Kill a Man",
+      "url": "https://open.spotify.com/track/1N6pD66bUuUuVX9CfXJxFA"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -767,22 +783,6 @@
       "duration_ms": 206646,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Red Eye EP",
-        "url": "https://open.spotify.com/album/3tKu9bTu6dfnXHZot0kKFy"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 319591,
-      "name": "Kill a Man",
-      "url": "https://open.spotify.com/track/1N6pD66bUuUuVX9CfXJxFA"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Leanna",
+        "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "Around Forever",
+      "url": "https://open.spotify.com/track/5PAuyhBNkrHp7NTHWjvF7V"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Unwanted Man",
         "url": "https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw"
       },
@@ -849,23 +865,7 @@
       "url": "https://open.spotify.com/track/696dr7CxLuSxj52kQhCmEV"
     },
     {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Leanna",
-        "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 225500,
-      "name": "Around Forever",
-      "url": "https://open.spotify.com/track/5PAuyhBNkrHp7NTHWjvF7V"
-    },
-    {
-      "added_at": "2023-03-13 01:31:42",
+      "added_at": "2023-03-14 01:22:02",
       "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
@@ -927,22 +927,6 @@
       "duration_ms": 287031,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/7gj7pwh6wq2Wr0cvcx0mqu"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "One Light Town",
-        "url": "https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Queen for a Night",
-      "url": "https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1011,22 +995,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Bad Reputation",
-        "url": "https://open.spotify.com/album/6z3Qev2DZEDOCDnZX0eNyw"
-      },
-      "artists": [
-        {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
-        }
-      ],
-      "duration_ms": 219613,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/0icfvcZgDWltdFtgBZNUB2"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "American Soul",
         "url": "https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe"
       },
@@ -1043,18 +1011,34 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Where Phones Don't Work",
-        "url": "https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ"
+        "name": "One Light Town",
+        "url": "https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa"
       },
       "artists": [
         {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 213643,
-      "name": "Phones Don't Work",
-      "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
+      "duration_ms": 196066,
+      "name": "Queen for a Night",
+      "url": "https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Bad Reputation",
+        "url": "https://open.spotify.com/album/6z3Qev2DZEDOCDnZX0eNyw"
+      },
+      "artists": [
+        {
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
+        }
+      ],
+      "duration_ms": 219613,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/0icfvcZgDWltdFtgBZNUB2"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1089,7 +1073,23 @@
       "url": "https://open.spotify.com/track/3G6oU2xKe6pTiUzEXh1Nxt"
     },
     {
-      "added_at": "2023-03-13 01:31:42",
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Where Phones Don't Work",
+        "url": "https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 213643,
+      "name": "Phones Don't Work",
+      "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
+    },
+    {
+      "added_at": "2023-03-14 01:22:02",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Cigarettes and Alcohol",
-        "url": "https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ"
-      },
-      "artists": [
-        {
-          "name": "Logan Ryan Band",
-          "url": "https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P"
-        }
-      ],
-      "duration_ms": 277171,
-      "name": "Cigarettes and Alcohol",
-      "url": "https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Where the Neon Lies (with Ronnie Dunn)",
         "url": "https://open.spotify.com/album/2oZKygcTIrbhxKSKjRCGZy"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 242360,
       "name": "Where the Neon Lies (with Ronnie Dunn)",
       "url": "https://open.spotify.com/track/7EiReSdSNMGYz2ki0RRiYP"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Cigarettes and Alcohol",
+        "url": "https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ"
+      },
+      "artists": [
+        {
+          "name": "Logan Ryan Band",
+          "url": "https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P"
+        }
+      ],
+      "duration_ms": 277171,
+      "name": "Cigarettes and Alcohol",
+      "url": "https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Burn Down EP",
-        "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
-      },
-      "artists": [
-        {
-          "name": "Cade Holliday",
-          "url": "https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61"
-        }
-      ],
-      "duration_ms": 204788,
-      "name": "Picture",
-      "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Hold My Beer",
         "url": "https://open.spotify.com/album/570g8LS6QdbTV7LFy1i1Nh"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 239045,
       "name": "Hold My Beer",
       "url": "https://open.spotify.com/track/6PXDfeOlL2y2FBQKpHKIcW"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Burn Down EP",
+        "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
+      },
+      "artists": [
+        {
+          "name": "Cade Holliday",
+          "url": "https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "Picture",
+      "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "What It Doesn\u2019t Do",
-        "url": "https://open.spotify.com/album/1MHxVPMWkJwBYn7FNHncra"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 216084,
-      "name": "What It Doesn\u2019t Do",
-      "url": "https://open.spotify.com/track/0EhzRx6ybqpSac2DW5lx7E"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Something 'Bout a Southern Girl",
         "url": "https://open.spotify.com/album/4QZxScKbnzOx4eVPQmEgp5"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 262186,
       "name": "Something 'Bout a Southern Girl",
       "url": "https://open.spotify.com/track/2TfC1woNLlRmCqn6IWrET6"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "What It Doesn\u2019t Do",
+        "url": "https://open.spotify.com/album/1MHxVPMWkJwBYn7FNHncra"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 216084,
+      "name": "What It Doesn\u2019t Do",
+      "url": "https://open.spotify.com/track/0EhzRx6ybqpSac2DW5lx7E"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "When You're Coming Down",
-        "url": "https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "When You're Coming Down",
-      "url": "https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "In the Dark",
         "url": "https://open.spotify.com/album/3X6pi4gHeBN14Lt9ItfOiX"
       },
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "First Dirt Road",
-        "url": "https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3"
+        "name": "When You're Coming Down",
+        "url": "https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z"
       },
       "artists": [
         {
-          "name": "Chris Colston",
-          "url": "https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz"
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
         }
       ],
-      "duration_ms": 203500,
-      "name": "First Dirt Road",
-      "url": "https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1"
+      "duration_ms": 260000,
+      "name": "When You're Coming Down",
+      "url": "https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Lightning Fast",
-        "url": "https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS"
+        "name": "First Dirt Road",
+        "url": "https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+          "name": "Chris Colston",
+          "url": "https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz"
         }
       ],
-      "duration_ms": 190853,
-      "name": "Lightning Fast",
-      "url": "https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i"
+      "duration_ms": 203500,
+      "name": "First Dirt Road",
+      "url": "https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1611,6 +1595,22 @@
       "duration_ms": 261268,
       "name": "Highway",
       "url": "https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Lightning Fast",
+        "url": "https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 190853,
+      "name": "Lightning Fast",
+      "url": "https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i"
     },
     {
       "added_at": "2022-05-27 04:00:00",

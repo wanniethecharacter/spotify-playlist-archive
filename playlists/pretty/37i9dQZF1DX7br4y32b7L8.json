@@ -1,12 +1,12 @@
 {
   "description": "Maks: \"Ok\u00e9 jij wilt vies nou ik zal je wat vertellen. Zij heeft dyscalculie dus is niet zo goed in tellen.\"",
-  "num_followers": 9775,
+  "num_followers": 9828,
   "original_name": "Viral Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM2MTY4NiwwMDAwMDAwMGJkOTYyNzE2NDEwYjJkNDJiMTE5NmEyOTIyMzE5Y2E1",
+  "snapshot_id": "MTY3ODcwMDcxMywwMDAwMDAwMDQzMjQ2MzM4MjFmZWMwMWU4YTliOGExNjQzMWQxOTA0",
   "tracks": [
     {
       "added_at": "2023-03-07 14:01:33",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-03-07 14:01:33",
       "album": {
-        "name": "Het Eind",
-        "url": "https://open.spotify.com/album/2IsYJShE9eFjUwvkVuIOrG"
-      },
-      "artists": [
-        {
-          "name": "Typhoon",
-          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
-        }
-      ],
-      "duration_ms": 145972,
-      "name": "Het Eind",
-      "url": "https://open.spotify.com/track/2umHBbVBhktAVcU5U6L2BY"
-    },
-    {
-      "added_at": "2023-03-07 14:01:33",
-      "album": {
         "name": "Fiets",
         "url": "https://open.spotify.com/album/7hqt1WB6yK6aqET4FW0yEg"
       },
@@ -123,6 +107,74 @@
       "duration_ms": 101818,
       "name": "Fiets",
       "url": "https://open.spotify.com/track/7dXXQRborTggr2w04Ofo1j"
+    },
+    {
+      "added_at": "2023-03-07 14:01:33",
+      "album": {
+        "name": "Het Eind",
+        "url": "https://open.spotify.com/album/2IsYJShE9eFjUwvkVuIOrG"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "duration_ms": 145972,
+      "name": "Het Eind",
+      "url": "https://open.spotify.com/track/2umHBbVBhktAVcU5U6L2BY"
+    },
+    {
+      "added_at": "2023-03-07 14:01:33",
+      "album": {
+        "name": "Wat Is Er Gebeurd",
+        "url": "https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7"
+      },
+      "artists": [
+        {
+          "name": "Vincent Visser",
+          "url": "https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101"
+        },
+        {
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+        }
+      ],
+      "duration_ms": 155643,
+      "name": "Wat Is Er Gebeurd",
+      "url": "https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5"
+    },
+    {
+      "added_at": "2023-03-07 14:01:33",
+      "album": {
+        "name": "7 Layers",
+        "url": "https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 268466,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0BVUA3FXqQLvZb7r4T22NJ"
+    },
+    {
+      "added_at": "2023-03-07 14:01:33",
+      "album": {
+        "name": "Green Green Grass (Sped-Up)",
+        "url": "https://open.spotify.com/album/147Dfr5kuQAK5bcNSuMDP0"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 128776,
+      "name": "Green Green Grass - Sped-Up",
+      "url": "https://open.spotify.com/track/1gGeEcwqBNxVqjzjAWvS4N"
     },
     {
       "added_at": "2023-03-07 14:01:33",
@@ -159,26 +211,6 @@
       "duration_ms": 141333,
       "name": "Bali",
       "url": "https://open.spotify.com/track/185P7rSD4EGHKzCerrvYtF"
-    },
-    {
-      "added_at": "2023-03-07 14:01:33",
-      "album": {
-        "name": "Wat Is Er Gebeurd",
-        "url": "https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7"
-      },
-      "artists": [
-        {
-          "name": "Vincent Visser",
-          "url": "https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101"
-        },
-        {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
-        }
-      ],
-      "duration_ms": 155643,
-      "name": "Wat Is Er Gebeurd",
-      "url": "https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5"
     },
     {
       "added_at": "2023-03-07 14:01:33",
@@ -263,38 +295,6 @@
       "duration_ms": 175846,
       "name": "Banaan Meloen Kiwi & Citroen",
       "url": "https://open.spotify.com/track/2PPViwxoP2YtX3S2BUxTdj"
-    },
-    {
-      "added_at": "2023-03-07 14:01:33",
-      "album": {
-        "name": "7 Layers",
-        "url": "https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0BVUA3FXqQLvZb7r4T22NJ"
-    },
-    {
-      "added_at": "2023-03-07 14:01:33",
-      "album": {
-        "name": "Green Green Grass (Sped-Up)",
-        "url": "https://open.spotify.com/album/147Dfr5kuQAK5bcNSuMDP0"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 128776,
-      "name": "Green Green Grass - Sped-Up",
-      "url": "https://open.spotify.com/track/1gGeEcwqBNxVqjzjAWvS4N"
     },
     {
       "added_at": "2023-03-07 14:01:33",

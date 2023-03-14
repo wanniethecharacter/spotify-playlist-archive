@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-582 songs - 1 day 6 hr 1 min
+583 songs - 1 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Existe El Amor](https://open.spotify.com/track/1vrFjapAsAdYA2Xmtry5de) | [Noile](https://open.spotify.com/artist/0KjXAq0C0q9edx9triuYi9), [Ladina Viva](https://open.spotify.com/artist/6KIl9XHyJDDXbQLnbTf5wm) | [Existe El Amor](https://open.spotify.com/album/3JyjkVtZ539jj7srxSCQGY) | 2:05 | 2022-07-22 |  |
 | [Face To Face](https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt) | [Face To Face](https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg) | 3:36 | 2022-04-01 | 2022-11-12 |
 | [Fade Away](https://open.spotify.com/track/1oLxfF4dmgoKunk9LCQBCX) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Lush & Simon](https://open.spotify.com/artist/0UN8vGMxWEBKNNu8NtyF96), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Sunrise To Sunset](https://open.spotify.com/album/3DXfe2cEsCdAjORfXw0NDK) | 2:50 | 2022-01-14 | 2022-04-20 |
-| [Fade Away](https://open.spotify.com/track/6yGafCLQo7XjTr6eatEhNS) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Jessica Hart](https://open.spotify.com/artist/41WPcAIdEkYBBn9lfiD6us) | [Fade Away](https://open.spotify.com/album/7453KE569DhKAIsAFgGCDi) | 3:44 | 2022-10-14 |  |
+| [Fade Away](https://open.spotify.com/track/6yGafCLQo7XjTr6eatEhNS) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Jessica Hart](https://open.spotify.com/artist/41WPcAIdEkYBBn9lfiD6us) | [Fade Away](https://open.spotify.com/album/7453KE569DhKAIsAFgGCDi) | 3:44 | 2022-10-14 | 2023-03-14 |
 | [Fade Into Darkness](https://open.spotify.com/track/2MP2r9xNcvNmGCDJDCriu4) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB) | [Fade Into Darkness](https://open.spotify.com/album/63tZ4KGiLkwp2kDgMfXePx) | 3:31 | 2022-04-01 |  |
 | [Fall At Your Feet](https://open.spotify.com/track/69lKbD1RGW41qnsksqtMuq) | [Lucy Neville](https://open.spotify.com/artist/0bq4n0hc3bUfuqIFU79sBC) | [Fall At Your Feet](https://open.spotify.com/album/3NT7QaUJUgaZb5HBlcXEpv) | 3:22 | 2022-01-14 | 2022-05-14 |
 | [Fallin' In Love](https://open.spotify.com/track/431fmcuUMXY4plJk9kOoKI) | [RUXOLF](https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1) | [Fallin' In Love](https://open.spotify.com/album/08l89p4aJeQ5vdrMuEyJpe) | 2:38 | 2023-01-13 | 2023-01-15 |
@@ -559,6 +559,7 @@
 | [We'll Never Get Old](https://open.spotify.com/track/3UX9B5zX6wx7L9nH1PxT9a) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [We'll Never Get Old](https://open.spotify.com/album/7KdWPRuAcT4DS8tNeXNvgn) | 1:52 | 2022-07-01 | 2022-07-27 |
 | [We're Done](https://open.spotify.com/track/6kwfG2qIV9MKrlxwiIjDlh) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Zoe Maxwell](https://open.spotify.com/artist/642AbhxMV1HpvwV4kMAFmw) | [We're Done](https://open.spotify.com/album/2egvFcqSn8KO3CDj5GzdI5) | 2:59 | 2022-04-01 | 2022-07-27 |
 | [Weekends \(I Can Feel It\) \(DJ PRESS PLAY Remix\)](https://open.spotify.com/track/3L9vMbrzmy86udXbCNfxCX) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Tyler Mann](https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz), [DJ PRESS PLAY](https://open.spotify.com/artist/33BNVBRNQM0M3X90E3VciT) | [Weekends \(I Can Feel It\) \(DJ PRESS PLAY Remix\)](https://open.spotify.com/album/00wAj9HNSj1vCaTY2LJ8sH) | 2:40 | 2022-07-08 |  |
+| [What Can We Try](https://open.spotify.com/track/1HiBgVp6L0od0mFcaTy5oG) | [Dawell](https://open.spotify.com/artist/0LWmzWPV1PPwVapnWKtvXt), [Margad](https://open.spotify.com/artist/0q9Rikyw58WDoqfQpp70kM), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [What Can We Try](https://open.spotify.com/album/59TrIn2IxCu3A9tKQk9C7n) | 2:10 | 2023-02-10 |  |
 | [What I Have with You](https://open.spotify.com/track/76yso71etUd9iGbm1tqR0a) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Noile](https://open.spotify.com/artist/0KjXAq0C0q9edx9triuYi9), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [What I Have with You](https://open.spotify.com/album/4oF9Rn6kXH0uYmYQrlEsK6) | 2:22 | 2022-09-23 |  |
 | [What I'd Give](https://open.spotify.com/track/5MFr2IB9u3t7nYdRL53viF) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [What I'd Give](https://open.spotify.com/album/1qxq6W6zj8YTVgJpOnBSYE) | 3:11 | 2022-01-14 |  |
 | [What I'm Looking For](https://open.spotify.com/track/6NrLhWohJARHxqQRW1cLGg) | [seatime](https://open.spotify.com/artist/6hBlKREKLZnMsNIWqujJNz), [Hanniou](https://open.spotify.com/artist/6cPHtMeQsCbbzpKyNDduLT) | [What I'm Looking For](https://open.spotify.com/album/7yIkwEL6vac9LYVS5GLH6z) | 2:04 | 2022-04-22 |  |

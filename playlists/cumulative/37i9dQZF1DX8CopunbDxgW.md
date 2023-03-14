@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: The Blaze
 
-734 songs - 2 day 0 hr 25 min
+735 songs - 2 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Lake Shore Drive](https://open.spotify.com/track/2mFWXeXmghEkm2jcPtXntU) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Lake Shore Drive](https://open.spotify.com/album/4stUGWIUSHrqa0sP6EzAsf) | 4:32 | 2022-03-04 | 2022-04-14 |
 | [Lamb's Wool \(with Poolside\)](https://open.spotify.com/track/2Kv2ihNE3KAztq2GWassEZ) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Lamb's Wool \(with Poolside\)](https://open.spotify.com/album/1Txwny427aGDWNZPxd5mvY) | 4:54 | 2021-03-26 | 2022-07-22 |
 | [Last Bloom](https://open.spotify.com/track/5pB9UH5jW7eO51T5mrat4D) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 5:53 | 2022-09-17 | 2022-10-06 |
+| [Lavender Haze \- Jungle Remix](https://open.spotify.com/track/0ThxqUZ9PwS6n0UT5i1XH6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr) | 3:55 | 2023-03-03 |  |
 | [Laws of the Universe](https://open.spotify.com/track/7mO2zFhGVdZdmGS7TMWH08) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj) | 2:49 | 2023-02-24 |  |
 | [Leave Here](https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0) | 4:57 | 2021-12-17 | 2022-01-20 |
 | [Leaves](https://open.spotify.com/track/5osZESD7WPwkmbUHFpx1XU) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [Rot](https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo) | 4:34 | 2022-02-18 | 2022-07-29 |
@@ -429,7 +430,7 @@
 | [Meliadi](https://open.spotify.com/track/7q0hKCMq8bSTB6z6BSXQ2a) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Meliadi](https://open.spotify.com/album/2uerceDrS1RHxnrpNq8Zz7) | 2:46 | 2021-10-01 | 2022-01-03 |
 | [Melt!](https://open.spotify.com/track/1f4cKwcKfNiLbQr8x2tZ3C) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 3:34 | 2022-09-17 | 2022-10-06 |
 | [Messin' Me Up \(feat\. EVAN GIIA\)](https://open.spotify.com/track/00ls7PYMtiyuqnrji9yKta) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Messin' Me Up \(feat\. EVAN GIIA\)](https://open.spotify.com/album/4mFMa4VmNqExwNQ54L1XTS) | 3:01 | 2021-10-29 | 2022-01-01 |
-| [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 | 2022-04-29 |  |
+| [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 | 2022-04-29 | 2023-03-14 |
 | [Millionaire \(feat\. André 3000\)](https://open.spotify.com/track/1mVTQSGoFchL3VVrIa0MeH) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:44 | 2023-02-24 | 2023-03-04 |
 | [Mindless](https://open.spotify.com/track/63JuomZqCbDTgZ4lect9T2) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Under The Weather](https://open.spotify.com/album/5qwVn38pLMvOFSki8dbRrp) | 2:49 | 2021-09-10 | 2022-02-02 |
 | [Mine](https://open.spotify.com/track/25VKwAAJ7YLvpTJ02yNV5x) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Mine](https://open.spotify.com/album/1BY0QxlWWcjHjpEVqgTnDa) | 4:00 | 2021-08-27 | 2022-02-12 |

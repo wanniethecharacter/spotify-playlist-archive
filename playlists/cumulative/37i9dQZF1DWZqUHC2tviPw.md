@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-188 songs - 8 hr 31 min
+192 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,8 @@
 | [Codename](https://open.spotify.com/track/3ANSFpNRy7eM8Kfcy4fmUC) | [T33N](https://open.spotify.com/artist/6naig8DKTlDmUHHZsady8U), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [Codename](https://open.spotify.com/album/4XwK75LPKPSa8Ov8bJogGE) | 2:50 | 2022-10-14 |  |
 | [Composure](https://open.spotify.com/track/4C4sN0TViLk3P2htA7tPC2) | [Leytonstoned](https://open.spotify.com/artist/6ZbJZBtFBl9YHooEmEBe0m) | [Composure](https://open.spotify.com/album/3jIkn3PQdzq1sLoz82R7ub) | 1:48 | 2021-11-11 |  |
 | [Conclusions](https://open.spotify.com/track/3i9AGr31OTTym77Mzev1Qz) | [Elvaka](https://open.spotify.com/artist/3hY8LSEpccoTSfR8KWjJBE) | [Conclusions](https://open.spotify.com/album/1BKqVuITpB1tSBlxTZCtWX) | 1:44 | 2023-01-20 |  |
+| [Cook](https://open.spotify.com/track/0hzv9wbH3OTtpjDI0HNntH) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Cook](https://open.spotify.com/album/4KxqkKKfMJ81dJzn3nqbxj) | 2:05 | 2023-03-13 |  |
+| [Count Your Blessings](https://open.spotify.com/track/1NbWD40pGtLkGpY1NMsyRX) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Outcast Society](https://open.spotify.com/album/50X5rlLKcD0wFWPsNTdpRu) | 2:33 | 2023-03-13 |  |
 | [Criminal](https://open.spotify.com/track/76zhOrQn8dhBnyFTeteLaJ) | [DJ M](https://open.spotify.com/artist/3P5DeQSZXl547HcStiUkoY) | [Criminal](https://open.spotify.com/album/30pgaBfjKpz1GZpcwNhyum) | 2:17 | 2022-07-15 | 2023-01-20 |
 | [Cut a Rug](https://open.spotify.com/track/5GjAB6xggsDZyAoupbD7pn) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Cut a Rug](https://open.spotify.com/album/3JFp7UL5zWsXWVBpp7fjZ2) | 3:18 | 2023-01-20 |  |
 | [danyyye](https://open.spotify.com/track/5gJ9rmN0ix8XkyX7FhxTso) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [danyyye / rowdy](https://open.spotify.com/album/0Rtjj04prMwTFjlREiwKHH) | 2:44 | 2022-09-16 |  |
@@ -122,6 +124,7 @@
 | [Oopsy](https://open.spotify.com/track/3OUA1bhQpKkLH05dy9POEz) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Soul Waste](https://open.spotify.com/album/4ungK52Ght7QUuKwRc0rlF) | 2:47 | 2021-11-11 |  |
 | [Operation Chaos](https://open.spotify.com/track/0sWKVy4Z3TraqZT3r70TLA) | [4Traks](https://open.spotify.com/artist/5FbfJVwTIC5N1m85sBoil0) | [Operation Chaos](https://open.spotify.com/album/5yBAcO2ny2fw5ayEvAZ9QT) | 2:52 | 2021-11-11 |  |
 | [Orchid](https://open.spotify.com/track/2YCCzhXCvptKWzr2aN5Lbv) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Orchid](https://open.spotify.com/album/376EH4CpgOo1mCyj6z7nsb) | 2:34 | 2021-11-11 |  |
+| [Outcast Society](https://open.spotify.com/track/47Dqsk0yqHRrjqlJZd5c2v) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Outcast Society](https://open.spotify.com/album/50X5rlLKcD0wFWPsNTdpRu) | 2:33 | 2023-03-13 |  |
 | [Outside Today](https://open.spotify.com/track/6gDkbD3i1MFRuqLZaqeNUZ) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Love Me More](https://open.spotify.com/album/1XkdQ50zuJFGCIBtSasZ3b) | 2:02 | 2022-12-09 |  |
 | [paint](https://open.spotify.com/track/28p37blBJxXtnAtl9ndjC0) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [tile & error](https://open.spotify.com/album/1kMqljBJ3CMhls6972lJ8H) | 2:32 | 2021-11-11 |  |
 | [PAN](https://open.spotify.com/track/2njSLjUu82lnvgSlZftXuF) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [Poly](https://open.spotify.com/album/6DOrQ8NGjYVn9FmexHUf4U) | 2:51 | 2021-11-11 |  |
@@ -191,6 +194,7 @@
 | [Wesley](https://open.spotify.com/track/5yACaHvqRm1tCL5RsaIs9w) | [Velli Roze](https://open.spotify.com/artist/1tRALjpw3fKgtjhzkcjqLm) | [Upscencion](https://open.spotify.com/album/0glQ55ZkBXkyJIUxqx38a5) | 4:23 | 2021-11-11 |  |
 | [WhirligiG](https://open.spotify.com/track/04DyIqLxOCBoJz6TLniVOc) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Shell Games](https://open.spotify.com/album/1QJkOlBuUBIcs5mE4ePhOo) | 2:39 | 2021-11-11 |  |
 | [wide perspective](https://open.spotify.com/track/4OLLtYRdoRlJ1DpYYFQUyn) | [stonefold](https://open.spotify.com/artist/1jCsCfZCxNohxXdoE3Rw4f) | [wide perspective](https://open.spotify.com/album/5iEtLDPE4nnufUUBEn56HY) | 2:20 | 2021-11-11 |  |
+| [Willfully Blind](https://open.spotify.com/track/4WGL5cz4peREOVOv8FWemf) | [Nowhere Now Here](https://open.spotify.com/artist/28VTxH3Tc2T5tamVQGYnI6) | [Willfully Blind](https://open.spotify.com/album/16tMBxkZLCfnK6ngq0q8FQ) | 2:25 | 2023-03-13 |  |
 | [Wolfgang](https://open.spotify.com/track/3DyOBWuPDKv5u0g8VHgEQ2) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Wolfgang](https://open.spotify.com/album/656LYnVJyuOcoiZbfhk468) | 2:28 | 2021-11-11 |  |
 | [Wonderland](https://open.spotify.com/track/7IpMCQSwhwQOjb8cHr7ViV) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [Wonderland](https://open.spotify.com/album/3dL5EuR6gRlgWhmMbWId0i) | 4:03 | 2021-11-11 | 2022-09-17 |
 | [Y2K](https://open.spotify.com/track/5sFrWbiYAfBkHmpgo3j9cV) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Y2K](https://open.spotify.com/album/5zgdMB01DgxhbQClYO9k8Y) | 2:16 | 2022-11-25 |  |

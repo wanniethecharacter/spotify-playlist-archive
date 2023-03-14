@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 277298,
+  "num_followers": 277369,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDI0MDc4MywwMDAwMDAwMGI0YTE5NzMzMzU4ZDcwYjk4NzhkNDZiMDgwNjFkMTVk",
+  "snapshot_id": "MTY3NDI0MDc4MywwMDAwMDAwMGYxYjRmMmE2N2U3OTRlMTc4NzJlYzM3NDM1N2ZiNGZk",
   "tracks": [
     {
       "added_at": "2022-07-06 15:18:34",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
+      },
+      "artists": [
+        {
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+        }
+      ],
+      "duration_ms": 135375,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "George Clanton and Nick Hexum",
         "url": "https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
-      },
-      "artists": [
-        {
-          "name": "atmos bloom",
-          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
-        }
-      ],
-      "duration_ms": 135375,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Twin Heavy",
         "url": "https://open.spotify.com/album/7scLEhIuAJaCp6qUhQqLAy"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Is This Where It Ends",
-        "url": "https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq"
-      },
-      "artists": [
-        {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
-        }
-      ],
-      "duration_ms": 242943,
-      "name": "Is This Where It Ends",
-      "url": "https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 202026,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Is This Where It Ends",
+        "url": "https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 242943,
+      "name": "Is This Where It Ends",
+      "url": "https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv"
-      },
-      "artists": [
-        {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
-        }
-      ],
-      "duration_ms": 235653,
-      "name": "The Dark",
-      "url": "https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Irrational",
         "url": "https://open.spotify.com/album/1VmiJCAcmp4GS8rrKa6slF"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 203992,
       "name": "Irrational",
       "url": "https://open.spotify.com/track/0HAsOUxDiYHKaQSoKKEN5z"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv"
+      },
+      "artists": [
+        {
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+        }
+      ],
+      "duration_ms": 235653,
+      "name": "The Dark",
+      "url": "https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt"
     },
     {
       "added_at": "2022-07-06 15:18:34",

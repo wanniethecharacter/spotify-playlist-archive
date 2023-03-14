@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,928 likes - 103 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,950 likes - 103 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 23 | [Bukan Puncak Dunia](https://open.spotify.com/track/21mpi8nmI5miVaburS9skb) | [Aldrian Risjad](https://open.spotify.com/artist/0xAsnbVO1GP3HZjfOv9qd9) | [Bukan Puncak Dunia](https://open.spotify.com/album/3FimzEb3tL5Hv9VeWTibfp) | 4:26 |
 | 24 | [Heart to Feel](https://open.spotify.com/track/1mYpobgGpZtBhsC5cLfUU2) | [HMGNC](https://open.spotify.com/artist/2FSYA29FuLWhdc091MvgYl) | [Heart to Feel](https://open.spotify.com/album/1I762Mq05mfyo4bYvTvRXt) | 4:13 |
 | 25 | [COME CLOSER](https://open.spotify.com/track/1CQpQt17FKvrlQMOwW4gTw) | [Soundwave](https://open.spotify.com/artist/2KMR8kfHQCPYJ2SatjkIEu) | [COME CLOSER](https://open.spotify.com/album/0zP8k6P206eQVV7yFaQMdk) | 2:42 |
-| 26 | [Real Love Still Exists \(feat\. Yuna\)](https://open.spotify.com/track/0lJxsFybSunQWH4MQNIyCo) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Real Love Still Exists \(feat\. Yuna\)](https://open.spotify.com/album/7pbhkjfyhay9oP0RxqCZKt) | 3:02 |
+| 26 | [Real Love Still Exists](https://open.spotify.com/track/0lJxsFybSunQWH4MQNIyCo) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Real Love Still Exists](https://open.spotify.com/album/7pbhkjfyhay9oP0RxqCZKt) | 3:02 |
 | 27 | [Foto Fit](https://open.spotify.com/track/12SpVXQmFfKvhXuI9GK8A4) | [Wicigo Shawty](https://open.spotify.com/artist/11YdJ9365MP5iprTsq8plx), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Foto Fit](https://open.spotify.com/album/4FYdMaWVu5XebwS0OfvX8k) | 2:32 |
 | 28 | [Bersinar](https://open.spotify.com/track/4PaiDBUnMbJ3M8SRk4J7ew) | [Ben Utomo](https://open.spotify.com/artist/2w1klrlMW8RqL6YLOy0OKs), [Kay Oscar](https://open.spotify.com/artist/7EI2yC73aMIPjyOeV0MCgF) | [Bersinar](https://open.spotify.com/album/0l456tqgaeNUr6SnEs2CqW) | 2:46 |
 | 29 | [Orange Form](https://open.spotify.com/track/0bQB2nzHzeaHRHwcDOYFU2) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [HIJACK](https://open.spotify.com/artist/0oKLpxMpjlPi53LWu3HQko), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Orange Form](https://open.spotify.com/album/2SPikt4OfYU79pcvHwvaBG) | 2:31 |

@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 318464,
       "name": "Road",
       "url": "https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2"
@@ -3092,6 +3092,24 @@
       "duration_ms": 218571,
       "name": "Wandering Spirit",
       "url": "https://open.spotify.com/track/6E30fAWCLP4LFusJMZKgq0"
+    },
+    {
+      "album": {
+        "name": "WHITE DOWN JKT",
+        "url": "https://open.spotify.com/album/5cdp6CeC6nB5zS9o7g3xOQ"
+      },
+      "artists": [
+        {
+          "name": "valknee",
+          "url": "https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115915,
+      "name": "WHITE DOWN JKT",
+      "url": "https://open.spotify.com/track/3tmbeNhGonMxauKcmBPMaH"
     },
     {
       "album": {

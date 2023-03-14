@@ -2537,6 +2537,24 @@
     },
     {
       "album": {
+        "name": "Between the Lines",
+        "url": "https://open.spotify.com/album/20q0nU6A93tGx7ebWyHpUm"
+      },
+      "artists": [
+        {
+          "name": "Carmelito",
+          "url": "https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109526,
+      "name": "Between the Lines",
+      "url": "https://open.spotify.com/track/7E59hHJ68v9vj6fZeFfqAK"
+    },
+    {
+      "album": {
         "name": "Beyond The Glimmering Light",
         "url": "https://open.spotify.com/album/40yxXM3SxRR0qUqzjwQBhN"
       },
@@ -4064,7 +4082,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 204000,
       "name": "Counting the Days You\u2019re Gone",
       "url": "https://open.spotify.com/track/69fSsSmk0EHoJjiUK12AKm"
@@ -4374,6 +4392,24 @@
       "duration_ms": 192000,
       "name": "Dandelion Song",
       "url": "https://open.spotify.com/track/1wDYoGkjEyzH0LgYNuS4YS"
+    },
+    {
+      "album": {
+        "name": "dans le Bleu",
+        "url": "https://open.spotify.com/album/4pI7r8JcKxLLWAB7iM5bdu"
+      },
+      "artists": [
+        {
+          "name": "Ricard Paul",
+          "url": "https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109874,
+      "name": "dans le Bleu",
+      "url": "https://open.spotify.com/track/0f8fnzecrwlGZYOWOHTMz0"
     },
     {
       "album": {
@@ -7294,7 +7330,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 198156,
       "name": "Fragrance",
       "url": "https://open.spotify.com/track/6hDznBNAnNaItEKfaJ2z6o"
@@ -11337,6 +11373,24 @@
     },
     {
       "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/4P2IZgpcl7n589pnQSzU6o"
+      },
+      "artists": [
+        {
+          "name": "Cecile Roy",
+          "url": "https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117806,
+      "name": "Last Snow",
+      "url": "https://open.spotify.com/track/38oJwdFVSaOvzxHYToFygq"
+    },
+    {
+      "album": {
         "name": "Lasting Sun",
         "url": "https://open.spotify.com/album/5REPgXHjdINZAW11xWVQEq"
       },
@@ -13282,7 +13336,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 166574,
       "name": "Melody For Myself",
       "url": "https://open.spotify.com/track/5AbjZjJ68pkpAhRqO0u7fG"
@@ -13826,7 +13880,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 146239,
       "name": "Mon Ami",
       "url": "https://open.spotify.com/track/5uq2R1bTmJaqRrY8uwstVS"
@@ -15252,7 +15306,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 226875,
       "name": "of view",
       "url": "https://open.spotify.com/track/4CK2atgvodyG3xJPXXt58U"
@@ -17438,6 +17492,24 @@
     {
       "album": {
         "name": "Reflections",
+        "url": "https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113986,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf"
+    },
+    {
+      "album": {
+        "name": "Reflections",
         "url": "https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI"
       },
       "artists": [
@@ -18518,7 +18590,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 151250,
       "name": "Santolea",
       "url": "https://open.spotify.com/track/6X4fTprmm1elJ6LPGXJEsP"
@@ -19700,6 +19772,24 @@
       "duration_ms": 122883,
       "name": "Slowdance",
       "url": "https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77"
+    },
+    {
+      "album": {
+        "name": "Smukke Sm\u00e5 Ting",
+        "url": "https://open.spotify.com/album/5LRfR2qy1MHU0Zbl6tIjDv"
+      },
+      "artists": [
+        {
+          "name": "Julle S\u00f8rensen",
+          "url": "https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120603,
+      "name": "Smukke Sm\u00e5Ting",
+      "url": "https://open.spotify.com/track/5QMDR6TSypBIy54FoA8dIR"
     },
     {
       "album": {
@@ -23379,6 +23469,24 @@
     },
     {
       "album": {
+        "name": "Un Jour Viendra",
+        "url": "https://open.spotify.com/album/34RXSvhj4VpACMwyx1LDeX"
+      },
+      "artists": [
+        {
+          "name": "Francis Laplanne",
+          "url": "https://open.spotify.com/artist/5CKQ9qNvPaV6mZ3eeOcUMY"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104051,
+      "name": "Un Jour Viendra",
+      "url": "https://open.spotify.com/track/3ccBuCUCjkArY2U3x3gA8s"
+    },
+    {
+      "album": {
         "name": "Un Lent Mouvement",
         "url": "https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb"
       },
@@ -23786,7 +23894,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 194948,
       "name": "Velez-Malaga",
       "url": "https://open.spotify.com/track/7lTwRNweZTKc9C4COzTihs"

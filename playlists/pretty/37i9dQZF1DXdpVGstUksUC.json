@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 489167,
+  "num_followers": 489358,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGY2Zjc5NzI4ZGM2MGQwNzA5YmIzODEyYTVhZDVjNjJm",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGQyNDcxODVhNzZiOWUyMzNhYTNjNWUxZThiNjY2MTZm",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Black Sabbath (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "The Wizard - 2014 Remaster",
-      "url": "https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Sleep's Holy Mountain",
         "url": "https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs"
       },
@@ -215,22 +199,6 @@
       "duration_ms": 343160,
       "name": "Dragonaut",
       "url": "https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Age of Winters",
-        "url": "https://open.spotify.com/album/3s4TEYpm0Nl7csTO3NCQ1I"
-      },
-      "artists": [
-        {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
-        }
-      ],
-      "duration_ms": 274400,
-      "name": "Freya",
-      "url": "https://open.spotify.com/track/5CocEvWeRX1VIMNAMwVdmk"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -251,6 +219,38 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Age of Winters",
+        "url": "https://open.spotify.com/album/3s4TEYpm0Nl7csTO3NCQ1I"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "Freya",
+      "url": "https://open.spotify.com/track/5CocEvWeRX1VIMNAMwVdmk"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Black Sabbath (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "The Wizard - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Vols. 11 & 12",
         "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
       },
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "From Beale Street to Oblivion",
-        "url": "https://open.spotify.com/album/0NwhaAWEFAeUuZ7lrCCXFx"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 314746,
-      "name": "Electric Worry",
-      "url": "https://open.spotify.com/track/7mQgJx5mfCuI6o8elrYCKg"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Welcome to Sky Valley",
         "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 311906,
       "name": "Demon Cleaner",
       "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "From Beale Street to Oblivion",
+        "url": "https://open.spotify.com/album/0NwhaAWEFAeUuZ7lrCCXFx"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 314746,
+      "name": "Electric Worry",
+      "url": "https://open.spotify.com/track/7mQgJx5mfCuI6o8elrYCKg"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Queens of the Stone Age",
-        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 277808,
-      "name": "Regular John",
-      "url": "https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
       },
@@ -359,22 +343,6 @@
       "duration_ms": 317600,
       "name": "An Alternative to Freedom",
       "url": "https://open.spotify.com/track/0fATnWJXdt6ke5kR2klu7g"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Dopes To Infinity",
-        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Negasonic Teenage Warhead",
-      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -395,6 +363,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Queens of the Stone Age",
+        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 277808,
+      "name": "Regular John",
+      "url": "https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Welcome to Sky Valley",
         "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Blast Tyrant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7oyuh0TWCDf6rbsG4Elsi8"
+        "name": "Dopes To Infinity",
+        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
       },
       "artists": [
         {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
         }
       ],
-      "duration_ms": 325026,
-      "name": "The Regulator",
-      "url": "https://open.spotify.com/track/0ni8h8HAJNFwuL9cMWR9XN"
+      "duration_ms": 267933,
+      "name": "Negasonic Teenage Warhead",
+      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -455,6 +439,22 @@
       "duration_ms": 523333,
       "name": "Funeralopolis",
       "url": "https://open.spotify.com/track/6DU1WKdUnR7OZkw7BZl9P0"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Blast Tyrant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7oyuh0TWCDf6rbsG4Elsi8"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 325026,
+      "name": "The Regulator",
+      "url": "https://open.spotify.com/track/0ni8h8HAJNFwuL9cMWR9XN"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+        "name": "Mars Red Sky",
+        "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Mars Red Sky",
+          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
         }
       ],
-      "duration_ms": 352440,
-      "name": "Song For The Dead",
-      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
+      "duration_ms": 329626,
+      "name": "Strong Reflection",
+      "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Mars Red Sky",
-        "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
       "artists": [
         {
-          "name": "Mars Red Sky",
-          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 329626,
-      "name": "Strong Reflection",
-      "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
+      "duration_ms": 352440,
+      "name": "Song For The Dead",
+      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Seven Thunders Roar",
-        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
-      },
-      "artists": [
-        {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
-        }
-      ],
-      "duration_ms": 961942,
-      "name": "I'm the Mountain",
-      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Witch",
         "url": "https://open.spotify.com/album/6WchxcxHQkc9DnwYc3WEC0"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 477920,
       "name": "Seer",
       "url": "https://open.spotify.com/track/7cShikd4rLNwAlHrHo0AFt"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Seven Thunders Roar",
+        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
+      },
+      "artists": [
+        {
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+        }
+      ],
+      "duration_ms": 961942,
+      "name": "I'm the Mountain",
+      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Luciferian Towers",
-        "url": "https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH"
+        "name": "Our Mother Electricity",
+        "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
       },
       "artists": [
         {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
         }
       ],
-      "duration_ms": 279840,
-      "name": "Bosses Hang, Pt. I",
-      "url": "https://open.spotify.com/track/4vXuXPEZZpMXLW1pzRNCy2"
+      "duration_ms": 352073,
+      "name": "Elk.Blood.Heart",
+      "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -907,34 +907,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Old Growth",
-        "url": "https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT"
+        "name": "Luciferian Towers",
+        "url": "https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH"
       },
       "artists": [
         {
-          "name": "Dead Meadow",
-          "url": "https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0"
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
         }
       ],
-      "duration_ms": 256959,
-      "name": "What Needs Must Be",
-      "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Our Mother Electricity",
-        "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 352073,
-      "name": "Elk.Blood.Heart",
-      "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
+      "duration_ms": 279840,
+      "name": "Bosses Hang, Pt. I",
+      "url": "https://open.spotify.com/track/4vXuXPEZZpMXLW1pzRNCy2"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -951,6 +935,22 @@
       "duration_ms": 636226,
       "name": "Dopethrone",
       "url": "https://open.spotify.com/track/6rbtbfELvUHsOjgYyz52lT"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Old Growth",
+        "url": "https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT"
+      },
+      "artists": [
+        {
+          "name": "Dead Meadow",
+          "url": "https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0"
+        }
+      ],
+      "duration_ms": 256959,
+      "name": "What Needs Must Be",
+      "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "The No. 6 Dance",
-        "url": "https://open.spotify.com/album/3V1vwPwJmuY0hJHf8Qac5J"
-      },
-      "artists": [
-        {
-          "name": "Five Horse Johnson",
-          "url": "https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Mississippi King",
-      "url": "https://open.spotify.com/track/44MBgTjYSZUIqq6KoBEcsD"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Son of Earth and Sky",
         "url": "https://open.spotify.com/album/3Rt1KIZ02Onot7N0JZatFu"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 549640,
       "name": "Ages Move the Earth",
       "url": "https://open.spotify.com/track/4w6W7kTcv13sbJutJXoPYh"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "The No. 6 Dance",
+        "url": "https://open.spotify.com/album/3V1vwPwJmuY0hJHf8Qac5J"
+      },
+      "artists": [
+        {
+          "name": "Five Horse Johnson",
+          "url": "https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "Mississippi King",
+      "url": "https://open.spotify.com/track/44MBgTjYSZUIqq6KoBEcsD"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Woodland Rites",
-        "url": "https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro"
+        "name": "Head Smashed In",
+        "url": "https://open.spotify.com/album/2VSqgmpVulvNEeIoxZGJVw"
       },
       "artists": [
         {
-          "name": "Green Lung",
-          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
+          "name": "We Hunt Buffalo",
+          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
         }
       ],
-      "duration_ms": 274453,
-      "name": "Woodland Rites",
-      "url": "https://open.spotify.com/track/6NTGbJZOj8FxFT30uYCEjp"
+      "duration_ms": 290965,
+      "name": "Heavy Low",
+      "url": "https://open.spotify.com/track/4tLIZnSxxoVG2CtJkO0ov3"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1307,34 +1307,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Head Smashed In",
-        "url": "https://open.spotify.com/album/2VSqgmpVulvNEeIoxZGJVw"
+        "name": "Woodland Rites",
+        "url": "https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro"
       },
       "artists": [
         {
-          "name": "We Hunt Buffalo",
-          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
+          "name": "Green Lung",
+          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
         }
       ],
-      "duration_ms": 290965,
-      "name": "Heavy Low",
-      "url": "https://open.spotify.com/track/4tLIZnSxxoVG2CtJkO0ov3"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "King of Cowards",
-        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
-      },
-      "artists": [
-        {
-          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
-        }
-      ],
-      "duration_ms": 349330,
-      "name": "GNT",
-      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
+      "duration_ms": 274453,
+      "name": "Woodland Rites",
+      "url": "https://open.spotify.com/track/6NTGbJZOj8FxFT30uYCEjp"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1351,6 +1335,22 @@
       "duration_ms": 244720,
       "name": "The Great American Death Rattle",
       "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "King of Cowards",
+        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        }
+      ],
+      "duration_ms": 349330,
+      "name": "GNT",
+      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Euporie Tide",
+        "url": "https://open.spotify.com/album/5Ylo2MVt7UMcv7gPGyC3hu"
+      },
+      "artists": [
+        {
+          "name": "Causa Sui",
+          "url": "https://open.spotify.com/artist/1TAcaMoUlvLpTUzh18TzDY"
+        }
+      ],
+      "duration_ms": 608253,
+      "name": "Homage",
+      "url": "https://open.spotify.com/track/7ztFsRXXKrkUjMaLn1siHJ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Only a Suggestion",
         "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
       },
@@ -1483,34 +1499,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Rust",
-        "url": "https://open.spotify.com/album/5NGeKmbgxv6GHky0EtaIZx"
+        "name": "Boxriff",
+        "url": "https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7"
       },
       "artists": [
         {
-          "name": "Monolord",
-          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+          "name": "The Atomic Bitchwax",
+          "url": "https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6"
         }
       ],
-      "duration_ms": 339000,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/6lFJiZ4aiGxobbu3ronF9O"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Euporie Tide",
-        "url": "https://open.spotify.com/album/5Ylo2MVt7UMcv7gPGyC3hu"
-      },
-      "artists": [
-        {
-          "name": "Causa Sui",
-          "url": "https://open.spotify.com/artist/1TAcaMoUlvLpTUzh18TzDY"
-        }
-      ],
-      "duration_ms": 608253,
-      "name": "Homage",
-      "url": "https://open.spotify.com/track/7ztFsRXXKrkUjMaLn1siHJ"
+      "duration_ms": 251973,
+      "name": "So Come On",
+      "url": "https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Boxriff",
-        "url": "https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7"
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/5NGeKmbgxv6GHky0EtaIZx"
       },
       "artists": [
         {
-          "name": "The Atomic Bitchwax",
-          "url": "https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6"
+          "name": "Monolord",
+          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
         }
       ],
-      "duration_ms": 251973,
-      "name": "So Come On",
-      "url": "https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA"
+      "duration_ms": 339000,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/6lFJiZ4aiGxobbu3ronF9O"
     },
     {
       "added_at": "2023-03-10 05:00:00",

@@ -5128,6 +5128,24 @@
     {
       "album": {
         "name": "Tr\u00e4umerei",
+        "url": "https://open.spotify.com/album/54umevt47c8CAJWwQrSfqh"
+      },
+      "artists": [
+        {
+          "name": "Cosima Bradley",
+          "url": "https://open.spotify.com/artist/6l8VqzILTHqmDJfISU6bPg"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Tr\u00e4umerei",
+      "url": "https://open.spotify.com/track/39ANFdz1ZUTRASfiDw4ysH"
+    },
+    {
+      "album": {
+        "name": "Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
       },
       "artists": [

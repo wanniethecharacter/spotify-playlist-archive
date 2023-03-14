@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ e dai suoi alleati\. Sans Soucis in cover, e <a href="spotify:playlist:37i9dQZF1DX3LyU0mhfqgP">nella playlist global</a> ✨
 
-260 songs - 15 hr 48 min
+261 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-02-10 | 2023-01-25 |
 | [Hi, I'm a Slut](https://open.spotify.com/track/2gFMgqvKcygf8CavNyR131) | [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx) | [Lil Mariko](https://open.spotify.com/album/4FA6S8h3E3bCiLApDDPZzb) | 2:50 | 2022-04-01 | 2023-01-25 |
 | [Ho pianto in discoteca](https://open.spotify.com/track/5wvVbN2nYosTemhRiIlJ1K) | [Sem&Stènn](https://open.spotify.com/artist/4urS4ezvKDRW6o0XQeRve5), [CRLN](https://open.spotify.com/artist/4Gmkm3PIIdBZkSMlIdsMwZ) | [Ho pianto in discoteca](https://open.spotify.com/album/24JZfKM6ETpX1RkL4eiR7m) | 2:51 | 2021-11-19 | 2022-07-29 |
-| [Honey \- Original mix](https://open.spotify.com/track/5AGGlWNS6to8ccEt4goFd8) | [Fivequestionmarks](https://open.spotify.com/artist/2LuGWCQe0znzHPriNsi2bg), [Produkkt](https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b) | [Zucchero](https://open.spotify.com/album/2cXFVGdObf28i68Sl6GMPs) | 3:53 | 2022-07-07 |  |
+| [Honey \- Original mix](https://open.spotify.com/track/5AGGlWNS6to8ccEt4goFd8) | [Fivequestionmarks](https://open.spotify.com/artist/2LuGWCQe0znzHPriNsi2bg), [Produkkt](https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b) | [Zucchero](https://open.spotify.com/album/2cXFVGdObf28i68Sl6GMPs) | 3:53 | 2022-07-07 | 2023-03-14 |
 | [How I Became A House](https://open.spotify.com/track/2J2VP9r6Tq8yPuxEVd4UJy) | [Dafne](https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH) | [Loser With A Strategy](https://open.spotify.com/album/3ja6JyJDSg2ucusI9kFUbG) | 2:59 | 2022-04-01 |  |
 | [I'm Not Defeated \- Cassius Remix](https://open.spotify.com/track/7iJZ0ADQhYIyk6c63mAzMY) | [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor), [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [I'm Not Defeated \(Cassius Remix\)](https://open.spotify.com/album/5QiCs86yEbzpc0ZrkbTMKY) | 4:03 | 2021-11-19 | 2022-07-27 |
 | [Il mondo non cambia mai \- Club Remix](https://open.spotify.com/track/27hWThmcTksfVOouhhgTXV) | [H.E.R.](https://open.spotify.com/artist/4qO38FsAm2dNLh0LDswJI7) | [Il mondo non cambia mai \(Club Remix\)](https://open.spotify.com/album/4YFZFZnm72tpKHIWg7WQ7e) | 4:42 | 2022-06-26 | 2022-07-29 |
@@ -135,6 +135,7 @@
 | [Lick Down](https://open.spotify.com/track/1oGoUrWkVQRGEDTUi89ml1) | [Playgirls from Caracas](https://open.spotify.com/artist/2DtlP0AAGRMHdesTux8mu9) | [Lick Down](https://open.spotify.com/album/75rbIzYrEKOOvpKmVRA8gR) | 3:25 | 2021-11-19 | 2022-07-29 |
 | [Lights Down Low](https://open.spotify.com/track/7KcYOID0yLOTK9Zzk22orw) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Lights Down Low](https://open.spotify.com/album/6oroiCK7V2vbl5pCt4U9gI) | 3:18 | 2021-11-19 | 2022-07-28 |
 | [Lingua in Fiamme](https://open.spotify.com/track/5bViZhr1ilSTa5CKy2Lbyy) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Lingua in Fiamme](https://open.spotify.com/album/2Ma0QxRuiFjfQd35owYuXy) | 3:03 | 2022-07-04 | 2023-02-25 |
+| [Lingua in Fiamme](https://open.spotify.com/track/66dUFD7kK9aHU4AwKJeMEL) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Lingua in Fiamme](https://open.spotify.com/album/2LKM66yAYt1a0XS0jCdymF) | 3:03 | 2023-02-28 |  |
 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 | 2022-06-12 | 2022-06-27 |
 | [Lolita](https://open.spotify.com/track/3izyPpgjYjbKEFtng3IEcS) | [PRISTINE BABE](https://open.spotify.com/artist/0X8u1C9pKwm2tdvMKMVc31) | [Lolita](https://open.spotify.com/album/5CcDEtm147K0SuKsALChfM) | 3:49 | 2021-11-19 | 2022-02-01 |
 | [Lose You](https://open.spotify.com/track/2xKJ1lp7QG8E9VqpXSu1i6) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [I Feel Cream](https://open.spotify.com/album/6kceeYJdBMthVBI7VLKpoQ) | 3:31 | 2022-06-26 | 2022-07-16 |

@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-347 songs - 1 day 1 hr 57 min
+348 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Alive](https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ) | [Ytram](https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ), [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Alive](https://open.spotify.com/album/5PAmbnJ63zag2pdfYAj9mD) | 2:48 | 2021-05-07 |  |
 | [Alive \(feat\. The Moth & The Flame\)](https://open.spotify.com/track/1SETgPENHVzsWoD9g79LYI) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Alive \(feat\. The Moth & The Flame\)](https://open.spotify.com/album/5nTSB1dEcWtAtkWnHgOcMR) | 5:08 | 2022-10-14 |  |
 | [All I Want \(feat\. Goatchy\)](https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Goatchy](https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh) | [All I Want \(feat\. Goatchy\)](https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv) | 3:44 | 2021-05-07 |  |
-| [Alone](https://open.spotify.com/track/2Pwcpc8IEcnH3Vv46vToTO) | [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2), [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R), [MICAH](https://open.spotify.com/artist/2YrneHqbMOEKtGG6SxP8FL) | [Alone](https://open.spotify.com/album/67wKBjmJ98YFQAwBHpw38W) | 2:28 | 2023-01-13 |  |
+| [Alone](https://open.spotify.com/track/2Pwcpc8IEcnH3Vv46vToTO) | [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2), [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R), [MICAH](https://open.spotify.com/artist/2YrneHqbMOEKtGG6SxP8FL) | [Alone](https://open.spotify.com/album/67wKBjmJ98YFQAwBHpw38W) | 2:28 | 2023-01-13 | 2023-03-14 |
 | [Am I Dreaming?](https://open.spotify.com/track/3IIkauBOBcbGP2Oipz94Hn) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Am I Dreaming?](https://open.spotify.com/album/6vwrLU9l7FV09bFgEzARS2) | 3:32 | 2023-01-20 | 2023-03-10 |
 | [Amanhã](https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Amanhã](https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna) | 3:32 | 2022-02-18 | 2022-06-25 |
 | [Analog Dreams](https://open.spotify.com/track/2SwpC5zbzMFiisWKM6waSn) | [Sunlight Project](https://open.spotify.com/artist/5LCi8fJi3KXdJOaAtVZy7t) | [Analog Dreams / Poolside / Arcade](https://open.spotify.com/album/25ASdZStbcOu4gIRPZ8qrf) | 3:16 | 2021-05-07 | 2022-04-20 |
@@ -300,6 +300,7 @@
 | [The Book Of Wisdom](https://open.spotify.com/track/2LbBVu9zXT5VBtKQUr7Bjz) | [ZOYA](https://open.spotify.com/artist/5eqThkuR9VjiLuYfzESTp7) | [The Book Of Wisdom](https://open.spotify.com/album/3rZzflHwbx182lpEdodaVn) | 3:29 | 2021-05-07 | 2022-04-19 |
 | [The Coaster](https://open.spotify.com/track/29Z2NgQd8Og6nKlzs1GQ6S) | [Rodg](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT) | [The Coaster](https://open.spotify.com/album/7bc7gl0qBODD1JQHbTtjwA) | 3:06 | 2021-05-07 | 2022-07-21 |
 | [The Grand Swell](https://open.spotify.com/track/3SwAjQOvQ79jpLZyjzJwJh) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [The Grand Swell](https://open.spotify.com/album/23V0126apKDHzsQrAiqLwT) | 4:51 | 2021-08-20 | 2022-07-29 |
+| [The Maker](https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [The Maker](https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md) | 2:36 | 2023-03-14 |  |
 | [The Navigator](https://open.spotify.com/track/6iNjFncKo3p2T2gi9yKuOw) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [The Navigator](https://open.spotify.com/album/1K1IAd3OoWMakUBD5CRiZD) | 6:03 | 2021-11-05 | 2022-06-26 |
 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 | 2022-10-28 |  |
 | [The Time Has Come](https://open.spotify.com/track/17gYLgUI2kHsmR8wLeLFUY) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Progressions](https://open.spotify.com/album/0tDBNxkzpitmbuLemjpwdi) | 7:24 | 2021-05-07 | 2022-05-12 |

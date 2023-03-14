@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 264097,
       "name": "Mike (desert island duvet)",
       "url": "https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo"
@@ -1424,12 +1424,12 @@
           "url": "https://open.spotify.com/artist/2QDnY1LY2mnzeeKGZLHoc7"
         },
         {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
           "name": "Jahju16",
           "url": "https://open.spotify.com/artist/0NWqCsFrGXt0a7su3xJSaC"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
       "date_added": "2023-03-10",
@@ -1460,6 +1460,32 @@
       "duration_ms": 163108,
       "name": "New Gospel",
       "url": "https://open.spotify.com/track/61lD6dHS3wv0CT3ayawfZQ"
+    },
+    {
+      "album": {
+        "name": "Night Time Study (Lofi)",
+        "url": "https://open.spotify.com/album/7gvtvDJMeyONlHTRgycwzJ"
+      },
+      "artists": [
+        {
+          "name": "Heavenly Realms",
+          "url": "https://open.spotify.com/artist/37t9bT54d83HTqfWLET0Vj"
+        },
+        {
+          "name": "LoFi Bear",
+          "url": "https://open.spotify.com/artist/2S49iNx8Jjd1P9hxuD0oRE"
+        },
+        {
+          "name": "The Dream Life Factory",
+          "url": "https://open.spotify.com/artist/5xUCp9FjByKFgtUSCuyo67"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128082,
+      "name": "Night Time Study - Lofi",
+      "url": "https://open.spotify.com/track/7ufNjClIo0SHEcEHXVqchb"
     },
     {
       "album": {

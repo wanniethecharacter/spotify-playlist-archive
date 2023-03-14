@@ -4,7 +4,7 @@
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Kyan
 
-552 songs - 1 day 1 hr 32 min
+553 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [BEBE](https://open.spotify.com/track/1XhcliI9J7WIT2kovOTVMR) | [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt) | [BEBE](https://open.spotify.com/album/7FiCvhvwZ6edEQfQU77taE) | 2:45 | 2022-07-29 | 2022-08-27 |
 | [Bebeto & Romário](https://open.spotify.com/track/2v8EsK2tTltGaWLr6L4fZV) | [sickobabyxo](https://open.spotify.com/artist/5QFWsfryRsbn8O2ryBFsqL), [BEBELSITO TREM](https://open.spotify.com/artist/449SywvqxRgl24dnRpsNqz) | [Fique Chapado, Permaneça Produtivo](https://open.spotify.com/album/3GwZgBO2aaQluZQceR62bU) | 2:13 | 2023-03-10 |  |
 | [Beethoven](https://open.spotify.com/track/7eLoke72WxoJ04sQZhRlSg) | [Raonir Braz](https://open.spotify.com/artist/44w1bg6i4nDOZMvNnGiRdg) | [Beethoven](https://open.spotify.com/album/3PW7uYiR7eRKCDw1wCEcM5) | 3:25 | 2022-10-14 | 2022-10-22 |
+| [Beleza Exótica](https://open.spotify.com/track/2hvpRKeyFQtB4a5aV9YvfV) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Beleza Exótica](https://open.spotify.com/album/5kfRrdhHmQ5fHgKtz351Yt) | 2:37 | 2023-03-13 |  |
 | [Beyoncé](https://open.spotify.com/track/27fr7JT1zjPnBAIjJwm2z3) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF), [ouhthisone](https://open.spotify.com/artist/3pSokpYFNNTAbzPzixownM), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Essa é a Vida de um Corredor](https://open.spotify.com/album/7bBlOZxxwCMSMpFngmSIPO) | 2:17 | 2023-03-03 |  |
 | [Bicho Solto](https://open.spotify.com/track/1hppsF1Yb1WNuMK28Boguc) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco) | [Bicho Solto](https://open.spotify.com/album/2Wma4pTFGzWmhdvIBAZtQy) | 2:39 | 2022-08-18 | 2023-03-11 |
 | [Billy Mandy](https://open.spotify.com/track/7LURgJ2T40LosEfRLkIxhd) | [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Billy Mandy](https://open.spotify.com/album/23B7jXWBVM0kIylHQ5oyJY) | 2:48 | 2022-09-16 | 2022-09-24 |
@@ -441,7 +442,7 @@
 | [Resignar](https://open.spotify.com/track/0cP0H3mezxubJHdDCUEMX4) | [Pedrin](https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Resignar](https://open.spotify.com/album/4KxorWZ9Pe5rxsKtp0yRIe) | 2:48 | 2022-09-02 | 2022-10-08 |
 | [Responsabilidade](https://open.spotify.com/track/6XNIp0e5J4FdPc40PrweX2) | [unk vibes](https://open.spotify.com/artist/3B3ZLe7qjMrnxalhkZ532q), [Saik](https://open.spotify.com/artist/7iuE46CfcOHz9oFxkcy8SH) | [Responsabilidade](https://open.spotify.com/album/6vEnK5zK9JPGS7Qz3aEq3C) | 2:12 | 2022-06-10 | 2022-06-25 |
 | [Retrato \#3 \- Oakley Music](https://open.spotify.com/track/3lAxLWmbnBgkGcs6rRj250) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [AZN Studio](https://open.spotify.com/artist/3mmQ2jRf2DDpkI844nTT1h) | [Retrato \#3 \- Oakley Music](https://open.spotify.com/album/4KkgdlP3Zu45eARvswfo7v) | 3:11 | 2023-02-10 |  |
-| [Reverse](https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Reverse](https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D) | 2:13 | 2023-02-24 |  |
+| [Reverse](https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Reverse](https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D) | 2:13 | 2023-02-24 | 2023-03-14 |
 | [REVERSE](https://open.spotify.com/track/6EVxMejp12otEEADDqwNbs) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [REVERSE](https://open.spotify.com/album/1YQJnUtRI7utiKvLx8H76m) | 2:56 | 2022-10-21 | 2022-12-17 |
 | [Reviravolta](https://open.spotify.com/track/6OVJqBRGO5hYxIwrL2YlMO) | [BlakkClout](https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq), [DJ PLAYBOY SHEYK](https://open.spotify.com/artist/6fMcU2gWM1ExsDg8be53CM) | [Reviravolta](https://open.spotify.com/album/1O8R2spFSmKCLgH0q55k4m) | 2:43 | 2023-01-06 | 2023-01-28 |
 | [Rick & Morty](https://open.spotify.com/track/6guI9LLej1Iyuz0Yc642Bx) | [SAUD](https://open.spotify.com/artist/3mEnrVgvvdrdoevIOxt6zY), [KidTheCeli](https://open.spotify.com/artist/5Ttnyhh9uNUv3JZBs1tQhH), [DJ WS](https://open.spotify.com/artist/0aLAHH17o5HqBboWoMuOjq) | [Rick & Morty](https://open.spotify.com/album/6IQRWGeCg19DIhAaafXlAX) | 2:20 | 2022-06-10 | 2022-07-09 |

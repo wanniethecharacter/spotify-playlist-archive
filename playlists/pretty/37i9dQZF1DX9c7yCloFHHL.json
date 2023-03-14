@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in Ambient, Atmospheric and Neo-Classical. Whatever The Weather on cover.",
-  "num_followers": 142762,
+  "num_followers": 142844,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ5Mjg2MCwwMDAwMDAwMDI1MjZmZGI1NTIxYWNlNzE1ZWI4MjAyMWJjY2I0ZmFm",
+  "snapshot_id": "MTY3ODQ5Mjg2MCwwMDAwMDAwMGY2OWQyYTFlNzA3YmQ1ZThhNzFjZDUxZWUzNzdkMDE3",
   "tracks": [
     {
       "added_at": "2023-03-11 00:01:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-03-11 00:01:00",
       "album": {
+        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
+        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Abraham's Theme",
+      "url": "https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc"
+    },
+    {
+      "added_at": "2023-03-11 00:01:00",
+      "album": {
         "name": "Space 1.8",
         "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2023-03-11 00:01:00",
       "album": {
-        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
-        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
+        "name": "EARS",
+        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
       },
       "artists": [
         {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
         }
       ],
-      "duration_ms": 200466,
-      "name": "Abraham's Theme",
-      "url": "https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc"
+      "duration_ms": 184586,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
     },
     {
       "added_at": "2023-03-11 00:01:00",
@@ -971,22 +987,6 @@
     {
       "added_at": "2023-03-11 00:01:00",
       "album": {
-        "name": "EARS",
-        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Stratus",
-      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
-    },
-    {
-      "added_at": "2023-03-11 00:01:00",
-      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-03-11 00:01:00",
       "album": {
-        "name": "celestia",
-        "url": "https://open.spotify.com/album/1WY2kCwaRlKR8xutuufjKm"
-      },
-      "artists": [
-        {
-          "name": "alixe.",
-          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
-        }
-      ],
-      "duration_ms": 154773,
-      "name": "celestia",
-      "url": "https://open.spotify.com/track/3u3ijivU8xHxaqkaCEE2eb"
-    },
-    {
-      "added_at": "2023-03-11 00:01:00",
-      "album": {
         "name": "Erased Dreams",
         "url": "https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 216686,
       "name": "Lone Machine",
       "url": "https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj"
+    },
+    {
+      "added_at": "2023-03-11 00:01:00",
+      "album": {
+        "name": "celestia",
+        "url": "https://open.spotify.com/album/1WY2kCwaRlKR8xutuufjKm"
+      },
+      "artists": [
+        {
+          "name": "alixe.",
+          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
+        }
+      ],
+      "duration_ms": 154773,
+      "name": "celestia",
+      "url": "https://open.spotify.com/track/3u3ijivU8xHxaqkaCEE2eb"
     },
     {
       "added_at": "2023-03-11 00:01:00",
@@ -1107,6 +1107,58 @@
     {
       "added_at": "2023-03-11 00:01:00",
       "album": {
+        "name": "taiyla",
+        "url": "https://open.spotify.com/album/6dfLLisBaTEaAGPm41pQBz"
+      },
+      "artists": [
+        {
+          "name": "vowl.",
+          "url": "https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "taiyla",
+      "url": "https://open.spotify.com/track/3BKtY6FpYjvYnhodYohZ0y"
+    },
+    {
+      "added_at": "2023-03-11 00:01:00",
+      "album": {
+        "name": "Dawn Chorus",
+        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 208625,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
+    },
+    {
+      "added_at": "2023-03-11 00:01:00",
+      "album": {
+        "name": "As I Was (Slow Meadow Rework)",
+        "url": "https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 305691,
+      "name": "As I Was - Slow Meadow Rework",
+      "url": "https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN"
+    },
+    {
+      "added_at": "2023-03-11 00:01:00",
+      "album": {
         "name": "Voices 2",
         "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
       },
@@ -1135,54 +1187,18 @@
     {
       "added_at": "2023-03-11 00:01:00",
       "album": {
-        "name": "Dawn Chorus",
-        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
         }
       ],
-      "duration_ms": 208625,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
-    },
-    {
-      "added_at": "2023-03-11 00:01:00",
-      "album": {
-        "name": "taiyla",
-        "url": "https://open.spotify.com/album/6dfLLisBaTEaAGPm41pQBz"
-      },
-      "artists": [
-        {
-          "name": "vowl.",
-          "url": "https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "taiyla",
-      "url": "https://open.spotify.com/track/3BKtY6FpYjvYnhodYohZ0y"
-    },
-    {
-      "added_at": "2023-03-11 00:01:00",
-      "album": {
-        "name": "As I Was (Slow Meadow Rework)",
-        "url": "https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        },
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 305691,
-      "name": "As I Was - Slow Meadow Rework",
-      "url": "https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN"
+      "duration_ms": 164826,
+      "name": "Music For Growing Flowers - Pt. 5",
+      "url": "https://open.spotify.com/track/6Ud2eoIWr1PlHZjBulf0fG"
     },
     {
       "added_at": "2023-03-11 00:01:00",
@@ -1199,22 +1215,6 @@
       "duration_ms": 222946,
       "name": "LUX 1.1",
       "url": "https://open.spotify.com/track/6R5ADT7ylKtme695nbYzAK"
-    },
-    {
-      "added_at": "2023-03-11 00:01:00",
-      "album": {
-        "name": "Music For Growing Flowers",
-        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Music For Growing Flowers - Pt. 5",
-      "url": "https://open.spotify.com/track/6Ud2eoIWr1PlHZjBulf0fG"
     },
     {
       "added_at": "2023-03-11 00:01:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-03-11 00:01:00",
       "album": {
-        "name": "Music for Animals",
-        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 1111999,
-      "name": "Lemon Day",
-      "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
-    },
-    {
-      "added_at": "2023-03-11 00:01:00",
-      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2023-03-11 00:01:00",
       "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 1111999,
+      "name": "Lemon Day",
+      "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
+    },
+    {
+      "added_at": "2023-03-11 00:01:00",
+      "album": {
         "name": "Partisans",
         "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-03-11 00:01:00",
       "album": {
-        "name": "#3 (Rhubarb)",
-        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        }
-      ],
-      "duration_ms": 437138,
-      "name": "#3 (Rhubarb)",
-      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
-    },
-    {
-      "added_at": "2023-03-11 00:01:00",
-      "album": {
         "name": "Empire of Light (Original Score)",
         "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 107626,
       "name": "Washed Out",
       "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
+    },
+    {
+      "added_at": "2023-03-11 00:01:00",
+      "album": {
+        "name": "#3 (Rhubarb)",
+        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        }
+      ],
+      "duration_ms": 437138,
+      "name": "#3 (Rhubarb)",
+      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
     },
     {
       "added_at": "2023-03-11 00:01:00",
@@ -1671,30 +1671,6 @@
     {
       "added_at": "2023-03-11 00:01:00",
       "album": {
-        "name": "Small Craft",
-        "url": "https://open.spotify.com/album/2IeXuOg0uD7WDR7RsCsMOI"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "Leo Abrahams",
-          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
-        }
-      ],
-      "duration_ms": 224512,
-      "name": "Abandoned Ship",
-      "url": "https://open.spotify.com/track/7salnhMkybwLKwmyOMnlyD"
-    },
-    {
-      "added_at": "2023-03-11 00:01:00",
-      "album": {
         "name": "Follower",
         "url": "https://open.spotify.com/album/0Yz7gx5EnZuO7H3tTX1mya"
       },
@@ -1719,6 +1695,30 @@
     {
       "added_at": "2023-03-11 00:01:00",
       "album": {
+        "name": "Small Craft",
+        "url": "https://open.spotify.com/album/2IeXuOg0uD7WDR7RsCsMOI"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Leo Abrahams",
+          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+        }
+      ],
+      "duration_ms": 224512,
+      "name": "Abandoned Ship",
+      "url": "https://open.spotify.com/track/7salnhMkybwLKwmyOMnlyD"
+    },
+    {
+      "added_at": "2023-03-11 00:01:00",
+      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
@@ -1731,6 +1731,22 @@
       "duration_ms": 281680,
       "name": "Clearing",
       "url": "https://open.spotify.com/track/3IL43TRkEnh4buGOZ1Brb5"
+    },
+    {
+      "added_at": "2023-03-11 00:01:00",
+      "album": {
+        "name": "Myfanwy (Ambient Mix)",
+        "url": "https://open.spotify.com/album/4Q0ZB1THID7YteRQSEfH4p"
+      },
+      "artists": [
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        }
+      ],
+      "duration_ms": 243818,
+      "name": "Myfanwy - Ambient Mix",
+      "url": "https://open.spotify.com/track/0eVZZGq7eM6VlkRJSeSmY5"
     },
     {
       "added_at": "2023-03-11 00:01:00",
@@ -1755,34 +1771,18 @@
     {
       "added_at": "2023-03-11 00:01:00",
       "album": {
-        "name": "Myfanwy (Ambient Mix)",
-        "url": "https://open.spotify.com/album/4Q0ZB1THID7YteRQSEfH4p"
+        "name": "Collected Pieces: 2015-2020",
+        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
       },
       "artists": [
         {
-          "name": "Sheku Kanneh-Mason",
-          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 243818,
-      "name": "Myfanwy - Ambient Mix",
-      "url": "https://open.spotify.com/track/0eVZZGq7eM6VlkRJSeSmY5"
-    },
-    {
-      "added_at": "2023-03-11 00:01:00",
-      "album": {
-        "name": "Nouveau-N\u00e9",
-        "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 200862,
-      "name": "Nouveau-N\u00e9 (Re-Imagined)",
-      "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
+      "duration_ms": 230051,
+      "name": "We Wave From Our Boats",
+      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
     }
   ],
   "unique_name": "Ambiente",

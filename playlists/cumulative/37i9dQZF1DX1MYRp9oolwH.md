@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-103 songs - 6 hr 53 min
+104 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Nee Chaaredu kalle](https://open.spotify.com/track/1c1FhPiSotMM5Rnte5jEdd) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Swathimuthyam](https://open.spotify.com/album/0Ur0R1pFXsqQmXh5sJ2TJS) | 3:46 | 2022-10-06 |  |
 | [Nee Kalle Diwali \(From "Gaalodu"\)](https://open.spotify.com/track/68Jpz4J8aF0P7Eqqy2M9cy) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC) | [Nee Kalle Diwali \(From "Gaalodu"\)](https://open.spotify.com/album/7Gi3qjhWnUYCU1X3tueEmY) | 3:54 | 2022-07-29 |  |
 | [Neekemo Andamekkuva](https://open.spotify.com/track/4qPwLohB0tei9j5UBz66UR) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai), [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi) | [Waltair Veerayya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6KKqrNC6yWb405hpsrcxMa) | 3:32 | 2023-01-11 |  |
+| [Neetho Ee Gadichina Kaalam](https://open.spotify.com/track/220ENw46j8SPA7z5gNxkjA) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/6sozvXmQZrU4CR2OLL87PT) | 3:51 | 2023-03-13 |  |
 | [Neethoney Neethoney \(From "Ahimsa"\)](https://open.spotify.com/track/5iojVsuHvElKZTqLsAGclA) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu), [R\. P\. Patnaik](https://open.spotify.com/artist/00hL0oJD4pWef0kPYIaSTy), [Chandrabose](https://open.spotify.com/artist/63aZvMaOCQG3xAElp75vzP) | [Neethoney Neethoney \(From "Ahimsa"\)](https://open.spotify.com/album/1WAIazUjXJHmWOwmMwdsod) | 4:43 | 2022-09-19 |  |
 | [Neevuntey Chaalu](https://open.spotify.com/track/4Yi86fQx0GHStCZZNIQAY8) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Michael \(Telugu\)](https://open.spotify.com/album/72VOf6gnaZs5Hj4Flex9qS) | 3:48 | 2023-02-04 |  |
 | [Ninne Thaladanne \- From "The Life Of Muthu"](https://open.spotify.com/track/7fdjQVY9LFagl8kzwSVdLr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Ninne Thaladanne \(From "The Life Of Muthu"\)](https://open.spotify.com/album/1AoDAAYvx43fGsk6P195jz) | 4:54 | 2022-09-12 | 2023-02-21 |

@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 233920,
       "name": "Honey - Original mix",
       "url": "https://open.spotify.com/track/5AGGlWNS6to8ccEt4goFd8"
@@ -2548,6 +2548,24 @@
       "duration_ms": 183196,
       "name": "Lingua in Fiamme",
       "url": "https://open.spotify.com/track/5bViZhr1ilSTa5CKy2Lbyy"
+    },
+    {
+      "album": {
+        "name": "Lingua in Fiamme",
+        "url": "https://open.spotify.com/album/2LKM66yAYt1a0XS0jCdymF"
+      },
+      "artists": [
+        {
+          "name": "Queen of Saba",
+          "url": "https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183196,
+      "name": "Lingua in Fiamme",
+      "url": "https://open.spotify.com/track/66dUFD7kK9aHU4AwKJeMEL"
     },
     {
       "album": {

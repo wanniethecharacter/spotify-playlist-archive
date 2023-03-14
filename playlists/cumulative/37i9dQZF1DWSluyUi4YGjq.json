@@ -810,7 +810,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 190000,
       "name": "Breakbeats",
       "url": "https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83"
@@ -1218,6 +1218,24 @@
       "duration_ms": 247866,
       "name": "crasher",
       "url": "https://open.spotify.com/track/5lQ5Tnlf8A9uFvTjz8uALp"
+    },
+    {
+      "album": {
+        "name": "Traicion / Cruz de Navajas",
+        "url": "https://open.spotify.com/album/6X0R8jBws2cprXv3lIIgvr"
+      },
+      "artists": [
+        {
+          "name": "Beyond Sadness",
+          "url": "https://open.spotify.com/artist/4D6riy0MljyHs3LtsWMPxb"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318688,
+      "name": "Cruz de navajas",
+      "url": "https://open.spotify.com/track/3Iw2JGQOIx5LtmpPX5HTz6"
     },
     {
       "album": {
@@ -4377,6 +4395,24 @@
     },
     {
       "album": {
+        "name": "What Kind of Blue Are You?",
+        "url": "https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF"
+      },
+      "artists": [
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264757,
+      "name": "sunday",
+      "url": "https://open.spotify.com/track/7nRKMmuZnngrUrC5LOEhjk"
+    },
+    {
+      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/3NEmbK6tB99MY5Xbl9KaQS"
       },
@@ -4428,6 +4464,24 @@
       "duration_ms": 152061,
       "name": "taste of concrete",
       "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
+    },
+    {
+      "album": {
+        "name": "Big Sonic Chill",
+        "url": "https://open.spotify.com/album/4AHs5grKVa8hEZ5QC2acDd"
+      },
+      "artists": [
+        {
+          "name": "Sparkler",
+          "url": "https://open.spotify.com/artist/5z02NYGqi7UljYwTcRK66K"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267500,
+      "name": "Tea Garden",
+      "url": "https://open.spotify.com/track/2KYQPlfhrmmrW6RKzkGgbi"
     },
     {
       "album": {
@@ -4558,7 +4612,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 257173,
       "name": "Thursday",
       "url": "https://open.spotify.com/track/3DiCOFDPnyUIU03qdmURN0"
@@ -4922,7 +4976,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 150309,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/2mi591KXRdGMQywpDesRlb"

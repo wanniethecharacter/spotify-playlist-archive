@@ -782,7 +782,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 129776,
       "name": "Bota Em Voc\u00ea Machuca (feat. Flow Key, Bernax e DJ RD)",
       "url": "https://open.spotify.com/track/37aYm4KlP3ZG78NrFFAT9O"
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 139058,
       "name": "Cheio de Vontade de Vencer",
       "url": "https://open.spotify.com/track/6bIJrA42pDDWlnmDcEBVsx"
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 109280,
       "name": "Desce Talarica",
       "url": "https://open.spotify.com/track/5rm0I5FjhroFxGXgLvQS5R"
@@ -2531,6 +2531,32 @@
     },
     {
       "album": {
+        "name": "Love Absurdo",
+        "url": "https://open.spotify.com/album/2hHVL6MV4j9ikLC4VDygCS"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184153,
+      "name": "Love Absurdo",
+      "url": "https://open.spotify.com/track/7aZnuwpivaj4N7XFhhqBiO"
+    },
+    {
+      "album": {
         "name": "O Fant\u00e1stico Mundo De Nattan (Ao Vivo)",
         "url": "https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ"
       },
@@ -2828,7 +2854,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 139626,
       "name": "Me Evita Mais",
       "url": "https://open.spotify.com/track/6qPCDdlx08sKOnlLKZW6h0"
@@ -3016,7 +3042,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -5114,7 +5140,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 194000,
       "name": "X6",
       "url": "https://open.spotify.com/track/6kxC1D2TDKrwPOlx23VoFS"

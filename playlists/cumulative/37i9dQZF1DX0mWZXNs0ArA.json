@@ -1537,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s Called: Freefall (Rainbow Kitten Surprise) [Sped Up Version]",
+        "url": "https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128589,
+      "name": "It's Called: Freefall (Rainbow Kitten Surprise) - Sped Up Version",
+      "url": "https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ"
+    },
+    {
+      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
       },

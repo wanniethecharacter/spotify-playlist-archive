@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 ### [In the Name of the Blues: Marc Broussard Takeover](https://open.spotify.com/playlist/37i9dQZF1DXcnkReojaCnV)
 
-> Marc Broussard is taking over to share tracks of her new album, alongside current blues favorites.
+> Marc Broussard is taking over to share tracks of his new album, alongside current blues favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,423 likes - 40 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,479 likes - 40 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 | 39 | [Mood](https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Mood](https://open.spotify.com/album/1Q1qs8DABP6SgIyRyadg8s) | 3:29 |
 | 40 | [Don't Mess With The Messer](https://open.spotify.com/track/78jS82EbGZvIFXHdn1DTo4) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Koko Taylor](https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy) | 2:47 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMGZiNmEzMzgxMDM0ZDI1NDQ4MTg4ZjMwMTQ0MjExOTlh`
+Snapshot ID: `MTY3ODcxNDE2NiwwMDAwMDAwMGQzNGZiNDM3ZjZkNWY2ZTIyNDExMDdiMmM0YThhZWYz`

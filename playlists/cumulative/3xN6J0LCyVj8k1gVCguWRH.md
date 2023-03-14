@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,077 songs - 4 day 23 hr 34 min
+2,078 songs - 4 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -891,6 +891,7 @@
 | [I Wanna Love You \(For the Night\)](https://open.spotify.com/track/0z2z16nbFx6heThyp02CIQ) | [ZØ Marie](https://open.spotify.com/artist/5rjP3HgpikPUgqGXwVmEoZ) | [I Wanna Love You \(For the Night\)](https://open.spotify.com/album/2JS37LR2wCPr8sU4jZoUqQ) | 3:23 | 2023-02-10 | 2023-03-11 |
 | [I Want You To Be Mine](https://open.spotify.com/track/4HTPBlmHr68H96WaJZlVnH) | [The Famillian](https://open.spotify.com/artist/0xxeA8tQmQtYpCe2IHmi2a), [Calixte](https://open.spotify.com/artist/5PYXKU2PUFplxNjbE3pYU5) | [I Want You To Be Mine](https://open.spotify.com/album/6BjTaMnHYn6CXgoHVN2OJL) | 3:40 | 2021-02-06 | 2021-02-16 |
 | [I Will Love You](https://open.spotify.com/track/4CfIgZkL9ba7JswYmMCUFb) | [The Mailman](https://open.spotify.com/artist/0F7XjXIIqrMS2lRxUJ2QOO) | [I Will Love You](https://open.spotify.com/album/7156y5FwxdQXXCGnlvAQhr) | 2:56 | 2021-11-13 | 2021-12-19 |
+| [I Won't Wait For Springtime](https://open.spotify.com/track/27tOWim3LqOf00bbG6ZYzB) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [I Won't Wait For Springtime](https://open.spotify.com/album/5FAMpLCrW1QFQkmOQBjC4V) | 2:35 | 2023-03-13 |  |
 | [I'll Be Alright](https://open.spotify.com/track/0MRBYBBy6M9NcHH4FUsdRs) | [Khulood](https://open.spotify.com/artist/6M8J007j8q5VtHAEZpJL8F) | [I'll Be Alright](https://open.spotify.com/album/4yZf0pG4WKrqdn8JjoL6xs) | 4:21 | 2023-03-03 |  |
 | [I'll Be Around](https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:08 | 2019-09-29\* | 2021-11-19 |
 | [I'll Be Seeing You](https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:31 | 2020-08-20 | 2023-02-12 |

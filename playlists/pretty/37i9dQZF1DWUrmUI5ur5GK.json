@@ -1,12 +1,12 @@
 {
   "description": "Classic drinking singalongs.",
-  "num_followers": 28380,
+  "num_followers": 28465,
   "original_name": "Irish Pub Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzQ0MzI4NCwwMDAwMDAwMDc0ODlmNjczOTMwMmM5Yjk1YzQ4MDI5MjVkNWRkZjNl",
+  "snapshot_id": "MTY3ODcxNzk1OCwwMDAwMDAwMDk0NGI3ZmM4YTE5OTk2MjBjYWVjNzc4ZTMxYTNmYWJj",
   "tracks": [
     {
       "added_at": "2022-03-16 15:08:03",
@@ -27,18 +27,18 @@
     {
       "added_at": "2022-03-16 15:08:03",
       "album": {
-        "name": "Let The People Sing",
-        "url": "https://open.spotify.com/album/68z5Mo8YEeiwdF5SItYJ2R"
+        "name": "Drunken Sailor",
+        "url": "https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo"
       },
       "artists": [
         {
-          "name": "The Wolfe Tones",
-          "url": "https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau"
+          "name": "The Irish Rovers",
+          "url": "https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo"
         }
       ],
-      "duration_ms": 183466,
-      "name": "On the One Road",
-      "url": "https://open.spotify.com/track/3axEGZqZ54eYrGIOnuYz0m"
+      "duration_ms": 176853,
+      "name": "Drunken Sailor",
+      "url": "https://open.spotify.com/track/5Su5ILFp6U83cnIXwfmlC5"
     },
     {
       "added_at": "2022-03-16 15:08:03",
@@ -59,50 +59,18 @@
     {
       "added_at": "2022-03-16 15:08:03",
       "album": {
-        "name": "The Irish Connection",
-        "url": "https://open.spotify.com/album/5QFGKq3F7nwj615jRrOcTC"
+        "name": "Let The People Sing",
+        "url": "https://open.spotify.com/album/68z5Mo8YEeiwdF5SItYJ2R"
       },
       "artists": [
         {
-          "name": "Johnny Logan & Friends",
-          "url": "https://open.spotify.com/artist/0T2vuEBLAy5QdxWqm6GQY6"
+          "name": "The Wolfe Tones",
+          "url": "https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau"
         }
       ],
-      "duration_ms": 186746,
-      "name": "Molly Malone",
-      "url": "https://open.spotify.com/track/4AyeGAsIJ4OJdgCGEKUUsV"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "The Irish Rovers 50 Years - Vol. 1",
-        "url": "https://open.spotify.com/album/4myZOIXY0re1KKU0JHbhSa"
-      },
-      "artists": [
-        {
-          "name": "The Irish Rovers",
-          "url": "https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo"
-        }
-      ],
-      "duration_ms": 154026,
-      "name": "I\u2019ll Tell Me Ma / Belle of Belfast",
-      "url": "https://open.spotify.com/track/1WcklIWVoLkVm0q027D8gv"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Best Irish Pub Songs",
-        "url": "https://open.spotify.com/album/0rKyyZCL9D8rKwfgw1UvzO"
-      },
-      "artists": [
-        {
-          "name": "The Kilkennys",
-          "url": "https://open.spotify.com/artist/13BdFViz8xaH8K47sWS6ge"
-        }
-      ],
-      "duration_ms": 96373,
-      "name": "Chandelier Shop",
-      "url": "https://open.spotify.com/track/2jAK341dCn9QlgevdIbUSq"
+      "duration_ms": 183466,
+      "name": "On the One Road",
+      "url": "https://open.spotify.com/track/3axEGZqZ54eYrGIOnuYz0m"
     },
     {
       "added_at": "2022-03-16 15:08:03",
@@ -123,24 +91,8 @@
     {
       "added_at": "2022-03-16 15:08:03",
       "album": {
-        "name": "A Distant City Street",
-        "url": "https://open.spotify.com/album/5whz3eRJGC8dVp5tEMvZD5"
-      },
-      "artists": [
-        {
-          "name": "The Fenians",
-          "url": "https://open.spotify.com/artist/7qmLKs4zbzct0zTpLNookw"
-        }
-      ],
-      "duration_ms": 152733,
-      "name": "Rare Old Mountain Dew",
-      "url": "https://open.spotify.com/track/2FIDbeqXgseyXmr3FuTAFx"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Drunken Sailor",
-        "url": "https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo"
+        "name": "The Irish Rovers 50 Years - Vol. 1",
+        "url": "https://open.spotify.com/album/4myZOIXY0re1KKU0JHbhSa"
       },
       "artists": [
         {
@@ -148,9 +100,41 @@
           "url": "https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo"
         }
       ],
-      "duration_ms": 176853,
-      "name": "Drunken Sailor",
-      "url": "https://open.spotify.com/track/5Su5ILFp6U83cnIXwfmlC5"
+      "duration_ms": 154026,
+      "name": "I\u2019ll Tell Me Ma / Belle of Belfast",
+      "url": "https://open.spotify.com/track/1WcklIWVoLkVm0q027D8gv"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "The Irish Connection",
+        "url": "https://open.spotify.com/album/5QFGKq3F7nwj615jRrOcTC"
+      },
+      "artists": [
+        {
+          "name": "Johnny Logan & Friends",
+          "url": "https://open.spotify.com/artist/0T2vuEBLAy5QdxWqm6GQY6"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "Molly Malone",
+      "url": "https://open.spotify.com/track/4AyeGAsIJ4OJdgCGEKUUsV"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Irish Pub Song",
+        "url": "https://open.spotify.com/album/5QTxZhvepeEKUMVdKlT0M8"
+      },
+      "artists": [
+        {
+          "name": "The High Kings",
+          "url": "https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0"
+        }
+      ],
+      "duration_ms": 180123,
+      "name": "Irish Pub Song",
+      "url": "https://open.spotify.com/track/6zX3HwSuoQThrabeoHJvCs"
     },
     {
       "added_at": "2022-03-16 15:08:03",
@@ -187,74 +171,18 @@
     {
       "added_at": "2022-03-16 15:08:03",
       "album": {
-        "name": "Flowers In the Valley",
-        "url": "https://open.spotify.com/album/7qjs8c7X5g1EU0vVvcE8ot"
+        "name": "Best Irish Pub Songs",
+        "url": "https://open.spotify.com/album/0rKyyZCL9D8rKwfgw1UvzO"
       },
       "artists": [
         {
-          "name": "The Clancy Brothers",
-          "url": "https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz"
+          "name": "The Kilkennys",
+          "url": "https://open.spotify.com/artist/13BdFViz8xaH8K47sWS6ge"
         }
       ],
-      "duration_ms": 121600,
-      "name": "Beer, Beer, Beer",
-      "url": "https://open.spotify.com/track/43s0E9B8kiEGsAxU0gDkbi"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Slainte - Irish Drinking Songs",
-        "url": "https://open.spotify.com/album/3I0ZrfMLHWF2bUk0XFKraa"
-      },
-      "artists": [
-        {
-          "name": "The Clancy Brothers",
-          "url": "https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz"
-        },
-        {
-          "name": "Tommy Makem",
-          "url": "https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM"
-        }
-      ],
-      "duration_ms": 123466,
-      "name": "The Moonshiner",
-      "url": "https://open.spotify.com/track/2SwzDfEwnIuCx7c0ECQuIF"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/1qaEHYE8Li6SKfLF6m1XDo"
-      },
-      "artists": [
-        {
-          "name": "The High Kings",
-          "url": "https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0"
-        }
-      ],
-      "duration_ms": 270320,
-      "name": "The Rising Of The Moon",
-      "url": "https://open.spotify.com/track/4P068EubmZuz0hAfBHZmgX"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "25 Years Celebration",
-        "url": "https://open.spotify.com/album/0ZO8fKwBmDHiHeEcyR6Cax"
-      },
-      "artists": [
-        {
-          "name": "The Dubliners",
-          "url": "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
-        },
-        {
-          "name": "The Pogues",
-          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
-        }
-      ],
-      "duration_ms": 139986,
-      "name": "The Rare Auld Mountain Dew",
-      "url": "https://open.spotify.com/track/2Xdw8vtiD5GCiSUw8RI35w"
+      "duration_ms": 96373,
+      "name": "Chandelier Shop",
+      "url": "https://open.spotify.com/track/2jAK341dCn9QlgevdIbUSq"
     },
     {
       "added_at": "2022-03-16 15:08:03",
@@ -275,8 +203,8 @@
     {
       "added_at": "2022-03-16 15:08:03",
       "album": {
-        "name": "Irish Pub Song",
-        "url": "https://open.spotify.com/album/5QTxZhvepeEKUMVdKlT0M8"
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/1qaEHYE8Li6SKfLF6m1XDo"
       },
       "artists": [
         {
@@ -284,9 +212,41 @@
           "url": "https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0"
         }
       ],
-      "duration_ms": 180123,
-      "name": "Irish Pub Song",
-      "url": "https://open.spotify.com/track/6zX3HwSuoQThrabeoHJvCs"
+      "duration_ms": 270320,
+      "name": "The Rising Of The Moon",
+      "url": "https://open.spotify.com/track/4P068EubmZuz0hAfBHZmgX"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "A Distant City Street",
+        "url": "https://open.spotify.com/album/5whz3eRJGC8dVp5tEMvZD5"
+      },
+      "artists": [
+        {
+          "name": "The Fenians",
+          "url": "https://open.spotify.com/artist/7qmLKs4zbzct0zTpLNookw"
+        }
+      ],
+      "duration_ms": 152733,
+      "name": "Rare Old Mountain Dew",
+      "url": "https://open.spotify.com/track/2FIDbeqXgseyXmr3FuTAFx"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "The High Kings",
+        "url": "https://open.spotify.com/album/4EDaQ3qQ8vglXgSi5sQm2A"
+      },
+      "artists": [
+        {
+          "name": "The High Kings",
+          "url": "https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0"
+        }
+      ],
+      "duration_ms": 196720,
+      "name": "The Rocky Road To Dublin",
+      "url": "https://open.spotify.com/track/2AMHDHBuhSvcEhbv5IVSB1"
     },
     {
       "added_at": "2022-03-16 15:08:03",
@@ -307,56 +267,8 @@
     {
       "added_at": "2022-03-16 15:08:03",
       "album": {
-        "name": "Silver & Gold",
-        "url": "https://open.spotify.com/album/3GR5vrheMi9f0UbUuq2rGP"
-      },
-      "artists": [
-        {
-          "name": "The Tramps",
-          "url": "https://open.spotify.com/artist/4Mri3B9nenKx2GkvnMr8RD"
-        }
-      ],
-      "duration_ms": 147520,
-      "name": "Tim Finnegan's Wake",
-      "url": "https://open.spotify.com/track/6EPWeH2irogFsZoGnWnWMZ"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "A Shot Across The Bow",
-        "url": "https://open.spotify.com/album/3S2s6nwQxxPng46rOZhsjQ"
-      },
-      "artists": [
-        {
-          "name": "Pirates For Sail",
-          "url": "https://open.spotify.com/artist/37Ev1TQw7FnzNvuN8Bg3SR"
-        }
-      ],
-      "duration_ms": 236320,
-      "name": "All for Me Grog",
-      "url": "https://open.spotify.com/track/2d39OZHo9vRAWZoGEcURVM"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Irish Drinking Songs",
-        "url": "https://open.spotify.com/album/2QYhhgP7i8J6mbANcKCeCv"
-      },
-      "artists": [
-        {
-          "name": "Waxies Dargle",
-          "url": "https://open.spotify.com/artist/6XyWSrfIUyLVu2htZ0w8VH"
-        }
-      ],
-      "duration_ms": 165813,
-      "name": "Paddle Me Own Canoe",
-      "url": "https://open.spotify.com/track/4ayxeG7J8CyT0Bwb8bHIXb"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Dublin City Ramblers Live",
-        "url": "https://open.spotify.com/album/7sKrNQxfZf5sualwihNKrl"
+        "name": "Whiskey in the Jar",
+        "url": "https://open.spotify.com/album/34Il2D4K2F2akHT1r39QVF"
       },
       "artists": [
         {
@@ -364,57 +276,41 @@
           "url": "https://open.spotify.com/artist/6nXiCNSYAvQcYAXcJBN6l0"
         }
       ],
-      "duration_ms": 176066,
-      "name": "Right All Right",
-      "url": "https://open.spotify.com/track/3MElOn9Ko2hmAEJPWfRiJM"
+      "duration_ms": 264226,
+      "name": "Pub Songs Medley",
+      "url": "https://open.spotify.com/track/79GYO8GmI9wq8C9W5EF6vZ"
     },
     {
       "added_at": "2022-03-16 15:08:03",
       "album": {
-        "name": "Irish Drinking Songs",
-        "url": "https://open.spotify.com/album/1hmercrTNWytDLvN94nWcU"
+        "name": "101 Beautiful Irish Ballads",
+        "url": "https://open.spotify.com/album/6MfSQtS9WRNQTUl7jHcXQh"
       },
       "artists": [
         {
-          "name": "O'Farrell Family Band",
-          "url": "https://open.spotify.com/artist/6Hohm0fm6UXAB5GXHTD9hO"
+          "name": "Barnbrack",
+          "url": "https://open.spotify.com/artist/26arTXI1Jz3lUeDQ2IQjCe"
         }
       ],
-      "duration_ms": 142106,
-      "name": "The Hills Of Connemara",
-      "url": "https://open.spotify.com/track/4M8zr3pKrz1FUBi3RNieBP"
+      "duration_ms": 102560,
+      "name": "If You're Irish, Come Into The Parlour",
+      "url": "https://open.spotify.com/track/79IbAhRoFA8wbUhHWcDjv3"
     },
     {
       "added_at": "2022-03-16 15:08:03",
       "album": {
-        "name": "Between Wind And Water",
-        "url": "https://open.spotify.com/album/0czdThetfLyCdGpAF2dRqR"
+        "name": "The Best Of The Irish Rovers",
+        "url": "https://open.spotify.com/album/7eR6s2Ag147H5yHOG1CwDV"
       },
       "artists": [
         {
-          "name": "The Longest Johns",
-          "url": "https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv"
+          "name": "The Irish Rovers",
+          "url": "https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo"
         }
       ],
-      "duration_ms": 176500,
-      "name": "Haul Away Joe",
-      "url": "https://open.spotify.com/track/7kXxpqMNTR0PdvwXZr3j3m"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Gaelic Storm",
-        "url": "https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip"
-      },
-      "artists": [
-        {
-          "name": "Gaelic Storm",
-          "url": "https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "The Leaving Of Liverpool",
-      "url": "https://open.spotify.com/track/2pCyH8KbetD97EnYWwMgyU"
+      "duration_ms": 201266,
+      "name": "Lily The Pink",
+      "url": "https://open.spotify.com/track/2XXFwUTAOjRdPOzhFmiqfx"
     },
     {
       "added_at": "2022-03-16 15:08:03",
@@ -439,248 +335,8 @@
     {
       "added_at": "2022-03-16 15:08:03",
       "album": {
-        "name": "The Best Of The Irish Rovers",
-        "url": "https://open.spotify.com/album/7eR6s2Ag147H5yHOG1CwDV"
-      },
-      "artists": [
-        {
-          "name": "The Irish Rovers",
-          "url": "https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Lily The Pink",
-      "url": "https://open.spotify.com/track/2XXFwUTAOjRdPOzhFmiqfx"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Celebrate St. Patty's Day Sing-A-Long with the Blarney Lads",
-        "url": "https://open.spotify.com/album/7cCYtvGdJN6LxkqLRRKYFF"
-      },
-      "artists": [
-        {
-          "name": "The Blarney Lads",
-          "url": "https://open.spotify.com/artist/0NVUu7IN9htn2Ak7CY8mCL"
-        }
-      ],
-      "duration_ms": 101445,
-      "name": "Bold O'Donaghue",
-      "url": "https://open.spotify.com/track/6wtHRsx0z5bwE2PLN5wsFi"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Traditional Celtic Ballads",
-        "url": "https://open.spotify.com/album/2VghxcDkb3hLDtTshYBaP8"
-      },
-      "artists": [
-        {
-          "name": "The Wild Rover",
-          "url": "https://open.spotify.com/artist/64cO7ZH9TrRnOh7MUCfLBJ"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "Poor Paddy Works On The Railway",
-      "url": "https://open.spotify.com/track/45EnPYFTEPNaBLxU9JDQwa"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "The Girls Won't Leave The Boys Alone",
-        "url": "https://open.spotify.com/album/45q1rezuYBdULvvO2Oh1Bn"
-      },
-      "artists": [
-        {
-          "name": "John McCutcheon",
-          "url": "https://open.spotify.com/artist/0TzlaraGqiaAfTjqTh96dc"
-        }
-      ],
-      "duration_ms": 322106,
-      "name": "Rambling Irishman",
-      "url": "https://open.spotify.com/track/1AUDL7ApnjcteAIxE3vXJ6"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Gaelic Storm",
-        "url": "https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip"
-      },
-      "artists": [
-        {
-          "name": "Gaelic Storm",
-          "url": "https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK"
-        }
-      ],
-      "duration_ms": 300173,
-      "name": "Johnny Jump Up/Morrison's Jig",
-      "url": "https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "The High Kings",
-        "url": "https://open.spotify.com/album/4EDaQ3qQ8vglXgSi5sQm2A"
-      },
-      "artists": [
-        {
-          "name": "The High Kings",
-          "url": "https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0"
-        }
-      ],
-      "duration_ms": 196720,
-      "name": "The Rocky Road To Dublin",
-      "url": "https://open.spotify.com/track/2AMHDHBuhSvcEhbv5IVSB1"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Original Irish Drinking Songs",
-        "url": "https://open.spotify.com/album/5r8OT9nU29Yx4jHkecubAk"
-      },
-      "artists": [
-        {
-          "name": "Drinking Songs",
-          "url": "https://open.spotify.com/artist/4qcIdXhkdYXAaybMaVjpvU"
-        }
-      ],
-      "duration_ms": 155053,
-      "name": "The Pub with No Beer",
-      "url": "https://open.spotify.com/track/5zZthzbOkBkz2gfwxoTpSP"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7fTHb1SDietYPoesmOnDNh"
-      },
-      "artists": [
-        {
-          "name": "The Wolfe Tones",
-          "url": "https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau"
-        }
-      ],
-      "duration_ms": 129800,
-      "name": "The Big Strong Man",
-      "url": "https://open.spotify.com/track/2LDt5lclWiStgzcN2ckBUL"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "101 Beautiful Irish Ballads",
-        "url": "https://open.spotify.com/album/6MfSQtS9WRNQTUl7jHcXQh"
-      },
-      "artists": [
-        {
-          "name": "Barnbrack",
-          "url": "https://open.spotify.com/artist/26arTXI1Jz3lUeDQ2IQjCe"
-        }
-      ],
-      "duration_ms": 102560,
-      "name": "If You're Irish, Come Into The Parlour",
-      "url": "https://open.spotify.com/track/79IbAhRoFA8wbUhHWcDjv3"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Irish Favorites",
-        "url": "https://open.spotify.com/album/61LonjrzxQuiSMY3syhEsa"
-      },
-      "artists": [
-        {
-          "name": "Irish Lads Of Limerick",
-          "url": "https://open.spotify.com/artist/1OGjD0Wx8kiMTo7k966sn8"
-        }
-      ],
-      "duration_ms": 128363,
-      "name": "Muirsheen Durkin",
-      "url": "https://open.spotify.com/track/2m2YyIx0wbM38KvAHlZlml"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Pint of Ale",
-        "url": "https://open.spotify.com/album/3s5NJhXY65FVmv1P4QNAPa"
-      },
-      "artists": [
-        {
-          "name": "Carlyle Fraser",
-          "url": "https://open.spotify.com/artist/62ejG7Vlm6nVGATCU4lTta"
-        }
-      ],
-      "duration_ms": 132826,
-      "name": "Drink It up Men",
-      "url": "https://open.spotify.com/track/3ER6jWtzq7dlpk64YqaFWA"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "The Craic Was Ninety (20 Great Irish Pub Songs)",
-        "url": "https://open.spotify.com/album/1cMqLAWryVSHB69SlVstgn"
-      },
-      "artists": [
-        {
-          "name": "Patsy Watchorn",
-          "url": "https://open.spotify.com/artist/0U6dKLfNOeOl90SqjiLgdU"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Crack Was 90",
-      "url": "https://open.spotify.com/track/60sqCk1QQ8yL9rnX426r02"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "The Best of Luke Kelly",
-        "url": "https://open.spotify.com/album/5NCrmdBxbvrlERv2VcYQks"
-      },
-      "artists": [
-        {
-          "name": "Luke Kelly",
-          "url": "https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9"
-        }
-      ],
-      "duration_ms": 283546,
-      "name": "Song for Ireland",
-      "url": "https://open.spotify.com/track/500iwSaxXN9CQy8quPmmYD"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "50 Complete Rebel Songs",
-        "url": "https://open.spotify.com/album/4tSuGpJWQnFHEGkarI46a8"
-      },
-      "artists": [
-        {
-          "name": "The Fighting Men From Crossmaglen",
-          "url": "https://open.spotify.com/artist/39c7UxISZt7Bdo0xd5rXwf"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Kelly The Boy From Killane",
-      "url": "https://open.spotify.com/track/2pkzP1OyTL0VmdTeJzIT3M"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Traditional Celtic Ballads",
-        "url": "https://open.spotify.com/album/2VghxcDkb3hLDtTshYBaP8"
-      },
-      "artists": [
-        {
-          "name": "The Wild Rover",
-          "url": "https://open.spotify.com/artist/64cO7ZH9TrRnOh7MUCfLBJ"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "I'm A Rover",
-      "url": "https://open.spotify.com/track/0yqxIaAm1otp6u9J906MI9"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "World Tour Of Ireland",
-        "url": "https://open.spotify.com/album/3ayMUVVTJZIYUuKh7GODEH"
+        "name": "Irish Drinking Songs",
+        "url": "https://open.spotify.com/album/2QYhhgP7i8J6mbANcKCeCv"
       },
       "artists": [
         {
@@ -688,25 +344,25 @@
           "url": "https://open.spotify.com/artist/6XyWSrfIUyLVu2htZ0w8VH"
         }
       ],
-      "duration_ms": 227333,
-      "name": "Lannigan's Ball",
-      "url": "https://open.spotify.com/track/4b6BroZC04Sof9AnMwUUjD"
+      "duration_ms": 165813,
+      "name": "Paddle Me Own Canoe",
+      "url": "https://open.spotify.com/track/4ayxeG7J8CyT0Bwb8bHIXb"
     },
     {
       "added_at": "2022-03-16 15:08:03",
       "album": {
-        "name": "Pint of Ale",
-        "url": "https://open.spotify.com/album/3s5NJhXY65FVmv1P4QNAPa"
+        "name": "Silver & Gold",
+        "url": "https://open.spotify.com/album/3GR5vrheMi9f0UbUuq2rGP"
       },
       "artists": [
         {
-          "name": "Carlyle Fraser",
-          "url": "https://open.spotify.com/artist/62ejG7Vlm6nVGATCU4lTta"
+          "name": "The Tramps",
+          "url": "https://open.spotify.com/artist/4Mri3B9nenKx2GkvnMr8RD"
         }
       ],
-      "duration_ms": 186106,
-      "name": "The Juice of the Barley",
-      "url": "https://open.spotify.com/track/1EZn4pTrt4lpUDA13KC5eF"
+      "duration_ms": 147520,
+      "name": "Tim Finnegan's Wake",
+      "url": "https://open.spotify.com/track/6EPWeH2irogFsZoGnWnWMZ"
     },
     {
       "added_at": "2022-03-16 15:08:03",
@@ -720,41 +376,25 @@
           "url": "https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz"
         }
       ],
-      "duration_ms": 112666,
-      "name": "Water Is Alright In Tay",
-      "url": "https://open.spotify.com/track/1Of1mLn6DhF77g8zSAkypB"
+      "duration_ms": 121600,
+      "name": "Beer, Beer, Beer",
+      "url": "https://open.spotify.com/track/43s0E9B8kiEGsAxU0gDkbi"
     },
     {
       "added_at": "2022-03-16 15:08:03",
       "album": {
-        "name": "Our Songs 6",
-        "url": "https://open.spotify.com/album/5GYFKVrwJqiTysbo6XgMbR"
+        "name": "Irish Drinking Songs - 50 Pub Favorites from Ireland",
+        "url": "https://open.spotify.com/album/4Fvg4bfehK0QOsnHRkSMVQ"
       },
       "artists": [
         {
-          "name": "Con O'Brien",
-          "url": "https://open.spotify.com/artist/0GUFH5LfWWYiWtEn0CflP9"
+          "name": "Foster & Allen",
+          "url": "https://open.spotify.com/artist/53UCUopHRBowldiFYqYdzA"
         }
       ],
-      "duration_ms": 179266,
-      "name": "The Sick Note",
-      "url": "https://open.spotify.com/track/3NhPGycrrCPH9HqZjpdrlA"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "The Irish Connection",
-        "url": "https://open.spotify.com/album/5QFGKq3F7nwj615jRrOcTC"
-      },
-      "artists": [
-        {
-          "name": "Johnny Logan & Friends",
-          "url": "https://open.spotify.com/artist/0T2vuEBLAy5QdxWqm6GQY6"
-        }
-      ],
-      "duration_ms": 226346,
-      "name": "The Irish Rover",
-      "url": "https://open.spotify.com/track/0wR22IagjH4rTSKjZWEN0f"
+      "duration_ms": 274160,
+      "name": "Seven Old Ladies",
+      "url": "https://open.spotify.com/track/1cd92x1tprkEPp1bxaLuCq"
     },
     {
       "added_at": "2022-03-16 15:08:03",
@@ -779,8 +419,220 @@
     {
       "added_at": "2022-03-16 15:08:03",
       "album": {
-        "name": "Isn't It Grand Boys",
-        "url": "https://open.spotify.com/album/5lakEd1iRGCoGWrbvi3057"
+        "name": "The Irish Connection",
+        "url": "https://open.spotify.com/album/5QFGKq3F7nwj615jRrOcTC"
+      },
+      "artists": [
+        {
+          "name": "Johnny Logan & Friends",
+          "url": "https://open.spotify.com/artist/0T2vuEBLAy5QdxWqm6GQY6"
+        }
+      ],
+      "duration_ms": 226346,
+      "name": "The Irish Rover",
+      "url": "https://open.spotify.com/track/0wR22IagjH4rTSKjZWEN0f"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "The Best of Luke Kelly",
+        "url": "https://open.spotify.com/album/5NCrmdBxbvrlERv2VcYQks"
+      },
+      "artists": [
+        {
+          "name": "Luke Kelly",
+          "url": "https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9"
+        }
+      ],
+      "duration_ms": 283546,
+      "name": "Song for Ireland",
+      "url": "https://open.spotify.com/track/500iwSaxXN9CQy8quPmmYD"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Pint of Ale",
+        "url": "https://open.spotify.com/album/3s5NJhXY65FVmv1P4QNAPa"
+      },
+      "artists": [
+        {
+          "name": "Carlyle Fraser",
+          "url": "https://open.spotify.com/artist/62ejG7Vlm6nVGATCU4lTta"
+        }
+      ],
+      "duration_ms": 132826,
+      "name": "Drink It up Men",
+      "url": "https://open.spotify.com/track/3ER6jWtzq7dlpk64YqaFWA"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Irish Favorites",
+        "url": "https://open.spotify.com/album/61LonjrzxQuiSMY3syhEsa"
+      },
+      "artists": [
+        {
+          "name": "Irish Lads Of Limerick",
+          "url": "https://open.spotify.com/artist/1OGjD0Wx8kiMTo7k966sn8"
+        }
+      ],
+      "duration_ms": 128363,
+      "name": "Muirsheen Durkin",
+      "url": "https://open.spotify.com/track/2m2YyIx0wbM38KvAHlZlml"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Gaelic Storm",
+        "url": "https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip"
+      },
+      "artists": [
+        {
+          "name": "Gaelic Storm",
+          "url": "https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK"
+        }
+      ],
+      "duration_ms": 300173,
+      "name": "Johnny Jump Up/Morrison's Jig",
+      "url": "https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "The Girls Won't Leave The Boys Alone",
+        "url": "https://open.spotify.com/album/45q1rezuYBdULvvO2Oh1Bn"
+      },
+      "artists": [
+        {
+          "name": "John McCutcheon",
+          "url": "https://open.spotify.com/artist/0TzlaraGqiaAfTjqTh96dc"
+        }
+      ],
+      "duration_ms": 322106,
+      "name": "Rambling Irishman",
+      "url": "https://open.spotify.com/track/1AUDL7ApnjcteAIxE3vXJ6"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Celebrate St. Patty's Day Sing-A-Long with the Blarney Lads",
+        "url": "https://open.spotify.com/album/7cCYtvGdJN6LxkqLRRKYFF"
+      },
+      "artists": [
+        {
+          "name": "The Blarney Lads",
+          "url": "https://open.spotify.com/artist/0NVUu7IN9htn2Ak7CY8mCL"
+        }
+      ],
+      "duration_ms": 101445,
+      "name": "Bold O'Donaghue",
+      "url": "https://open.spotify.com/track/6wtHRsx0z5bwE2PLN5wsFi"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Gaelic Storm",
+        "url": "https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip"
+      },
+      "artists": [
+        {
+          "name": "Gaelic Storm",
+          "url": "https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "The Leaving Of Liverpool",
+      "url": "https://open.spotify.com/track/2pCyH8KbetD97EnYWwMgyU"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Between Wind And Water",
+        "url": "https://open.spotify.com/album/0czdThetfLyCdGpAF2dRqR"
+      },
+      "artists": [
+        {
+          "name": "The Longest Johns",
+          "url": "https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Haul Away Joe",
+      "url": "https://open.spotify.com/track/7kXxpqMNTR0PdvwXZr3j3m"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Irish Drinking Songs",
+        "url": "https://open.spotify.com/album/1hmercrTNWytDLvN94nWcU"
+      },
+      "artists": [
+        {
+          "name": "O'Farrell Family Band",
+          "url": "https://open.spotify.com/artist/6Hohm0fm6UXAB5GXHTD9hO"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "The Hills Of Connemara",
+      "url": "https://open.spotify.com/track/4M8zr3pKrz1FUBi3RNieBP"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Dublin City Ramblers Live",
+        "url": "https://open.spotify.com/album/7sKrNQxfZf5sualwihNKrl"
+      },
+      "artists": [
+        {
+          "name": "The Dublin City Ramblers",
+          "url": "https://open.spotify.com/artist/6nXiCNSYAvQcYAXcJBN6l0"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Right All Right",
+      "url": "https://open.spotify.com/track/3MElOn9Ko2hmAEJPWfRiJM"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "A Shot Across The Bow",
+        "url": "https://open.spotify.com/album/3S2s6nwQxxPng46rOZhsjQ"
+      },
+      "artists": [
+        {
+          "name": "Pirates For Sail",
+          "url": "https://open.spotify.com/artist/37Ev1TQw7FnzNvuN8Bg3SR"
+        }
+      ],
+      "duration_ms": 236320,
+      "name": "All for Me Grog",
+      "url": "https://open.spotify.com/track/2d39OZHo9vRAWZoGEcURVM"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "25 Years Celebration",
+        "url": "https://open.spotify.com/album/0ZO8fKwBmDHiHeEcyR6Cax"
+      },
+      "artists": [
+        {
+          "name": "The Dubliners",
+          "url": "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
+        },
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        }
+      ],
+      "duration_ms": 139986,
+      "name": "The Rare Auld Mountain Dew",
+      "url": "https://open.spotify.com/track/2Xdw8vtiD5GCiSUw8RI35w"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Slainte - Irish Drinking Songs",
+        "url": "https://open.spotify.com/album/3I0ZrfMLHWF2bUk0XFKraa"
       },
       "artists": [
         {
@@ -792,89 +644,9 @@
           "url": "https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM"
         }
       ],
-      "duration_ms": 178866,
-      "name": "Isn't It Grand, Boys (with Tommy Makem)",
-      "url": "https://open.spotify.com/track/3JVpkxPJNIwRi4wTHAalHi"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "In Concert",
-        "url": "https://open.spotify.com/album/34A2WmhLw962dn3IysrNe3"
-      },
-      "artists": [
-        {
-          "name": "Seamus Kennedy",
-          "url": "https://open.spotify.com/artist/0mOdLsbUeEcEy7ADN3Hhuf"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "The Liar",
-      "url": "https://open.spotify.com/track/3rPa6TTClkapOPHbRgyLj4"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "25 Most Requested Irish Ballads",
-        "url": "https://open.spotify.com/album/0PwaVxCprNZzTf1CYmefsp"
-      },
-      "artists": [
-        {
-          "name": "Chris Ball",
-          "url": "https://open.spotify.com/artist/0s1u2LpPHrUYWQuPwu6NsV"
-        }
-      ],
-      "duration_ms": 148960,
-      "name": "Catch Me If You Can",
-      "url": "https://open.spotify.com/track/0sEey3G9R2GA3NV7mMjDS7"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Irish Folk Collection - 40 Tracks for St Patrick's Day",
-        "url": "https://open.spotify.com/album/6zIKCZ5kl5yJs3vB7zgkR8"
-      },
-      "artists": [
-        {
-          "name": "The Clancy Brothers & Tommy Makem",
-          "url": "https://open.spotify.com/artist/1qbwKI8FXh805XrxaOex4P"
-        }
-      ],
-      "duration_ms": 179266,
-      "name": "The Jug Of Punch",
-      "url": "https://open.spotify.com/track/4dgeifRIZFCJDn4Dd6gkkp"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Whiskey in the Jar",
-        "url": "https://open.spotify.com/album/34Il2D4K2F2akHT1r39QVF"
-      },
-      "artists": [
-        {
-          "name": "The Dublin City Ramblers",
-          "url": "https://open.spotify.com/artist/6nXiCNSYAvQcYAXcJBN6l0"
-        }
-      ],
-      "duration_ms": 264226,
-      "name": "Pub Songs Medley",
-      "url": "https://open.spotify.com/track/79GYO8GmI9wq8C9W5EF6vZ"
-    },
-    {
-      "added_at": "2022-03-16 15:08:03",
-      "album": {
-        "name": "Whiskey Business",
-        "url": "https://open.spotify.com/album/1CCbyiAHeoiMhvxVwKPe0W"
-      },
-      "artists": [
-        {
-          "name": "The Poxy Boggards",
-          "url": "https://open.spotify.com/artist/02AfNHKlkhaU7geymsecab"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Murisheen Durkin",
-      "url": "https://open.spotify.com/track/3z7gAXbFw6R1jqun0pEfAz"
+      "duration_ms": 123466,
+      "name": "The Moonshiner",
+      "url": "https://open.spotify.com/track/2SwzDfEwnIuCx7c0ECQuIF"
     },
     {
       "added_at": "2022-03-16 15:08:03",
@@ -895,18 +667,246 @@
     {
       "added_at": "2022-03-16 15:08:03",
       "album": {
-        "name": "Irish Drinking Songs - 50 Pub Favorites from Ireland",
-        "url": "https://open.spotify.com/album/4Fvg4bfehK0QOsnHRkSMVQ"
+        "name": "Whiskey Business",
+        "url": "https://open.spotify.com/album/1CCbyiAHeoiMhvxVwKPe0W"
       },
       "artists": [
         {
-          "name": "Foster & Allen",
-          "url": "https://open.spotify.com/artist/53UCUopHRBowldiFYqYdzA"
+          "name": "The Poxy Boggards",
+          "url": "https://open.spotify.com/artist/02AfNHKlkhaU7geymsecab"
         }
       ],
-      "duration_ms": 274160,
-      "name": "Seven Old Ladies",
-      "url": "https://open.spotify.com/track/1cd92x1tprkEPp1bxaLuCq"
+      "duration_ms": 213573,
+      "name": "Murisheen Durkin",
+      "url": "https://open.spotify.com/track/3z7gAXbFw6R1jqun0pEfAz"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Irish Folk Collection - 40 Tracks for St Patrick's Day",
+        "url": "https://open.spotify.com/album/6zIKCZ5kl5yJs3vB7zgkR8"
+      },
+      "artists": [
+        {
+          "name": "The Clancy Brothers & Tommy Makem",
+          "url": "https://open.spotify.com/artist/1qbwKI8FXh805XrxaOex4P"
+        }
+      ],
+      "duration_ms": 179266,
+      "name": "The Jug Of Punch",
+      "url": "https://open.spotify.com/track/4dgeifRIZFCJDn4Dd6gkkp"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "25 Most Requested Irish Ballads",
+        "url": "https://open.spotify.com/album/0PwaVxCprNZzTf1CYmefsp"
+      },
+      "artists": [
+        {
+          "name": "Chris Ball",
+          "url": "https://open.spotify.com/artist/0s1u2LpPHrUYWQuPwu6NsV"
+        }
+      ],
+      "duration_ms": 148960,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/0sEey3G9R2GA3NV7mMjDS7"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "In Concert",
+        "url": "https://open.spotify.com/album/34A2WmhLw962dn3IysrNe3"
+      },
+      "artists": [
+        {
+          "name": "Seamus Kennedy",
+          "url": "https://open.spotify.com/artist/0mOdLsbUeEcEy7ADN3Hhuf"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "The Liar",
+      "url": "https://open.spotify.com/track/3rPa6TTClkapOPHbRgyLj4"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Isn't It Grand Boys",
+        "url": "https://open.spotify.com/album/5lakEd1iRGCoGWrbvi3057"
+      },
+      "artists": [
+        {
+          "name": "The Clancy Brothers",
+          "url": "https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz"
+        },
+        {
+          "name": "Tommy Makem",
+          "url": "https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "Isn't It Grand, Boys (with Tommy Makem)",
+      "url": "https://open.spotify.com/track/3JVpkxPJNIwRi4wTHAalHi"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Our Songs 6",
+        "url": "https://open.spotify.com/album/5GYFKVrwJqiTysbo6XgMbR"
+      },
+      "artists": [
+        {
+          "name": "Con O'Brien",
+          "url": "https://open.spotify.com/artist/0GUFH5LfWWYiWtEn0CflP9"
+        }
+      ],
+      "duration_ms": 179266,
+      "name": "The Sick Note",
+      "url": "https://open.spotify.com/track/3NhPGycrrCPH9HqZjpdrlA"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Flowers In the Valley",
+        "url": "https://open.spotify.com/album/7qjs8c7X5g1EU0vVvcE8ot"
+      },
+      "artists": [
+        {
+          "name": "The Clancy Brothers",
+          "url": "https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz"
+        }
+      ],
+      "duration_ms": 112666,
+      "name": "Water Is Alright In Tay",
+      "url": "https://open.spotify.com/track/1Of1mLn6DhF77g8zSAkypB"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Pint of Ale",
+        "url": "https://open.spotify.com/album/3s5NJhXY65FVmv1P4QNAPa"
+      },
+      "artists": [
+        {
+          "name": "Carlyle Fraser",
+          "url": "https://open.spotify.com/artist/62ejG7Vlm6nVGATCU4lTta"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "The Juice of the Barley",
+      "url": "https://open.spotify.com/track/1EZn4pTrt4lpUDA13KC5eF"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "World Tour Of Ireland",
+        "url": "https://open.spotify.com/album/3ayMUVVTJZIYUuKh7GODEH"
+      },
+      "artists": [
+        {
+          "name": "Waxies Dargle",
+          "url": "https://open.spotify.com/artist/6XyWSrfIUyLVu2htZ0w8VH"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "Lannigan's Ball",
+      "url": "https://open.spotify.com/track/4b6BroZC04Sof9AnMwUUjD"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Traditional Celtic Ballads",
+        "url": "https://open.spotify.com/album/2VghxcDkb3hLDtTshYBaP8"
+      },
+      "artists": [
+        {
+          "name": "The Wild Rover",
+          "url": "https://open.spotify.com/artist/64cO7ZH9TrRnOh7MUCfLBJ"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "I'm A Rover",
+      "url": "https://open.spotify.com/track/0yqxIaAm1otp6u9J906MI9"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "50 Complete Rebel Songs",
+        "url": "https://open.spotify.com/album/4tSuGpJWQnFHEGkarI46a8"
+      },
+      "artists": [
+        {
+          "name": "The Fighting Men From Crossmaglen",
+          "url": "https://open.spotify.com/artist/39c7UxISZt7Bdo0xd5rXwf"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Kelly The Boy From Killane",
+      "url": "https://open.spotify.com/track/2pkzP1OyTL0VmdTeJzIT3M"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "The Craic Was Ninety (20 Great Irish Pub Songs)",
+        "url": "https://open.spotify.com/album/1cMqLAWryVSHB69SlVstgn"
+      },
+      "artists": [
+        {
+          "name": "Patsy Watchorn",
+          "url": "https://open.spotify.com/artist/0U6dKLfNOeOl90SqjiLgdU"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Crack Was 90",
+      "url": "https://open.spotify.com/track/60sqCk1QQ8yL9rnX426r02"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7fTHb1SDietYPoesmOnDNh"
+      },
+      "artists": [
+        {
+          "name": "The Wolfe Tones",
+          "url": "https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau"
+        }
+      ],
+      "duration_ms": 129800,
+      "name": "The Big Strong Man",
+      "url": "https://open.spotify.com/track/2LDt5lclWiStgzcN2ckBUL"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Original Irish Drinking Songs",
+        "url": "https://open.spotify.com/album/5r8OT9nU29Yx4jHkecubAk"
+      },
+      "artists": [
+        {
+          "name": "Drinking Songs",
+          "url": "https://open.spotify.com/artist/4qcIdXhkdYXAaybMaVjpvU"
+        }
+      ],
+      "duration_ms": 155053,
+      "name": "The Pub with No Beer",
+      "url": "https://open.spotify.com/track/5zZthzbOkBkz2gfwxoTpSP"
+    },
+    {
+      "added_at": "2022-03-16 15:08:03",
+      "album": {
+        "name": "Traditional Celtic Ballads",
+        "url": "https://open.spotify.com/album/2VghxcDkb3hLDtTshYBaP8"
+      },
+      "artists": [
+        {
+          "name": "The Wild Rover",
+          "url": "https://open.spotify.com/artist/64cO7ZH9TrRnOh7MUCfLBJ"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "Poor Paddy Works On The Railway",
+      "url": "https://open.spotify.com/track/45EnPYFTEPNaBLxU9JDQwa"
     }
   ],
   "unique_name": "Irish Pub Songs",

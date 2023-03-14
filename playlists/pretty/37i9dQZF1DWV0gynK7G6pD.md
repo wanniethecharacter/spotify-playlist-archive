@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Sophie Kauer
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,329 likes - 74 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,468 likes - 74 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

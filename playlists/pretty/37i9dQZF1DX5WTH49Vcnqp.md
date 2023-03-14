@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love Cover: Lola Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,307 likes - 85 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,321 likes - 85 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 84 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 |
 | 85 | [Getting Down](https://open.spotify.com/track/2MobfDigHK3xfkAbPrkyCI) | [Sid's Balcony](https://open.spotify.com/artist/3xaYtryvMV4jdpx3h4Ydaq) | [Getting Down](https://open.spotify.com/album/41MDMdTH0aHm1K3uOdAP19) | 3:31 |
 
-Snapshot ID: `MTY3ODM2NjgwMCwwMDAwMDAwMDhiNzgzNGVkMDlhZWE4ZjQzMWU5ZWU1Mjg4ZjZkY2E0`
+Snapshot ID: `MTY3ODY3ODA4NiwwMDAwMDAwMGU2MzI2MTQ1NTEyZjUwNDNjNGExYjkxNGFmMDU1YmU2`

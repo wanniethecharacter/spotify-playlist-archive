@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Ne Obliviscaris
 
-606 songs - 2 day 4 hr 14 min
+607 songs - 2 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [At the behest of night](https://open.spotify.com/track/7fHFdpyc17WghB8DAicz6S) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [The Bleeding Veil](https://open.spotify.com/album/2CUsVsLGck7UNb0XCi7Mvw) | 5:03 | 2022-09-02 | 2023-01-21 |
 | [At the Behest of Origins](https://open.spotify.com/track/1T3tO7bdsMwlA8W4hWbXwE) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [At the Behest of Origins](https://open.spotify.com/album/6WdZ2mbYCKFIB8NcTOJUef) | 4:32 | 2021-12-17 | 2022-01-22 |
 | [At the End](https://open.spotify.com/track/0Wc3gD4Fp7TNiX5AmBFbEO) | [Recode the Subliminal](https://open.spotify.com/artist/68FB6q7XC6TDdyMeGmH5Yo) | [The Cost of Every Man](https://open.spotify.com/album/4XoPUpQ9mzPFKwDvCVZMEP) | 3:58 | 2021-12-17 | 2022-01-27 |
-| [Atropos](https://open.spotify.com/track/5LmeXeJ8McsxWZXgPkyhxs) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Atropos](https://open.spotify.com/album/3B1hA33fuFZKtet8TbZg9M) | 8:23 | 2023-02-24 |  |
+| [Atropos](https://open.spotify.com/track/3oGlG3Q8CF3Ms5DbX16jiN) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery V: Djent Is Not A Genre](https://open.spotify.com/album/1tChMZYXMGw9AcbxhDFtxB) | 8:23 | 2023-02-24 |  |
+| [Atropos](https://open.spotify.com/track/5LmeXeJ8McsxWZXgPkyhxs) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Atropos](https://open.spotify.com/album/3B1hA33fuFZKtet8TbZg9M) | 8:23 | 2023-02-24 | 2023-03-14 |
 | [Aurora](https://open.spotify.com/track/6ZNISOKE44BV11yE5IigJ1) | [Cynic](https://open.spotify.com/artist/5nXldeedEas60jZnMi40p4) | [Ascension Codes](https://open.spotify.com/album/3X6Y48lW0sNxNrLLfDdLP3) | 4:33 | 2022-01-14 | 2022-07-27 |
 | [Avatar](https://open.spotify.com/track/12f0f3XqpyPb4O8bdtDn3E) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Artificial Void](https://open.spotify.com/album/6x5jAsKU1x9JB5u5eZ6sLg) | 5:46 | 2022-07-13 |  |
 | [Awaken the Master](https://open.spotify.com/track/2K369VsZZtrd84dnVUv1Wh) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [A View From The Top Of The World](https://open.spotify.com/album/5eukDoHISjksEavVxVKcXn) | 9:47 | 2021-12-17 | 2023-01-21 |

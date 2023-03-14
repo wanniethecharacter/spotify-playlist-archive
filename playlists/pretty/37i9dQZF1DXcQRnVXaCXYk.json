@@ -1,12 +1,12 @@
 {
   "description": "Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.",
-  "num_followers": 41948,
+  "num_followers": 41955,
   "original_name": "The Pop Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ1MjY5MCwwMDAwMDAwMGY5YjViODhmNzUzZmEzYzYxZWM4YzUyMjYyYmY2ZmFl",
+  "snapshot_id": "MTY3NTQ1MjY5MCwwMDAwMDAwMDZhMmEyMDZmOTc5OTY4NzkyM2U2NjEzZTEzNGE1NjI5",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/1uKVTPgvFZAUZ4Tb4j1P9F"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/1Gy9Ofi7nPnNf3kGWPjurm"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Best Day Of My Life",
         "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 146895,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1uKVTPgvFZAUZ4Tb4j1P9F"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/1Gy9Ofi7nPnNf3kGWPjurm"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Not In Chronological Order",
-        "url": "https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 196253,
-      "name": "Little Did I Know",
-      "url": "https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "half a world away",
         "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 207954,
       "name": "half a world away",
       "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Not In Chronological Order",
+        "url": "https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "Little Did I Know",
+      "url": "https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "When The Light Hits The Room",
-        "url": "https://open.spotify.com/album/06kphLH7OC3vCT8cyiniep"
-      },
-      "artists": [
-        {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
-        }
-      ],
-      "duration_ms": 177701,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "hunger",
         "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 191297,
       "name": "hunger",
       "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "When The Light Hits The Room",
+        "url": "https://open.spotify.com/album/06kphLH7OC3vCT8cyiniep"
+      },
+      "artists": [
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "duration_ms": 177701,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -919,6 +919,26 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV"
+      },
+      "artists": [
+        {
+          "name": "Dion Cooper",
+          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
+        },
+        {
+          "name": "MAXINE",
+          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "We Could Start a Thing",
         "url": "https://open.spotify.com/album/55oBheqmFGiAYmFFY0Byyg"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 221000,
       "name": "Shameless",
       "url": "https://open.spotify.com/track/1xca56AOpe6oNTAl9Ih239"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV"
-      },
-      "artists": [
-        {
-          "name": "Dion Cooper",
-          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
-        },
-        {
-          "name": "MAXINE",
-          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "all we got",
-        "url": "https://open.spotify.com/album/0WZ22z2ZmHhHgGN8qVEXeo"
+        "name": "Complexion",
+        "url": "https://open.spotify.com/album/6mLbfA9FOK4gnbcdXD0Mr6"
       },
       "artists": [
         {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
         }
       ],
-      "duration_ms": 153524,
-      "name": "all we got",
-      "url": "https://open.spotify.com/track/2PO1NahelfBM15cIqxOMHi"
+      "duration_ms": 189038,
+      "name": "Complexion",
+      "url": "https://open.spotify.com/track/2nQtfIkK3eE4SQiaUfAgd5"
     }
   ],
   "unique_name": "The Pop Lounge",

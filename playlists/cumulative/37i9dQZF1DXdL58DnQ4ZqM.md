@@ -4,11 +4,12 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-509 songs - 1 day 4 hr 53 min
+514 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [180](https://open.spotify.com/track/5wPr1S5YKwSh1BKdwRuB1o) | [RC Jay](https://open.spotify.com/artist/7a8SlbNNbqQW2kXkoGlkr2) | [180](https://open.spotify.com/album/4WksqqScs7SRWvx2c3Ej8o) | 2:21 | 2022-12-16 |  |
+| [A New Type of Material](https://open.spotify.com/track/3FEsmKwGSKAQBMWRLgN1rJ) | [Doubleclique](https://open.spotify.com/artist/4JjFrDwtpM9YKHOchNn8Rx) | [My Bell Bottoms](https://open.spotify.com/album/7f2FppCcGuWNecET0DZXKV) | 3:00 | 2023-03-13 |  |
 | [a quiet fire](https://open.spotify.com/track/0s1uEBU0SZU8bGxeEh5q36) | [feline empire](https://open.spotify.com/artist/7pNrcc1Bgzb1i88M8TnIVX) | [a quiet fire](https://open.spotify.com/album/2twzW1LzWnlRXm9UZnegsW) | 2:14 | 2022-03-16 | 2022-07-09 |
 | [Above The Clouds](https://open.spotify.com/track/3wvGcypk0Ne1TrQS8vImd4) | [Upstairs2](https://open.spotify.com/artist/46gshtccx7HL3aBw4ZKnbA) | [MInd Travel](https://open.spotify.com/album/1khdB3uTK43q8TDvpA7pI3) | 5:43 | 2022-01-12 | 2022-07-28 |
 | [Above The Clouds](https://open.spotify.com/track/7idub3d0h7M4ho2aBt76Yx) | [Upstairs2](https://open.spotify.com/artist/46gshtccx7HL3aBw4ZKnbA) | [MInd Travel](https://open.spotify.com/album/3Yz4r6OcddUHtyu9bctq8V) | 5:43 | 2022-07-29 | 2023-01-20 |
@@ -100,6 +101,7 @@
 | [Coral Reef](https://open.spotify.com/track/3F1D10jJ3cvxDfz2ZyA6nL) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [Kinissue](https://open.spotify.com/artist/4CSOdm2yCuB71TxCfV105e) | [Phases](https://open.spotify.com/album/3UMqhBgBTUniqsBIZ09ZCT) | 1:49 | 2022-03-16 | 2022-07-09 |
 | [Cozy Sunday](https://open.spotify.com/track/2PARDKT7ZI4gj6LtVA3wKd) | [Mr Sleep](https://open.spotify.com/artist/6VtqApngKv3UlCnSneWdyD) | [Cozy Sunday](https://open.spotify.com/album/2HJPA9yMnrZz44o9wlzyRm) | 1:51 | 2023-01-06 |  |
 | [Creation](https://open.spotify.com/track/3wTo5rcassS8R6L1EzKSCF) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Creation](https://open.spotify.com/album/7Dv1BGiYX6n1zGjK8DmZ5j) | 2:00 | 2022-03-16 | 2022-07-09 |
+| [Cricket Love](https://open.spotify.com/track/6N3VnC49HFPpFmDz7OVL5V) | [Garo](https://open.spotify.com/artist/2mDy8qGRydJwedzm47Ciqr), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Cricket Love](https://open.spotify.com/album/4zmUj9CVOVpx1yCPekxeei) | 1:51 | 2023-03-13 |  |
 | [Crickets](https://open.spotify.com/track/0sBbfmqP4MpoZsvq37VsLz) | [Crickets](https://open.spotify.com/artist/1hFcRBAzklriMv95BvgUW5) | [Behind the surface](https://open.spotify.com/album/2YEiAdVlpZgcINgBZJP03n) | 4:03 | 2022-07-29 | 2022-11-26 |
 | [Crickets](https://open.spotify.com/track/7CqucSHBqZxiwflzXahNzX) | [Crickets](https://open.spotify.com/artist/1hFcRBAzklriMv95BvgUW5) | [Behind the surface](https://open.spotify.com/album/69BbzIJSkD33NIildMqZ51) | 4:03 | 2021-08-10 | 2022-07-28 |
 | [day dreamers](https://open.spotify.com/track/345AerZkFDXrzBbedhNNXv) | [beat away](https://open.spotify.com/artist/6b7CgjmU1vBse6njuahOnS) | [day dreamers](https://open.spotify.com/album/0utA3cjNvrLL377HobWFOj) | 2:21 | 2022-03-16 | 2022-07-09 |
@@ -205,6 +207,7 @@
 | [I've Changed Now \- Spa Version](https://open.spotify.com/track/1PYIN29lPckPUcqpwCQttz) | [Nujac](https://open.spotify.com/artist/5sqDiVku44Xv0LxRpB4SSu), [Freenoise](https://open.spotify.com/artist/23MfR7zLYOOAZ63cornryK) | [I've Changed Now](https://open.spotify.com/album/4FpZfTmMyb2txmnF53c9AS) | 4:06 | 2022-07-29 | 2022-09-09 |
 | [Iampredotto don](https://open.spotify.com/track/0gqQB2GBIyprIf4qJYvOHJ) | [SpizyAnice](https://open.spotify.com/artist/2EfobqosVRmphWbrOEIn0Q) | [Iampredotto don](https://open.spotify.com/album/1NDMmgKNdAaPQp7dETbSaK) | 2:30 | 2022-03-16 | 2022-07-09 |
 | [Idyllic Coastline](https://open.spotify.com/track/2otdVYQsL2mGrYqwyNKngv) | [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Idyllic Coastline](https://open.spotify.com/album/1isIPoToLnMJPl907uMNFp) | 1:59 | 2022-09-16 |  |
+| [If It Rains](https://open.spotify.com/track/5fpRmkeWY2XHqVJDZgGP9J) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [If It Rains](https://open.spotify.com/album/1DumN0sb25DgpQYzUjxQ6k) | 1:54 | 2023-03-13 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/3MYOeb5Mc8QVhK5s5o3DA4) | [Chella](https://open.spotify.com/artist/6FgJLFtYPzMf6VzwLtbzBB) | [In Sentimental Mood \(Ultimate Chill \- Jazz Vol 1\)](https://open.spotify.com/album/6S7n9VGXPwDYdhCUWXLkLD) | 4:26 | 2022-07-29 | 2022-08-19 |
 | [In A Sentimental Mood](https://open.spotify.com/track/7bkK2paqGcy14Qjl32oDdH) | [Chella](https://open.spotify.com/artist/6FgJLFtYPzMf6VzwLtbzBB) | [Sunday Relax \(Vol 2\)](https://open.spotify.com/album/0TLHlRfDRnhKSJmVT61hoo) | 4:26 | 2021-08-10 | 2022-07-29 |
 | [In motion](https://open.spotify.com/track/1irdRdvQJyyQA7J4ZNxzm2) | [Sparkle](https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN) | [Sunset Thrill](https://open.spotify.com/album/3eQUva9UkGjhzni7eyYmx2) | 4:00 | 2022-07-29 | 2023-01-07 |
@@ -286,6 +289,7 @@
 | [Midnight Mood](https://open.spotify.com/track/2Ja6olyQK3JtLf1pvcgM8z) | [Mourco U.](https://open.spotify.com/artist/7pfi2Lbczm9JOzZw5ag5ho) | [Late Night Lovers \(Best Of 2014\-2016\)](https://open.spotify.com/album/4WiPSqYvOIVO9zdZdwyypm) | 5:53 | 2021-08-10 | 2022-07-28 |
 | [Midnight Voyage](https://open.spotify.com/track/4oenxadz35pWdKMIkr8jr2) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [mtch.](https://open.spotify.com/artist/5c9Xrr1IzKEbGhRNeLYppn) | [Midnight Voyage](https://open.spotify.com/album/3e3Rc8LBc2JEnmdZgOneXZ) | 2:11 | 2022-03-16 | 2022-07-09 |
 | [Milano](https://open.spotify.com/track/23LxW8Ssmlpn4GjFrnDTFs) | [Ludvig Freso](https://open.spotify.com/artist/6EL8Sngq7vN8aVAjWmLivS) | [Metropolis](https://open.spotify.com/album/1DV8uae8K8K94y3W2RUHMW) | 1:59 | 2021-08-10 |  |
+| [Milky Way](https://open.spotify.com/track/10D3IGMV0lvJ764KxbVugq) | [FreakBeats](https://open.spotify.com/artist/0pyekPSB9eriDdKgK71n2V) | [Lit AF](https://open.spotify.com/album/2UcW27Fh7WVCcxFGjKQWfT) | 1:35 | 2023-03-13 |  |
 | [Misty Wind](https://open.spotify.com/track/0uyWXMgVE7dW6ij7ZfgjfW) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Last Bus Home](https://open.spotify.com/album/4AJn2ebsa5JP5ZwNmpusRN) | 4:06 | 2022-07-29 |  |
 | [Misty Wind](https://open.spotify.com/track/403UeCOjakaDLU8e23YeNa) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Last Bus Home](https://open.spotify.com/album/2GStqcXt37gERXM8ZpRw8c) | 4:06 | 2021-08-10 | 2022-07-29 |
 | [Moments Of A Dream](https://open.spotify.com/track/0oWR8TAPd4cZVmjXEOiLE8) | [The Upstairs](https://open.spotify.com/artist/0bqFiEQI5oNIuvdk4l6PYC) | [This Is Music For SPA, Vol\. 1](https://open.spotify.com/album/11lKh2eM2KessQXJMaWGMU) | 4:59 | 2022-11-11 | 2022-11-13 |
@@ -509,6 +513,7 @@
 | [Wish I Could Fly \- Ambient Mix](https://open.spotify.com/track/5t3yeV8dXGYKScVOAVZZqi) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [The Album](https://open.spotify.com/album/0od5afi4jRBrmFpzby2DyO) | 4:15 | 2022-07-29 | 2022-09-03 |
 | [Yearning](https://open.spotify.com/track/4zScM9FmI5Z9Ohmgi6PVCz) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [My Promise](https://open.spotify.com/album/3z0jLxZij4JRBX7QdXkafC) | 3:44 | 2022-07-29 | 2022-08-19 |
 | [Yearning](https://open.spotify.com/track/5P8ysr5kiAe0KFWoFDCdQH) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [My Promise](https://open.spotify.com/album/7LQpg0w7maGxH5uzSMi1Jm) | 3:44 | 2021-08-10 | 2022-07-25 |
+| [Yesterday](https://open.spotify.com/track/0hNpX4O9P3qYowjFiuBosI) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Yesterday](https://open.spotify.com/album/3ztDRUPYQ3oKCofA618anq) | 2:29 | 2023-03-13 |  |
 | [You \- Spa/Relax](https://open.spotify.com/track/5gFDZ3ICCRjVq5gtcVXzkt) | [Blue Puppy](https://open.spotify.com/artist/55dD7s4frhh7qVFCvBaoBS) | [You](https://open.spotify.com/album/2F5NGDaK7SiGJd0h5CfvPa) | 3:22 | 2021-08-10 | 2022-07-29 |
 | [You \- Spa/Relax](https://open.spotify.com/track/6V3fokb2rQlvopw0onXcpl) | [Blue Puppy](https://open.spotify.com/artist/55dD7s4frhh7qVFCvBaoBS) | [You](https://open.spotify.com/album/7qTEMrV6yfEuERhJ8HgW0F) | 3:22 | 2022-07-29 | 2022-08-19 |
 | [You Are The Sun](https://open.spotify.com/track/0TKh0LH7lusCzXROSjXkKv) | [Estelle Blanca](https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM) | [Dreamer Lounge](https://open.spotify.com/album/2flZgG4ruzyz0ZjuvKeZjN) | 4:43 | 2021-08-10 | 2022-07-29 |

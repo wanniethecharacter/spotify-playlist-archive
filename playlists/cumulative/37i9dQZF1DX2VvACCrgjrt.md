@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: FETISH
 
-418 songs - 22 hr 14 min
+419 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Crank](https://open.spotify.com/track/5fgoTJczma2FibGrpuJNYj) | [BLEAM](https://open.spotify.com/artist/21b3kfHEAM3THTSpA92k57) | [Crank](https://open.spotify.com/album/01gLYobVbTc8yYKvrZVBfI) | 3:06 | 2022-02-04 | 2022-02-06 |
 | [Crave The Bassline](https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Crave The Bassline](https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S) | 2:46 | 2022-02-25 |  |
 | [Crew](https://open.spotify.com/track/7BI7gk1G4VgO8RZmk439vC) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [Crew](https://open.spotify.com/album/6dMhTnkHKvIFCeldylvkIQ) | 3:03 | 2022-08-12 | 2023-02-08 |
+| [D.I.S.C.O.](https://open.spotify.com/track/2BRqdAILazQ4Brd95GJjpv) | [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2), [BERROW](https://open.spotify.com/artist/307piZl5uWR3Nti6ssXp4T) | [D.I.S.C.O.](https://open.spotify.com/album/6Ue9biQDhdLypEIsPxTpCP) | 2:21 | 2023-03-14 |  |
 | [Daddy](https://open.spotify.com/track/3Bp5P1UoYfprzFy7EClcoz) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Daddy / What Happens In Vegas](https://open.spotify.com/album/4jq7sudnqaNjpJh8FMNTKZ) | 2:27 | 2021-10-29 |  |
 | [Dance](https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Dance](https://open.spotify.com/album/31JMEsEl6SsAArvR0WLwQ3) | 3:07 | 2022-05-06 | 2023-03-13 |
 | [Dancerteria](https://open.spotify.com/track/0LVOxIv7HB4y9llCuUUObS) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Kickin Back](https://open.spotify.com/album/7sJhrdrW2NLgsZIemINUKa) | 3:54 | 2021-10-29 | 2022-01-07 |
@@ -186,7 +187,7 @@
 | [Heat](https://open.spotify.com/track/6dPtJhyt9o3Dhmo2n2VgUe) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [Psylla](https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8) | [Heat](https://open.spotify.com/album/22hHDqGb2Ayl4hiOzLP60d) | 3:04 | 2022-05-06 | 2022-09-17 |
 | [Hell \(Jero Remix\)](https://open.spotify.com/track/11GJxCZp15FW0rRxTZvPKq) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Koos](https://open.spotify.com/artist/3A8Fbum6y0H2ijJSRaDNtB), [JERO](https://open.spotify.com/artist/4UrjjYgWIyCWRkLTTswfHy) | [Hell \(Remixes\)](https://open.spotify.com/album/7ePGi33hiELSAOb0ILF9hK) | 3:20 | 2021-10-29 | 2022-01-14 |
 | [Help \- Habstrakt Remix](https://open.spotify.com/track/7vuRaD7q2ajQU3xLQupl9T) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Help \(Remixes\)](https://open.spotify.com/album/0BWVarGXfyt5P8qzejiRWc) | 3:32 | 2021-10-29 | 2022-03-26 |
-| [Here For You](https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Here For You](https://open.spotify.com/album/3JGqBNtMILRIPmLTbyqusL) | 3:41 | 2021-12-03 |  |
+| [Here For You](https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Here For You](https://open.spotify.com/album/3JGqBNtMILRIPmLTbyqusL) | 3:41 | 2021-12-03 | 2023-03-14 |
 | [Hey Hey \(Heard You Say\)](https://open.spotify.com/track/6W2JFlLjKoSMAYG9pds9rS) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Hey Hey \(Heard You Say\)](https://open.spotify.com/album/6CkhbzTlaDd6kjMqjiXMcy) | 3:53 | 2022-07-22 |  |
 | [High Like This](https://open.spotify.com/track/24rqaJuN7XX19NbmPHA6TT) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 3:01 | 2022-06-03 | 2022-09-15 |
 | [Hit Boys](https://open.spotify.com/track/79JqrjyOQeSKTQcrFW0K0Z) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [IMYOUNGWORLD](https://open.spotify.com/artist/08ngafsXwRT3J172UID0xq) | [Street Knowledge](https://open.spotify.com/album/3odYrusBGPbJ9OXMydGccU) | 2:43 | 2021-10-29 | 2022-05-28 |

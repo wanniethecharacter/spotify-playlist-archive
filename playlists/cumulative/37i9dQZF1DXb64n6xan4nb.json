@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "So Sniper",
+        "url": "https://open.spotify.com/album/6vLSUj4W57HW7H7TudcBFk"
+      },
+      "artists": [
+        {
+          "name": "MC Sniper",
+          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263485,
+      "name": "Bk Love",
+      "url": "https://open.spotify.com/track/12WJh701b8EPb7E1sG1U0t"
+    },
+    {
+      "album": {
         "name": "Like The Bible",
         "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
       },
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 217871,
       "name": "Without a Heart - 10th Anniversary Ver.",
       "url": "https://open.spotify.com/track/5kEDvns1MRfQG1b28KMmHI"

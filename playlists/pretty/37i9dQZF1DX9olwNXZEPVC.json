@@ -1,15 +1,31 @@
 {
   "description": "Hear all of NMIXX's biggest and best hits in one playlist. ",
-  "num_followers": 16214,
+  "num_followers": 17281,
   "original_name": "This Is NMIXX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjUzOTY2NiwwMDAwMDAwMGM4ZDA2NmVlYjA1ZDFkYTkyNDc0ZTYyNTM4OTEwY2M0",
+  "snapshot_id": "MTY3ODY5NzA5NCwwMDAwMDAwMGI2ZTQ1N2EyYmFjN2MzNmNjOTlkMjFlYzdhNWEwYzhh",
   "tracks": [
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
+      "album": {
+        "name": "Young, Dumb, Stupid",
+        "url": "https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 190786,
+      "name": "Young, Dumb, Stupid",
+      "url": "https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn"
+    },
+    {
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "Love to Hate You, Pt. 4 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/7qMURkrL885kAgogHHnSon"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "1st Intermixxion Single <Funky Glitter Christmas>",
         "url": "https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "ENTWURF",
         "url": "https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "AD MARE",
         "url": "https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "AD MARE",
         "url": "https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "ENTWURF",
         "url": "https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/6SYVnDzwzMmTGqW13DSiZA"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "ENTWURF",
         "url": "https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/5PfVBaw9AWrirnNhVRCexe"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "ENTWURF",
         "url": "https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/3wFn8FZ5weDIl1xoYQtWxh"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/5q6aIgZDT81GyqZtlB562m"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "GABBY'S DOLLHOUSE X NMIXX (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/75wt0Zz73OfAaGUVY3n24U"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "GABBY'S DOLLHOUSE X NMIXX (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/501pyfeUUQCwU0W1WvgBQF"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "GABBY'S DOLLHOUSE X NMIXX (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/2yV4cJxX4umiS90dTGfZ1U"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "GABBY'S DOLLHOUSE X NMIXX (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/3MSimmvqsmIZ8gIkY2Lmws"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "AD MARE",
         "url": "https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/7nI7r04LkhJtQupfg08MeS"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "AD MARE",
         "url": "https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/4g7q1mmHaWcj9PkeUr4ghD"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "Special Message : NMIXX is coming!",
         "url": "https://open.spotify.com/album/7mW3oragxrXeGUWT2Chid3"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/2yHQYCc0Ubd3L52T68HEhn"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "Special Message : NMIXX is coming!",
         "url": "https://open.spotify.com/album/7mW3oragxrXeGUWT2Chid3"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/1fpcnt5kVcYIyYZRHCm13K"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "Special Message : NMIXX is coming!",
         "url": "https://open.spotify.com/album/7mW3oragxrXeGUWT2Chid3"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/5FCKW0hOhAUbcZpqfZvBR7"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "Special Message : NMIXX is coming!",
         "url": "https://open.spotify.com/album/7mW3oragxrXeGUWT2Chid3"
@@ -333,7 +349,7 @@
       "url": "https://open.spotify.com/track/1Hycz3SSWy2z8v4yyL5tzN"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "Now is the time! : We Are NMIXX",
         "url": "https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/3weS5CMqh3tVyxegxUgggu"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "Now is the time! : We Are NMIXX",
         "url": "https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/68JBXNz7K5v1mClE9W5Q9c"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "Now is the time! : We Are NMIXX",
         "url": "https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/5qvdnTFa0JLQT4xQWqJzhs"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "Now is the time! : We Are NMIXX",
         "url": "https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/5xaG7VRfcVLX50fuWrqv8P"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "Now is the time! : We Are NMIXX",
         "url": "https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/0Q7eJJUCar0eX0AuZuP76e"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "Now is the time! : We Are NMIXX",
         "url": "https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/6uLwXaG6yP97w1DiXAUnli"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "Now is the time! : We Are NMIXX",
         "url": "https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/28V8wFi1vHWkqmlzYqOTWQ"
     },
     {
-      "added_at": "2023-02-16 09:27:46",
+      "added_at": "2023-03-13 08:44:54",
       "album": {
         "name": "Now is the time! : We Are NMIXX",
         "url": "https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6"

@@ -1,6 +1,6 @@
 {
   "description": "Explore Beethoven's great works in this essential playlist, featuring iconic recordings and special new releases.",
-  "num_followers": 610731,
+  "num_followers": 611054,
   "original_name": "This Is Beethoven",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,494 @@
   },
   "snapshot_id": "MTY3Nzg0ODkwOSwwMDAwMDAwMDZiOTZlMDRlZDU1N2MyMjc4MWFiYzVkMmU2MzQwYzFh",
   "tracks": [
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Originals Beethoven Box",
+        "url": "https://open.spotify.com/album/1kiYP14ax8HLDP9lkwdPwb"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "duration_ms": 442000,
+      "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
+      "url": "https://open.spotify.com/track/2ygeBLTP9uu3OW3VTulD8N"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "F\u00fcr Elise, Bagatelle No. 25 in A Minor, WoO 59",
+        "url": "https://open.spotify.com/album/230jpjk9w7MGupNMMvXoaN"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Bagatelle No. 25 in A Minor, WoO 59 \"F\u00fcr Elise\"",
+      "url": "https://open.spotify.com/track/3zLTPuucd3e6TxZnu2dlVS"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Beethoven: The Piano Sonatas",
+        "url": "https://open.spotify.com/album/1pp9Xql2oo2vmb8jq6dq0U"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 403333,
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": I. Adagio sostenuto",
+      "url": "https://open.spotify.com/track/630zE7N1xPxdK2Zz4S3rPA"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Beethoven: Symphony No. 6 \"Pastoral\"",
+        "url": "https://open.spotify.com/album/1kGJis704qkvZIWOIsKjA0"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        }
+      ],
+      "duration_ms": 758266,
+      "name": "Beethoven: Symphony No. 6 in F Major, Op. 68 \"Pastoral\": I. Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/5UbN3fe9OB1p5KwjgUAHD4"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Beethoven 101",
+        "url": "https://open.spotify.com/album/70qvxjcFTNMTzonum8zuqn"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Valentina Lisitsa",
+          "url": "https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca"
+        }
+      ],
+      "duration_ms": 373665,
+      "name": "Rage Over A Lost Penny, Op. 129",
+      "url": "https://open.spotify.com/track/2YFuTzAr02YYroPwI6vTi1"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Beethoven: Symphonies Nos. 4 and 7",
+        "url": "https://open.spotify.com/album/0nGgrzeXYRjL824PMm1Q8H"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Nicolaus Esterhazy Sinfonia",
+          "url": "https://open.spotify.com/artist/4F35SEDIS2NLiCp7CNLQ5z"
+        },
+        {
+          "name": "B\u00e9la Drahos",
+          "url": "https://open.spotify.com/artist/2eqNsX66FyKi3bnl1KSqZz"
+        }
+      ],
+      "duration_ms": 530293,
+      "name": "Symphony No. 7 in A Major, Op. 92: IV. Allegro con brio",
+      "url": "https://open.spotify.com/track/0LFjvtI8eJAUkzGIo8OMPA"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Beethoven: Symphony No.9",
+        "url": "https://open.spotify.com/album/2J30o5yqvwrIhmrOjTrVux"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 771320,
+      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": III. Adagio molto e cantabile",
+      "url": "https://open.spotify.com/track/69nDKRbYZLGNEkPhImEVGB"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Violin Concerto in D Major, Op. 61: II. Larghetto",
+        "url": "https://open.spotify.com/album/3rWvlpOXpbx8ELWoPAKDpy"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Charlie Siem",
+          "url": "https://open.spotify.com/artist/3knr6OYOZpM3DI8pBOAfAS"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Oleg Caetani",
+          "url": "https://open.spotify.com/artist/5aQCrqgWkrOGdG7qb2FMVT"
+        }
+      ],
+      "duration_ms": 486000,
+      "name": "Violin Concerto in D Major, Op. 61: II. Larghetto",
+      "url": "https://open.spotify.com/track/4BWs1bcs60wjW56SyoHjQi"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Beethoven: Symphonies Nos. 1 - 9",
+        "url": "https://open.spotify.com/album/0j0ZWrFGAFVAmngUuI00VQ"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Beethoven: Symphony No. 2 in D Major, Op. 36: III. Scherzo. Allegro",
+      "url": "https://open.spotify.com/track/4ySqdQH0bhSzuGbBjeJrQm"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Beethoven: Piano Sonata No. 28 in A Major, Op. 101: III. Langsam und sehnsuchtsvoll. Adagio ma non troppo, con affetto (Recorded 2021-2)",
+        "url": "https://open.spotify.com/album/3KZ90mieOEXuBAO8EODI34"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Maurizio Pollini",
+          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
+        }
+      ],
+      "duration_ms": 140266,
+      "name": "Piano Sonata No. 28 in A Major, Op. 101: III. Langsam und sehnsuchtsvoll. Adagio ma non troppo, con affetto - Recorded 2021-2",
+      "url": "https://open.spotify.com/track/2LNs7mkKPbvwKO3qGuK2oD"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Trifonov Plays Chamber Music (Live)",
+        "url": "https://open.spotify.com/album/7E4JlzzswrUxb2wPDWji7r"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        },
+        {
+          "name": "Ilya Gringolts",
+          "url": "https://open.spotify.com/artist/0gr5W6FgzzoMwp7PhpMRqD"
+        },
+        {
+          "name": "Truls M\u00f8rk",
+          "url": "https://open.spotify.com/artist/2ookZjNsAvPdiaGWn86ub1"
+        }
+      ],
+      "duration_ms": 631293,
+      "name": "Piano Trio No. 5 in D Major, Op. 70 No. 1 \"Geistertrio\": I. Allegro vivace e con brio - Live",
+      "url": "https://open.spotify.com/track/0N4mgaz975YMjRcbixYtHg"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Beethoven: String Quartet, Op. 130 / Grosse Fuge, Op. 133",
+        "url": "https://open.spotify.com/album/3xsm3PYh1W3WrLiUdTqdBy"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        }
+      ],
+      "duration_ms": 123773,
+      "name": "String Quartet No. 13 in B-Flat Major, Op. 130: II. Presto",
+      "url": "https://open.spotify.com/track/2ZjhhB3kZP6Zufmjuv2TWC"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Bach & Beethoven",
+        "url": "https://open.spotify.com/album/3i29JBsZHpPUp15CDIPTG4"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Andrew von Oeyen",
+          "url": "https://open.spotify.com/artist/37DoQwtzVqshZVU8WfmzW0"
+        }
+      ],
+      "duration_ms": 479240,
+      "name": "Beethoven: Sonata No. 23 in F Minor, Op. 57, \"Appassionata\": III. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/4YVdlDcS7eK5CVhep29vnd"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Memories \u2013 The Unreleased Recordings 1970-2019",
+        "url": "https://open.spotify.com/album/6UeegzffcuwutZzDu4lL7h"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "duration_ms": 475306,
+      "name": "Andante favori, WoO 57",
+      "url": "https://open.spotify.com/track/2iebeJc7rPjtqxOOppygDq"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Eroica Dance (Arr. for Piano from Symphony No. 3 in E-Flat Major, Op. 55 by Martin Stadtfeld )",
+        "url": "https://open.spotify.com/album/0Jt9gzq3JV6UZwMCdVgYPQ"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 85000,
+      "name": "Eroica Dance (Arr. for Piano from Symphony No. 3 in E-Flat Major, Op. 55 by Martin Stadtfeld )",
+      "url": "https://open.spotify.com/track/1jY5pdWdQiWYKdpJnMCmSv"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Beethoven: The Piano Sonatas",
+        "url": "https://open.spotify.com/album/1pp9Xql2oo2vmb8jq6dq0U"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 461400,
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": III. Presto agitato",
+      "url": "https://open.spotify.com/track/2OQzVmgl8WoNEYDdOLSEOf"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Piano Trio No. 3 in C Minor, Op. 1, No. 3/II. Andante cantabile con variazioni",
+        "url": "https://open.spotify.com/album/68q3yTkL4BARSPZDzaOkSa"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Emanuel Ax",
+          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+        },
+        {
+          "name": "Leonidas Kavakos",
+          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
+        }
+      ],
+      "duration_ms": 458586,
+      "name": "II. Andante cantabile con variazioni",
+      "url": "https://open.spotify.com/track/0F2Htrs5xXvQaid44GLIHq"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Beethoven: 33 Variations in C Major, Op. 120 on a Waltz by Diabelli: Tema. Vivace",
+        "url": "https://open.spotify.com/album/5SwLILHuMkLif37WXPwbgC"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Mitsuko Uchida",
+          "url": "https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe"
+        }
+      ],
+      "duration_ms": 53466,
+      "name": "33 Variations in C Major, Op. 120 on a Waltz by Diabelli: Tema. Vivace",
+      "url": "https://open.spotify.com/track/4Ll5vchWmGSA7TKiXY1olz"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Beethoven: String Quartet No. 16 in F Major, Op. 135: II. Vivace",
+        "url": "https://open.spotify.com/album/5eMzJV0YI3eTBO6EpwTQE4"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Danish String Quartet",
+          "url": "https://open.spotify.com/artist/7dkujWxvEqOlFAo979V68D"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "String Quartet No. 16 in F Major, Op. 135: II. Vivace",
+      "url": "https://open.spotify.com/track/7l1efkDXbMUxAwe4IKrCAy"
+    },
+    {
+      "added_at": "2023-03-03 13:08:29",
+      "album": {
+        "name": "Beethoven: Fidelio",
+        "url": "https://open.spotify.com/album/1sGXfZoUQDbIX6VgCeuhiX"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Wolfgang Glashof",
+          "url": "https://open.spotify.com/artist/2Tag9xzrJR09YhLzpVddeM"
+        },
+        {
+          "name": "Hungarian Radio Chorus",
+          "url": "https://open.spotify.com/artist/4o2cKpvx2MSjV1hrq0XRvF"
+        },
+        {
+          "name": "Nicolaus Esterhazy Sinfonia",
+          "url": "https://open.spotify.com/artist/4F35SEDIS2NLiCp7CNLQ5z"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        },
+        {
+          "name": "Alan Titus",
+          "url": "https://open.spotify.com/artist/2F4vmF18bVqW6Dkw4i25Os"
+        },
+        {
+          "name": "G\u00f6sta Winbergh",
+          "url": "https://open.spotify.com/artist/7mKGVHZ08PYQA8UfvIrJb1"
+        },
+        {
+          "name": "Inga Nielsen",
+          "url": "https://open.spotify.com/artist/3vtZoigEIvEMZY5ah8t2g4"
+        },
+        {
+          "name": "Kurt Moll",
+          "url": "https://open.spotify.com/artist/63jASK5GkDHb5f9zCsOyem"
+        },
+        {
+          "name": "Edith Lienbacher",
+          "url": "https://open.spotify.com/artist/3g3evseOAkujQy1k8bzite"
+        },
+        {
+          "name": "Herwig Pecoraro",
+          "url": "https://open.spotify.com/artist/0VSoqXeCVd4MW55HOkor9h"
+        },
+        {
+          "name": "P\u00e9ter P\u00e1link\u00e1s",
+          "url": "https://open.spotify.com/artist/67hv2f9CSo34HIDWTMTyBK"
+        },
+        {
+          "name": "J\u00f3zsef Moldvay",
+          "url": "https://open.spotify.com/artist/0Ta6mICTpEF0Ig4nIGhgb3"
+        }
+      ],
+      "duration_ms": 383840,
+      "name": "Fidelio, Op. 72: Overture",
+      "url": "https://open.spotify.com/track/3IjkKx4Jcun93Iw5dpKFUC"
+    },
     {
       "added_at": "2023-03-03 13:08:29",
       "album": {

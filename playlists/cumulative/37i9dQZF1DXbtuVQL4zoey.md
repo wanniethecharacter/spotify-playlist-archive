@@ -2,9 +2,9 @@
 
 ### [Sunny Beats](https://open.spotify.com/playlist/37i9dQZF1DXbtuVQL4zoey)
 
-> Chill, tropical vibes only.
+> Beach vibes and summer jams only.
 
-475 songs - 18 hr 20 min
+478 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Cobblestone](https://open.spotify.com/track/66DEOiQSYkFl30qIcR5pbr) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Cobblestone](https://open.spotify.com/album/1jOQBeQ24Yn3hSLWgB9gAZ) | 1:40 | 2022-05-20 | 2023-01-07 |
 | [Cold](https://open.spotify.com/track/4eXX8nK66Bl9Xx5wmmmKwV) | [Hallucination Orbit](https://open.spotify.com/artist/2TsrJ8aEu8sWhKWlv8AMEO) | [Cold](https://open.spotify.com/album/0nYl18rnqfe2UzBE98mvmr) | 2:12 | 2022-05-20 | 2022-08-19 |
 | [Colinas Desde El Alba](https://open.spotify.com/track/6I5Sm9wrdGj7nvWhRv90du) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Colinas Desde El Alba](https://open.spotify.com/album/6AFCsm5CtiUULUoQkpV8hW) | 2:02 | 2022-06-24 | 2022-07-01 |
+| [Colours & Dust](https://open.spotify.com/track/6IoJ4Pttzc3DxFyZLWSjNj) | [Sonopad](https://open.spotify.com/artist/6a3JGgQNJ6ugMYY9CgzltE) | [Colours & Dust](https://open.spotify.com/album/5yclX6BuTeOp2W1XcxlhzH) | 4:32 | 2023-03-13 |  |
 | [Comets](https://open.spotify.com/track/0CIkHeRy9TMRJXfplWRDf1) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Silk](https://open.spotify.com/album/5WLkshplMiCiYStEIQUA5z) | 2:30 | 2022-09-30 |  |
 | [Comfy Chair](https://open.spotify.com/track/4rQ0pTm3poVLafVbXCjnIy) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Escapades, Vol\. 1](https://open.spotify.com/album/5wiDa0usgyl67zSCEC35Lj) | 1:37 | 2022-05-20 | 2022-07-29 |
 | [comfy chair](https://open.spotify.com/track/7BndlSmNYV6rpcoMbaM0rA) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Escapades, Vol\. 1](https://open.spotify.com/album/1Xlg8VOEuvCbiCJf4hJ02B) | 1:37 | 2022-07-29 | 2022-09-17 |
@@ -252,6 +253,7 @@
 | [Lush 002](https://open.spotify.com/track/1xdSbbuFi2g5bpe01pBgQc) | [Ray Ford](https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy) | [Lush 002](https://open.spotify.com/album/07sedSgl049zrehDvzA2Si) | 2:54 | 2022-05-20 |  |
 | [Lush Lush Lake](https://open.spotify.com/track/0Dl6gERwFQMIEl2br6Dmcn) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Lush Lush Lake](https://open.spotify.com/album/6UZspmwJnmXPbVg4ilUvtB) | 2:27 | 2022-08-05 |  |
 | [lustig](https://open.spotify.com/track/4PqKF4AvWgQLDh7hUYdYtc) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [lustig](https://open.spotify.com/album/0mlMroJGJndveu0n7an5ak) | 2:09 | 2022-05-20 |  |
+| [LzmD \- Move On](https://open.spotify.com/track/75auF6xIkTmj6LRPr0VRqX) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [Move On](https://open.spotify.com/album/4P65iF2AZ90KNyVRSLnPro) | 2:36 | 2023-03-13 |  |
 | [Machado](https://open.spotify.com/track/7kHjB7rQhNQOFwN3ERvTZU) | [Papi Churro](https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK) | [Machado](https://open.spotify.com/album/0cRimUJukZ9nZMnBwV3sF9) | 2:03 | 2023-01-20 |  |
 | [Magic moment](https://open.spotify.com/track/6AisWOrqsQFJF5XQuoZQCX) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Magic moment](https://open.spotify.com/album/27nfe3wU9Zvf9kj4PErVYt) | 2:00 | 2022-06-17 | 2022-07-01 |
 | [Malibu Dreams](https://open.spotify.com/track/5RLcwTY0YKoYsobS6n5EG9) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Illuzionary](https://open.spotify.com/artist/2o46d078sJRWBz2evc0WFx) | [Malibu Dreams](https://open.spotify.com/album/56e2YC0VN3R3KQybWhdXXe) | 2:48 | 2022-11-25 |  |
@@ -294,6 +296,7 @@
 | [One Hundred Masters](https://open.spotify.com/track/7cYTfi0NeI7zTNbOguui8H) | [Loaderror](https://open.spotify.com/artist/3zrZn5h0Mmx9aKdzhBX1lB) | [Broken Umbrella](https://open.spotify.com/album/4OUQJxukzSxjwlceCJVG1S) | 1:50 | 2022-05-20 | 2022-10-14 |
 | [One Two Tree](https://open.spotify.com/track/1tNwm7phOIMzGC1VO9Dggr) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [One Two Tree](https://open.spotify.com/album/6HxpoPkpORExzoxwu4QVXZ) | 2:01 | 2022-05-20 | 2022-09-17 |
 | [One4Winter](https://open.spotify.com/track/3XLOnz8xAlxTqVPSjy6mKr) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [One4Winter](https://open.spotify.com/album/4PgSskTm3qbJGWRaMqWvWe) | 2:06 | 2022-05-20 | 2022-06-17 |
+| [Open Mind](https://open.spotify.com/track/3uWz3YOFSLri0qCmiWCmzY) | [Sonopad](https://open.spotify.com/artist/6a3JGgQNJ6ugMYY9CgzltE) | [Open Mind](https://open.spotify.com/album/1Mo4q3DGFgrawdBCa179Rf) | 3:30 | 2023-03-13 |  |
 | [Opus 2](https://open.spotify.com/track/7JV0q80mvbiEUDGUFxE3J5) | [WillSum](https://open.spotify.com/artist/65yQkihuUYn5wSktWTgSVG) | [Opus 2](https://open.spotify.com/album/716LHTsujovH8m2J576NaV) | 2:00 | 2022-05-20 |  |
 | [Orange Dawn](https://open.spotify.com/track/5h849dbRZVoyMM4hwKG2Om) | [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Orange Dawn](https://open.spotify.com/album/32XqONQww8kzR6E6Of9xXe) | 2:01 | 2022-07-15 | 2022-12-10 |
 | [Orange Tree](https://open.spotify.com/track/667UZer8DqG0zUgmaQd0mm) | [Teo](https://open.spotify.com/artist/5d7FgxqeULkBnt4j8cpPJk) | [Orange Tree](https://open.spotify.com/album/571gnXAGbCjC4kATHRPyXZ) | 2:40 | 2022-06-17 |  |

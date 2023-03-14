@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Kanishk Seth
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,679 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,713 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 5 | [Aadhe Raste](https://open.spotify.com/track/46ebBx0SwajtdikPU7N9vJ) | [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Aadhe Raste](https://open.spotify.com/album/2OA7NvFAVOpYFDSdcG5nM2) | 3:28 |
 | 6 | [Tumne Hamein](https://open.spotify.com/track/1d9KnLHrsroucWcoNKvHtP) | [Ankush Bhardwaj](https://open.spotify.com/artist/0XshHSxU5gt37nBa6SS8gY), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU) | [Tumne Hamein](https://open.spotify.com/album/61mTverss6T06JkYOBxeVN) | 3:49 |
 | 7 | [Tere Hone Se](https://open.spotify.com/track/0WOQ0NIjQEAFHXS9haQDOZ) | [DJ Suketu](https://open.spotify.com/artist/4TfiXd01xLFV0xg8PSCysH), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Tere Hone Se](https://open.spotify.com/album/3VBhUpmVVwGtSZd2TGd8FK) | 5:01 |
-| 8 | [Poori Tarah Se](https://open.spotify.com/track/5vE3s0cujAgnFmfbMf8xfh) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Poori Tarah Se](https://open.spotify.com/album/2euZcVgfeai6fDMUQNmbog) | 3:14 |
+| 8 | [Poori Tarah Se](https://open.spotify.com/track/5vE3s0cujAgnFmfbMf8xfh) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Chirag Soni](https://open.spotify.com/artist/3UMC3IINcoIuI0GeNb6Jm3) | [Poori Tarah Se](https://open.spotify.com/album/2euZcVgfeai6fDMUQNmbog) | 3:14 |
 | 9 | [Khwab](https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Khwab](https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7) | 2:38 |
 | 10 | [Tera Mera Aasmaan](https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX) | 2:38 |
 | 11 | [Taare](https://open.spotify.com/track/3kzhjDvTZ163cvxAgZgdGi) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Taare](https://open.spotify.com/album/0MBhtO0M46aexQWmqzq6sY) | 3:15 |

@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: Forrest Frank
 
-271 songs - 16 hr 57 min
+272 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [DNA](https://open.spotify.com/track/5EvEHYLKLso3cR4PVAbSwz) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [DNA](https://open.spotify.com/album/6wsUhs9eHjW1n8DIOiEYCQ) | 3:49 | 2020-12-18 | 2022-07-23 |
 | [Dont Let Me Go](https://open.spotify.com/track/5QphdQKKWbU78UmvW4GlTH) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5) | [Dont Let Me Go](https://open.spotify.com/album/3FtD4mDTc9vcnsLMyOBKVO) | 2:39 | 2023-02-19 |  |
 | [Dream](https://open.spotify.com/track/2TlXByjar2RtNj3ao3lR4b) | [Mahood](https://open.spotify.com/artist/4Xo4ozqAUlAaSYfwOLuCfB) | [Dream](https://open.spotify.com/album/2QOgrUZfWupLsKixiuP7NY) | 2:59 | 2020-12-18 | 2022-07-26 |
+| [Dying Dance](https://open.spotify.com/track/6JiJFQa5bqPHLksMcanUrv) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [Dying Dance](https://open.spotify.com/album/4M4SLrXtGzkhE6qoFUFMLH) | 4:33 | 2023-03-14 |  |
 | [Eloise](https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Finch](https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo) | 2:48 | 2020-12-18 | 2023-02-19 |
 | [Eloise](https://open.spotify.com/track/6J1Rk8WkZ6KOFUtlTVMoJd) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Eloise](https://open.spotify.com/album/1y72knBCC5iPB75Syr3P40) | 2:48 | 2020-12-18 | 2022-07-29 |
 | [Empty Room](https://open.spotify.com/track/2iHHq5ElX24TU3BezraGU2) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/4kYXvyGX55u96HFpkpCMI1) | 3:11 | 2023-02-19 |  |
@@ -268,7 +269,7 @@
 | [Who's That Guy?](https://open.spotify.com/track/0c9Pvl5ZbuSLz74zYaJOmE) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F), [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [fake strong](https://open.spotify.com/album/0MI00zdMi7R5he3t0aaVRm) | 2:42 | 2023-02-24 |  |
 | [Wildflower \- Single Version](https://open.spotify.com/track/2tKaFiKEIuFf5r3LXpiqPg) | [Baily Hager](https://open.spotify.com/artist/20o7eBmsXpjnNqWVvwp9sb) | [Wildflower](https://open.spotify.com/album/1T6eFur755rELSRscSb0AK) | 5:31 | 2023-02-24 |  |
 | [WINNING](https://open.spotify.com/track/2GV28Ng9Qb9nd1Eo0pcoIC) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [WINNING](https://open.spotify.com/album/5gACii71448MJmPfypnC80) | 2:18 | 2023-02-24 |  |
-| [With Us Still](https://open.spotify.com/track/3TxZrkbyMAsRPbYAzDS7ag) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [With Us Still](https://open.spotify.com/album/1xajWufL9Q5yU8abterSB5) | 3:37 | 2023-02-24 |  |
+| [With Us Still](https://open.spotify.com/track/3TxZrkbyMAsRPbYAzDS7ag) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [With Us Still](https://open.spotify.com/album/1xajWufL9Q5yU8abterSB5) | 3:37 | 2023-02-24 | 2023-03-14 |
 | [Without Your Love](https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [A.Bishai](https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM) | [Without Your Love](https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC) | 2:59 | 2023-02-19 | 2023-02-24 |
 | [World Keeps Spinning](https://open.spotify.com/track/2p5VBF4NTxAIooKRCIMWYj) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [World Keeps Spinning](https://open.spotify.com/album/5FI4Yqy2KTTaijWo2QLg0U) | 5:11 | 2020-12-18 | 2022-07-24 |
 | [Worth It All](https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Worth It All](https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD) | 3:37 | 2020-12-18 | 2023-02-19 |

@@ -6982,7 +6982,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-05",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1, \u05d0\u05e0\u05d9 \u05de\u05db\u05d5\u05e8, \u05d0\u05e0\u05d9 \u05e9\u05e8\u05d5\u05e3",
       "url": "https://open.spotify.com/track/0SmY5bTuls1ccput6QhHSA"
@@ -7276,10 +7276,28 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 187770,
       "name": "\u05d1\u05d5\u05d1\u05d4",
       "url": "https://open.spotify.com/track/6m6oaAugKIwqZpLhqtOXMX"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05e2\u05dc \u05d4\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/6Q3omzaKTo5xT39LJqUEfb"
+      },
+      "artists": [
+        {
+          "name": "Noam Bettan",
+          "url": "https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187786,
+      "name": "\u05d1\u05d5\u05d1\u05d4",
+      "url": "https://open.spotify.com/track/5edYMsNo852Zw29Qni9p8t"
     },
     {
       "album": {
@@ -8352,7 +8370,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 212661,
       "name": "\u05d7\u05d5\u05e8\u05e3 \u05d1\u05d7\u05dc\u05d5\u05df",
       "url": "https://open.spotify.com/track/4b5dVRUzTCy0ngxobUX2DG"
@@ -9232,7 +9250,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 155219,
       "name": "\u05dc\u05d1\u05d3 \u05e2\u05dc \u05d4\u05de\u05d9\u05d8\u05d4",
       "url": "https://open.spotify.com/track/05KQMm1vL6MnJkgobUtwft"
@@ -9844,7 +9862,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 153969,
       "name": "\u05de\u05d4 \u05e2\u05d5\u05d1\u05e8 \u05dc\u05da \u05d1\u05e8\u05d0\u05e9",
       "url": "https://open.spotify.com/track/6d8ZHsSyTg6ABLkWNCZdSy"
@@ -10710,7 +10728,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 244939,
       "name": "\u05e1\u05d4\u05e8\u05d4",
       "url": "https://open.spotify.com/track/3uidHx3If1PWAOCMcCdkNH"
@@ -11044,7 +11062,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 196320,
       "name": "\u05e2\u05d5\u05dc\u05d4 \u05e2\u05dc \u05e9\u05d5\u05dc\u05d7\u05e0\u05d5\u05ea",
       "url": "https://open.spotify.com/track/5tNrVA1ySsk7HkV5yg2iXN"
@@ -11586,7 +11604,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 163355,
       "name": "\u05e7\u05d5\u05e4\u05d9\u05d3\u05d5\u05df (Prod. By Triangle)",
       "url": "https://open.spotify.com/track/4W1G1xlxcirdtXosgsR0m0"
@@ -11840,7 +11858,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 151442,
       "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"

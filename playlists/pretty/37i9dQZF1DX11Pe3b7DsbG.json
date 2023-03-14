@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 225630,
+  "num_followers": 225646,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY2MjcwOSwwMDAwMDAwMDM3NjY2YmQzZGUyZjNlZWZjM2VjMzY3ODU4YWIyMjFl",
+  "snapshot_id": "MTY3NDY2MjcwOSwwMDAwMDAwMGY3ZmU1Y2M5YTgyNzBiYWYyYmFhOWYwNzgzMmQ1OGRl",
   "tracks": [
     {
       "added_at": "2023-01-25 16:05:09",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Bebadosamba",
-        "url": "https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf"
-      },
-      "artists": [
-        {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Timoneiro",
-      "url": "https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
         "name": "S\u00e9rie Acervo - Martinho Da Vila",
         "url": "https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
+        "name": "Bebadosamba",
+        "url": "https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Timoneiro",
+      "url": "https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
         "name": "Retratos",
         "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
       },
@@ -407,6 +407,38 @@
       "duration_ms": 169201,
       "name": "Prudente - Ao Vivo",
       "url": "https://open.spotify.com/track/5OkQbATpomh2u5D0YT2j63"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "duration_ms": 97200,
+      "name": "O Sol Nascer\u00e1 (A Sorrir)",
+      "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "Espiral de Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/7cfkiCdd6edpUO472ZpOMm"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 220320,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/3JVJaqZ6qZajZaMi66za1b"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -499,38 +531,6 @@
       "duration_ms": 278853,
       "name": "Clube do Samba",
       "url": "https://open.spotify.com/track/6NV8IxFmG9cPtnZqQwulAy"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
-        "name": "Raizes Do Samba",
-        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
-      },
-      "artists": [
-        {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
-        }
-      ],
-      "duration_ms": 97200,
-      "name": "O Sol Nascer\u00e1 (A Sorrir)",
-      "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
-        "name": "Espiral de Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/7cfkiCdd6edpUO472ZpOMm"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 220320,
-      "name": "L\u00e1 Vem Voc\u00ea",
-      "url": "https://open.spotify.com/track/3JVJaqZ6qZajZaMi66za1b"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
+        "name": "Sentimento Brasileiro",
+        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 171293,
+      "name": "Quando o povo entra na dan\u00e7a",
+      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
         "name": "S\u00e9rie Documento - Nelson Cavaquinho",
         "url": "https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Sentimento Brasileiro",
-        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 171293,
-      "name": "Quando o povo entra na dan\u00e7a",
-      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
         "name": "Quatro Grandes Do Samba",
         "url": "https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2"
       },
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+        "name": "Vers\u00e1til",
+        "url": "https://open.spotify.com/album/6QLdS0DHJp6v493GZr9KOM"
       },
       "artists": [
         {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+          "name": "Nelson Sargento",
+          "url": "https://open.spotify.com/artist/0Ij2lGitwYszblscnFtglL"
         }
       ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+      "duration_ms": 246733,
+      "name": "Nas Asas da Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7gW3883SbE306v3X4pKTWN"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Vers\u00e1til",
-        "url": "https://open.spotify.com/album/6QLdS0DHJp6v493GZr9KOM"
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
       "artists": [
         {
-          "name": "Nelson Sargento",
-          "url": "https://open.spotify.com/artist/0Ij2lGitwYszblscnFtglL"
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
         }
       ],
-      "duration_ms": 246733,
-      "name": "Nas Asas da Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7gW3883SbE306v3X4pKTWN"
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
     },
     {
       "added_at": "2023-01-25 16:05:09",

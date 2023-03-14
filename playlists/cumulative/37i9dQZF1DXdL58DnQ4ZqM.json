@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "My Bell Bottoms",
+        "url": "https://open.spotify.com/album/7f2FppCcGuWNecET0DZXKV"
+      },
+      "artists": [
+        {
+          "name": "Doubleclique",
+          "url": "https://open.spotify.com/artist/4JjFrDwtpM9YKHOchNn8Rx"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180707,
+      "name": "A New Type of Material",
+      "url": "https://open.spotify.com/track/3FEsmKwGSKAQBMWRLgN1rJ"
+    },
+    {
+      "album": {
         "name": "a quiet fire",
         "url": "https://open.spotify.com/album/2twzW1LzWnlRXm9UZnegsW"
       },
@@ -1738,6 +1756,36 @@
       "duration_ms": 120000,
       "name": "Creation",
       "url": "https://open.spotify.com/track/3wTo5rcassS8R6L1EzKSCF"
+    },
+    {
+      "album": {
+        "name": "Cricket Love",
+        "url": "https://open.spotify.com/album/4zmUj9CVOVpx1yCPekxeei"
+      },
+      "artists": [
+        {
+          "name": "Garo",
+          "url": "https://open.spotify.com/artist/2mDy8qGRydJwedzm47Ciqr"
+        },
+        {
+          "name": "Beyond Moments",
+          "url": "https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4"
+        },
+        {
+          "name": "cl\u00f8se2u",
+          "url": "https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE"
+        },
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111780,
+      "name": "Cricket Love",
+      "url": "https://open.spotify.com/track/6N3VnC49HFPpFmDz7OVL5V"
     },
     {
       "album": {
@@ -3695,6 +3743,24 @@
     },
     {
       "album": {
+        "name": "If It Rains",
+        "url": "https://open.spotify.com/album/1DumN0sb25DgpQYzUjxQ6k"
+      },
+      "artists": [
+        {
+          "name": "Grmmr.126",
+          "url": "https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "If It Rains",
+      "url": "https://open.spotify.com/track/5fpRmkeWY2XHqVJDZgGP9J"
+    },
+    {
+      "album": {
         "name": "In Sentimental Mood (Ultimate Chill - Jazz Vol 1)",
         "url": "https://open.spotify.com/album/6S7n9VGXPwDYdhCUWXLkLD"
       },
@@ -5214,6 +5280,24 @@
       "duration_ms": 119229,
       "name": "Milano",
       "url": "https://open.spotify.com/track/23LxW8Ssmlpn4GjFrnDTFs"
+    },
+    {
+      "album": {
+        "name": "Lit AF",
+        "url": "https://open.spotify.com/album/2UcW27Fh7WVCcxFGjKQWfT"
+      },
+      "artists": [
+        {
+          "name": "FreakBeats",
+          "url": "https://open.spotify.com/artist/0pyekPSB9eriDdKgK71n2V"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95124,
+      "name": "Milky Way",
+      "url": "https://open.spotify.com/track/10D3IGMV0lvJ764KxbVugq"
     },
     {
       "album": {
@@ -9376,6 +9460,28 @@
       "duration_ms": 224000,
       "name": "Yearning",
       "url": "https://open.spotify.com/track/5P8ysr5kiAe0KFWoFDCdQH"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/3ztDRUPYQ3oKCofA618anq"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149325,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0hNpX4O9P3qYowjFiuBosI"
     },
     {
       "album": {

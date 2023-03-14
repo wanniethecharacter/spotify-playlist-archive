@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Malak, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,058 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,060 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 8 | [If You Were Mine](https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [If You Were Mine](https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw) | 3:38 |
 | 9 | [Zanqa](https://open.spotify.com/track/2szYtXOwdOsSodY3wefybT) | [Dali Chebil](https://open.spotify.com/artist/03BgaCpEKpepM1iykl4C5l) | [DENYA](https://open.spotify.com/album/3ai4sZXguA2esRD3rQ0MKx) | 4:25 |
 | 10 | [Leh Ya Hana ?](https://open.spotify.com/track/4ZblA6ehlUEGgy3cpENRrx) | [Arnabeat](https://open.spotify.com/artist/31OlJhazERjXIrCE9SQQbM) | [Leh Ya Hana ?](https://open.spotify.com/album/4uWS5ntd91UbXbekxpDdLN) | 3:54 |
-| 11 | [الورود](https://open.spotify.com/track/0yLiUX7xOAqQ4qOaE5zwyV) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [الورود](https://open.spotify.com/album/5lHlJTXmNbWAnk8D9kqDgO) | 2:22 |
+| 11 | [الورود](https://open.spotify.com/track/4stva5wFGdHPxaWPEk1zHS) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [ELWOROUD](https://open.spotify.com/album/0i3CGbhBMbx72GSv4vLZnR) | 2:22 |
 | 12 | [Options](https://open.spotify.com/track/1vFoehNqZiEjAwYReBdAff) | [AB](https://open.spotify.com/artist/3fRLeiaGIS4o3hgu8OV2MP) | [Options](https://open.spotify.com/album/3OYilYvbdSROl1RphaJ3HB) | 2:03 |
 | 13 | [EVERYDAY](https://open.spotify.com/track/5DPsRMm9YBzNgcOLLemG43) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa), [Rayan](https://open.spotify.com/artist/03hITrVrWOExtoyrcHWi2K), [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [LOWKEY](https://open.spotify.com/album/6Ds5HnLl6sPABjnioSR9dG) | 2:44 |
 | 14 | [ZIK](https://open.spotify.com/track/2KtjMjvG5ZMRlKTpFQB4eJ) | [Massyl Aïta](https://open.spotify.com/artist/11k7ODo5tK9sRRseJMR90d) | [ZIK](https://open.spotify.com/album/1XnTTW2lDUzhq1WmSkOu9o) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Back to you](https://open.spotify.com/track/334zuvClv7JYENjupg71GT) | [THE SVNH](https://open.spotify.com/artist/5uPlfGiZu46QlnaDYkcbAm) | [Back to you](https://open.spotify.com/album/7umWTAON78uAbqlZlVLuFO) | 3:05 |
 | 50 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 |
 
-Snapshot ID: `MTY3ODIxOTUwMCwwMDAwMDAwMDdmM2ZiNGEzYzVmYjYzZDFkOGRmNjFhZDBiNGUzOGE2`
+Snapshot ID: `MTY3ODIxOTUwMCwwMDAwMDAwMGZhM2M3NWM4NzYzN2Q1NzQ0ZTNiNWEyZTg2OGU4ZmZm`

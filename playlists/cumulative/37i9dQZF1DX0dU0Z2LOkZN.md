@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-337 songs - 13 hr 14 min
+342 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Few Days Ahead](https://open.spotify.com/track/29Piig79HQpigQuUtxshPv) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [A Few Days Ahead](https://open.spotify.com/album/5mtJbn2mK0qS0iInJ9tmIt) | 2:22 | 2022-02-17 |  |
 | [A Good Place To Start](https://open.spotify.com/track/6Q2poRW19b3n8NiBG5Kg5r) | [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [A Good Place To Start](https://open.spotify.com/album/7laxXMjnlr0v5nFNJrPeHP) | 2:44 | 2022-12-09 |  |
 | [A Long Drive](https://open.spotify.com/track/1fRbfvESFZvhmCyxHLibqJ) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [A Long Drive](https://open.spotify.com/album/08NROFnr3Sc5Qm8SgJKiJy) | 2:49 | 2022-12-23 |  |
+| [A New Type of Material](https://open.spotify.com/track/3FEsmKwGSKAQBMWRLgN1rJ) | [Doubleclique](https://open.spotify.com/artist/4JjFrDwtpM9YKHOchNn8Rx) | [My Bell Bottoms](https://open.spotify.com/album/7f2FppCcGuWNecET0DZXKV) | 3:00 | 2023-03-13 |  |
 | [Afternoon](https://open.spotify.com/track/4KYhkTfdTgVetingzccu3Q) | [Lascko](https://open.spotify.com/artist/39QLKuMT0wuBYQ0A97K6tk) | [Afternoon](https://open.spotify.com/album/39En3GzypUKMVJ3DVn2En8) | 2:21 | 2022-07-22 | 2023-01-20 |
 | [All About It](https://open.spotify.com/track/3cGsZfkkOS0qSmRsq4Ewte) | [Khrysis](https://open.spotify.com/artist/7GVhrE69ShzMSsX0DG4HHT) | [Khrysis On The Board](https://open.spotify.com/album/6njd5Ty1NjaRW9lkHkqy49) | 1:27 | 2021-11-11 | 2022-05-20 |
 | [All My Dreams](https://open.spotify.com/track/1yQu5K4a59paqG1JUAXJm6) | [Philth Spector](https://open.spotify.com/artist/6RHhMMjOiWOWIJpskj0xP3), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [All My Dreams](https://open.spotify.com/album/1hMWXMMH24Tp9rPVya04Tc) | 1:18 | 2022-11-25 |  |
@@ -173,6 +174,7 @@
 | [Lagoon](https://open.spotify.com/track/2uIwZfq0rC5EsKgEpWl6Pk) | [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Lagoon](https://open.spotify.com/album/2h2f1UgdOBIfZAkmmdIyaH) | 3:07 | 2022-07-29 |  |
 | [landscape 03](https://open.spotify.com/track/5VZTOpR13aqA3AMIRl0cbB) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [landscape 03](https://open.spotify.com/album/6BfN2wyjPgiCmY7f1xduMi) | 1:54 | 2022-12-16 |  |
 | [Late Night LoFi](https://open.spotify.com/track/16c43wo0A1mwyhp5Dl4krw) | [Flame 火炎](https://open.spotify.com/artist/31eYHfjltzC2VyNsoVHHR9) | [Late Night LoFi](https://open.spotify.com/album/599Dklst6d3tT5ER5IbOCX) | 2:16 | 2022-09-02 |  |
+| [Lauda](https://open.spotify.com/track/3xCcwfjK0erfnNFl3BdDRm) | [Delphi](https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe), [Spalato Wyale](https://open.spotify.com/artist/4B6N6t2bTzsNH4n3gF74y5) | [Fenomeno](https://open.spotify.com/album/2bCYmMuzZsimxTQWDrTEw4) | 2:01 | 2023-03-13 |  |
 | [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 | 2021-11-11 | 2022-11-26 |
 | [Liquirizia](https://open.spotify.com/track/0YHKwRUr738Xch3Wp851e0) | [ella diva conflict](https://open.spotify.com/artist/7zCs5xY96PPTSGNYcghfux) | [Liquirizia](https://open.spotify.com/album/7L9abcrofGPcE9b2I1tSDJ) | 2:30 | 2022-07-15 |  |
 | [Listen to your heart](https://open.spotify.com/track/0BODaqe1PfKlFtV2rjtY9D) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Elsa](https://open.spotify.com/album/2o1BLv6s8yEj7AbTiul87R) | 3:16 | 2022-11-11 |  |
@@ -199,6 +201,7 @@
 | [Mobilize](https://open.spotify.com/track/5NuVAK4UqklSQMOQ1E5CJe) | [Keyser Dope](https://open.spotify.com/artist/0AlQc7m93kmKUb3F0pJx2V) | [Mobilize](https://open.spotify.com/album/1CBvh99afG08PolU6jVvyp) | 2:56 | 2021-11-11 |  |
 | [money planet](https://open.spotify.com/track/4mItLdXP7LSyBrGDcyhdGi) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [money planet](https://open.spotify.com/album/3e4RusRrCqv3MKM04pjBoO) | 1:44 | 2022-08-19 | 2022-11-20 |
 | [money planet](https://open.spotify.com/track/5t13y5FjGJtfhbQzgitlgD) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [money planet](https://open.spotify.com/album/1r95Feyxpoia1LvkPy5Tvc) | 1:44 | 2022-11-11 |  |
+| [Morning](https://open.spotify.com/track/3vExLh6xNxV6mVGwEqDjgo) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Morning](https://open.spotify.com/album/1A6wKZ8GUT66qAWrPogSjI) | 2:38 | 2023-03-13 |  |
 | [Morning on Bang Tao](https://open.spotify.com/track/64TYdNOOAG63RnrsbwFyrv) | [Dre Dilla](https://open.spotify.com/artist/3iEZGJz6uRmSbCbtxR4Zde) | [Morning on Bang Tao](https://open.spotify.com/album/032KxKFbWD7yFq1BpnKN3a) | 3:27 | 2022-12-09 |  |
 | [Morning Vibes](https://open.spotify.com/track/0Dwo6odrEUVCNcm8IJFd5g) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/7qVtOLDgRzWmoI1bMW9SXl) | 2:35 | 2022-11-11 | 2022-11-26 |
 | [Morning Vibes](https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw) | 2:35 | 2021-11-11 | 2022-11-20 |
@@ -297,6 +300,7 @@
 | [Supercolor](https://open.spotify.com/track/2LzPtYMEj4S44yoBVU7ccu) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Supercolor](https://open.spotify.com/album/1d54tv1raeAGShTBVKmxNu) | 1:48 | 2022-02-17 |  |
 | [Surfing Spot](https://open.spotify.com/track/1KqmTIMj2N9Swjp0md4dLb) | [Jmss](https://open.spotify.com/artist/36SBg8t2alILgIBtN5V2Jb) | [Surfing Spot](https://open.spotify.com/album/1HuI8TDziraZva1JdCzLJj) | 1:52 | 2022-09-30 | 2022-12-17 |
 | [surrender](https://open.spotify.com/track/6Taozt3i4orsCi0eOzaSCg) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [happy nest](https://open.spotify.com/album/5hipZcTfCNRM3uT0KGdhrG) | 3:04 | 2021-11-11 | 2022-07-08 |
+| [Swag](https://open.spotify.com/track/5QNWBhoAp6SnXecDHejQjA) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Swag](https://open.spotify.com/album/28tNfXyZf9vkVqr2Q20cOX) | 1:11 | 2023-03-13 |  |
 | [Sweet Shine](https://open.spotify.com/track/4pI2fYCSDAAwh7JiTNKxpB) | [Jonny Wolf](https://open.spotify.com/artist/4hej44aTHWnoNziIuwNtwS), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Sweet Shine](https://open.spotify.com/album/1fETMZnwesgvka5hprPR2c) | 2:17 | 2022-06-17 | 2022-12-17 |
 | [Switch](https://open.spotify.com/track/0cYvmlZCNXdvsjs7GRXFQh) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Switch](https://open.spotify.com/album/3Le3nB2KAzsZHJsFrqf01y) | 1:46 | 2022-10-28 |  |
 | [synesthesia](https://open.spotify.com/track/3VEJU06N5LAHhmcMiPEQa0) | [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d), [Harvs Le Toad](https://open.spotify.com/artist/0oHlJUy0hxYquC9wWeezG2) | [synesthesia](https://open.spotify.com/album/28WD8pPSjgs38eXv0FZlTQ) | 1:54 | 2023-01-13 |  |
@@ -316,6 +320,7 @@
 | [Tick Count](https://open.spotify.com/track/3m7hTbbkYzUVZiJElAT0hV) | [Ph\-Wert](https://open.spotify.com/artist/4wJm4uz3KH4gc5en3BdB5q), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Tick Count](https://open.spotify.com/album/2A6q1iOmLF4UZgNtphbVA8) | 2:55 | 2022-06-24 | 2022-11-20 |
 | [Tick Count](https://open.spotify.com/track/2DEaNP9WdPu59YD0PTbnHi) | [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH), [Ph\-Wert](https://open.spotify.com/artist/4wJm4uz3KH4gc5en3BdB5q) | [Tick Count](https://open.spotify.com/album/5jzUGZAQwABbh4QORxh84I) | 2:55 | 2022-11-11 | 2023-01-20 |
 | [Time Ticks On](https://open.spotify.com/track/0M0NOfHNnXKOcFdrYkh0Te) | [Dusty Milk](https://open.spotify.com/artist/3fkcH05xZueDPnK5OBVDF1), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Time Ticks On](https://open.spotify.com/album/5ejUkax5ouTkt0cvIGpuoq) | 2:12 | 2022-06-10 |  |
+| [Time To Love](https://open.spotify.com/track/0UtWeLXFjIW2VopadeYFwD) | [The Samplers](https://open.spotify.com/artist/1Db3RMEbPReWKVLfsitK40) | [Time To Love](https://open.spotify.com/album/4KBxCdZvpLhGfLRwrpaCtb) | 1:43 | 2023-03-13 |  |
 | [To You](https://open.spotify.com/track/1TOJ1T3qXhFQ5DDxU0TkNP) | [Dezi\-Belle](https://open.spotify.com/artist/7kiiO7qyA1Qe3WXJnc4eCy), [Baskito](https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v) | [To You](https://open.spotify.com/album/0ntsMtl3ksTux5OebMQpdH) | 2:23 | 2022-09-02 |  |
 | [Trillest](https://open.spotify.com/track/2PmHbcDaBmWr3OmoD09vTd) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l) | [Playground Sessions Vol 1](https://open.spotify.com/album/2fPD6SfAuDrOmNMBjNpeTa) | 1:32 | 2021-11-11 | 2022-07-29 |
 | [Trillest](https://open.spotify.com/track/5b55DpeadBEClX3VLhaB8d) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l) | [Playground Sessions, Vol\. 1](https://open.spotify.com/album/24zPccDEE0hf9WTA7oE6eA) | 1:32 | 2022-07-29 | 2022-09-23 |

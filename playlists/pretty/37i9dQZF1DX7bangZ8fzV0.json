@@ -1,12 +1,12 @@
 {
   "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd?si=6vbdBzqNRw-mDwv77YfoZw\">Kurt Darren</a> ",
-  "num_followers": 66850,
+  "num_followers": 66888,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM5OTE0MCwwMDAwMDAwMDg4NjJkMTVjZjY1MjU2MzMxZWU4ZjkzYjY2ZWY1NWFk",
+  "snapshot_id": "MTY3ODY5NjMxNywwMDAwMDAwMDYxYmEyOGU2NTgwNDdkN2Y2NjBhYWQ3MTkwZDNkZWQx",
   "tracks": [
     {
       "added_at": "2023-03-09 21:59:00",
@@ -881,6 +881,22 @@
       "url": "https://open.spotify.com/track/6uj9EblCmjH3mD68hXYd1J"
     },
     {
+      "added_at": "2023-03-09 21:59:00",
+      "album": {
+        "name": "Spontaan",
+        "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "Vat 'n Bietjie",
+      "url": "https://open.spotify.com/track/181RlW4FYWSzaV9xt8xUPQ"
+    },
+    {
       "added_at": "2022-04-20 08:14:02",
       "album": {
         "name": "Hand Aan Hand",
@@ -943,22 +959,6 @@
       "duration_ms": 217500,
       "name": "Ploeg Jy?",
       "url": "https://open.spotify.com/track/2rLRZ848llZCkbxLV0VhUo"
-    },
-    {
-      "added_at": "2023-03-09 21:59:00",
-      "album": {
-        "name": "Spontaan",
-        "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "Vat 'n Bietjie",
-      "url": "https://open.spotify.com/track/181RlW4FYWSzaV9xt8xUPQ"
     },
     {
       "added_at": "2023-03-09 21:59:00",

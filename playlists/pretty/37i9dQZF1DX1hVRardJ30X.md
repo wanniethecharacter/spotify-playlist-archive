@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Cuco & The Marías
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,909 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,007 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 41 | [When We Go](https://open.spotify.com/track/4Lt2j4QlyTYn0RUAgA0FjT) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [Parque](https://open.spotify.com/album/4lFQ50ciXvhRz7iPiws1CU) | 3:49 |
 | 42 | [El Malo](https://open.spotify.com/track/09cnFicu5YNYHGyLdZV71F) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P) | [NOHAUS](https://open.spotify.com/album/37ii5gmB9PGE3iiSfQFmXd) | 2:58 |
 | 43 | [Luna](https://open.spotify.com/track/0naTpVNKb4YF5AXXaZld4L) | [Juan Rached](https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM), [Subliminals](https://open.spotify.com/artist/3RHLm0zZscBiIeAabUQOLi) | [Luna](https://open.spotify.com/album/6iwmU4rLhGlfoCmW0uQrpg) | 2:55 |
-| 44 | [Dile Ya](https://open.spotify.com/track/63Z9Rsm18t0Y2UyFkytLCX) | [Zero](https://open.spotify.com/artist/0lVHsjAla6BxMacWuZj9TE), [DeMasters](https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ), [Vladi Cachai](https://open.spotify.com/artist/489cVIiUsrb45PbXc3gi1P) | [Dile Ya](https://open.spotify.com/album/2n32H1DhEVNrQXg79Ii3rO) | 2:55 |
+| 44 | [Dile Ya](https://open.spotify.com/track/63Z9Rsm18t0Y2UyFkytLCX) | [ZERO](https://open.spotify.com/artist/66l0RF4YIJeNNTZzqdP6ew), [DeMasters](https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ), [Vladi Cachai](https://open.spotify.com/artist/489cVIiUsrb45PbXc3gi1P) | [Dile Ya](https://open.spotify.com/album/2n32H1DhEVNrQXg79Ii3rO) | 2:55 |
 | 45 | [Ghostea](https://open.spotify.com/track/2RtPHaS01hcV1bsaypsWGd) | [Cpro](https://open.spotify.com/artist/3JvIYnDpMUezZuKUmsswyI), [Tanatox](https://open.spotify.com/artist/0a2CIoGIYHjQpmnsGL1vk6) | [Ghostea](https://open.spotify.com/album/3I9MgMUt0Yd4jMmNOrvIYc) | 2:57 |
 | 46 | [Contigo Conmigo](https://open.spotify.com/track/1xz1e1OyTuivTV7TiuXB6k) | [Gonzu](https://open.spotify.com/artist/04m9IMd8cPoIkV0d5j7yip), [7th Floor](https://open.spotify.com/artist/1fgflgQsBH1720uRlLqagB) | [Contigo Conmigo](https://open.spotify.com/album/06MGEUXWNKw4lIlEjNuNHa) | 3:28 |
 | 47 | [CUMPLEAÑOS](https://open.spotify.com/track/09tEjSbhoLi3SVgfgVEtdd) | [Crissleger](https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH) | [CUMPLEAÑOS](https://open.spotify.com/album/2hTA8BtUFje0IG7VXQOjaY) | 2:48 |

@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2371578,
+  "num_followers": 2372038,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM1MDkxMywwMDAwMDAwMDE1ZGEyZjFkZmEwNmY4ODg1MjAyMDBjNDNlZjgxOGYz",
+  "snapshot_id": "MTY3ODM1MDkxMywwMDAwMDAwMDEzNDhiYzA0Y2Y1ZjJmMGNlNGU3ZmNlMDY3NGE3OGEx",
   "tracks": [
     {
       "added_at": "2023-03-09 08:35:13",
@@ -123,34 +123,18 @@
     {
       "added_at": "2023-03-09 08:35:13",
       "album": {
-        "name": "Hale",
-        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
       },
       "artists": [
         {
-          "name": "Hale",
-          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
         }
       ],
-      "duration_ms": 291320,
-      "name": "The Day You Said Goodnight",
-      "url": "https://open.spotify.com/track/08hFNg8Oz3lvaAms7qrIif"
-    },
-    {
-      "added_at": "2023-03-09 08:35:13",
-      "album": {
-        "name": "Bigotilyo",
-        "url": "https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f"
-      },
-      "artists": [
-        {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV"
+      "duration_ms": 244800,
+      "name": "Give Me Your Forever",
+      "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
     },
     {
       "added_at": "2023-03-09 08:35:13",
@@ -171,18 +155,18 @@
     {
       "added_at": "2023-03-09 08:35:13",
       "album": {
-        "name": "Episode",
-        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
+        "name": "Hale",
+        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Give Me Your Forever",
-      "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
+      "duration_ms": 291320,
+      "name": "The Day You Said Goodnight",
+      "url": "https://open.spotify.com/track/08hFNg8Oz3lvaAms7qrIif"
     },
     {
       "added_at": "2023-03-09 08:35:13",
@@ -215,6 +199,22 @@
       "duration_ms": 306466,
       "name": "Ikaw Lamang",
       "url": "https://open.spotify.com/track/0bhzB5PBUVqZSux5Y7t5ED"
+    },
+    {
+      "added_at": "2023-03-09 08:35:13",
+      "album": {
+        "name": "Bigotilyo",
+        "url": "https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f"
+      },
+      "artists": [
+        {
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV"
     },
     {
       "added_at": "2023-03-09 08:35:13",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-03-09 08:35:13",
       "album": {
-        "name": "Versions & Beyond",
-        "url": "https://open.spotify.com/album/5ak2XNLAZyBKcUuvtZImhZ"
-      },
-      "artists": [
-        {
-          "name": "MYMP",
-          "url": "https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Tell Me Where It Hurts",
-      "url": "https://open.spotify.com/track/4sYpTI5RPkhX2OWfrmjNl3"
-    },
-    {
-      "added_at": "2023-03-09 08:35:13",
-      "album": {
         "name": "Leaves",
         "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 310708,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
+    },
+    {
+      "added_at": "2023-03-09 08:35:13",
+      "album": {
+        "name": "Versions & Beyond",
+        "url": "https://open.spotify.com/album/5ak2XNLAZyBKcUuvtZImhZ"
+      },
+      "artists": [
+        {
+          "name": "MYMP",
+          "url": "https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Tell Me Where It Hurts",
+      "url": "https://open.spotify.com/track/4sYpTI5RPkhX2OWfrmjNl3"
     },
     {
       "added_at": "2023-03-09 08:35:13",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-09 08:35:13",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1"
-      },
-      "artists": [
-        {
-          "name": "Rivermaya",
-          "url": "https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "214",
-      "url": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB"
-    },
-    {
-      "added_at": "2023-03-09 08:35:13",
-      "album": {
         "name": "Maybe The Night",
         "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
       },
@@ -471,18 +455,18 @@
     {
       "added_at": "2023-03-09 08:35:13",
       "album": {
-        "name": "G9",
-        "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1"
       },
       "artists": [
         {
-          "name": "Gloc 9",
-          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+          "name": "Rivermaya",
+          "url": "https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI"
         }
       ],
-      "duration_ms": 244600,
-      "name": "Simpleng Tao",
-      "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
+      "duration_ms": 273200,
+      "name": "214",
+      "url": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB"
     },
     {
       "added_at": "2023-03-09 08:35:13",
@@ -503,6 +487,22 @@
     {
       "added_at": "2023-03-09 08:35:13",
       "album": {
+        "name": "G9",
+        "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
+      },
+      "artists": [
+        {
+          "name": "Gloc 9",
+          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+        }
+      ],
+      "duration_ms": 244600,
+      "name": "Simpleng Tao",
+      "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
+    },
+    {
+      "added_at": "2023-03-09 08:35:13",
+      "album": {
         "name": "Monodramatic",
         "url": "https://open.spotify.com/album/0fWuyWoKTJty03n7xpCrEe"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-03-09 08:35:13",
       "album": {
-        "name": "Sana",
-        "url": "https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl"
-      },
-      "artists": [
-        {
-          "name": "I Belong to the Zoo",
-          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
-        }
-      ],
-      "duration_ms": 277098,
-      "name": "Sana - Single Version",
-      "url": "https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m"
-    },
-    {
-      "added_at": "2023-03-09 08:35:13",
-      "album": {
         "name": "Teka Lang",
         "url": "https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 196582,
       "name": "Teka Lang",
       "url": "https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v"
+    },
+    {
+      "added_at": "2023-03-09 08:35:13",
+      "album": {
+        "name": "Sana",
+        "url": "https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        }
+      ],
+      "duration_ms": 277098,
+      "name": "Sana - Single Version",
+      "url": "https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m"
     },
     {
       "added_at": "2023-03-09 08:35:13",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-03-09 08:35:13",
       "album": {
-        "name": "Kabado",
-        "url": "https://open.spotify.com/album/4QKhoKIlxDjVcMgDznCt7A"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        }
-      ],
-      "duration_ms": 246304,
-      "name": "Kabado",
-      "url": "https://open.spotify.com/track/7oLe1cVRqLpoH2NozJ78mh"
-    },
-    {
-      "added_at": "2023-03-09 08:35:13",
-      "album": {
         "name": "Twelve: Fifty One (International Version)",
         "url": "https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 246280,
       "name": "12:51",
       "url": "https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q"
+    },
+    {
+      "added_at": "2023-03-09 08:35:13",
+      "album": {
+        "name": "Kabado",
+        "url": "https://open.spotify.com/album/4QKhoKIlxDjVcMgDznCt7A"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "duration_ms": 246304,
+      "name": "Kabado",
+      "url": "https://open.spotify.com/track/7oLe1cVRqLpoH2NozJ78mh"
     },
     {
       "added_at": "2023-03-09 08:35:13",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-03-09 08:35:13",
       "album": {
-        "name": "Gusto Ko Nang Bumitaw (From \"The Broken Marriage Vow\")",
-        "url": "https://open.spotify.com/album/05RICu0AxsqrqoiSzzxeyG"
-      },
-      "artists": [
-        {
-          "name": "Morissette",
-          "url": "https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ"
-        }
-      ],
-      "duration_ms": 271846,
-      "name": "Gusto Ko Nang Bumitaw - From \"The Broken Marriage Vow\"",
-      "url": "https://open.spotify.com/track/1FxGqFnJkRgJ5LG2NBRTh3"
-    },
-    {
-      "added_at": "2023-03-09 08:35:13",
-      "album": {
         "name": "KLWKN",
         "url": "https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 252969,
       "name": "It Might Be You - Theme from Everyday I Love You",
       "url": "https://open.spotify.com/track/4FdQYoWFym37QDQ2GkEHi1"
+    },
+    {
+      "added_at": "2023-03-09 08:35:13",
+      "album": {
+        "name": "Gusto Ko Nang Bumitaw (From \"The Broken Marriage Vow\")",
+        "url": "https://open.spotify.com/album/05RICu0AxsqrqoiSzzxeyG"
+      },
+      "artists": [
+        {
+          "name": "Morissette",
+          "url": "https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ"
+        }
+      ],
+      "duration_ms": 271846,
+      "name": "Gusto Ko Nang Bumitaw - From \"The Broken Marriage Vow\"",
+      "url": "https://open.spotify.com/track/1FxGqFnJkRgJ5LG2NBRTh3"
     },
     {
       "added_at": "2023-03-09 08:35:13",

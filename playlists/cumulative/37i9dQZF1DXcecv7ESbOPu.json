@@ -6564,10 +6564,32 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 260458,
       "name": "Angel From Montgomery",
       "url": "https://open.spotify.com/track/1dp0u6CgdgNcSXbpNfICFX"
+    },
+    {
+      "album": {
+        "name": "Jills Veranda Nashville (Livemusiken fr\u00e5n s\u00e4song 5) [Episode 1]",
+        "url": "https://open.spotify.com/album/0TWPaD1VT4lsNuKnVGuvyH"
+      },
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+        },
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260458,
+      "name": "Angel From Montgomery",
+      "url": "https://open.spotify.com/track/4zT1mPU2doUBQOq4G2eiNK"
     },
     {
       "album": {

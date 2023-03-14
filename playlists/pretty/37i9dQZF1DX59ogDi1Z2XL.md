@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Sunny Malton, AR Paisley, Lazyeye
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,810 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,841 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 25 | [N64](https://open.spotify.com/track/2mYF52YuOZF0JGOocCIiig) | [Boy Wonder](https://open.spotify.com/artist/1qeGaN6I0QJO9G25tHUTVP) | [N64](https://open.spotify.com/album/2R3UbtP5fupUgsf1maILAR) | 2:24 |
 | 26 | [Jumbotron Shit Poppin](https://open.spotify.com/track/2ZlABhxMMa43COmZ97kKsJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:17 |
 | 27 | [DANGEROUS](https://open.spotify.com/track/1E9SjPOByVGL26Lu3BTMzx) | [Lex Leosis](https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6) | [DANGEROUS](https://open.spotify.com/album/4bHgRcGIlsdvrhIw37ezgU) | 2:44 |
-| 28 | [Hoodie Back](https://open.spotify.com/track/0aUIg6yOgBl1ojGnZQjByC) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Hoodie Back](https://open.spotify.com/album/0BaPirEIlrRTmo1jElRUYS) | 3:22 |
+| 28 | [Hoodie Back \(feat\. Guapdad 4000\)](https://open.spotify.com/track/0aUIg6yOgBl1ojGnZQjByC) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Hoodie Back \(feat\. Guapdad 4000\)](https://open.spotify.com/album/0BaPirEIlrRTmo1jElRUYS) | 3:22 |
 | 29 | [Still Him](https://open.spotify.com/track/7vQvrQRQcK5s9z0OaaXaTM) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Still Him](https://open.spotify.com/album/5wjaQbSKqAOpuVbcJCa7ZO) | 3:11 |
 | 30 | [I'm The Man](https://open.spotify.com/track/70i7053w8YwzeGmPKNagSX) | [Evil Ebenezer](https://open.spotify.com/artist/1E1u1P7Fse6SKnETGdo6XK), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA), [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [I'm The Man](https://open.spotify.com/album/7f14XOMLVOJwnnXY9QsNcU) | 3:12 |
 | 31 | [All Good](https://open.spotify.com/track/6ViQ30LMbif4aMb0jB6BeK) | [Madchild](https://open.spotify.com/artist/2mOzrayQHznyyCwOcGGHOr), [Reyes](https://open.spotify.com/artist/4Tl70a8fMY8T7wKQRU4eRM) | [All Good](https://open.spotify.com/album/6Tjiq3iq7dcZ9S7ubbeyXM) | 2:54 |

@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "My Bell Bottoms",
+        "url": "https://open.spotify.com/album/7f2FppCcGuWNecET0DZXKV"
+      },
+      "artists": [
+        {
+          "name": "Doubleclique",
+          "url": "https://open.spotify.com/artist/4JjFrDwtpM9YKHOchNn8Rx"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180707,
+      "name": "A New Type of Material",
+      "url": "https://open.spotify.com/track/3FEsmKwGSKAQBMWRLgN1rJ"
+    },
+    {
+      "album": {
         "name": "Afternoon",
         "url": "https://open.spotify.com/album/39En3GzypUKMVJ3DVn2En8"
       },
@@ -3227,6 +3245,28 @@
     },
     {
       "album": {
+        "name": "Fenomeno",
+        "url": "https://open.spotify.com/album/2bCYmMuzZsimxTQWDrTEw4"
+      },
+      "artists": [
+        {
+          "name": "Delphi",
+          "url": "https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe"
+        },
+        {
+          "name": "Spalato Wyale",
+          "url": "https://open.spotify.com/artist/4B6N6t2bTzsNH4n3gF74y5"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121246,
+      "name": "Lauda",
+      "url": "https://open.spotify.com/track/3xCcwfjK0erfnNFl3BdDRm"
+    },
+    {
+      "album": {
         "name": "lemon",
         "url": "https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz"
       },
@@ -3708,6 +3748,24 @@
       "duration_ms": 104096,
       "name": "money planet",
       "url": "https://open.spotify.com/track/5t13y5FjGJtfhbQzgitlgD"
+    },
+    {
+      "album": {
+        "name": "Morning",
+        "url": "https://open.spotify.com/album/1A6wKZ8GUT66qAWrPogSjI"
+      },
+      "artists": [
+        {
+          "name": "Rooftop Shenanigans",
+          "url": "https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/3vExLh6xNxV6mVGwEqDjgo"
     },
     {
       "album": {
@@ -5639,6 +5697,24 @@
     },
     {
       "album": {
+        "name": "Swag",
+        "url": "https://open.spotify.com/album/28tNfXyZf9vkVqr2Q20cOX"
+      },
+      "artists": [
+        {
+          "name": "Gold School",
+          "url": "https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71785,
+      "name": "Swag",
+      "url": "https://open.spotify.com/track/5QNWBhoAp6SnXecDHejQjA"
+    },
+    {
+      "album": {
         "name": "Sweet Shine",
         "url": "https://open.spotify.com/album/1fETMZnwesgvka5hprPR2c"
       },
@@ -6018,6 +6094,24 @@
       "duration_ms": 132705,
       "name": "Time Ticks On",
       "url": "https://open.spotify.com/track/0M0NOfHNnXKOcFdrYkh0Te"
+    },
+    {
+      "album": {
+        "name": "Time To Love",
+        "url": "https://open.spotify.com/album/4KBxCdZvpLhGfLRwrpaCtb"
+      },
+      "artists": [
+        {
+          "name": "The Samplers",
+          "url": "https://open.spotify.com/artist/1Db3RMEbPReWKVLfsitK40"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103500,
+      "name": "Time To Love",
+      "url": "https://open.spotify.com/track/0UtWeLXFjIW2VopadeYFwD"
     },
     {
       "album": {

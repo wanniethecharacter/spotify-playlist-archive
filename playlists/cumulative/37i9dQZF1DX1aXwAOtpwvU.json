@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 206603,
       "name": "Apocalypse Afterparty",
       "url": "https://open.spotify.com/track/0NGEsbt7zMy31hwBBIN5RT"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 183428,
       "name": "Ciche Dni",
       "url": "https://open.spotify.com/track/3tRwIV2mOrh67QVVpZ26vW"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 185727,
       "name": "Cztery Pory Roku",
       "url": "https://open.spotify.com/track/1Ie1oqzSIc7YVOG0Pa6qAI"
@@ -266,7 +266,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 241040,
       "name": "Duch",
       "url": "https://open.spotify.com/track/6YHsgC9zWTgjuqVgc1IIH5"
@@ -306,6 +306,42 @@
       "duration_ms": 138352,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/4GODMnu9X4jmPWFx6Dc0K1"
+    },
+    {
+      "album": {
+        "name": "FULL-TIME",
+        "url": "https://open.spotify.com/album/1xVON5ExYlcmp1UW3EeNsK"
+      },
+      "artists": [
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191739,
+      "name": "FULL-TIME",
+      "url": "https://open.spotify.com/track/11ZSjYaV1K4MSnwRNA0odP"
+    },
+    {
+      "album": {
+        "name": "Gladiator",
+        "url": "https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01"
+      },
+      "artists": [
+        {
+          "name": "Jann",
+          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211643,
+      "name": "Gladiator",
+      "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
     },
     {
       "album": {
@@ -382,6 +418,24 @@
       "duration_ms": 172160,
       "name": "kraksa",
       "url": "https://open.spotify.com/track/5NHrQlml5DG2JIYsIS1pMY"
+    },
+    {
+      "album": {
+        "name": "Kruszysz",
+        "url": "https://open.spotify.com/album/2KnwvbHPgEEajYjNwwHPxv"
+      },
+      "artists": [
+        {
+          "name": "KIWI",
+          "url": "https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234428,
+      "name": "Kruszysz",
+      "url": "https://open.spotify.com/track/5c3QbtxY4DBPT7FET6PE2A"
     },
     {
       "album": {
@@ -573,6 +627,46 @@
     },
     {
       "album": {
+        "name": "na legalu (2k23 Mark Neve rework)",
+        "url": "https://open.spotify.com/album/01S3dkcvCEzapM8ijz2Vft"
+      },
+      "artists": [
+        {
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+        },
+        {
+          "name": "Mark Neve",
+          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135247,
+      "name": "na legalu (2k23 Mark Neve rework)",
+      "url": "https://open.spotify.com/track/7gUgalQuAVBJv4ppy0w8Kn"
+    },
+    {
+      "album": {
+        "name": "Double N",
+        "url": "https://open.spotify.com/album/7d6Aho9TyMvWAsa85WP5IU"
+      },
+      "artists": [
+        {
+          "name": "NEL",
+          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Na zawsze, morze",
+      "url": "https://open.spotify.com/track/5c6eOOvCcwmySM46HN7Er4"
+    },
+    {
+      "album": {
         "name": "jestem bryska (mini album)",
         "url": "https://open.spotify.com/album/694sraSss3PDwTtbnn0U8N"
       },
@@ -584,7 +678,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 150304,
       "name": "neonowe laczki",
       "url": "https://open.spotify.com/track/6iNm8Px8IQwiFRfFlARt80"
@@ -602,7 +696,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 167767,
       "name": "Niebieska Noc",
       "url": "https://open.spotify.com/track/5urPVqVx8tb3mUY8m9MLAo"
@@ -718,6 +812,28 @@
       "duration_ms": 191021,
       "name": "Ogie\u0144",
       "url": "https://open.spotify.com/track/1bZG6SFJ3OLbyhFVcFe5xJ"
+    },
+    {
+      "album": {
+        "name": "Outro",
+        "url": "https://open.spotify.com/album/0NqV8UXKjInjxi0HWEmfWC"
+      },
+      "artists": [
+        {
+          "name": "Ania Leon",
+          "url": "https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu"
+        },
+        {
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283809,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/3ys9zEe2Pru33ihkvskHJ5"
     },
     {
       "album": {
@@ -873,6 +989,28 @@
     },
     {
       "album": {
+        "name": "Put Me First - Spotify Singles",
+        "url": "https://open.spotify.com/album/08dupG5Wu6BHLTfGjkvnxb"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        },
+        {
+          "name": "Claudia Neuser",
+          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145186,
+      "name": "Put Me First - Spotify Singles",
+      "url": "https://open.spotify.com/track/7AVh4WcNbYldNAMtC3Rki1"
+    },
+    {
+      "album": {
         "name": "Rossa",
         "url": "https://open.spotify.com/album/2hEQuIoHJYKqr5DRlktH2M"
       },
@@ -978,7 +1116,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 159378,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/38PpCriX9SO5ueEoJeTbLN"
@@ -1116,6 +1254,24 @@
       "duration_ms": 145655,
       "name": "Zapachy",
       "url": "https://open.spotify.com/track/4ts35aCwJQOvkZaEv3Z2vZ"
+    },
+    {
+      "album": {
+        "name": "Zapomnieli",
+        "url": "https://open.spotify.com/album/6rsxb4mxMY0lnALsVO2fnw"
+      },
+      "artists": [
+        {
+          "name": "Marissa",
+          "url": "https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Zapomnieli",
+      "url": "https://open.spotify.com/track/00NRXYw9q24APKKfHK7Z4w"
     },
     {
       "album": {

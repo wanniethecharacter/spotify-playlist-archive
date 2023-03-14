@@ -4,7 +4,7 @@
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-319 songs - 20 hr 2 min
+320 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A closeness](https://open.spotify.com/track/5ClDPw47BORurTM0yTwuS7) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [A closeness](https://open.spotify.com/album/2uq5e6GHPMlMiEhZ6Y3zQS) | 4:11 | 2019-09-29 | 2022-02-15 |
 | [A Heart Arcane](https://open.spotify.com/track/264bH2jUIFmlclwJfpmEk9) | [Horse Feathers](https://open.spotify.com/artist/0lO2c86rQmrRJArBxgw0v8) | [Cynic's New Year](https://open.spotify.com/album/32HXUSvlymSKkbIVOAO2nM) | 2:49 | 2021-04-26 | 2021-05-25 |
 | [A Thousand Years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 | 2023-01-06 |  |
-| [After All](https://open.spotify.com/track/1O4esqy0w9Y7NkZWwDRSOc) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:51 | 2022-02-14 | 2023-03-10 |
+| [After All](https://open.spotify.com/track/1O4esqy0w9Y7NkZWwDRSOc) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:51 | 2022-02-14 |  |
 | [After All](https://open.spotify.com/track/3mNbESTcSwgN0qSr0I4Vzi) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [After All](https://open.spotify.com/album/2wEtYCTlmYyCZFQDSWc3GP) | 3:51 | 2021-08-14 | 2022-07-29 |
 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 | 2019-09-29\* |  |
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2021-01-12 | 2021-08-14 |
@@ -129,7 +129,7 @@
 | [In a Week \(feat\. Karen Cowley\)](https://open.spotify.com/track/5F55SiWwEEytk6vsQXHxQW) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Karen Cowley](https://open.spotify.com/artist/0pANuDFzZpuOm7NK5L478T) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 5:18 | 2021-02-16 | 2021-02-17 |
 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 | 2020-06-12 | 2021-01-12 |
 | [In Good Times](https://open.spotify.com/track/3gCZCyMbMK0jHCRDQfpKrX) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Remember Roses](https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z) | 2:51 | 2020-04-24 | 2021-10-16 |
-| [In Love a Little While](https://open.spotify.com/track/5BRdAEkolAiHyodHeVE3OF) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [In Love a Little While](https://open.spotify.com/album/5YalgymSO85RdwEpntw0jk) | 2:52 | 2023-02-25 |  |
+| [In Love a Little While](https://open.spotify.com/track/5BRdAEkolAiHyodHeVE3OF) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [In Love a Little While](https://open.spotify.com/album/5YalgymSO85RdwEpntw0jk) | 2:52 | 2023-02-25 | 2023-03-14 |
 | [Into Dust](https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 5:36 | 2020-06-12 | 2021-01-15 |
 | [Into The Mystic](https://open.spotify.com/track/7EeiHkQqRXaCCpULM0oUro) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/1EGgZgY8BFqFqAc7rq5j8r) | 3:30 | 2021-04-26 | 2022-02-22 |
 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/1lxVGQgbt0g7mMkmevl9Bm) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Expanded Edition\)](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) | 3:25 | 2022-02-14 | 2022-11-13 |
@@ -141,7 +141,7 @@
 | [La Di Da](https://open.spotify.com/track/2hkATlPV5TJn7lctodQZE9) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [La Di Da](https://open.spotify.com/album/3B0ueGyEPlQTYO6BKKA8gz) | 3:32 | 2020-06-12 | 2021-01-15 |
 | [Land Of The Living](https://open.spotify.com/track/34f6sZPLPVsGwgBOrW3iLu) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Tiger Striped Sky](https://open.spotify.com/album/12AP94kXbpnXg6Zk8DmB0s) | 4:24 | 2022-02-14 |  |
 | [Land of the Living](https://open.spotify.com/track/4m9DSdV4XU49dDJ8yhaMMv) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Land of the Living EP](https://open.spotify.com/album/7uQsGnLLXirmXDEcNtfQqc) | 4:24 | 2019-09-29\* | 2022-07-29 |
-| [Last Time](https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Last Time](https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn) | 3:13 | 2021-01-12 |  |
+| [Last Time](https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Last Time](https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn) | 3:13 | 2021-01-12 | 2023-03-14 |
 | [Leave the Light On \- Demo](https://open.spotify.com/track/2nxBkZ02hsiU3SIowH4XQI) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Before July: Demos & Unreleased Songs](https://open.spotify.com/album/7lNnNfJjnoQIKAzyZY9sdL) | 3:12 | 2020-06-12 | 2021-05-28 |
 | [Left for America](https://open.spotify.com/track/2UJy2HHo4afrQbI5FizxLM) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Kosher](https://open.spotify.com/album/2mUoO1Fwso37aBUKJzQzod) | 2:50 | 2022-02-14 |  |
 | [Left for America](https://open.spotify.com/track/37z3ghNvcoPvHypKWTb2Sz) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Kosher](https://open.spotify.com/album/139OD5CEdzkVnocD4ew1Wt) | 2:50 | 2020-06-12 | 2021-05-28 |
@@ -316,6 +316,7 @@
 | [Wild Heart](https://open.spotify.com/track/3RaBn3KfONjo1PZG6IsVgf) | [Desiree Dawson](https://open.spotify.com/artist/1BeMe0yy4Sqo29rnqkZ1tc) | [Wild Heart](https://open.spotify.com/album/64T3nMHhsbtzSLCzN3o5XQ) | 3:22 | 2020-06-12 | 2021-01-12 |
 | [Will You Love Me](https://open.spotify.com/track/4f8TB5mwkaqKlAcEW7kOJg) | [The Vespers](https://open.spotify.com/artist/4P4Yj6mf3dMRaCMT49RKdt) | [The Fourth Wall](https://open.spotify.com/album/1PJbUHMfJ3lLbwSPTHNSvH) | 4:36 | 2021-01-12 | 2021-01-15 |
 | [Wind & Anchor](https://open.spotify.com/track/34fJIXIKjz8tbUwzRiD4lj) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Young](https://open.spotify.com/album/7c7WXAvGLEnfritd5ir09k) | 3:08 | 2019-09-29\* | 2023-03-02 |
+| [Wind & Anchor](https://open.spotify.com/track/5FGJDxlf3t34Qfb3l9oliE) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Young](https://open.spotify.com/album/1l7efW8h9JlIqxC7BNqgYF) | 3:08 | 2023-02-14 |  |
 | [Winded](https://open.spotify.com/track/3UJGIYmjkklzLI8CjcHdZ9) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Closer](https://open.spotify.com/album/6YDeLHRPIlErkmm6sEoUPB) | 3:01 | 2019-11-02 | 2021-10-16 |
 | [Winners](https://open.spotify.com/track/24iNTcDw03qMYCS3mJaq5f) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wild Animals](https://open.spotify.com/album/1DcI1ob0G4cNKIyFhrR35S) | 5:14 | 2020-06-12 | 2021-10-14 |
 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 | 2021-08-15 |  |

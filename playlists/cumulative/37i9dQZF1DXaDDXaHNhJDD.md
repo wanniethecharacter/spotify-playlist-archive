@@ -4,7 +4,7 @@
 
 > Your ultimate playlist for the best in Mollywood!<br/>Cover: Romancham
 
-114 songs - 7 hr 32 min
+115 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Kannilente \(From "Marakkar \- Arabikadalinte Simham"\)](https://open.spotify.com/track/7nh3AwCaZwynihlPhvAaqI) | [Ronnie Raphael](https://open.spotify.com/artist/0de21hsTsnpfWS6cTDRhhe), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Zia Ul Haq](https://open.spotify.com/artist/3kPqgCCGlCGS9owID1l5n9) | [Kannilente \(From "Marakkar \- Arabikadalinte Simham"\)](https://open.spotify.com/album/77apTBUDZtKhljq8fjoFBw) | 5:34 | 2022-05-17 | 2023-02-08 |
 | [Kannilu Kannilu \(From "Ayisha"\)](https://open.spotify.com/track/23mxqvgypgECg4KxnVqtNr) | [Ahi Ajayan](https://open.spotify.com/artist/3CPdmmOFd8yq1zXHn28UsH), [M\. Jayachandran](https://open.spotify.com/artist/67ra8R8hw9NkDyBaJBS2j6), [B.K\. Harinarayanan](https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV) | [Kannilu Kannilu \(From "Ayisha"\)](https://open.spotify.com/album/1nztFaTYNoTL1wFUGfifIU) | 3:52 | 2022-10-25 |  |
 | [Kannu \- From "Visudha Mejo"](https://open.spotify.com/track/5kRHq7ShB1VqgCz7e7n2SM) | [Adheef Muhamed](https://open.spotify.com/artist/6Vaa0LrrwLHwX69gYjghH4), [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh) | [Kannu \(From "Visudha Mejo"\)](https://open.spotify.com/album/3o4GmyuH13xMxORlnTvO9j) | 3:21 | 2022-07-31 | 2023-02-08 |
+| [Karinthol \(From "Rrr"\)](https://open.spotify.com/track/1AcQmRLLDNAjB6Zi3OgEt4) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Maragadhamani](https://open.spotify.com/artist/1bRcW8SnU3AKrhzxnbdR64) | [Karinthol \(From "Rrr"\)](https://open.spotify.com/album/1OIdyZqmKKnFSQqVOm0uSe) | 3:34 | 2023-03-13 |  |
 | [Kim Kim](https://open.spotify.com/track/0aH3lqTh5038MPUbnX4kuN) | [Manju Warrier](https://open.spotify.com/artist/4IXYF3FJmeKQFqT7pAjf3h) | [Kim Kim \(From "Jack N' Jill"\)](https://open.spotify.com/album/3EbxbDKT235dRi7Uu4BPFB) | 3:16 | 2022-05-17 | 2022-11-08 |
 | [Koyikkodu](https://open.spotify.com/track/4ZvzfkM8slkxtCB7EtkyLD) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Abhaya Hiranmayi](https://open.spotify.com/artist/0Z8vxkS3JFzjsLPHH7MLhR) | [Goodalochana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74dfKo4DL91dTZZilPMplE) | 1:46 | 2022-06-16 |  |
 | [Kudukku](https://open.spotify.com/track/3QRSs8nzHXXvcQjdnx0CsJ) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src) | [Love Action Drama](https://open.spotify.com/album/0PyduGao02LM04po12NKcm) | 2:37 | 2022-05-17 |  |

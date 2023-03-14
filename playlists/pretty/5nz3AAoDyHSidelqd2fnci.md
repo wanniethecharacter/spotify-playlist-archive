@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 47 min 58 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 50 min 18 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Aces High](https://open.spotify.com/track/0M9DMRvqGZWKxg3DQtYEic) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Hatebreeder \(International Edition\)](https://open.spotify.com/album/55H8LerEv2RiQ219d9oPeA) | 4:27 |
-| 2 | [Kirisute Gomen](https://open.spotify.com/track/5oELEE5XmqWw9gIFsb878g) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 6:27 |
-| 3 | [Remenissions \- Demo](https://open.spotify.com/track/3KHQrAYY5uXXx861VZ3q2S) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen: Resurrected](https://open.spotify.com/album/23M9qOX1iPIlHKfm4l3oKU) | 6:11 |
-| 4 | [I Wanna Die in Los Angeles](https://open.spotify.com/track/0CDKEvcZFbZO1YTgpZxZno) | [Dead To Me](https://open.spotify.com/artist/0WwbVkYbderW7JeP79ApoL) | [I Wanna Die in Los Angeles](https://open.spotify.com/album/4uJeecYvf6JU7EF9LtLIw9) | 2:22 |
-| 5 | [Keep Yourself Alive \- Live At The Rainbow](https://open.spotify.com/track/34pz8XUZRfw04lk4DPtwa7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:56 |
-| 6 | [Vide Infra \- 2004 Remaster](https://open.spotify.com/track/4bU2ak4Wjsjn4pF783qhdJ) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Killswitch Engage \(Expanded Edition\) \[2004 Remaster\]](https://open.spotify.com/album/1MgyBHsiad6REK9veCUATT) | 3:32 |
-| 7 | [The Dope Show](https://open.spotify.com/track/1wrIp2G2kEa2pt6jsUJ05A) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Mechanical Animals \(Explicit Version\)](https://open.spotify.com/album/5Ljq72RxzQfkKaOtxPf3Zq) | 3:46 |
-| 8 | [Trátame Suavemente \- Remasterizado 2007](https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:20 |
-| 9 | [Inquisition Symphony \- Instrumental Version](https://open.spotify.com/track/0sLaYWSKsutAHx3ZXe0WTW) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Inquisition Symphony](https://open.spotify.com/album/43ZBK0wkWhW6v5Pdx7ht6d) | 4:57 |
-| 10 | [Need You Like](https://open.spotify.com/track/0K28plOjXm5jrSUzl0rXSf) | [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [Need You Like](https://open.spotify.com/album/0uECcKilcsQ7i0U1WwSx47) | 2:02 |
-| 11 | [Walk This Way](https://open.spotify.com/track/0vBGZU6o3r2rc7PRwRCHSJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Very Best of Aerosmith: Devil's Got a New Disguise](https://open.spotify.com/album/4kxrUUfNn4zgpSIchf06EP) | 3:39 |
-| 12 | [Love Beyond The Grave](https://open.spotify.com/track/53BjsI3Lv1SIlExxGAb4p5) | [Crocodiles](https://open.spotify.com/artist/1Z4Erxt5wSXH0gbOsVJUMv) | [Love Beyond The Grave](https://open.spotify.com/album/3hyQLmDtP4UQ1sjXgi7wWj) | 3:13 |
+| 1 | [My Own Mind](https://open.spotify.com/track/3AfMsHgJQU9CxQf0Im4AcL) | [SUDS](https://open.spotify.com/artist/4u6gl0WUBFGfLaBABuqIA5) | [My Own Mind](https://open.spotify.com/album/0j60S1Q9VorL4xFUpYJQrt) | 4:27 |
+| 2 | [Space Enough To Grow](https://open.spotify.com/track/4bvskHeaENsdxd5OQopmV6) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Restoring Force: Full Circle](https://open.spotify.com/album/2MqYypIxDlwcPNc1T90fO2) | 3:38 |
+| 3 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 |
+| 4 | [Perdon](https://open.spotify.com/track/3x8O7hS9LHPcbhmR3zCTaT) | [Facundo Cabral](https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx) | [Un Canto Al Pueblo, Vol\. 1](https://open.spotify.com/album/3OaYBf63f5rVAAyU84PIeQ) | 3:31 |
+| 5 | [His Last Walk](https://open.spotify.com/track/2DE6LpCfemne6aWM7ixIL4) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [His Last Walk](https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM) | 10:31 |
+| 6 | [Doomed \- Commentary](https://open.spotify.com/track/7y3qprHf1FA8Q3xNTFLKjD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit \(Track by Track Commentary\)](https://open.spotify.com/album/6XPW94L30lADaLwczUnLFh) | 1:28 |
+| 7 | [Let It Rock](https://open.spotify.com/track/6BHtTBtKb4BppT3ykEl8GZ) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 5:25 |
+| 8 | [Clint Eastwood](https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 5:40 |
+| 9 | [Cast from Perfection](https://open.spotify.com/track/0j5IGfFOLxmsVId1zw5P52) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Desolation of Eden](https://open.spotify.com/album/3aLSNKBvxIWL0d8cshVZat) | 2:43 |
+| 10 | [Masterpiece](https://open.spotify.com/track/6yU6o0fbGhtKNFyKDcL8zJ) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Masterpiece](https://open.spotify.com/album/3t3owRZbkMZrjZOAseeMoY) | 2:15 |
+| 11 | [No Me Falles](https://open.spotify.com/track/4esJIc8V94chpvUfB6Rnna) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Grandes Exitos](https://open.spotify.com/album/6Nvv5Jrk3cg5BdplDxEsHq) | 3:38 |
+| 12 | [Laguna Sunrise](https://open.spotify.com/track/7E3ofLA3h82nIUJBRoV5pL) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath Vol\. 4 \(Remastered\)](https://open.spotify.com/album/2PoPhjSYlXmYfkNKHVq1cQ) | 2:50 |
 
-Snapshot ID: `MjYsZjhjOTAwMWIyMDZhODE4ZDJjMjk1ZWE4ZjQ5NGU1YzdlZjIxNGI5Nw==`
+Snapshot ID: `MjcsYWNlMWFiMDI1ZGNmMGM5MGIzZmYxNWFmN2Q5MzE4NGM2ZGUwNTQxYg==`

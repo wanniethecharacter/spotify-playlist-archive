@@ -2,7 +2,7 @@
 
 ### [Dance Hits 2023](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
-> Dance hits in 2023, featuring Jax Jones, Steve Aoki, Topic, and more!\. Cover: SG Lewis
+> Dance hits in 2023\. Cover: SG Lewis
 
 186 songs - 9 hr 38 min
 

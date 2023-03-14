@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-173 songs - 9 hr 44 min
+174 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Patient \(Prod\. By bcalm\)](https://open.spotify.com/track/74CneYBSEO1FUT6rxsOGTF) | [Saula](https://open.spotify.com/artist/46GT1NQLJZsnVuxWKwuLET) | [Patient](https://open.spotify.com/album/44mbJocaDy3JGDuqiClLAp) | 3:30 | 2022-04-21 | 2022-07-25 |
 | [Photograph](https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:59 | 2022-04-18 |  |
 | [Pink Slip](https://open.spotify.com/track/17IFPGDfnC3kFZ0QGBjSi2) | [Rosy](https://open.spotify.com/artist/2wMzCCeiXSV9NFSzGzwVyv), [Lynden Rook](https://open.spotify.com/artist/2wPR2w4YUpJNHRSdwx8OHr) | [Escape](https://open.spotify.com/album/3fcyxmVS8xyWcqJwifUsad) | 3:37 | 2022-04-18 | 2022-07-23 |
+| [PIZZA](https://open.spotify.com/track/3xzl4MYc0YLQHJbaD6LxT6) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Far From the Madding City](https://open.spotify.com/album/43toiDnPej9XfkfNB821JD) | 3:31 | 2023-02-28 |  |
 | [PIZZA](https://open.spotify.com/track/6tHZSykaov7NellMyqqn2u) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Far From the Madding City](https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy) | 3:31 | 2022-04-18 | 2023-03-02 |
 | [Please Don′t Save Me](https://open.spotify.com/track/23vBocYQlxBdAhwbNbLPcd) | [Acy blu](https://open.spotify.com/artist/3MYIi83H7ZCfglGpvMtCQ6) | [Love Is Over](https://open.spotify.com/album/7pT9cfakGi2TnHHTFr7LCj) | 3:20 | 2022-06-18 | 2022-07-05 |
 | [please lie to me 거짓말이라도 해줘 \(Feat\. Ezzy\)](https://open.spotify.com/track/1DBYS342IjhOAULTDuSgSh) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [EZ Kim](https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os) | [:\(](https://open.spotify.com/album/2Sbj8WiZSwOTcYlos4TAy3) | 3:33 | 2022-04-18 | 2022-07-23 |
@@ -145,7 +146,7 @@
 | [Space science](https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Space science](https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM) | 3:53 | 2022-12-20 |  |
 | [Spanish Restaurant \(Prod\. Liquor well\)](https://open.spotify.com/track/5mxxj0aEeTNvo9N7JWJEhM) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i), [Liquor well](https://open.spotify.com/artist/3ganClcuZN3ZpNrTXJIMmx) | [Spanish Restaurant](https://open.spotify.com/album/5YC4Nrh2IZ8BFx1jjS5Ly9) | 2:48 | 2022-07-25 | 2022-07-28 |
 | [squabble](https://open.spotify.com/track/28QJye0LlUrxH0E9nL5Eyt) | [Kim Jeong\_uk](https://open.spotify.com/artist/1BqP8ZPk9adgbcmkoW7dP4) | [l o v e](https://open.spotify.com/album/4BOE51OkBxuDPxT8Ka6hvr) | 3:22 | 2022-05-11 | 2022-06-03 |
-| [Starlight No More](https://open.spotify.com/track/0CSfu5jtIJAoSMn1Y6ktL3) | [Kiggen](https://open.spotify.com/artist/1J79fhfblzZX0KFSgU9i9b), [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Starlight No More](https://open.spotify.com/album/060gcufgjRhF72v78nCDI7) | 3:17 | 2022-04-18 |  |
+| [Starlight No More](https://open.spotify.com/track/0CSfu5jtIJAoSMn1Y6ktL3) | [Kiggen](https://open.spotify.com/artist/1J79fhfblzZX0KFSgU9i9b), [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Starlight No More](https://open.spotify.com/album/060gcufgjRhF72v78nCDI7) | 3:17 | 2022-04-18 | 2023-03-14 |
 | [Stars \(Song by LauRel\)](https://open.spotify.com/track/2VKPmyruaNnjUDr4zMoNv1) | [SOUND PALETTE](https://open.spotify.com/artist/0vReM81CSMXlENdSzVSHQF) | [PALETTE C\#501.](https://open.spotify.com/album/1B6QSaLReFPeItURvSBNW1) | 3:36 | 2022-04-18 | 2022-07-13 |
 | [study abroad \(Feat\. Han\-All\)](https://open.spotify.com/track/6O4S5bDDOrhnHcVkwyAx1L) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [starry night ‘17](https://open.spotify.com/album/2RPyn31wYLC9lWn4p0OVEI) | 3:52 | 2022-04-18 |  |
 | [Sunrise \(Feat\. EunBii\)](https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN) | [Wildberry](https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [SUNRISE](https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov) | 3:18 | 2022-04-21 | 2022-07-27 |

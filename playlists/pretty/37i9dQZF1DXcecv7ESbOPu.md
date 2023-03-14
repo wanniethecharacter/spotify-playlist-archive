@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,416 likes - 113 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,410 likes - 113 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 80 | [My Soul](https://open.spotify.com/track/5yVuG4ydlJKZ9GEvHOP0Ga) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4) | [My Soul](https://open.spotify.com/album/7xCDeIoNb9SZdaFOdS2PbH) | 2:42 |
 | 81 | [Lucky Ones](https://open.spotify.com/track/5aYA3xB53IuRAMp0jZ1al1) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Lucky Ones](https://open.spotify.com/album/6KZkiVwe0aEu3ypYWNyO6R) | 3:35 |
 | 82 | [Like Money](https://open.spotify.com/track/35IrvgGjuAic4amYZWFdWG) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [Like Money](https://open.spotify.com/album/6s1iQ3SU7mTPgE7NZO0VDY) | 3:18 |
-| 83 | [Angel From Montgomery](https://open.spotify.com/track/1dp0u6CgdgNcSXbpNfICFX) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw), [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Jills Veranda Nashville \(Livemusiken från säsong 5\) \[Episode 1\]](https://open.spotify.com/album/5QAHiu5PAbK5Eq2sN9Xula) | 4:20 |
+| 83 | [Angel From Montgomery](https://open.spotify.com/track/4zT1mPU2doUBQOq4G2eiNK) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw), [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Jills Veranda Nashville \(Livemusiken från säsong 5\) \[Episode 1\]](https://open.spotify.com/album/0TWPaD1VT4lsNuKnVGuvyH) | 4:20 |
 | 84 | [Blue Moon](https://open.spotify.com/track/7z35YvaX2UBoDcqofWKsho) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Portrayals](https://open.spotify.com/album/6mGBmm9KLnoY9zXep6kJSQ) | 4:14 |
 | 85 | [MO UP FRONT](https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [MO UP FRONT](https://open.spotify.com/album/04oCjD2uZHOfv4W7Kj9Fd0) | 2:50 |
 | 86 | [So DISRESPECTFUL](https://open.spotify.com/track/6tvFBQBdsLErOq4smfV231) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [So DISRESPECTFUL](https://open.spotify.com/album/1n1Dw6cutT1V0EaQjcPHjP) | 2:01 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 112 | [Lighter Better](https://open.spotify.com/track/2aLLgMDijCDiNYYeDhEr1V) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Lighter Better](https://open.spotify.com/album/5kUx9LciOvOTrMEK98Hvrk) | 3:12 |
 | 113 | [Bloodshot](https://open.spotify.com/track/0eyaXlEiQOmUyQo0PC0PpT) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Bloodshot](https://open.spotify.com/album/2ZGm33efqRup92vVIxh1kw) | 3:24 |
 
-Snapshot ID: `MTY3ODQ0MTUzMSwwMDAwMDAwMDRiN2VlMWNlMjI1ODU2NWY4MDAxNTlkZDdmN2U0ZTZk`
+Snapshot ID: `MTY3ODQ0MTUzMSwwMDAwMDAwMDdmZmFjZjhkMDJiNDEyNTg5ZDU4YzhjZGIzYmE3MTM1`

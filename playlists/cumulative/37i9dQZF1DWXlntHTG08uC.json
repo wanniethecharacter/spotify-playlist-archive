@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/1L0LIBh6QlyyHGmN6mwQVh"
+      },
+      "artists": [
+        {
+          "name": "Aegean Noise",
+          "url": "https://open.spotify.com/artist/0lGHTzI7DtmSGJq85VGjuH"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196161,
+      "name": "528 Hz - Atmosphere",
+      "url": "https://open.spotify.com/track/3odOla9ux5GCbMYbZ2U8KM"
+    },
+    {
+      "album": {
         "name": "Campo Visivo",
         "url": "https://open.spotify.com/album/42r7GNrwblY7xpMzwvxxpX"
       },
@@ -149,6 +167,60 @@
     },
     {
       "album": {
+        "name": "Quiet Stars",
+        "url": "https://open.spotify.com/album/7HtP4dHkmBSY6bmEzRUqAg"
+      },
+      "artists": [
+        {
+          "name": "Advaitas",
+          "url": "https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115914,
+      "name": "528 Hz - Quiet Stars",
+      "url": "https://open.spotify.com/track/4jXPbT4AZ3H9hfzex9jhFB"
+    },
+    {
+      "album": {
+        "name": "Sedang Tidur Part II",
+        "url": "https://open.spotify.com/album/14g28ydElevtgofcH7Br51"
+      },
+      "artists": [
+        {
+          "name": "La-Mu",
+          "url": "https://open.spotify.com/artist/4O675OCBvAxnP1vSxShYAc"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144892,
+      "name": "528 Hz - Sedang Tidur Part II",
+      "url": "https://open.spotify.com/track/5HEooZeYoS3XsOFDIRtbFi"
+    },
+    {
+      "album": {
+        "name": "Soledad Tranquilo",
+        "url": "https://open.spotify.com/album/6kEm1ctmep8BwLjbNaWjhF"
+      },
+      "artists": [
+        {
+          "name": "Inkognitone",
+          "url": "https://open.spotify.com/artist/4QboCl4BNGAbXTeFx4zFGl"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136719,
+      "name": "528 Hz - Soledad Tranquilo",
+      "url": "https://open.spotify.com/track/3KiwU20pfDCZS6zv2wJQ9l"
+    },
+    {
+      "album": {
         "name": "Solfeggio For Clarity",
         "url": "https://open.spotify.com/album/2w7B92xiafwo6yJN15d7UM"
       },
@@ -164,6 +236,24 @@
       "duration_ms": 152000,
       "name": "528 Hz - Solfeggio For Clarity",
       "url": "https://open.spotify.com/track/5QQDN7nNV9oynrKu6XoOCL"
+    },
+    {
+      "album": {
+        "name": "Talentueuse",
+        "url": "https://open.spotify.com/album/34cHAvwkGQnYto6Ze7Hii3"
+      },
+      "artists": [
+        {
+          "name": "Darcel Gau",
+          "url": "https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98750,
+      "name": "528 Hz - Talentueuse",
+      "url": "https://open.spotify.com/track/0ul8Y97AJ1sp0BBFMyREQc"
     },
     {
       "album": {
@@ -239,6 +329,24 @@
     },
     {
       "album": {
+        "name": "432 & 528 Hz Intuition",
+        "url": "https://open.spotify.com/album/2AamrEPNMZkmMknDSYlgMm"
+      },
+      "artists": [
+        {
+          "name": "Infinite Field",
+          "url": "https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "528 Hz Continuous Sleep",
+      "url": "https://open.spotify.com/track/7lmkOvO66o3N0iQI1bY6eT"
+    },
+    {
+      "album": {
         "name": "528 Hz Clarity, Peace and DNA Repair",
         "url": "https://open.spotify.com/album/5ohhnuyB8pdNRUsyl52ZS1"
       },
@@ -254,6 +362,42 @@
       "duration_ms": 166432,
       "name": "528 Hz DNA Repair",
       "url": "https://open.spotify.com/track/2oUbRBvpvb7iyvyMcBrsjG"
+    },
+    {
+      "album": {
+        "name": "Solfeggio Ondas",
+        "url": "https://open.spotify.com/album/5UmaBX9C27Np8TepecsPBc"
+      },
+      "artists": [
+        {
+          "name": "Paz Interna",
+          "url": "https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "528 Hz Dormir",
+      "url": "https://open.spotify.com/track/5xAzGzdCDsJOa7xx4jaElk"
+    },
+    {
+      "album": {
+        "name": "432 & 528 Hz Intuition",
+        "url": "https://open.spotify.com/album/2AamrEPNMZkmMknDSYlgMm"
+      },
+      "artists": [
+        {
+          "name": "Infinite Field",
+          "url": "https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "528 Hz Dream Time",
+      "url": "https://open.spotify.com/track/2Uvf7tAkpRs3Uaw0hZVaLY"
     },
     {
       "album": {
@@ -592,7 +736,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 135050,
       "name": "528 Hz Singing Tibetan Bowl",
       "url": "https://open.spotify.com/track/5FlSEkinQuGnXatiZIs4XD"
@@ -1168,7 +1312,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 170181,
       "name": "Ethereal in 528hz",
       "url": "https://open.spotify.com/track/2PiEsCiricooWn5a3CxuVU"
@@ -1226,6 +1370,24 @@
       "duration_ms": 212154,
       "name": "Ferns",
       "url": "https://open.spotify.com/track/4EILGubj8yeAb5szI5BDVh"
+    },
+    {
+      "album": {
+        "name": "Floating Through Solfeggio",
+        "url": "https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190834,
+      "name": "Floating Through Solfeggio 528 Hz",
+      "url": "https://open.spotify.com/track/5VGpVjeSr7r8w8uWIRQeef"
     },
     {
       "album": {
@@ -1654,7 +1816,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 166000,
       "name": "Solar Plexus - Yellow - Singing Bowls At Night",
       "url": "https://open.spotify.com/track/1O0AbFpd6giRa0teVWjocJ"

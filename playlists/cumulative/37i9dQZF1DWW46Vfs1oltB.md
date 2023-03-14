@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: sokodomo, Vice Versa, Don Mills, Smugglers\)\)
 
-831 songs - 1 day 22 hr 13 min
+832 songs - 1 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -822,6 +822,7 @@
 | [YnR Shit](https://open.spotify.com/track/5eVFmgEEGG673mkRYGc2u8) | [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5) | [YNR VS ALL](https://open.spotify.com/album/2K65RodurSpx5oPT94nG9b) | 4:16 | 2023-03-08 |  |
 | [Yooooo \(Feat\. Kid Milli, sokodomo, Polodared\)](https://open.spotify.com/track/1dSoTjwGH9HBlj6EEu2mhx) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [AAA](https://open.spotify.com/album/67HPDc7fjJfJyHggdcRlc5) | 3:03 | 2022-04-01 | 2022-05-30 |
 | [You Don't Know \(Feat\. JUSTHIS\)](https://open.spotify.com/track/0NmHgFUzQtMEWSV81tbjwr) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Upgrade Ⅳ](https://open.spotify.com/album/2yljIHgtOZCQJMJOXQZjQd) | 3:43 | 2022-03-26 | 2022-04-19 |
+| [Young Boy \(Feat\. oygli\)](https://open.spotify.com/track/47QBxoKfR7WCXdJbkcGE2G) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva), [oygli](https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90) | [Trapstar Lifestyle](https://open.spotify.com/album/45MJvGUTE2xSbFbeAvkFiY) | 3:12 | 2023-03-13 |  |
 | [Your Instagram \(Feat\. Blueday\)](https://open.spotify.com/track/69eA4nwZmmAZy3dL1OglaJ) | [IOHBOY](https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e), [Blueday](https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx) | [Your Instagram](https://open.spotify.com/album/7bFHJASGNnV4PilM1ivDfz) | 2:29 | 2022-08-18 | 2022-10-30 |
 | [Yoyohere](https://open.spotify.com/track/5vAQub5PiNH8YWGu9iv3zp) | [Flatshop](https://open.spotify.com/artist/421Whtj6NjEsXkHgRPxstg) | [Yoyohere](https://open.spotify.com/album/4XJ2DNfwSC2aGINj5R5BwT) | 3:23 | 2022-01-04 | 2022-06-13 |
 | [Yun \(with Erykah Badu\)](https://open.spotify.com/track/40xpKrnumGPEvHcw1kuL9R) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 3:53 | 2022-12-02 | 2022-12-19 |

@@ -4,7 +4,7 @@
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-88 songs - 5 hr 37 min
+89 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Breathe Of Anatolia \(417 HZ Music / Solfeggio Frequencies\)](https://open.spotify.com/track/1mRjF9HVwkJ472jWW2vZcy) | [Emre Günay](https://open.spotify.com/artist/25xzu9Ch95wnUGFagBDjix) | [Breathe Of Anatolia \(417 HZ Music / Solfeggio Frequencies\)](https://open.spotify.com/album/3FBg6aL3D0dvIVSX9M9h0U) | 3:40 | 2022-09-06 |  |
 | [Calm Night](https://open.spotify.com/track/0GBLzni5lps2xbA5XnpSxg) | [Devans Tushar](https://open.spotify.com/artist/0NZhgsof9BXdMrzgt3S5rj) | [Calm Night](https://open.spotify.com/album/3rX4s5iGt5XMhgHr8eRsuK) | 3:16 | 2022-09-06 |  |
 | [Calm Your Emotions](https://open.spotify.com/track/5uh94YKGwpmlIQTFH12VKH) | [Mindfulness Meditation Music Spa Maestro](https://open.spotify.com/artist/0e4n2JRged14FIeqTGcQbF) | [Arabian Spa \(Middle Eastern Music\)](https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX) | 3:37 | 2022-09-06 |  |
+| [Cheops](https://open.spotify.com/track/27RQFwc18WHORrxkOZJm9l) | [Duduk Tribe](https://open.spotify.com/artist/3dq4MRFFVkVm6MGSnhRW56) | [Cheops](https://open.spotify.com/album/45hsbgJA6y8ATe3zXtIT9M) | 4:42 | 2023-03-13 |  |
 | [Clear Thoughts](https://open.spotify.com/track/22q9XWXxyIDY1zdqgfsLkF) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Clear Thoughts](https://open.spotify.com/album/0EObGlJoKBfBr14MLHKtGn) | 3:00 | 2023-02-10 |  |
 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 | 2022-09-06 |  |
 | [Coral](https://open.spotify.com/track/321TKi0OMRCqt1WvyDA0d8) | [Arli](https://open.spotify.com/artist/2D2omNqzJakxuZaLVYuEpm) | [Fata Morgana](https://open.spotify.com/album/2VXGu0aOBaxGVy6idevAs2) | 6:47 | 2022-09-06 |  |

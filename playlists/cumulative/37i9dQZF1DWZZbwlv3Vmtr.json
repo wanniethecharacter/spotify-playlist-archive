@@ -6283,6 +6283,24 @@
     },
     {
       "album": {
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/1eCjtC5oxQIrNjbHp6TUUm"
+      },
+      "artists": [
+        {
+          "name": "wallyPDF",
+          "url": "https://open.spotify.com/artist/1bzy63aGMcbSpAHuemeCUk"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116043,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/7fs8fhf8E1KefxhgJ2lOCJ"
+    },
+    {
+      "album": {
         "name": "Marble Madness",
         "url": "https://open.spotify.com/album/77h5IYy4eY58o1hJD5EywX"
       },
@@ -6520,6 +6538,24 @@
       "duration_ms": 130733,
       "name": "Midnight Blossom",
       "url": "https://open.spotify.com/track/78VqObueVu8P20WDLDZM4G"
+    },
+    {
+      "album": {
+        "name": "Midnight Distortions",
+        "url": "https://open.spotify.com/album/3yXtU54s6r53vugtdj9OSM"
+      },
+      "artists": [
+        {
+          "name": "m\u00e4dm\u00e4x",
+          "url": "https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65581,
+      "name": "Midnight Distortions",
+      "url": "https://open.spotify.com/track/2nzFbnBMtwhpdSxIpIKjzr"
     },
     {
       "album": {
@@ -9091,6 +9127,24 @@
     },
     {
       "album": {
+        "name": "Rewards",
+        "url": "https://open.spotify.com/album/1BTUGKYGVu4Vg6Nh9H4s3m"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Cr\u00e8me",
+          "url": "https://open.spotify.com/artist/0XgghR1qpXy2fEWW03JSea"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147304,
+      "name": "Rewards",
+      "url": "https://open.spotify.com/track/72X5weOGXF8hEQUNv2Eiw3"
+    },
+    {
+      "album": {
         "name": "Rick-O-Sound",
         "url": "https://open.spotify.com/album/6LCa4rH3grc82U3uGDsn9e"
       },
@@ -10962,6 +11016,28 @@
     {
       "album": {
         "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5ufcAAHfkltz0Ch9ZDTWTX"
+      },
+      "artists": [
+        {
+          "name": "Claptu",
+          "url": "https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7"
+        },
+        {
+          "name": "Ultramarinblau",
+          "url": "https://open.spotify.com/artist/0ZzVsShp5a93vikX006voH"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144016,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4noLQWyJ28F0zFz6eTSOOW"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
         "url": "https://open.spotify.com/album/4SMjgiYm2cBcaYdeADCDZs"
       },
       "artists": [
@@ -12313,6 +12389,32 @@
     },
     {
       "album": {
+        "name": "Unexpected World",
+        "url": "https://open.spotify.com/album/51loInMhKTCu0j8iW3RW3u"
+      },
+      "artists": [
+        {
+          "name": "GXNXSIS",
+          "url": "https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O"
+        },
+        {
+          "name": "$MASH",
+          "url": "https://open.spotify.com/artist/2AOBbDqMyCWp12M8ULOJdw"
+        },
+        {
+          "name": "Crun",
+          "url": "https://open.spotify.com/artist/7aQFz7nMIRg5XTM1YLwEZ4"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96023,
+      "name": "Unexpected World",
+      "url": "https://open.spotify.com/track/63kQCkG3LYRD90O2QZbhnh"
+    },
+    {
+      "album": {
         "name": "Open Skies",
         "url": "https://open.spotify.com/album/1JXMg78YhoyB4Xhx9dc7sC"
       },
@@ -12782,6 +12884,28 @@
       "duration_ms": 124090,
       "name": "we finally met",
       "url": "https://open.spotify.com/track/3zhjHhvPEeqhZJKTk4spfh"
+    },
+    {
+      "album": {
+        "name": "weatherlight",
+        "url": "https://open.spotify.com/album/4W6vDPSqFdYOaWXWVCdR8F"
+      },
+      "artists": [
+        {
+          "name": "DRWN.",
+          "url": "https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy"
+        },
+        {
+          "name": "dhar\u0101",
+          "url": "https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "weatherlight",
+      "url": "https://open.spotify.com/track/0pcf1rZgUG5lb6WBwbzX56"
     },
     {
       "album": {

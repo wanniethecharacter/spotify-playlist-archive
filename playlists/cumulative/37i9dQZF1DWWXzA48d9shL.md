@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$ & Shakewell
 
-405 songs - 16 hr 2 min
+406 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Biscuit](https://open.spotify.com/track/4cuwwRBCMMwbzyhWoupVLU) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [Biscuit](https://open.spotify.com/album/4GlOQKrgNtGVXPMof6T7mq) | 1:55 | 2021-11-05 | 2022-06-04 |
 | [Bitch Again](https://open.spotify.com/track/0sm3gJGMnyY22jt0UokKTx) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Bitch Again](https://open.spotify.com/album/3a2nWZdcivOmcvfnp7HQ2Y) | 3:19 | 2023-02-24 |  |
 | [BLACK LAGOON](https://open.spotify.com/track/1QcI03qNTvdEJxVoM7aTYd) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [BLACK LAGOON](https://open.spotify.com/album/6IgnfMmF6gQynEWlF0clgE) | 1:30 | 2021-09-17 | 2022-07-27 |
+| [BlackDynamite](https://open.spotify.com/track/4UfuPARha6t2tkMRjaXAom) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [GREAF](https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP) | [TheWitch&TheWizard](https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O) | 1:54 | 2023-03-13 |  |
 | [Bleach \(feat\. Denzel Curry\)](https://open.spotify.com/track/09QvHJHDHbuptkaalGchss) | [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [DOG BOY](https://open.spotify.com/album/5RongMpRt5jcdZ7gpAKtWn) | 2:30 | 2021-09-17 | 2022-06-01 |
 | [BLEED](https://open.spotify.com/track/0C5bjRF9fuGCxSJzdYo2vC) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe) | [BLEED](https://open.spotify.com/album/7EVCdVrEjDZIPmFlbqzG2z) | 2:09 | 2022-03-11 | 2022-04-21 |
 | [BLOOD DIAMONDS](https://open.spotify.com/track/4z6fbCg5OYBslzKAfARNSl) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [BLOOD DIAMONDS](https://open.spotify.com/album/7nVgLnBjqHIV3T1EhIKYNu) | 1:52 | 2021-09-17 | 2022-06-04 |
@@ -91,7 +92,7 @@
 | [Candy Shop](https://open.spotify.com/track/07mYvkkJw4Rc3QLIfvEMYF) | [REDIX](https://open.spotify.com/artist/4j32Ck6YTzyr3tU9LPwkUF), [YOUK3IV](https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4), [ATRXX](https://open.spotify.com/artist/2E5WZQTKRSd5no54UjXGj6) | [Candy Shop](https://open.spotify.com/album/4JSdF99P1k1VsYsdygHUxe) | 2:16 | 2023-01-11 | 2023-01-21 |
 | [CANNOT GET ANY BETTER](https://open.spotify.com/track/5M4r4rrjc3mXTRLIDH9qcG) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [CANNOT GET ANY BETTER](https://open.spotify.com/album/4C8JSXX0gamv4pllZ55XQV) | 2:24 | 2021-10-29 | 2022-04-21 |
 | [CATACOMBS!](https://open.spotify.com/track/5yOzi1QNqPDAlmmCxCl8Z2) | [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [CATACOMBS!](https://open.spotify.com/album/5jddwfW2Z28S0xFqw2gEol) | 2:36 | 2022-04-22 | 2023-02-17 |
-| [CHARLOTTE'S WEB](https://open.spotify.com/track/5reFpkDbm6k57Oqp6oWVby) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [CHARLOTTE'S WEB](https://open.spotify.com/album/5exHcNZQKd0D9y0f01U0sb) | 1:49 | 2022-06-03 |  |
+| [CHARLOTTE'S WEB](https://open.spotify.com/track/5reFpkDbm6k57Oqp6oWVby) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [CHARLOTTE'S WEB](https://open.spotify.com/album/5exHcNZQKd0D9y0f01U0sb) | 1:49 | 2022-06-03 | 2023-03-14 |
 | [CHROME BERETTA](https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [void](https://open.spotify.com/artist/4jtsFTEnLnF4zDZaBWrH6L), [LEX PAIN](https://open.spotify.com/artist/5gs6KOePAS97FunPmAheEE), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [DONNA](https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI) | 2:38 | 2022-05-11 | 2022-11-26 |
 | [CITGO](https://open.spotify.com/track/5BuR2U9HrzaKkdSji56MFs) | [ssjishmael](https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [CITGO](https://open.spotify.com/album/6RbLZzRWkMNLNirjAmaOXy) | 2:38 | 2021-10-20 | 2022-05-12 |
 | [cold.world](https://open.spotify.com/track/6ho3mh8740rHFElC0H86RH) | [trees](https://open.spotify.com/artist/1NJKdtvnP2T0P97URYd5d5), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [cold.world](https://open.spotify.com/album/3hGbC7ApJVoV2ypPx7dujE) | 4:00 | 2022-04-01 | 2022-05-17 |

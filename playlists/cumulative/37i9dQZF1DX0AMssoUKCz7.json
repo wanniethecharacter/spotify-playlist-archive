@@ -2802,7 +2802,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 224370,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/6yGafCLQo7XjTr6eatEhNS"
@@ -11860,6 +11860,32 @@
       "duration_ms": 160000,
       "name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
       "url": "https://open.spotify.com/track/3L9vMbrzmy86udXbCNfxCX"
+    },
+    {
+      "album": {
+        "name": "What Can We Try",
+        "url": "https://open.spotify.com/album/59TrIn2IxCu3A9tKQk9C7n"
+      },
+      "artists": [
+        {
+          "name": "Dawell",
+          "url": "https://open.spotify.com/artist/0LWmzWPV1PPwVapnWKtvXt"
+        },
+        {
+          "name": "Margad",
+          "url": "https://open.spotify.com/artist/0q9Rikyw58WDoqfQpp70kM"
+        },
+        {
+          "name": "Summer Vibes",
+          "url": "https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130654,
+      "name": "What Can We Try",
+      "url": "https://open.spotify.com/track/1HiBgVp6L0od0mFcaTy5oG"
     },
     {
       "album": {

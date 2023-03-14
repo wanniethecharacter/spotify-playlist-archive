@@ -4,7 +4,7 @@
 
 > In your bag\. Cover: Kxllswxtch
 
-783 songs - 1 day 11 hr 34 min
+784 songs - 1 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [I fucked up](https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa) | [convolk](https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ) | [LONEWOLF](https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz) | 2:39 | 2022-07-22 |  |
 | [i got yr message](https://open.spotify.com/track/1ATiZWaQ3xKkXhnBUL75rV) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [monarch](https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y) | 2:26 | 2022-02-11 | 2022-07-29 |
 | [I Hate Love](https://open.spotify.com/track/2Hb0xOroIPtuunNoCwKtmt) | [Justin Stone](https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk), [27CLUB](https://open.spotify.com/artist/75FDYkuEWuVAYlrghPNi4z) | [I Hate Love](https://open.spotify.com/album/0CWVgXuB3ugauQmVmJ4jzd) | 3:58 | 2021-01-15 | 2021-03-26 |
-| [I JUST FKN HATE YOU NOW](https://open.spotify.com/track/07od6wz8rrAeXVYQoXZU2W) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [I JUST FKN HATE YOU NOW](https://open.spotify.com/album/0wPrCcLVViMFDvRCmCJyfu) | 1:52 | 2022-05-20 |  |
+| [I JUST FKN HATE YOU NOW](https://open.spotify.com/track/07od6wz8rrAeXVYQoXZU2W) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [I JUST FKN HATE YOU NOW](https://open.spotify.com/album/0wPrCcLVViMFDvRCmCJyfu) | 1:52 | 2022-05-20 | 2023-03-14 |
 | [i know why you stay out](https://open.spotify.com/track/2xYzZbcky4jNfiH5A9eX7n) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [i know why you stay out](https://open.spotify.com/album/2X7m57LD0vjPSIrJx22HfZ) | 2:57 | 2021-05-29 | 2022-04-13 |
 | [I lied when I said that I'm okay](https://open.spotify.com/track/6vyuUfnwPZK2z7KKgRzcxM) | [Paris Snow](https://open.spotify.com/artist/2QKsUEpStygXfQeQDwkw8E) | [I lied when I said that I'm okay](https://open.spotify.com/album/4bx4OqlgZvrrsgg9K5hyka) | 2:16 | 2021-09-22 | 2022-04-18 |
 | [I Miss The Days](https://open.spotify.com/track/3ebfDw8WEbf0DxGh47R2lo) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:29 | 2022-12-14 |  |
@@ -612,6 +612,7 @@
 | [Sick and Tired \(ft\. Machine Gun Kelly and Travis Barker\)](https://open.spotify.com/track/0DILU9jjSTnCv1dcbUH3ib) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [I'm Gone](https://open.spotify.com/album/4Wb5bU9FkmZ84WkkL37rKA) | 2:24 | 2021-01-15 |  |
 | [simping should be illegal](https://open.spotify.com/track/3vjf3wyTrNZoCjS73NiQK0) | [fredo disco](https://open.spotify.com/artist/1zNfnkHqbNqPMm0LY98Tfx), [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9), [v0sco](https://open.spotify.com/artist/4tgZRAL7f51kfqYV6gWDCF) | [simping should be illegal](https://open.spotify.com/album/7n13YKdYaaAORePJ2rRHbn) | 1:57 | 2022-04-15 | 2022-04-24 |
 | [Sitting In Fire](https://open.spotify.com/track/6oXgRfFIvzWe83K5la8oI9) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Sitting In Fire](https://open.spotify.com/album/2rOi95NpQYDkhOitIPwm08) | 2:27 | 2020-12-13\* | 2022-10-15 |
+| [Situation](https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [GREAF](https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP) | [TheWitch&TheWizard](https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O) | 1:48 | 2023-03-13 |  |
 | [Ski Mask](https://open.spotify.com/track/1TPoRvQHXxi9w4S0Ze5fkv) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Ski Mask](https://open.spotify.com/album/3LVioYHDgyOAlEPvu8nDnZ) | 2:08 | 2021-06-12 | 2022-07-22 |
 | [Slam The Door](https://open.spotify.com/track/6prcYY7aL9SaUiNAGfSE6s) | [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [Sapphire](https://open.spotify.com/album/2SYGbv2RKvUtgSrwWAKKNj) | 2:58 | 2020-12-13\* | 2021-02-27 |
 | [Sledgehammer](https://open.spotify.com/track/5MIhfLpd1fVmIUrTHNSP4E) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Sledgehammer](https://open.spotify.com/album/2wcQjTPqDhChvxCHRLt9Lg) | 2:23 | 2022-02-04 | 2022-07-29 |

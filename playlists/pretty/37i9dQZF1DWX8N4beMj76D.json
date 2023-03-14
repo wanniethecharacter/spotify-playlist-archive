@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 8534,
+  "num_followers": 8538,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDI0OWQ4OTgyNzVjNDJkZDRjMTBlMDY3OGZkNDk1YTEw",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDNlNWRjZDFmZjU1YTFkZTZlM2E5YjQxNTYyNjg2ODAz",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -325,6 +325,22 @@
       "url": "https://open.spotify.com/track/53WJ6eGjiUvlqniOj6fsr2"
     },
     {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Leonard Cohen: I'm Your Man",
+        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave",
+          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
+        }
+      ],
+      "duration_ms": 271066,
+      "name": "I'm Your Man - Live",
+      "url": "https://open.spotify.com/track/7En4Z5ngp4wYeFkq69BXry"
+    },
+    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "You Want It Darker",
@@ -347,18 +363,18 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Leonard Cohen: I'm Your Man",
-        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
       },
       "artists": [
         {
-          "name": "Nick Cave",
-          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
         }
       ],
-      "duration_ms": 271066,
-      "name": "I'm Your Man - Live",
-      "url": "https://open.spotify.com/track/7En4Z5ngp4wYeFkq69BXry"
+      "duration_ms": 268853,
+      "name": "Be for Real",
+      "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -379,22 +395,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 268853,
-      "name": "Be for Real",
-      "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Leonard Cohen: I'm Your Man",
         "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
       },
@@ -411,22 +411,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "From Her To Eternity (2009 Remastered Version)",
-        "url": "https://open.spotify.com/album/2KXpa6Wbdk94U0JNCgePkV"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 309280,
-      "name": "Avalanche - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/6gq5GDLoyLC9GUkB8Ob78F"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Leonard Cohen: I'm Your Man",
         "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 284973,
       "name": "The Traitor",
       "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "From Her To Eternity (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/2KXpa6Wbdk94U0JNCgePkV"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 309280,
+      "name": "Avalanche - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/6gq5GDLoyLC9GUkB8Ob78F"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -475,22 +475,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s",
-        "url": "https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 259546,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/73Nr0OjKNWybcYvJXeO9nN"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 482493,
       "name": "Always",
       "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s",
+        "url": "https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 259546,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/73Nr0OjKNWybcYvJXeO9nN"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -559,6 +559,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Dear Heather",
+        "url": "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "Tennessee Waltz - Live at Montreux Jazz Festival",
+      "url": "https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Tower Of Song - The Songs Of Leonard Cohen",
         "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 199600,
       "name": "Sisters Of Mercy",
       "url": "https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Dear Heather",
-        "url": "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 245040,
-      "name": "Tennessee Waltz - Live at Montreux Jazz Festival",
-      "url": "https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J"
     },
     {
       "added_at": "2018-12-06 19:29:22",

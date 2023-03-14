@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS?si=lbOt\-CVZT82\-\-\_qr7nn\_gA">Loatinover Pounds</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,375 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,435 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 234658,
+  "num_followers": 234895,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODYxNjUyMywwMDAwMDAwMDFjZmNkYjNhZDE2ZjgxYzM0ZGM0ZjM1NThhN2I3OTkz",
+  "snapshot_id": "MTY3ODYxNjUyMywwMDAwMDAwMDAzYjVjMzFiZmI3YmJmY2FiMmFmNGQ0NjI2MmQ2NjI3",
   "tracks": [
     {
       "added_at": "2023-03-12 10:22:03",
@@ -167,6 +167,26 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
+        "name": "Give a Little",
+        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        },
+        {
+          "name": "Naila",
+          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
+        }
+      ],
+      "duration_ms": 234838,
+      "name": "Give a Little",
+      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/578fRVB7xQHfJ3cEuS6DgZ"
       },
@@ -227,26 +247,6 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
-        "name": "Give a Little",
-        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        },
-        {
-          "name": "Naila",
-          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
-        }
-      ],
-      "duration_ms": 234838,
-      "name": "Give a Little",
-      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/0QbS1GUJgoVoM21wlHDIs9"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 201125,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -291,22 +307,6 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
         "name": "Enta Omry Remix 2022",
         "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
       },
@@ -323,26 +323,6 @@
       "duration_ms": 278546,
       "name": "Enta Omry Remix 2022",
       "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
-        "name": "Schhh",
-        "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 185689,
-      "name": "Schhh",
-      "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -435,6 +415,26 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
+        "name": "Schhh",
+        "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 185689,
+      "name": "Schhh",
+      "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
         "name": "Dle Yaman (116 Deep Mix)",
         "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
       },
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
-      },
-      "artists": [
-        {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
-        },
-        {
-          "name": "Elnur Mikayilov",
-          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 158400,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        },
+        {
+          "name": "Elnur Mikayilov",
+          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
+        "name": "Deep Anatolia",
+        "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        },
+        {
+          "name": "Ossova",
+          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Deep Anatolia",
+      "url": "https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
         "name": "La Blanche",
         "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 320045,
       "name": "Sensiz",
       "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
-        "name": "Deep Anatolia",
-        "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        },
-        {
-          "name": "Ossova",
-          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Deep Anatolia",
-      "url": "https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
-        "name": "Anlar",
-        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 430769,
-      "name": "Anlar",
-      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
         "name": "Letters",
         "url": "https://open.spotify.com/album/5Rqz7SWCbh3bZ5ny8tN36t"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 551025,
       "name": "Ala Moj Al Bahr - Javid Remix",
       "url": "https://open.spotify.com/track/5l4PuZcYTIpFPpzPdfdSlj"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
+        "name": "Anlar",
+        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 430769,
+      "name": "Anlar",
+      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -1203,6 +1203,30 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ"
+      },
+      "artists": [
+        {
+          "name": "Frauble",
+          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
+        },
+        {
+          "name": "Behmer",
+          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
+        },
+        {
+          "name": "Galwaro",
+          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+        }
+      ],
+      "duration_ms": 176164,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
         "name": "3 to 1",
         "url": "https://open.spotify.com/album/0UNDxZCKgUOIYajZVsS6Of"
       },
@@ -1235,30 +1259,6 @@
       "duration_ms": 305005,
       "name": "Eternal Roots",
       "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ"
-      },
-      "artists": [
-        {
-          "name": "Frauble",
-          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
-        },
-        {
-          "name": "Behmer",
-          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
-        },
-        {
-          "name": "Galwaro",
-          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
-        }
-      ],
-      "duration_ms": 176164,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Sonia Noor",
+          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Mra ou Mermora",
+      "url": "https://open.spotify.com/track/2Ld7QaXg2yP2L3yAz3QFgv"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 273502,
       "name": "Rhim - Jad Halal Remix",
       "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        },
-        {
-          "name": "Sonia Noor",
-          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Mra ou Mermora",
-      "url": "https://open.spotify.com/track/2Ld7QaXg2yP2L3yAz3QFgv"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
-      },
-      "artists": [
-        {
-          "name": "IV-IN",
-          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 262641,
-      "name": "Vestido Preto",
-      "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
         "name": "3ala bali",
         "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 210132,
       "name": "3ala bali",
       "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
+      },
+      "artists": [
+        {
+          "name": "IV-IN",
+          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 262641,
+      "name": "Vestido Preto",
+      "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
-        "name": "Asha",
-        "url": "https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd"
-      },
-      "artists": [
-        {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
-        }
-      ],
-      "duration_ms": 252857,
-      "name": "Asha",
-      "url": "https://open.spotify.com/track/0lLe5dTgMti1f8fvGCuFcm"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
         "name": "Arab Money",
         "url": "https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 136800,
       "name": "Arab Money",
       "url": "https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
+        "name": "Asha",
+        "url": "https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        }
+      ],
+      "duration_ms": 252857,
+      "name": "Asha",
+      "url": "https://open.spotify.com/track/0lLe5dTgMti1f8fvGCuFcm"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
-        "name": "Hella EP",
-        "url": "https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT"
-      },
-      "artists": [
-        {
-          "name": "Zigan Aldi",
-          "url": "https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1"
-        },
-        {
-          "name": "Joy Tyson",
-          "url": "https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es"
-        }
-      ],
-      "duration_ms": 318617,
-      "name": "Hella feat. Joy Tyson",
-      "url": "https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
         "name": "CEWRESAMIN",
         "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 136000,
       "name": "Cewresamin",
       "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
+        "name": "Hella EP",
+        "url": "https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT"
+      },
+      "artists": [
+        {
+          "name": "Zigan Aldi",
+          "url": "https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1"
+        },
+        {
+          "name": "Joy Tyson",
+          "url": "https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es"
+        }
+      ],
+      "duration_ms": 318617,
+      "name": "Hella feat. Joy Tyson",
+      "url": "https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -1915,66 +1915,6 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
-        "name": "Y\u00e2r",
-        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
-      },
-      "artists": [
-        {
-          "name": "Avcio",
-          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
-        },
-        {
-          "name": "fidanson",
-          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
-        },
-        {
-          "name": "Ezgi Sa\u011fl\u0131k",
-          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
-        }
-      ],
-      "duration_ms": 97636,
-      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
-      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
-        "name": "Isla Bonita",
-        "url": "https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU"
-      },
-      "artists": [
-        {
-          "name": "DJ Dark",
-          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
-        },
-        {
-          "name": "MD DJ",
-          "url": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Isla Bonita - Radio Edit",
-      "url": "https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/60pdlSEWhFUir3fyCuqo0Y"
-      },
-      "artists": [
-        {
-          "name": "Frauble",
-          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/7oElCR8kjz4BX2uvwwtTTT"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
         "name": "The Universe of Buddha Bar",
         "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
@@ -2003,22 +1943,62 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
-        "name": "Voyage",
-        "url": "https://open.spotify.com/album/7Kf74ttO2jGB089f7yCfVC"
+        "name": "Isla Bonita",
+        "url": "https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU"
       },
       "artists": [
         {
-          "name": "Houssem Amari",
-          "url": "https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd"
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
         },
         {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+          "name": "MD DJ",
+          "url": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Voyage",
-      "url": "https://open.spotify.com/track/3XSQpsj22eFhBehwDvR2kF"
+      "duration_ms": 181000,
+      "name": "Isla Bonita - Radio Edit",
+      "url": "https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
+        "name": "Y\u00e2r",
+        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
+      },
+      "artists": [
+        {
+          "name": "Avcio",
+          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
+        },
+        {
+          "name": "fidanson",
+          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
+        },
+        {
+          "name": "Ezgi Sa\u011fl\u0131k",
+          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
+        }
+      ],
+      "duration_ms": 97636,
+      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
+      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/60pdlSEWhFUir3fyCuqo0Y"
+      },
+      "artists": [
+        {
+          "name": "Frauble",
+          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7oElCR8kjz4BX2uvwwtTTT"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -2035,6 +2015,26 @@
       "duration_ms": 167375,
       "name": "Ethnique",
       "url": "https://open.spotify.com/track/4amCThUWU1U7Bbuh1FXHu4"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/7Kf74ttO2jGB089f7yCfVC"
+      },
+      "artists": [
+        {
+          "name": "Houssem Amari",
+          "url": "https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd"
+        },
+        {
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/3XSQpsj22eFhBehwDvR2kF"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
+        "name": "Moroccan Sahara",
+        "url": "https://open.spotify.com/album/7gNhIIdrH2OEJJsXC5OKLD"
+      },
+      "artists": [
+        {
+          "name": "Palmtherapy by DrNR",
+          "url": "https://open.spotify.com/artist/2uPDdfOwM6OE4GFiWEO3ho"
+        }
+      ],
+      "duration_ms": 185208,
+      "name": "Moroccan Sahara",
+      "url": "https://open.spotify.com/track/2qgjZBMerWlMfU69VuYCfL"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
         "name": "Descalzo",
         "url": "https://open.spotify.com/album/0i1fEBRGPphcPQTCzD3EHb"
       },
@@ -2103,18 +2119,18 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
-        "name": "Moroccan Sahara",
-        "url": "https://open.spotify.com/album/7gNhIIdrH2OEJJsXC5OKLD"
+        "name": "Arabesque",
+        "url": "https://open.spotify.com/album/3hjgx4cloyYAA6fW7UsLcA"
       },
       "artists": [
         {
-          "name": "Palmtherapy by DrNR",
-          "url": "https://open.spotify.com/artist/2uPDdfOwM6OE4GFiWEO3ho"
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
         }
       ],
-      "duration_ms": 185208,
-      "name": "Moroccan Sahara",
-      "url": "https://open.spotify.com/track/2qgjZBMerWlMfU69VuYCfL"
+      "duration_ms": 251324,
+      "name": "Arabesque",
+      "url": "https://open.spotify.com/track/41oLuetwousQIfBOxYVxcL"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -2155,22 +2171,6 @@
       "duration_ms": 161577,
       "name": "All I Know",
       "url": "https://open.spotify.com/track/7uaxj9HeCBClIywN7I1N9J"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
-        "name": "Arabesque",
-        "url": "https://open.spotify.com/album/3hjgx4cloyYAA6fW7UsLcA"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 251324,
-      "name": "Arabesque",
-      "url": "https://open.spotify.com/track/41oLuetwousQIfBOxYVxcL"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
+        "name": "Nomadic",
+        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
+      },
+      "artists": [
+        {
+          "name": "Hlm.Prod",
+          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
+        }
+      ],
+      "duration_ms": 206339,
+      "name": "Nomadic",
+      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
         "name": "Estrela Do Mar (Turu Anasi Remix)",
         "url": "https://open.spotify.com/album/6L2JZKq0BcB8yLjADtq4Ms"
       },
@@ -2307,22 +2323,6 @@
       "duration_ms": 467008,
       "name": "Estrela Do Mar - Turu Anasi Remix",
       "url": "https://open.spotify.com/track/6pnEKbDzenW63MH86ckAsP"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
-        "name": "Nomadic",
-        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
-      },
-      "artists": [
-        {
-          "name": "Hlm.Prod",
-          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
-        }
-      ],
-      "duration_ms": 206339,
-      "name": "Nomadic",
-      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
-        "name": "Yasmine",
-        "url": "https://open.spotify.com/album/7o6S5sfdr8dsTL79AjLgQs"
-      },
-      "artists": [
-        {
-          "name": "Etyen",
-          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
-        }
-      ],
-      "duration_ms": 341386,
-      "name": "Eibada",
-      "url": "https://open.spotify.com/track/2DB1K7RbZbFGACY9yiLLqH"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
         "name": "Futureland",
         "url": "https://open.spotify.com/album/1NN2I8IUqoQQGlQvgckBYX"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 381308,
       "name": "Fi Alfarah",
       "url": "https://open.spotify.com/track/1YMkH90H0Z6XIkSgHshO3r"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
+        "name": "Yasmine",
+        "url": "https://open.spotify.com/album/7o6S5sfdr8dsTL79AjLgQs"
+      },
+      "artists": [
+        {
+          "name": "Etyen",
+          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
+        }
+      ],
+      "duration_ms": 341386,
+      "name": "Eibada",
+      "url": "https://open.spotify.com/track/2DB1K7RbZbFGACY9yiLLqH"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -2587,6 +2587,26 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
+        "name": "The Universe of Buddha Bar",
+        "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
+      },
+      "artists": [
+        {
+          "name": "OSENS",
+          "url": "https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D"
+        },
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        }
+      ],
+      "duration_ms": 291576,
+      "name": "ZMAN",
+      "url": "https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
         "name": "DayBreak Ft. Behrooz Shiri",
         "url": "https://open.spotify.com/album/2RBZ8NbEoccZBVr2arOrU4"
       },
@@ -2627,22 +2647,18 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
-        "name": "The Universe of Buddha Bar",
-        "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/7jck7DC8ZctWNSGVSK0TVe"
       },
       "artists": [
         {
-          "name": "OSENS",
-          "url": "https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D"
-        },
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
         }
       ],
-      "duration_ms": 291576,
-      "name": "ZMAN",
-      "url": "https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz"
+      "duration_ms": 210859,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/28RzIrtkutKpSVm6SrjRLt"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -2675,22 +2691,6 @@
       "duration_ms": 169449,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1Gig83Hs2CSExBM38e8YxC"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/7jck7DC8ZctWNSGVSK0TVe"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 210859,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/28RzIrtkutKpSVm6SrjRLt"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -2731,26 +2731,6 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
-        "name": "lamma bada yatathana",
-        "url": "https://open.spotify.com/album/276Hm5lY9sd4Rf4hWnjfpU"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Mia-Maria",
-          "url": "https://open.spotify.com/artist/3kzWp3weeysIkcanxwo43n"
-        }
-      ],
-      "duration_ms": 421229,
-      "name": "lamma bada yatathana",
-      "url": "https://open.spotify.com/track/4Pz9TcBWMjH13vMbHItS0v"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
         "name": "Bali",
         "url": "https://open.spotify.com/album/0MPF0EVygO60VuV99r3p68"
       },
@@ -2767,18 +2747,22 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
-        "name": "Origin",
-        "url": "https://open.spotify.com/album/6hnpvDAwZAokcIjPRli0wE"
+        "name": "lamma bada yatathana",
+        "url": "https://open.spotify.com/album/276Hm5lY9sd4Rf4hWnjfpU"
       },
       "artists": [
         {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Mia-Maria",
+          "url": "https://open.spotify.com/artist/3kzWp3weeysIkcanxwo43n"
         }
       ],
-      "duration_ms": 234693,
-      "name": "Origin",
-      "url": "https://open.spotify.com/track/1519QNTFdjIgk7YWYOw59y"
+      "duration_ms": 421229,
+      "name": "lamma bada yatathana",
+      "url": "https://open.spotify.com/track/4Pz9TcBWMjH13vMbHItS0v"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -2819,6 +2803,22 @@
     {
       "added_at": "2023-03-12 10:22:03",
       "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/6hnpvDAwZAokcIjPRli0wE"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Origin",
+      "url": "https://open.spotify.com/track/1519QNTFdjIgk7YWYOw59y"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/1nqNVBXnqnVTE3WToXUKqG"
       },
@@ -2831,6 +2831,26 @@
       "duration_ms": 193808,
       "name": "Stories",
       "url": "https://open.spotify.com/track/3nhRbqeV3DpVPXHVL6cO9v"
+    },
+    {
+      "added_at": "2023-03-12 10:22:03",
+      "album": {
+        "name": "Lalla Aicha Incl. Remixes",
+        "url": "https://open.spotify.com/album/2Y9aitVubUkzeF1ok6wRXp"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Habib Belk",
+          "url": "https://open.spotify.com/artist/682K5C67MQhU1K56gA5wJc"
+        }
+      ],
+      "duration_ms": 338400,
+      "name": "Lalla Aicha - Main Mix",
+      "url": "https://open.spotify.com/track/184Z5prwuALXJ0j1SOk2jQ"
     },
     {
       "added_at": "2023-03-12 10:22:03",
@@ -2867,26 +2887,6 @@
       "duration_ms": 187779,
       "name": "Anatolian Vibe",
       "url": "https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld"
-    },
-    {
-      "added_at": "2023-03-12 10:22:03",
-      "album": {
-        "name": "Lalla Aicha Incl. Remixes",
-        "url": "https://open.spotify.com/album/2Y9aitVubUkzeF1ok6wRXp"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        },
-        {
-          "name": "Habib Belk",
-          "url": "https://open.spotify.com/artist/682K5C67MQhU1K56gA5wJc"
-        }
-      ],
-      "duration_ms": 338400,
-      "name": "Lalla Aicha - Main Mix",
-      "url": "https://open.spotify.com/track/184Z5prwuALXJ0j1SOk2jQ"
     }
   ],
   "unique_name": "mosaic",

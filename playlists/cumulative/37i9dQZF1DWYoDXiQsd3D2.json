@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "Circle",
+        "url": "https://open.spotify.com/album/3GQkOHbOut7bvOsWSWO1Fc"
+      },
+      "artists": [
+        {
+          "name": "Phil France",
+          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/44ZvVLd2hl0h9RieOZ0YMB"
+    },
+    {
+      "album": {
         "name": "Circle 29",
         "url": "https://open.spotify.com/album/2x1GcdwOkZFQQ1mAo7lidl"
       },
@@ -921,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Klangland",
+        "url": "https://open.spotify.com/album/0KsjvZ9K1PDZIobw8vxBr1"
+      },
+      "artists": [
+        {
+          "name": "Henrik Lindstrand",
+          "url": "https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285080,
+      "name": "CPH-ARN",
+      "url": "https://open.spotify.com/track/3JBT1Czyr5CJ6HwQmR35Dr"
+    },
+    {
+      "album": {
         "name": "CPH-ARN",
         "url": "https://open.spotify.com/album/0QSGSTagB0sjS3XjOm9Woh"
       },
@@ -932,7 +968,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 285080,
       "name": "CPH-ARN",
       "url": "https://open.spotify.com/track/5PQxdwnMxLd05uDRQSHfma"
@@ -1868,6 +1904,24 @@
       "duration_ms": 170000,
       "name": "Into Silence",
       "url": "https://open.spotify.com/track/5QamKyoRegEp9evieBxBCm"
+    },
+    {
+      "album": {
+        "name": "From Home",
+        "url": "https://open.spotify.com/album/4s631bf05BJesvz6XT3iDT"
+      },
+      "artists": [
+        {
+          "name": "Vivian Roost",
+          "url": "https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81433,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/3n2s5edP4v0WJC7tyt6mKe"
     },
     {
       "album": {
@@ -3474,6 +3528,24 @@
       "duration_ms": 118600,
       "name": "The Shortest Flight",
       "url": "https://open.spotify.com/track/0eRujTuQz5mwL54tcZrNKN"
+    },
+    {
+      "album": {
+        "name": "The Voice of the Earth",
+        "url": "https://open.spotify.com/album/3HiXByOFbvvwhgCGO6KwWe"
+      },
+      "artists": [
+        {
+          "name": "Sayuri Hayashi Egnell",
+          "url": "https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "The Voice of the Earth",
+      "url": "https://open.spotify.com/track/15jwOWUrqFxNpzkCh86lU8"
     },
     {
       "album": {

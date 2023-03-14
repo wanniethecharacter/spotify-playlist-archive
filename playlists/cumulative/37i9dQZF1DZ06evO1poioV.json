@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "Down in the Willow Garden (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/7MAmoUXsgLUzc887kZcX46"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185613,
+      "name": "Down in the Willow Garden (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/5sUhZ4Q32gzQEbKR5HJzaF"
+    },
+    {
+      "album": {
         "name": "Give Up The Ghost",
         "url": "https://open.spotify.com/album/1NhFksWs1Nsz6wQI8ysTkv"
       },
@@ -554,7 +576,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-14",
       "duration_ms": 270962,
       "name": "I Belong to You",
       "url": "https://open.spotify.com/track/1g3ZcTXYefhBrsNwTitiFL"

@@ -669,6 +669,42 @@
     },
     {
       "album": {
+        "name": "Cook",
+        "url": "https://open.spotify.com/album/4KxqkKKfMJ81dJzn3nqbxj"
+      },
+      "artists": [
+        {
+          "name": "Treyon Dubs",
+          "url": "https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125044,
+      "name": "Cook",
+      "url": "https://open.spotify.com/track/0hzv9wbH3OTtpjDI0HNntH"
+    },
+    {
+      "album": {
+        "name": "Outcast Society",
+        "url": "https://open.spotify.com/album/50X5rlLKcD0wFWPsNTdpRu"
+      },
+      "artists": [
+        {
+          "name": "ZooLoo One",
+          "url": "https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153235,
+      "name": "Count Your Blessings",
+      "url": "https://open.spotify.com/track/1NbWD40pGtLkGpY1NMsyRX"
+    },
+    {
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/30pgaBfjKpz1GZpcwNhyum"
       },
@@ -2113,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "Outcast Society",
+        "url": "https://open.spotify.com/album/50X5rlLKcD0wFWPsNTdpRu"
+      },
+      "artists": [
+        {
+          "name": "ZooLoo One",
+          "url": "https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153235,
+      "name": "Outcast Society",
+      "url": "https://open.spotify.com/track/47Dqsk0yqHRrjqlJZd5c2v"
+    },
+    {
+      "album": {
         "name": "Love Me More",
         "url": "https://open.spotify.com/album/1XkdQ50zuJFGCIBtSasZ3b"
       },
@@ -3396,6 +3450,24 @@
       "duration_ms": 140250,
       "name": "wide perspective",
       "url": "https://open.spotify.com/track/4OLLtYRdoRlJ1DpYYFQUyn"
+    },
+    {
+      "album": {
+        "name": "Willfully Blind",
+        "url": "https://open.spotify.com/album/16tMBxkZLCfnK6ngq0q8FQ"
+      },
+      "artists": [
+        {
+          "name": "Nowhere Now Here",
+          "url": "https://open.spotify.com/artist/28VTxH3Tc2T5tamVQGYnI6"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145806,
+      "name": "Willfully Blind",
+      "url": "https://open.spotify.com/track/4WGL5cz4peREOVOv8FWemf"
     },
     {
       "album": {

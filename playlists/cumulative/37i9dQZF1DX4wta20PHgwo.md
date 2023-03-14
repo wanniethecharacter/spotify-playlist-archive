@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-325 songs - 1 day 6 hr 13 min
+326 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Nocturno](https://open.spotify.com/track/5DHU96HUvat8gddLT8IhFO) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [ARTEMIS](https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP) | 5:27 | 2020-09-12 | 2022-10-08 |
 | [Old Ballad For Hawk](https://open.spotify.com/track/4Sz591Jq6KpuWT7QiChF79) | [Andrew Rathbun](https://open.spotify.com/artist/4TvpnNUi8RXqHR6drFUalx) | [Semantics](https://open.spotify.com/album/6DtFw78eERNlr0JlAjuzWZ) | 8:21 | 2022-09-15 |  |
 | [Old Folks](https://open.spotify.com/track/6M55CSNeF4H7y0uEdf2TNH) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Wailing With Lou](https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf) | 6:20 | 2021-02-27 | 2022-02-18 |
-| [Old Folks](https://open.spotify.com/track/02REZiJgy4dVwbNwuDtDLI) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Rick Margitza](https://open.spotify.com/artist/0xk1NHjp5e7n0xYB2pSu9Q) | [Community Standards](https://open.spotify.com/album/6QFLSr6PlbvNpmTddSdTND) | 6:26 | 2023-01-12 |  |
+| [Old Folks](https://open.spotify.com/track/02REZiJgy4dVwbNwuDtDLI) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Rick Margitza](https://open.spotify.com/artist/0xk1NHjp5e7n0xYB2pSu9Q) | [Community Standards](https://open.spotify.com/album/6QFLSr6PlbvNpmTddSdTND) | 6:26 | 2023-01-12 | 2023-03-14 |
 | [Old Folks](https://open.spotify.com/track/7M0O4QL0O4QCZIBtnpkBAS) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Rick Margitza](https://open.spotify.com/artist/0xk1NHjp5e7n0xYB2pSu9Q) | [Old Folks](https://open.spotify.com/album/28K2Qov2FA3U7s9CxFl1Rg) | 6:26 | 2022-06-23 | 2022-10-08 |
 | [On Late Nights](https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [On Late Nights](https://open.spotify.com/album/0WsJ0fgeveYpeGY0rTlfny) | 4:29 | 2023-01-20 |  |
 | [Once upon a Summertime](https://open.spotify.com/track/2L1aSsr9qqLIHjPpcKZWWK) | [Spiral TRIO](https://open.spotify.com/artist/0wIOfSD1FxqTXeoWVbP98f) | [Broken Blue](https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX) | 10:21 | 2022-04-21 | 2023-03-04 |
@@ -283,6 +283,7 @@
 | [The Duke](https://open.spotify.com/track/6V0opjIJTcAfcrwPVgDfb6) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [The Duke](https://open.spotify.com/album/6C6SvmCkEqoNTFHMjEtwLk) | 6:45 | 2021-10-02 | 2022-07-29 |
 | [The Masquerade Is Over](https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:18 | 2020-05-03 |  |
 | [The Peace Inside](https://open.spotify.com/track/2IMyhSjfuklmagV5VCDsoq) | [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh), [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8) | [The Peace Inside](https://open.spotify.com/album/1002l2t97C7pBbUD6sTVhM) | 4:54 | 2022-12-22 | 2023-02-26 |
+| [The Peace Inside](https://open.spotify.com/track/2varE3Th7mg2CULRH4eoxM) | [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh), [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8) | [Silent World](https://open.spotify.com/album/1TpgHVGapenLBD1Mcboy1L) | 4:54 | 2023-03-09 |  |
 | [The Peacocks \- Single Edit](https://open.spotify.com/track/6axejDXkOwDHgp7HMwWNXb) | [John Engels](https://open.spotify.com/artist/1TM3URtJJzkpQkF4Oxn0ce), [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Joris Teepe](https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz) | [The Peacocks](https://open.spotify.com/album/22WyPgbJNJCoWQLfnPAEgd) | 3:09 | 2021-02-26 |  |
 | [The Shadow of Your Smile](https://open.spotify.com/track/0sRAziWSeUedBSKjapsy9F) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ), [Slide Hampton](https://open.spotify.com/artist/1JrZuQYlOzhNj1nvlB0Yys) | [A Day in Copenhagen](https://open.spotify.com/album/6JJtcOy0LWIT5Kh9W3m1CC) | 4:57 | 2020-05-02\* | 2021-07-01 |
 | [The Sun in September](https://open.spotify.com/track/0rm7lBomgchi6bHaTwi7cL) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Fletcher Moss Park](https://open.spotify.com/album/0uEEiR66gvpTpcjJ5GagPU) | 7:50 | 2020-05-27 | 2021-09-10 |

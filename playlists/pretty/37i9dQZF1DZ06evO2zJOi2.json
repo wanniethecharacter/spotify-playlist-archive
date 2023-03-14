@@ -1,15 +1,15 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 411608,
+  "num_followers": 412383,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5NzcwOTcsMDAwMDAwMDA4Y2VhNjg2MDFiMzUzZmQ5Y2RiY2MwNzA3OTQ2MDdmNQ==",
+  "snapshot_id": "Mjc5Nzg1MjMsMDAwMDAwMDBjNmY4NjAzZjY3M2IxODE4ODhmMWVkYjMzYzg1ODJkNA==",
   "tracks": [
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "One Thing At A Time (Sampler)",
         "url": "https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "3 Songs At A Time Sampler",
         "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
@@ -57,23 +57,7 @@
       "url": "https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
-      "album": {
-        "name": "You Proof",
-        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 157477,
-      "name": "You Proof",
-      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
-    },
-    {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "Dangerous: The Double Album",
         "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
@@ -89,7 +73,23 @@
       "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
+      "album": {
+        "name": "You Proof",
+        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
+    },
+    {
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "Thought You Should Know",
         "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "If I Know Me",
         "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
@@ -137,39 +137,7 @@
       "url": "https://open.spotify.com/track/5MwynWK9s4hlyKHqhkNn4A"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
-      "album": {
-        "name": "3 Songs At A Time Sampler",
-        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 181766,
-      "name": "I Wrote The Book",
-      "url": "https://open.spotify.com/track/76FeKAU0A4dpFGrVSg2TX2"
-    },
-    {
-      "added_at": "2023-03-12 12:57:54",
-      "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 177387,
-      "name": "Thinkin\u2019 Bout Me",
-      "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
-    },
-    {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "Dangerous: The Double Album",
         "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
@@ -185,10 +153,10 @@
       "url": "https://open.spotify.com/track/5OELUCYgOHKFAvCERnAvfS"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },
       "artists": [
         {
@@ -196,12 +164,12 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 234346,
-      "name": "Whiskey Glasses",
-      "url": "https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00"
+      "duration_ms": 177387,
+      "name": "Thinkin\u2019 Bout Me",
+      "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
@@ -221,10 +189,10 @@
       "url": "https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
       },
       "artists": [
         {
@@ -232,12 +200,12 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 182522,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/0JtgoDDf0ggWaoXCGhcOoT"
+      "duration_ms": 234346,
+      "name": "Whiskey Glasses",
+      "url": "https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "Dangerous: The Double Album",
         "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
@@ -253,7 +221,23 @@
       "url": "https://open.spotify.com/track/075qcpR3BnxD5CWUIx1HTr"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 182522,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/0JtgoDDf0ggWaoXCGhcOoT"
+    },
+    {
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
         "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
@@ -273,7 +257,7 @@
       "url": "https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "One Thing At A Time (Sampler)",
         "url": "https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1"
@@ -289,7 +273,23 @@
       "url": "https://open.spotify.com/track/3Ga7Uele3zN57vQ4F0HPTW"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
+      "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "Sand In My Boots",
+      "url": "https://open.spotify.com/track/0uRrG2jRR5tuifsYIJHEao"
+    },
+    {
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
@@ -309,23 +309,7 @@
       "url": "https://open.spotify.com/track/73zawW1ttszLRgT9By826D"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
-      "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "Sand In My Boots",
-      "url": "https://open.spotify.com/track/0uRrG2jRR5tuifsYIJHEao"
-    },
-    {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "If I Know Me",
         "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
@@ -341,7 +325,7 @@
       "url": "https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "Stand Alone - EP",
         "url": "https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu"
@@ -357,23 +341,7 @@
       "url": "https://open.spotify.com/track/1yj1ZztSGITJ5Nf4mfH92c"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
-      "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178704,
-      "name": "\u201998 Braves",
-      "url": "https://open.spotify.com/track/3oZ6dlSfCE9gZ55MGPJctc"
-    },
-    {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "Dangerous: The Double Album",
         "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
@@ -389,7 +357,23 @@
       "url": "https://open.spotify.com/track/0mKnuxVkPi5h0kuvZl44VM"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178704,
+      "name": "\u201998 Braves",
+      "url": "https://open.spotify.com/track/3oZ6dlSfCE9gZ55MGPJctc"
+    },
+    {
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "FLOWER SHOPS (THE ALBUM)",
         "url": "https://open.spotify.com/album/5mTNFZBZyKIZSYrIAf9c5L"
@@ -409,7 +393,7 @@
       "url": "https://open.spotify.com/track/0De9jFjJ4eRLl7Yww2eBw1"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "If I Know Me",
         "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
@@ -425,23 +409,7 @@
       "url": "https://open.spotify.com/track/03d8S7FBY2kIzhP0E7l4rn"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
-      "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 205579,
-      "name": "Whiskey Friends",
-      "url": "https://open.spotify.com/track/2ewSCWOL7EAjgmgqfI1UlS"
-    },
-    {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "Dangerous: The Double Album",
         "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
@@ -457,7 +425,23 @@
       "url": "https://open.spotify.com/track/4obHzpwGrjoTuZh2DItEMZ"
     },
     {
-      "added_at": "2023-03-12 12:57:54",
+      "added_at": "2023-03-13 12:43:09",
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 205579,
+      "name": "Whiskey Friends",
+      "url": "https://open.spotify.com/track/2ewSCWOL7EAjgmgqfI1UlS"
+    },
+    {
+      "added_at": "2023-03-13 12:43:09",
       "album": {
         "name": "Broadway Girls (feat. Morgan Wallen)",
         "url": "https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG"
