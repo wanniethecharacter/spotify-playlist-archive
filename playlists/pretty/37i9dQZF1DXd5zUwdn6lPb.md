@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 
 > Enhance your focus with classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,434 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,558 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 | 99 | [Partita No\. 1 in B\-Flat Major, BWV 825: V\. Menuet I & II](https://open.spotify.com/track/2efsatoWRINqBXizkqvqCu) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Murray Perahia](https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB) | [Bach: Partitas Nos\. 1, 5 & 6](https://open.spotify.com/album/0xIKZI6Fg8EYJTpL0x5JJt) | 3:17 |
 | 100 | [Invention No\. 1 in C Major, BWV 772](https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Simone Dinnerstein](https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ) | [Bach: Inventions & Sinfonias](https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr) | 1:28 |
 
-Snapshot ID: `MTY3ODQ0MjkxOSwwMDAwMDAwMDgwZDBhYjRmYTNkMmQxZTIyNTFlMGI4MjNmZTZlZjZi`
+Snapshot ID: `MTY3ODQ0MjkxOSwwMDAwMDAwMGUwODAxMzgyYWZkNDE0YTAzZTZhMzg0NDY3MWI3Yzc1`

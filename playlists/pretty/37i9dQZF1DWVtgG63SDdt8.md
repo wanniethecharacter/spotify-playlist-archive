@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Courtnie Ramirez
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,496 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,644 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Completely Abandoned \- Live](https://open.spotify.com/track/0WbABN4mypl8z5roDZMQeV) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Tracy Pratt](https://open.spotify.com/artist/45QTpsbrHjjbfUcSoz5BiC) | [Completely Abandoned \(Live\)](https://open.spotify.com/album/2IbZ16xSwJAQnxGM2CoHhe) | 5:54 |
 | 100 | [Jesus Now \- Live](https://open.spotify.com/track/6wnxaVE6g2kEnDmjmlKYZL) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Metro Collective Worship](https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn) | [Jesus Now](https://open.spotify.com/album/0qLUPWE9SikEjGsvSEDQ5W) | 5:16 |
 
-Snapshot ID: `MTY3ODQyNTMzMSwwMDAwMDAwMGQ5NDZjYjRlNmNiMjUxMTUyOWM5MjA5NDRiYTAwOWJk`
+Snapshot ID: `MTY3ODQyNTMzMSwwMDAwMDAwMDYwOTYwNWQyMzkzMjZlYTc0MzIyOWQxMTc4NTFlNTIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,993 likes - 125 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,030 likes - 125 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 124 | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/1s2MMnIR3TYcujFBpNwVQ6) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/7Ehs7TrzgoVYYPaVMa7ZTH) | 2:38 |
 | 125 | [If I Ever Was A Child \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Spotify Singles](https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak) | 3:12 |
 
-Snapshot ID: `MTY3MzQ3NzY3MywwMDAwMDAwMGU1ZGQxZWVkYzM1NGIzZTUzYzI4ZjlkNDgxNGE4N2Vm`
+Snapshot ID: `MTY3MzQ3NzY3MywwMDAwMDAwMDFkMDUzM2FiMzliY2YzMTE5ZGZkZDc2ZTI3NGM2NDlk`

@@ -186,10 +186,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 214000,
       "name": "Liftin Me Up - Mixed",
       "url": "https://open.spotify.com/track/3IuoMVdAjjYvvQqsIMxaUE"
+    },
+    {
+      "album": {
+        "name": "Liftin Me Up (Mixed)",
+        "url": "https://open.spotify.com/album/0VgkQbcNXAQD0IJghomx9b"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Liftin Me Up - Mixed",
+      "url": "https://open.spotify.com/track/63sgeA5MnRXEKjxsMyJ1Ff"
     },
     {
       "album": {
@@ -502,7 +520,7 @@
     {
       "album": {
         "name": "Your Tongue (Mixed)",
-        "url": "https://open.spotify.com/album/0qhSbmLSQQ4C7DgGhszD01"
+        "url": "https://open.spotify.com/album/2TBeqIJWHSWrUjkdhxz1nG"
       },
       "artists": [
         {
@@ -513,6 +531,24 @@
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 92000,
+      "name": "Your Tongue - Mixed",
+      "url": "https://open.spotify.com/track/44qX5ewDe6vgsr5cgToad6"
+    },
+    {
+      "album": {
+        "name": "Your Tongue (Mixed)",
+        "url": "https://open.spotify.com/album/0qhSbmLSQQ4C7DgGhszD01"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
       "duration_ms": 92000,
       "name": "Your Tongue - Mixed",
       "url": "https://open.spotify.com/track/5dWOVT3cMVKp3xmHxWIotT"

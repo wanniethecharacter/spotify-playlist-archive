@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 
 > A celebration of Norway's dance scene!
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,886 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,907 likes - 50 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 49 | [Tidløs \- Kohib Remix](https://open.spotify.com/track/33ZKHbquD746iTaSk6y58k) | [Aggie Frost](https://open.spotify.com/artist/6KuOR1yUOE16fw6IwThbC0), [Kohib](https://open.spotify.com/artist/26oQRM3dr784QWCkxn38kw) | [Tidløs \(Remixes\)](https://open.spotify.com/album/44ShL59sThfH0kX2NhnKli) | 7:04 |
 | 50 | [Sadsongwtf](https://open.spotify.com/track/2zA7dBlE6tarkCzK2Rsi3o) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Sadsongwtf](https://open.spotify.com/album/0snl6gC7BXLFyK1MJjWy42) | 2:53 |
 
-Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMDljOWQ0MzJlMjdlMjZjM2NmODJmNGZlZDBjM2M1MzY2`
+Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMDQxMzhhZmJmZGFkODZjNTI2MTEwZjZkZGY4NGQwYTll`

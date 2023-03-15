@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafKxB0kzl3A.md) - [plain]
 
 > International hitmaker, producer & DJ <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a> shares his exclusive Spotify mix, featuring banger after banger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,118 likes - 20 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,405 likes - 20 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafKxB0kzl3A.md) - [plain]
 | 5 | [The Motto \- Tiësto’s VIP Mix \- Mixed](https://open.spotify.com/track/4j5cFdnUP2iC9c46O4CnoZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Motto \- Tiësto’s VIP Mix \(Mixed\)](https://open.spotify.com/album/6GbUkXBAMQ3XNUsVxpLS1W) | 3:32 |
 | 6 | [Hot In It \- Mixed](https://open.spotify.com/track/0HvlkQcPTvr8hSn0Tspyq1) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Hot In It \(Mixed\)](https://open.spotify.com/album/4EWykLQFMzXkfxvpdJ2FHW) | 2:13 |
 | 7 | [Belly Dancer \- Mixed](https://open.spotify.com/track/3lVZVPsbr7OA9ed6aKAO0r) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Belly Dancer \(Mixed\)](https://open.spotify.com/album/3YXvypMu72Y87krDoJcu5D) | 2:58 |
-| 8 | [1, 2 Step \(Supersonic\) \- Mixed](https://open.spotify.com/track/1AstBFivyakpfivzFC0ViG) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [1, 2 Step \(Supersonic\) \[Mixed\]](https://open.spotify.com/album/0kjGYHOMjDsYtfIiDtXmVA) | 2:34 |
+| 8 | [1, 2 Step \(Supersonic\) \- Mixed](https://open.spotify.com/track/09gw5jxg7V7koCsneIGsSA) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [1, 2 Step \(Supersonic\) \[Mixed\]](https://open.spotify.com/album/0r7eH6QkuxemwjbfoOMGGf) | 2:34 |
 | 9 | [Back Once More \- Mixed](https://open.spotify.com/track/4wywjz2l4A1WI3Mf50lQIP) | [PAJANE](https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q) | [Back Once More \(Mixed\)](https://open.spotify.com/album/3AssGUn2sGlc6OGpSx66jO) | 3:28 |
-| 10 | [This Feeling \- Mixed](https://open.spotify.com/track/6IB1Rk80kekawq0USeg4Lc) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [This Feeling \(Mixed\)](https://open.spotify.com/album/2ERNyhR6CuKzqbScHK2MEs) | 3:27 |
+| 10 | [This Feeling \- Mixed](https://open.spotify.com/track/2rknV08e5FBX4iyvjUGhXW) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [This Feeling \(Mixed\)](https://open.spotify.com/album/4zgTfY9tFgoENd13wFaHxe) | 3:27 |
 | 11 | [Let Me Take You \- Extended Mix \- Mixed](https://open.spotify.com/track/7jKCvvxBpGT8ipdBUTanMp) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Let Me Take You \- Extended Mix \(Mixed\)](https://open.spotify.com/album/5HcjlsVT49DXMVRVgA2Aoj) | 3:03 |
 | 12 | [Once Again \- Mixed](https://open.spotify.com/track/2HWYLtVHUdl8iMDUJ3ylpU) | [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Once Again \(Mixed\)](https://open.spotify.com/album/29D18cOi4YWwUIVjUFrLI4) | 3:02 |
 | 13 | [Time \- Mixed](https://open.spotify.com/track/0aSi6uQjGbr4BNxnfylwQW) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Time \(Mixed\)](https://open.spotify.com/album/7mPPBwkShz8DGUO0BI739q) | 3:19 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafKxB0kzl3A.md) - [plain]
 | 19 | [NO MIENTEN \- Tiësto Remix \- Mixed](https://open.spotify.com/track/2gp3ZM6h0GemBI40D5iHeF) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN \- Tiësto Remix \(Mixed\)](https://open.spotify.com/album/5tcykKJYLeIWzDbjSKyrHA) | 2:16 |
 | 20 | [Savage \- Mixed](https://open.spotify.com/track/2n56D9thfe2XQqe8NjalWE) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Savage \(Mixed\)](https://open.spotify.com/album/2WypBJp2P5x9XogHwzLz7y) | 3:17 |
 
-Snapshot ID: `MTY3ODIwNDU0NywwMDAwMDAwMDAxNTg3YmYzYWIyNTgzZDg1NTUwYTNjMzIxZDUyMmYx`
+Snapshot ID: `MTY3ODIwNDU0NywwMDAwMDAwMGY2Y2UxNDY4Yjg2ZWU0MTQyZDlkMjIzYTQ0NjA4MDA0`

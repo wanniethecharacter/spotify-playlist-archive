@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,098 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,103 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 99 | [Tiempo Compartido](https://open.spotify.com/track/5ms50lUojH8Ft48znLxsfF) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Tiempo Compartido](https://open.spotify.com/album/75nbafNyS33ripWC6dOXKz) | 5:43 |
 | 100 | [Árboles y Pasarelas](https://open.spotify.com/track/6WpZRLPsYPddfQ2trrdyOD) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Árboles y Pasarelas](https://open.spotify.com/album/42v671Ws24mgeGvj298gQB) | 5:35 |
 
-Snapshot ID: `MTY3ODcxNjY3OSwwMDAwMDAwMDY1NGZmZTU5NTljYzg5ZmI1NmRjMTUzNWQ5NmI5NzA1`
+Snapshot ID: `MTY3ODcxNjY3OSwwMDAwMDAwMGU5NzRiYjg3NDBiNDc3NmQ4NzVmNDNkN2ZjNmUxZTFm`

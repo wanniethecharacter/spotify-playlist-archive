@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain]
 
 > Explore the music of Franz Liszt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,910 likes - 62 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,974 likes - 62 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain]
 | 61 | [Ce qu'on entend sur la montagne \(What is Heard on the Mountain\), S95/R412](https://open.spotify.com/track/4J04Ip9H3WGrUTVAzIukC9) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM), [Michael Halasz](https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6) | [Liszt: Symphonic Poems, Vol\. 3](https://open.spotify.com/album/3k2gPAEbhpD9AvNmBh9YKW) | 29:11 |
 | 62 | [Unstern! \-Sinistre , S208](https://open.spotify.com/track/6YlNhEvvgM4SL6soJZ43DH) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Pierre\-Laurent Aimard](https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk) | [An Evening of Classical: Liszt](https://open.spotify.com/album/1UXL1hZBO9eo2l9IMssiGD) | 6:03 |
 
-Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMGJjYWZkMGFmNGI5YzU1YzVmYzFiOTNiN2ZjMWUyYTkz`
+Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMDczMmJjNmY3MmMyNzQ3NWU0YjM1MmVmY2ZjYzNmY2Nh`

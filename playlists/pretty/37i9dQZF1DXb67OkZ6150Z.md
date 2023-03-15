@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > The best indie covers\. Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,398 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,418 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 74 | [Blinding Lights](https://open.spotify.com/track/1JlQqsAXDTwBCW4eMSRWZB) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Blinding Lights](https://open.spotify.com/album/57J0EidVGPE6zvDrgbPg86) | 3:07 |
 | 75 | [Just Like Heaven](https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3), [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [The Version Suicides, Vol\. 2](https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz) | 3:26 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMGI3MTc3MWRlNjQxNWZmNTc0YWQ1ZDIwZGIxZDFlMGMx`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDg2MGNjYTg1MzBlZGJhMDVlZmM5ZThjNTdiMjg5ZGVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,634 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,653 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 91 | [天使 Lo\-fi \(instrumentals\)](https://open.spotify.com/track/5xLIyGfaVMe1mDG9Zd91be) | [Alice Crosshart](https://open.spotify.com/artist/6vwJVDJDdf5E7K3OFWHheo), [Mikazuki BIGWAVE](https://open.spotify.com/artist/7dqKRXUJvcgQbg6jq06uFW) | [天使 Lo\-fi \(instrumentals\)](https://open.spotify.com/album/2fxQxVewN6IoM213Y2cxfX) | 2:40 |
 | 92 | [All the Way](https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 3:55 |
 | 93 | [Resting Place](https://open.spotify.com/track/0iB8cBNqKUv5CVbRI3cDJO) | [E J R M](https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Resting Place](https://open.spotify.com/album/5zqrCPsgymWf2bfYZQ7Rka) | 3:09 |
-| 94 | [Mirage](https://open.spotify.com/track/5mV7HHYf0uYQTbk1HWDoCW) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Mirage](https://open.spotify.com/album/245D6HaTivYD87OTFiEr5Q) | 3:13 |
+| 94 | [MoonWARker](https://open.spotify.com/track/3lO8HR3TLoTBdRpIwrGwCr) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [MoonWARker](https://open.spotify.com/album/07nqSdRJLbcCew1ucAH3Je) | 2:44 |
 | 95 | [Fade \(feat\. Rachel Lim\)](https://open.spotify.com/track/5P9fLyX3VPJm3VOr50RObx) | [JIDA](https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b), [Rachel Lim](https://open.spotify.com/artist/4LY4Kd3wNEZxMwZygueoqc) | [FADE AWAY \(feat\. Rachel Lim\)](https://open.spotify.com/album/53MPVjP9shFQ43mrBekika) | 3:33 |
 | 96 | [Cristo Redentor](https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chips & Chill](https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE) | 2:34 |
 | 97 | [Naps](https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Holding On](https://open.spotify.com/track/5WhLz63p2yzbpTROq87AT0) | [LAKEY INSPIRED](https://open.spotify.com/artist/3zDGjdtoxUiH7YcTWOdtMd) | [Holding On](https://open.spotify.com/album/1hVENLbXnEHqjREdfjurS7) | 2:26 |
 | 100 | [Coconut Water](https://open.spotify.com/track/48HATQmXssKoCAqhaFjtAh) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Coconut Water](https://open.spotify.com/album/0cOHCnax9JHkbL3c6zxuV1) | 3:59 |
 
-Snapshot ID: `MTY3ODIwMTIwMCwwMDAwMDAwMDlmMTQ0N2MwMDA2ODM4YWQ5ZmNiZmM0ZWI1ZjNlNGE4`
+Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMGU3Nzg1NzhiNTc0MjFiZTVhMjkzNDE5Nzk4ZDg2MWQ0`

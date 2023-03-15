@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,028 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,070 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 74 | [Amazónia](https://open.spotify.com/track/2ySZ2kVCZRQ0gJ5Lu0EoxJ) | [Lutz](https://open.spotify.com/artist/3Qsun4Xe5KRfqWUE3ct79x) | [Amazónia](https://open.spotify.com/album/5gULMhBkRl7ZCv35O2K5Xm) | 3:14 |
 | 75 | [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [DJ HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 |
 
-Snapshot ID: `MTY3ODM4MTQyMCwwMDAwMDAwMDJkOTFkYTAxNjUxZTc1MTVhNDAzYTk0OThjZmI3ZGQ0`
+Snapshot ID: `MTY3ODM4MTQyMCwwMDAwMDAwMDdkNWVlZjRlNTFkYTFjNzk3NGZmMThlZTVkMGJjY2Zm`

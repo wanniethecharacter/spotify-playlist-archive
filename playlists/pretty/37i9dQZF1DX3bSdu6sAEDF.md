@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,373 likes - 150 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,481 likes - 150 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 102 | [September](https://open.spotify.com/track/5DTBPQRHrBOnvzIF5XLBPq) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:40 |
 | 103 | [Lucky \(feat\. Emily King\)](https://open.spotify.com/track/10RokxYn1aqGPeKGT5Z1C3) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Lucky \(Deluxe\)](https://open.spotify.com/album/42ejzMaOuiyLrUzaGg433c) | 4:06 |
 | 104 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 |
-| 105 | [BOP](https://open.spotify.com/track/2G4SVNZ184cbAa0jzTLCpN) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [BOP](https://open.spotify.com/album/0oS6s31ETsc3If8kmfnZZP) | 2:56 |
+| 105 | [BOP](https://open.spotify.com/track/1Ng0B9PEKHOJsUywG24tzX) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Every Single Thing](https://open.spotify.com/album/03h4StW2BAHz9c822kAPtG) | 2:56 |
 | 106 | [Thinking Bout Ya](https://open.spotify.com/track/5XJJxc2t9gUsyi80KCcs4M) | [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [Thinking Bout Ya](https://open.spotify.com/album/2eExKyZnFUqEHLsK7HUcNU) | 2:43 |
 | 107 | [Happening Again](https://open.spotify.com/track/5Rx6U54oaGNEZ8eVy3VLK7) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/4rhBziAYIg4EBJ8bO2mTwr) | 2:53 |
 | 108 | [Talking to Yourself](https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:53 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 149 | [Here You Are](https://open.spotify.com/track/0ihNcF29gXIVvzknTpuvZl) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/0l4MKvhtXCavnpHgUROcLh) | 3:08 |
 | 150 | [Smile](https://open.spotify.com/track/2AHGHX3SIsBUmSXAbBhWHb) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Smile](https://open.spotify.com/album/5yQX2nTKX3Fkk4M1N9YJbu) | 2:50 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDIzYTZjM2ZlMjQwOTczOWQ2ZDcxZDMzMzY3YjFlODYz`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMGIwMjEyYmEwMDgzM2U2MDA0NTMyMGM0MmI2MDE3M2Iy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 
 > Den perfekta mixade spellistan för träningspasset.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 59 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 | 99 | [Survivors](https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [Next to Neon](https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa) | [Survivors](https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V) | 2:57 |
 | 100 | [Party To Survive](https://open.spotify.com/track/4WJhrzxISwyXPCozZTWsrI) | [TADROS](https://open.spotify.com/artist/1hMVsPngYpyuvTdACJLdFN) | [Party To Survive](https://open.spotify.com/album/0JEYg8YC63DbGeK7KtUEsH) | 2:24 |
 
-Snapshot ID: `MTY3ODA5NDQ3NiwwMDAwMDAwMDVlZDBmY2FkNWE0YmRjNjRhMThkNTc5MjVjMzRjNGY4`
+Snapshot ID: `MTY3ODA5NDQ3NiwwMDAwMDAwMDk2Yzk1YTE0MGI3MjQyZTc4M2ZkNGY4NjI1MTJkZTc4`

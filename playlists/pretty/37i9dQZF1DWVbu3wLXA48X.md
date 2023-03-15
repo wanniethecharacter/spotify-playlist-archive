@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Protomartyr
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,967 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,977 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 74 | [One Night with The Valet](https://open.spotify.com/track/3idyjPuEkDzVSFrA9A8Nh5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [One Night with The Valet](https://open.spotify.com/album/0fBTCN3D6Aoh3lhntAV4Jh) | 1:53 |
 | 75 | [eighteen](https://open.spotify.com/track/5uMkaBsallKqRteHGUOjtY) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j), [Cole Bauer](https://open.spotify.com/artist/57gW9421NHL1WJjJ82Qdn1) | [eighteen](https://open.spotify.com/album/0y9L01zTXkz4ogsNCX2cA6) | 1:51 |
 
-Snapshot ID: `MTY3ODQ0MDU4MywwMDAwMDAwMDQzZjY5NDhiNDhlNmY1ZjhmZDllZjlhNTA4MzcyNWM4`
+Snapshot ID: `MTY3ODQ0MDU4MywwMDAwMDAwMGJhOWY2YjNjMjMwMWU2NjEyN2I4NTdlNmM1OWZmNTYz`

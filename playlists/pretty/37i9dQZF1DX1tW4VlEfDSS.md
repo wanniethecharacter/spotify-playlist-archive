@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,003 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,042 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [Closer](https://open.spotify.com/track/5s3UTdgdjBnkRKmPeBEnyk) | [Aevion](https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg) | [Closer](https://open.spotify.com/album/2wONkDvCwXWSIw4SGz36pZ) | 4:10 |
 | 60 | [My Love](https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Charles J](https://open.spotify.com/artist/7lmPlDYovClFuOyfyzbDYS) | [My Love](https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF) | 2:45 |
 
-Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDUzMGE2MjY4ODVlMGQwYTgwNDc0NjIyZjBiZmRkOTBi`
+Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMGE5YzliMDQ5ODllM2QyNmFmYjE4ZGU5MjMzYTIwODc0`

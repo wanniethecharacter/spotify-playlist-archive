@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,164,045 likes - 150 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,165,064 likes - 150 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 149 | [The Bottom](https://open.spotify.com/track/4vpJYmoqQ2bGkC1IKVWeIG) | [Devour the Day](https://open.spotify.com/artist/4olk2DDoPvzAJlJBonZFHk) | [S.O.A.R](https://open.spotify.com/album/5OsKZSMhvAjBb47m8zakxI) | 3:02 |
 | 150 | [New Found](https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 6:36 |
 
-Snapshot ID: `MTY3NzIyNTc1OCwwMDAwMDAwMDA1NzRhOGQ3OGQ3NTc5NTU2NzI1MWRmNGRjNDVlMjkz`
+Snapshot ID: `MTY3NzIyNTc1OCwwMDAwMDAwMDAxYjk3MTNjMTZhOTY2N2RkZDZmNzY4MGNhZGYyNGIx`

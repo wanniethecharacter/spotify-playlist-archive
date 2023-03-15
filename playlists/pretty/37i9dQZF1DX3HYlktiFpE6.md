@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,222 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,253 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 99 | [Any Way You Want It \(World Championship Medley\) \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/0gzErVl20ICsw6LmoPIdqb) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [The Filharmonic](https://open.spotify.com/artist/63QppfTaQHZpb8VhSlsvZz), [The Cantasticos](https://open.spotify.com/artist/2fv2BgHuiUQhkyPybnlMJM), [The Singboks](https://open.spotify.com/artist/4X73QHiBXm9IoEIRSOHKNz), [Penn Masala](https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 1:56 |
 | 100 | [Give Your Heart a Break](https://open.spotify.com/track/2ln351qfbbJuYjUx7gbsAn) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Anthem Lights Covers](https://open.spotify.com/album/4q15SF055uWNuLQVLDvcK7) | 3:36 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMGYyZjcwY2M3NTMzNDEzNzdjZjU3ZWVlMDIyNzhmNTBh`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDI1NjkxMWIzMzJmMTgwMTE3OWI1MmNkNmI4NDZiM2Ji`

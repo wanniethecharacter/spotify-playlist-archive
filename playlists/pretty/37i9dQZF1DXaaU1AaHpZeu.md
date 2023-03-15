@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Sen Senra
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,833 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,862 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [AAAAAA](https://open.spotify.com/track/2eFWliYRleozZ8w8JRm5FP) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/6vR3IjKZz96v4RXVdcN39q) | 3:10 |
 | 50 | [Prometo No Olvidar](https://open.spotify.com/track/2eZiRaP2ECZrqA66Rc1tFD) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [Prometo No Olvidar](https://open.spotify.com/album/0KtZKEQs7YFP4HIqx8Obqt) | 3:14 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDg0MDc2NTgxNGFhMDRjMmZhNTM1YmZkOGRlZmM1OGI0`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGRhMWIxMmUyYjc2ZTQ1NTQyY2YzY2JjODM5ZjZjYjRh`

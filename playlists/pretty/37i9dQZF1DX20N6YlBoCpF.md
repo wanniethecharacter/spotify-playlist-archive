@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=NOdYaKEATx2QuNJfVQsTDQ">Karlien Van Jaarsveld</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,204 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,233 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Babbelas ² Kwadraat](https://open.spotify.com/track/1AOMZtWjYu7CMm0lmJuV40) | [Kevboii](https://open.spotify.com/artist/4Mp36UE9keQ7vXLcVLWzmN) | [Babbelas ² Kwadraat](https://open.spotify.com/album/6WNShAod3Jay2eNq8PIzJr) | 2:29 |
 | 50 | [LEKKER](https://open.spotify.com/track/6y42yMEDrVu8GZtr0EzK1E) | [Coenie met ‘n P](https://open.spotify.com/artist/57DecfSx9lmFD6SnFL8Xs0) | [LEKKER](https://open.spotify.com/album/6Zha4zIpiY2gg2yPsORPq1) | 2:40 |
 
-Snapshot ID: `MTY3ODM5OTE0MCwwMDAwMDAwMDRmYTI1ZTQxOTFmMzRlYzFhZjIxODM4NTQ4MzEyNGVj`
+Snapshot ID: `MTY3ODM5OTE0MCwwMDAwMDAwMDc5N2UyNzMyOTBkYjdjMWJlMzE5NDhkZWJhMTRkYTg0`

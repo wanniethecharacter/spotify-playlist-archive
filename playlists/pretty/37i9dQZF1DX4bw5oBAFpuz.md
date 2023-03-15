@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 
 > Ideale muziek voor de werkdag
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,152 likes - 250 songs - 14 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,171 likes - 250 songs - 14 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 | 249 | [Sun Goes Down \- Acoustic Version](https://open.spotify.com/track/1Vt9LAUmkUM41DLCLlIMUc) | [Kenn Colt](https://open.spotify.com/artist/0vSNFAo2h20zd3HOBcM8BX) | [Sun Goes Down \(Acoustic Version\)](https://open.spotify.com/album/5lJHfXBdOgmi6Sc5tqMFk4) | 3:03 |
 | 250 | [Took a Hit](https://open.spotify.com/track/1pxHrvGMP01htMXg1RcaEy) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Liverpool Rain](https://open.spotify.com/album/5M1RrcD206EhfQzzXlDym8) | 3:44 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDIwOTQ1ZDlmZTdlMDhlYmE2OWFlZmNhYzA4MzZkZTc1`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDVjZmM2ZGUxMzU3OWNkZWMxZWQyYWUxODY4NWI3Yzk5`

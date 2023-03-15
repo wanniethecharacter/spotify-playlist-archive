@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,566 likes - 97 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,609 likes - 97 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 96 | [Love on the Rocks](https://open.spotify.com/track/6paMAWG7CCn967OkrIILty) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q) | 3:42 |
 | 97 | [Control](https://open.spotify.com/track/0AchHP2MSvRlL3iKh6kfdt) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Control](https://open.spotify.com/album/1yj4EQuTKMf8VBz1wTAj0D) | 3:23 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDljNDg4OThkY2VhN2M5MGFmYTIwZTM2ZWYzMGQ1OWRi`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDNiM2E4YjAyMzMwZDk3MWJlMzIyYTE3MDljMGZiYjky`

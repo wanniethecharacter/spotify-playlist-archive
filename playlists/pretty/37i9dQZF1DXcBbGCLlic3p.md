@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 
 > Restorative piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,619 likes - 202 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,657 likes - 202 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 | 201 | [Andromeda](https://open.spotify.com/track/2vOE9PLXx3MTPy5E0dxPor) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Andromeda](https://open.spotify.com/album/4QF6bAGczBfA3IgNftiaem) | 2:52 |
 | 202 | [Mellow Moon](https://open.spotify.com/track/3pwWWv9jwQxxh81W8bKWSB) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Winds](https://open.spotify.com/album/0y85Fl4PfcS9zsfvYyA7q6) | 3:25 |
 
-Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMGI5MjdhNzYxN2JiZjAyZTE5MDUyNTlmNmRjNmZiZjc5`
+Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMGRmN2ZkOWQxYmMxOTdhODM0OWZlYmNjZDI3ZWRlZTg4`

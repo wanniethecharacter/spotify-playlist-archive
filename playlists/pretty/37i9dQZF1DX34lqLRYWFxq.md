@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: grandson
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,689 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,696 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 98 | [Mercury In Retrograde](https://open.spotify.com/track/5myAAZYPPELEl2aiGoW0sx) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 2:09 |
 | 99 | [Makeshift Paradise](https://open.spotify.com/track/1S8oQurfhmDFyzmWODOF1d) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [Makeshift Paradise](https://open.spotify.com/album/4sRT6Ay4AtKae9mW6amj7A) | 3:15 |
 
-Snapshot ID: `MTY3ODQ1OTg5NiwwMDAwMDAwMDAxZjc3MTI5OTQwYzZhZTVkOWJiMDY4MjMzYzc1YWY1`
+Snapshot ID: `MTY3ODQ1OTg5NiwwMDAwMDAwMDNhYzljMjU2ZjA1ZDUyNGQ2MDI0ZTJjYzdkMDEzYjE0`

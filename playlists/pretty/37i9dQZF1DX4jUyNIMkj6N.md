@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,927 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,003 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Cheap Disposition](https://open.spotify.com/track/312PDc82PEWHeP6Px2UZWE) | [Resa Saffa Park](https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv) | [Cheap Disposition / Bitre Miner](https://open.spotify.com/album/7imJLmLYlNOgwuwuT6NEHy) | 3:24 |
 | 60 | [Ain't Nobody Like Me](https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe) | [Bendik Brænne](https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1), [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [The Last Great Country Swindle](https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ) | 3:23 |
 
-Snapshot ID: `MTY3NjU4ODQ2MCwwMDAwMDAwMGNlYjdlZjg3Njc2NGU5NzU5MTEyMzI4MjViMTUwMGMz`
+Snapshot ID: `MTY3NjU4ODQ2MCwwMDAwMDAwMDE2NWQ4NDM4MDNlZDc2ODY1ZGRkY2UyMTBiNzQ4MTc2`

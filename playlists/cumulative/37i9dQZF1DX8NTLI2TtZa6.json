@@ -744,7 +744,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 218000,
       "name": "Belonging",
       "url": "https://open.spotify.com/track/6RQo40Vh1f5NCn14I04Kpp"
@@ -1850,6 +1850,24 @@
       "duration_ms": 171084,
       "name": "Fr\u00fchlingsbach",
       "url": "https://open.spotify.com/track/5q3d5I3rMvfKAuyDvmBwwe"
+    },
+    {
+      "album": {
+        "name": "F\u00e5r\u00f6",
+        "url": "https://open.spotify.com/album/1nsTkxa7rQtTCJQlwV4mfc"
+      },
+      "artists": [
+        {
+          "name": "ODELIO",
+          "url": "https://open.spotify.com/artist/69WozQ1x904JxonDiYM4ax"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112383,
+      "name": "F\u00e5r\u00f6",
+      "url": "https://open.spotify.com/track/1eAIx6ZkhGBb20lkDABhy9"
     },
     {
       "album": {
@@ -3147,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "Luna Llena",
+        "url": "https://open.spotify.com/album/1cNgRDVEReVsIxA6i7Ap7Z"
+      },
+      "artists": [
+        {
+          "name": "Jovian Findlay",
+          "url": "https://open.spotify.com/artist/5sG1B4jyp6nDdgZZlQW3O5"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121675,
+      "name": "Luna Llena",
+      "url": "https://open.spotify.com/track/11WbYgcb6E1FT0ouyqhopV"
+    },
+    {
+      "album": {
         "name": "LYR",
         "url": "https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H"
       },
@@ -3414,6 +3450,24 @@
       "duration_ms": 146874,
       "name": "Mol allena",
       "url": "https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0"
+    },
+    {
+      "album": {
+        "name": "Moments of movement",
+        "url": "https://open.spotify.com/album/0gLpOwvM4ZUnonSZV5Odp3"
+      },
+      "artists": [
+        {
+          "name": "Carl Fredman",
+          "url": "https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Moments of movement",
+      "url": "https://open.spotify.com/track/2hHiDZt7uHjaIIUa2H9qBU"
     },
     {
       "album": {
@@ -5074,7 +5128,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 207274,
       "name": "So Close",
       "url": "https://open.spotify.com/track/2cQ5XGvt8Yo5sNlvPLWYp3"

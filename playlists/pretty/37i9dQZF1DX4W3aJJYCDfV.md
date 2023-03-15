@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Miley Cyrus \(pictured\), Calvin Harris, Nia Archives and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,767 likes - 131 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,814 likes - 131 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 117 | [Tanisha \(Pump That\)](https://open.spotify.com/track/5ckaFWaVWVfIcPFYfofmzH) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Tanisha \(Pump That\)](https://open.spotify.com/album/6GqEIfRc7ACkLQ2SGGqxFb) | 2:46 |
 | 118 | [The Way](https://open.spotify.com/track/2wlZIwHXloe802coeEhJ3T) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Way](https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i) | 3:54 |
 | 119 | [Please Don't](https://open.spotify.com/track/5BhIS3SCjxdLufDdwvVFe7) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [J Harli](https://open.spotify.com/artist/7929j41xyC1spWcgOPSSY1) | [Please Don't](https://open.spotify.com/album/4S01HGRBG0zdVmKezd3QtS) | 3:03 |
-| 120 | [Butterflies](https://open.spotify.com/track/33BFPA2AADvu2tiyLotov8) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Buttlerflies](https://open.spotify.com/album/79c0H3KKIc2uGlEotrhsl6) | 2:38 |
+| 120 | [Butterflies](https://open.spotify.com/track/33BFPA2AADvu2tiyLotov8) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Butterflies](https://open.spotify.com/album/79c0H3KKIc2uGlEotrhsl6) | 2:38 |
 | 121 | [Dal Fi Lawr](https://open.spotify.com/track/1pShwMqPmMV81XgOD00M8U) | [Yws Gwynedd](https://open.spotify.com/artist/14UpMsA1ZvDMZmFknlTOdO), [Alys Williams](https://open.spotify.com/artist/3XNWJHsYa2iird3wTFuj5i) | [Dal Fi Lawr](https://open.spotify.com/album/3VBYtAf0cetII1I2xFlE9C) | 3:36 |
 | 122 | [So DISRESPECTFUL](https://open.spotify.com/track/6tvFBQBdsLErOq4smfV231) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [So DISRESPECTFUL](https://open.spotify.com/album/1n1Dw6cutT1V0EaQjcPHjP) | 2:01 |
 | 123 | [Let Me Know](https://open.spotify.com/track/6ThpQpPBewDQv65CJBmD0J) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx) | [Let Me Know](https://open.spotify.com/album/7KvAGVlZvGAB0qGYcjoazV) | 3:56 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 130 | [marigold](https://open.spotify.com/track/3hOR32pKvOpj9cE32Po3dE) | [kenzo jae](https://open.spotify.com/artist/1649ehpEZceiBKsl19kumf) | [marigold](https://open.spotify.com/album/2RzzkqoNAe7ZS2L4LM44ot) | 2:44 |
 | 131 | [Teeth](https://open.spotify.com/track/0WVCLhaqfBVm8RutijCiMB) | [Local Boy](https://open.spotify.com/artist/34Ze0nb54KG3gietZGFZIj) | [Teeth](https://open.spotify.com/album/1cfCP9505PAGSh4eVmYQhS) | 3:32 |
 
-Snapshot ID: `MTY3ODQwNjQwMCwwMDAwMDAwMGEwY2NlYmZjM2RmMjBkZWQwODI1MGMzZDAwMjY5MDhh`
+Snapshot ID: `MTY3ODQwNjQwMCwwMDAwMDAwMDhhOGJhZTA5NmRmZjRjMGNjMDczMTYwMDNlZWViYTQx`

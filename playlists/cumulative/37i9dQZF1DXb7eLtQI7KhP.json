@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-20",
-  "description": "Soft and soothing piano music for meditation.",
+  "description": "Soft and soothing ambient piano music for meditation.",
   "name": "Piano for Meditation",
   "tracks": [
     {
@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Quiet Respite",
+        "url": "https://open.spotify.com/album/29obYtqcaVQlkJ95FwcT9p"
+      },
+      "artists": [
+        {
+          "name": "Claira Mikkelsen",
+          "url": "https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163276,
+      "name": "Quiet Respite",
+      "url": "https://open.spotify.com/track/6rRC89OHKbpXVraHgnZ7MI"
+    },
+    {
+      "album": {
         "name": "Re-Creation",
         "url": "https://open.spotify.com/album/5Pvp369gZThJy1GNGciDcX"
       },
@@ -1805,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "Stargazer",
+        "url": "https://open.spotify.com/album/0BzSglmfXitjj9f9f2pP1F"
+      },
+      "artists": [
+        {
+          "name": "Cloudville",
+          "url": "https://open.spotify.com/artist/2PZ9Lx5YAYcmTUPBc6a17L"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131400,
+      "name": "Stargazer",
+      "url": "https://open.spotify.com/track/4jALRfKqKJhEjTslirOvsm"
+    },
+    {
+      "album": {
         "name": "Stay By My Side",
         "url": "https://open.spotify.com/album/7o9fu8n1lNe3ML4ktRE65U"
       },
@@ -1996,7 +2032,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 171656,
       "name": "Tiger Face",
       "url": "https://open.spotify.com/track/5uegoJLNJ1Y8hBliXUeTtC"

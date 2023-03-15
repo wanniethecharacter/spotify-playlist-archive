@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,525 likes - 60 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,904 likes - 60 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [I Feel It](https://open.spotify.com/track/3qWbao6YVObRFxeF6bybF4) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Finger Printz EP](https://open.spotify.com/album/1Oshvwp9KrsrwnaNshGRFS) | 6:08 |
 | 60 | [I'll Be Your Friend \- Original Mix \(2011 Remastered Version\)](https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [I'll Be Your Friend](https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI) | 7:36 |
 
-Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMGUwNTgwODUxOTQ5YWYwNTNiNDI0NjZjZjE4MjQ0MTg5`
+Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMDVjMmU5ZTg2NjI0NmM2M2UxODUzZDczYTA3YTcwNmVm`

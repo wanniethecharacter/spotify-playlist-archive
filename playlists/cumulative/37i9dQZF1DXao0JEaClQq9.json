@@ -2858,7 +2858,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 353021,
       "name": "foolish thinking",
       "url": "https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv"
@@ -4646,6 +4646,24 @@
       "duration_ms": 211285,
       "name": "let all the poisons that lurk in the mud seep out",
       "url": "https://open.spotify.com/track/7fA9qOYwh3KXAMK1Eb27DC"
+    },
+    {
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253893,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
     },
     {
       "album": {

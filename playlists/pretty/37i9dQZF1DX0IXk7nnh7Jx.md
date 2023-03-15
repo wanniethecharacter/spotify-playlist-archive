@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: Forrest Frank
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,233 likes - 150 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,453 likes - 150 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 149 | [Dying Dance](https://open.spotify.com/track/6JiJFQa5bqPHLksMcanUrv) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [Dying Dance](https://open.spotify.com/album/4M4SLrXtGzkhE6qoFUFMLH) | 4:33 |
 | 150 | [If It Comes From You](https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [If It Comes From You](https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA) | 4:54 |
 
-Snapshot ID: `MTY3ODQzOTgzMCwwMDAwMDAwMDYxNDYwNDE3NDVmOWJhYmUyODJiY2QyNDE5OThmZjAz`
+Snapshot ID: `MTY3ODQzOTgzMCwwMDAwMDAwMDIyOWZkMzQzYWVhMTdkZTU2Njk2MTBjMTQ1ZTAzZWYx`

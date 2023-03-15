@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 
 > A mediterranean sundown soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,790 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,891 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 99 | [Josephine \- French Edit](https://open.spotify.com/track/34SVJolkVb1gdfv4wNdrGh) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Works](https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn) | 7:08 |
 | 100 | [Through Your Hands Love Can Shine \- Turbotito Remix](https://open.spotify.com/track/1GXk8hH4VHZcUlNx7PpVUv) | [Giorgio Tuma](https://open.spotify.com/artist/4JiOObzTWLYWJwH65qgfFK), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [Through Your Hands Love Can Shine \(Turbotito Remix\)](https://open.spotify.com/album/59LOmRApH3tOESVQc0GujE) | 5:49 |
 
-Snapshot ID: `MTY3NjY0MDQwNCwwMDAwMDAwMDc0NjJkYzQyNGNjMGI1NGFjZmQ2ZTg5M2E5NTIyMzI4`
+Snapshot ID: `MTY3NjY0MDQwNCwwMDAwMDAwMDdiMGIyOGExODViMzY0YzQ3YzcxNjY0MzU3ODc2MGRl`

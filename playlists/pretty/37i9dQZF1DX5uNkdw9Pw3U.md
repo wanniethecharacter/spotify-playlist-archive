@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,880 likes - 94 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,921 likes - 94 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 93 | [Sympati For Djevelen](https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W) | [L.U:N.A](https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk) | [Sympati For Djevelen](https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r) | 3:03 |
 | 94 | [Rise](https://open.spotify.com/track/1y5cs2YiO2dBsoh5xzZxnF) | [Lido](https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk) | [Peder](https://open.spotify.com/album/3YjRY4GAEC4PQTSIUuJ3Eb) | 3:58 |
 
-Snapshot ID: `MTY3NTk4MzYwMCwwMDAwMDAwMDE4OWQxZWY5MWJlYzAwMjRmNTQ5MTQ2NWY5NzVhMTZj`
+Snapshot ID: `MTY3NTk4MzYwMCwwMDAwMDAwMDk2OTkzYWUxZjhiMmM0YmMxMGMyZTJkZDg4NTQwNTMx`

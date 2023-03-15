@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,088 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,047 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 74 | [O’Holy Night](https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [O’Holy Night](https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D) | 2:53 |
 | 75 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/2DMNyQvAMAr9yqDkCdTIBn) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 2:29 |
 
-Snapshot ID: `MTY3MTc2Mjk5MiwwMDAwMDAwMDkzZGQ1MDBiY2Y3MTc2N2MwYzUxNzA4YTgxOWQ4OTZm`
+Snapshot ID: `MTY3MTc2Mjk5MiwwMDAwMDAwMDUyZDAxZjZiMTMzNWVjYzQzMWE5NjhjYTk1NjIwMzM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Henrique & Juliano e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,412,052 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,414,528 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Parecia Tempestade](https://open.spotify.com/track/29adI8c6c75mnnaJ3BFLID) | [Sony no Beat](https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb), [Felupe](https://open.spotify.com/artist/1VfZSS1zUo2URLAriN3zZs), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Parecia Tempestade](https://open.spotify.com/album/3DPPcBAX08PIfFZFsfzVTR) | 2:29 |
 | 50 | [Comunicação Falhou \- Ao Vivo](https://open.spotify.com/track/7bhvRvE56NHBvedx0EeALS) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Ao Vivo em Fortaleza](https://open.spotify.com/album/3M5e9wnEYLRGlavA36KwAr) | 3:00 |
 
-Snapshot ID: `MTY3ODQ3ODIyNiwwMDAwMDAwMGViYTk1YzQzNmUwMmNkNjI3NGRlZjZmNzE4NDM4Yzhj`
+Snapshot ID: `MTY3ODQ3ODIyNiwwMDAwMDAwMDZiNGJlYmViZTg3OTQ1OTY2ZGZjOWRmYThkNzk0YWE3`

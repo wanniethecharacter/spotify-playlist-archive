@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: The Blaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,879 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,234 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Good Time](https://open.spotify.com/track/3AHTWM55Eg8QY3u91VJEzZ) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Good Time](https://open.spotify.com/album/0mP4FWMK4wPnA3WCH6VxTz) | 2:13 |
 | 100 | [Lavender Haze \- Jungle Remix](https://open.spotify.com/track/0ThxqUZ9PwS6n0UT5i1XH6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr) | 3:55 |
 
-Snapshot ID: `MTY3ODQ2MjA5MiwwMDAwMDAwMDBiNjg4NTVjODMzNmEzN2M0ZWZkOTE4NmQ5YzZjMGJi`
+Snapshot ID: `MTY3ODQ2MjA5MiwwMDAwMDAwMDg2YjRhMDY2NGRjZGY2Zjc4YjhmYzc3OTg5M2EyNjBh`

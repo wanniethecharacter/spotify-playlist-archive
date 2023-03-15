@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,051,132 likes - 300 songs - 17 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,051,221 likes - 300 songs - 17 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 299 | [Only Girl In The World \- Radio 1 Live Lounge Acoustic Version](https://open.spotify.com/track/6mz7nudr70riksmajdpGMS) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Acoustic Covers](https://open.spotify.com/album/5clX8eIQwBUCIuueIUU5XP) | 4:07 |
 | 300 | [Call On Me \- Acoustic Version](https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Call On Me \(Acoustic Version\)](https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2) | 2:28 |
 
-Snapshot ID: `MTY0MTgxNDA2NCwwMDAwMDAwMDAzNWRjNGFmZWVkNWI0MDBjNzg5OWFmMGY3N2ZiMTk0`
+Snapshot ID: `MTY0MTgxNDA2NCwwMDAwMDAwMGRhNGM3OTFmZjRkNmU4M2I4MDM3ZjkzYjdkOTY3N2My`

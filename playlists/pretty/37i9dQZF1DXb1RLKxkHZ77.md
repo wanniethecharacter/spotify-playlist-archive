@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Dalia Farhana
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,428 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,598 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Januari](https://open.spotify.com/track/2STWrmj6fWevrLzubKCWoS) | [The Bakuucakar](https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs), [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Januari](https://open.spotify.com/album/3EOiB4qF1bb5QVms99Szpc) | 4:42 |
 | 50 | [Jujurlah](https://open.spotify.com/track/7lIeRxGVub1d6DV17yZGXB) | [Andi Bernadee](https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9), [Zizi Kirana](https://open.spotify.com/artist/3HgrsNDURBPYS1KlN7LgnE) | [Jujurlah](https://open.spotify.com/album/4wRn6GpKhGNAQ9FABQ4TdO) | 2:58 |
 
-Snapshot ID: `MTY3ODM3NzYwMCwwMDAwMDAwMDc3ODUyNGM3NTQxZmY5NTFkOTExZWQ3MzExZTNlZDRm`
+Snapshot ID: `MTY3ODM3NzYwMCwwMDAwMDAwMGQ5ZWM2ZGRjMjE2YjMwOGNiNTkzY2Y0NjdjMGQ1ZGFm`

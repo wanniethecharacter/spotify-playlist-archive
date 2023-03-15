@@ -2621,6 +2621,24 @@
     },
     {
       "album": {
+        "name": "We Dream",
+        "url": "https://open.spotify.com/album/1plBdA7VPmgpmi6kPZhdbu"
+      },
+      "artists": [
+        {
+          "name": "Air Balloon Road",
+          "url": "https://open.spotify.com/artist/7Mvq4bstt4JZKZo03zqrg8"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162058,
+      "name": "We Dream",
+      "url": "https://open.spotify.com/track/3npnieFhPJITVCDNMCOKgG"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/1ScFHV7vGlCdruwg6vUUKs"
       },
@@ -2776,7 +2794,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 189374,
       "name": "\u661f\u661f\u4e4b\u706b\u53ef\u4ee5\u71ce\u539f - Where there is life, there is hope",
       "url": "https://open.spotify.com/track/6gfL880RuRTk3toqkVxjGO"

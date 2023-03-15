@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,551 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,554 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 40 | [Love Me Better](https://open.spotify.com/track/5gs8HdtvlvLyVKCWQQ4mbl) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Love Me Better](https://open.spotify.com/album/39b0O5JheGmKYPV9K8z785) | 2:55 |
 | 41 | [Here We Go \(Hey Boy, Hey Girl\)](https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Here We Go \(Hey Boy, Hey Girl\)](https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd) | 2:38 |
 | 42 | [Destiny](https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Alexander Tidebrink](https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC) | [Destiny](https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq) | 4:13 |
-| 43 | [My Way \- Marcus Santoro Remix](https://open.spotify.com/track/4j5oym5wl44NwTOVT9ERhS) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Alice Berg](https://open.spotify.com/artist/0YdFvpH7MvXv5vBsfGvt7g), [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz) | [My Way \(ft\. Alice Berg\) \[Marcus Santoro Remix\]](https://open.spotify.com/album/31XA52KgaFv2wVYHoQ2UMx) | 3:01 |
-| 44 | [Techtronic](https://open.spotify.com/track/756vcXfBaXXBV68aT7OVSh) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Techtronic](https://open.spotify.com/album/1wnat2fR8nky0aO4pNnkWm) | 3:44 |
+| 43 | [Techtronic](https://open.spotify.com/track/756vcXfBaXXBV68aT7OVSh) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Techtronic](https://open.spotify.com/album/1wnat2fR8nky0aO4pNnkWm) | 3:44 |
+| 44 | [My Way \- Marcus Santoro Remix](https://open.spotify.com/track/4j5oym5wl44NwTOVT9ERhS) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Alice Berg](https://open.spotify.com/artist/0YdFvpH7MvXv5vBsfGvt7g), [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz) | [My Way \(ft\. Alice Berg\) \[Marcus Santoro Remix\]](https://open.spotify.com/album/31XA52KgaFv2wVYHoQ2UMx) | 3:01 |
 | 45 | [Iron](https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:39 |
 | 46 | [You Don't Know](https://open.spotify.com/track/4sXrwNmYfg5x5CCfKpxYiO) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [You Don't Know](https://open.spotify.com/album/2U506HHxpTv7cpl4v7zUpN) | 3:15 |
 | 47 | [Distance](https://open.spotify.com/track/15czHLdg2X2XbtSNxXIo09) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Distance](https://open.spotify.com/album/3OOvbFMJScD4X9ROgtLFZw) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 49 | [You Used To](https://open.spotify.com/track/0NMhB5jf4SJhzqnx6pBHNh) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [You Used To](https://open.spotify.com/album/7vYgMBgseLvWJUa1TCyKO9) | 2:54 |
 | 50 | [Be Somebody](https://open.spotify.com/track/2xsx8DRlmbGJlxY4msANSB) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Neon Future III](https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL) | 3:18 |
 
-Snapshot ID: `Mjc5Nzg1MjMsMDAwMDAwMDAyNWZkNGY2NzkxMDU3YTE2YmQ4ZDc4MTc0MTNjOGUyZg==`
+Snapshot ID: `Mjc5ODAyNzMsMDAwMDAwMDA3Y2Q1YmU2NzgyZTBjYWQ5MzI0NmM1ZTA3ZDBhODVlYg==`

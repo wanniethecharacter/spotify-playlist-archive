@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,703 likes - 70 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,754 likes - 70 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 69 | [Hey Papi \- Edit](https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Hey Papi](https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o) | 2:38 |
 | 70 | [Hollow](https://open.spotify.com/track/1nqu8ryQ6ma9vYFz64u68T) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Shallou](https://open.spotify.com/artist/4ODUoD2ZM3FxLbkfpz00NH) | [Hollow](https://open.spotify.com/album/4cTi8pyizriynPUYa0qRkD) | 4:14 |
 
-Snapshot ID: `MTY3ODM2OTA3NiwwMDAwMDAwMDAxMDYyMzE1MDg1YjVjNzRmNTQ5MjdmZmYwOWEyNDA0`
+Snapshot ID: `MTY3ODM2OTA3NiwwMDAwMDAwMDBhNDBhNWQ5OGQ0ZWEwNmI1MjM1MWUyOTg3YWUzOTVh`

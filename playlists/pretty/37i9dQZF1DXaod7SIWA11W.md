@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Foggieraw, artwork by Ian Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,997 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,453 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 79 | [You Called Me Out](https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Aware](https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9) | 2:45 |
 | 80 | [Jersey](https://open.spotify.com/track/2my5Krx5X2FTrLsaYKBuJR) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Jersey](https://open.spotify.com/album/3pAaQGDsxRpoGlxhuVH7Yp) | 2:50 |
 
-Snapshot ID: `MTY3NzI4MTM2MCwwMDAwMDAwMDMxNWUxMWYyMzBjMjI0NzFhZDdhODRjMWMyZmUwMzg5`
+Snapshot ID: `MTY3NzI4MTM2MCwwMDAwMDAwMGM2ZDk1ZTBiYzE5NDMzNzQ2MGQ1OWY4ZDBlZGVlNzVl`

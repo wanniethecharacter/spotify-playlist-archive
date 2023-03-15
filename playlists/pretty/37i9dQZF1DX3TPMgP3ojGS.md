@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,605 likes - 100 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,834 likes - 100 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 99 | [A Simpler Time](https://open.spotify.com/track/5Xg2TWsPN5JK4k0FcgOwYJ) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [A Simpler Time](https://open.spotify.com/album/78IAmz0VkRMvJWs4XS0Gx4) | 2:27 |
 | 100 | [Pour dessiner des fleur](https://open.spotify.com/track/45tnZArwDyo4hM7Zjguqb9) | [Maël Alexandrienne](https://open.spotify.com/artist/5VQ1hti6Wtt95mSCrighiu) | [Pour dessiner des fleur](https://open.spotify.com/album/4jMqEaGWYUeMEAAus1t62g) | 2:24 |
 
-Snapshot ID: `MTY3ODIwMTIwMCwwMDAwMDAwMGRlMzVkNjI2NzlmOTc4Y2QzMmYwNzI2NTA4YTcxZDY0`
+Snapshot ID: `MTY3ODIwMTIwMCwwMDAwMDAwMDI2MTkzNDU2ZWZiYzhhZjkwNmFiZTc2NDkzYzJjOTBj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Sleaford Mods
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,201 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,275 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [WHITE FLAG](https://open.spotify.com/track/76RnmXcVhLlQQaxL3NfLIe) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [WHITE FLAG](https://open.spotify.com/album/5Yhf2Pv1wQyaeGjV2MzAp2) | 2:26 |
 | 125 | [happy](https://open.spotify.com/track/0WU4mmKKbJBlokqfwUvGHv) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [happy](https://open.spotify.com/album/67VkemWQ4FP4HjMEXXzue9) | 2:34 |
 
-Snapshot ID: `MTY3ODQwNjQwMCwwMDAwMDAwMDRjYTQ2ZDNiODRmNmQwN2Y3Mzg1ZDhjNmU0ZTRiNzEx`
+Snapshot ID: `MTY3ODQwNjQwMCwwMDAwMDAwMGVmYTU5MGEyYjhhNjU2OTJkNTEwOGZiOTk5ZjAyODNi`

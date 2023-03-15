@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: Run Baby Run\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,577 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,580 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 79 | [ยังไม่ถึงเวลา](https://open.spotify.com/track/67C2acgba4tO6GcrFM56R3) | [Mind Wanders](https://open.spotify.com/artist/2caCqkp7F61EI7Fsjztlt6) | [Made In Pain](https://open.spotify.com/album/0hE8dp0XHnH2j1glkaq12x) | 3:46 |
 | 80 | [Sugar](https://open.spotify.com/track/2KmI7WNZSwdCvED5YQGFOP) | [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X) | [Sugar](https://open.spotify.com/album/55TxK1Pst6fFWplVbRKuTQ) | 3:21 |
 
-Snapshot ID: `MTY3ODQ0NDEwNCwwMDAwMDAwMGJmOTk5MGZkNTM3MmE3OTQ2OTFmZjFmZmFhYWEzNDkw`
+Snapshot ID: `MTY3ODQ0NDEwNCwwMDAwMDAwMDFiNmQxOWM5ZGQ1NTdlZmUyYTFhNmNjZjQzNGVlZDA0`

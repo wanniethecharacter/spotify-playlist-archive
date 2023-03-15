@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7mNH0ss71X.md) - [plain]
 
 > U.K\. rising star <a href="spotify:artist:6DnQYUjtYusK9QJts9HqSC">Skepsis</a><br/> delivers a mix filled with gritty basslines and fist\-pumping tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091 likes - 39 songs - 59 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,096 likes - 39 songs - 59 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7mNH0ss71X.md) - [plain]
 | 14 | [You & I \- Notion Remix \- Mixed](https://open.spotify.com/track/5a9iQBYTllSbYkhTmHjnVp) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [You & I \- Notion Remix \(Mixed\)](https://open.spotify.com/album/0VPAYD6ETE5Dr9aAlP7Wf6) | 1:28 |
 | 15 | [Banzai \- Mixed](https://open.spotify.com/track/4tUbQZYsrh5dsZjVmOogdE) | [Eloquin](https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1), [HODA](https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx) | [Banzai \(Mixed\)](https://open.spotify.com/album/5dghbmhBQ6IAaqh5pzN93Q) | 1:14 |
 | 16 | [Lighter \(feat\. KSI\) \- Shapes Remix \- Mixed](https://open.spotify.com/track/34fUxyPvrztsL1juIDipDI) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw) | [Lighter \(feat\. KSI\) \- Shapes Remix \[Mixed\]](https://open.spotify.com/album/3iSgQXz5pIZ04pW9cSsstA) | 3:02 |
-| 17 | [Point \- Mixed](https://open.spotify.com/track/5beBbkRTZOnyvBuEoLPVI5) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Point \(Mixed\)](https://open.spotify.com/album/66cAQS8NL49Z8SOHHLs0G6) | 1:06 |
+| 17 | [Point \- Mixed](https://open.spotify.com/track/1xucXmi3Sie43p3nZ4F4Hz) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Point \(Mixed\)](https://open.spotify.com/album/1ZZHtX5ztamqoYwxqAnVNh) | 1:06 |
 | 18 | [Secure the Bag \- Mixed](https://open.spotify.com/track/69KrRNUxQPGEdQLaXGPS4h) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Secure the Bag \(Mixed\)](https://open.spotify.com/album/0UJyXHtE58lbDIAmFGTWRq) | 1:28 |
 | 19 | [M.O.D \- Mixed](https://open.spotify.com/track/22e2rfxrHhbkICOKVaMO9G) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [M.O.D \(Mixed\)](https://open.spotify.com/album/7xOKbHe4efJPsykIuZwoJB) | 2:27 |
 | 20 | [Feel So Free \- Mixed](https://open.spotify.com/track/7A5dPJZIQij9sfoBkWAo08) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Feel So Free \(Mixed\)](https://open.spotify.com/album/09Z0c5SDiN5atH1VrphNRN) | 1:15 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7mNH0ss71X.md) - [plain]
 | 38 | [Set Me Free \- Mixed](https://open.spotify.com/track/4V4iEwKwTxF8GNhRTuBVyX) | [Bellecour](https://open.spotify.com/artist/1PiNBMw3iIaG021gWeidUY), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Set Me Free \(Mixed\)](https://open.spotify.com/album/6JUlt3xXqRjEjE2EikuYth) | 1:28 |
 | 39 | [Again \- Mixed](https://open.spotify.com/track/1LrL4N1Gfy5PzVmv8z90Yv) | [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Again \(Mixed\)](https://open.spotify.com/album/5AG8FGk0kfE0EHF3re7Eb2) | 2:16 |
 
-Snapshot ID: `MTY2NDgwODY2NSwwMDAwMDAwMGZiMjcyYTk3YzA5ZjZjZGE2ODI1NWY3ODUxNGNmZjgy`
+Snapshot ID: `MTY2NDgwODY2NSwwMDAwMDAwMDE1ZjFhYThiNDhmN2MzZDAyZWQwYTY1ZWNkZTcyYzdm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Los Ángeles Azules, Cazzu, Santa Fe Klan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,059 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,103 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Alucinado](https://open.spotify.com/track/5E5BDQdq5uYYnY95hlqjs5) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Alucinado](https://open.spotify.com/album/6YXKj7WGFu6asG1yLHgzWD) | 3:53 |
 | 50 | [Perfecta](https://open.spotify.com/track/6ENJrMm3Kxj6pZKGGB3DLI) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg), [Lauri](https://open.spotify.com/artist/5DkMnet9UIBiZY5TlAPsKo) | [Perfecta](https://open.spotify.com/album/4t1mtvtgdEtwlfen0Ks7yp) | 3:23 |
 
-Snapshot ID: `MTY3ODQyODAwMCwwMDAwMDAwMGRhZTM5ZWNiN2U4NjgxY2NlNzM3N2Y2NmY2OWNlNjFi`
+Snapshot ID: `MTY3ODQyODAwMCwwMDAwMDAwMDEyYmI2NDZlZDM2ZWZiZjIzY2EzNWFmYzUyOWI5ZmUz`

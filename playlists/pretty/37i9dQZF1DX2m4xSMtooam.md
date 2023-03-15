@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,670 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,899 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 99 | [Palpite Infeliz](https://open.spotify.com/track/486J4oQ3rAPbvzlZ5ceSZQ) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto: A Night of Music](https://open.spotify.com/album/0p1JYHX01uvOBF02nfYpy6) | 3:53 |
 | 100 | [Só Tinha de Ser Com Você](https://open.spotify.com/track/1U2yKTVqJASLKLSCzrwxi7) | [Quarteto Jobim\-Morelenbaum](https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL) | [Quarteto Jobim Morelenbaum](https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY) | 3:53 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDI0YmVhNmIwZmMxZGE4NjhjOTY3ZDgzYmM2NWRmMTAy`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDJmNThiMDdiZTAzMDE5NDFjZmVlZmY3NTkxMTk1ZjJk`

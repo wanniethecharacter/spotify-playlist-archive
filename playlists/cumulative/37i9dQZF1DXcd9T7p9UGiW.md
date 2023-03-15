@@ -4,7 +4,7 @@
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl?si=BviskDqxQW\-iSertWWgiVA"> Kuami Eugene</a>  and  <a href="https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf?si=mhjY\-We8Rhe89DSFpam0KA"> Rotimi</a>
 
-302 songs - 16 hr 28 min
+303 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,8 @@
 | [SPETA](https://open.spotify.com/track/7f9YEwrmfVGHkmZP72Py9l) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [SPETA](https://open.spotify.com/album/2HOXUFzQ5fEtnCuYlJyzUL) | 2:52 | 2022-07-14 | 2022-10-14 |
 | [Spirit \(feat\. Wale\)](https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Spirit \(feat\. Wale\)](https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv) | 4:13 | 2021-10-08 | 2022-08-06 |
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-03-03 | 2022-03-25 |
-| [Stir It Up](https://open.spotify.com/track/5A6mHdKHowaitCRTSEHriS) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Stir It Up](https://open.spotify.com/album/6MNUKupGTXg7Znmqx0BGB0) | 3:41 | 2023-01-19 |  |
+| [Stir It Up](https://open.spotify.com/track/5A6mHdKHowaitCRTSEHriS) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Stir It Up](https://open.spotify.com/album/6MNUKupGTXg7Znmqx0BGB0) | 3:41 | 2023-01-19 | 2023-03-15 |
+| [Stir It Up \(Feat\. Sarkodie\)](https://open.spotify.com/track/1NM9OsPbiAuxw8slkPB5QO) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Stir It Up](https://open.spotify.com/album/28XO1MdjPr59qd5qrHd2oW) | 3:41 | 2023-03-10 |  |
 | [Sugar](https://open.spotify.com/track/6cCwQS0nqtrMLkpkp6MPvo) | [Bbanner](https://open.spotify.com/artist/1LpLNp9LL2xCWOBPbxbQcG), [Daev Zambia](https://open.spotify.com/artist/4WzzjGo80jU0oO6mPMrJZW) | [Sugar](https://open.spotify.com/album/4mirrfYpCpG8UeXFskfWal) | 2:44 | 2022-05-26 | 2022-07-01 |
 | [Sugarcane \- Latin Remix](https://open.spotify.com/track/5ArzZq6UEHyTBOraJVdL1N) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Green Cookie](https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV) | [Sugarcane \(Latin Remix\)](https://open.spotify.com/album/1hYhofVEnifqrcjvaFs366) | 4:18 | 2022-12-18 | 2023-02-11 |
 | [Sugarcane \- Latin Remix](https://open.spotify.com/track/6e70q5Yht4GCZeB6VtXxO2) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Green Cookie](https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV) | [Sugarcane \(Latin Remix\)](https://open.spotify.com/album/0bgv84IDiggOHkjuQCsovu) | 4:18 | 2022-09-02 | 2022-12-25 |

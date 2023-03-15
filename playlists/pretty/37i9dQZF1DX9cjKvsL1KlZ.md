@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,923 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,098 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 38 | [Banking wit Wick](https://open.spotify.com/track/3O5m49D89tFhCjqwAmZIKY) | [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [Wick City \(Deluxe\)](https://open.spotify.com/album/45BG0z0qrfFvGtGpOToXWc) | 1:15 |
 | 39 | [Get Back](https://open.spotify.com/track/3DWjFSDEQ9IWz1mj449fB7) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 1:48 |
 | 40 | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [Bory300](https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH) | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z) | 1:58 |
-| 41 | [RAGGY](https://open.spotify.com/track/1TtYyYobKND0zPwnkdcT8k) | [SpliffHappy](https://open.spotify.com/artist/5K8DPehdUSrqBsICbIxDOR) | [RAGGY](https://open.spotify.com/album/6V2We19WivZ1hfgBiRfGo9) | 1:10 |
+| 41 | [RAGGY](https://open.spotify.com/track/5nGRcZN7vHvxjDbJqpZNwa) | [SpliffHappy](https://open.spotify.com/artist/5K8DPehdUSrqBsICbIxDOR) | [RAGGY](https://open.spotify.com/album/5x81IyLCJluBs31Tj48BJM) | 1:10 |
 | 42 | [PICASSO](https://open.spotify.com/track/1XNftuHylWlfWbPx9MVS2a) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg) | [Just 4 Yall](https://open.spotify.com/album/4X8Ups0dQHxxnEdE4KP6FJ) | 3:32 |
 | 43 | [Princess Diana](https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:34 |
 | 44 | [Pray 4 Me](https://open.spotify.com/track/1wDAnC2XbwoDwbOpowab5H) | [Kenzo Balla](https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp) | [Pray 4 Me](https://open.spotify.com/album/0mipBFGRTFVyKeCupIXgly) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [2nd Intro](https://open.spotify.com/track/7tYu8dbXS8Ma6hUtszmd1s) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 1:56 |
 | 50 | [Merci Beaucoup](https://open.spotify.com/track/6mPZVis3gEGSSR2rhxlehT) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:55 |
 
-Snapshot ID: `MTY3NzY0NjgwMCwwMDAwMDAwMDQ3ZWJiNzk3ZjIzMjBiMzYyMzI0MDUxNTA2YTMzYTcx`
+Snapshot ID: `MTY3NzY0NjgwMCwwMDAwMDAwMDNiYzA4OWY4NjZlODg0NDA3NDA0Y2QyMTAyOTJhNjhl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 
 > Immerse yourself in the brilliant sounds of Latin composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,078 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,084 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 | 99 | [Graciela y Buenos Aires](https://open.spotify.com/track/5ZaNOCU2RnxSDAQxKq0EcM) | [Camerata Bariloche](https://open.spotify.com/artist/3vWOBUq3oL2UyI0FlKYDic) | [Piazzolla, A.: Suite Punta Del Este / Bragato, J.: Graciela Y Buenos Aires / Arizaga, R.: Passacaglia](https://open.spotify.com/album/2SYFKY89B2ORnmQXK6VuUf) | 8:11 |
 | 100 | [Cantata criolla, "Florentino, el que canto con el Diablo": I\. Lento e cadencioso](https://open.spotify.com/track/22wp4bP3NliRBNdNCDA92i) | [Antonio Estévez](https://open.spotify.com/artist/2WItKc8adQBeagkIY0R8Fp), [Idwer Alvarez](https://open.spotify.com/artist/36EKlwSDvCTgfV8r6NcSOA), [William Alvarado](https://open.spotify.com/artist/5nB8QH0RHL85yCnL2mDuVb), [Schola Cantorum de Caracas](https://open.spotify.com/artist/67NcemAHpdCcl63ofYxDuR), [Orfeon Universitario Simon Bolivar](https://open.spotify.com/artist/6J4Hvq2XefsXe8qBBzwG4Q), [Simón Bolívar Symphony Orchestra Of Venezuela](https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu), [Eduardo Mata](https://open.spotify.com/artist/7i9jFBWRCyfitbli34TKlt) | [Estevez, A.: Cantata Criolla, "Florentino, El Que Canto Con El Diablo" / Villa\-Lobos, H.: Choros No\. 10, "Rasga O Coracao"](https://open.spotify.com/album/2EyesIZfDzJwVLRh6861l3) | 17:27 |
 
-Snapshot ID: `MTY3NzIwMDQ3NywwMDAwMDAwMDQzZDE1OGNlOWRmZGM2NWM2M2JlNjJiYTQwZWEwYWNj`
+Snapshot ID: `MTY3NzIwMDQ3NywwMDAwMDAwMGI1ZTZiYWVhZjdiN2ZkMjA0OTg2MjljZWNmMzUzYjY5`

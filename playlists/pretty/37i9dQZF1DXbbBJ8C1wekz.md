@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,109 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,228 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [Lui Lui](https://open.spotify.com/track/3CPror2JNhqGuS8AjaAoKu) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Diretoria](https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO) | 4:41 |
 | 60 | [Clima Diferente](https://open.spotify.com/track/1COJdoqBNXXwEOkrO55517) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Clima Diferente](https://open.spotify.com/album/6U49HmBuI0HTotwONu75ig) | 3:30 |
 
-Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMGI5NjkyYjc1NDA4MjUyZGI3MTA2NmE0ZmM1NDk3OWIy`
+Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMGE0ZTc1YzA1YmMxN2VlMjVlN2YzODAyNjdmZDhlZTc1`

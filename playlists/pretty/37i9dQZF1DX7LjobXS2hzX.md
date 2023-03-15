@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: Rema, Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,732 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,831 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 74 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 |
 | 75 | [Afterglow \- Version française](https://open.spotify.com/track/5FCjSDlpPTvWi3FrYtvqjn) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [Afterglow \(Version française\)](https://open.spotify.com/album/2HbDNIo7FgrRx9udYU1637) | 3:27 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDI1ZGNjNTM4NWQxODE5YjhlYWJhYmJmZjcyNGU1Mjcw`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDczNWM3MGRhYzBhYzJkZTllNDNkZGViOWQ2MTZhYzEx`

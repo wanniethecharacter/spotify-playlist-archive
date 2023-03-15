@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,439 likes - 216 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,543 likes - 216 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 215 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
 | 216 | [Grateful Minds](https://open.spotify.com/track/1nwYsdWElwCywLZiY3J1g9) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [The Enlightened](https://open.spotify.com/album/5urCmlMjwzQzpi0ER6sTNE) | 2:47 |
 
-Snapshot ID: `MTY3Nzg2NjI4OSwwMDAwMDAwMDgxNGNlOThlYzc0MThhM2Q2Y2Q5YjVkOTQxY2Q5MjYx`
+Snapshot ID: `MTY3Nzg2NjI4OSwwMDAwMDAwMGI0MjY3NjIzNDU5MDZmMWRjMDdhM2IwNzE1NTYzOGZk`

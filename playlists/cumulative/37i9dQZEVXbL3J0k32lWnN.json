@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "16",
+        "url": "https://open.spotify.com/album/2ZkuQPH67wewBcOwlg04Jk"
+      },
+      "artists": [
+        {
+          "name": "Larry",
+          "url": "https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188643,
+      "name": "16",
+      "url": "https://open.spotify.com/track/4z9bSBXNxEgk0nEKIvu2L9"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -876,7 +894,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -3528,7 +3546,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 168849,
       "name": "Danser Med Piger",
       "url": "https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU"
@@ -5904,7 +5922,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 159012,
       "name": "Flytter Bjerge (feat. Branco)",
       "url": "https://open.spotify.com/track/1Xer1Y9qrReXcVk2qmsYOP"

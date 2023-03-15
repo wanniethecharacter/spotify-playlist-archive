@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Le rap francophone est en forme\. Photo: Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,441 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,455 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 49 | [Mapessa \(feat\. Tiakola\)](https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 2:48 |
 | 50 | [Double vision](https://open.spotify.com/track/5b8ejMaA6qpep9IdAS2EKe) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Double vision](https://open.spotify.com/album/2gSKjDu2BgrXnrcKryoz1o) | 2:48 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMGRkOTQ4NWM0M2NmYTJjNzJhZmVkM2M4MDk0ZDk0NDA5`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDg3ZjNlNzA0OGYyNWNmNDM2ZmQxOTdmOGNiYzJmZDFh`

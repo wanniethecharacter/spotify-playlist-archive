@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,925 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,202 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [Hanging onto Every Word That You Say](https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw) | [Michael Hughes Watson](https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ) | [Wait](https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2) | 4:49 |
 | 100 | [Wrote Us a Story \- To the Sea Remix](https://open.spotify.com/track/4EWR9HYaJ3woD0dILCyFSk) | [Jenny & Tyler](https://open.spotify.com/artist/18FojbNFtWY8HKOMVSA2K4) | [Wrote Us a Story \(To the Sea Remix\)](https://open.spotify.com/album/1uHEElCMla96AuvFhcCZAD) | 3:25 |
 
-Snapshot ID: `MTU5ODg4NzE1OSwwMDAwMDAwMGNlM2MwZjI1ODI4ZWVkMjA0YjZiNmZkNzMxZGE2MzJk`
+Snapshot ID: `MTU5ODg4NzE1OSwwMDAwMDAwMDA5MmJkODYwZmNjZTljY2MwNjc1ZjY2MjMyNTUxNjIx`

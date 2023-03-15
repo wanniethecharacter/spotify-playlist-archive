@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg?si=6odau6YDS9Sxgdo\-Vrpgsw"> Lindsey Abudei</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,000 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,998 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Eyes Don't See](https://open.spotify.com/track/4avUDzXj79BrSOSRg3V0KA) | [Nyamekye Junction](https://open.spotify.com/artist/5PJMSOd80lQy16KzHyNfTi) | [Eyes Don't See](https://open.spotify.com/album/2YfwitkJ23gFSfbQJEh0XZ) | 5:47 |
 | 50 | [Need Dat](https://open.spotify.com/track/3d1KKlKDfqwYM705PKofVT) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [The Temple](https://open.spotify.com/artist/43wpwuYZQPrBGJumqynErd) | [Need Dat](https://open.spotify.com/album/2GoGI2RczwuSAG2iu9WGjR) | 3:18 |
 
-Snapshot ID: `MTY3ODQwODQzNywwMDAwMDAwMDVlMzJkMDFjNDMxOGU3YTkxMGY1ZmViZGQzN2UyYWU4`
+Snapshot ID: `MTY3ODQwODQzNywwMDAwMDAwMDNjODI3Nzg1OTY1YWE4ODZmMGEwMjE4N2M5MWQ2ZDc3`

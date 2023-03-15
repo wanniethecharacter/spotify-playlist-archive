@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Mo Lowda & the Humble
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,641 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,691 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Blood Stains](https://open.spotify.com/track/2eZNvEnzMoXQI3QzUcbyrR) | [Indigo](https://open.spotify.com/artist/6iPag3KNgZKw56EnjCzcv4) | [Yeah, Well](https://open.spotify.com/album/2NYZTI46231PmelvXzVSvh) | 2:14 |
 | 100 | [Song About Love](https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Song About Love](https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq) | 3:42 |
 
-Snapshot ID: `MTY3ODQ4MTc3NywwMDAwMDAwMDgzMjg0MjQzZGUwNjg3M2U4NGU2MWRkMzU0YjBhYTc1`
+Snapshot ID: `MTY3ODQ4MTc3NywwMDAwMDAwMDRjNjkyZTk2OGMyYmI3MGYwYzcyM2FjYTcwZTYwZTQ2`

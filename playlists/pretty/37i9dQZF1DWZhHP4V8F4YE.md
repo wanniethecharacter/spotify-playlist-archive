@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > Viral hits in Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,797 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,812 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Prada](https://open.spotify.com/track/5rvKVqbRonRp7shf0VvnRy) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Khuli Chana](https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc) | [MASS COUNTRY](https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5) | 2:55 |
 | 50 | [Push Up \- Original Mix](https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up EP](https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b) | 4:00 |
 
-Snapshot ID: `MTY3ODIxNjU2MSwwMDAwMDAwMDcxNmE1OTBiMDZjZGM5NjM0Y2MwZGQ4ZjYyYzI1MWFm`
+Snapshot ID: `MTY3ODIxNjU2MSwwMDAwMDAwMGM4ODY2NmRkOWUyYmY4ZGVmYWJkNjMxNWQ0M2UxMTc5`

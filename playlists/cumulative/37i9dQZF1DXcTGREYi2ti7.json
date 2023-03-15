@@ -438,10 +438,28 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 77000,
       "name": "MAKE A MOVE - Mixed",
       "url": "https://open.spotify.com/track/5ToSouzcuCulGlcsPGXzsI"
+    },
+    {
+      "album": {
+        "name": "MAKE A MOVE (Mixed)",
+        "url": "https://open.spotify.com/album/1I30h0jqAhZXj16WEA0KIQ"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77000,
+      "name": "MAKE A MOVE - Mixed",
+      "url": "https://open.spotify.com/track/5f44zAJIlH3N4yNufaQslG"
     },
     {
       "album": {

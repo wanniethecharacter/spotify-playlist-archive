@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,783 likes - 200 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,875 likes - 200 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 199 | [Unite](https://open.spotify.com/track/4gOWmUEtOo9UV8xpHbesPG) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Timeless Vibes Riddim](https://open.spotify.com/album/2MJByyoPguLBvO7ENnNIfv) | 3:34 |
 | 200 | [Str3a](https://open.spotify.com/track/4Ytdb0MtQht8jcSnL4B0d5) | [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt), [Karly y Yoe](https://open.spotify.com/artist/0GlPYUZb10uKc0iGiLroKC) | [Str3a](https://open.spotify.com/album/7Az1coTjRbCnCB2ElqhImw) | 3:15 |
 
-Snapshot ID: `MTY3ODMxMjMwMiwwMDAwMDAwMDc4ZmIxZWViZmM5N2E3YjBjZWJkNjAyNWY3MDY2ZTFi`
+Snapshot ID: `MTY3ODMxMjMwMiwwMDAwMDAwMGZmOGZmOTBhNDZlNDAxY2NmNjUwNDkxYjI0NGE1ZmUz`

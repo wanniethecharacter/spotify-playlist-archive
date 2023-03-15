@@ -4,7 +4,7 @@
 
 > dig through the record bin.
 
-187 songs - 12 hr 21 min
+188 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Song for the Dumped](https://open.spotify.com/track/3u13MyusqSsMVegpADUHHP) | [Ben Folds Five](https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk) | [Whatever And Ever Amen \(Remastered Edition\)](https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ) | 3:51 | 2022-03-25 | 2022-04-02 |
 | [Soul And Fire](https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH) | [Sebadoh](https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6) | [Bubble & Scrape](https://open.spotify.com/album/541PK5WDS4QQL2yqT1ic6H) | 3:46 | 2022-02-25 | 2022-07-29 |
 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 | 2022-02-25 |  |
+| [Step On Me](https://open.spotify.com/track/6ZaiqbV2GfUtrUlhsu58fN) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:50 | 2023-03-14 |  |
 | [Strange](https://open.spotify.com/track/0ETvqJscQ6HSCNGbAYZDb3) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [On Fire \(Deluxe Edition\)](https://open.spotify.com/album/1yTW4t7s6EAFsxo99nAF6e) | 3:17 | 2022-02-25 | 2022-07-29 |
 | [Strange](https://open.spotify.com/track/2TTAPkrGQQOZkaUTUlt21Q) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [On Fire](https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M) | 3:19 | 2022-05-30 | 2023-01-15 |
 | [Stuck Between Stations](https://open.spotify.com/track/35WmbtcmxN4RhL8uKmsErL) | [The Hold Steady](https://open.spotify.com/artist/3qkZBMz5JgmRN9u5wwhRC6) | [Boys And Girls in America \(Deluxe Edition\)](https://open.spotify.com/album/57AWidQq8F413VXmCJMVuE) | 4:09 | 2022-02-25 | 2022-07-29 |
@@ -187,7 +188,7 @@
 | [We Don't Need Nobody Else](https://open.spotify.com/track/4Rj5aUufrdxpEwoRHc50TM) | [Whipping Boy](https://open.spotify.com/artist/3oadMDBL4Wv7F5lkVwRWy2) | [Heartworm](https://open.spotify.com/album/3vOq1lCyVUrnbqXK2ZYhRJ) | 4:16 | 2022-03-25 | 2022-07-19 |
 | [We Used To Be Friends](https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx) | 3:19 | 2022-02-25 |  |
 | [What Do You Want Me to Say?](https://open.spotify.com/track/2RWQocwO9CRJL617lTZ5fi) | [Dismemberment Plan](https://open.spotify.com/artist/2JpHk8yju1DH1l3c9sXzOS) | [Emergency & I](https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO) | 4:18 | 2022-02-25 | 2022-07-29 |
-| [What’s The Frequency, Kenneth? \- Remastered](https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(Remastered\)](https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT) | 4:00 | 2022-02-25 |  |
+| [What’s The Frequency, Kenneth? \- Remastered](https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(Remastered\)](https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT) | 4:00 | 2022-02-25 | 2023-03-15 |
 | [When You Sleep](https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:11 | 2022-02-25 |  |
 | [Where It's At](https://open.spotify.com/track/3Pdjem5pj41gilOgXqkNtL) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay \(Deluxe Edition\)](https://open.spotify.com/album/64vPyY759lLETSt8rvc7Sf) | 5:30 | 2022-02-25 |  |
 | [Whippin' Piccadilly](https://open.spotify.com/track/6JKK5s5eMws7yoXpPIqKwq) | [Gomez](https://open.spotify.com/artist/4zPGlyitRvJo7iz6OKlETa) | [Bring It On](https://open.spotify.com/album/3TfA5qAwyI3iy3YbRc28qL) | 3:12 | 2022-02-25 | 2022-07-27 |

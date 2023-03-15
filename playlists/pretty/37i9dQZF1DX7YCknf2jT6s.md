@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Nubya Garcia \(London Brew\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,709 likes - 100 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,840 likes - 100 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Oakland](https://open.spotify.com/track/12JtmOiSDB5YrXKWbGf7Ir) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Right Now Move \(2022 Remaster\)](https://open.spotify.com/album/5hQYuQG9mExprIdDSAjOkF) | 5:38 |
 | 100 | [6XYXS.MMBL](https://open.spotify.com/track/63HQkWDoiTXULnVVYjvM0v) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [645AR](https://open.spotify.com/artist/3Iv3mOsjFV8vZkXphpQ8hz), [Damon the Soulful Samurai](https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp), [Nicholas Frank](https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH), [Zach Connolly](https://open.spotify.com/artist/3YZtQ3UMdy3J93vmfZcrFO) | [6XYXS.MMBL](https://open.spotify.com/album/1b971jtm2GNY9xI1SLZZtM) | 3:08 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDgwOWFjNDBhZGJjZjAwMGEwNjdmNjcxMmY5Y2ZjYTIy`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDllYWM2YzgzNDdhMWZjZDY2MjM1OWQzYTFkOGVmZjY1`

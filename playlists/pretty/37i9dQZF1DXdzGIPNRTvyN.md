@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,681 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,935 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 79 | [Allegro](https://open.spotify.com/track/36jgt8ZFkqy2nqiD8DGdSz) | [Valentina Barbarella](https://open.spotify.com/artist/72dJh8lvMFa3XnK7JSHoBw) | [Allegro](https://open.spotify.com/album/4eykRomPItwi8yylcsHXC9) | 2:11 |
 | 80 | [Halcyon River](https://open.spotify.com/track/54fAW6nglw7I5bjyeOcka4) | [Mairana](https://open.spotify.com/artist/6gySgP4653N5ZgbBcikirP) | [Halcyon River](https://open.spotify.com/album/0mAEvAFeCwBYKxZNd9V1lz) | 2:43 |
 
-Snapshot ID: `MTY3ODcyNTIzMSwwMDAwMDAwMGFkNDk3ZDE1ZmI3ZjcyNDA2MzQ5YTY3MjM2NDQ1NGRl`
+Snapshot ID: `MTY3ODcyNTIzMSwwMDAwMDAwMGYyNWE4YzAzNjk2Mjc0NGFiMDQ1MTU3ZTgyNjI3OTJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 
 > music to help you \~ focus \~
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,771 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,947 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 | 74 | [Surface](https://open.spotify.com/track/4GVhluLOWE1vUZTTkNAhSP) | [pinkiscool](https://open.spotify.com/artist/7ifsYRH5zL4543bRoEKkOE) | [Surface](https://open.spotify.com/album/0hCSS2Dry6j7SeJgG8woUs) | 3:08 |
 | 75 | [Love Me Right](https://open.spotify.com/track/3HwzxCloueo5NI5XLSUru4) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Begin To Look Around](https://open.spotify.com/album/4NUBd7Wpgtl44cmesmgPT9) | 4:19 |
 
-Snapshot ID: `MTY3NzgxNDIwOCwwMDAwMDAwMDQwZTExN2JjMmYyY2I3MGU3MTk2Nzc1NGYyNGU5N2Mz`
+Snapshot ID: `MTY3NzgxNDIwOCwwMDAwMDAwMGU3MDdlNTUzZThhNTk0ZWIxOTk4NDRmOTM3OWZhNDc2`

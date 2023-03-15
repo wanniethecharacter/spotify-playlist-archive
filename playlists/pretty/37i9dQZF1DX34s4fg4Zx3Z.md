@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Na Ngọc Anh; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,859 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,864 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 3 | [Sài Gòn, Ta Lạc Nhau!](https://open.spotify.com/track/7L7CjH8rJAlWo8n2YmoUi6) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [Dani D](https://open.spotify.com/artist/0I6jb4RjMkF84T2e5VsjlG) | [Sài Gòn, Ta Lạc Nhau!](https://open.spotify.com/album/1aQG71AZO1uuhnEtFsmITt) | 4:34 |
 | 4 | [Vì Sao Em Đi](https://open.spotify.com/track/1F8J0ccYNaDPznNjLKZ4Yz) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30) | [Vì Sao Em Đi](https://open.spotify.com/album/6hctpY6wF9PB6VUhPcyiTx) | 3:26 |
 | 5 | [Falling In Love](https://open.spotify.com/track/5K67uEqrHOPJ5i5kcw0QS4) | [Na Ngọc Anh](https://open.spotify.com/artist/5Es1OAhewJhFhbfejSQA7O) | [Falling In Love](https://open.spotify.com/album/7glLUH9evIkEx4LiNIypyB) | 4:38 |
-| 6 | [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/53vcJaw0rQEux8YK9EDOxE) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/25aSCmyq0GJvaSUduH72Kj) | 4:04 |
+| 6 | [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/0vkExWiBJSrfWnlMC7x48b) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/49dKGvpp3ix58fS46uVqOQ) | 4:04 |
 | 7 | [Cô Gái Này Là Của Ai? \(feat\. Rush & Nhi Nhi\)](https://open.spotify.com/track/5sIgSa5Q1GEGWF0lrCQ0N6) | [Krix](https://open.spotify.com/artist/0CFshi8xoCTnhggihTqoUL), [Nhi Nhi](https://open.spotify.com/artist/69WVr1fBDPGsMEMn3kbxZt), [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Cô Gái Này Là Của Ai? \(feat\. Rush & Nhi Nhi\)](https://open.spotify.com/album/2NGMT2aQkL96whD93DdNxo) | 2:46 |
 | 8 | [Bồng Bềnh Bồng Bềnh](https://open.spotify.com/track/0HPi6mBmKWFWB0OOhb28co) | [Nam Em](https://open.spotify.com/artist/7BbU2YunG15r8JwLTgnNyk) | [Bồng Bềnh Bồng Bềnh](https://open.spotify.com/album/48dw2PjUKYgpDS0OfUCj3y) | 3:55 |
 | 9 | [An Toàn](https://open.spotify.com/track/4HVYdhMsuFGYM85euE2Hw7) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [An Toàn](https://open.spotify.com/album/58JJrXXA83sPGLQszLqQKn) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Khẽ Buông Chút Thương](https://open.spotify.com/track/49AHMbVndzC9DYjUZ2Jj8C) | [NIT](https://open.spotify.com/artist/1MTANbmLhUqJXlLuqADGE7) | [Khẽ Buông Chút Thương](https://open.spotify.com/album/3n7Vm0IZbXcVODj6IkYasn) | 5:05 |
 | 100 | [Thật Xin Lỗi Vì Nói Thương Anh](https://open.spotify.com/track/5bVHDQzLaHSmPolTFHiJgx) | [Phan Yến Nhi](https://open.spotify.com/artist/4GFQ39C6ZEaqEsyGJggcVW) | [Thật Xin Lỗi Vì Nói Thương Anh](https://open.spotify.com/album/4OPNIuf0qD1q2XaaO7r2IB) | 4:00 |
 
-Snapshot ID: `MTY3ODM4MTIwMCwwMDAwMDAwMGNkMDRkZmQ3MWFlODBiMGQ2M2JkMDU2ZjJkODY1MDMx`
+Snapshot ID: `MTY3ODM4MTIwMCwwMDAwMDAwMDRmNjFjYTQ3ZTJhM2JlN2UzY2RmYWQyMWM5ZWFkNjE1`

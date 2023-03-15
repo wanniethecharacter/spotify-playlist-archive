@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Karina Daza\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,128 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,130 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [TE QUIERO TOO](https://open.spotify.com/track/3oRhGrqQ2B6yZeuo71bOkS) | [Andres Tagliaferro](https://open.spotify.com/artist/10r62aFR3aAv8h2XMhSoDl) | [TE QUIERO TOO](https://open.spotify.com/album/54dxLu64kvK9os72hFbp2o) | 3:10 |
 | 50 | [Rey de la India](https://open.spotify.com/track/1aFe2l0eJVyYppuKG5nplO) | [Pablo Prisma y las Pirámides](https://open.spotify.com/artist/0YFQlX7xBX1SD9nJNbw9EL), [Gúdar](https://open.spotify.com/artist/3LqgCszyAUGMwBSlVO3KKM) | [Rey de la India](https://open.spotify.com/album/1YEWYM0AMugYzZ4ZSjpbGR) | 2:09 |
 
-Snapshot ID: `MTY3ODI5ODQwMCwwMDAwMDAwMDY0MTFjNGUxYjQ4YTQ0OTUxZmNhNjU4MjVkYzNiYWE3`
+Snapshot ID: `MTY3ODI5ODQwMCwwMDAwMDAwMDc3MTFjYzk3NTUwYWUwZTA3MmI2M2M2YmY1NzE2YWE5`

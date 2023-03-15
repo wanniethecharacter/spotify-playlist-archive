@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,053 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,103 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Zozo](https://open.spotify.com/track/1Syhx5tRxvICLuxeDVwHIp) | [Les Patrons](https://open.spotify.com/artist/1nsZMNRP1vmtIat8hD4bHg), [Revolution](https://open.spotify.com/artist/0psAr2Os4y9mRbgas7mHpk) | [Tresor](https://open.spotify.com/album/70u6kE9EXGjpNdjtPiqRJ6) | 3:56 |
 | 40 | [Coupé Décalé SuperSonic](https://open.spotify.com/track/3WaX1ciQMCAuI9kAD8xpTQ) | [David Tayorault](https://open.spotify.com/artist/5fGgmiJ78nMM0AnnbdqBcO), [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Coupé Décalé SuperSonic](https://open.spotify.com/album/2zj72TEqodhRAAPb4ngQ0q) | 3:26 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDEwYWNhNWViOWIxMDYwN2MwNjYxZTFhZGY1MTgzYjZk`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDMzYTk3ZjlkZTdmZDBiZTNlNmQ4YzAxNmZhMzNhZjNl`

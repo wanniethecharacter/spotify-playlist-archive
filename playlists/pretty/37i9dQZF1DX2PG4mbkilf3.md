@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with Zenesoul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,378 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,470 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [OHWEI](https://open.spotify.com/track/7n5LQXVhfgRphYIuX6jsCw) | [Izzy Rose](https://open.spotify.com/artist/3bhjxkOnnTAKNTQU1TdC9N) | [OHWEI](https://open.spotify.com/album/2QZYJrdgvAUxgFK6Z0PIyf) | 2:49 |
 | 100 | [RN Interlude](https://open.spotify.com/track/2neaD0EL4EqsWyLCefrytF) | [July](https://open.spotify.com/artist/31gFvqSxh2pAlou6w8iOc5) | [RN Interlude](https://open.spotify.com/album/3j73yMjikMWvu49l6TuAKP) | 2:26 |
 
-Snapshot ID: `MTY3ODQyNDI3NCwwMDAwMDAwMGY5MjM4MGExZmFkZGFmMzZhMjkwYmNhZjFkNDg5MTdk`
+Snapshot ID: `MTY3ODQyNDI3NCwwMDAwMDAwMDM5NzA2MjhkZDg2NTQxNDc3ODc1ZTYxMjI2M2Q2NDMy`

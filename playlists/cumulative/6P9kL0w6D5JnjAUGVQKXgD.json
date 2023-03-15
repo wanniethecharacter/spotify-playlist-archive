@@ -566,7 +566,7 @@
       ],
       "date_added": "2020-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 152500,
       "name": "Access",
       "url": "https://open.spotify.com/track/6e2hj3iWu2pKLpjC6VroJc"
@@ -798,6 +798,28 @@
       "duration_ms": 197062,
       "name": "Aftertaste",
       "url": "https://open.spotify.com/track/6tOgB2ZGXx2A4X1qmZvACb"
+    },
+    {
+      "album": {
+        "name": "Against The Rest",
+        "url": "https://open.spotify.com/album/02R7mKRGqkNHjz2ZtcynwV"
+      },
+      "artists": [
+        {
+          "name": "Twisted Harmonies",
+          "url": "https://open.spotify.com/artist/0rCcQIjZ7TfeeXyUFBlTAY"
+        },
+        {
+          "name": "Fabian Farell",
+          "url": "https://open.spotify.com/artist/4IOhVReVZmK8yRqFgcxDvY"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165580,
+      "name": "Against The Rest",
+      "url": "https://open.spotify.com/track/6IPkf3kASYGkgeHuvxRMXO"
     },
     {
       "album": {
@@ -2756,7 +2778,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 133855,
       "name": "Better",
       "url": "https://open.spotify.com/track/0QdjuCUA97rPLFj6MBoS82"
@@ -3142,7 +3164,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 230571,
       "name": "Blame Myself",
       "url": "https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4"
@@ -3820,7 +3842,7 @@
       ],
       "date_added": "2021-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-08",
+      "date_removed": null,
       "duration_ms": 162213,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
@@ -8934,7 +8956,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 189259,
       "name": "Feeling Good - Joel Corry Remix",
       "url": "https://open.spotify.com/track/3hnm3SBxKdVT4hKUrKHo2r"
@@ -9128,6 +9150,28 @@
       "duration_ms": 235562,
       "name": "Finally Ready (feat. Billy Porter) - David Penn Remix",
       "url": "https://open.spotify.com/track/1iorKFVLmIetGK49hoOoK3"
+    },
+    {
+      "album": {
+        "name": "Find Your Way (Alle Farben Radio Edit)",
+        "url": "https://open.spotify.com/album/5c68BQGuY5hfjIjFeHbtGg"
+      },
+      "artists": [
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175164,
+      "name": "Find Your Way - Alle Farben Radio Edit",
+      "url": "https://open.spotify.com/track/0nUnsdDbN127jU3P5KtAeA"
     },
     {
       "album": {
@@ -10696,7 +10740,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
@@ -10856,7 +10900,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 209907,
       "name": "Hands",
       "url": "https://open.spotify.com/track/5enElsJ9GpqasefsrSukbu"
@@ -11712,7 +11756,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
@@ -12170,7 +12214,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 144700,
       "name": "How Do You Love",
       "url": "https://open.spotify.com/track/63GqGqWStpNXV6ucxlLbHi"
@@ -12518,7 +12562,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 198000,
       "name": "I Don't Like Anyone",
       "url": "https://open.spotify.com/track/27QYBjA3j95pihdoVyJh1R"
@@ -14938,7 +14982,7 @@
       ],
       "date_added": "2020-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2020-07-28",
+      "date_removed": null,
       "duration_ms": 228629,
       "name": "Kiss from God - mint Singles",
       "url": "https://open.spotify.com/track/3V9Ye0o7szPrtMEELrOlfg"
@@ -17800,7 +17844,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-04-06",
+      "date_removed": null,
       "duration_ms": 202222,
       "name": "Momma Always Told Me (feat. Stanaj & Yung Bae) - Matoma Remix",
       "url": "https://open.spotify.com/track/6QD2VjrjttjljqUZPf9R89"
@@ -17958,7 +18002,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 140698,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD"
@@ -18762,7 +18806,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": "2020-05-27",
+      "date_removed": null,
       "duration_ms": 158164,
       "name": "Never Know",
       "url": "https://open.spotify.com/track/1jL3wCuXRWlTrpqO0pXLzg"
@@ -18880,6 +18924,28 @@
       "duration_ms": 202158,
       "name": "Never Really Loved Me (with Dean Lewis)",
       "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
+    },
+    {
+      "album": {
+        "name": "New Dawn",
+        "url": "https://open.spotify.com/album/4NpYO6WnDmBbWNTrOVmTrt"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Sutorius",
+          "url": "https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227076,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/28nEJf4VCUQ2srQgwPNWdA"
     },
     {
       "album": {
@@ -22050,7 +22116,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 220660,
       "name": "Reborn - Kyle Walker Remix",
       "url": "https://open.spotify.com/track/1FZdJkWfW2gaiKaH6D9uHB"
@@ -22422,7 +22488,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 176250,
       "name": "Ring The Alarm - Habstrakt Remix",
       "url": "https://open.spotify.com/track/67kJ3o6PrkB9CetDTXQ1wR"
@@ -22602,7 +22668,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2020-06-01",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Roll 'n Rock",
       "url": "https://open.spotify.com/track/7p2a3eDdVHD7xlwSFstAsF"
@@ -24032,7 +24098,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 193893,
       "name": "Sick Boy",
       "url": "https://open.spotify.com/track/7jqDzXJS0K0Re8uphYNit0"
@@ -24128,7 +24194,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 251830,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/0PMNxtgeNSmPPp4aiA4T8F"
@@ -25606,7 +25672,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 292633,
       "name": "Stop Thinking (feat. Lights)",
       "url": "https://open.spotify.com/track/6bfyfZ0UV3K9Broh54iXaw"
@@ -26184,7 +26250,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 176930,
       "name": "Sweet Talker",
       "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
@@ -26238,7 +26304,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 197502,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
@@ -26666,7 +26732,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 187491,
       "name": "Tell You What It Is",
       "url": "https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc"
@@ -28134,7 +28200,7 @@
       ],
       "date_added": "2020-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2020-10-05",
+      "date_removed": null,
       "duration_ms": 116297,
       "name": "Tu Tu Tu (That's Why We)",
       "url": "https://open.spotify.com/track/3qY5bS9bKs5HedrAiWfP6x"
@@ -28952,7 +29018,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 192197,
       "name": "Voices (feat. TZAR)",
       "url": "https://open.spotify.com/track/7aAWrDRy3T52A95bDNfdlO"
@@ -30148,7 +30214,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 208253,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/2w1rG2MPE4vF77znvevuz5"
@@ -30638,7 +30704,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2020-05-27",
+      "date_removed": null,
       "duration_ms": 209523,
       "name": "Work That Body - Radio Edit",
       "url": "https://open.spotify.com/track/2DqigqUtFKTB0XLWOF7hGj"

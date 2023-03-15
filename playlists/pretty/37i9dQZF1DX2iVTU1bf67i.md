@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,224 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,292 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 99 | [Makin' Whoopee](https://open.spotify.com/track/0YgEYSBt2e4BSTIQBhukou) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Louis Armstrong Meets Oscar Peterson \(Expanded Edition\)](https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0) | 3:56 |
 | 100 | [Time After Time](https://open.spotify.com/track/6M5sixn4EsVnrxBE4RpTNr) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster and Associates](https://open.spotify.com/album/4Iorh0xvUvOWcVpbFHiGTR) | 4:34 |
 
-Snapshot ID: `MTY3ODM1MzY3NSwwMDAwMDAwMDk4ZWZlMjhhZjZiNGIyMjM2ZDFmY2I1ZGQ5Nzg2Y2Uz`
+Snapshot ID: `MTY3ODM1MzY3NSwwMDAwMDAwMDQ1ZmJjYmM2MGU3MWExZmVhMTk0MGYxOGNiMzBiMWYx`

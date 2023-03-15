@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Whyte Fang & Erick the Architect.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,078 likes - 102 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,229 likes - 102 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 101 | [Venom](https://open.spotify.com/track/5QGcqUj58lWph8M6hyL00Y) | [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Venom](https://open.spotify.com/album/5bMt0KqHnqMRF4mxvregMO) | 2:54 |
 | 102 | [Now Not Tomorrow](https://open.spotify.com/track/3jVHLI6Kw1f6qkR7fD4rMf) | [Chaim](https://open.spotify.com/artist/2XMpXAQ0B1J95en60YGE3V) | [Now Not Tomorrow](https://open.spotify.com/album/1Ez3AyDWTQB34dVnc0k4wR) | 6:06 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDk2YWRhZTI5ODY0YzZiZjMzZGNjNWQxMWU2YjVjMTFl`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGNkNzY2MjRkOGQ2NWFiZGE1ODUwYzU2ZDNkZmNiMGY2`

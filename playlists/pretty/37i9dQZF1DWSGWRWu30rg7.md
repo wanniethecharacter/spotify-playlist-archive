@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Odelia Sabrina
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,752 likes - 57 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,753 likes - 57 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 56 | [IMMA GO NOW](https://open.spotify.com/track/2fHUiVm7PVELTnvXYTaCHe) | [Tarrzankota](https://open.spotify.com/artist/6ptSpJVbC6f492Lt5IfpD2), [YOSH](https://open.spotify.com/artist/2wHazSJnTevLiiJzn70GX7) | [GENESIS](https://open.spotify.com/album/39uvywC9ucxHGlD91DhhQC) | 1:25 |
 | 57 | [In My Bed](https://open.spotify.com/track/1XOx9PbO83UQ0bOfdt3AAR) | [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL), [GALUH](https://open.spotify.com/artist/5e1GTe7pdNCGQOdcExtUoz) | [In My Bed](https://open.spotify.com/album/1si4dL7DI1wIDhrEOjVCFt) | 2:05 |
 
-Snapshot ID: `MTY3ODQzODgwMCwwMDAwMDAwMDRhMjNhYjE5Y2FhZTEyMzE1ZGU3NTk4MDVjYTM3MWE5`
+Snapshot ID: `MTY3ODQzODgwMCwwMDAwMDAwMGM2ZjQyMDkxN2RkYzI2NzUzMzQ5ZjJiNjVlYzg5ZWU2`

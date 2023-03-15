@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > Deephouse in the mix for your delight.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,590 likes - 126 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,633 likes - 126 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 125 | [Ave](https://open.spotify.com/track/6oDWwQrIwz0AZQAWOv787F) | [Milio](https://open.spotify.com/artist/3NoWSOGaFNLvKXxho4phMO) | [Ave](https://open.spotify.com/album/3I01ShTuRryxPPJzRW5vht) | 5:04 |
 | 126 | [Relax Yourself](https://open.spotify.com/track/4ZZbPgotZ7FGKDpOBkd2ls) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq) | [Relax Yourself](https://open.spotify.com/album/48rzCIZ2b7pxhKrsvAz1PC) | 6:11 |
 
-Snapshot ID: `MTY3NzQ4NjUyMCwwMDAwMDAwMGE2ODZiYjJkOTA4YzhkMzgwMzBlY2I5NTgzM2RiZGQy`
+Snapshot ID: `MTY3NzQ4NjUyMCwwMDAwMDAwMDE3Y2M2NjU3YWI5NWU0NzJiOGQzMjg1ZDVlN2EwYzRl`

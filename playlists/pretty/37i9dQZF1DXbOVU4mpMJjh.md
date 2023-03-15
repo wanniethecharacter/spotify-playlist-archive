@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 
 > Relax to gentle vocal and instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,154 likes - 300 songs - 18 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,320 likes - 300 songs - 18 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 | 299 | [My first kiss](https://open.spotify.com/track/30VQy0OHXjam8lKkpsZF4Z) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [My first kiss](https://open.spotify.com/album/1Qhe73UDyVrdfpi6j3Ymnw) | 3:24 |
 | 300 | [Coral](https://open.spotify.com/track/2nIW5sfh2pW6Ftk8Qes2jv) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Coral](https://open.spotify.com/album/2p9Tfv7xnwAkhXMIoNcPik) | 3:37 |
 
-Snapshot ID: `MTY3ODQ1MzIyMCwwMDAwMDAwMGIwNTFjOWI4NWE5MGY0ODczM2ViMzRhMGYyOWQ5Y2My`
+Snapshot ID: `MTY3ODQ1MzIyMCwwMDAwMDAwMDQwZDRkYjU3OTk4ZDUzYmYyZmU5YTQ1ZmYxMTNmMTU5`

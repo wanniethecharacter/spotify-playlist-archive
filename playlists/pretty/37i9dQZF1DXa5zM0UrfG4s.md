@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > Spillelisten som byr på en rekke bøgdebangers du kan spelle i kjerra! Cover: Hagle
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,571 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,622 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Ola](https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ola](https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG) | 3:24 |
 | 70 | [Fredag \- Digg å være norsk](https://open.spotify.com/track/3EzeIilO4QWtrGRqG9TVqB) | [Mr Melk](https://open.spotify.com/artist/2sfYCaSe6ZMDYZxmhA0ujD) | [Fredag \(Digg å være norsk\)](https://open.spotify.com/album/57GAgDviI8h3PrV5QCHqFy) | 2:13 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDU4NTEzYjgzOTBhOTA2MDUwMGE1MTJiZTNkZjdjMWE5`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDljZDNlMGFiMDdkMjI0Y2UxMThlZGM4YTRjODMzY2Qz`

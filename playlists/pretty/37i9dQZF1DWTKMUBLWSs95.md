@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKMUBLWSs95.md) - [plain]
 
 > Discover new releases and rising artists from the classical world\. Cover: Erland Cooper
 
-[Spotify](https://open.spotify.com/user/spotify) - 192 likes - 62 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 207 likes - 62 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKMUBLWSs95.md) - [plain]
 | 61 | [All\-Night Vigil, Op\. 37: XV\. To Thee, Victorious Leader \(Greek chant\)](https://open.spotify.com/track/3UtECjqLsvARh20hWqH6XW) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [The Choir of King's College London](https://open.spotify.com/artist/1B95N9f9HtEL9D21OCaTkt), [Joseph Fort](https://open.spotify.com/artist/6AUNzEquhixahimXOf3ZEd) | [Rachmaninoff: Vespers \- All\-Night Vigil](https://open.spotify.com/album/2lzqCFnlVLlHuS5vOFypte) | 1:33 |
 | 62 | [Romantische Suite: III\. Intermezzo \(In sanfter Bewegung\)](https://open.spotify.com/track/02t7SzN1wAei88W0vmPM7c) | [Franz Schreker](https://open.spotify.com/artist/7ehgiWrLMRMQkrr5tQQB2P), [Konzerthausorchester Berlin](https://open.spotify.com/artist/5HxMHFsUWX0VqOlmsoGrTj), [Christoph Eschenbach](https://open.spotify.com/artist/0xfOM47aJ8EcFX7T6Ugr9W) | [Schreker: Romantische Suite: III\. Intermezzo \(In sanfter Bewegung\)](https://open.spotify.com/album/4wQcKGVE0WfuIVxDjIWEyJ) | 6:59 |
 
-Snapshot ID: `MTY3ODQ0NDUxMiwwMDAwMDAwMDg4YjdhYjBhOWQ2MTllMDdjMzg3Y2I5OTk0N2VmYWY4`
+Snapshot ID: `MTY3ODQ0NDUxMiwwMDAwMDAwMGI2Y2RlNzI4MjdlMzE3ZmQ0MTVkNzJjOWFkNWY0ZTMw`

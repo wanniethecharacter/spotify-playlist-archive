@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,566 likes - 78 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,737 likes - 78 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 77 | [Hurt](https://open.spotify.com/track/0WLROcssjMREbas0oDpFkA) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/3hV5sj8yGvFHtEkdeJ95yH) | 6:12 |
 | 78 | [Hey Jude](https://open.spotify.com/track/0nxhyi6QjPajz7zPFqe5GD) | [Veronica Howland](https://open.spotify.com/artist/2i3G7ixL6J6qkND65vK8XC) | [A Little Beatle](https://open.spotify.com/album/5d7gIj38XMEsxfS1ZlaUZn) | 3:56 |
 
-Snapshot ID: `MTY3ODIwNjc3MCwwMDAwMDAwMDllYTBmZTI1NDBhZmUzYzE2ZWE2Y2UzYzQ5ZTkxZTg3`
+Snapshot ID: `MTY3ODIwNjc3MCwwMDAwMDAwMDc1ZTdmM2M2MGMzZTRlYjA3NWU0NjMwY2M1OGU1Mjdm`

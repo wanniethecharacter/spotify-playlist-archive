@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,379 likes - 200 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,396 likes - 200 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 | 199 | [Amble](https://open.spotify.com/track/5mqn7zmKnNjHvmsg1OSgnq) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Amble](https://open.spotify.com/album/0WtbPJ5f9h1LGb2QyqmK5s) | 4:12 |
 | 200 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDliNGI3ZTE5NjhiNzZiMzFjYWYxZDEwYjFhOGE5MDQ2`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDIwZWNlZWIwOGJiYTY2MmU2NWQxZjc1YWU4MjFmMTRm`

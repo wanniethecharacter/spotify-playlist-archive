@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري في مكان واحد 😎! غلاف: حُسَين
 
-167 songs - 8 hr 39 min
+168 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [DOUBLEZUKSH](https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DOUBLEZUKSH](https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE) | 4:09 | 2023-01-10 |  |
 | [EL ASEMA](https://open.spotify.com/track/7xGbfFIhE3fNwS9Djjjq7P) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 6:18 | 2023-02-13 |  |
 | [EL BABA](https://open.spotify.com/track/5hqTZ3iZFOZAeojDVC9QPJ) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [EL BABA](https://open.spotify.com/album/5aXEcbeROqVWPx9zYCYeBJ) | 3:23 | 2022-05-10 | 2022-06-21 |
-| [El Baba](https://open.spotify.com/track/5RJ36vbZUMFzS70hX6nx0k) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [El Baba](https://open.spotify.com/album/0RVaaq1N7PBzB5ZAXgo7qy) | 3:04 | 2023-01-16 |  |
+| [El Baba](https://open.spotify.com/track/5RJ36vbZUMFzS70hX6nx0k) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [El Baba](https://open.spotify.com/album/0RVaaq1N7PBzB5ZAXgo7qy) | 3:04 | 2023-01-16 | 2023-03-15 |
 | [EL HALAL](https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EL HALAL](https://open.spotify.com/album/2B9JbhNplI7Qlf0tN6l0h2) | 3:50 | 2022-08-11 |  |
 | [El QOWA](https://open.spotify.com/track/0rzAtcL37WVll20dFCYTsj) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 4:17 | 2022-05-10 | 2022-10-11 |
 | [El Rap Ghayarni](https://open.spotify.com/track/0SQ5ckrJfPLlBzfVxJ7qZn) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [El Rap Ghayarni](https://open.spotify.com/album/604qvjYynAS8jwYMPVlAgk) | 4:12 | 2022-09-27 | 2023-01-13 |
@@ -166,6 +166,7 @@
 | [غاغة](https://open.spotify.com/track/4dhBcmOsysqol75RKDMooX) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [شياطين](https://open.spotify.com/album/0n2l3w9YeFAHKV2PkzmKv3) | 1:56 | 2022-10-10 | 2022-12-16 |
 | [كابتن](https://open.spotify.com/track/5F1eUkCHs9dnokkni8xfkC) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [كابتن](https://open.spotify.com/album/6JdMK7OgNySNirfOn5Vg3G) | 2:58 | 2022-11-28 | 2023-03-03 |
 | [كابتن](https://open.spotify.com/track/6dR03uJtlIIIfQsf6EuesI) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [كابتن](https://open.spotify.com/album/04RBwKhmlQubyTNNu70Xx1) | 2:58 | 2022-05-10 | 2022-12-04 |
+| [كلمه قبل ما أموت](https://open.spotify.com/track/34Er1nEt74AVX8Rf4XNjME) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [كلمه قبل ما أموت](https://open.spotify.com/album/5WsEgRP7J49LpLJXWsUyZe) | 3:16 | 2023-03-14 |  |
 | [متجلونش](https://open.spotify.com/track/0PpZciRgZhn05B7vbXlh5p) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [El Waili](https://open.spotify.com/artist/0PaVKXIWKsJancVULPtreG) | [متجلونش](https://open.spotify.com/album/7FJGKTt0Fi2Ht4B1ts4SrL) | 3:09 | 2022-05-10 | 2022-12-04 |
 | [متجلونش](https://open.spotify.com/track/3BryCsgMtODlRpRIzsa4wF) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [متجلونش](https://open.spotify.com/album/26ZLUpGMZDZUEet4BTeE9U) | 3:09 | 2022-11-28 | 2023-02-21 |
 | [مش شايفك](https://open.spotify.com/track/2PQ5vldtM9aQg5WpZ0Lmgl) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [مش شايفك](https://open.spotify.com/album/3pxvDgUY0ydiEz56kOZlMg) | 3:01 | 2022-07-28 | 2022-12-05 |

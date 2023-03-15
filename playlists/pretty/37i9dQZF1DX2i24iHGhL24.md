@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: John Legend
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,268 likes - 156 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,362 likes - 156 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 155 | [If You Had My Love](https://open.spotify.com/track/5glOr0WOoNw6bBFHcTg7AR) | [fulses](https://open.spotify.com/artist/3n8m3kNEwkqw9ucWDJhClE) | [If You Had My Love](https://open.spotify.com/album/27bLO4hjI1t1gEVfGVVDi1) | 3:35 |
 | 156 | [If Your Man Only Knew](https://open.spotify.com/track/7H8kBmya327d7KTXsbln2v) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [If Your Man Only Knew](https://open.spotify.com/album/0D7hzGTfLWhIi20HeWzfZn) | 2:58 |
 
-Snapshot ID: `MTY3NzI1MjM2NCwwMDAwMDAwMGRjNjYzMTMwNTY3NWQ3YzUyNTRlOTk4YTNmYmZmZDRk`
+Snapshot ID: `MTY3NzI1MjM2NCwwMDAwMDAwMDM5ZjU3NjVhNDg5YzI5MzgzYzkyNjlhMjMzZTM2ZGRk`

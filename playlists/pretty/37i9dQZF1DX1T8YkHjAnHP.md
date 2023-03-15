@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,408 likes - 65 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,443 likes - 65 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 64 | [Borderline \- Catz 'n Dogz Remix](https://open.spotify.com/track/6xoZRqx40HdvSecJNvm5Lx) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Nyv](https://open.spotify.com/artist/1ciw0LLweRvHpU9zhiOYyq), [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Borderline \(Remixes\)](https://open.spotify.com/album/05MhwaBxOSGFG8LsRGNsMt) | 6:06 |
 | 65 | [Banho de Folhas \- Maz Remix](https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Banho de Folhas \(Maz Remix\)](https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O) | 3:35 |
 
-Snapshot ID: `MTY3NjYxODY5MiwwMDAwMDAwMGQ1NjVjZmE4MzE3YmFlNmFhYjJkYTQ4ODU4NDE3MTNj`
+Snapshot ID: `MTY3NjYxODY5MiwwMDAwMDAwMGVkY2ZkNzE5MDk1ODE0Njk4MTk0ZDk0ZGM2NDM0N2M1`

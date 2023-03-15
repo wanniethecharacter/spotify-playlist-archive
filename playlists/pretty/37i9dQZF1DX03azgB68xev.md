@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,262 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,306 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 79 | [Out Of The Dark \- Petey Martin Remix](https://open.spotify.com/track/4SfcLgPBOZa0ZFtHt3HBXO) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB) | [Out Of The Dark \(Petey Martin Remix\)](https://open.spotify.com/album/79HDfZmxKg9v2NCsvpNboH) | 2:45 |
 | 80 | [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 |
 
-Snapshot ID: `MTY3MzY0NjQxNiwwMDAwMDAwMGU4NzRhYzljMWU0MDY3YWE1ZmY1OTdmY2U4YjA3YmQ1`
+Snapshot ID: `MTY3MzY0NjQxNiwwMDAwMDAwMDljZGUxZDFiMzliMzJhNGZkZWZjMjBmZjBlNGUwYTQx`

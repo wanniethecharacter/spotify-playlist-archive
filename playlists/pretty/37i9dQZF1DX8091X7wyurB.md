@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,485 likes - 80 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,577 likes - 80 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 79 | [VIBES](https://open.spotify.com/track/05ee5RwDmyeOpIQeshWlJq) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY) | [VIBES](https://open.spotify.com/album/1JB6EdMUgU9PwXNsGCvyAP) | 3:13 |
 | 80 | [Thank You](https://open.spotify.com/track/6NdP01if2haMSAhoMxVpMe) | [Kobby Mantey](https://open.spotify.com/artist/6EU94Iocwwem69yRk6DuOc), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Thank You](https://open.spotify.com/album/3FicrFn5np6XgUfj0GEXD6) | 5:16 |
 
-Snapshot ID: `MTY3ODQ1MTMxNCwwMDAwMDAwMGE4NWUxOTczZWMwZTY5NzRhM2YxZjljMTUwZTUzMjQy`
+Snapshot ID: `MTY3ODQ1MTMxNCwwMDAwMDAwMDIxYzFhNmRmODc2ZmUzYWMwMmJmYTU1ZjQ3YWZhMzlm`

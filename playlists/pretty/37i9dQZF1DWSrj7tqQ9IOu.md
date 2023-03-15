@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Christine and the Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,657 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,738 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [La joie](https://open.spotify.com/track/68Z6eIQNstXk0SZRfAbqM1) | [Clair](https://open.spotify.com/artist/6Xu9PnUrdw9vJTeG3O1eAB) | [La joie](https://open.spotify.com/album/4cG607PilW1BkzUSVhN4RK) | 3:18 |
 | 50 | [Tu me manques](https://open.spotify.com/track/5l81POgmEdF2aUv0zcxSPa) | [Dorcas](https://open.spotify.com/artist/3obdKN8Eeq1nIMCjuDiusI) | [Tu me manques](https://open.spotify.com/album/1w8lNUAnjaUvKo9yHcE0Lb) | 2:58 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDFmNmZhNDI3ODBkMGVlNzQzNGRjNTlmZGVjNjYyODk2`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDI4Y2UzOTcwN2ZkZmU4ZTYzNTI0ZTc0MTljZTczMGU4`

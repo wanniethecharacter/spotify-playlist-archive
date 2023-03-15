@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  Lecrae
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,007 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,172 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 99 | [PEACE OF MIND](https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [PEACE OF MIND](https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ) | 3:27 |
 | 100 | [believe](https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [believe](https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012) | 2:35 |
 
-Snapshot ID: `MTY3NzIzODU3MiwwMDAwMDAwMGNhYmQwYzJlNjMxNWZlZDRkYmI0OWQyZWFiOTUxMzYy`
+Snapshot ID: `MTY3NzIzODU3MiwwMDAwMDAwMDMyODc4NTEyYjRkMjMzZjcxZDUwOTVhZDI2MjdhNmE1`

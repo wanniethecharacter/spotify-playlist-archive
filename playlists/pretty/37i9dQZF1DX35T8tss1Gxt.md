@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Gene Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,162 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,422 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [Come and Be My Love](https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Come and Be My Love](https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85) | 2:42 |
 | 100 | [What Would I Gain?](https://open.spotify.com/track/10tkcAcUnlENPwDbnIaD5p) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [What Would I Gain?](https://open.spotify.com/album/1O5hJ19jwKmEjqkQHFgYjD) | 3:54 |
 
-Snapshot ID: `MTY3NDIwNjQzOSwwMDAwMDAwMGE4OWJhOGM4NGU5YzliZjA4YzhiMmViYjYxZjg4YzU3`
+Snapshot ID: `MTY3NDIwNjQzOSwwMDAwMDAwMGQyZjBkZDkyNzJjZDJiNTk4YmM2Y2ZiYzk0NjBkZjA1`

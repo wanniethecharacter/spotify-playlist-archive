@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKavYU3DLE1.md) - [plain]
 
 > Hear all of MINO's biggest and best hits in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,756 likes - 45 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,761 likes - 45 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKavYU3DLE1.md) - [plain]
 | 44 | [The Door \(Prod\. by ZICO\)](https://open.spotify.com/track/2b5GYIMnWfhoWWnc4UFfQf) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [Prison Playbook \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0ON9mWyY2zv996HpPNx2LH) | 3:20 |
 | 45 | [Pat Pat](https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [P.O](https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Kang's Kitchen3](https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst) | 3:02 |
 
-Snapshot ID: `MTY2MzY0MjM3MCwwMDAwMDAwMDM5N2IzNTQ3NDE5M2Q0NTdhOTEyZDNjZDI3NGRkZGE3`
+Snapshot ID: `MTY2MzY0MjM3MCwwMDAwMDAwMGJiMmJlZDdmZTEyMDYzMjZiZmJiNjMxMWM1ZDE5MWFj`

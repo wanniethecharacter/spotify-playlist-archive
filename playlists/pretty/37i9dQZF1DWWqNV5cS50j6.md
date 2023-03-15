@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > binki makes anti pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,395 likes - 92 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,397 likes - 92 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 91 | [Suburbia](https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Suburbia](https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB) | 2:59 |
 | 92 | [Off The Drugs](https://open.spotify.com/track/3mal4dMlkVy42F7bEjU3Jy) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Off The Drugs](https://open.spotify.com/album/1NjXy9akXwlUfk74r2owE1) | 2:57 |
 
-Snapshot ID: `MTY3ODQ4MTgwNywwMDAwMDAwMGRmODU2YzYyYmRlZWQzNjNhYTRhNzdlZDI1NTI0OWU4`
+Snapshot ID: `MTY3ODQ4MTgwNywwMDAwMDAwMGM4ZGI2MzIxYzdlMjYxYmE0M2YxMDgyMTRmZWMwYWY5`

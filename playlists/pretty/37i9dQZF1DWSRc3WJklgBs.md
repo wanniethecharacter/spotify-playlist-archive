@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,926 likes - 221 songs - 12 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,344 likes - 221 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,7 +198,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 188 | [WAIT \(feat\. Bipolar Sunshine\)](https://open.spotify.com/track/06ZFfsiywuaqGnYQiUfbyn) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [WAIT \(feat\. Bipolar Sunshine\)](https://open.spotify.com/album/6agHtwWDfbzFvPJRALB4yh) | 3:43 |
 | 189 | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/track/53HvRc4rqJa8YmssjH5GKp) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/album/1AW5jWwgZpzSyl8gELf5Iu) | 3:00 |
 | 190 | [High Tide](https://open.spotify.com/track/1rCfDo29mxjOmMNUKmbK76) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [The Long Way Home](https://open.spotify.com/album/3bZwlowzh4YGLX6LfrYdSk) | 3:17 |
-| 191 | [Be Somebody](https://open.spotify.com/track/6TCOYzcdzS4zlfcqv0WCEP) | [MOTi](https://open.spotify.com/artist/5CJuNYyFNjzuNaZaIcvOlw), [TRK](https://open.spotify.com/artist/3fxM89VVaWVnSimZ9RGERD) | [Be Somebody](https://open.spotify.com/album/1sZ1M5oIgnoaLHDTaCnZ9J) | 2:53 |
+| 191 | [Be Somebody](https://open.spotify.com/track/6TCOYzcdzS4zlfcqv0WCEP) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [TRK](https://open.spotify.com/artist/3CKLRUX7eYQOWq6J2uZUoR) | [Be Somebody](https://open.spotify.com/album/1sZ1M5oIgnoaLHDTaCnZ9J) | 2:53 |
 | 192 | [Daisies](https://open.spotify.com/track/67k9neQm9nlnMnejMpRXSN) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [Daisies](https://open.spotify.com/album/37kDHVg9VwJgW5fbKkwzls) | 3:39 |
 | 193 | [Half A World Away \(feat\. Sarah de Warren\)](https://open.spotify.com/track/0Uyi3DHJMoGURtYihR6LAN) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [The Way Back Up](https://open.spotify.com/album/6JI14Iisr1vEyw3YiMe1rs) | 4:27 |
 | 194 | [Stay With Me](https://open.spotify.com/track/5fzSnfMrh4x6HPjJKgXkjj) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Stay With Me](https://open.spotify.com/album/1XW9wkKo2iVyxNAzijTLI2) | 3:30 |
@@ -230,4 +230,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 220 | [Someone Like Me](https://open.spotify.com/track/1D3qSUMiemq8wa4xXOC2qi) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [Someone Like Me](https://open.spotify.com/album/1LySaog72VAyFPovOxAPUx) | 3:24 |
 | 221 | [Somebody Like You](https://open.spotify.com/track/28nXyID0HPs6t1H8113aJw) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Frogmonster](https://open.spotify.com/artist/3MXoYYNmf8mKzCGAJJIlyp), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Somebody Like You](https://open.spotify.com/album/5TBgT7OE7RGLFjkILG729A) | 3:26 |
 
-Snapshot ID: `MTY3ODQ2NzYwMCwwMDAwMDAwMDkzYWQ0YzYyNjRlMDg0YmNmODJmYTJmZThkZjFlYzli`
+Snapshot ID: `MTY3ODQ2NzYwMCwwMDAwMDAwMDg3ZmE5YTkyNjZlYzdhYThmMGU5YjZkMTI3M2YxZjc1`

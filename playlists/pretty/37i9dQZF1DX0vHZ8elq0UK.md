@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,197 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,006 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 | 149 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 |
 | 150 | [One Day](https://open.spotify.com/track/1MDEvpaFk2Ins7N8hGfFlA) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [One Day](https://open.spotify.com/album/5CDBGbuOAyXOAefzMLbXuZ) | 2:32 |
 
-Snapshot ID: `MTY3ODA5MjYxNiwwMDAwMDAwMDdkMzcwZmFhNWU4OTg1MTE1OGRjZGM5ZDc1ZmY1Mjdm`
+Snapshot ID: `MTY3ODA5MjYxNiwwMDAwMDAwMDk0YTQ0N2QxZDkzZDZkODMyM2Y4OGY5YmVmNjQ4MTA5`

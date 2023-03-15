@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,056 likes - 50 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,072 likes - 50 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 49 | [Shudder to Think](https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv) | [Ned Rothenberg](https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh), [Mark Feldman](https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA), [Sylvie Courvoisier](https://open.spotify.com/artist/3ApjZpZhqZNl21HprnmXW3) | [In Cahoots](https://open.spotify.com/album/0STbF1O34unFR85y3dX67B) | 3:47 |
 | 50 | [Joe Btfsplk](https://open.spotify.com/track/6KAn7LuDV3SYpINmzl8bMM) | [Don Byron](https://open.spotify.com/artist/2xJ2HMpwwLY36bkjT6sJkD), [Aruan Ortiz](https://open.spotify.com/artist/7hUIvu0Ug9wqqjtaoCtv1o) | [Random Dances and \(A\)tonalities](https://open.spotify.com/album/3v6dasC9ywop1Kc9oPajzW) | 5:44 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDRiNWQxNzVmZWQyYmRmOWJjZjMyZmJiOTk5ZGVhMTky`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMGFlNzFmNTFkZWQ2MDRlNTVlZDZkNTczOTI3MjA4Zjkw`

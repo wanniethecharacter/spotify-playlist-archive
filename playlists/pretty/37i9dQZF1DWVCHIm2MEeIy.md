@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > Time to rave again.
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,294 likes - 70 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,461 likes - 70 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [Lady Cherry](https://open.spotify.com/track/1FegqJzuhbp7XZY4gT5EoW) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Discreet Moment Thing Pt\. 2](https://open.spotify.com/album/7FK2B1ZpjFe2JI5B3MXea0) | 5:42 |
 | 70 | [Gummihammer](https://open.spotify.com/track/2gOvWkgY153efoAcywh7pi) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 6:47 |
 
-Snapshot ID: `MTY3NjY0NDUxNSwwMDAwMDAwMGQyYjIyOGJjZDQ0ODZkMDcxMDJlNGViNWVjNjE1MmQ0`
+Snapshot ID: `MTY3NjY0NDUxNSwwMDAwMDAwMDBhOTYwNWY2ZTZiZTYwYzg0YTU4MmZkZGI3N2QwMDUy`

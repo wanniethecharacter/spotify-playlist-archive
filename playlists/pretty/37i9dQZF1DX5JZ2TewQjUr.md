@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 留香瓊
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,846 likes - 162 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,861 likes - 162 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 161 | [Way Home 回家](https://open.spotify.com/track/5Kpx8pcbQVVJnY5qJECOgJ) | [Sea Island & Ferry 海島小輪](https://open.spotify.com/artist/0B7YKBxPz9JuT9b7azRx55) | [As if \- II\. The Deep End 往深](https://open.spotify.com/album/0YVzlKAxl14t6UNy7KU5Ur) | 5:00 |
 | 162 | [· · 一](https://open.spotify.com/track/6udvMAKpaJ99XOzCv0GrYN) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/2PY375a2tZKvK809i4Y0yg) | 4:36 |
 
-Snapshot ID: `MTY3ODQ2MjE5NiwwMDAwMDAwMGQ4YzhjMDAzNDdkMzkzY2I1OWM0YWE2NTc0MDhkOWVh`
+Snapshot ID: `MTY3ODQ2MjE5NiwwMDAwMDAwMGU1YzQzOTJjMjdjMmU4ZjVkNGNjNTZjZjkwYzVlMmYz`

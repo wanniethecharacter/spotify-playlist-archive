@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: IN2STELLAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,123 likes - 93 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,129 likes - 93 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 92 | [IN TOO DEEP!](https://open.spotify.com/track/5Nr3ZAd6pXKDNA2MVnKvA4) | [Noah Vernon](https://open.spotify.com/artist/44vTKXr7Jd9Zpj19gA9dxk) | [IN TOO DEEP!](https://open.spotify.com/album/3xpevKoSzaqlA8DmNHUJZH) | 2:58 |
 | 93 | [Jusavinageez](https://open.spotify.com/track/1J3LHP8MQgqtfNkxQAsI7J) | [Private Function](https://open.spotify.com/artist/3XWRl19mJPqyWHfvehJAMD) | [Jusavinageez](https://open.spotify.com/album/2AqLCJ7w58qwvcvSbHHMBa) | 1:55 |
 
-Snapshot ID: `MTY3ODI0NDEzMywwMDAwMDAwMDI3MzhlNjBjM2U3NzJhM2UzODEyYzMwNjZmNzk0ZTMy`
+Snapshot ID: `MTY3ODI0NDEzMywwMDAwMDAwMDExNTZlOGNjYjNlZTYyNjY3ZGEwNjdhMjBmZjM5N2I3`

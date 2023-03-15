@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,528 likes - 15 songs - 44 min 27 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,526 likes - 15 songs - 44 min 27 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 10 | [God Knows](https://open.spotify.com/track/21d4LQbHVuzPruS53gIMYk) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [God Knows](https://open.spotify.com/album/4CTHGfg4ccypcg0JbzsX1e) | 2:36 |
 | 11 | [SET ME FREE \(ENG\)](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 |
 | 12 | [Watch Me](https://open.spotify.com/track/4diNbDaMzGvvuIKhZkfEEC) | [SASO](https://open.spotify.com/artist/1i1xNUxNNcy0pgHVHq5oF6) | [Watch Me](https://open.spotify.com/album/6PNrN7WaLYFXaayK6VB4vE) | 3:03 |
-| 13 | [Butterflies](https://open.spotify.com/track/33BFPA2AADvu2tiyLotov8) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Buttlerflies](https://open.spotify.com/album/79c0H3KKIc2uGlEotrhsl6) | 2:38 |
+| 13 | [Butterflies](https://open.spotify.com/track/33BFPA2AADvu2tiyLotov8) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Butterflies](https://open.spotify.com/album/79c0H3KKIc2uGlEotrhsl6) | 2:38 |
 | 14 | [Without You](https://open.spotify.com/track/37GVXIHQzycHIVdBE2E5Kn) | [Reevah](https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ) | [Without You](https://open.spotify.com/album/52Tq3PJXVLqyqGgptht8oa) | 3:20 |
 | 15 | [Mother](https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:27 |
 

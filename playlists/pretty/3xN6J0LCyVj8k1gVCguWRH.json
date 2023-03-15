@@ -1,12 +1,12 @@
 {
   "description": "Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies\u2014it\u2019s an example of how music really can bring us all together. (Includes the 2021 edition + bonus tracks)",
-  "num_followers": 101382,
+  "num_followers": 101372,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDMwMCxmYmMzMjdkNDc3ZGQxYjIxYjlkZDFiMDMyNTRlNzE3Y2Q2MWJkYzhj",
+  "snapshot_id": "NDMwMyw5NjE0ZTRmOThhOTE3M2M2NWI0YTczYThhMTc1ZjU0NmRhNWY4YmFk",
   "tracks": [
     {
       "added_at": "2022-08-10 13:59:43",
@@ -1269,6 +1269,22 @@
       "url": "https://open.spotify.com/track/2Zrmp1DHBdzm2zNk9rrQtQ"
     },
     {
+      "added_at": "2023-03-15 00:11:07",
+      "album": {
+        "name": "Driftin away",
+        "url": "https://open.spotify.com/album/3p7NOOgCc0zxKt6oLfLkkB"
+      },
+      "artists": [
+        {
+          "name": "Donty",
+          "url": "https://open.spotify.com/artist/0ZxTq85uqZbmwj6NxcTapu"
+        }
+      ],
+      "duration_ms": 181687,
+      "name": "Driftin away",
+      "url": "https://open.spotify.com/track/4aclkqp2dw6jFrgK8D0TJg"
+    },
+    {
       "added_at": "2023-03-10 02:55:49",
       "album": {
         "name": "Candid",
@@ -1687,6 +1703,22 @@
       "duration_ms": 250833,
       "name": "Que Sali\u00f3 Mal",
       "url": "https://open.spotify.com/track/05JhV6sqXWsRw670kjZZ7j"
+    },
+    {
+      "added_at": "2023-03-15 01:15:14",
+      "album": {
+        "name": "Everything We Know",
+        "url": "https://open.spotify.com/album/6TXB9Ix1LXaTfxznJ6eZIh"
+      },
+      "artists": [
+        {
+          "name": "Eliyanah",
+          "url": "https://open.spotify.com/artist/4Fy9ktzHsOjSuaaOECXtaC"
+        }
+      ],
+      "duration_ms": 204212,
+      "name": "Everything We Know",
+      "url": "https://open.spotify.com/track/5gMXhRsYttCSc04PQTUlmS"
     },
     {
       "added_at": "2023-03-06 00:31:34",

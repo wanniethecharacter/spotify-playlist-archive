@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Fata in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,673 likes - 60 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,687 likes - 60 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 59 | [Capotavolo](https://open.spotify.com/track/3zSA43fLbKDNjRhgBgRKPA) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [47Milano](https://open.spotify.com/artist/0A3F67rGTvyUTqCCuiFLV1) | [Capotavolo](https://open.spotify.com/album/6e78WCwUIiJqp4oMkUiBz2) | 1:55 |
 | 60 | [UFC](https://open.spotify.com/track/3T1KXh21ieREyl1TIdxzdb) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk), [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [UFC](https://open.spotify.com/album/27pQVLpSz8kAFBwnTc1ZZM) | 2:48 |
 
-Snapshot ID: `MTY3ODczODY5MCwwMDAwMDAwMDBkNmJiZDc4MDQzYjAwOGE0M2U0Yzk0YWUyZDI0NmFj`
+Snapshot ID: `MTY3ODczODY5MCwwMDAwMDAwMDMwNTlmZmI2NGFmOTE3NjBkYmM2M2YzMzg0MWQ1YzUy`

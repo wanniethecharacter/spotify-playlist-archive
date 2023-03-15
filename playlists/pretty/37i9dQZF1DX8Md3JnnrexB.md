@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,734 likes - 150 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,766 likes - 150 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 149 | [Do It To Me](https://open.spotify.com/track/1tKxrKBYIIykuLvipSWfgy) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 6:03 |
 | 150 | [So in Love with You](https://open.spotify.com/track/7yLQMOBHYEkFkFQcEoNEpR) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Love Oh Love](https://open.spotify.com/album/63QvEGahoi8TbcSNp0dT3e) | 2:58 |
 
-Snapshot ID: `MTY3Njk5MzE2OSwwMDAwMDAwMDUxNTgzYmUyYzE4NTIzODQwYWI3ODliYzc5YjM0MWQz`
+Snapshot ID: `MTY3Njk5MzE2OSwwMDAwMDAwMDMzYWIxZGIzZDEzODUzNmNlZTRlODY2MWRjZDFhYzBk`

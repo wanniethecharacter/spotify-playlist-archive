@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: Nieah \(니아\)\)
+> Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: HUH YUNJIN\(허윤진\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,317 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,390 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Not Me](https://open.spotify.com/track/5DLfhr11jMK4yJanglbWcl) | [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw) | [Not Me](https://open.spotify.com/album/7oS6RPCgrvzRCoDVvAwQqj) | 3:24 |
+| 1 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 |
 | 2 | [BAD BAD \(Feat\. Tabber, Jay Park\)](https://open.spotify.com/track/7fjAIwn4DpKwTEqO08zN9H) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Archive 01](https://open.spotify.com/album/1rnLfXYRONXmkMKOAGEUpH) | 3:34 |
 | 3 | [55 \(Feat\. Yerin Baek, WENDY\)](https://open.spotify.com/track/1is7aJgbVS67fEMTAjh4mX) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Archive 01](https://open.spotify.com/album/1rnLfXYRONXmkMKOAGEUpH) | 3:07 |
 | 4 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 69 | [What Do I Call You](https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 2:47 |
 | 70 | [Running Through The Night](https://open.spotify.com/track/3UZ46DvXvB2R7sBUZornlv) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [?depacse ohw](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca) | 3:37 |
 
-Snapshot ID: `MTY3ODY5NDE3MywwMDAwMDAwMDU4MGY4MzljMjA0Y2Y0NWJlNDE1OTk0MWNjM2YxMzQ1`
+Snapshot ID: `MTY3ODc4NDQ2MCwwMDAwMDAwMDViMWZjNjJiN2JmNDI5YmIxMWI4MzMwZjcyMjBiMzM3`

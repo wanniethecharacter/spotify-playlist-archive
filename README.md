@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5735\)
+## Playlists \(5736\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1361,6 +1361,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Disney Junior Hits](/playlists/pretty/37i9dQZF1DX4TzCf8od5BM.md)
 - [Disney Love Songs](/playlists/pretty/37i9dQZF1DXauMQRH2JBCJ.md)
 - [Disney Lullaby](/playlists/pretty/37i9dQZF1DX0zmsulfyDdq.md)
+- [Disney Piano](/playlists/pretty/37i9dQZF1DX1AS8edutPQk.md)
 - [Disney Princess](/playlists/pretty/37i9dQZF1DX9fDcF6S4tuJ.md)
 - [Disney Storytime](/playlists/pretty/37i9dQZF1DWUpLoMa4BXi9.md)
 - [Distance Dandiya](/playlists/pretty/37i9dQZF1DWUQyIF4v1Ra3.md)
@@ -1619,7 +1620,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Father's Day Love](/playlists/pretty/37i9dQZF1DWXakVTmpoTAP.md)
 - [Faxina Nostalgia](/playlists/pretty/37i9dQZF1DXce9JMR6ngZx.md)
 - [Faxina com Sofrência](/playlists/pretty/37i9dQZF1DWVCpC5RyKiLg.md)
-- [February Feels](/playlists/pretty/37i9dQZF1DX8eMyhtzAuvp.md)
 - [Feel Good Acoustic](/playlists/pretty/37i9dQZF1DWXRvPx3nttRN.md)
 - [Feel Good Beats](/playlists/pretty/37i9dQZF1DXcNb6Ba0LuVc.md)
 - [Feel Good Christmas](/playlists/pretty/37i9dQZF1DX6piCqp6Q8ck.md)
@@ -2686,6 +2686,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Manguito Enchilado](/playlists/pretty/37i9dQZF1DXaxwvKaY7HLh.md)
 - [Manhã Relax](/playlists/pretty/37i9dQZF1DX47UHGK8zGt8.md)
 - [Mapei & Timbuktu Lullabies](/playlists/pretty/37i9dQZF1DX5EArHoxaUqO.md)
+- [March Motivation](/playlists/pretty/37i9dQZF1DX8eMyhtzAuvp.md)
 - [Margaret Walker](/playlists/pretty/37i9dQZF1DX1pKjqvkDHkD.md)
 - [Mariachi 2023](/playlists/pretty/37i9dQZF1DX7VikJCuOpfO.md)
 - [Mariachi Covers](/playlists/pretty/37i9dQZF1DWWDt2FRROOE3.md)
@@ -3705,7 +3706,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Sad Songs](/playlists/pretty/37i9dQZF1DX7qK8ma5wgG1.md)
 - [Sad Soul](/playlists/pretty/37i9dQZF1DXchlyaSeZp0q.md)
 - [Sahara](/playlists/pretty/37i9dQZF1DWWuJFsTMqHYX.md)
-- [Salam!](/playlists/pretty/37i9dQZF1DX38snDqzaVVW.md)
+- [Salam](/playlists/pretty/37i9dQZF1DX38snDqzaVVW.md)
 - [Salsa Boricua](/playlists/pretty/37i9dQZF1DXcZzONSkfC3K.md)
 - [Salsa Classics](/playlists/pretty/37i9dQZF1DX7SeoIaFyTmA.md)
 - [Salsa Colombiana](/playlists/pretty/37i9dQZF1DX18u16ebmQgx.md)

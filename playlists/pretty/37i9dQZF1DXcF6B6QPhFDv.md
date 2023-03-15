@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Meet Me @ The Altar along with the Rock songs you need to hear!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,753,240 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,753,673 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 50 | [CYAN1DE \(feat\. PETE WENTZ\)](https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Pete Wentz](https://open.spotify.com/artist/6eNCYcluBDxyf0kkn4j7rD) | [CYAN1DE \(feat\. Pete Wentz\)](https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR) | 3:51 |
 | 51 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDJlYTllZjBmYjRmZjc1ZjBhYWE0YTkyMmRhOGM5OTIz`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDk3YTRkZTE3YWUyMzIxYWVkZGQ4YmRkOGJhNTFjYzVh`

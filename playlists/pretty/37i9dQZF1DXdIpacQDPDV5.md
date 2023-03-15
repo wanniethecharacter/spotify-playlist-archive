@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: WHIPPED CREAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,459 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,461 likes - 85 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 84 | [Down To Earth](https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Down To Earth](https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr) | 3:00 |
 | 85 | [All I Want](https://open.spotify.com/track/1azvFwFJWipzA89MPBRMfj) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5), [matthew james](https://open.spotify.com/artist/00KE0BfmidRniw6CYYnXJy) | [All I Want](https://open.spotify.com/album/4fwVsLLJVk9nXGOYEVhaXJ) | 3:08 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDA2MDdlMjQ0ZGFlYzU3N2UxYTg4OGNmYTIzNTQ1OTBh`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDM3MmYyYmY2MzY2M2E5ZjYxMzA4MjUzMjYyNTgxMzE5`

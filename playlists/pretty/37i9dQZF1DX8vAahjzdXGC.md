@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,950 likes - 103 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,961 likes - 103 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 28 | [Bersinar](https://open.spotify.com/track/4PaiDBUnMbJ3M8SRk4J7ew) | [Ben Utomo](https://open.spotify.com/artist/2w1klrlMW8RqL6YLOy0OKs), [Kay Oscar](https://open.spotify.com/artist/7EI2yC73aMIPjyOeV0MCgF) | [Bersinar](https://open.spotify.com/album/0l456tqgaeNUr6SnEs2CqW) | 2:46 |
 | 29 | [Orange Form](https://open.spotify.com/track/0bQB2nzHzeaHRHwcDOYFU2) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [HIJACK](https://open.spotify.com/artist/0oKLpxMpjlPi53LWu3HQko), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Orange Form](https://open.spotify.com/album/2SPikt4OfYU79pcvHwvaBG) | 2:31 |
 | 30 | [You Just Walked In My Life](https://open.spotify.com/track/7eRHytSFVvMRNk1at0HkWs) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [You Just Walked In My Life](https://open.spotify.com/album/3r6AKB3Zf1lTcG0et17Hdz) | 2:59 |
-| 31 | [Senyum Di Tanyaku](https://open.spotify.com/track/7p0FdE46KFCmO7MUzo6nxe) | [Dustin Tiffani](https://open.spotify.com/artist/2XKkENjmo9GBH8g6T3pZsu), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [lagu kami tentang kamu](https://open.spotify.com/artist/6SnqKVMczGDQRmhvXcqZun) | [Senyum Di Tanyaku](https://open.spotify.com/album/7hWmhWui7loYqxk1lB4ODs) | 2:47 |
+| 31 | [Senyum Di Tanyaku](https://open.spotify.com/track/7p0FdE46KFCmO7MUzo6nxe) | [lagu kami tentang kamu](https://open.spotify.com/artist/6SnqKVMczGDQRmhvXcqZun), [Dustin Tiffani](https://open.spotify.com/artist/2XKkENjmo9GBH8g6T3pZsu), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm) | [Senyum Di Tanyaku](https://open.spotify.com/album/7hWmhWui7loYqxk1lB4ODs) | 2:47 |
 | 32 | [Sengaja Salah](https://open.spotify.com/track/2DE7dbjYptPP9UZyo6fAp6) | [RiriMoeya](https://open.spotify.com/artist/1lRZLZkris2oSYTwkkHXMx) | [Sengaja Salah](https://open.spotify.com/album/78ZsMEndgNH1FJ4NE4XcBs) | 3:31 |
 | 33 | [Katakan](https://open.spotify.com/track/5xdwuqNy6pwXa8pbv1JO7d) | [Alessa](https://open.spotify.com/artist/6KPOKd7taNna1xLsfpalli) | [Katakan](https://open.spotify.com/album/2MrzRQnOKHGspnRFZSS0cF) | 3:08 |
 | 34 | [Home For My Heart](https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Home For My Heart](https://open.spotify.com/album/51XNz5aKjz3NjAZNQY40bp) | 2:38 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 102 | [Tak Setia](https://open.spotify.com/track/0cxAyLvb2gvVAmPYVi67Bn) | [The Virgin](https://open.spotify.com/artist/7tXc4Tew6Bnr4moD7OeBfJ) | [Tak Setia](https://open.spotify.com/album/2LoCNDyFpb6AO0f6SnvgE1) | 3:34 |
 | 103 | [Suara 2 \(Bertaruh Rindu\)](https://open.spotify.com/track/60kxgtECI9KfsJPw1EZHzH) | [Hijau Daun](https://open.spotify.com/artist/79cB6hoLLTE9sPKYyJ8W64) | [Suara 2 \(Bertaruh Rindu\)](https://open.spotify.com/album/1lbW8S1P6aYyFJLT8RPO3s) | 4:15 |
 
-Snapshot ID: `MTY3ODQzODgwMCwwMDAwMDAwMGU1MzFjYjJlOGVjNjZlNjVlZDkyZjNmYTFkOTNlMzc2`
+Snapshot ID: `MTY3ODQzODgwMCwwMDAwMDAwMGRlYzE5M2YyZGE5ODg1NDgyZTc0NTYxMGQ3MDU5MDFi`

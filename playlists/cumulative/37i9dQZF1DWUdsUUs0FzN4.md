@@ -4,7 +4,7 @@
 
 > Con licuachela en mano y perreando hasta el piso\. Rosa ✞ Pistola en portada
 
-134 songs - 6 hr 46 min
+135 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Bellaka & Romantika](https://open.spotify.com/track/3jY5L0b40kAQArQbTnay9c) | [Chocolate Remix](https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m), [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [El Licenciado](https://open.spotify.com/artist/6OJ2DXPdpVl88gYuQkqzxY) | [Vente Cariña](https://open.spotify.com/album/3n4el3WQZsBA9mlzIdwWp3) | 2:13 | 2022-12-16 | 2023-02-18 |
 | [Bellaqueo](https://open.spotify.com/track/3JGq5tQ2w9L9uoogNjc1VI) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [Sir Speedy](https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s) | [Bellaqueo](https://open.spotify.com/album/1fmElrJHcZ7h94fcadBbPw) | 2:14 | 2022-01-04 | 2022-07-29 |
 | [BEYAKO](https://open.spotify.com/track/2EAOt2do7mwO26jsPi6ayM) | [La uVe](https://open.spotify.com/artist/6auHVkQ1ETlT2ATkKUqkcV), [Jay Reyes](https://open.spotify.com/artist/03Dn9uP4M23rTmefDAljvH), [DJ Bull Blood](https://open.spotify.com/artist/0eoOu0jwnbzFWyp93RWXSt) | [BEYAKO](https://open.spotify.com/album/7pXFTJExzqj5EgXXozcHtK) | 3:09 | 2023-02-24 | 2023-03-04 |
-| [Bien Bebé](https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Bien Bebé](https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4) | 2:43 | 2022-08-19 |  |
+| [Bien Bebé](https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Bien Bebé](https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4) | 2:43 | 2022-08-19 | 2023-03-15 |
+| [Bien Bebé](https://open.spotify.com/track/74LXuYE8UubyCvLIrslqG5) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Bien Bebé](https://open.spotify.com/album/2JzeX6UfR90xudmwryUOsk) | 2:43 | 2022-12-16 |  |
 | [Bote](https://open.spotify.com/track/2RArte8IU0pyq88x5W5xzV) | [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp), [Los Menores](https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Bote](https://open.spotify.com/album/7aB9Nj7knwtrKbUSfYEgSH) | 2:58 | 2022-01-04 | 2022-07-29 |
 | [Briyyo](https://open.spotify.com/track/0QkHlOTxQTPbOO3EuBK76V) | [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Los Menores](https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal) | [Briyyo](https://open.spotify.com/album/4XW84mAfsxxU8VhyePSGkn) | 3:15 | 2022-01-04 | 2022-07-15 |
 | [Bugu](https://open.spotify.com/track/6WV7h73AArddBvXjExvYS9) | [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Super Kai](https://open.spotify.com/artist/0F1QfgSUowc0ZpxE4bvtkK) | [Bugu](https://open.spotify.com/album/2WPELRRTwKBNh48B32Xd7Q) | 3:29 | 2022-01-04 | 2022-07-29 |

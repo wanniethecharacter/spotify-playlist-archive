@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Ashley Mehta
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,163 likes - 99 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,235 likes - 99 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 98 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:23 |
 | 99 | [I'm Sorry I Killed Your Plant](https://open.spotify.com/track/4xg7JHSLE6FDeaR9zqo18G) | [Skofee](https://open.spotify.com/artist/3WTOG7w0dyNnKAyoqNxzzg) | [I'm Sorry I Killed Your Plant](https://open.spotify.com/album/6GLTQZIqOPi8XyWZLF6JLR) | 2:56 |
 
-Snapshot ID: `MTY3ODM3OTcyMywwMDAwMDAwMDFlZjRkMDY3MWE1MWIyN2U3N2VhNjIyMjdlNjliNjVj`
+Snapshot ID: `MTY3ODM3OTcyMywwMDAwMDAwMDY0MTc3NDI2OTZjOGQ4M2VlZDRiY2VlNGY5YzczNGQ2`

@@ -778,7 +778,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 184196,
       "name": "El Baba",
       "url": "https://open.spotify.com/track/5RJ36vbZUMFzS70hX6nx0k"
@@ -3202,6 +3202,24 @@
       "duration_ms": 178321,
       "name": "\u0643\u0627\u0628\u062a\u0646",
       "url": "https://open.spotify.com/track/6dR03uJtlIIIfQsf6EuesI"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0644\u0645\u0647 \u0642\u0628\u0644 \u0645\u0627 \u0623\u0645\u0648\u062a",
+        "url": "https://open.spotify.com/album/5WsEgRP7J49LpLJXWsUyZe"
+      },
+      "artists": [
+        {
+          "name": "Shehab",
+          "url": "https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "\u0643\u0644\u0645\u0647 \u0642\u0628\u0644 \u0645\u0627 \u0623\u0645\u0648\u062a",
+      "url": "https://open.spotify.com/track/34Er1nEt74AVX8Rf4XNjME"
     },
     {
       "album": {

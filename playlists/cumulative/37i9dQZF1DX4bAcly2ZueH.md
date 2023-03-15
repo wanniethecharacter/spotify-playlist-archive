@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-117 songs - 6 hr 16 min
+118 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Make You Mine](https://open.spotify.com/track/0h3UTKzYwj9tzWvwkAcjcM) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Make You Mine](https://open.spotify.com/album/7ujA7khAkrOrhr7eNSUjDK) | 2:34 | 2022-10-11 | 2023-03-08 |
 | [Maru](https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Maru](https://open.spotify.com/album/6ViM3Un8Bka8ToQXC92QFr) | 2:47 | 2022-10-11 |  |
 | [Mercy](https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Mercy](https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl) | 3:48 | 2022-10-11 |  |
-| [Mirage](https://open.spotify.com/track/5mV7HHYf0uYQTbk1HWDoCW) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Mirage](https://open.spotify.com/album/245D6HaTivYD87OTFiEr5Q) | 3:13 | 2022-10-11 |  |
+| [Mirage](https://open.spotify.com/track/5mV7HHYf0uYQTbk1HWDoCW) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Mirage](https://open.spotify.com/album/245D6HaTivYD87OTFiEr5Q) | 3:13 | 2022-10-11 | 2023-03-15 |
+| [MoonWARker](https://open.spotify.com/track/3lO8HR3TLoTBdRpIwrGwCr) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [MoonWARker](https://open.spotify.com/album/07nqSdRJLbcCew1ucAH3Je) | 2:44 | 2023-03-14 |  |
 | [Muse](https://open.spotify.com/track/2dljglWGEZVoLUSG8JArpE) | [mndbd](https://open.spotify.com/artist/2mqFsaoDarpyIIRowWT3Ci), [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Introspect](https://open.spotify.com/album/65OBZP52AzrI4W5oUVoXPV) | 1:07 | 2022-10-11 |  |
 | [Naps](https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v) | 3:58 | 2022-10-11 | 2023-02-18 |
 | [Naps](https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl) | 3:58 | 2023-02-14 |  |

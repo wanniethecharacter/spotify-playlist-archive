@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: sokodomo, Vice Versa, Don Mills, Smugglers\)\)
 
-832 songs - 1 day 22 hr 16 min
+834 songs - 1 day 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [CHANEL N.5](https://open.spotify.com/track/7pwgbW5Njwg6YQlZeLkR1t) | [Views in i](https://open.spotify.com/artist/6tAcBtwTtklMKSYcQc5qvV), [Skyminhyuk](https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM) | [MARILYN VIEWS](https://open.spotify.com/album/58vfYrv6xOiOJZYfBiMZ2t) | 2:19 | 2022-03-29 | 2022-06-16 |
 | [Che' Nobe \(Behind The Scenes\)](https://open.spotify.com/track/5guHbNpOGPkt37KxEw9hm1) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Behind The Scenes](https://open.spotify.com/album/66cmeGHaNwZwH7hCPfVLdX) | 3:27 | 2023-01-20 |  |
 | [Cheap talk \(Feat\. JUSTHIS\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/31l7az7JT4boi5BjUth78k) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Cheap talk](https://open.spotify.com/album/235Q8MzZnlCV7RPLsMTeHJ) | 3:41 | 2021-12-18 | 2022-07-04 |
+| [Cheating Day \(Prod\. imeanseoul x wavyburnz x LifeisGacha\)](https://open.spotify.com/track/4onOVqI25eJHk6OlFJultJ) | [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ) | [Cheating Day \(Prod\. imeanseoul x wavyburnz x LifeisGacha\)](https://open.spotify.com/album/1qLTOhMdsnhKhpYrgXM3Fe) | 2:54 | 2023-03-14 |  |
 | [Checks \(Feat\. SUPERBEE, Jay Park & The Quiett\)](https://open.spotify.com/track/5lE0fWZIeZ4qAzooznV8Lm) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 2:58 | 2022-03-05 | 2022-04-21 |
 | [Cherish](https://open.spotify.com/track/0Fw9QIr1EMXMR4p6c7DEkE) | [Son Chamchi](https://open.spotify.com/artist/1DQsSFmlJUKZuyKZjJMlN2) | [Cherish](https://open.spotify.com/album/1N6TrmRxjorAX5XPqcvhR0) | 3:25 | 2022-01-04 | 2022-06-30 |
 | [CHICKEN DINNA](https://open.spotify.com/track/2bll3Te3bvaxRV0TfzxNfs) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [REDDY ACTION](https://open.spotify.com/album/76kX8iTykE1stIV3kTY9UV) | 3:40 | 2022-10-13 | 2023-01-20 |
@@ -280,6 +281,7 @@
 | [Glow \(feat\. Royal 44\)](https://open.spotify.com/track/3eO9L6VaAiXmX1s59uD3b1) | [Xwally](https://open.spotify.com/artist/1bJudkGbYinY2AIQeEi9Cd), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [XARCHIVE](https://open.spotify.com/album/4cP3cA5rtTkXi5iIDrfwaW) | 3:25 | 2023-02-24 |  |
 | [Go \(Prod\. GIRIBOY\)](https://open.spotify.com/track/3os9pSsg1aiL9sds6vFr8h) | [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:01 | 2023-01-02 |  |
 | [Go Back](https://open.spotify.com/track/4WRzvrqXTdzpEB6KaO1Oqh) | [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [Go Back](https://open.spotify.com/album/2hb3zy9V9edKEGESIaUXaH) | 3:06 | 2022-10-25 |  |
+| [GO LOUD! \(Feat\. punchnello\) \(Prod\. Padi\)](https://open.spotify.com/track/1maXqI1F1K8a51z2JWIchw) | [Kidd King](https://open.spotify.com/artist/5bOD7SS2RP7gzcNstJeCuF), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [GO LOUD!](https://open.spotify.com/album/7CsaWY1dUP0CfCR68e5wNB) | 2:27 | 2023-03-14 |  |
 | [Go Way](https://open.spotify.com/track/7IXcYYamS2tIOV2EXeJktG) | [Sway D](https://open.spotify.com/artist/3HfWEOcXit3EkuRCt5M3Yd) | [Go Way](https://open.spotify.com/album/77Wrn4DojRzDULosl0Lx79) | 3:36 | 2021-12-29 | 2022-04-14 |
 | [GO!](https://open.spotify.com/track/0o4SZSFkZlsDUQr4Gf0aFI) | [Kash Bang](https://open.spotify.com/artist/4Dg0FW3kt3GShHgwPbY1bj) | [GO!](https://open.spotify.com/album/5w7VDQT9SVPvOUsoZhVrNi) | 1:51 | 2022-11-07 | 2022-11-17 |
 | [Go, dude !](https://open.spotify.com/track/1YWO7jS4KEyIW8aZvHcba2) | [ChaMane](https://open.spotify.com/artist/2jyURAEr7r2UfWMpFQDOQd) | [26](https://open.spotify.com/album/4S72a69hZrCFmoPzclt3QR) | 2:28 | 2022-04-08 | 2022-04-13 |

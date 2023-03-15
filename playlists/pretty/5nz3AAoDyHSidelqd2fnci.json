@@ -6,26 +6,122 @@
     "name": "Felipe Arriagada PIPEMANUEL",
     "url": "https://open.spotify.com/user/12145835791"
   },
-  "snapshot_id": "MjcsYWNlMWFiMDI1ZGNmMGM5MGIzZmYxNWFmN2Q5MzE4NGM2ZGUwNTQxYg==",
+  "snapshot_id": "MjgsMmVkNjRjNDA4ZGFhMTU3NWVjYWQ4NzJhZjZiYWQwNzE4OTRkMmM4YQ==",
   "tracks": [
     {
-      "added_at": "2023-03-13 19:47:57",
+      "added_at": "2023-03-14 19:48:58",
       "album": {
-        "name": "My Own Mind",
-        "url": "https://open.spotify.com/album/0j60S1Q9VorL4xFUpYJQrt"
+        "name": "Beyond The Sea",
+        "url": "https://open.spotify.com/album/6kBY3AkEPLE4sZ1ULhYhAS"
       },
       "artists": [
         {
-          "name": "SUDS",
-          "url": "https://open.spotify.com/artist/4u6gl0WUBFGfLaBABuqIA5"
+          "name": "Dark Moor",
+          "url": "https://open.spotify.com/artist/0YWKRTzA4kBceGwjywtMkh"
         }
       ],
-      "duration_ms": 267404,
-      "name": "My Own Mind",
-      "url": "https://open.spotify.com/track/3AfMsHgJQU9CxQf0Im4AcL"
+      "duration_ms": 230600,
+      "name": "Before the Duel",
+      "url": "https://open.spotify.com/track/4ga3uUilqlbZeRJZh5P004"
     },
     {
-      "added_at": "2023-03-13 19:47:57",
+      "added_at": "2023-03-14 19:48:58",
+      "album": {
+        "name": "The Undying Darkness",
+        "url": "https://open.spotify.com/album/2biyXYgABCNpGMltZ3pdb1"
+      },
+      "artists": [
+        {
+          "name": "Caliban",
+          "url": "https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "I Rape Myself",
+      "url": "https://open.spotify.com/track/60o1z4x6QmuYUbxgoerX3Y"
+    },
+    {
+      "added_at": "2023-03-14 19:48:58",
+      "album": {
+        "name": "Popped In Souled Out",
+        "url": "https://open.spotify.com/album/5HqzVjfKEE9nMOYpQxQiz1"
+      },
+      "artists": [
+        {
+          "name": "Wet Wet Wet",
+          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
+        }
+      ],
+      "duration_ms": 316866,
+      "name": "Angel Eyes (Home And Away)",
+      "url": "https://open.spotify.com/track/2ClEdZjrJD2lQOrWU1qqO5"
+    },
+    {
+      "added_at": "2023-03-14 19:48:58",
+      "album": {
+        "name": "High Like a Plane",
+        "url": "https://open.spotify.com/album/5tMVaUg3Ph1H0SPBWXSqqc"
+      },
+      "artists": [
+        {
+          "name": "Ahh-Ceh",
+          "url": "https://open.spotify.com/artist/4olexgy8UT7pHhzFjLplyP"
+        }
+      ],
+      "duration_ms": 239343,
+      "name": "High Like a Plane",
+      "url": "https://open.spotify.com/track/275QQuIkO36GnffrfVHGVz"
+    },
+    {
+      "added_at": "2023-03-14 19:48:58",
+      "album": {
+        "name": "LIVING THINGS",
+        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 106360,
+      "name": "VICTIMIZED",
+      "url": "https://open.spotify.com/track/35jdp4bY3CABKBroODRq7Y"
+    },
+    {
+      "added_at": "2023-03-14 19:48:58",
+      "album": {
+        "name": "Jesus Christ",
+        "url": "https://open.spotify.com/album/28QSE6vaNRA2ZkRK5luNhq"
+      },
+      "artists": [
+        {
+          "name": "Matilda Marigolds",
+          "url": "https://open.spotify.com/artist/1Bahs2JN67RjH6j5JMOytr"
+        }
+      ],
+      "duration_ms": 319375,
+      "name": "Jesus Christ",
+      "url": "https://open.spotify.com/track/1FHqLxctCO6J96ULx0lK2F"
+    },
+    {
+      "added_at": "2023-03-14 19:48:58",
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 217524,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
+    },
+    {
+      "added_at": "2023-03-14 19:48:58",
       "album": {
         "name": "Restoring Force: Full Circle",
         "url": "https://open.spotify.com/album/2MqYypIxDlwcPNc1T90fO2"
@@ -36,169 +132,73 @@
           "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Space Enough To Grow",
-      "url": "https://open.spotify.com/track/4bvskHeaENsdxd5OQopmV6"
+      "duration_ms": 219893,
+      "name": "Never Giving Up",
+      "url": "https://open.spotify.com/track/6JrHK494fKTg8X0PfOfA0l"
     },
     {
-      "added_at": "2023-03-13 19:47:57",
+      "added_at": "2023-03-14 19:48:58",
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+        "name": "Dude Ranch",
+        "url": "https://open.spotify.com/album/5IlIcdN5FKmqkhZcWNAqoW"
       },
       "artists": [
         {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 246800,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
+      "duration_ms": 148306,
+      "name": "Degenerate",
+      "url": "https://open.spotify.com/track/5zaqXwiJTWi0TWxbHVitlb"
     },
     {
-      "added_at": "2023-03-13 19:47:57",
+      "added_at": "2023-03-14 19:48:58",
       "album": {
-        "name": "Un Canto Al Pueblo, Vol. 1",
-        "url": "https://open.spotify.com/album/3OaYBf63f5rVAAyU84PIeQ"
+        "name": "Alive or Just Breathing (Topshelf Edition)",
+        "url": "https://open.spotify.com/album/7BFo7PKlK9oCPJVPEzNJy7"
       },
       "artists": [
         {
-          "name": "Facundo Cabral",
-          "url": "https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx"
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
         }
       ],
-      "duration_ms": 211722,
-      "name": "Perdon",
-      "url": "https://open.spotify.com/track/3x8O7hS9LHPcbhmR3zCTaT"
+      "duration_ms": 197093,
+      "name": "Life to Lifeless",
+      "url": "https://open.spotify.com/track/1Xp4ErFLJWvbwD4nl1cr98"
     },
     {
-      "added_at": "2023-03-13 19:47:57",
+      "added_at": "2023-03-14 19:48:58",
       "album": {
-        "name": "His Last Walk",
-        "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
+        "name": "The Black Halo",
+        "url": "https://open.spotify.com/album/1CPdkf84Qe1WBkV0biWwoG"
       },
       "artists": [
         {
-          "name": "blessthefall",
-          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+          "name": "Kamelot",
+          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
         }
       ],
-      "duration_ms": 631333,
-      "name": "His Last Walk",
-      "url": "https://open.spotify.com/track/2DE6LpCfemne6aWM7ixIL4"
+      "duration_ms": 328973,
+      "name": "March Of Mephisto",
+      "url": "https://open.spotify.com/track/6sxqSN9YxAHzMzJ8u835J5"
     },
     {
-      "added_at": "2023-03-13 19:47:57",
+      "added_at": "2023-03-14 19:48:58",
       "album": {
-        "name": "That's The Spirit (Track by Track Commentary)",
-        "url": "https://open.spotify.com/album/6XPW94L30lADaLwczUnLFh"
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 88960,
-      "name": "Doomed - Commentary",
-      "url": "https://open.spotify.com/track/7y3qprHf1FA8Q3xNTFLKjD"
-    },
-    {
-      "added_at": "2023-03-13 19:47:57",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 325493,
-      "name": "Let It Rock",
-      "url": "https://open.spotify.com/track/6BHtTBtKb4BppT3ykEl8GZ"
-    },
-    {
-      "added_at": "2023-03-13 19:47:57",
-      "album": {
-        "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 340920,
-      "name": "Clint Eastwood",
-      "url": "https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx"
-    },
-    {
-      "added_at": "2023-03-13 19:47:57",
-      "album": {
-        "name": "Desolation of Eden",
-        "url": "https://open.spotify.com/album/3aLSNKBvxIWL0d8cshVZat"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "Cast from Perfection",
-      "url": "https://open.spotify.com/track/0j5IGfFOLxmsVId1zw5P52"
-    },
-    {
-      "added_at": "2023-03-13 19:47:57",
-      "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/3t3owRZbkMZrjZOAseeMoY"
-      },
-      "artists": [
-        {
-          "name": "Sam Short",
-          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/6yU6o0fbGhtKNFyKDcL8zJ"
-    },
-    {
-      "added_at": "2023-03-13 19:47:57",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/6Nvv5Jrk3cg5BdplDxEsHq"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 218946,
-      "name": "No Me Falles",
-      "url": "https://open.spotify.com/track/4esJIc8V94chpvUfB6Rnna"
-    },
-    {
-      "added_at": "2023-03-13 19:47:57",
-      "album": {
-        "name": "Black Sabbath Vol. 4 (Remastered)",
-        "url": "https://open.spotify.com/album/2PoPhjSYlXmYfkNKHVq1cQ"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 170191,
-      "name": "Laguna Sunrise",
-      "url": "https://open.spotify.com/track/7E3ofLA3h82nIUJBRoV5pL"
+      "duration_ms": 208960,
+      "name": "Crawling",
+      "url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"
     }
   ],
   "unique_name": "import of The daily dozen (@pipemanuel10)",

@@ -1,12 +1,12 @@
 {
   "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Kyan",
-  "num_followers": 80706,
+  "num_followers": 80732,
   "original_name": "Dose Trap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODcyNzgwNSwwMDAwMDAwMDM5ODA1NTM5MWE3MzVkMDQ0NjQ0ZjM2YjIwMWQzMWQw",
+  "snapshot_id": "MTY3ODcyNzgwNSwwMDAwMDAwMDc1NmI1ZWUxZDc1NzcwMTNmNWJiZjBhMTE2OTExN2Iz",
   "tracks": [
     {
       "added_at": "2023-03-13 17:16:45",
@@ -758,6 +758,10 @@
         {
           "name": "Lil Chainz",
           "url": "https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB"
+        },
+        {
+          "name": "TcheloBeats",
+          "url": "https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B"
         }
       ],
       "duration_ms": 125649,

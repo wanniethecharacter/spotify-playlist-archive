@@ -4,7 +4,7 @@
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-312 songs - 14 hr 54 min
+313 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [Put It On Me](https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Vita](https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU) | [Rule 3:36](https://open.spotify.com/album/2PIXzzS8WEzv8Ws92qspEH) | 4:22 | 2022-11-08 | 2022-12-06 |
 | [Quarantine Freestyle](https://open.spotify.com/track/0FbadhqQBOrKje9TmwfXl7) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [GMTO Vol\. 1 \(Get Money Take Over\)](https://open.spotify.com/album/4UDPZgxZy3VnIFQ8os0G29) | 2:05 | 2022-11-08 | 2022-12-06 |
 | [RAF \(feat\. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean\)](https://open.spotify.com/track/4pdgV8qr9Oytcv6thCdiIZ) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Cozy Tapes Vol\. 2: Too Cozy](https://open.spotify.com/album/0qr1Fvi1haEDWVbFtekZLb) | 4:15 | 2022-07-12 | 2022-10-08 |
-| [RAGGY](https://open.spotify.com/track/1TtYyYobKND0zPwnkdcT8k) | [SpliffHappy](https://open.spotify.com/artist/5K8DPehdUSrqBsICbIxDOR) | [RAGGY](https://open.spotify.com/album/6V2We19WivZ1hfgBiRfGo9) | 1:10 | 2023-02-01 |  |
+| [RAGGY](https://open.spotify.com/track/1TtYyYobKND0zPwnkdcT8k) | [SpliffHappy](https://open.spotify.com/artist/5K8DPehdUSrqBsICbIxDOR) | [RAGGY](https://open.spotify.com/album/6V2We19WivZ1hfgBiRfGo9) | 1:10 | 2023-02-01 | 2023-03-15 |
+| [RAGGY](https://open.spotify.com/track/5nGRcZN7vHvxjDbJqpZNwa) | [SpliffHappy](https://open.spotify.com/artist/5K8DPehdUSrqBsICbIxDOR) | [RAGGY](https://open.spotify.com/album/5x81IyLCJluBs31Tj48BJM) | 1:10 | 2023-02-01 |  |
 | [Remember \(with Nigo\)](https://open.spotify.com/track/0PGRXJFSwpn5OAGFpEwiqK) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 2:15 | 2022-04-15 | 2022-07-30 |
 | [Represent](https://open.spotify.com/track/6DPrhGVJ1WTZvM9fKptnGe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:12 | 2022-07-12 | 2022-07-30 |
 | [Ride The O](https://open.spotify.com/track/38f5ZX4rY3LjcfUGyeAFpw) | [Edot Babyy](https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7) | [Ride The O](https://open.spotify.com/album/2Ql4tYsolLRg6Gmgqbg0SI) | 1:47 | 2022-07-01 | 2022-07-13 |

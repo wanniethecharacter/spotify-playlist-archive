@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Israel Salazar
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,553 likes - 80 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,714 likes - 80 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Pai](https://open.spotify.com/track/518dbOPcDV45Zi2u1VEITp) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Pai](https://open.spotify.com/album/2U65qCgWMTyJCfwABYbfnT) | 5:21 |
 | 80 | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/track/5NWZfAvvjPkXxz00Vugg9q) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/album/2YzdSN1IQZJlISrbINPnSM) | 4:31 |
 
-Snapshot ID: `MTY3ODQ5ODg4MSwwMDAwMDAwMGY0NWZmMDFjMTJlZDE3MGU1MTk5NmVmNGZhYjYxNTI5`
+Snapshot ID: `MTY3ODQ5ODg4MSwwMDAwMDAwMDBjZTlhNDQxNTUyZTMxN2YzNzI1ZDk1Njg1N2Q4YWYx`

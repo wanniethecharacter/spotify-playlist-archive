@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new Experimental by independent artists and labels, with Kate NV on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,083 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,133 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 99 | [Heard Upwards](https://open.spotify.com/track/6wUR2Kf3kpZPEauCYfCffM) | [Frog of Earth](https://open.spotify.com/artist/5DHD6c7l9xy2eW9xqhRc8U) | [Heard Upwards](https://open.spotify.com/album/48JDDwcRlVXlj9euSHGRib) | 4:40 |
 | 100 | [Vaya Pues](https://open.spotify.com/track/1WYzqnLbSMLL8MlNoEdozC) | [Tomás Urquieta](https://open.spotify.com/artist/0FvPx0jMxVB5f1B9SECQXh) | [32 Balas](https://open.spotify.com/album/6MUNNkg58Tz1MUlKErASw5) | 3:34 |
 
-Snapshot ID: `MTY3NzY4ODYxMiwwMDAwMDAwMDkyMzc4ZDMxZTRmMDdiYjE4NjkzMTM4OWVjYzRiMGM5`
+Snapshot ID: `MTY3NzY4ODYxMiwwMDAwMDAwMDI0MzM0MzA4ZDVhMzJiYTY4MjkxOTI3Njk5NjI4MDYy`

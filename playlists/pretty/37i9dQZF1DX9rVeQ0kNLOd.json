@@ -1,12 +1,12 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 13912,
+  "num_followers": 13924,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODc1MjAyMywwMDAwMDAwMDY1NmFkN2ZjNGQ4NDNkOTU0NmY3MGE3NmEyNzQ2ODQw",
+  "snapshot_id": "MTY3ODc1MjAyMywwMDAwMDAwMDRhYjkzYTA2ODRlMWE2YWJkNDQ0MWU1ZDc1YmViM2Q1",
   "tracks": [
     {
       "added_at": "2023-03-14 00:00:23",
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-03-14 00:00:23",
       "album": {
+        "name": "HUES",
+        "url": "https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "duration_ms": 172455,
+      "name": "SORA",
+      "url": "https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL"
+    },
+    {
+      "added_at": "2023-03-14 00:00:23",
+      "album": {
         "name": "Like No One's Done",
         "url": "https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ"
       },
@@ -267,6 +283,22 @@
       "duration_ms": 224786,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i"
+    },
+    {
+      "added_at": "2023-03-14 00:00:23",
+      "album": {
+        "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
+        "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "duration_ms": 290666,
+      "name": "\u7f8e\u8ac7",
+      "url": "https://open.spotify.com/track/4CjfEPZ9S0Rh8sZXqVL45Y"
     },
     {
       "added_at": "2023-03-14 00:00:23",
@@ -459,6 +491,22 @@
       "duration_ms": 223157,
       "name": "\u3053\u3053\u306b\u3044\u3088\u3046",
       "url": "https://open.spotify.com/track/5krCrPrv0xU9ubHYRHLv6l"
+    },
+    {
+      "added_at": "2023-03-14 00:00:23",
+      "album": {
+        "name": "\u82b1\u964d\u308b\u6642\u306e\u5f7c\u65b9",
+        "url": "https://open.spotify.com/album/7amC6JkIzmrsCfFec2w6gx"
+      },
+      "artists": [
+        {
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        }
+      ],
+      "duration_ms": 364810,
+      "name": "\u82b1\u964d\u308b\u6642\u306e\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/3B5gmn2BdUzNFzzw2aAoPs"
     },
     {
       "added_at": "2023-03-14 00:00:23",

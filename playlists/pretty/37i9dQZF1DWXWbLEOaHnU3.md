@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,724 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,978 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 74 | [Locos](https://open.spotify.com/track/6BQnoBulQozQZftBCcQMEw) | [Fresh Drop](https://open.spotify.com/artist/6wlfDafUCKXnI1czm6uXZi), [Brandon Hombre](https://open.spotify.com/artist/6qkkXjwUwpMqFSL98y95aU), [Trip\-Tamine](https://open.spotify.com/artist/0ap0HvoHVGPmbqVxjWGEtT) | [Locos](https://open.spotify.com/album/7fiOw6vOVbQ0sUwwE5Gq4L) | 3:50 |
 | 75 | [The Blood \- Abraxis Remix](https://open.spotify.com/track/4loaayWo7pIYpXLhbWwqe2) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Abraxis](https://open.spotify.com/artist/0VVfeAF66rSXe5NcSLuTs7) | [10 Years of Seven Lions](https://open.spotify.com/album/4GeCvjfDFBbGscwqQ3fA9S) | 6:02 |
 
-Snapshot ID: `MTY3NDIwMTA0MiwwMDAwMDAwMGZmMThiYzIxNjhlMDkyNTgyOGE5OTAwZTIwZjg1MGU4`
+Snapshot ID: `MTY3NDIwMTA0MiwwMDAwMDAwMGFmODA2ZDViM2QyY2FjZDdhM2M5NzM4ZWRlOTQxMDNj`

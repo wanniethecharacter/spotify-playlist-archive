@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,641 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,701 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [Wide Asleep](https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wide Asleep](https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64) | 4:12 |
 | 60 | [Deep in a Hole](https://open.spotify.com/track/1isXA4Z9dn35PG1PXw1bjY) | [FREESPIRITS](https://open.spotify.com/artist/0nPrFoUuwcB27aaf1qEOak) | [Deep in a Hole](https://open.spotify.com/album/24Z64bp6ZcVXxxrAIIbTyH) | 3:54 |
 
-Snapshot ID: `MTY3ODc0ODE1MCwwMDAwMDAwMDQ1Y2U2MmRmMjc0OTk0ODI4MWUxNDRkOGE4YTExNzlh`
+Snapshot ID: `MTY3ODc0ODE1MCwwMDAwMDAwMDM4M2FhMTQ5MjRmYjBmNWRjNDZmOTMyYjExNDAzMzBl`

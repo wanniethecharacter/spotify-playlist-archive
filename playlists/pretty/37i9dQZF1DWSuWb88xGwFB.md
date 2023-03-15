@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,489 likes - 75 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,518 likes - 75 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [Move Your Body \(feat\. LaVette\) \- Radio Mix](https://open.spotify.com/track/6fFY4e2cHZ0EMXa0J1cDlD) | [Chicago Syndicate](https://open.spotify.com/artist/5befKalz5kgPwZbF4eXtXK), [LaVette](https://open.spotify.com/artist/4iEyCQwLkQtfrBUu0KIjTY) | [Move Your Body \(feat\. LaVette\) \[Mixes\]](https://open.spotify.com/album/7pwWTloEJg93j4bw8obPfH) | 3:48 |
 | 75 | [My People \- My People Mix](https://open.spotify.com/track/0Wf3Ko5HwW390Y08KWh90L) | [Shadii](https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 5:42 |
 
-Snapshot ID: `MTY0NjMxNTk1NiwwMDAwMDAwMGEyMmZkYTJhMjg1OGNjNzYyNmQ5ZWI3NmFjZjFiODUw`
+Snapshot ID: `MTY0NjMxNTk1NiwwMDAwMDAwMDRjNTIwZDAyNDMzNjEyZDUyNWQyNTg5YjU0NjQ0MmUw`

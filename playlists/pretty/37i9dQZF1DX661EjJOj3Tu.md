@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,789 likes - 100 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,915 likes - 100 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [La Explicación](https://open.spotify.com/track/2HlWEGp5Hefb38uuwEL4dI) | [Hugo Fattoruso](https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9), [Daniel Maza](https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7), [Fabián Miodownik](https://open.spotify.com/artist/0id6cJE1cdObojEVJ8K5ym) | [Trío Oriental](https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX) | 2:10 |
 | 100 | [Descarga Valdés](https://open.spotify.com/track/2fKIOUrSKTpI6LlRRELZ7a) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 4:49 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDFhODFhOTY1MzhmNWEyYzc4ODkxOTdiZWFhOWJhNTUw`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGY5MDA3MWY0MDFlNDgwNTgxOWI3YjZjZDUyOTc4NDgw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie\. Cover: Juan Pablo Vega & Ximena Sariñana
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,685 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,734 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 99 | [Love a Morir](https://open.spotify.com/track/4k73TrsfxLhw4Wdjl8x6ya) | [José Hoek](https://open.spotify.com/artist/0bq9MHfPforgiUxuuffVzs) | [Love a Morir](https://open.spotify.com/album/08AODWYrk5l7GHcyR6fTGC) | 2:48 |
 | 100 | [Cliché](https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Cliché](https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E) | 3:16 |
 
-Snapshot ID: `MTY3ODcyNzczNiwwMDAwMDAwMDk3MTJmNzg3YWQ5ZjA5MmQ0OTU0NDAxN2ExYjkzZDMz`
+Snapshot ID: `MTY3ODcyNzczNiwwMDAwMDAwMGZiMjUwM2JhMTY0MTgxYzQ1Y2Q0NTlhMDY0ODFlNDk0`

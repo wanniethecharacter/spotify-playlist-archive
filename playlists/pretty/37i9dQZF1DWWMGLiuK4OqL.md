@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,637 likes - 150 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,797 likes - 150 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 149 | [Doop\-Doo\-De\-Doop a Doodlin' Song](https://open.spotify.com/track/3EjfZfDx8fxsUZrhomIkNA) | [Grasiela Piasson](https://open.spotify.com/artist/4Pj02WhBGYtttMP4iud5hn), [Guga Stroeter](https://open.spotify.com/artist/6AZWEt3SrpxmPIuzT10RSk) | [Grasiela Piasson & Guga Stroeter](https://open.spotify.com/album/1bZ1IxMM8lVMtMVkLWqSZ4) | 2:16 |
 | 150 | [Don't Cry Baby](https://open.spotify.com/track/5hLiMgK0oIx8t9AwO3Pm3P) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:18 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGJmOTNhZDVmZWJhOTM1MmRjYzZhZDc0N2Q1ZjlkOTM2`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGMyYWJkNTQxYzgzZDA3MGZlZWE0MmNhODdlNDVjOGJh`

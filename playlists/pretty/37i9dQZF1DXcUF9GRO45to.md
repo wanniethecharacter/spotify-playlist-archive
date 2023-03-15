@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,986 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,027 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 99 | [Drift](https://open.spotify.com/track/367PCAccIOOMRfnaSKtFDG) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs/Motion Return](https://open.spotify.com/album/0HNoauBRe7vw3WlqH9APbM) | 3:47 |
 | 100 | [Hangover](https://open.spotify.com/track/3DbgF86SyidgINXtIx1qnV) | [Nobody's Cult](https://open.spotify.com/artist/2u9TRDPmCOUfSsP0WTFp7R) | [Mood Disorders](https://open.spotify.com/album/0ckv05nXDPG8LxuvCr0mmt) | 3:21 |
 
-Snapshot ID: `MTY3NzUzMzE3OCwwMDAwMDAwMDcwMjc0YjZlMzZlYTNiNzFiMGQyYjRlNTcwZWY1N2Zk`
+Snapshot ID: `MTY3NzUzMzE3OCwwMDAwMDAwMDM1YjlmMmIwNWY0MTJlZThkOWFjNDRmNTcwYzMyMmVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: Flying Lotus
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,272 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,359 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 79 | [Chem Dawg](https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Stimuli](https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt) | 2:24 |
 | 80 | [Nu Jump](https://open.spotify.com/track/6dzqA3xfQFZtq6bluHR0dK) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [Nu Jump](https://open.spotify.com/album/1v7UyCTBjFExnN9eukkZ2L) | 2:44 |
 
-Snapshot ID: `MTY3ODcyODIyNywwMDAwMDAwMGIyZDhkODI2ODQ1NDU5MjNlOGZhNDkzNjExOTVmNGZl`
+Snapshot ID: `MTY3ODcyODIyNywwMDAwMDAwMDM2YWRjMmM0OThmNTA0YzMzZDk4YWZkY2M3OWYxMjIy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mulheres inspiradoras para serem ouvidas no volume máximo\. Co\-curada por Pitty para o Dia Internacional da Mulher!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,900 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,975 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Sobre Você](https://open.spotify.com/track/0cmZ24itg3Hh50jJblbz4m) | [Laura Schadeck](https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS) | [A Insanidade](https://open.spotify.com/album/3wzswapC3piBrbqmlMgL6t) | 2:54 |
 | 50 | [Nunca foi descaso \(feat\. Gab Ferreira\)](https://open.spotify.com/track/4lHDZCW0Ve2DItNdEDxKGw) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Papel de carta](https://open.spotify.com/album/3cT88RfZ2nA2hDrbTm3M9W) | 3:40 |
 
-Snapshot ID: `MTY3ODEzNDQ2MSwwMDAwMDAwMDE5MDZhMDcyOWY0MDFjYzcxODhiN2M2MDU5MzA1N2Q1`
+Snapshot ID: `MTY3ODEzNDQ2MSwwMDAwMDAwMGI1MDgzMDAyZmZjODc1MzFiOTZjOGQxYjQyYzUyZjRl`

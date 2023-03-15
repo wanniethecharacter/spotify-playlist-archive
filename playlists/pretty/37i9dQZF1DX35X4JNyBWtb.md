@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,214 likes - 150 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,961 likes - 150 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 | 149 | [Something New](https://open.spotify.com/track/5C4NMi4fPpdFPnMZVsyG8H) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:07 |
 | 150 | [Take Me Home \(feat\. Bebe Rexha\)](https://open.spotify.com/track/2zMXH5k5NZy1Nw460bLvRh) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Blood, Sweat & 3 Years](https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx) | 3:26 |
 
-Snapshot ID: `MTY3ODExMzY1MCwwMDAwMDAwMDljNjk1MjBiMmMwMzYzMzM0N2Y0YjgyMWQ3ZmZmNjlh`
+Snapshot ID: `MTY3ODExMzY1MCwwMDAwMDAwMGIwOTU4YTQyZWJkZGFkMmNlNzNjNThhY2YyMWJkN2Uz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > When the bassline slaps.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,975 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,093 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 5 | [Somebody's Watching Me](https://open.spotify.com/track/3vrm4dNThrhQ0BArrLIUOV) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC) | [Somebody's Watching Me](https://open.spotify.com/album/2p62jUmltlSQua2IViQBaz) | 2:56 |
 | 6 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 |
 | 7 | [Halo](https://open.spotify.com/track/2kfZCiSWhAYKdxD7o7WLoa) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Halo](https://open.spotify.com/album/6fN9aKsrArw37XP4Wdiiw6) | 2:36 |
-| 8 | [Addicted to you](https://open.spotify.com/track/6YRxaKuVqSSjZzUnoBqYZk) | [Colone](https://open.spotify.com/artist/0pQGruzS2qDKZKC2brjxA9), [Lim3](https://open.spotify.com/artist/1Sr5Z8blDO7kSnwiK3qxfi), [SUD](https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ) | [Addicted to you](https://open.spotify.com/album/2jDXwEnAZcRswFdxufO8gY) | 2:39 |
+| 8 | [Addicted to you](https://open.spotify.com/track/6YRxaKuVqSSjZzUnoBqYZk) | [Colone](https://open.spotify.com/artist/0pQGruzS2qDKZKC2brjxA9), [LIM3](https://open.spotify.com/artist/7jDWVPTMByGv5kIksAmLF7), [SUD](https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ) | [Addicted to you](https://open.spotify.com/album/2jDXwEnAZcRswFdxufO8gY) | 2:39 |
 | 9 | [Ring of Ice \- Stereoact Remix](https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ring of Ice \(Stereoact Remix\)](https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD) | 3:36 |
 | 10 | [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 |
 | 11 | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ) | 2:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [Who U Gonna Love \(feat\. Amber Van Day\)](https://open.spotify.com/track/7HKwY4vWe6W5TjSdIG4w8d) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Y3LLO KOALA](https://open.spotify.com/artist/7wSw5WtitICEfxFIbK501i), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Who U Gonna Love \(feat\. Amber Van Day\)](https://open.spotify.com/album/0yzEsLH4U52Qd9cTB3W3Rt) | 2:59 |
 | 60 | [Deep End](https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Croell](https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1) | [Deep End](https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1) | 2:44 |
 
-Snapshot ID: `MTY3ODQ2NDAwMCwwMDAwMDAwMDEzODE3YzJiZTY1Mjk5NjViMGIxYTA0ZTM0ZGQ4ZGQz`
+Snapshot ID: `MTY3ODQ2NDAwMCwwMDAwMDAwMDQ2NzI5MDcwOGFkOTVhYzBmNDIxMjE4NzhiY2ZlYzg5`

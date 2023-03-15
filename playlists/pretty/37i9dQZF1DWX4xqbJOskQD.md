@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,503 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,504 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 44 | [Swing High Swing Low](https://open.spotify.com/track/6a0f0Kz6PXKinTaiF1N6sO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Ink Spots Retrospective](https://open.spotify.com/album/3V3OopO2A0CoZURseTfrPs) | 2:39 |
 | 45 | [It's Sand, Man!](https://open.spotify.com/track/1mhOW7fYuOTEv1oJxqgXJG) | [Jon Hendricks](https://open.spotify.com/artist/2Kn5swSfLmUU2WEJVlQvJY), [Annie Ross](https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy), [Lambert, Hendricks & Ross](https://open.spotify.com/artist/5XILwCCPqHHh1JRnMfzblg) | [Sing A Song Of Basie](https://open.spotify.com/album/2TmARLhB8VuTpm7y1nhrY7) | 2:27 |
 
-Snapshot ID: `MTY0ODQ5NTc0OSwwMDAwMDAwMDVkNDFiNDZiNDJmYzVmNTU4MTBkZjY1OTBlNzk0YzJm`
+Snapshot ID: `MTY0ODQ5NTc0OSwwMDAwMDAwMDdlODhkYjM1NWVmNjI0NWYyN2I4M2FkZGJjZWQ3ZWY3`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7zm3aSdmGiOkTt0aZFSO8R">Wax Motif</a> transports us to a house\-filled rave.
 
-25 songs - 1 hr 2 min
+27 songs - 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,10 @@
 | [Keep Raving \- Mixed](https://open.spotify.com/track/1iKCYeMctxE2nxD23sJ3Sp) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Keep Raving \(Mixed\)](https://open.spotify.com/album/18CVFwpKpVbwUUGDcwnfol) | 1:31 | 2021-12-17 |  |
 | [Koalack \- Mixed](https://open.spotify.com/track/23Dgwjz6JSw4zPIIzL8UGQ) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Koalack \(Mixed\)](https://open.spotify.com/album/1moUNFDHaoFELrrycEkfpU) | 4:20 | 2021-12-17 |  |
 | [Latin Fever \- Mixed](https://open.spotify.com/track/3064xJq75HXMoK61QxMML9) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Latin Fever \(Mixed\)](https://open.spotify.com/album/6bFESojcVWFJR2t9J19pZG) | 1:32 | 2021-12-17 |  |
-| [Lifting \- Mixed](https://open.spotify.com/track/7DukNn0SveaebeRyHVKmTd) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Lifting \(Mixed\)](https://open.spotify.com/album/2MLZvQ7X7DkhtpwMN6N0om) | 4:04 | 2021-12-17 |  |
-| [My Mind \- Mixed](https://open.spotify.com/track/4s5kbIBJ4PttgrApE5N8qi) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [My Mind \(Mixed\)](https://open.spotify.com/album/2ijobXpvbp4paFRivoqg01) | 1:47 | 2021-12-17 |  |
+| [Lifting \- Mixed](https://open.spotify.com/track/3fVWBCNaUGXymVwYfCPNMu) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Lifting \(Mixed\)](https://open.spotify.com/album/2PP7vZjFH6pk2ZYALizFIY) | 4:04 | 2021-12-17 |  |
+| [Lifting \- Mixed](https://open.spotify.com/track/7DukNn0SveaebeRyHVKmTd) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Lifting \(Mixed\)](https://open.spotify.com/album/2MLZvQ7X7DkhtpwMN6N0om) | 4:04 | 2021-12-17 | 2023-03-15 |
+| [My Mind \- Mixed](https://open.spotify.com/track/4s5kbIBJ4PttgrApE5N8qi) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [My Mind \(Mixed\)](https://open.spotify.com/album/2ijobXpvbp4paFRivoqg01) | 1:47 | 2021-12-17 | 2023-03-15 |
+| [My Mind \- Mixed](https://open.spotify.com/track/5uZCKgZ13MOOvnkAcqcfFc) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [My Mind \(Mixed\)](https://open.spotify.com/album/1LXtV5tlsRYO4pYFSEWLBd) | 1:47 | 2021-12-17 |  |
 | [Myth \- Mixed](https://open.spotify.com/track/6RHrkJEJ3Adnba7ojjWDbL) | [Kohmi](https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7) | [Myth \(Mixed\)](https://open.spotify.com/album/2QcPqk0SZ4vYoKcw5VIMq8) | 3:18 | 2021-12-17 |  |
 | [Need You \- Mixed](https://open.spotify.com/track/5pLdCmH7u53OyUp3OQjBDJ) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Phlegmatic Dogs](https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe) | [Need You \(Mixed\)](https://open.spotify.com/album/1Bp3AmJp1bYSPxpSrdFLGh) | 2:17 | 2021-12-17 |  |
 | [R.E.A.L \- Mixed](https://open.spotify.com/track/0wFNkVTH6LGsKNRQSfvoCx) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [R.E.A.L \(Mixed\)](https://open.spotify.com/album/1bpxV4DbcpB3qyF7mqvrPI) | 1:48 | 2021-12-17 |  |

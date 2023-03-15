@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,594 likes - 150 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,576 likes - 150 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 149 | [Christmas Is All In The Heart](https://open.spotify.com/track/1mGqqnjciZbmzakIYZD3CD) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [The Music Of Christmas](https://open.spotify.com/album/0xCyr5KMIaozHRSTmNeeAm) | 5:15 |
 | 150 | [We Need Emmanuel](https://open.spotify.com/track/7ugp3qjriKzWj1Kluj0Awc) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [We Need Emmanuel](https://open.spotify.com/album/1iagly9M3C91gzkNAJSWZz) | 3:48 |
 
-Snapshot ID: `MTY3MDcyMzE5NSwwMDAwMDAwMDljZTQ5Yjc5NjljM2M2ZTFiYTJlMzA2ZjM2YjllMjE4`
+Snapshot ID: `MTY3MDcyMzE5NSwwMDAwMDAwMDA2NTgwM2I3MmMyNmMyNWMyNmY4MWVlYjFlY2YwNmUz`

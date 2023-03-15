@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 
 > hop in and take the long way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,270 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,311 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 99 | [Chevrolet Van](https://open.spotify.com/track/5QpkOt3hpNf4zns6FJ7JRH) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q) | 4:18 |
 | 100 | [Brighter!](https://open.spotify.com/track/2EbL9RN1CpNav0UzTQVRdm) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Big Wheel and Others](https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt) | 3:56 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDY4NGM4MGUyNjZmOWQwZmM5OWZjNThkNThhYWY2Yzdm`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGUxN2Y1ZWEwZmI3NmFiZTA4NDI5OTEzOWE2Y2NiYzZl`

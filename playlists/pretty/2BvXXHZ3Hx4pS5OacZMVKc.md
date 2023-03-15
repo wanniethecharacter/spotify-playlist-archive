@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 135,068 likes - 140 songs - 7 hr 15 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 135,107 likes - 140 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 | 43 | [Redemption](https://open.spotify.com/track/11hQpTbTymxIZzSmabCd9b) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [Redemption](https://open.spotify.com/album/7Dl2QenOQCV2oRvbfugT7m) | 4:05 |
 | 44 | [No Rival](https://open.spotify.com/track/1Q9IvR1mzz2qzElvcARuXF) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [No Rival](https://open.spotify.com/album/7cf61DeA3JoCN9n9nyBQ4V) | 3:18 |
 | 45 | [Warriors](https://open.spotify.com/track/67CXgSwER3AaTU67HhxJCO) | [Asketa & Natan Chaim](https://open.spotify.com/artist/7HMpxXbzJOXYZyRiV0hvZn), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X), [Requenze](https://open.spotify.com/artist/7974sO7NSYmKn0dQgJvGfJ) | [Warriors](https://open.spotify.com/album/0yp0AWCVnLfDCIVuQm90RC) | 3:48 |
-| 46 | [Faster](https://open.spotify.com/track/1jw3vByyGzHaeKkhl6W5vo) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O) | [Faster](https://open.spotify.com/album/49W9j2gUsprNUqp3r6hmft) | 2:06 |
+| 46 | [Faster](https://open.spotify.com/track/1jw3vByyGzHaeKkhl6W5vo) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [Faster](https://open.spotify.com/album/49W9j2gUsprNUqp3r6hmft) | 2:06 |
 | 47 | [Game Over](https://open.spotify.com/track/1I7JfiqLXlKJN3FRBBdcSz) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [Game Over](https://open.spotify.com/album/07EtgZaV0yshfe6Q3P6vKL) | 4:08 |
 | 48 | [A Day at Sea](https://open.spotify.com/track/4cP4euPcXx5SMxp07GLWzn) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [A Day at Sea](https://open.spotify.com/album/3Kpk3f9SpXQ3xKETaRNZR6) | 3:07 |
 | 49 | [LEVITATE](https://open.spotify.com/track/1CTtPSqqZEGXOi42FFb736) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [LEVITATE](https://open.spotify.com/album/0D8oXXB0uBxGCsjUeLmkay) | 3:03 |

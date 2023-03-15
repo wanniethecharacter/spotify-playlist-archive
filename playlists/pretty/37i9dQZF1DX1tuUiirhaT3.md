@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,959 likes - 216 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,167 likes - 216 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 215 | [Morning Rises](https://open.spotify.com/track/7uTmy9bindpm5YqE8sFFuj) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 3:44 |
 | 216 | [Ambient Streams](https://open.spotify.com/track/0wrvlGSGG5AQ9WpsOhc68l) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Best Relaxing SPA Music](https://open.spotify.com/album/00edVDn3XgBLSkCxx6aJN9) | 2:18 |
 
-Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMGJhMzFhMzAzYjFmZmMxNWU1ZDVkN2QzYzBiMjM0NzAx`
+Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMDBlOTI0YWVhNzZkNTkxNzQ0MzBkYTRkNTY4ODk3ZDNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 
 > Female artists of Philadelphia International Records which is especially known for Philly Soul\. Cover: The Jones Girls:
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,014 likes - 32 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,049 likes - 32 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 31 | [Was That All It Was](https://open.spotify.com/track/2sf12cmr3qhWY549o3bM2R) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Flashback](https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY) | 4:56 |
 | 32 | [You Are My Friend](https://open.spotify.com/track/7sFyB4BNNfyIwB4CtWEBMh) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Patti Labelle \(Expanded Edition\)](https://open.spotify.com/album/1KvfHKLbfIbVYtHyyHbZ8u) | 4:36 |
 
-Snapshot ID: `MTY1MTU4MzIyMywwMDAwMDAwMDQyMmFkYTgwN2JhMjNjODVkODE1YzcyYjEwMzhkMDli`
+Snapshot ID: `MTY1MTU4MzIyMywwMDAwMDAwMDliMWIwYWQ2YzEwNTExYzRkNTBkOTM1MmEyM2YxMmJh`

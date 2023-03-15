@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > livin' life in your 250 sq ft apt cover: Zeph
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,461,697 likes - 150 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,461,773 likes - 150 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 149 | [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 |
 | 150 | [Trophy](https://open.spotify.com/track/40VBfrp9qMTMcFYpYUMj9p) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Life's A Bitch](https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd) | 2:40 |
 
-Snapshot ID: `MTY3ODQyNDk4OCwwMDAwMDAwMDU5N2E5YjU4MDBjZGFmZTE3YTMyZDAyZjU0MDNlOTZh`
+Snapshot ID: `MTY3ODQyNDk4OCwwMDAwMDAwMGM0NzJjZmI1ZTM5MjIzMTVhYTA4NGE3YjljM2I4M2Ey`

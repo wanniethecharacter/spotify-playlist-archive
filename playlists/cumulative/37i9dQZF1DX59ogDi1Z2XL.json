@@ -2774,16 +2774,16 @@
       },
       "artists": [
         {
-          "name": "JD Era",
-          "url": "https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv"
-        },
-        {
           "name": "Meeco",
           "url": "https://open.spotify.com/artist/6n5aqrtqKxRHEdap5f4vgQ"
         },
         {
           "name": "DJ Access",
           "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
+        },
+        {
+          "name": "JD Era",
+          "url": "https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv"
         }
       ],
       "date_added": "2022-12-16",

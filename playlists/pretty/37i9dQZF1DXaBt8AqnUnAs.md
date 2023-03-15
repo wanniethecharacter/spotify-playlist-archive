@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,964 likes - 74 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,028 likes - 74 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 73 | [Abre a porta](https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Abre a porta](https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd) | 2:22 |
 | 74 | [Mil Vezes](https://open.spotify.com/track/0bxeaDbEOFn4ljflfOkBUK) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx), [ZSS Ent.](https://open.spotify.com/artist/1L7rw4mLVQFgIkknFHkk47) | [Mil Vezes](https://open.spotify.com/album/6J8oqkGDyaMpBt6ji1BOnq) | 3:48 |
 
-Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMGE4NjQ0ZDE3ZmU4MjJhMDg5MjBhZTJkOGFhNGNiY2U1`
+Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMDVhZjQxNTRjNGI1Y2Y1ZjBmMDVkYmRkZGI1Mzk5NzNk`

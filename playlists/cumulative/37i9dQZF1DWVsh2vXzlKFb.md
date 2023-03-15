@@ -4,7 +4,7 @@
 
 > The t\-shirt weather essentials.
 
-319 songs - 18 hr 5 min
+320 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Comingback \- Single Version](https://open.spotify.com/track/5gw6D0cBSEBGlv68liOrne) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Comingback](https://open.spotify.com/album/0EszwSv58sj1RPucFPI9Xa) | 3:36 | 2021-08-13 | 2022-07-29 |
 | [cool enough](https://open.spotify.com/track/4nuufyyd7Dn6DMuG96RYTQ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [cool enough](https://open.spotify.com/album/4LzdBLavKnpsJvMnu4reIe) | 3:15 | 2022-03-24 | 2022-07-27 |
 | [cool kids](https://open.spotify.com/track/4AyZOjmZDUpe5g7tUNXDeC) | [CHRIS YONGE](https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT) | [cool kids](https://open.spotify.com/album/57zgwmZISU2Ihn9aF1ZFiK) | 2:29 | 2022-03-24 | 2022-04-20 |
-| [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/track/75xEZnNXRr4G2kZ15fREXo) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/album/0IlNWIAHo25nBG3tb1xSHQ) | 2:47 | 2022-07-14 |  |
+| [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/track/75xEZnNXRr4G2kZ15fREXo) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/album/0IlNWIAHo25nBG3tb1xSHQ) | 2:47 | 2022-07-14 | 2023-03-15 |
 | [Cream Shirt](https://open.spotify.com/track/0FeXe1ip5JvofSszofHYIQ) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Cream Shirt](https://open.spotify.com/album/0krr7Z6jLgFaj613S6ZNjK) | 2:43 | 2021-08-13 | 2022-06-12 |
 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:56 | 2022-07-14 |  |
 | [Dance For Love](https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Dance For Love](https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE) | 4:22 | 2021-08-13 | 2022-07-29 |
@@ -215,6 +215,7 @@
 | [Plumes](https://open.spotify.com/track/6VowD9ukL0ia22ivY2MvTH) | [Ed Nash](https://open.spotify.com/artist/4XQbatF1exGRw7gdiYMhsH) | [Plumes](https://open.spotify.com/album/6tSCtGGfSThaE7xz82XDvC) | 3:11 | 2021-08-13 | 2022-04-18 |
 | [Pop Culture Radio](https://open.spotify.com/track/5mAlQORMN7wwblaO6erw9H) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Pop Culture Radio](https://open.spotify.com/album/4GdieFGu6B28UCXob05ELp) | 3:20 | 2021-08-13 | 2022-07-26 |
 | [Prim & Propa](https://open.spotify.com/track/73782aOQUGbQfZrg6P1wIq) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Prim & Propa](https://open.spotify.com/album/6SkM7R8HS1aGgTqm2QLViD) | 3:30 | 2021-08-13 | 2022-07-29 |
+| [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 | 2023-03-15 |  |
 | [Riding a Wave](https://open.spotify.com/track/7rDGQlhnLN8JTBuHDsue6i) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Riding a Wave](https://open.spotify.com/album/0TvYM5hCEQXANviZOKssIz) | 2:44 | 2021-08-13 | 2022-06-24 |
 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 | 2021-08-13 |  |
 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 | 2022-06-22 | 2023-01-21 |

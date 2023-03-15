@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,729 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,846 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 59 | [Todo Daria por Ti](https://open.spotify.com/track/2Nbfy4NBo26CbHt9GC9nn2) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:49 |
 | 60 | [Que Me Perdone](https://open.spotify.com/track/0W9BmcGUqOAjxwmNYq3Orp) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Víctor Reyes](https://open.spotify.com/artist/2SAOJkscpt6lG9tjWdrauo) | [La Combinacion Vallenata Vol\. 2](https://open.spotify.com/album/4uPNCk5oi9NViVt6nic6cl) | 5:06 |
 
-Snapshot ID: `MTY3MTIyMTg2NywwMDAwMDAwMDU2YTkwZjcxZmFhM2ZhMTZhNDRiZDEwMjdiYzdkYTc5`
+Snapshot ID: `MTY3MTIyMTg2NywwMDAwMDAwMGEwOTUxZDIwZTkzYzc2OTQzNTRlZjY2ZWU0MTM0ZmQy`

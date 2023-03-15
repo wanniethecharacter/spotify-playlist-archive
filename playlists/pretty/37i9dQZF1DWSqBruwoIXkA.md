@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > Somehow heartbreak feels good in a place like this\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,449,092 likes - 150 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,450,178 likes - 150 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 149 | [Emotionless](https://open.spotify.com/track/4mJ0rQth1WbwdVl4zgnFqs) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 2:16 |
 | 150 | [hurt so bad](https://open.spotify.com/track/4DLgDYAX6lsGXlrUmKJex8) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [started in college \(mixtape\)](https://open.spotify.com/album/3HfPgsV9182o2KraJHNQ83) | 4:02 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDU5ZTEwMjcyMDQ3ZGNjYTVkNjBiYTc5ZTQzMTNhZTBk`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDlhYTZlNTIwMDQ0MGVmYzcxOTUwMTdjOTk1NjA1MDA2`

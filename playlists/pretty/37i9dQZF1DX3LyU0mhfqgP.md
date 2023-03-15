@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: LUDMILLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112,449 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112,114 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 79 | [PROIBIDONA](https://open.spotify.com/track/090GUuqAuh7Vje3V745nep) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [PROIBIDONA](https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU) | 2:37 |
 | 80 | [Do I Ever Cross Your Mind?](https://open.spotify.com/track/2Ai6GyZxG5gW3YCkdeXhNU) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Do I Ever Cross Your Mind?](https://open.spotify.com/album/6qkX5pBH2OE4ebSA7B9jKn) | 3:05 |
 
-Snapshot ID: `MTY3ODIwMjY1NiwwMDAwMDAwMGYxYzQ2ZDE4N2M2NmUzYjE3NjYzYzdjNjI0OGJiY2Y0`
+Snapshot ID: `MTY3ODIwMjY1NiwwMDAwMDAwMDNiY2ZiMmQzN2ZhOGI4M2RiNzRmNjZiYzgyZGJiYzU1`

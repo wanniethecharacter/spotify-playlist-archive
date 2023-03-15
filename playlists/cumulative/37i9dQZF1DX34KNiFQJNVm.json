@@ -12031,24 +12031,6 @@
     },
     {
       "album": {
-        "name": "Beijo de Buteco (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0ulwVIfCQder7fBEYlG6ET"
-      },
-      "artists": [
-        {
-          "name": "Leandro & Rom\u00e1rio",
-          "url": "https://open.spotify.com/artist/3BwrR3T9qKOrTV42JkJkOk"
-        }
-      ],
-      "date_added": "2023-03-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 181594,
-      "name": "Beijo de Buteco - Ao Vivo",
-      "url": "https://open.spotify.com/track/21HtZTLCkvitrcT6uYXpnO"
-    },
-    {
-      "album": {
         "name": "Beijo de Glicose (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Y3F7RFN8cOh7ewKiyn2rC"
       },
@@ -12156,6 +12138,24 @@
       "duration_ms": 139953,
       "name": "Beijo, Fuma\u00e7a E Mentira - Ao Vivo",
       "url": "https://open.spotify.com/track/2QTyIGY7cWhjG1uSAdrDok"
+    },
+    {
+      "album": {
+        "name": "Beijos de Buteco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0ulwVIfCQder7fBEYlG6ET"
+      },
+      "artists": [
+        {
+          "name": "Leandro & Rom\u00e1rio",
+          "url": "https://open.spotify.com/artist/3BwrR3T9qKOrTV42JkJkOk"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181594,
+      "name": "Beijos de Buteco - Ao Vivo",
+      "url": "https://open.spotify.com/track/21HtZTLCkvitrcT6uYXpnO"
     },
     {
       "album": {
@@ -84729,7 +84729,7 @@
       "artists": [
         {
           "name": "MC Teteu",
-          "url": "https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1"
+          "url": "https://open.spotify.com/artist/4kyOXoFFj487ghgtqz3cz0"
         }
       ],
       "date_added": "2023-03-10",

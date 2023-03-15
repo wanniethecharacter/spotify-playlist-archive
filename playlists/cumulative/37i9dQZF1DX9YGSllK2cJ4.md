@@ -4,7 +4,7 @@
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-295 songs - 13 hr 20 min
+298 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Afterthought](https://open.spotify.com/track/6V3EqKAHRMDKUYYPtD0lVQ) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Afterthought](https://open.spotify.com/album/4AFxPojfD0MLU03FMCtDmg) | 2:29 | 2022-08-25 |  |
 | [All At Once](https://open.spotify.com/track/0jtwO60GVhFIF2HGeIGLkr) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [All At Once](https://open.spotify.com/album/4HsiN8xlJfsyh6iUTeBwA6) | 2:57 | 2022-08-01 |  |
 | [All Numbers End](https://open.spotify.com/track/1QGlEQJkixOXsbijKqNTDB) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 1:35 | 2022-08-01 | 2022-11-15 |
+| [Amelia](https://open.spotify.com/track/0bdJQ3zKl2JfnFRYXGpPgZ) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Amelia](https://open.spotify.com/album/2OTzot2xyJqHg3x07R5YJZ) | 2:13 | 2023-03-14 |  |
 | [Anda](https://open.spotify.com/track/6OOCHxYAV8SpXTiY6SzThW) | [Sarah Jacoby](https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V) | [Ros](https://open.spotify.com/album/5HhDwfAzAAR7NlMRtpsQ7k) | 1:59 | 2023-01-27 |  |
 | [Andante](https://open.spotify.com/track/0fNGCAEPZdUC54hT9lq3vm) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Andante](https://open.spotify.com/album/1dVKEClXUepZ5CSQJRChUd) | 2:55 | 2022-11-14 |  |
 | [Another Love](https://open.spotify.com/track/6OfT72cZN67HsBTDbnqsMo) | [Ryan Tenner](https://open.spotify.com/artist/29i15whXYvAclIabh8MwFb) | [Pop Piano Covers](https://open.spotify.com/album/5VsC6hpWCfb3N9GhlPqWIn) | 4:12 | 2022-08-05 | 2022-08-10 |
@@ -130,6 +131,7 @@
 | [Lavandula](https://open.spotify.com/track/79TCHEeIxQmvo1Y40jgf7Z) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Lavandula](https://open.spotify.com/album/7DohO27xmIQwXhO6mp0ZyB) | 2:50 | 2022-08-01 |  |
 | [Leaving Home](https://open.spotify.com/track/7v0rYS2J9c423DLgLFdnFI) | [Tales of Vibrations](https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG) | [Leaving Home](https://open.spotify.com/album/4xCpA8yhZLHEzXPZjHbzli) | 2:25 | 2023-01-27 | 2023-02-15 |
 | [lei sogna di noi](https://open.spotify.com/track/2myAatrsAXWSYBCJzphYle) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [lei sogna di noi](https://open.spotify.com/album/6hEEE80InjpeOtNaMxFTu5) | 2:00 | 2022-08-01 | 2022-09-13 |
+| [Lentement](https://open.spotify.com/track/5IsR52IBI6AWGxcmx0dj83) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [Lentement](https://open.spotify.com/album/68s563Nh1u4VTolbnEzPm7) | 2:11 | 2023-03-14 |  |
 | [Let the water in](https://open.spotify.com/track/38Hqdf7CgUrEnCO6DMqCPv) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Never ending Grace](https://open.spotify.com/album/6rCQs9lo5svYnmXkIBcV4y) | 2:53 | 2022-11-14 |  |
 | [Let the water in](https://open.spotify.com/track/6sSjhXN1PhbfpD5u6V01WS) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Let the water in](https://open.spotify.com/album/3YrzV39ZBwz7ywJk8beA7O) | 2:53 | 2022-10-14 | 2022-11-15 |
 | [Lettre d'amour](https://open.spotify.com/track/63gpRCRO94FNh1GkVCh8pP) | [William Heller](https://open.spotify.com/artist/0bblIjmXpe2k574egtCQnr) | [Lettre d'amour](https://open.spotify.com/album/1dY8aAZt5GlEcZeuPf9hSg) | 2:17 | 2022-12-05 | 2023-02-07 |
@@ -226,6 +228,7 @@
 | [Solace](https://open.spotify.com/track/1naBfaNrmE6xauYKrh5HiP) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Solace](https://open.spotify.com/album/1qoA8fDRBhIh3jpMFkNv1N) | 2:36 | 2022-08-01 |  |
 | [Solaris](https://open.spotify.com/track/6cv8No97M6bO6MT1q2FNyn) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Solaris](https://open.spotify.com/album/1WjxXz4gCszSPaxKNFQczu) | 2:30 | 2023-02-14 |  |
 | [Solas](https://open.spotify.com/track/2AwBq3Ecjq5IfpC5f897VY) | [Jamie Duffy](https://open.spotify.com/artist/2yvguoW65iZdUhca8yIfIo) | [Solas](https://open.spotify.com/album/2Zo6x3rljcjBPH1eXJdQjH) | 3:12 | 2022-12-05 |  |
+| [Soleil De Printemps](https://open.spotify.com/track/3oCeHeT1LpAKRK7esg4S0R) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Soleil De Printemps](https://open.spotify.com/album/5YgADlrXYIu8D8zVVENFVo) | 2:57 | 2023-03-14 |  |
 | [Solitude](https://open.spotify.com/track/1DBcTd8Qkm9hAHOXI1ajDa) | [Light Beyond Life](https://open.spotify.com/artist/6qLYeDUv2dxEGxNCWoL7b5) | [Solitude](https://open.spotify.com/album/21PRAMDAdTD9Q1GTWc89l6) | 2:27 | 2022-08-01 |  |
 | [Solitude](https://open.spotify.com/track/5EaxoaMc2J9fq5zeQd1Nem) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [Mirrored](https://open.spotify.com/album/0SsL5gEgRhjvYeX6aB3W0o) | 4:28 | 2022-12-05 |  |
 | [Solitudine](https://open.spotify.com/track/6YAlzxrja9WNcYHBukp1ZM) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Solitudine](https://open.spotify.com/album/613rQEf20H9ku0bsP2zFjs) | 2:37 | 2022-08-01 |  |

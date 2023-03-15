@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: AnnenMayKantereit
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,983 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,098 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 3 | [Wien](https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [MINI](https://open.spotify.com/album/7w1GycA2X3co1x2JLj1G6e) | 2:16 |
 | 4 | [love yourself, fucked up](https://open.spotify.com/track/3t9ntfDycPiCLmMD6Za938) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [love yourself, fucked up](https://open.spotify.com/album/2O6cOcwMQW9PQPJYrn2tRS) | 2:28 |
 | 5 | [Für dich da](https://open.spotify.com/track/3eS5cdQfliiWLWLjLdYodN) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Für dich da](https://open.spotify.com/album/53ONUgQsNJqHijJUzagh2N) | 3:02 |
-| 6 | [Vielleicht in einem Jahr](https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [Vielleicht in einem Jahr](https://open.spotify.com/album/13QzEFvk3yyGMTw4ucm41U) | 2:21 |
+| 6 | [vielleicht in einem jahr](https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [vielleicht in einem jahr](https://open.spotify.com/album/13QzEFvk3yyGMTw4ucm41U) | 2:21 |
 | 7 | [Girls](https://open.spotify.com/track/1ekbaHcYd9fUMvRVWT1IHF) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Girls](https://open.spotify.com/album/3iQ4meV1NB6JdhEEKm05CL) | 3:08 |
 | 8 | [Nero](https://open.spotify.com/track/1ySWFxPIPHpjA5EsRx39Q7) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Nero](https://open.spotify.com/album/3cBbmX6ACg8NdpVyr2QACS) | 3:02 |
 | 9 | [One Call away <3](https://open.spotify.com/track/0c1NsAvtTncDw7TlPB7Nkh) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [adhs](https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze) | 2:18 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 14 | [Trotzdem](https://open.spotify.com/track/1GyyebDa06oQi6O30C97KW) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [Trotzdem](https://open.spotify.com/album/21E0iNCqzuN4wQsdvCAE2e) | 4:35 |
 | 15 | [AUS MEIN KOPF](https://open.spotify.com/track/5n76Jo6GkhtVVOWRISWqRr) | [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx) | [CRAZY HORSE CLUB MIXTAPE, VOL\. 1](https://open.spotify.com/album/6KF9pLPmF38Ge6TDaojJwJ) | 1:41 |
 | 16 | [Bleib doch noch](https://open.spotify.com/track/00UoCBvXVP0uXgBABSVsBR) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Bleib doch noch](https://open.spotify.com/album/61ZGfsLOfINsaK0TCMsLgS) | 2:41 |
-| 17 | [Passt nicht](https://open.spotify.com/track/0xFqVm6MhfcTr8pC69W6qY) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [Passt nicht](https://open.spotify.com/album/6Im662veLuZDcg2nx8Lqdm) | 2:50 |
+| 17 | [passt nicht](https://open.spotify.com/track/0xFqVm6MhfcTr8pC69W6qY) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [passt nicht](https://open.spotify.com/album/6Im662veLuZDcg2nx8Lqdm) | 2:50 |
 | 18 | [Das Schönste](https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Das Schönste](https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1) | 1:36 |
 | 19 | [Mangos mit Chili](https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Mangos mit Chili](https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM) | 2:14 |
 | 20 | [Vielleicht](https://open.spotify.com/track/7hXLtKxITSBQJlPj0gmy7m) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Vielleicht](https://open.spotify.com/album/7adRb6DHpCHuXntk5Z6CTY) | 3:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 69 | [Pornos im Bett](https://open.spotify.com/track/178BthjruJHLNQ5CxIrThx) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Pornos im Bett](https://open.spotify.com/album/2weTrhDqRtdQODZ6z4bDVd) | 3:47 |
 | 70 | [110 km/h](https://open.spotify.com/track/019qHAL5i793FKmBomt6Py) | [Paul Weber](https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB) | [110 km/h](https://open.spotify.com/album/34RHqZHk0AD9yXaQF8Rve9) | 3:13 |
 
-Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMDYxZDdhZTUzYWI3NDdjZmQwYWRjZGE4ZmQ0NTgxYzJh`
+Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMDBhNWY2MThkYTA3YTI1ZjdmMTQ2ZWUwNjZlODU3NGVh`

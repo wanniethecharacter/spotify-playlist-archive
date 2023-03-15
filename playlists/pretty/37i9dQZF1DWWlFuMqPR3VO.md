@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 
 > From the jazzy, up\-beat New Orleans blues to the slower, zydeco and Cajun\-influenced Swamp blues\. Cover: Kenny Neal
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,898 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,908 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 39 | [Steal Away](https://open.spotify.com/track/2bEuccJk2nIN7Ltlk2Ao5r) | [Walter Wolfman Washington](https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T) | [My Future Is My Past](https://open.spotify.com/album/5KvFzpKxckyhy7QkuebuY0) | 4:14 |
 | 40 | [Let's Get High](https://open.spotify.com/track/2uYbT9w61amgpdsxN9Ozx3) | [Henry Gray](https://open.spotify.com/artist/08zDtD8xQDP3tDApCnxrvY), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Bob Stroger](https://open.spotify.com/artist/1JjFeW5yiXLb18bozbG1pe), [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng) | [Vol\. 1: Blues Won't Let Me Take My Rest](https://open.spotify.com/album/6G2BuAE28vxLRAGJPgPBOb) | 3:52 |
 
-Snapshot ID: `MTY1MDYwMDA2MCwwMDAwMDAwMGJlYmQyOTkzMzc4MjkzY2UxMjQ4YzdjMmY2Mzg2Mjdl`
+Snapshot ID: `MTY1MDYwMDA2MCwwMDAwMDAwMDVlN2YxMjhhYjMzZjBmNjdkZTA1NjgxYzAzMjQzODIz`

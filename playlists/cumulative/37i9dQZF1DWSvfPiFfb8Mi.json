@@ -706,10 +706,28 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 174985,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/2oUhuL5XRBFeEUTHTS9WWJ"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/0WvHI2AeQ1CXfVeUYKRXj4"
+      },
+      "artists": [
+        {
+          "name": "YNOT",
+          "url": "https://open.spotify.com/artist/58ieJio1kM9TQ1DhJyA1Al"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174985,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3qZ5l212uLlZ2rRSa44K1h"
     },
     {
       "album": {

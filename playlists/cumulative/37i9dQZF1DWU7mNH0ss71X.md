@@ -4,7 +4,7 @@
 
 > U.K\. rising star <a href="spotify:artist:6DnQYUjtYusK9QJts9HqSC">Skepsis</a><br/> delivers a mix filled with gritty basslines and fist\-pumping tracks.
 
-39 songs - 59 min 12 sec
+40 songs - 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [M.O.D \- Mixed](https://open.spotify.com/track/22e2rfxrHhbkICOKVaMO9G) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [M.O.D \(Mixed\)](https://open.spotify.com/album/7xOKbHe4efJPsykIuZwoJB) | 2:27 | 2022-09-28 |  |
 | [Night Mode \- Mixed](https://open.spotify.com/track/7g9Ccu9D2KApU96ZbnQgOw) | [Dubloadz](https://open.spotify.com/artist/4akLvvJyLbJxlbpSXHTLvT) | [Night Mode \(Mixed\)](https://open.spotify.com/album/5Lnx2wIUPZ1EpFwOzXHSGK) | 1:06 | 2022-09-28 |  |
 | [Over You \- Mixed](https://open.spotify.com/track/2XWYFznXlU4eqYKWBnPoNg) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Over You \(Mixed\)](https://open.spotify.com/album/3gyH7UOaYA1Y7XQ0nDoicd) | 1:55 | 2022-09-28 |  |
-| [Point \- Mixed](https://open.spotify.com/track/5beBbkRTZOnyvBuEoLPVI5) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Point \(Mixed\)](https://open.spotify.com/album/66cAQS8NL49Z8SOHHLs0G6) | 1:06 | 2022-09-28 |  |
+| [Point \- Mixed](https://open.spotify.com/track/1xucXmi3Sie43p3nZ4F4Hz) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Point \(Mixed\)](https://open.spotify.com/album/1ZZHtX5ztamqoYwxqAnVNh) | 1:06 | 2022-09-28 |  |
+| [Point \- Mixed](https://open.spotify.com/track/5beBbkRTZOnyvBuEoLPVI5) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Point \(Mixed\)](https://open.spotify.com/album/66cAQS8NL49Z8SOHHLs0G6) | 1:06 | 2022-09-28 | 2023-03-15 |
 | [Screamer \- Mixed](https://open.spotify.com/track/4VHjgoeKUVcqfe4iKOQTWh) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Screamer \(Mixed\)](https://open.spotify.com/album/5sCsNbQ7L3yBk0j1CHRwOI) | 0:59 | 2022-09-28 |  |
 | [Secure the Bag \- Mixed](https://open.spotify.com/track/69KrRNUxQPGEdQLaXGPS4h) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Secure the Bag \(Mixed\)](https://open.spotify.com/album/0UJyXHtE58lbDIAmFGTWRq) | 1:28 | 2022-09-28 |  |
 | [Set Me Free \- Mixed](https://open.spotify.com/track/4V4iEwKwTxF8GNhRTuBVyX) | [Bellecour](https://open.spotify.com/artist/1PiNBMw3iIaG021gWeidUY), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Set Me Free \(Mixed\)](https://open.spotify.com/album/6JUlt3xXqRjEjE2EikuYth) | 1:28 | 2022-09-28 |  |

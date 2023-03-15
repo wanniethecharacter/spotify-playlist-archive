@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,907 likes - 74 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,951 likes - 74 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 73 | [Nobody's Wrong](https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Nobody's Wrong](https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp) | 3:55 |
 | 74 | [Sweetwater](https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Sweetwater](https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg) | 5:40 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMGNhMTJkZDYzNjVkYzA2NTdiM2Q3M2E3ZDExOWE4MTJl`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDA5OTVjZTU2Mzg4NzBiNTExYzZkNTkyYTdhZTJhYTli`

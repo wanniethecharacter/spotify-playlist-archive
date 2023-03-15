@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Christine & The Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,722 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,741 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 99 | [am i being followed...?](https://open.spotify.com/track/1PZkbVuUhcQssLceCG7lLD) | [emily jeffri](https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK) | [sick to my stomach](https://open.spotify.com/album/24jDeh08le3LGpOAb6SXXu) | 3:33 |
 | 100 | [Hospital \(One Man Down\) \(feat\. Remi Wolf\)](https://open.spotify.com/track/3viGqgmswIMRcmGat5WYYq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Hospital \(One Man Down\)](https://open.spotify.com/album/25iq2f67q6Je815D44cXPu) | 3:27 |
 
-Snapshot ID: `MTY3ODQwNjQwMCwwMDAwMDAwMGQwMzUwZDJhNThjYTUxNWRlNDQxZDdiNzAwYTNhMWYz`
+Snapshot ID: `MTY3ODQwNjQwMCwwMDAwMDAwMGU0YTVkYWFhNjJjYWM1OGExMGJiMzM3NTcxOTc2MzU0`

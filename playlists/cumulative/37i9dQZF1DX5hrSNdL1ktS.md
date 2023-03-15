@@ -4,7 +4,7 @@
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Ghetto Kids en portada.
 
-149 songs - 7 hr 41 min
+150 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [B\-Day](https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh) | 4:08 | 2022-09-29 | 2023-02-05 |
 | [Bailalo](https://open.spotify.com/track/76goNKad1tCxAmEfH6PFPp) | [Eleá](https://open.spotify.com/artist/6h4A1AIEVWuf8E008pt6S5) | [Bailalo](https://open.spotify.com/album/4Z2n4N44wtzsVH7p9rLPzi) | 2:56 | 2022-01-07 | 2022-07-30 |
 | [BEYAKO](https://open.spotify.com/track/2EAOt2do7mwO26jsPi6ayM) | [La uVe](https://open.spotify.com/artist/6auHVkQ1ETlT2ATkKUqkcV), [Jay Reyes](https://open.spotify.com/artist/03Dn9uP4M23rTmefDAljvH), [DJ Bull Blood](https://open.spotify.com/artist/0eoOu0jwnbzFWyp93RWXSt) | [BEYAKO](https://open.spotify.com/album/7pXFTJExzqj5EgXXozcHtK) | 3:09 | 2023-02-24 | 2023-03-04 |
-| [Bien Bebé](https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Bien Bebé](https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4) | 2:43 | 2022-07-29 |  |
+| [Bien Bebé](https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Bien Bebé](https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4) | 2:43 | 2022-07-29 | 2023-03-15 |
+| [Bien Bebé](https://open.spotify.com/track/74LXuYE8UubyCvLIrslqG5) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Bien Bebé](https://open.spotify.com/album/2JzeX6UfR90xudmwryUOsk) | 2:43 | 2022-09-29 |  |
 | [Blanco Y Negro](https://open.spotify.com/track/3SdMz8hyuRYbbiYoNqmyxO) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Blanco Y Negro](https://open.spotify.com/album/2M2ao83OAsIDW7uDAf4UHp) | 3:23 | 2022-01-07 | 2022-05-28 |
 | [BORRACHA](https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql) | [Felix Klain](https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [BORRACHA](https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex) | 3:24 | 2022-06-17 |  |
 | [Calle](https://open.spotify.com/track/4cNeMVW3XTFIT5GciTanz7) | [Ryan Vuitton](https://open.spotify.com/artist/1JPYoxwwyaxzIKvEm7lHVm), [Ele O](https://open.spotify.com/artist/7JNMkQEQnwqIGB2VQbypxi), [Manni Martinez](https://open.spotify.com/artist/3ofYRHc7Ceggkp7CqLAsLK), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Calle](https://open.spotify.com/album/2cDBVi3YVK3XIURShVLFDb) | 3:28 | 2022-12-21 | 2023-02-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Extra vicious, hard hitting pop\. This is SALT\. Cover: Jax
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,174 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,278 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 79 | [Gorgeous Gorgeous Girls](https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Gorgeous Gorgeous Girls](https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh) | 1:56 |
 | 80 | [this is how i learn to say no](https://open.spotify.com/track/4yb8suVmTLxvSb8hT6EmT6) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [this is how i learn to say no](https://open.spotify.com/album/3iW6t3t4c18qRC8NjvHenG) | 2:22 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDJkODc1NGQyNzdlZjkyODhlOWYwZmI1YTBkODlkNmI5`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDYwZDVkNGQ1Y2M1NTAxODM0OWE0Mjg0YTM3ODRlMTIw`

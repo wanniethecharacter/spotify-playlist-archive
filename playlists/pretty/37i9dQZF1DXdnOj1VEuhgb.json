@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: UZI",
-  "num_followers": 1195212,
+  "num_followers": 1195702,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODY5MDkzMiwwMDAwMDAwMDYyYzliOGQyNzZlZWJlYmQ2Mjc2NTc3ZDcwM2IzNWY2",
+  "snapshot_id": "MTY3ODc3ODMzMSwwMDAwMDAwMGM1ZWU5ZGE1M2I3MDYzY2E3ZmE3NTRlMzI0NTQ3OWM1",
   "tracks": [
     {
       "added_at": "2023-03-13 07:02:12",
@@ -75,6 +75,22 @@
     {
       "added_at": "2023-03-13 07:02:12",
       "album": {
+        "name": "AFFETMEM",
+        "url": "https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 182117,
+      "name": "AFFETMEM",
+      "url": "https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV"
+    },
+    {
+      "added_at": "2023-03-13 07:02:12",
+      "album": {
         "name": "\u0130MPARATOR",
         "url": "https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre"
       },
@@ -95,18 +111,22 @@
     {
       "added_at": "2023-03-13 07:02:12",
       "album": {
-        "name": "AFFETMEM",
-        "url": "https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg"
+        "name": "NKB\u0130 X YAPAMAM (Remix)",
+        "url": "https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ"
       },
       "artists": [
         {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
         }
       ],
-      "duration_ms": 182117,
-      "name": "AFFETMEM",
-      "url": "https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV"
+      "duration_ms": 182400,
+      "name": "NKB\u0130 X YAPAMAM - Remix",
+      "url": "https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd"
     },
     {
       "added_at": "2023-03-13 07:02:12",
@@ -143,26 +163,6 @@
     {
       "added_at": "2023-03-13 07:02:12",
       "album": {
-        "name": "NKB\u0130 X YAPAMAM (Remix)",
-        "url": "https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        },
-        {
-          "name": "G\u00fcne\u015f",
-          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "NKB\u0130 X YAPAMAM - Remix",
-      "url": "https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd"
-    },
-    {
-      "added_at": "2023-03-13 07:02:12",
-      "album": {
         "name": "TALIBANA",
         "url": "https://open.spotify.com/album/4wvjyNp47Q9uvY62To3fYq"
       },
@@ -179,46 +179,6 @@
       "duration_ms": 156539,
       "name": "TALIBANA",
       "url": "https://open.spotify.com/track/01KdkKsCC3BkA4nsQQLwOm"
-    },
-    {
-      "added_at": "2023-03-13 07:02:12",
-      "album": {
-        "name": "10.000 Par\u00e7a",
-        "url": "https://open.spotify.com/album/0NqPEg5RKcFl0J7cn5h6j7"
-      },
-      "artists": [
-        {
-          "name": "G\u00fcne\u015f",
-          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
-        }
-      ],
-      "duration_ms": 141570,
-      "name": "10.000 Par\u00e7a",
-      "url": "https://open.spotify.com/track/2GHXhJopDCWRdq9jEPKz0O"
-    },
-    {
-      "added_at": "2023-03-13 07:02:12",
-      "album": {
-        "name": "YALA DEDI YALAMA",
-        "url": "https://open.spotify.com/album/3Vm3nBEbl08PHep0rCmWx7"
-      },
-      "artists": [
-        {
-          "name": "yungcihad",
-          "url": "https://open.spotify.com/artist/0jH6MFIcFJ9LpvHJ8xws6d"
-        },
-        {
-          "name": "Qimp",
-          "url": "https://open.spotify.com/artist/2WfHd8ywTD4968YzTSmzF9"
-        },
-        {
-          "name": "SWIRF",
-          "url": "https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG"
-        }
-      ],
-      "duration_ms": 125714,
-      "name": "YALA DEDI YALAMA",
-      "url": "https://open.spotify.com/track/3IUfGKVNE3QN1tePTN1bxF"
     },
     {
       "added_at": "2023-03-13 07:02:12",
@@ -247,18 +207,26 @@
     {
       "added_at": "2023-03-13 07:02:12",
       "album": {
-        "name": "VUR",
-        "url": "https://open.spotify.com/album/5EdPNG1RhELV1di2tYhklr"
+        "name": "YALA DEDI YALAMA",
+        "url": "https://open.spotify.com/album/3Vm3nBEbl08PHep0rCmWx7"
       },
       "artists": [
         {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+          "name": "yungcihad",
+          "url": "https://open.spotify.com/artist/0jH6MFIcFJ9LpvHJ8xws6d"
+        },
+        {
+          "name": "Qimp",
+          "url": "https://open.spotify.com/artist/2WfHd8ywTD4968YzTSmzF9"
+        },
+        {
+          "name": "SWIRF",
+          "url": "https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG"
         }
       ],
-      "duration_ms": 190270,
-      "name": "VUR",
-      "url": "https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF"
+      "duration_ms": 125714,
+      "name": "YALA DEDI YALAMA",
+      "url": "https://open.spotify.com/track/3IUfGKVNE3QN1tePTN1bxF"
     },
     {
       "added_at": "2023-03-13 07:02:12",
@@ -295,34 +263,18 @@
     {
       "added_at": "2023-03-13 07:02:12",
       "album": {
-        "name": "G\u00fcnleri Sayd\u0131m",
-        "url": "https://open.spotify.com/album/41L569Sbr9hSf9KOYtkzqb"
+        "name": "VUR",
+        "url": "https://open.spotify.com/album/5EdPNG1RhELV1di2tYhklr"
       },
       "artists": [
         {
-          "name": "Burry Soprano",
-          "url": "https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD"
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
         }
       ],
-      "duration_ms": 178605,
-      "name": "G\u00fcnleri Sayd\u0131m",
-      "url": "https://open.spotify.com/track/3EvnxnwxvUgmXDy75xeoNx"
-    },
-    {
-      "added_at": "2023-03-13 07:02:12",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn"
-      },
-      "artists": [
-        {
-          "name": "Ati242",
-          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
-        }
-      ],
-      "duration_ms": 210044,
-      "name": "25",
-      "url": "https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8"
+      "duration_ms": 190270,
+      "name": "VUR",
+      "url": "https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF"
     },
     {
       "added_at": "2023-03-13 07:02:12",
@@ -347,22 +299,50 @@
     {
       "added_at": "2023-03-13 07:02:12",
       "album": {
-        "name": "GHETTOMAN",
-        "url": "https://open.spotify.com/album/0LZhkLhHJIPopDt0NjEF2M"
+        "name": "25",
+        "url": "https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn"
       },
       "artists": [
         {
-          "name": "Critical",
-          "url": "https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO"
-        },
-        {
-          "name": "Heijan",
-          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
         }
       ],
-      "duration_ms": 148000,
-      "name": "GHETTOMAN",
-      "url": "https://open.spotify.com/track/3hbWiGDEItdBZLtTCueewe"
+      "duration_ms": 210044,
+      "name": "25",
+      "url": "https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8"
+    },
+    {
+      "added_at": "2023-03-13 07:02:12",
+      "album": {
+        "name": "10.000 Par\u00e7a",
+        "url": "https://open.spotify.com/album/0NqPEg5RKcFl0J7cn5h6j7"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+        }
+      ],
+      "duration_ms": 141570,
+      "name": "10.000 Par\u00e7a",
+      "url": "https://open.spotify.com/track/2GHXhJopDCWRdq9jEPKz0O"
+    },
+    {
+      "added_at": "2023-03-13 07:02:12",
+      "album": {
+        "name": "EL CHAVO",
+        "url": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "duration_ms": 156636,
+      "name": "UNUTTUM",
+      "url": "https://open.spotify.com/track/7dFVvPxqk4O32ra3VjfUwU"
     },
     {
       "added_at": "2023-03-13 07:02:12",
@@ -407,22 +387,6 @@
     {
       "added_at": "2023-03-13 07:02:12",
       "album": {
-        "name": "EL CHAVO",
-        "url": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
-        }
-      ],
-      "duration_ms": 156636,
-      "name": "UNUTTUM",
-      "url": "https://open.spotify.com/track/7dFVvPxqk4O32ra3VjfUwU"
-    },
-    {
-      "added_at": "2023-03-13 07:02:12",
-      "album": {
         "name": "KONTROL",
         "url": "https://open.spotify.com/album/7j5qktQGYK2f6cAQNsqB7e"
       },
@@ -439,8 +403,76 @@
     {
       "added_at": "2023-03-13 07:02:12",
       "album": {
+        "name": "G\u00fcnleri Sayd\u0131m",
+        "url": "https://open.spotify.com/album/41L569Sbr9hSf9KOYtkzqb"
+      },
+      "artists": [
+        {
+          "name": "Burry Soprano",
+          "url": "https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD"
+        }
+      ],
+      "duration_ms": 178605,
+      "name": "G\u00fcnleri Sayd\u0131m",
+      "url": "https://open.spotify.com/track/3EvnxnwxvUgmXDy75xeoNx"
+    },
+    {
+      "added_at": "2023-03-13 07:02:12",
+      "album": {
+        "name": "GHETTOMAN",
+        "url": "https://open.spotify.com/album/0LZhkLhHJIPopDt0NjEF2M"
+      },
+      "artists": [
+        {
+          "name": "Critical",
+          "url": "https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO"
+        },
+        {
+          "name": "Heijan",
+          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "GHETTOMAN",
+      "url": "https://open.spotify.com/track/3hbWiGDEItdBZLtTCueewe"
+    },
+    {
+      "added_at": "2023-03-13 07:02:12",
+      "album": {
+        "name": "Kalite",
+        "url": "https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9"
+      },
+      "artists": [
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        }
+      ],
+      "duration_ms": 125599,
+      "name": "Geriye D\u00f6nemem",
+      "url": "https://open.spotify.com/track/33rOlLnsXLBumU1hnNi65f"
+    },
+    {
+      "added_at": "2023-03-13 07:02:12",
+      "album": {
+        "name": "De\u011filim Bi A\u015f\u0131k",
+        "url": "https://open.spotify.com/album/7eCHPDgtLhtJPxt8Ghk3lX"
+      },
+      "artists": [
+        {
+          "name": "Heijan",
+          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "De\u011filim Bi A\u015f\u0131k",
+      "url": "https://open.spotify.com/track/0zjiGvCYPHDT7OT4HIv5kp"
+    },
+    {
+      "added_at": "2023-03-13 07:02:12",
+      "album": {
         "name": "Natural Born Digga",
-        "url": "https://open.spotify.com/album/1wDi3vPan2n6k6F4Y5JBn9"
+        "url": "https://open.spotify.com/album/0rKLBda3nNh7JQYfDzgFpk"
       },
       "artists": [
         {
@@ -450,7 +482,7 @@
       ],
       "duration_ms": 161857,
       "name": "Inzaghi",
-      "url": "https://open.spotify.com/track/36S6sHnPZ0VBjD4uLbNXM7"
+      "url": "https://open.spotify.com/track/4k0WSfjrFeVMMrGg6CEAH5"
     },
     {
       "added_at": "2023-03-13 07:02:12",
@@ -491,34 +523,18 @@
     {
       "added_at": "2023-03-13 07:02:12",
       "album": {
-        "name": "Kalite",
-        "url": "https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9"
+        "name": "EL CHAVO",
+        "url": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY"
       },
       "artists": [
         {
-          "name": "Organize",
-          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
         }
       ],
-      "duration_ms": 125599,
-      "name": "Geriye D\u00f6nemem",
-      "url": "https://open.spotify.com/track/33rOlLnsXLBumU1hnNi65f"
-    },
-    {
-      "added_at": "2023-03-13 07:02:12",
-      "album": {
-        "name": "De\u011filim Bi A\u015f\u0131k",
-        "url": "https://open.spotify.com/album/7eCHPDgtLhtJPxt8Ghk3lX"
-      },
-      "artists": [
-        {
-          "name": "Heijan",
-          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "De\u011filim Bi A\u015f\u0131k",
-      "url": "https://open.spotify.com/track/0zjiGvCYPHDT7OT4HIv5kp"
+      "duration_ms": 127072,
+      "name": "XXL",
+      "url": "https://open.spotify.com/track/3CbxLHTkPClIGBzRDf3JGK"
     },
     {
       "added_at": "2023-03-13 07:02:12",
@@ -535,22 +551,6 @@
       "duration_ms": 93015,
       "name": "GELMEZSEN GELME",
       "url": "https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN"
-    },
-    {
-      "added_at": "2023-03-13 07:02:12",
-      "album": {
-        "name": "EL CHAVO",
-        "url": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
-        }
-      ],
-      "duration_ms": 127072,
-      "name": "XXL",
-      "url": "https://open.spotify.com/track/3CbxLHTkPClIGBzRDf3JGK"
     },
     {
       "added_at": "2023-03-13 07:02:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 
 > Everything in Texas is best! Lo que suena in the Lone Star state\. Cover: Bo Bundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,355 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,400 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 | 49 | [El Paso Del Takuache](https://open.spotify.com/track/1nGV2dsyvEERSd980EZ4e3) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [El Paso Del Takuache](https://open.spotify.com/album/78vX2XhNb2r2XIlKxjb1tA) | 2:07 |
 | 50 | [Fue Un Placer Conocerte](https://open.spotify.com/track/0eIes8zppnvfSSz9x4pnF9) | [Profugos De Nuevo Leon](https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp) | [En Vivo Desde Cuadra El Alamo](https://open.spotify.com/album/2ncCGrHwvWn4uhWkIhy9lo) | 3:07 |
 
-Snapshot ID: `MTY3ODQ3NDA1OCwwMDAwMDAwMGU1NDFjYTY2Y2JiZTdkZGQ5NmRkMzVmZDBiNzk3NWFm`
+Snapshot ID: `MTY3ODQ3NDA1OCwwMDAwMDAwMDc5ZjU1OWEzNWY2ZWQ4MjNmYjk1NWZlNmZiZjI4Mzlj`

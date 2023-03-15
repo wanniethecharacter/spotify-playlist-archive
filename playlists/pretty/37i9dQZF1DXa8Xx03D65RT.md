@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 
 > La sutileza del piano para enriquecer tu espacio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,449 likes - 250 songs - 10 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,438 likes - 250 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 | 249 | [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 |
 | 250 | [Change](https://open.spotify.com/track/3DQDj5YHQBk806DxCLomWr) | [Samuel Yates](https://open.spotify.com/artist/490O7wKhdxCPXCpZyklL9R) | [Change](https://open.spotify.com/album/42wrtM8yQSiWJads72P1bJ) | 2:16 |
 
-Snapshot ID: `MTY3ODcyMTI1MywwMDAwMDAwMDI3Y2FmYjQzZDY3NGE0MGRkZTliM2Y5ZTgxMjdjZjBi`
+Snapshot ID: `MTY3ODcyMTI1MywwMDAwMDAwMDUwY2IxZWM5Mzg2NjY4MzYxYWQyMmExMDEyOGQ5ZDhi`

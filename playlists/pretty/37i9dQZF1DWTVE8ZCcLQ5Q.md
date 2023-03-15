@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,550 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,554 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 59 | [Viciado em Você](https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Viciado em Você](https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb) | 2:27 |
 | 60 | [Todo Mundo Ama o Sol](https://open.spotify.com/track/30KnuGgwh6EtBCTFT3iGLe) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [Todo Mundo Ama O Sol](https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3) | 2:40 |
 
-Snapshot ID: `MTY3NTk5ODAwMCwwMDAwMDAwMGVlNmU0ZjMxMjg2N2Q3OGJiZWEzZmQ5ZmMwNTQ4MjMz`
+Snapshot ID: `MTY3NTk5ODAwMCwwMDAwMDAwMGM2YmZmNTdlMzlkM2MzNDllMDE0MTUzMWZmYmUyNTEw`

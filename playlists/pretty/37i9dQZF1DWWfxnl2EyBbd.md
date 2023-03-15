@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,826 likes - 400 songs - 1 day 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,921 likes - 400 songs - 1 day 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [Zapruder](https://open.spotify.com/track/6xpeoINELbdMBAAD0dxA49) | [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Orange Sea](https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM) | 4:42 |
 | 400 | [Pray](https://open.spotify.com/track/6niHY50qraFaCfJ8azjMQ4) | [Marc van Roon Trio](https://open.spotify.com/artist/0LVkl4BXWGA8QcjS6dIkaf) | [Quantum Stories](https://open.spotify.com/album/6erjfrUNgfkIZ41rEoI7Z5) | 4:01 |
 
-Snapshot ID: `MTY3ODQ1MzMwNSwwMDAwMDAwMDhhMjY2ZjllOTMzNGNiZjExMmI3YzJlMTljNTIzNWZk`
+Snapshot ID: `MTY3ODQ1MzMwNSwwMDAwMDAwMGIzM2RlZGMyODNkMzRmNzU2OTU2NGFhNjZiMmM0N2Mx`

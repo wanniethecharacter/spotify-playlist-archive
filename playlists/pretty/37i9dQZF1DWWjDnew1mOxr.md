@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: The Lathums
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,430 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,491 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 79 | [Money](https://open.spotify.com/track/7KllccAHAj97nQPqBlQouV) | [Fuzzy Sun](https://open.spotify.com/artist/40uK7RAJlyEALdLWZ1qNmb) | [Money](https://open.spotify.com/album/19F6Ai9NloBmTqrhcz9N0M) | 3:30 |
 | 80 | [Forget About Me](https://open.spotify.com/track/3a0EX3qKaVsTsVxBexZQnc) | [The Slow Readers Club](https://open.spotify.com/artist/1DYrH6sucKrK0dskzU4Gsk) | [Knowledge Freedom Power](https://open.spotify.com/album/5Hjrk5ZrtyQgt0MDzdT6nu) | 3:56 |
 
-Snapshot ID: `MTY3ODcxNDQ4OCwwMDAwMDAwMDVhYzg5YWUzOTRkOTUwZGI5NjIyMDBiMzY0NDYwMDIx`
+Snapshot ID: `MTY3ODcxNDQ4OCwwMDAwMDAwMDg2Mjc3NmVmMmM5NTEyMWRmYzM2M2ZmOWNhYmRmODVi`

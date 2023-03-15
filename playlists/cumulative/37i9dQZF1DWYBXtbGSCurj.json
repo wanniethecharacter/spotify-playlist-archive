@@ -1659,6 +1659,32 @@
     },
     {
       "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194821,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
+    },
+    {
+      "album": {
         "name": "Bonjour",
         "url": "https://open.spotify.com/album/0Baa9kQydueBXW6jcAE6Tq"
       },
@@ -12044,6 +12070,10 @@
         {
           "name": "Lil Chainz",
           "url": "https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB"
+        },
+        {
+          "name": "TcheloBeats",
+          "url": "https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B"
         }
       ],
       "date_added": "2023-02-22",

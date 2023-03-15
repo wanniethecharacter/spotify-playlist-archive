@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,402 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,435 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [No More Friends](https://open.spotify.com/track/2kMuUWfsueRPYWxyaTSHd8) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [No More Friends](https://open.spotify.com/album/1SFwQzKhMvB5rPmXpeRvYl) | 2:01 |
 | 100 | [Sko](https://open.spotify.com/track/7Atyu3gAjkdmxYt0kZawgX) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Sko](https://open.spotify.com/album/0FigtA2FRPWenIdAu5ElwS) | 2:30 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDg2ZTZhNDU1Zjc2MDNmNDMxYTczODQ5MGNkNGYxNDBi`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDgwMjkxNjcxYTlmNTkzY2U2NzA5NGJlYzc4MjRkZTli`

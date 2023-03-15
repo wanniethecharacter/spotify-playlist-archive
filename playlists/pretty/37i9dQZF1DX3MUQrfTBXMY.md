@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Encore
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,198 likes - 76 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,259 likes - 76 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 75 | [Tamakpata](https://open.spotify.com/track/54rbC8m2E1ghnwJyTHTPM8) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Rockoholic 3](https://open.spotify.com/album/0sUGhA7xMLiaxkTyo2aXdp) | 5:03 |
 | 76 | [Protibimbo](https://open.spotify.com/track/5l2n874eQvJoq8qvEowNOJ) | [Angsho](https://open.spotify.com/artist/2NRt2eIZ7PmlsdvfghhhOp) | [Protibimbo](https://open.spotify.com/album/5EIRZsKGKu4HGbyT22FvYU) | 4:11 |
 
-Snapshot ID: `MTY3ODQzODQ5OCwwMDAwMDAwMDg5OTYzMTMwNDY4Y2U1MTdmZGQzOWQ3MzAxY2ZkZjRm`
+Snapshot ID: `MTY3ODQzODQ5OCwwMDAwMDAwMGZjNzFhYzY2YjZlMjU5M2RhYzFmNGU3MjdmZDU4NTQ0`

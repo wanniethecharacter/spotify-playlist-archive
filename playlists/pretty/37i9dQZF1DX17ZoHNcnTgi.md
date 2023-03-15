@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 
 > De costa a costa, de frontera a frontera..\.  un banquete de sonidos de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,387 likes - 150 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,410 likes - 150 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 | 149 | [El Sapo](https://open.spotify.com/track/1QqUyjBpCHtDlJ3xzRuS6O) | [Son Chiapaneco](https://open.spotify.com/artist/4ZuOAnCXyktHTcTLUq7Agt) | [La Ruta del Son Mexicano](https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz) | 2:57 |
 | 150 | [La Petrona](https://open.spotify.com/track/1LzJIQn3GT7bGgzEktfk76) | [Los Pergaminos](https://open.spotify.com/artist/4QXL9FM2NnfIl3KzLPXxTV) | [La Tortuga, Sones Istmeños](https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE) | 5:11 |
 
-Snapshot ID: `MTY3NzA4MzU5OSwwMDAwMDAwMDY0MGU5M2IwN2U2YmU4NjljMTRiYTNlYjc3ZGI2N2Uw`
+Snapshot ID: `MTY3NzA4MzU5OSwwMDAwMDAwMDNmOTAxNmNiOThmZDMzMTFiMjBmYWEyYTUwZDc1MWRm`

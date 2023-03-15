@@ -4,7 +4,7 @@
 
 > Maks: "Oké jij wilt vies nou ik zal je wat vertellen\. Zij heeft dyscalculie dus is niet zo goed in tellen."
 
-79 songs - 3 hr 53 min
+80 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Ga Naar De Gym](https://open.spotify.com/track/0ILN49UubBDhmYcGiIvbQ0) | [Klaus Veen](https://open.spotify.com/artist/5hEZc6Innys0o99gLeha3K), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Ga Naar De Gym.](https://open.spotify.com/album/3SYhaoBhD7NE7dteRlCuW6) | 2:27 | 2023-02-23 |  |
 | [Gimme Bass](https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Gimme Bass](https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays) | 2:44 | 2023-02-23 | 2023-03-04 |
 | [Green Green Grass \- Sped\-Up](https://open.spotify.com/track/1gGeEcwqBNxVqjzjAWvS4N) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Green Green Grass \(Sped\-Up\)](https://open.spotify.com/album/147Dfr5kuQAK5bcNSuMDP0) | 2:08 | 2023-02-23 |  |
-| [Gyal You A Party Animal](https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You A Party Animal](https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff) | 3:34 | 2023-02-23 |  |
+| [Gyal You a Party Animal](https://open.spotify.com/track/6bOLRTULQUiXeVnxOIPZVA) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You a Party Animal](https://open.spotify.com/album/0AuidICCpJQTwjMajndF4h) | 3:34 | 2023-03-07 |  |
+| [Gyal You A Party Animal](https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You A Party Animal](https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff) | 3:34 | 2023-02-23 | 2023-03-15 |
 | [Hear The Sound](https://open.spotify.com/track/276lQAZfUAXTvlzpPiSFTw) | [Franck](https://open.spotify.com/artist/3XGGc2cdg65V8AOXGfdHwb) | [Rf1](https://open.spotify.com/album/1q6vPrcAmGbLFsYikTLGfG) | 6:13 | 2023-02-23 | 2023-03-08 |
 | [Heartbeat](https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat](https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl) | 3:18 | 2023-02-23 |  |
 | [Het Eind](https://open.spotify.com/track/2umHBbVBhktAVcU5U6L2BY) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Het Eind](https://open.spotify.com/album/2IsYJShE9eFjUwvkVuIOrG) | 2:25 | 2023-03-07 |  |

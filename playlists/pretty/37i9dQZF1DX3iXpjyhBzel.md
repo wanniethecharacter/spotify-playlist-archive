@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: André e Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,715 likes - 90 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,066 likes - 90 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 89 | [Uma Hora é Pouco \- Ao Vivo](https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT) | 10:21 |
 | 90 | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu) | 4:43 |
 
-Snapshot ID: `MTY3ODQ5ODgzMSwwMDAwMDAwMDJkN2Q4M2M2MTRiNjI3ZWNiNTU4ZGI2Y2U4YzVhYjM1`
+Snapshot ID: `MTY3ODQ5ODgzMSwwMDAwMDAwMDRkNmVhMzVhYTU4MDA3OTI4NThiYjE0NzE0MWRiOTI1`

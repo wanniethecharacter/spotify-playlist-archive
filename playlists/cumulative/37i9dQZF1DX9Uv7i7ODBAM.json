@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 2021-2023",
+        "url": "https://open.spotify.com/album/3MRlskbgnU3ULFv2fJmKq9"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162386,
+      "name": "The Next Me",
+      "url": "https://open.spotify.com/track/7CkwAWQgVabTEMQo9JdXaP"
+    },
+    {
+      "album": {
         "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
       },

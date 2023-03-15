@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,167 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,160 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 99 | [Never Seen You Dance](https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Never Seen You Dance](https://open.spotify.com/album/73VzHaRZwnn6YkkfCYFGh6) | 4:48 |
 | 100 | [Concrete Walls](https://open.spotify.com/track/4c3owU9UoRSbMr6obEAtsh) | [Pace](https://open.spotify.com/artist/7qem60JOzr0TKI9WOmkNaG) | [Concrete Walls](https://open.spotify.com/album/754wyHaNUpCJAVxuJMP65r) | 2:48 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDMwNTZlOTVmYmZkMGY0OTRiYmE2M2FkNmRkMjgwMjky`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDgyNDkwNmUzZWNkYzg2MDM5MTU0NDJlMDlmNjk2ZmI5`

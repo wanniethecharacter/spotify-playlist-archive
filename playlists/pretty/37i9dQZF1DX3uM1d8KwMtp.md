@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,492 likes - 54 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,520 likes - 54 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 53 | [Mambo Jambo](https://open.spotify.com/track/1rSjmBi8rvl1mJg1eAOkan) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mambo Jambo](https://open.spotify.com/album/5TA2xPbvz4x9TJeWMJluGo) | 6:11 |
 | 54 | [Never Too Late](https://open.spotify.com/track/4uLcna2HHwVvCobsOYBVas) | [Kadosh \(IL\)](https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W), [Moodintrigo](https://open.spotify.com/artist/2igvV2IqzbKJ1wrGSKwSFt), [Melödisch](https://open.spotify.com/artist/6qcyxd5kBmJlOD5ee7EdJo) | [Never Too Late](https://open.spotify.com/album/7sm5rQZZsRhSte2xSHTGKK) | 6:15 |
 
-Snapshot ID: `MTY3ODM1NzQxMywwMDAwMDAwMDdhNzM2Y2MzMzY1ODY1MTYzYmUwOWRjNWIzZWQ3ZmVl`
+Snapshot ID: `MTY3ODM1NzQxMywwMDAwMDAwMDJjMWZhMTdlMTY0N2Y0NDJlOTI4MWZlNDUxNjgzMGRl`

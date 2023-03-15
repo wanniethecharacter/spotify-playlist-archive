@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,199 likes - 234 songs - 13 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,362 likes - 234 songs - 13 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,4 +243,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 233 | [](https://open.spotify.com/track/6gp6sejiJXYU1i6xHPf8hh) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1vRv2ehtwimsY7L34S6Rbd) | 0:00 |
 | 234 | [Suit & Tie](https://open.spotify.com/track/1y7MwYVz214Z3xJTrJUKzF) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) | [Web Cam Songs](https://open.spotify.com/album/5yttdCN7FWfu0nv0Y3ohV1) | 3:11 |
 
-Snapshot ID: `MTY3Mjc2OTU5MSwwMDAwMDAwMGNmOGJmNGYzMjZlYTg1YTYzMWI2MTMzOTk1NDA4OTU2`
+Snapshot ID: `MTY3Mjc2OTU5MSwwMDAwMDAwMDM4Y2E3MzliZTI5ZDA4ZDA4M2E1ODlkZmZkMGFjYjYw`

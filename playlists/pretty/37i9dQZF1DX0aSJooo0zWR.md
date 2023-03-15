@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,662 likes - 80 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,733 likes - 80 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [Catch me if you can!](https://open.spotify.com/track/2sdQsMO4eC2Onw3WOOPp6n) | [Umziky](https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB), [Markus Eermann](https://open.spotify.com/artist/4s79kfWJq1CaZu9e7rvbwu), [Jesse Vilhomaa](https://open.spotify.com/artist/3XNMlZZtmQ1X9sP9vXAkmb), [Vid Šketa](https://open.spotify.com/artist/3xvZ4lDs78x6krq04pfItd) | [Catch me if you can!](https://open.spotify.com/album/1RyHcCPpsYLiMvY87EibNF) | 3:58 |
 | 80 | [Goodbye for Now](https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe) | [Nathaniel Cross](https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t) | [The Description Is Not The Described](https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc) | 7:13 |
 
-Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMDZjZDM0OTI4OWU5YzAyMjkwZjRjNmY0ZmRmZTgyN2Ey`
+Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMDM5N2U1YjdiY2M4MTgzODc1YzYzYjMxNWNhZWQ1Nzcy`

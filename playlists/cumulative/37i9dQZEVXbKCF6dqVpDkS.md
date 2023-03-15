@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-966 songs - 2 day 2 hr 12 min
+967 songs - 2 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,7 @@
 | [Je Blik Richting Mij](https://open.spotify.com/track/3mafhqH8nGsvyZTN86IEOc) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Je Blik Richting Mij](https://open.spotify.com/album/7998gDHXVMiM73j6f6j3oY) | 2:25 | 2022-02-12 | 2022-05-15 |
 | [Je me casse](https://open.spotify.com/track/559RWsQqSe4fNUffI9P7mW) | [Destiny](https://open.spotify.com/artist/1D6ueetjwqW491iboMI3NT) | [Je me casse](https://open.spotify.com/album/6Ltrg0NAj6GqIyO2bjPgYI) | 2:58 | 2021-05-25 | 2021-05-31 |
 | [Je Verdient Beter](https://open.spotify.com/track/5MEGSI92HGfxhZ2NMiFf76) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Recklezz](https://open.spotify.com/album/2SQP0maBlv8QZunwPVfE3P) | 3:22 | 2022-11-19 | 2022-12-04 |
-| [Je Wilde Alleen Maar Prada](https://open.spotify.com/track/2YIsKRTXxzQXnwkabiUjf9) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Je Wilde Alleen Maar Prada](https://open.spotify.com/album/2c9FqELWIX9RvIXhFdFJVL) | 2:53 | 2023-03-04 |  |
+| [Je Wilde Alleen Maar Prada](https://open.spotify.com/track/2YIsKRTXxzQXnwkabiUjf9) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Je Wilde Alleen Maar Prada](https://open.spotify.com/album/2c9FqELWIX9RvIXhFdFJVL) | 2:53 | 2023-03-04 | 2023-03-15 |
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-18 | 2022-07-03 |
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-12-07 | 2022-12-29 |
 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 | 2021-12-25 | 2022-12-29 |
@@ -673,6 +673,7 @@
 | [Olivia](https://open.spotify.com/track/5Hit62TgQpCUwIdsU3KV14) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/7KRMWbRSpFfyBqvkrHegWw) | 2:27 | 2022-06-04 | 2022-06-17 |
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2022-11-05 | 2022-11-13 |
 | [On Me](https://open.spotify.com/track/6GYCNMMsdaJsLIbNfzLqOR) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [On Me](https://open.spotify.com/album/24XZxvtMIk9AKH2AikooFN) | 2:17 | 2022-06-11 | 2022-06-19 |
+| [On My Mind](https://open.spotify.com/track/7BbCMoW6H1F4qzQ3BqXBiA) | [The Plugz Europe](https://open.spotify.com/artist/63qgmJRhJ07e8O9ez4IYql), [THABITI](https://open.spotify.com/artist/5Ea2kDQeQNQrIcI6tCthaQ), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [On My Mind](https://open.spotify.com/album/5bXaRZ4qVViOatlDYadAH4) | 3:12 | 2023-03-14 |  |
 | [Onderweg Naar Later](https://open.spotify.com/track/0MOlJGoax7nQOTUFrAdDou) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Onderweg Naar Later](https://open.spotify.com/album/7HeQ8ha8PXB1IUeJrLJmz7) | 2:57 | 2021-07-11 | 2021-10-31 |
 | [Onderweg Naar Later](https://open.spotify.com/track/5rES9eqpHTAlv7jVY1SUQn) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 2:57 | 2021-10-31 | 2021-11-21 |
 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 | 2021-12-25 | 2022-12-29 |

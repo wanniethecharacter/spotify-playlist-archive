@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,071 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,067 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 99 | [Little Drummer Boy](https://open.spotify.com/track/5Xlqkwclz9W9aW8yeles2Q) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Holiday Love Sounds of Christmas](https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs) | 2:46 |
 | 100 | [It’s Christmas Day](https://open.spotify.com/track/55HGuPjF900qc1E3nTHPzQ) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [A Charles Jenkins Christmas](https://open.spotify.com/album/2cBqPDfPm945PP4fHQ9QDs) | 3:14 |
 
-Snapshot ID: `MTY3MDcxOTMwNiwwMDAwMDAwMGZkY2QyMTdmMWM3ZDRjMzFiMDRlZGE2MmNhODE3YmE1`
+Snapshot ID: `MTY3MDcxOTMwNiwwMDAwMDAwMDAyNjlhY2ExMmU1N2NjMjU2MjFjMWI5MWE4MTc0OGE4`

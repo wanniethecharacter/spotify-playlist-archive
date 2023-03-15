@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ?si=ksCbWaD\_SaaKDic\_pKYdSw"> Libianca</a> ,  <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=PnUO\-d\-eQMGMLF0bLcmQ9Q"> Ayra Starr</a>  and  <a href="https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=13y9EdRHRL20\-5GRvDcwuQ"> Omah Lay </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,588 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,158 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 69 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 |
 | 70 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 |
 
-Snapshot ID: `MTY3ODQ0MDU3OCwwMDAwMDAwMGRiNjhmOGU3ZjhjNmFhYTg4YjQ3Y2IyZWI4NWE5YTNm`
+Snapshot ID: `MTY3ODQ0MDU3OCwwMDAwMDAwMDJjYzQyZjMyYzEwMWU3MWZjZTdkOTE3NTZkMDBmNGVi`

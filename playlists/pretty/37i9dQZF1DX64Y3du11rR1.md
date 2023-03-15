@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,217 likes - 110 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,351 likes - 110 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 109 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 |
 | 110 | [Hold On](https://open.spotify.com/track/5oThkXHCsfOCd0nctEYL8c) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Hold On](https://open.spotify.com/album/4tzJY3rsAnBKkdsYwGg1eG) | 2:50 |
 
-Snapshot ID: `MTY3ODM3MTM1OSwwMDAwMDAwMDdhY2Q2MzBkMjk2MThiODYwODgzNjNhMDMzZWQxYWU2`
+Snapshot ID: `MTY3ODM3MTM1OSwwMDAwMDAwMDU3OTJjNjI0ZDA3OTlhOGQxYzRlYTg2MTQ1ZjI2MTgw`

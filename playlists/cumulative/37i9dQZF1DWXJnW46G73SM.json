@@ -28,7 +28,7 @@
       },
       "artists": [
         {
-          "name": "MALAK",
+          "name": "Malak",
           "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
         }
       ],
@@ -680,6 +680,28 @@
       "duration_ms": 258528,
       "name": "Ana Meen",
       "url": "https://open.spotify.com/track/6rEHVrBJ7tNTd7Acb2x544"
+    },
+    {
+      "album": {
+        "name": "Ana Qader From Gafar El Omda Series",
+        "url": "https://open.spotify.com/album/6McyOWAOJs2fdzAA3NgZp1"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        },
+        {
+          "name": "Hesham El Gakh",
+          "url": "https://open.spotify.com/artist/0u4oTPQ4k14CO5TUqKduUK"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "Ana Qader From Gafar El Omda Series",
+      "url": "https://open.spotify.com/track/0xIbsBFRTZoNfg54EAYHoN"
     },
     {
       "album": {
@@ -6534,7 +6556,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 193854,
       "name": "\u0645\u0633\u064a\u0644\u0649 \u0639\u0644\u0649 \u0639\u064a\u0648\u0646\u0643",
       "url": "https://open.spotify.com/track/0iACdftSbsuwVGPE98Nu9X"

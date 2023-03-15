@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in Ambient, Atmospheric and Neo\-Classical\. Whatever The Weather on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,844 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,965 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 21 | [lamina](https://open.spotify.com/track/08MrNTADDthzayhUMJSvif) | [Bianca Scout](https://open.spotify.com/artist/0SViH83GsqJ0GCwnmTTlep) | [The Heart of the Anchoress](https://open.spotify.com/album/3MawvDSn4MxS2a73jPe10o) | 2:47 |
 | 22 | [Summiteer](https://open.spotify.com/track/05bAZwA4ZaxsCzpHBlUVqs) | [Max Würden](https://open.spotify.com/artist/2MKTL40lyjR0TZPgj5YYq9) | [Landmark](https://open.spotify.com/album/3uLDq6PcffnmXFz4MZnxZP) | 5:30 |
 | 23 | [Circle 37](https://open.spotify.com/track/2iTObOUJM22lmxonH1jOiO) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Circle 37](https://open.spotify.com/album/5XKDsIv1XdMf1VLM2DtYU2) | 3:19 |
-| 24 | [Receiving](https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r) | [ANNA](https://open.spotify.com/artist/5zq0B2yaMWrFb7KGrniDzc), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Receiving](https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0) | 7:07 |
+| 24 | [Receiving](https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Receiving](https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0) | 7:07 |
 | 25 | [Cyan](https://open.spotify.com/track/0ifzJjPkJuAyEiVIY8Ay8p) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Colours of Air](https://open.spotify.com/album/2pBBBzI2R2jcGdj4zGRPD2) | 6:13 |
 | 26 | [Britnaeys new baby \[125 BPM\]](https://open.spotify.com/track/5aD97KsD4tekRetjMLbL4i) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Don't Follow Me Because I'm Lost Too!!](https://open.spotify.com/album/1kPXMfD3dMb8G7PCnP4af4) | 2:52 |
 | 27 | [Ashes \- Guitar Version](https://open.spotify.com/track/3OMy2RtfkDhqXq97fBEQbI) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Perry Frank](https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN) | [Fragile](https://open.spotify.com/album/5ZzF5eP6O2qbgb4AsvwDT6) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Europa](https://open.spotify.com/track/5ZIIrT864xaNSNiAlKECIX) | [Science Of Sleeping](https://open.spotify.com/artist/318PUtWzihMLpg6EysVjqn), [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C) | [Moons of Jupiter](https://open.spotify.com/album/59KUVS7yqnphA6QLUczhKu) | 4:03 |
 | 100 | [We Wave From Our Boats](https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 3:50 |
 
-Snapshot ID: `MTY3ODQ5Mjg2MCwwMDAwMDAwMGY2OWQyYTFlNzA3YmQ1ZThhNzFjZDUxZWUzNzdkMDE3`
+Snapshot ID: `MTY3ODQ5Mjg2MCwwMDAwMDAwMDkwODRhZmFiYjE1YmQ0OTZiMzE2YzIyM2QwMWRhMTNh`

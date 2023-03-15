@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 
 > Classic hits from the 50s and 60s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,027 likes - 150 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,436 likes - 150 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 149 | [Perhaps, Perhaps, Perhaps](https://open.spotify.com/track/0UsdtLayy7SqJ4rUsDMRk8) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [With A Smile And A Song](https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS) | 2:31 |
 | 150 | [\(What A\) Wonderful World](https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best of Sam Cooke](https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8) | 2:09 |
 
-Snapshot ID: `MTY3Nzk1MTAzMSwwMDAwMDAwMDEzZjk4ZjQ5YWY5YTAwNDg5ZWVmOGYyYTllODE0NTg5`
+Snapshot ID: `MTY3Nzk1MTAzMSwwMDAwMDAwMGZiNDlmMTJmMDEwZWMzYjliMTFhYTBlOGY1YTU4NDI2`

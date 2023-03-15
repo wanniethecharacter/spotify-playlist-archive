@@ -4,7 +4,7 @@
 
 > Energy is <a href ="spotify:artist:6zsJjoCtL1WByG0VsuFWzR">BLOND:ISH</a> currency and that is what you'll get when you hear her latest mix for Spotify!
 
-16 songs - 1 hr 4 min
+17 songs - 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Malawi \- Mixed](https://open.spotify.com/track/1hhFXhovflUlujdSK6gN4P) | [SirYLL](https://open.spotify.com/artist/65Y8uaasPCKMctCyyk0qOw) | [Malawi \(Mixed\)](https://open.spotify.com/album/03k7cjCBjZz476WJIj3TCE) | 4:29 | 2022-10-21 |  |
 | [Papa Sooma \- Mixed](https://open.spotify.com/track/6XSeqhGLwqGdbbkDASXyJ6) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Papa Sooma \(Mixed\)](https://open.spotify.com/album/22PmTFxwE6CGPBev5lIq6U) | 3:47 | 2022-10-21 |  |
 | [Remember Me \- Franky Rizardo Remix \- Mixed](https://open.spotify.com/track/1fDA3ldy7BAaBCYxjQa0Fz) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Remember Me \- Franky Rizardo Remix \(Mixed\)](https://open.spotify.com/album/6jGm6skYHIBqAwO4YOryaN) | 2:44 | 2022-10-21 |  |
-| [Sete \- Mixed](https://open.spotify.com/track/3z1z13mLyhJpkpjeHl6XnG) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Mixed\)](https://open.spotify.com/album/6YAvqHUF2IFDBXGhxWhH7Q) | 5:16 | 2022-10-21 |  |
+| [Sete \- Mixed](https://open.spotify.com/track/5Os694LuZGxYwEpZYHvK14) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Sete \(Mixed\)](https://open.spotify.com/album/2AkJJQgrSw1IF4URk0rsgy) | 5:16 | 2022-10-21 |  |
+| [Sete \- Mixed](https://open.spotify.com/track/3z1z13mLyhJpkpjeHl6XnG) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Mixed\)](https://open.spotify.com/album/6YAvqHUF2IFDBXGhxWhH7Q) | 5:16 | 2022-10-21 | 2023-03-15 |
 | [Somebody \- Edit \- Mixed](https://open.spotify.com/track/6duhq6hnZ9L4J5p1UdSOWw) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk), [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Somebody \- Edit \(Mixed\)](https://open.spotify.com/album/4GY0a4sPN2rcanWnpBhLjy) | 3:42 | 2022-10-21 |  |
 | [Sunshine In Africa \- Mixed](https://open.spotify.com/track/0IxdOQLRehEg8alGIytz4Q) | [Junglewood](https://open.spotify.com/artist/7D3dmdOudCcvK2aKrub8Lh) | [Sunshine In Africa \(Mixed\)](https://open.spotify.com/album/7ixoY8VL0pk8MH621cnHnQ) | 3:39 | 2022-10-21 |  |
 | [Vamonos \- Mixed](https://open.spotify.com/track/5IXyh5cA3w0ZcWrRtF9uv2) | [Gabsy](https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc), [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m) | [Vamonos \(Mixed\)](https://open.spotify.com/album/0NwubSxI3wBH3kVVmEX6jj) | 4:28 | 2022-10-21 |  |

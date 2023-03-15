@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 
 > Cover: <a href="spotify:artist:0Ty63ceoRnnJKVEYP0VQpk">Sting</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,168 likes - 200 songs - 15 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,908 likes - 200 songs - 15 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 | 199 | [Streets of Philadelphia](https://open.spotify.com/track/5Nj8kBJdpJJ4I9wxQyp8JH) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [PHILADELPHIA \- Music From The Motion Picture](https://open.spotify.com/album/7EpzUNDXiDs0OJT4JERRYa) | 4:12 |
 | 200 | [Please Forgive Me](https://open.spotify.com/track/1HDaENkQhUMm16pjdxZvHn) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Anthology](https://open.spotify.com/album/6XkXta8AXNmXkZAxM0CYqW) | 5:55 |
 
-Snapshot ID: `MTY3NzYyODgwMCwwMDAwMDAwMGJmM2Q3MmU1NDdhODlhNTRkNDM1YjI0YWRiOTExNzM3`
+Snapshot ID: `MTY3NzYyODgwMCwwMDAwMDAwMGFmYjgyNTIzYzBhNTMwNGM3MGVhNDU2ZjEwOTk1YmE3`

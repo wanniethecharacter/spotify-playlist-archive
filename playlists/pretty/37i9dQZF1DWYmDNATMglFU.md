@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. sueco
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,797 likes - 81 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,818 likes - 81 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 80 | [catastrophe](https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [catastrophe](https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven) | 2:36 |
 | 81 | [SHE’S MY \(SEXI BOY\)](https://open.spotify.com/track/6foPSxr70ZhG1ZVu03JzYS) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [My Favorite Blue Jeans](https://open.spotify.com/album/1L0YVLNDSQLKXkX1H5Dyl8) | 2:16 |
 
-Snapshot ID: `MTY3ODQwNjQwMCwwMDAwMDAwMGJlNjQ1ZmYwMzdiZmQ4NWJjODlmN2ZlYzMxNmY3Njhi`
+Snapshot ID: `MTY3ODQwNjQwMCwwMDAwMDAwMDkyMTIyZWQyMTg3MDRmNDgxMDc3ZmM2ZGVhM2NiYmIz`

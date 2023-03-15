@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL?si=s0bniQCJRpSqS2Ohh60y0Q"> Medikal </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,031 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,043 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 25 | [Akatafoc](https://open.spotify.com/track/7jx82wdGMpdikLtSajhMb3) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Reggie](https://open.spotify.com/artist/0VuX86IpWGJBEv1PUCRgNP), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Akatafoc](https://open.spotify.com/album/41IfG6m1JTCyYcuMswd6Gi) | 4:17 |
 | 26 | [Live From 233](https://open.spotify.com/track/1mxaeq1bLsbLAYfxd8hDAf) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not The Tape, Sorry 4 The Wait II](https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8) | 2:44 |
 | 27 | [Accra \(feat\. Akan\)](https://open.spotify.com/track/70VDlfsvRSVu5WrtfqCC0N) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Akan](https://open.spotify.com/artist/7baoHltUTBKIDzzHLJ1aXT) | [The Unbroken](https://open.spotify.com/album/42i9e2ejdzOAyBCG0oRSzO) | 4:34 |
-| 28 | [Stir It Up](https://open.spotify.com/track/5A6mHdKHowaitCRTSEHriS) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Stir It Up](https://open.spotify.com/album/6MNUKupGTXg7Znmqx0BGB0) | 3:41 |
+| 28 | [Stir It Up \(Feat\. Sarkodie\)](https://open.spotify.com/track/1NM9OsPbiAuxw8slkPB5QO) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Stir It Up](https://open.spotify.com/album/28XO1MdjPr59qd5qrHd2oW) | 3:41 |
 | 29 | [Landlord](https://open.spotify.com/track/4MhUaa1qw60tPhurSEe75b) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Landlord](https://open.spotify.com/album/2WQE1JGp2OwNlMyO4QB9LT) | 2:43 |
 | 30 | [Pa! \(feat\. Thywill & City Boy\)](https://open.spotify.com/track/3ikS8sT02F9Tiyi8S1AwmI) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Straight Outta Kumerica 2](https://open.spotify.com/album/6C628yJ57EmOF3m06i0dQv) | 2:33 |
 | 31 | [Sei Mu](https://open.spotify.com/track/2ZXHy4DKMIcl3yst89Jv20) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Sei Mu](https://open.spotify.com/album/2bJ8lXfcGZl6XgZSXhBIK1) | 3:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/1GjyutvlWkLC5woI2mDrgE) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 |
 | 80 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 |
 
-Snapshot ID: `MTY3ODQ0ODY0NiwwMDAwMDAwMDMyMjhhN2RlYmFmYWQ1NzY2MmU4ZWJjNDc3MTUyYWRj`
+Snapshot ID: `MTY3ODQ0ODY0NiwwMDAwMDAwMDMwNDNlMjM2ZDJmYWE4NWMzNTU0N2M2NjBiZTVmNTQx`

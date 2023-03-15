@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-474 songs - 1 day 3 hr 15 min
+475 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Amigos Vampiros](https://open.spotify.com/track/5pzF43YryBiAIyaohrfnUK) | [NIKKÖ](https://open.spotify.com/artist/59pyzOYQlRJx8z1gzrN2ai) | [El Nuevo Planeta](https://open.spotify.com/album/7DaY5rgnwZ6BPzUdhzVEfw) | 4:01 | 2022-04-01 | 2022-06-15 |
 | [Amistad](https://open.spotify.com/track/7DEyv9Bi68StRGmgj88UMo) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Mito](https://open.spotify.com/album/4sXHOot4KCgIyj4Nwu5Rmm) | 4:01 | 2022-01-14 | 2022-07-29 |
 | [Amor De Metro](https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [Amor De Metro](https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW) | 2:15 | 2022-05-20 | 2022-06-04 |
+| [AMOR MINIMAL](https://open.spotify.com/track/2xmhERSMywisE5yfTqYvd5) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 3:27 | 2023-03-15 |  |
 | [Amores](https://open.spotify.com/track/6izw3BxH0D0KUKIe9G0B4z) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Amores](https://open.spotify.com/album/4zDQqmPh28oZqmgdcl1BUF) | 3:56 | 2022-01-21 | 2022-07-22 |
 | [Amuleto](https://open.spotify.com/track/4YM2iJsKTDYbLWpOIFSDLL) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Amuleto](https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh) | 3:45 | 2022-01-21 | 2022-10-17 |
 | [Ancla](https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Ancla](https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU) | 3:32 | 2022-05-20 | 2022-07-21 |
@@ -328,7 +329,7 @@
 | [Pasaje Directo](https://open.spotify.com/track/6PpBnYJRcqPW1IwathowqZ) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Pasaje Directo](https://open.spotify.com/album/5rPVX8aLD3d85E8YsquR35) | 3:49 | 2022-01-21 | 2022-07-25 |
 | [Paseito](https://open.spotify.com/track/1YBP98l7xGeuGNcYAsjXqp) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/5KgfyeZUxgpQHDoiSmQgPb) | 4:53 | 2022-01-14 | 2022-07-19 |
 | [Paseito](https://open.spotify.com/track/5955aqNG5rGlr7EQdjl4kS) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2agcgDDdxckcav71Z24Dq6) | 4:53 | 2022-01-21 | 2022-07-26 |
-| [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 | 2022-07-15 |  |
+| [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 | 2022-07-15 | 2023-03-15 |
 | [Pasos \- Versión Acústica](https://open.spotify.com/track/3AgJCcvGK6g6JEOhc0QHDZ) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Pasos \(Versión Acústica\)](https://open.spotify.com/album/5MwZCCD8VV3c99yaatXL4U) | 3:41 | 2022-01-21 | 2022-07-13 |
 | [Pedazo de Cielo](https://open.spotify.com/track/4QHl7wxPoNQeN2QyKQ96vX) | [ESHA](https://open.spotify.com/artist/1JguCBS70W5P0NQWAXoCpT), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Pieles](https://open.spotify.com/album/4IP2FJtK1OMgHIsHHuFTb2) | 3:21 | 2022-01-21 | 2022-04-29 |
 | [Pedazos](https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos](https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI) | 2:44 | 2022-02-11 | 2022-07-21 |

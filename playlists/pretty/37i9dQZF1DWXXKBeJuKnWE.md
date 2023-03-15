@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy rockers\. Cover: Nova Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,295 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,320 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 79 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 |
 | 80 | [Devil](https://open.spotify.com/track/6REIaFxddyAZI2MjmlSHOW) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Mourning](https://open.spotify.com/album/4xAVywnk3mapIPdtXEefro) | 3:23 |
 
-Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMGRiYTVhNmUyYWVkZTc0NjcyMWJlYmNlOGFiMjZiYjkx`
+Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDdmOGM5MDUxZWU2NDkxZGQxYzk4MTQ0OWY3NTFhMjVi`

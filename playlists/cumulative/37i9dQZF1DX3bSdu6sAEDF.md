@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-284 songs - 16 hr 1 min
+285 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 | 2022-08-05 |  |
 | [Blue](https://open.spotify.com/track/3XtKluN0ce1EjiAax8HFw8) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life \- EP](https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i) | 5:36 | 2021-08-05 | 2022-01-19 |
 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 | 2022-06-24 |  |
-| [BOP](https://open.spotify.com/track/2G4SVNZ184cbAa0jzTLCpN) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [BOP](https://open.spotify.com/album/0oS6s31ETsc3If8kmfnZZP) | 2:56 | 2022-05-27 |  |
+| [BOP](https://open.spotify.com/track/1Ng0B9PEKHOJsUywG24tzX) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Every Single Thing](https://open.spotify.com/album/03h4StW2BAHz9c822kAPtG) | 2:56 | 2022-05-27 |  |
+| [BOP](https://open.spotify.com/track/2G4SVNZ184cbAa0jzTLCpN) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [BOP](https://open.spotify.com/album/0oS6s31ETsc3If8kmfnZZP) | 2:56 | 2022-05-27 | 2023-03-15 |
 | [BOY HOOD](https://open.spotify.com/track/54Ru3VkPJNNJi3a86vkCwP) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 4:25 | 2022-01-19 |  |
 | [Break My Heart Right](https://open.spotify.com/track/6BP8sg44smNB3pbD4QAOzi) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 3:24 | 2021-08-05 | 2022-01-20 |
 | [Bright Star](https://open.spotify.com/track/2GU7Yy8fZVbtmSafEOXcjQ) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bright Star](https://open.spotify.com/album/2DqpMCRbrMb4VRb1GNtYXg) | 3:10 | 2021-10-29 | 2022-01-20 |

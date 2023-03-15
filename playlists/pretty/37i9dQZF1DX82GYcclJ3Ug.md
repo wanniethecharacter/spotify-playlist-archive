@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,354 likes - 126 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,512 likes - 126 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Maestro \(Tears Don't Lie\)](https://open.spotify.com/track/6N8hCmutQjQ3zZevRbJk36) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Maestro \(Tears Don't Lie\)](https://open.spotify.com/album/70M68ZXCoG4pdeUdN4yzhm) | 3:22 |
 | 126 | [Oblivious](https://open.spotify.com/track/0CvvMsMTOiBFY9xI8171U3) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Young EP](https://open.spotify.com/album/33ohaY1ybr1XVVGNFo3SoU) | 3:04 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGQ4MzQzMjQ1NTg0ODVkZDZhMDJhMWIxMGJiZWJiN2Ni`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDc1MTQzZThhNjdlNjlhOWZhNzFhZmE0OGFmZTY0ODlh`

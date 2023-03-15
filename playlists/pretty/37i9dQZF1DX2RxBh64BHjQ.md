@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:39i5B6umzWzkfMe12JrMwW">TiaCorine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,744,246 likes - 101 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,744,476 likes - 101 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 100 | [Deadicated](https://open.spotify.com/track/7BaipfgQs3gWGjttLAt8wN) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Deadicated](https://open.spotify.com/album/6NaFv2sq5u2mDT2R8rA7E2) | 3:21 |
 | 101 | [LONG WAY](https://open.spotify.com/track/23PF7wjGrkCQC0Qvy13myD) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [LONG WAY](https://open.spotify.com/album/2WKxFv925cfjb4QAextTKE) | 2:09 |
 
-Snapshot ID: `MTY3ODc0NDY2NywwMDAwMDAwMDM5ZDExMzkxZTMxNjhmN2ZiOTg0ODc2NjliZDdmOWY3`
+Snapshot ID: `MTY3ODc0NDY2NywwMDAwMDAwMGExYzFiYmVlZjIzMzU5MTFlM2U2ZmVkMmE0NDA2OTRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,508,981 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,509,362 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [G.T.F.O.T.W\. \(feat\. Hashu\)](https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8), [Hashu](https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll) | [AD INFINITUM](https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9) | 3:18 |
 | 75 | [Ur Body](https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Ur Body](https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi) | 3:36 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDYyNWJhYTM3MmI3MTdjN2EzMGU4N2M4ZTI5NDBmNjFl`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDY1NDY3MTZhMzgzYzkwMjAwZWU2NjRjN2VjZDc4Yjdm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 宋柏緯 \(Edison Song\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,754 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,761 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [醉紅顏](https://open.spotify.com/track/6GfW2R3qqPI6LN2nny5QeP) | [林禾](https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [高維綸](https://open.spotify.com/artist/5q6Zi2ri0hybv3yFuHRz8U) | [醉紅顏](https://open.spotify.com/album/26o19HjeqoKQtICwFrBx8L) | 2:52 |
 | 60 | [因為我還年輕](https://open.spotify.com/track/2rJZJT8waYGkWIDlP6OKVI) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [因為我還年輕](https://open.spotify.com/album/6KGZcpuMVu6pKO7E0XMCDH) | 3:30 |
 
-Snapshot ID: `MTY3ODM3NzYwMCwwMDAwMDAwMGJmOWVhMmI3ZTRjOGE1OTgyZjYyZTUxZGY5OWRjMDA2`
+Snapshot ID: `MTY3ODM3NzYwMCwwMDAwMDAwMDQ3ZWM2MmY2NzkzNzE0YjlkZjlhNjg5YzFkY2M1ZWM2`

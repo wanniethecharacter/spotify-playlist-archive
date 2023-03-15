@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Lou Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,729 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,790 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 74 | [festa estranha](https://open.spotify.com/track/5Gj78z3zpdXoZzlpEIibOb) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [festa estranha](https://open.spotify.com/album/3ngy9z7zLwytb1QVECUTnz) | 2:51 |
 | 75 | [Suco de Umbu](https://open.spotify.com/track/6fZsGcrr8ee5BErIAqb8Sw) | [Florais Da Terra Quente](https://open.spotify.com/artist/4o2BxKIeP7nFrkIQZCNl1R), [Chapéu de Palha](https://open.spotify.com/artist/14WMxy5IQph8kM1kcrwCcu) | [Suco de Umbu](https://open.spotify.com/album/5XzQwlFEVncfk4BvGaFeIt) | 3:54 |
 
-Snapshot ID: `MTY3ODQxNzM4MCwwMDAwMDAwMDcwYzNmOTcyYzMwYjU5ZGJmMGJlZThhNzVlZTI3ZTA1`
+Snapshot ID: `MTY3ODQxNzM4MCwwMDAwMDAwMDY2YjA5NGVhYzk5NDhkMDk0OTMxNWEyYTU5ZDI1MWZi`

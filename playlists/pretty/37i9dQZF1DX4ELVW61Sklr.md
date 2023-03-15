@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,150 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,135 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 74 | [Alone for Christmas \(feat\. Kiana Ledé\) \- from Still Home For The Holidays \(An R&B Christmas Album\)](https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 2:55 |
 | 75 | [Give Love On Christmas Day](https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Best Of/20th Century \- Christmas](https://open.spotify.com/album/3emp7PCTnvQmvhUkM5AjAy) | 4:09 |
 
-Snapshot ID: `MTY3MTE2OTg0MywwMDAwMDAwMDAyN2ViMTU2YmIxYjk4OThmMjkzZGZlMmI0YzcxNzg2`
+Snapshot ID: `MTY3MTE2OTg0MywwMDAwMDAwMGQxNzNhMTk4NzFhY2U1MDZkYzQwMzE1M2JkNzAxZWQx`

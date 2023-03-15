@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Dirt Bag",
+        "url": "https://open.spotify.com/album/563WPjzM0AeyozwhFvSo6l"
+      },
+      "artists": [
+        {
+          "name": "Hoosh",
+          "url": "https://open.spotify.com/artist/451QYarjabz09nL2SSufeV"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132734,
+      "name": "Dirt Bag",
+      "url": "https://open.spotify.com/track/1dy0gIKOgX4iOsW30qodhq"
+    },
+    {
+      "album": {
         "name": "Disco Maghreb",
         "url": "https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8"
       },
@@ -928,6 +946,24 @@
       "duration_ms": 180000,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/61xP63UNZyc4RIuotBRo9c"
+    },
+    {
+      "album": {
+        "name": "Dodi and Diana",
+        "url": "https://open.spotify.com/album/5BDRacsQIb2OfWeyoz1mLi"
+      },
+      "artists": [
+        {
+          "name": "Bayou",
+          "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138681,
+      "name": "Dodi and Diana",
+      "url": "https://open.spotify.com/track/2qLXPJKlyq3AdL5BfkPLtJ"
     },
     {
       "album": {
@@ -1467,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Gazing",
+        "url": "https://open.spotify.com/album/3nkipMsCFqQ5OrX3aN6Qpz"
+      },
+      "artists": [
+        {
+          "name": "Neemz",
+          "url": "https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173008,
+      "name": "Gazing",
+      "url": "https://open.spotify.com/track/6b7ob860TUCKrj1U5SrWEU"
+    },
+    {
+      "album": {
         "name": "Get Low",
         "url": "https://open.spotify.com/album/7phycFGcngvbPErCb97U1M"
       },
@@ -1594,7 +1648,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 226909,
       "name": "Grounding Place",
       "url": "https://open.spotify.com/track/5k42ev7lFesuG1UAlrKT3l"
@@ -2116,7 +2170,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 218800,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V"
@@ -2969,6 +3023,24 @@
     },
     {
       "album": {
+        "name": "OBSESSED",
+        "url": "https://open.spotify.com/album/6E9QcKgzS7TYqFmENIBkiG"
+      },
+      "artists": [
+        {
+          "name": "Zahraa",
+          "url": "https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174550,
+      "name": "OBSESSED",
+      "url": "https://open.spotify.com/track/7k2nyUIUCK6lZGeA6zdj8Z"
+    },
+    {
+      "album": {
         "name": "Old Flame",
         "url": "https://open.spotify.com/album/0OhpcZ3JcPE3KyjOLR6Ktw"
       },
@@ -3802,7 +3874,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 233142,
       "name": "Streets",
       "url": "https://open.spotify.com/track/0HrYRWreDtgwG420WzvS6w"
@@ -3840,7 +3912,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 245692,
       "name": "Styla Jamaiki",
       "url": "https://open.spotify.com/track/1ontuN6ddlysEYXzoYkLID"
@@ -4750,7 +4822,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 204779,
       "name": "You Make It Okay",
       "url": "https://open.spotify.com/track/4Cip7XIF27YDADmpIUTuVB"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > R&B without boundaries\. Cover: 6LACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,348,086 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,348,514 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 99 | [unexplainable](https://open.spotify.com/track/37xUx7Bb8geiSpFwUK1x1Y) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 1:39 |
 | 100 | [Drifting](https://open.spotify.com/track/5WUKybZ2qvtWjZOKbK8JwF) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Drifting](https://open.spotify.com/album/6BMAUmCmD1hlFLjp3OjaSS) | 2:35 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDVmMTFiMDA0NzI1MTQ2ZTgwOTE0MzIzMTliMDViODc3`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDk0ZDYwZjIwYjgxOTRjNjZlNThjNjVjOGVmZWVkNTVj`

@@ -4,7 +4,7 @@
 
 > The twins <a href=“spotify:artist:0Adbm5kzcPUxFybf9fhjgG”>Coco & Breezy</a> showcase a high\-energy House Music set that will for sure get you dancing.
 
-25 songs - 57 min 49 sec
+27 songs - 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Into The Groove \- Mixed](https://open.spotify.com/track/1pqu8JyZMzT1zyVunPnGRy) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Into The Groove \(Mixed\)](https://open.spotify.com/album/5YAyo0un4y01v4CRwRVETf) | 2:01 | 2022-06-01 |  |
 | [Koalack \- Mixed](https://open.spotify.com/track/2YEMxmVqQal3JJ8EcndQie) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Koalack \(Mixed\)](https://open.spotify.com/album/4hTcAhQE1VtkTMxW35TH87) | 2:02 | 2022-06-01 |  |
 | [Lift Your Hands Up \(feat\. Ramona Renea\) \- Mixed](https://open.spotify.com/track/1iZPVqEtDuybWnwGInXCFh) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Lift Your Hands Up \(feat\. Ramona Renea\) \[Mixed\]](https://open.spotify.com/album/44Rz29ULAGbq4PeIIJzTGD) | 3:35 | 2022-06-01 |  |
-| [Liftin Me Up \- Mixed](https://open.spotify.com/track/3IuoMVdAjjYvvQqsIMxaUE) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Liftin Me Up \(Mixed\)](https://open.spotify.com/album/0GPU70krmiBmiNHpMkWhQt) | 3:34 | 2022-06-01 |  |
+| [Liftin Me Up \- Mixed](https://open.spotify.com/track/3IuoMVdAjjYvvQqsIMxaUE) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Liftin Me Up \(Mixed\)](https://open.spotify.com/album/0GPU70krmiBmiNHpMkWhQt) | 3:34 | 2022-06-01 | 2023-03-15 |
+| [Liftin Me Up \- Mixed](https://open.spotify.com/track/63sgeA5MnRXEKjxsMyJ1Ff) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Liftin Me Up \(Mixed\)](https://open.spotify.com/album/0VgkQbcNXAQD0IJghomx9b) | 3:34 | 2022-06-01 |  |
 | [Like Whoa \- Mixed](https://open.spotify.com/track/6T1b8Xazbf0ENMo9qGrZeM) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Like Whoa \(Mixed\)](https://open.spotify.com/album/0HAi8SkTBvyjT782P4C6Oa) | 3:51 | 2022-06-01 |  |
 | [Mi Amor \- Mixed](https://open.spotify.com/track/36rGmOXDcoWU1dvqTK6kmT) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Mi Amor \(Mixed\)](https://open.spotify.com/album/5rvN2dmotskJDuyxGpfpur) | 1:30 | 2022-06-01 |  |
 | [Pasilda \- Extended Mix \- Mixed](https://open.spotify.com/track/3ctCBBJlXRZiRaGStMh5Vv) | [Shovell](https://open.spotify.com/artist/3H9aUontw9uSlcCDrKwJoE), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Pasilda \- Extended Mix \(Mixed\)](https://open.spotify.com/album/5gJo42Qf7vwGt1zdejvQwd) | 2:49 | 2022-06-01 |  |
@@ -32,6 +33,7 @@
 | [WET \- Mixed](https://open.spotify.com/track/5APD9rtYok17ZQdnCyGNbE) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [WET \(Mixed\)](https://open.spotify.com/album/1Ts40SVafixuyorO5901qM) | 2:31 | 2022-06-01 |  |
 | [Work \(feat\. Dave Giles II, Cor.Ece & Mike Dunn\) \- Mixed](https://open.spotify.com/track/6uM7lm6VQZREBsXVQktDeh) | [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv), [Dave Giles II](https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Work \(feat\. Dave Giles II, Cor.Ece & Mike Dunn\) \[Mixed\]](https://open.spotify.com/album/4VJJp037yk0iWb5UCnTYal) | 2:25 | 2022-06-01 |  |
 | [You Have House \- Extended Mix \- Mixed](https://open.spotify.com/track/69t7r2yQdmNyC9gUvhczGT) | [Supernova](https://open.spotify.com/artist/45prnyVzaIl2StUTCsAZYx) | [You Have House \- Extended Mix \(Mixed\)](https://open.spotify.com/album/0BzrfDHtQgtHtpqcipxkiV) | 1:49 | 2022-06-01 |  |
-| [Your Tongue \- Mixed](https://open.spotify.com/track/5dWOVT3cMVKp3xmHxWIotT) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Your Tongue \(Mixed\)](https://open.spotify.com/album/0qhSbmLSQQ4C7DgGhszD01) | 1:32 | 2022-06-01 |  |
+| [Your Tongue \- Mixed](https://open.spotify.com/track/44qX5ewDe6vgsr5cgToad6) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Your Tongue \(Mixed\)](https://open.spotify.com/album/2TBeqIJWHSWrUjkdhxz1nG) | 1:32 | 2022-06-01 |  |
+| [Your Tongue \- Mixed](https://open.spotify.com/track/5dWOVT3cMVKp3xmHxWIotT) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Your Tongue \(Mixed\)](https://open.spotify.com/album/0qhSbmLSQQ4C7DgGhszD01) | 1:32 | 2022-06-01 | 2023-03-15 |
 
 \*This playlist was first scraped on 2022-06-05. Prior content cannot be recovered.

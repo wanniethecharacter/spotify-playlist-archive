@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,769 likes - 91 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,777 likes - 91 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 90 | [Feels So Good](https://open.spotify.com/track/3dlZREgRxUWBdEPHXmOr70) | [Rosemary's Sons](https://open.spotify.com/artist/5zIxr40rlyDHkNmET9l6YB) | [Feels So Good](https://open.spotify.com/album/6ehleUoo9VRWuMMFiN5BkA) | 3:43 |
 | 91 | [Strange Brew](https://open.spotify.com/track/2EEbQxsexhkTqtwK20OxCm) | [Gruppo Sportivo](https://open.spotify.com/artist/43NJEdCasDjCttH1AgahwO) | [Strange Brew](https://open.spotify.com/album/55RcnnB9o7CY5V3mqZspu1) | 3:47 |
 
-Snapshot ID: `MTY3ODQzMzMyMiwwMDAwMDAwMDk4Y2EyZjQ3ZWU4OTZlMzE2MDU0MzZiYmNmZmQ3MWRl`
+Snapshot ID: `MTY3ODQzMzMyMiwwMDAwMDAwMGJjYzc4Nzc1YzI3OTYwODkyOGUzNzAzMDEwNmQ4MzA1`

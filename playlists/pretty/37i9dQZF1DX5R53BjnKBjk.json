@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer!  Foto: THAIS / Arte: Isu Kim",
-  "num_followers": 15770,
+  "num_followers": 15784,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMxMTI1OCwwMDAwMDAwMDJlZGEzZDc0Nzk0NWI1YThiM2FkN2ExNzQyMWYyNWMw",
+  "snapshot_id": "MTY3NjMxMTI1OCwwMDAwMDAwMDI0YTFkMzQ4ZWU0YmI5OWY4M2JkMmVkMjEzYjk4ZmY2",
   "tracks": [
     {
       "added_at": "2023-02-13 18:00:57",
@@ -622,6 +622,10 @@
         {
           "name": "Tangerim",
           "url": "https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk"
+        },
+        {
+          "name": "Lucas Sfair",
+          "url": "https://open.spotify.com/artist/7shKx1EfxkHU1nDqBzQQaq"
         }
       ],
       "duration_ms": 177141,

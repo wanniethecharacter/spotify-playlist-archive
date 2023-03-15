@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: محمود التركي
 
-194 songs - 11 hr 30 min
+195 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Fouq Elhad](https://open.spotify.com/track/0y5G2hTZujYnVyaiTCj0Fl) | [Abdallah Al Bader](https://open.spotify.com/artist/6giOGFNMPXlwcHcjT3TUeC), [Deyaa Al Maialy](https://open.spotify.com/artist/5gq0eVYiBb6VoqpxImQLNj) | [Fouq Elhad](https://open.spotify.com/album/3aIlJNpOXScScBjD0I9TGW) | 2:55 | 2021-12-23 | 2022-02-18 |
 | [Gher Any](https://open.spotify.com/track/0az73QKySqn6l23TWoljUt) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Gher Any](https://open.spotify.com/album/5HkpOu0MwwMcQdo6DUA5CQ) | 3:42 | 2022-06-07 | 2023-02-01 |
 | [Ghyabe Wagaak](https://open.spotify.com/track/1XePTZCLsOggdc8ABNl81J) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ghyabe Wagaak](https://open.spotify.com/album/72Lvo8ez65pAReNdGyCPkv) | 4:06 | 2022-01-01 | 2022-05-14 |
+| [Gissah](https://open.spotify.com/track/6i7tFmWmfP0Un7nPIkSpaY) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Gissah](https://open.spotify.com/album/2mWcaTK4MDGlSDrvOnPy9x) | 0:59 | 2023-03-14 |  |
 | [Habib Rohi](https://open.spotify.com/track/1BdoXfvRxhBZ11NtdRW3Im) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Habib Rohi](https://open.spotify.com/album/7mfZ7wvLmIpwNE9cY0uQtN) | 5:08 | 2021-12-23 | 2022-01-21 |
 | [Hai El Resala](https://open.spotify.com/track/0YHeI00TOV6j4sb9F9fFN1) | [Ali Arnoos](https://open.spotify.com/artist/1ICLYRvDbaXOGR17fhTQKq) | [Hai El Resala](https://open.spotify.com/album/7e6FLXKMPWzRIdrUJmaW14) | 3:15 | 2021-12-23 | 2022-03-12 |
 | [Hala Wallah](https://open.spotify.com/track/0CW5JdaXMKgZP0KUJ4fNt2) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Hala Wallah](https://open.spotify.com/album/2rIpKtnFsrlLunNFcHIO4f) | 2:43 | 2023-01-18 |  |
@@ -110,7 +111,7 @@
 | [Iraq Cypher \(feat\. Kira The Blurryface, Armando Rap, Odd Khalid, Disser, KC Hamada, Alrong, Genesis, Nayomi & EL SEEN\)](https://open.spotify.com/track/1WMQlJFH3UIuwAKkoatUo5) | [Big Hass](https://open.spotify.com/artist/2ql58UK3Kq5d32topEu6Tv), [Kira The Blurryface](https://open.spotify.com/artist/4R7pxLuB67BtKVX0BQRIyO), [Armando Rap](https://open.spotify.com/artist/2mFgrI1DeYCb5BMO4TzPkX), [Odd Khalid](https://open.spotify.com/artist/59Ie9C5y5W6M1gBj0FUvkk), [Disser](https://open.spotify.com/artist/1ckKDZAAYGqSHi8quAW7PZ), [KC Hamada](https://open.spotify.com/artist/3blZFhMJ3PjJSnOcoHg8bO), [Alrong](https://open.spotify.com/artist/0A82D7QijLeWDlwIWP2Xrx), [Genesis](https://open.spotify.com/artist/06C9hjoLs86MsWSZysR4hj), [Nayomi](https://open.spotify.com/artist/63pexOL4YuXMRprBVl8wXh), [El SEEN](https://open.spotify.com/artist/13TSKN9KQtsYPmkA5zJwua) | [Iraq Cypher \(feat\. Kira The Blurryface, Armando Rap, Odd Khalid, Disser, KC Hamada, Alrong, Genesis, Nayomi & EL SEEN\)](https://open.spotify.com/album/0v99Q4aIsmzSf0UzYRGg2z) | 5:33 | 2022-05-13 | 2022-10-14 |
 | [Jaybiale](https://open.spotify.com/track/7y5xSuRJxX2J273yPJ3HmU) | [Maher Ahmad](https://open.spotify.com/artist/5yLHbf0ksRIA5w44VysqvC) | [Jaybiale](https://open.spotify.com/album/3mfasbwnaWRjREVfzXDoih) | 3:39 | 2022-05-19 | 2022-11-21 |
 | [Jksara](https://open.spotify.com/track/4XAOZnXuPOGJ8MG0OdrMWt) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Jksara](https://open.spotify.com/album/3bSe4AzGwBDXR2X9R3lt0g) | 3:36 | 2022-09-28 |  |
-| [Karamti](https://open.spotify.com/track/1KvMp5OqzpTQOZYOohzynn) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Karamti](https://open.spotify.com/album/7qQx75GAnzjtyoKRbYFHZE) | 3:43 | 2022-06-13 |  |
+| [Karamti](https://open.spotify.com/track/1KvMp5OqzpTQOZYOohzynn) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Karamti](https://open.spotify.com/album/7qQx75GAnzjtyoKRbYFHZE) | 3:43 | 2022-06-13 | 2023-03-15 |
 | [Kemt Akrahak](https://open.spotify.com/track/6dUcVMzyhHtc53fIEKbzOf) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Kemt Akrahak](https://open.spotify.com/album/5E2oPXxKJgutwwKQrwQftZ) | 3:58 | 2022-05-19 | 2023-01-11 |
 | [Khal Nafterk](https://open.spotify.com/track/3NUhC39QTOVtlDC2jvO9st) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Khal Nafterk](https://open.spotify.com/album/0eq2PMVmydIIKz8C4l0V5G) | 3:30 | 2022-06-20 |  |
 | [Khaliji Westcoast](https://open.spotify.com/track/5oVcQLyEEJDiIoNPNi2pUQ) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Khaliji Westcoast](https://open.spotify.com/album/5atrvsizsJwUKs4Xn3i95t) | 2:34 | 2022-03-23 | 2022-06-11 |

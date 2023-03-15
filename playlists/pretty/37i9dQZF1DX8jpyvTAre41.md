@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,764 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,782 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Iconic](https://open.spotify.com/track/7oTImlbBuKpTLi8hokqYR1) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:05 |
 | 100 | [Until I Come Home](https://open.spotify.com/track/1zeeiIvYR1VL5ErL7BXaMM) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Shape & Form](https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL) | 3:15 |
 
-Snapshot ID: `MTY3ODQ2MTEwMSwwMDAwMDAwMDM5OWQwMjI5OWEzNmIyYzU4ZmM2MDE1MjQyMDk5MDRj`
+Snapshot ID: `MTY3ODQ2MTEwMSwwMDAwMDAwMDc2MTJkZWFiMmEzNGEwZTM5MDhlY2RkNmRiM2MzMGFj`

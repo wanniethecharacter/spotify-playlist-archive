@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,126,442 likes - 300 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,126,691 likes - 300 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Here To Stay](https://open.spotify.com/track/3ko8fiPX0re8ZLhferPvLy) | [Dabey](https://open.spotify.com/artist/5PlbCXGclhKsbKfOtuzmVM), [Phxlvp](https://open.spotify.com/artist/2DqtBeZ4okRCW4ixPkZ3zl), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Here To Stay](https://open.spotify.com/album/05qqKlkG6x9ATEpA6YopKQ) | 1:53 |
 | 300 | [No Train](https://open.spotify.com/track/6Dbkx0yRv8X6BRutRy40Zx) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [No Train](https://open.spotify.com/album/2IsGzSKIRJZJsnlU88aa1Y) | 1:55 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDRlY2UzZjZlNjRmYjVkMzE3MzI2MGVmOTM2ODc3ZDEz`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDgzMmY2YjkyODIwYzkxMDMzODc3Mjg5ODJjYjRkY2U2`

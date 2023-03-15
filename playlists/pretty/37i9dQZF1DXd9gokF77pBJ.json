@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:37fxVoFAMzet5CiiDg7SL7\">CC:DISCO's </a> favourite tracks. Updated regularly. Curated by CC:DISCO!. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 8931,
+  "num_followers": 8945,
   "original_name": "CC:DISCO!'s track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDE4OCwwMDAwMDAwMDlhNmVjYjhkYjliODNkMzk0ZmI3YmFkZjkxMTJmYWFj",
+  "snapshot_id": "MTY3NDE5MDE4OCwwMDAwMDAwMGEwNTQxYmJkZmE0MWZiYmZkZTE3Y2MzNjU5NDk3ZDYz",
   "tracks": [
     {
       "added_at": "2023-01-20 04:49:48",
@@ -676,20 +676,20 @@
       },
       "artists": [
         {
-          "name": "Anelisa Lamola",
-          "url": "https://open.spotify.com/artist/4JQspweC9s9YK2H81Nylvi"
-        },
-        {
           "name": "Greg Gould",
           "url": "https://open.spotify.com/artist/7scMWGksw0YUGUVuewfyJo"
+        },
+        {
+          "name": "Revival",
+          "url": "https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk"
         },
         {
           "name": "Phebe Edwards",
           "url": "https://open.spotify.com/artist/5Phxu6UZtHHfEHNPDwyqpo"
         },
         {
-          "name": "Revival",
-          "url": "https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk"
+          "name": "Anelisa Lamola",
+          "url": "https://open.spotify.com/artist/4JQspweC9s9YK2H81Nylvi"
         },
         {
           "name": "Kathy Brown",

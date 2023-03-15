@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: d4vd
 
-2,639 songs - 5 day 11 hr 29 min
+2,640 songs - 5 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [burnout](https://open.spotify.com/track/69s1Zz4nO5DFtedWC9uMFI) | [WYLDE](https://open.spotify.com/artist/4M808tluYcN5j0aV5jp4ep) | [burnout](https://open.spotify.com/album/57QfhvVKxwovNLULRopS73) | 2:33 | 2023-01-06 | 2023-01-21 |
 | [Buttercup](https://open.spotify.com/track/7oiGzkDfrxvgV1z1mP5muH) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Buttercup](https://open.spotify.com/album/4XxBogi8mepTIkoNnB6Tez) | 3:29 | 2023-02-10 | 2023-02-25 |
 | [Butterflies](https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Butterflies](https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U) | 3:03 | 2022-02-04 | 2022-02-19 |
-| [Butterflies](https://open.spotify.com/track/33BFPA2AADvu2tiyLotov8) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Buttlerflies](https://open.spotify.com/album/79c0H3KKIc2uGlEotrhsl6) | 2:38 | 2023-03-10 |  |
+| [Butterflies](https://open.spotify.com/track/33BFPA2AADvu2tiyLotov8) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Butterflies](https://open.spotify.com/album/79c0H3KKIc2uGlEotrhsl6) | 2:38 | 2023-03-10 |  |
 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 | 2023-01-27 | 2023-02-18 |
 | [Butterfly](https://open.spotify.com/track/28h1mlM9GI9BPDwqm2plTI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Butterfly](https://open.spotify.com/album/7gc956PnIlEBzEqKRzT66f) | 2:46 | 2022-09-02 | 2022-09-17 |
 | [butterfly fields](https://open.spotify.com/track/2nXtGLBgSu60upR05CGEBN) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [butterfly fields](https://open.spotify.com/album/0gUWXiPPG13Zao8Nbqr1fa) | 3:28 | 2022-08-05 | 2022-08-27 |
@@ -2590,7 +2590,8 @@
 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 | 2023-01-13 | 2023-01-28 |
 | [worst enemy](https://open.spotify.com/track/4GRELogjYGX7i6b0jXQMDF) | [Jake Clark](https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd) | [worst enemy](https://open.spotify.com/album/5c1T3eQmdBGNy4Ol5pDWPw) | 2:57 | 2022-12-23 | 2023-01-21 |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-10 |  |
-| [Would you do it again?](https://open.spotify.com/track/5IhOaFkIHZmRZmcBDoOZjQ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Would you do it again?](https://open.spotify.com/album/3lPAuwRmYdKEQa71owI4ol) | 2:27 | 2023-03-03 |  |
+| [Would you do it again?](https://open.spotify.com/track/4S3QaFRffd2LZH5kw0TytZ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Would you do it again?](https://open.spotify.com/album/0q4DIPAhsIhvnrYrHVVv7n) | 2:27 | 2023-03-10 |  |
+| [Would you do it again?](https://open.spotify.com/track/5IhOaFkIHZmRZmcBDoOZjQ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Would you do it again?](https://open.spotify.com/album/3lPAuwRmYdKEQa71owI4ol) | 2:27 | 2023-03-03 | 2023-03-15 |
 | [Would You Lie](https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Would You Lie](https://open.spotify.com/album/3gcHGmgDIWkXg3ZeBm719V) | 3:34 | 2022-11-18 | 2022-12-10 |
 | [would you love me now?](https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [would you love me now?](https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw) | 3:25 | 2022-10-07 | 2022-10-22 |
 | [WRONG SIDE](https://open.spotify.com/track/26uE5ru085E3yfOXNfMYEP) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [GOALIE](https://open.spotify.com/album/3AwPKvnIRsrkC0pG7l4RNM) | 2:37 | 2022-10-14 | 2022-10-29 |

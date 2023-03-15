@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 
 > The best jazz pianists today\. Cover: Brad Mehldau
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,996 likes - 200 songs - 17 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,020 likes - 200 songs - 17 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 199 | [Speak](https://open.spotify.com/track/1LAhdhtcpPhCO84G4eUYD9) | [Mário Laginha](https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ) | [Jangada](https://open.spotify.com/album/2XD00ztTgSIRXGB0uxLgXG) | 6:08 |
 | 200 | [Persistence](https://open.spotify.com/track/37xiYWIg7WS01fbtn2zPMm) | [Michael Weiss](https://open.spotify.com/artist/0CT9ey2aaPfiC1IYcpiOqn) | [Persistence](https://open.spotify.com/album/2DVXcIio0XzCqC0yb7OctX) | 5:18 |
 
-Snapshot ID: `MTY2OTk5NjE0NCwwMDAwMDAwMGM5ZGJlZmNhYTBiZGI5MWUyYTkzYWM1NDI3NWNmNDA1`
+Snapshot ID: `MTY2OTk5NjE0NCwwMDAwMDAwMDIzYjNjMWQ1MmE0ZWMyZjFkMmFhMTMyN2IwYmJhNDI3`

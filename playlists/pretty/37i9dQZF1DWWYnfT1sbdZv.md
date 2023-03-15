@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 
 > Music from "THE IDOLM@STER CINDERELLA GIRLS"\. アイドルマスター シンデレラガールズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,339 likes - 75 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,375 likes - 75 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 | 74 | [凸凹スピードスター \- GAME VERSION](https://open.spotify.com/track/07V6TltekjZudqZEXQkf2V) | [安部菜々 \(CV: 三宅麻理恵\)](https://open.spotify.com/artist/0EeF7ArEo2Xv1Qg6XoJ1Ua), [佐藤心 \(CV: 花守ゆみり\)](https://open.spotify.com/artist/74oOpO97XkXnYtjYoArPvw) | [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 21〜30 GAME VERSION](https://open.spotify.com/album/1U7f3KJ4Xu4UwFNFlmXXMf) | 2:08 |
 | 75 | [N.O.R\. 〜Notes of Revolution〜革命についての覚書 \- GAME VERSION](https://open.spotify.com/track/2kpvnTxHnzuwZhskFFd284) | [星輝子 \(CV: 松田颯水\)](https://open.spotify.com/artist/6WWxRPmLbyqwTWtyJ2Yxaj), [脇山珠美 \(CV: 嘉山未紗\)](https://open.spotify.com/artist/5ZSu1tLBPcs2M4xlB5VZoS), [小関麗奈 \(CV: 長野佑紀\)](https://open.spotify.com/artist/6E5rvh7Z6S6LMOUszKvMXo) | [N.O.R\. 〜Notes of Revolution〜革命についての覚書 \(GAME VERSION\)](https://open.spotify.com/album/5hXNztVzlVluX7XcROwyOn) | 2:17 |
 
-Snapshot ID: `MTY3NzU5Njc4OCwwMDAwMDAwMDU2NzdkNzVlZjFiYjk2MmY5MWQ2NWY1MjY2MWYzNmQ4`
+Snapshot ID: `MTY3NzU5Njc4OCwwMDAwMDAwMGZlMTcyMGIyMDc0ZjlkZGViZTViMjQ5ZDFlN2I2ZGRm`

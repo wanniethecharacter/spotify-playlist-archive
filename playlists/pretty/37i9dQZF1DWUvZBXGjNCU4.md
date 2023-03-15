@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,855 likes - 168 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,890 likes - 168 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 167 | [Journey Home](https://open.spotify.com/track/1n8JIhb5wq50ZNvuas4ceq) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Journey Home](https://open.spotify.com/album/2KGpAwyPvctqPpcpzLpRwh) | 3:08 |
 | 168 | [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 |
 
-Snapshot ID: `MTY3ODQ1NTc0NywwMDAwMDAwMGJjNzI4ZjlkZGU0ZjI4ZDgxOGNiNjI3M2U1YzY5Mjkz`
+Snapshot ID: `MTY3ODQ1NTc0NywwMDAwMDAwMGE3ZmNmNzcwNTBiMmM4MGYyNWYzZTc4NGYyMDEwZGM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Chiiild, Charlotte Cardin
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,027 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,078 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Hologramme](https://open.spotify.com/track/4zvTTMzKc6ANc8gpsnrgYk) | [Visrei](https://open.spotify.com/artist/6cjATtjJUrtOGS1TQoTUuu) | [Miroirs](https://open.spotify.com/album/4NjFpaxXn6DFbpYn6KoFJX) | 3:45 |
 | 100 | [Maybe](https://open.spotify.com/track/0uBFY8hJyxPCH1xA69UTJE) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/73pwo4Qtcrilz9cJM3uCL5) | 3:13 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMGE1ZTU1Nzk3NzI2NjQwZTkyMjg2NmJiOTcwNWRlZmI1`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDIxMzkxODgwYjc1MjU5NjZhMjA0ZDg1MTI0NGZkYWEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with NLE Choppa, 6LACK, and Blxst!
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,615 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,628 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 74 | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/track/5B40Td13cDQ4adeAiLf8Z4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz) | 2:28 |
 | 75 | [2 LIVE](https://open.spotify.com/track/1pbSwjVmaoVgHIU2bQeuxI) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [2 LIVE](https://open.spotify.com/album/67xulMesSVTsFmOwpO4gaw) | 2:29 |
 
-Snapshot ID: `MTY3ODU1OTE1OSwwMDAwMDAwMGFlYzE4OWJhZDdmMDc2ZmRmYjY0ZTNjYzkxMTYwMTYz`
+Snapshot ID: `MTY3ODU1OTE1OSwwMDAwMDAwMGY4NTBhODZiNTU5Y2FhYmM0MWViN2Y2NzJhOTVmYzI2`

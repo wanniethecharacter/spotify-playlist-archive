@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Line of sight",
+        "url": "https://open.spotify.com/album/7CUgVbMeNO27pF1kFDm5yV"
+      },
+      "artists": [
+        {
+          "name": "SCANDAL",
+          "url": "https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213666,
+      "name": "Line of sight",
+      "url": "https://open.spotify.com/track/4tUFxXSNCayPjtYoF3kI7T"
+    },
+    {
+      "album": {
         "name": "MAGIC",
         "url": "https://open.spotify.com/album/3zPCsEyprC959PeCIa2M4X"
       },

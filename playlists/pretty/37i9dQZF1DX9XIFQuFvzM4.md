@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,546,141 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,546,389 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 99 | [You Send Me](https://open.spotify.com/track/24lvdbt9pS7DFEjhEWSl49) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [A Cupid's Valentine](https://open.spotify.com/album/0cvF6655OPZeLDYeU8UqL6) | 2:43 |
 | 100 | [The Love I Lost \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 6:24 |
 
-Snapshot ID: `MTY3NTk2NDYxOCwwMDAwMDAwMDQxYjFkMmY4MmMxZjA5MjM2MTdkMjY2NTNjN2QxMWFj`
+Snapshot ID: `MTY3NTk2NDYxOCwwMDAwMDAwMGY1YmI0ZGJmNGJkNmI3MzE1NDE4ODNjOTc5ZjdhY2I3`

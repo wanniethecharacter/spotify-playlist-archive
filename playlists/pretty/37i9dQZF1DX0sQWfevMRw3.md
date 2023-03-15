@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Ingen kamera på iPhone 2!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,273 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,330 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [SÄNK DIESELPRISET](https://open.spotify.com/track/1NF8op28TqKOUPAb5NEpLC) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Femedia](https://open.spotify.com/artist/2oKbavAM3HBJQAPxY867tB), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [SÄNK DIESELPRISET](https://open.spotify.com/album/7KcTYUN4oW03vIxq9OZbDj) | 2:21 |
 | 100 | [Fingrarna i halsen](https://open.spotify.com/track/4JWfHH5DlQ1qVKXmGyxOMY) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Fingrarna i halsen](https://open.spotify.com/album/7L3fBDH0doYXgV8UafoxgA) | 3:00 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGZmMDVmMzM4N2VjODI2Y2M5NzA1MzBmYzA3NDQ1YTY1`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDU5NGMzODQ5ZGM1OTAwNjVlZWIwYTBjMzk4YjI5MTM2`

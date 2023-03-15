@@ -1,12 +1,12 @@
 {
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Anuel",
-  "num_followers": 690840,
+  "num_followers": 691091,
   "original_name": "PEGAO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODcyMzc2OSwwMDAwMDAwMDM4YmE0OTBjNDBmMDY2MWZmOTcxZWUwMzEyOGUzM2My",
+  "snapshot_id": "MTY3ODc5ODIzNywwMDAwMDAwMGEyOWM0NzdjNDExMzU0NGJiNDYzNjgyMjc2NDIzOTI5",
   "tracks": [
     {
       "added_at": "2023-03-13 16:09:29",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-03-13 16:09:29",
       "album": {
+        "name": "Lisa",
+        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
+    },
+    {
+      "added_at": "2023-03-13 16:09:29",
+      "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 228640,
       "name": "La Pasamos CXBRXN",
       "url": "https://open.spotify.com/track/672zDo2nzWSoIIQ7zD5kuj"
-    },
-    {
-      "added_at": "2023-03-13 16:09:29",
-      "album": {
-        "name": "Lisa",
-        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Lisa",
-      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
     },
     {
       "added_at": "2023-03-13 16:09:29",

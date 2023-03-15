@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Kwon Jin Ah\(권진아\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: So!YoON!\(황소윤\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-461 songs - 1 day 4 hr 25 min
+462 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Rain](https://open.spotify.com/track/1wF3cpRPZMCoHgM4iDh0DK) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [A New Journey](https://open.spotify.com/album/12Z2vK39UyWavZ6NpoK5ZH) | 3:23 | 2022-04-22 | 2022-06-15 |
 | [RAIN STAR \*:・゚](https://open.spotify.com/track/5mY26LEMh6ImayiXo7KLQs) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [RAIN STAR](https://open.spotify.com/album/1YzGYed20Rhnid37X5Ejkl) | 3:07 | 2022-04-12 | 2022-07-28 |
 | [Raining stars](https://open.spotify.com/track/2voUndfedlslylT03gwHRP) | [Quinsha](https://open.spotify.com/artist/6AQMjoRG3y1h8aQAyNcd2A) | [Illusion](https://open.spotify.com/album/0utY4SKIxKsdQUD6oZQ8Kp) | 3:32 | 2022-05-11 | 2022-07-09 |
-| [Raise Up The Flag](https://open.spotify.com/track/1bEAB19L71KbTpnRwMNS2U) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Flag](https://open.spotify.com/album/7E41RcfjFjRwQpDWn7s19f) | 3:44 | 2023-03-06 |  |
+| [Raise Up The Flag](https://open.spotify.com/track/1bEAB19L71KbTpnRwMNS2U) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Flag](https://open.spotify.com/album/7E41RcfjFjRwQpDWn7s19f) | 3:44 | 2023-03-06 | 2023-03-15 |
 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 | 2022-04-12 |  |
 | [REASON](https://open.spotify.com/track/2RqjrPwWWk6MOo6YzqYJ6U) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[REASON\]](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) | 3:17 | 2023-01-14 |  |
 | [RED](https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl) | 2:56 | 2023-01-06 |  |
@@ -342,6 +342,7 @@
 | [Slainte!](https://open.spotify.com/track/5OvS0h5GTsVkyovheeb6g8) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [PLAYLIST SEASON2 \(Original Soundtrack\)](https://open.spotify.com/album/1LCTXXqbcyoffo0HpBA7co) | 3:38 | 2022-12-22 | 2023-01-11 |
 | [sleep walking](https://open.spotify.com/track/03WwZjnTBrw9Vohm16So6Q) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [sleep walking](https://open.spotify.com/album/05YBRBySSq1YJfBhc1Lk4M) | 3:47 | 2023-01-16 | 2023-01-27 |
 | [sleeplessness](https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [sleeplessness](https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC) | 4:53 | 2022-04-22 | 2022-07-24 |
+| [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-03-14 |  |
 | [Smokenshot \(feat\. Jang il hyun\)](https://open.spotify.com/track/4M6bgUTUp2JxLdZMLtoTBr) | [SAMUK](https://open.spotify.com/artist/7oXwjmqKXdkQDs6HP2k77H), [Moonshot](https://open.spotify.com/artist/6RJHpycsLTaI6lAtDmVzQ6), [장일현](https://open.spotify.com/artist/256o8MkuNTMMFG2CwJ89Er) | [29:30](https://open.spotify.com/album/74ThytV3fLNHlu6byyAedJ) | 3:29 | 2023-02-14 | 2023-02-24 |
 | [Snooze](https://open.spotify.com/track/46gDDSAfLO6u6bJZokt5ka) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Snooze](https://open.spotify.com/album/3VUJRB3DuYAdrubSXwzH7e) | 4:52 | 2022-04-12 | 2022-07-28 |
 | [So Tender](https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 | 2022-04-21 | 2023-01-08 |

@@ -1137,6 +1137,28 @@
     },
     {
       "album": {
+        "name": "Cantin (Ao Vivo)",
+        "url": "https://open.spotify.com/album/76ejQ46WLbeqBic7cTggYI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137674,
+      "name": "Cantin - Ao Vivo",
+      "url": "https://open.spotify.com/track/6QshGflUgyrbSCYBrYbzkP"
+    },
+    {
+      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
       },
@@ -1352,6 +1374,24 @@
       "duration_ms": 198960,
       "name": "Cigarettes out the Window",
       "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO"
+    },
+    {
+      "album": {
+        "name": "Coisas Que Eu Sei",
+        "url": "https://open.spotify.com/album/6L0TgC0N85KnF2cCL7t0es"
+      },
+      "artists": [
+        {
+          "name": "intomusic brazil",
+          "url": "https://open.spotify.com/artist/7a65BfOit4jjLQiH1jLz9N"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185666,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/1ZV8n0wJ4htdpGRBEt25B6"
     },
     {
       "album": {

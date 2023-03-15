@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. julie on cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,875 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,304 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 74 | [Clinging to the Ground](https://open.spotify.com/track/4o0nUiJQ1o8iW2fuz8l1Ys) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2), [Rew](https://open.spotify.com/artist/0pKGL4bTFl7l7fac3x7PoT) | [Clinging to the Ground](https://open.spotify.com/album/08BiEP4rj0gHNLmm5epckO) | 3:59 |
 | 75 | [Cabin Fever](https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7) | [Juice Jackal](https://open.spotify.com/artist/707dnhK9JFj9zyJvEhY761), [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Cabin Fever](https://open.spotify.com/album/7EVs3WnBcbuCpe72Ac93Ty) | 3:06 |
 
-Snapshot ID: `MTY3ODc0NjIxMSwwMDAwMDAwMDJjYTNkMGM4Njc0MzI0ZGIxY2VjZTg5ZTEyODAzZjY2`
+Snapshot ID: `MTY3ODc0NjIxMSwwMDAwMDAwMDllODk4NTI0MmM2OWRjZDYwZDIzYTZhZDE0ZTNkNjA3`

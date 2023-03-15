@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,003 songs - 2 day 4 hr 28 min
+1,004 songs - 2 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Bli Hos Meg](https://open.spotify.com/track/3bf30UMAYF7RhuTs9BJ3Ht) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bli Hos Meg](https://open.spotify.com/album/5r6poYKSPlGnknUSBxI83c) | 2:25 | 2022-01-31 | 2022-02-04 |
 | [Bli Med Meg Hjem](https://open.spotify.com/track/57bTCtZZib1OkelyBl10a1) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Bli Med Meg Hjem](https://open.spotify.com/album/3B0F6c5gFEgcUElAnr03pR) | 2:10 | 2022-05-07 | 2022-05-08 |
 | [BlimE](https://open.spotify.com/track/1qxsnAxrgjvPRMcGbsYTgW) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [BlimE](https://open.spotify.com/album/30lEqkTPTQLcwFh5bfkJd6) | 2:57 | 2023-01-09 | 2023-02-11 |
-| [BlimE! \- Den Ene](https://open.spotify.com/track/5PTYydUwfxM8Q7KuqjmPxu) | [Selma Ibrahim](https://open.spotify.com/artist/651XOkcvus2ZHLMCln4fgY) | [BlimE! \- Den Ene](https://open.spotify.com/album/3BLyTrdFNN4jPviN6otdvR) | 3:21 | 2022-06-19 |  |
+| [BlimE! \- Den Ene](https://open.spotify.com/track/5PTYydUwfxM8Q7KuqjmPxu) | [Selma Ibrahim](https://open.spotify.com/artist/651XOkcvus2ZHLMCln4fgY) | [BlimE! \- Den Ene](https://open.spotify.com/album/3BLyTrdFNN4jPviN6otdvR) | 3:21 | 2022-06-19 | 2023-03-15 |
 | [BlimE! – Dynamitt](https://open.spotify.com/track/3xuyh4bAIuN0oIWPMqoXog) | [Nicolay Ramm](https://open.spotify.com/artist/5VD5GCCQ2hh0m7ufVlmcue) | [BlimE! – Dynamitt](https://open.spotify.com/album/7d0pF7MVf4wBCpdmqtGBoL) | 2:49 | 2021-08-20 | 2021-11-30 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27\* | 2022-01-08 |
 | [Block Party](https://open.spotify.com/track/26d3s0266f5EwHuRr5CxPi) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Block Party](https://open.spotify.com/album/6zkX0G2P3biWJLOCTf0KIj) | 2:05 | 2022-06-11 | 2022-08-30 |
@@ -535,6 +535,7 @@
 | [Late To Da Party \(feat\. Youngboy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(feat\. Youngboy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 | 2022-06-25 | 2022-06-27 |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-22 | 2022-11-13 |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-07 |  |
+| [LAY LOW FREESTYLE](https://open.spotify.com/track/2o6kn3zmDmMq8z8v2xl4Ig) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [LAY LOW FREESTYLE](https://open.spotify.com/album/5InFopy4HQQvXdB1D05vPf) | 2:14 | 2023-03-14 |  |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-03-27\* | 2021-05-25 |
 | [Lei av å være hjemme](https://open.spotify.com/track/2nz4mqUUzDSjI5M3aXDNsH) | [Mio](https://open.spotify.com/artist/11wkY41Tv6H5BbPopqUoCr) | [Lei av å være hjemme](https://open.spotify.com/album/3LYcVLXXiwFBsQHy4RneXF) | 1:54 | 2021-04-07 | 2021-04-08 |
 | [leilo brenner \- Spotify Studio It´s Hits Recording](https://open.spotify.com/track/6ztcxDt6rVmqMGi0t4wOiT) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [leilo brenner \(Spotify Studio It's Hits Recording\)](https://open.spotify.com/album/688lFR0RtS2nxfHQTyCwKi) | 2:23 | 2022-06-11 | 2022-07-24 |

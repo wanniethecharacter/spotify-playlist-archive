@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,164,521 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,164,691 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [We'll Be Together Again](https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [It Had To be You..\. The Great American Songbook](https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM) | 3:54 |
 | 100 | [A New Path](https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm), [Martin Berggren](https://open.spotify.com/artist/7qYAe49Oc3fZSX7fF0Zmmj), [David Andersson](https://open.spotify.com/artist/0bG2MvtD9GWZgG1YPenh2A), [Andreas Baw](https://open.spotify.com/artist/5b6rqJbzt7BdzmBlAa5qxI), [Inge Petersson\-Lindbäck](https://open.spotify.com/artist/3sF12c1sk1dw0igDvK7EK2), [Bergdalakvartetten](https://open.spotify.com/artist/4WMeBii3eR8cZJ0kP0SP1C) | [A New Path](https://open.spotify.com/album/6f661pRqdOU9WDFmPZID3Q) | 5:48 |
 
-Snapshot ID: `MTY3ODE5NDM2MSwwMDAwMDAwMDJhNWMxYWExOWQxNGZlMTVkYjU2NjRiYzVkYzFjZDA0`
+Snapshot ID: `MTY3ODE5NDM2MSwwMDAwMDAwMGFmNGY5YzZjNmE2NjBjNjZmMjQ0MzQ3ODVhYjhhMjVk`

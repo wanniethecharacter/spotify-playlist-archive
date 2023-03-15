@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Jean Grae
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,985 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,238 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 49 | [Western Ways, Pt\. 2 \(La Seleccion\) \(feat\. Big Punisher & JuJu\)](https://open.spotify.com/track/0dUKYPzjFe0tJYCKf3USWi) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U), [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [Here Come The Horns](https://open.spotify.com/album/0crKVrdcLTyzjfZL2QpwTq) | 4:00 |
 | 50 | [The $](https://open.spotify.com/track/5lQXkClM3axFsWL2NkqIW6) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Ruff Draft](https://open.spotify.com/album/1TRrUIWutAg8Xe99cAzmbm) | 2:43 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDU3MDE3YjExZWI0NWVjOTdlNDViMWI4MzJhYmRmYmVk`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDE4YWI0YzczMDM4Mjg4MmFjZWRiODVkNTQ0NzljMTgw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Sunny Malton, AR Paisley, Lazyeye
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,841 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,864 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 93 | [No Id](https://open.spotify.com/track/76BNJ7QOTjG8Ka4H5qQr5j) | [K Money](https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6) | [No Id](https://open.spotify.com/album/7a1Dm0qbkP4lQWwmoqrvsi) | 1:45 |
 | 94 | [Here it Goes](https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Here it Goes](https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO) | 3:09 |
 | 95 | [Cassette](https://open.spotify.com/track/5TWvTuYcGrChBEhw6xHjld) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0wM8y1WFSTHI3yYCXpJfl0) | 3:22 |
-| 96 | [Change](https://open.spotify.com/track/687XycCZVWFqDMG62uBjDE) | [JD Era](https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv), [Meeco](https://open.spotify.com/artist/6n5aqrtqKxRHEdap5f4vgQ), [DJ Access](https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T) | [Change](https://open.spotify.com/album/0C7TBWsRhx5h6VDUwxfOlP) | 3:00 |
+| 96 | [Change](https://open.spotify.com/track/687XycCZVWFqDMG62uBjDE) | [Meeco](https://open.spotify.com/artist/6n5aqrtqKxRHEdap5f4vgQ), [DJ Access](https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T), [JD Era](https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv) | [Change](https://open.spotify.com/album/0C7TBWsRhx5h6VDUwxfOlP) | 3:00 |
 | 97 | [Don't Dance](https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc) | [Don't Dance](https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX) | 3:17 |
 | 98 | [SKC.](https://open.spotify.com/track/38yVzUZZPc4zq99YI2dspn) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We) | [SKC.](https://open.spotify.com/album/0YPsF6EkdKRhuudmkfcR1o) | 4:07 |
 | 99 | [Birthday Girl](https://open.spotify.com/track/4AmxBBozDJDeNcsPMcLrTq) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Birthday Girl](https://open.spotify.com/album/1KfH7Htcq4ck6JNVZrozUa) | 2:23 |
 | 100 | [UPTOWN](https://open.spotify.com/track/1WvSl4dDdvazHNEy7SaYxW) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [UPTOWN](https://open.spotify.com/album/2QJGJezLbxbCTCwuktLR1I) | 2:45 |
 
-Snapshot ID: `MTY3ODU2MTAxMywwMDAwMDAwMGIxNWRjNTkxNzk2YmJkYmRlYTQ4ZmYzNDYzZGNhYTU0`
+Snapshot ID: `MTY3ODU2MTAxMywwMDAwMDAwMDAxNDViYWJkNDVlNGE4YTM2M2JlMDNhMmQ4ZDgwMDBj`

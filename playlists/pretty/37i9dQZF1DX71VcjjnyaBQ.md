@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,112 likes - 100 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,166 likes - 100 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Bye Bye Blackbird \- Live](https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Bye Bye Blackbird \(Live\)](https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE) | 7:02 |
 | 100 | [Queen Of The South](https://open.spotify.com/track/5zzuc4E1t63gH4NRITIUWa) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Queen Of The South](https://open.spotify.com/album/14eu3scYNCK8QwPNqwYelY) | 4:20 |
 
-Snapshot ID: `MTY3ODE5MzQwMywwMDAwMDAwMDEwZThkNmYxNThiMjExMWIwZGFkMGI4YjYxZDQyMmU2`
+Snapshot ID: `MTY3ODE5MzQwMywwMDAwMDAwMDMyZjYyOWU2MjdjZmI0ZmFlOGIzOWM1Nzk4OWMzNjlm`

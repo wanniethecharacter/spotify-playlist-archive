@@ -1,13 +1,33 @@
 {
-  "description": "Altijd fris in Fresh Hits. Cover: The Kid LAROI",
-  "num_followers": 14001,
+  "description": "Altijd fris in Fresh Hits. Cover: Calvin Harris & Ellie Goulding",
+  "num_followers": 14008,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODcwMzQ2MiwwMDAwMDAwMGJlYTNiYTU4ZmQ2MzE5OTNkODM1MDcxYzc0NDcxNDZk",
+  "snapshot_id": "MTY3ODc5MTA1NSwwMDAwMDAwMDE2NWRhYjJiM2Q0ODdmYzIxODc4NGNmNzU1NTdlZGJj",
   "tracks": [
+    {
+      "added_at": "2023-03-13 10:31:02",
+      "album": {
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
     {
       "added_at": "2023-03-13 10:31:02",
       "album": {
@@ -35,22 +55,38 @@
     {
       "added_at": "2023-03-13 10:31:02",
       "album": {
-        "name": "Miracle (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+        "name": "Broski\u2019s",
+        "url": "https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         },
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
         }
       ],
-      "duration_ms": 186496,
-      "name": "Miracle (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+      "duration_ms": 179346,
+      "name": "Broski\u2019s",
+      "url": "https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3"
+    },
+    {
+      "added_at": "2023-03-13 10:31:02",
+      "album": {
+        "name": "Dyscalculie",
+        "url": "https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk"
+      },
+      "artists": [
+        {
+          "name": "Maks",
+          "url": "https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI"
+        }
+      ],
+      "duration_ms": 93509,
+      "name": "Dyscalculie",
+      "url": "https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n"
     },
     {
       "added_at": "2023-03-13 10:31:02",
@@ -71,6 +107,30 @@
       "duration_ms": 184000,
       "name": "Burning Daylight",
       "url": "https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep"
+    },
+    {
+      "added_at": "2023-03-13 10:31:02",
+      "album": {
+        "name": "Vlinders (feat. Kleine John & Chavant\u00e9)",
+        "url": "https://open.spotify.com/album/3vMpRJnBn2mIOq4GrWFbHl"
+      },
+      "artists": [
+        {
+          "name": "DJ DYLVN",
+          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
+        },
+        {
+          "name": "Chavant\u00e9",
+          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
+        },
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        }
+      ],
+      "duration_ms": 154039,
+      "name": "Vlinders (feat. Kleine John & Chavant\u00e9)",
+      "url": "https://open.spotify.com/track/0dsRtIlchp7nmVAS5hemAr"
     },
     {
       "added_at": "2023-03-13 10:31:02",
@@ -111,26 +171,6 @@
     {
       "added_at": "2023-03-13 10:31:02",
       "album": {
-        "name": "Broski\u2019s",
-        "url": "https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "Broski\u2019s",
-      "url": "https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3"
-    },
-    {
-      "added_at": "2023-03-13 10:31:02",
-      "album": {
         "name": "Dankjewel",
         "url": "https://open.spotify.com/album/4et19MNXHj4zo9e9IGCJlW"
       },
@@ -163,42 +203,22 @@
     {
       "added_at": "2023-03-13 10:31:02",
       "album": {
-        "name": "Dyscalculie",
-        "url": "https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk"
+        "name": "Wat Is Er Gebeurd",
+        "url": "https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7"
       },
       "artists": [
         {
-          "name": "Maks",
-          "url": "https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI"
-        }
-      ],
-      "duration_ms": 93509,
-      "name": "Dyscalculie",
-      "url": "https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n"
-    },
-    {
-      "added_at": "2023-03-13 10:31:02",
-      "album": {
-        "name": "Vlinders (feat. Kleine John & Chavant\u00e9)",
-        "url": "https://open.spotify.com/album/3vMpRJnBn2mIOq4GrWFbHl"
-      },
-      "artists": [
-        {
-          "name": "DJ DYLVN",
-          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
+          "name": "Vincent Visser",
+          "url": "https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101"
         },
         {
-          "name": "Chavant\u00e9",
-          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
-        },
-        {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
         }
       ],
-      "duration_ms": 154039,
-      "name": "Vlinders (feat. Kleine John & Chavant\u00e9)",
-      "url": "https://open.spotify.com/track/0dsRtIlchp7nmVAS5hemAr"
+      "duration_ms": 155643,
+      "name": "Wat Is Er Gebeurd",
+      "url": "https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5"
     },
     {
       "added_at": "2023-03-13 10:31:02",
@@ -299,26 +319,6 @@
       "duration_ms": 134456,
       "name": "Zonder Jou",
       "url": "https://open.spotify.com/track/4hUh1nZIF3VioqWKuGMceU"
-    },
-    {
-      "added_at": "2023-03-13 10:31:02",
-      "album": {
-        "name": "Wat Is Er Gebeurd",
-        "url": "https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7"
-      },
-      "artists": [
-        {
-          "name": "Vincent Visser",
-          "url": "https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101"
-        },
-        {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
-        }
-      ],
-      "duration_ms": 155643,
-      "name": "Wat Is Er Gebeurd",
-      "url": "https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5"
     },
     {
       "added_at": "2023-03-13 10:31:02",

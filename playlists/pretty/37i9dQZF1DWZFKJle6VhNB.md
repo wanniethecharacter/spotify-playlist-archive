@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,658 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,990 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 99 | [Maravilha Te Amar](https://open.spotify.com/track/45PD1shJcUVckmslQycpEL) | [Os Travessos](https://open.spotify.com/artist/3RpJ23sQA3B70ZgSnT2Vxr) | [Nossa Dança](https://open.spotify.com/album/1q1YikfGe5sRLyppHKx0Rw) | 3:09 |
 | 100 | [Várias Novinhas](https://open.spotify.com/track/779I9FojBtIvVPtQe1DSRI) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Várias Novinhas \- Single](https://open.spotify.com/album/7AfIAazku7hdzBpyufm7Gx) | 2:19 |
 
-Snapshot ID: `MTY3NDgzNTEwNCwwMDAwMDAwMGQ5NDAyMWZmODA4MGFjMjM1ZDAyOWQ1MjQ4NjM3Yzkz`
+Snapshot ID: `MTY3NDgzNTEwNCwwMDAwMDAwMGY1YTc5ZTcxNWVlNmM0YzNhNjc2MjQ3M2YxZWM0NWM5`

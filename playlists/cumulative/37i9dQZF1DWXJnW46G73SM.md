@@ -4,12 +4,12 @@
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: زاب ثروت، ساري هاني، هادز و امير عيد
 
-369 songs - 21 hr 33 min
+370 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [369](https://open.spotify.com/track/2OdI0PsoOfmYDpL82pa70r) | [Bushra](https://open.spotify.com/artist/2X14AwILJGdfg4YoiWOKra) | [369](https://open.spotify.com/album/3e2NSVt6UDn8J4stYPA5eT) | 4:08 | 2022-11-10 | 2023-01-27 |
-| [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [MALAK](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 | 2023-03-07 |  |
+| [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 | 2023-03-07 |  |
 | [3amlt 5er](https://open.spotify.com/track/7zEyLmurfWk1i1MGrnOtH8) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [3amlt 5er](https://open.spotify.com/album/2906UsdxF63k38NfKXMnjA) | 3:55 | 2023-02-23 |  |
 | [3asal Ya Nas](https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3asal Ya Nas](https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb) | 3:04 | 2022-12-31 | 2023-02-17 |
 | [3elw El Sama](https://open.spotify.com/track/4KvTa3HrkyNAqSFUwiv1vC) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [3elw El Sama](https://open.spotify.com/album/1v16p3Gp0B6wSc12RL3VAZ) | 2:22 | 2023-02-14 |  |
@@ -45,6 +45,7 @@
 | [Ana Be Touly](https://open.spotify.com/track/3vnaFVNsC059Iiu5QDZ6Ms) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE) | [Ana Be Touly](https://open.spotify.com/album/2snYyolbPLnvsU2VNHyA3F) | 3:44 | 2023-03-07 |  |
 | [Ana El Mostahel](https://open.spotify.com/track/4lYozOwaI7qe9clHySo8UN) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [Ana El Mostahel](https://open.spotify.com/album/7BmITE5PHY7SF8bblQWfQg) | 4:21 | 2022-03-10 | 2022-07-02 |
 | [Ana Meen](https://open.spotify.com/track/6rEHVrBJ7tNTd7Acb2x544) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Ana Meen](https://open.spotify.com/album/3fZwV1lA54bESHZxdKHhbU) | 4:18 | 2022-03-03 | 2022-06-14 |
+| [Ana Qader From Gafar El Omda Series](https://open.spotify.com/track/0xIbsBFRTZoNfg54EAYHoN) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Hesham El Gakh](https://open.spotify.com/artist/0u4oTPQ4k14CO5TUqKduUK) | [Ana Qader From Gafar El Omda Series](https://open.spotify.com/album/6McyOWAOJs2fdzAA3NgZp1) | 3:06 | 2023-03-14 |  |
 | [Ana Roht Minnak](https://open.spotify.com/track/1rPbqAS7xqPrP66daAl0F6) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ana Roht Minnak](https://open.spotify.com/album/4xiu6m1dJJJkMA8swxn8Ig) | 4:03 | 2021-12-23 | 2021-12-30 |
 | [Ana Zaaley](https://open.spotify.com/track/6xEKHNsrF6WS7brxCrG8Qg) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW), [Fakharany](https://open.spotify.com/artist/73817y8suKDLnuLrUTRrp2) | [Ana Zaaley](https://open.spotify.com/album/3ZQagMTgeXBzQ9gySyr0Tg) | 4:01 | 2021-12-23 | 2022-03-04 |
 | [Arosty](https://open.spotify.com/track/2IEWP8OvgxXZcpx7h2rFF4) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Arosty](https://open.spotify.com/album/2pXOewtgNtWSCuoZz98TCG) | 3:10 | 2021-12-23 | 2021-12-30 |
@@ -357,7 +358,7 @@
 | [ليه خسرتك](https://open.spotify.com/track/4mqAEhjGpFZRTi1DnRBlvA) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [ليه خسرتك](https://open.spotify.com/album/00s1ad6SOrgQc97aLd3eju) | 2:28 | 2023-01-26 | 2023-03-08 |
 | [متغاظين](https://open.spotify.com/track/6uiTyyvUkV0NbQA11D7gT3) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [متغاظين](https://open.spotify.com/album/0IuctadW5Mwa7RhSfioGb9) | 2:16 | 2022-08-20 | 2022-11-11 |
 | [متمكنه](https://open.spotify.com/track/0PVMxcSgu03i6UugxfJJYO) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [متمكنه](https://open.spotify.com/album/3eIYaoQVdl5hEXXzPT0uum) | 2:38 | 2021-12-30 | 2022-03-18 |
-| [مسيلى على عيونك](https://open.spotify.com/track/0iACdftSbsuwVGPE98Nu9X) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [مسيلى على عيونك](https://open.spotify.com/album/5BCxozu0drxusYzl0J0vas) | 3:13 | 2023-02-02 |  |
+| [مسيلى على عيونك](https://open.spotify.com/track/0iACdftSbsuwVGPE98Nu9X) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [مسيلى على عيونك](https://open.spotify.com/album/5BCxozu0drxusYzl0J0vas) | 3:13 | 2023-02-02 | 2023-03-15 |
 | [نحنوح](https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [نحنوح](https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0) | 3:25 | 2022-09-15 | 2022-12-02 |
 | [نسينا نعيش](https://open.spotify.com/track/0Ia5kzbFM2iMADp1Wq1EZe) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [نسينا نعيش](https://open.spotify.com/album/5TlwYlQKbof258r72pe1lu) | 3:15 | 2023-02-27 |  |
 | [نصابة](https://open.spotify.com/track/4wwKW2VSUbLAkUA53Al0iZ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [نصابة](https://open.spotify.com/album/6HiHRHRuP8AbVYJe2kASYs) | 2:58 | 2023-02-01 | 2023-03-10 |

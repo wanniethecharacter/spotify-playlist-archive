@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,270 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,321 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 59 | [Move Along](https://open.spotify.com/track/3FKioq3mvprZBi0bePWuuR) | [Ernie Johnson](https://open.spotify.com/artist/7rVOargGPV6QSrBZJ3JQLr) | [In The Mood](https://open.spotify.com/album/3GC2tIQGFII8o9Awi5SpUB) | 3:32 |
 | 60 | [What's It Take?](https://open.spotify.com/track/0DD4k4dwa8AzxphFMzC5xp) | [Willie Walker](https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t), [The Butanes](https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L) | [Memphisapolis](https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL) | 4:09 |
 
-Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDEwYWZjNjVjZjhhMzI4MGM5ZGZkYWM3MDQ4MzU4ZDNk`
+Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMGRkNTUzOTU1MDhhMWZiNjY5OTM2Yzc5ODZiMDEzZDBk`

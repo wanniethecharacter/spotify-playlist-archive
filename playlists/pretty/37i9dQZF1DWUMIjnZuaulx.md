@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  Kierra Sheard
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,505 likes - 100 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,706 likes - 100 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [Back To Love \- Live](https://open.spotify.com/track/7lbBtOqYNJipIogmpqMLrI) | [Stephen Anderson](https://open.spotify.com/artist/6bSMeAQFs8arTGsN6leSVJ) | [Back To Love \(Live\)](https://open.spotify.com/album/154Y0bbRNmM9Gpgo62ffnf) | 4:45 |
 | 100 | [He Kept Me \- Live](https://open.spotify.com/track/3q5Btikwq1dKZxNica2gch) | [Lamont Sanders](https://open.spotify.com/artist/27ytq9gwMJRBIYv9T14mJA) | [He Kept Me](https://open.spotify.com/album/0mz123pF6ZHYTFGPfSO0BH) | 5:02 |
 
-Snapshot ID: `MTY3ODQzNjMyOSwwMDAwMDAwMDQ2ZDFmNjY1Y2RhMGMxNzdmNGEyZDBhYjFiYjFjOTEz`
+Snapshot ID: `MTY3ODQzNjMyOSwwMDAwMDAwMDY1NmI1MTNmYjFlNjdhYzUzODJiOThmMDBiZmZkYWY0`

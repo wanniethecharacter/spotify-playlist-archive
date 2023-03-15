@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,010 likes - 100 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,007 likes - 100 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [The Blood Song](https://open.spotify.com/track/7cjEjTUSiVlWKPPWucNJPa) | [Chris Bender](https://open.spotify.com/artist/1h37aBxNCokuRG8NMgPwEG), [D'Shondra Perry](https://open.spotify.com/artist/1GKvu9PSueVDcFtZjU3lEa) | [The Blood Song](https://open.spotify.com/album/29UFA9YrscWRdKpZTnLnN5) | 5:34 |
 | 100 | [Oh What Love](https://open.spotify.com/track/0B4E7Hgzh4IESmZPgSaiLw) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Vickie Winans: Greatest Hits](https://open.spotify.com/album/5tZW4VvxZM4hOX7YuDLwHI) | 7:01 |
 
-Snapshot ID: `MTY3NjY5OTQ1NCwwMDAwMDAwMDMyNGE4YWNiOTJkYTcxNDkxYmNmNTM4MjdiZjJiYjFm`
+Snapshot ID: `MTY3NjY5OTQ1NCwwMDAwMDAwMDllMmQ5YWVkOTMwZWE1ZWY1N2ZhOTVhNzFiMGExZTky`

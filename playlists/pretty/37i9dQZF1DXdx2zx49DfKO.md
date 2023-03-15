@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx2zx49DfKO.md) - [plain]
 
 > The fastest growing genre in 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,061 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,073 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx2zx49DfKO.md) - [plain]
 | 9 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
 | 10 | [AVOID ME](https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME](https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ) | 1:45 |
 | 11 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 |
-| 12 | [Disaster](https://open.spotify.com/track/1xFRymLXeZNa95SHjpcdJZ) | [Hammound](https://open.spotify.com/artist/62Gv0hCZD1VtXunP8qgOKB) | [Disaster](https://open.spotify.com/album/0y7F0A5G3Ryam3ikA9Hcga) | 1:24 |
+| 12 | [Disaster](https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC) | 1:24 |
 | 13 | [Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Phonky Town](https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI) | 2:21 |
 | 14 | [Why Not](https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not](https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR) | 2:45 |
 | 15 | [INCOMING](https://open.spotify.com/track/4h3KlpOEXS6FxIpab6EKlf) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [INCOMING](https://open.spotify.com/album/4ASsNh1WHAjrGKh5jp0Q4F) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx2zx49DfKO.md) - [plain]
 | 49 | [RAVEN](https://open.spotify.com/track/33jNhRb9njyX482vPmFPMu) | [Phonkha](https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU), [SKETS](https://open.spotify.com/artist/32JsKOhKT1joCOXoIhVGVY) | [RAVEN](https://open.spotify.com/album/4YmcshR0vxXqn8h20qXCMS) | 2:26 |
 | 50 | [DYNAMIC](https://open.spotify.com/track/3qVSfd3Z2fmJKfHZeOweyQ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DYNAMIC](https://open.spotify.com/album/3IsXhqut1v9sbGsID7VGcS) | 2:00 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMGE4YWRkNTY0NjI0NzM0OWUwYjYwZWJjOTNmYzgxMDdi`
+Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDllMzg1NzkxNTBkMzk2ZmRlMWNjZDI2NDE5YWFiOGUw`

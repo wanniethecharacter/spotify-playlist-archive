@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Kyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,706 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,732 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 31 | [Peso da Coroa](https://open.spotify.com/track/3pK1RUpnusJfk1lM9Gjobb) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD) | [Peso da Coroa](https://open.spotify.com/album/5FHYIG4XinCUMbbWjayrCX) | 2:37 |
 | 32 | [Real Plug 3](https://open.spotify.com/track/0oS5N2TAqwww6BdI3mMV1c) | [A$TRO BOY](https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE) | [Real Plug 3](https://open.spotify.com/album/6aFxu20WjDoHdx9N8l4qvn) | 1:30 |
 | 33 | [Buxixo](https://open.spotify.com/track/7cswkuNpLyyJSjn4miyLPc) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [prod by baby](https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V) | [Honestamente, Não Sei Se Volto](https://open.spotify.com/album/4SeI5cTxf6xHYjmMG4sBJT) | 1:55 |
-| 34 | [Putaria e Muita Rima](https://open.spotify.com/track/2s51xgrfLjp0rI6ibbU8Nu) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB) | [Putaria e Muita Rima](https://open.spotify.com/album/1P8AHNOfhxcuvtirayw2DM) | 2:05 |
+| 34 | [Putaria e Muita Rima](https://open.spotify.com/track/2s51xgrfLjp0rI6ibbU8Nu) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B) | [Putaria e Muita Rima](https://open.spotify.com/album/1P8AHNOfhxcuvtirayw2DM) | 2:05 |
 | 35 | [Moncler](https://open.spotify.com/track/2Tk4WbHJ8vwYOvekWSNOfd) | [HBe](https://open.spotify.com/artist/15rnS5CZKmu5FJ3fkM8C1y) | [Moncler](https://open.spotify.com/album/5yUCX67aRpSfl1oEf3p8Lg) | 2:32 |
 | 36 | [Bahia](https://open.spotify.com/track/5owa9sHRDBAS2cLuV206xy) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Bahia](https://open.spotify.com/album/5Rt4zzyB0s5OK99uAt4mRU) | 2:42 |
 | 37 | [Ciclos](https://open.spotify.com/track/1hk0i7QmRdbNbcWWoG8Jcf) | [CHS](https://open.spotify.com/artist/3MHIgk9kofA8ZkNcZoQMpj), [Chapadão](https://open.spotify.com/artist/7Itv14hQkjiNu3NXKoHWPA) | [Ciclos](https://open.spotify.com/album/428ItLWhjJyd5KzPhbz5MD) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
 | 75 | [Paraíso Periférico](https://open.spotify.com/track/0piW8h3hjHkKfEJu6LzU7j) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Paraíso Periférico](https://open.spotify.com/album/1TQdoLB4Ys0i4qCw693kZR) | 2:51 |
 
-Snapshot ID: `MTY3ODcyNzgwNSwwMDAwMDAwMDM5ODA1NTM5MWE3MzVkMDQ0NjQ0ZjM2YjIwMWQzMWQw`
+Snapshot ID: `MTY3ODcyNzgwNSwwMDAwMDAwMDc1NmI1ZWUxZDc1NzcwMTNmNWJiZjBhMTE2OTExN2Iz`

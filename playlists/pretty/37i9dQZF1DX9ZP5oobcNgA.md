@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 
 > Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,442 likes - 61 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,482 likes - 61 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 | 60 | [Keyboard Suite No\. 3 \(Set I\) in D Minor, HWV 428: VI\. Presto](https://open.spotify.com/track/795t4y1VfUwlUPbGpyMhwH) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Philip Edward Fisher](https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7) | [Handel: Keyboard Suites, Vol\. 1](https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23) | 4:07 |
 | 61 | [Esther, HWV 50a: O Jordan, Jordan, Sacred Tide \(Aria \- Priest of the Israelites\)](https://open.spotify.com/track/6l3ZXdjOoZVabNvUJW1353) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Michael Chance](https://open.spotify.com/artist/3vzk8TZItuZszZdyQjrG3g), [Harry Christophers](https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu), [The Sixteen](https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS) | [Esther \(1718 version\)](https://open.spotify.com/album/4kZlY4e1NQHLSvYHsxUuZM) | 6:48 |
 
-Snapshot ID: `MTY1NzI5ODYyNywwMDAwMDAwMGU2YmRjNzdhNGExYjc4MDBhZjdlMmI3MzY5MmRkODFl`
+Snapshot ID: `MTY1NzI5ODYyNywwMDAwMDAwMDYxNDIwNTMyYTljMmNlN2Q0Yjc3ZDg1ZTk2MWE1ZjQ4`

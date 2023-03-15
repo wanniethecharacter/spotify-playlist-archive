@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem João Gomes com MC Ryan SP, Luiza Possi com Luccas Carlos, L7NNON, Marvvila com Alexandre Pires, Konai e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,847,426 likes - 76 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,847,776 likes - 76 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 11 | [Set Dj Luan MPC Vapo Vapo](https://open.spotify.com/track/5HSwCHcxz0reMvuIv0uTtK) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Dj Luan MPC](https://open.spotify.com/artist/6Xjde3MJ6198WTe9Chv4Ii), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Set Dj Luan MPC Vapo Vapo](https://open.spotify.com/album/73eRFVAB8ZvPknUTM28W60) | 6:24 |
 | 12 | [Deixa Baixo](https://open.spotify.com/track/1u2FEj6XtAQrNfiRW1faLX) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ) | [Deixa Baixo](https://open.spotify.com/album/0OWXScPmVlcoj2IVN11eHv) | 2:06 |
 | 13 | [Só Quem Ama](https://open.spotify.com/track/5NqysArxcdqyW4vocKTq4o) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [Só Quem Ama](https://open.spotify.com/album/2NiaG8Wx8qi9ibzQ7pHvSa) | 3:06 |
-| 14 | [Beijo de Buteco \- Ao Vivo](https://open.spotify.com/track/21HtZTLCkvitrcT6uYXpnO) | [Leandro & Romário](https://open.spotify.com/artist/3BwrR3T9qKOrTV42JkJkOk) | [Beijo de Buteco \(Ao Vivo\)](https://open.spotify.com/album/0ulwVIfCQder7fBEYlG6ET) | 3:01 |
+| 14 | [Beijos de Buteco \- Ao Vivo](https://open.spotify.com/track/21HtZTLCkvitrcT6uYXpnO) | [Leandro & Romário](https://open.spotify.com/artist/3BwrR3T9qKOrTV42JkJkOk) | [Beijos de Buteco \(Ao Vivo\)](https://open.spotify.com/album/0ulwVIfCQder7fBEYlG6ET) | 3:01 |
 | 15 | [Vim da Lama](https://open.spotify.com/track/3xEYmdp7hQKQBKOorimBs4) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Lil Ticy](https://open.spotify.com/artist/6LqIXTKtoJobKSOkgMjfo5) | [Vim da Lama](https://open.spotify.com/album/5m9mQG6q7vWB16c4FPVoa5) | 2:36 |
 | 16 | [Taycan / Quintal da Laia](https://open.spotify.com/track/2DLJ3HNbxprG74FvT4j8VR) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG) | [Taycan / Quintal da Laia](https://open.spotify.com/album/1mQ5ixHK9Ev5qYX88N7M6D) | 2:38 |
 | 17 | [Fashion Nova](https://open.spotify.com/track/2qmkAtrPFWPE3UY2PLhhuK) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Fashion Nova](https://open.spotify.com/album/3frNmCGsyfOdQfEvHXLPsT) | 2:39 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 31 | [Mother](https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:27 |
 | 32 | [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 |
 | 33 | [Rolezinho \- Acústico](https://open.spotify.com/track/5YyqLtrv68gWcbTw4js53P) | [Gamação](https://open.spotify.com/artist/1mBAPF9fJflW1FinUSlrO2) | [Rolezinho \(Acústico\)](https://open.spotify.com/album/0oiQ5zu0YTdUGzgmEUR7JY) | 2:40 |
-| 34 | [Queima o Grelinho](https://open.spotify.com/track/1xmIw8BfWtfIlqLai0RgGW) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1) | [Queima o Grelinho](https://open.spotify.com/album/0autlGMGJtTpApvN4u3TV2) | 2:10 |
+| 34 | [Queima o Grelinho](https://open.spotify.com/track/1xmIw8BfWtfIlqLai0RgGW) | [MC Teteu](https://open.spotify.com/artist/4kyOXoFFj487ghgtqz3cz0) | [Queima o Grelinho](https://open.spotify.com/album/0autlGMGJtTpApvN4u3TV2) | 2:10 |
 | 35 | [Meu Mano](https://open.spotify.com/track/6n8gyRpIzZGMhdGtthKPno) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Meu Mano](https://open.spotify.com/album/6mLaNWEL9zZZCZHYSAULX3) | 1:55 |
 | 36 | [Classe](https://open.spotify.com/track/4lHxMEW42RcfvryJwdy5Md) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Classe](https://open.spotify.com/album/0Z9QrmKGFct34B17D7WzBT) | 1:17 |
 | 37 | [Sobre Sonhar](https://open.spotify.com/track/6mbeS3WHX4Z1HZbxKmtoiM) | [Soul de Brasileiro](https://open.spotify.com/artist/2Rl0jUsuf9aXyQROFmx9ok), [Yas Werneck](https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2) | [Sobre Sonhar](https://open.spotify.com/album/51PO2mKz0xtQsI1khxlpnw) | 3:46 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 75 | [Soldado de Verdade](https://open.spotify.com/track/0xHcewTylOkfyBrZZsNWvA) | [MC Negão da BL](https://open.spotify.com/artist/6AfahUc7TbvGBfpl0Ppvfq), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Soldado de Verdade](https://open.spotify.com/album/3MztsqTOJNWsSNQZphFXiQ) | 2:51 |
 | 76 | [Coisa a Toa](https://open.spotify.com/track/5snuj1SCDFVgh5lSyQpZFh) | [Michael Sullivan](https://open.spotify.com/artist/3lF1WfwVjShSiYwJqhuZBb), [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Coisa a Toa](https://open.spotify.com/album/28v8FsFyuSZPgLYwu8z6Kn) | 3:31 |
 
-Snapshot ID: `MTY3ODQ4MjgzOSwwMDAwMDAwMDg0YTY5NjcwZTI2ZTNmMGVlZTAwNmNmNTY3MDYxYTAw`
+Snapshot ID: `MTY3ODQ4MjgzOSwwMDAwMDAwMDcyNDE3M2IxMzc0NTFmMjgxZGIzY2M1NTRmYjU5ZjNl`

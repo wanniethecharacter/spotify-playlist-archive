@@ -4,7 +4,7 @@
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-141 songs - 7 hr 8 min
+142 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Good WiFi](https://open.spotify.com/track/6lYTAtpgedSEcb4vXBslhh) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Jakson Bay Project](https://open.spotify.com/album/2ply17SkT3hRJLs5kGh99c) | 3:19 | 2020-09-25 | 2022-07-29 |
 | [Guh Down](https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2011](https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0) | 3:07 | 2022-02-24 |  |
 | [Gvnman Shift](https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Gvnman Shift](https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW) | 3:24 | 2022-02-24 |  |
-| [Gyal You A Party Animal](https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You A Party Animal](https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff) | 3:34 | 2020-09-25 |  |
+| [Gyal You a Party Animal](https://open.spotify.com/track/6bOLRTULQUiXeVnxOIPZVA) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You a Party Animal](https://open.spotify.com/album/0AuidICCpJQTwjMajndF4h) | 3:34 | 2022-02-24 |  |
+| [Gyal You A Party Animal](https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You A Party Animal](https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff) | 3:34 | 2020-09-25 | 2023-03-15 |
 | [Heaven Passport](https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ) | 3:07 | 2022-02-24 |  |
 | [Heaven Passport](https://open.spotify.com/track/5PHWW6LI7OH4rHk7NANAGa) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/1X7HsL7j4VaFP1kpRIZadN) | 3:07 | 2022-02-24 | 2022-11-11 |
 | [Hold Me Close](https://open.spotify.com/track/7s489YdEjOl8mGcSRFLgzi) | [Jadel](https://open.spotify.com/artist/7KyDUKtDsgx2cXDCaywYWH) | [Hold Me Close](https://open.spotify.com/album/03D71UZopQLwbVFH88n1zr) | 3:53 | 2020-09-25 | 2022-11-13 |

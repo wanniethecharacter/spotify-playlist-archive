@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Blxst, Roddy Ricch
 
-[Spotify](https://open.spotify.com/user/spotify) - 246 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 278 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 28 | [Need All Mine](https://open.spotify.com/track/4SmyAnBFGSsUa2CcKf2ixw) | [FNF Chop](https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3) | [Who Is Chop?](https://open.spotify.com/album/6SrqRynHDbIcBnKV4ia13g) | 3:04 |
 | 29 | [Fuck the World \(feat\. Boslen\)](https://open.spotify.com/track/2tQtz7I7B8bHJyVsh3pdsu) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Fuck the World \(feat\. Boslen\)](https://open.spotify.com/album/6ZTXNtbfkNghi8H69m36JU) | 2:26 |
 | 30 | [GLiM!](https://open.spotify.com/track/5txIVThdRQGslEZ7JmUVq3) | [Trent the HOOLiGAN](https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9), [NyBanga](https://open.spotify.com/artist/6WM4RuO33k8R1aDcBFImTI) | [GLiM!](https://open.spotify.com/album/6Pqjsocs3JZujj3yLeC68r) | 2:34 |
-| 31 | [The Present](https://open.spotify.com/track/3fhCR1RVSku5tdVO8GFIvq) | [Omar Falcon](https://open.spotify.com/artist/7ADdWGpZInbXyv3knSiU4S), [Paranoize](https://open.spotify.com/artist/7HAc0ID4r7Z7divOc9pGQA) | [Real Eyes](https://open.spotify.com/album/1bfZwz0YcbK1duZngPZF1M) | 4:32 |
+| 31 | [The Present](https://open.spotify.com/track/3fhCR1RVSku5tdVO8GFIvq) | [Omar Falcon](https://open.spotify.com/artist/7ADdWGpZInbXyv3knSiU4S), [FatZoe](https://open.spotify.com/artist/4WiZGJkF9B6tJEKsJrYnm9), [Paranoize](https://open.spotify.com/artist/7HAc0ID4r7Z7divOc9pGQA) | [Real Eyes](https://open.spotify.com/album/1bfZwz0YcbK1duZngPZF1M) | 4:32 |
 | 32 | [So DISRESPECTFUL](https://open.spotify.com/track/6tvFBQBdsLErOq4smfV231) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [So DISRESPECTFUL](https://open.spotify.com/album/1n1Dw6cutT1V0EaQjcPHjP) | 2:01 |
 | 33 | [NEED YA](https://open.spotify.com/track/4XHd1IEB9waIcG2NOAzYQU) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [RHYMEDY](https://open.spotify.com/album/6s4xBpX7RxzGvZYVn7bZCX) | 2:02 |
 | 34 | [Birds \- DJ Vadim Remix](https://open.spotify.com/track/14msZQkCHNq96qUHmutb1K) | [XL the Band](https://open.spotify.com/artist/5Dr4feymCwbAmK7bvXpSbl), [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM), [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [Birds \(DJ Vadim Remix\)](https://open.spotify.com/album/4xRvUj2Yr2cQ4bT5euEtBI) | 5:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Adonis Interlude \(The Montage\) \(with J\. Cole\)](https://open.spotify.com/track/23w7p4AuDtw9CrhFBcMat5) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Creed III: The Soundtrack](https://open.spotify.com/album/00hCNOuhFfKYCeLgRRRAT6) | 1:35 |
 | 50 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 |
 
-Snapshot ID: `MTY3ODQyNTkwMSwwMDAwMDAwMDQwNTJkZjg0MGVkNDU5ZThiOTJmMWQwYWFjZTA4OGMy`
+Snapshot ID: `MTY3ODQyNTkwMSwwMDAwMDAwMGY4NTE3ZTMyODVhZjMxZmM3M2IzMDY5MzMxYmFlMDk3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,569 likes - 80 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,628 likes - 80 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 79 | [Everybody's Got To Learn Sometime](https://open.spotify.com/track/2PxyiPwogw6C9yu1jRgFiA) | [The Korgis](https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3) | [The Korgis Kollection](https://open.spotify.com/album/13sFIOMblyr8x7TwD546jN) | 4:11 |
 | 80 | [Nostalgia](https://open.spotify.com/track/6VE9G8pJgrdZQTuu9ElNgn) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Brilliant Trees \(Remastered 2003\)](https://open.spotify.com/album/5YIZcFDFKpUrcqviez8QWn) | 5:42 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDZmYzJkOGYwZTQwN2I5NzExNzUyMWFhYzk5ZThjNTEx`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDkyZmQ2Y2Q4ODVmMmM1NmM3ZGUyMzkzNGM0YmQ1ZTM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > 今週話題になった楽曲をまとめてチェック！Cover: indigo la End
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,241 likes - 55 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,258 likes - 55 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 54 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 |
 | 55 | [Pink Hair](https://open.spotify.com/track/62ZXOrUNBpa5DAiP3tE19s) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Pink Hair](https://open.spotify.com/album/2M6ubuh4ne6Vjvrx8MUs2t) | 2:57 |
 
-Snapshot ID: `MTY3ODQ2MDQwMCwwMDAwMDAwMDJkZTNiZGIxODMyNmNkNDY3OTdmM2Y1MmI4YTc3M2E2`
+Snapshot ID: `MTY3ODQ2MDQwMCwwMDAwMDAwMDAwYzdhZjcyNmE3NWYxYzk1ZDAyMzRiYjk5MzEyMGMw`

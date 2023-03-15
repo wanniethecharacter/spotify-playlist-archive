@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>可惜這是屬於你的風景 而我只是嘉賓<br/>遇見你的他真的好幸運 但願他會比我更愛你
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,687 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,709 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 49 | [太委屈](https://open.spotify.com/track/6tMgRC6pDQOqEnKCnAL6pT) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [愛缺](https://open.spotify.com/album/6dTh0ChcWfqethdCqNuM4r) | 4:51 |
 | 50 | [我愛的人](https://open.spotify.com/track/4OHaQq5eqpRgCqgVY3MpQY) | [Jordan Chan](https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U) | [抱一抱](https://open.spotify.com/album/5URZXsixxj3GDGZPeDDaXg) | 4:26 |
 
-Snapshot ID: `MTY3NTY2NjQ0NCwwMDAwMDAwMDlmNTQyZTE5OTRiNWJhMjEwZjFmZGYwMjRmYzVhMDY0`
+Snapshot ID: `MTY3NTY2NjQ0NCwwMDAwMDAwMGVhMTU4MGJkYWY2MzFmZDc5NThiZjc1NThkNWQwZDY4`

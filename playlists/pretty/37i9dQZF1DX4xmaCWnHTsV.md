@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 
 > Classic rockabilly and early rock 'n' roll.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,972 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,970 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 49 | [Get with It](https://open.spotify.com/track/16GMlvbWHeWXHYzJCVtD6d) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN), [Jody & Jerry](https://open.spotify.com/artist/60vvMCwC7lmGNhzcY4393t) | [Meteor Rockabilly & Hillbilly Recordings](https://open.spotify.com/album/2rQOB86QUXGmEHjWvduZbm) | 2:04 |
 | 50 | [Do Me No Wrong \(Demo\)](https://open.spotify.com/track/61vCg9VRY7AXw3rFRd39g9) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Presenting Pat Cupp](https://open.spotify.com/album/6uflDIt9eWuGJPE5soqSn8) | 2:24 |
 
-Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMGYzOGZkM2U1M2I2MWYzOGNlZTNiZDllMTI2NTg2NmJh`
+Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMDJkNjgyZThkZTBhOGEwMTVkOTZkMjBjZWJlNzA1NTMw`

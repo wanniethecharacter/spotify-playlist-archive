@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "(just) lein.",
+        "url": "https://open.spotify.com/album/2Z7smhEjfCQvfxHEnLA1wg"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u8c37\u5fd7\u9f8d",
+          "url": "https://open.spotify.com/artist/6r2FGDlvtbwwRAnxLhzoaX"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "(just) lein.",
+      "url": "https://open.spotify.com/track/2RwIdMCNbx1iO42dp6cde6"
+    },
+    {
+      "album": {
         "name": "2\u756a\u76ee",
         "url": "https://open.spotify.com/album/3XhDDa02dhm48yEjlL40qI"
       },
@@ -872,7 +890,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 202266,
       "name": "Clockworks",
       "url": "https://open.spotify.com/track/3Z2xBMW1k2tnFVN9LFTYru"
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 247546,
       "name": "Hex",
       "url": "https://open.spotify.com/track/7xaNU7mo5bEULPKg7vdxel"
@@ -2136,7 +2154,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-11",
+      "date_removed": null,
       "duration_ms": 192729,
       "name": "Kayoku",
       "url": "https://open.spotify.com/track/1ZPjVQ4u8j2hq0YmP1faS3"
@@ -4633,6 +4651,24 @@
     },
     {
       "album": {
+        "name": "\u3053\u308c\u3060\u304b\u3089\u3084\u3081\u3089\u3093\u306a\u3044!",
+        "url": "https://open.spotify.com/album/33hq404ABQqbt4JI0Egsrp"
+      },
+      "artists": [
+        {
+          "name": "TUYU",
+          "url": "https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165454,
+      "name": "\u3053\u308c\u3060\u304b\u3089\u3084\u3081\u3089\u3093\u306a\u3044!",
+      "url": "https://open.spotify.com/track/1KnujnydiDuU7ardc0LYpl"
+    },
+    {
+      "album": {
         "name": "\u3055\u3088\u306a\u3089\u30ce\u30f4\u30a7\u30eb",
         "url": "https://open.spotify.com/album/0GyGXiYidz1ubZYN166W5F"
       },
@@ -5128,7 +5164,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 198253,
       "name": "\u3082\u3046\u3044\u3044\u3082\u3093",
       "url": "https://open.spotify.com/track/2740vs2lsTqRuOO0Zd5GvY"
@@ -6970,7 +7006,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 217429,
       "name": "\u30c4\u30d0\u30e1 (feat. \u30df\u30c9\u30ea\u30fc\u30ba)",
       "url": "https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e"
@@ -10016,6 +10052,24 @@
       "duration_ms": 222818,
       "name": "\u6625\u3068\u30ec\u30e0",
       "url": "https://open.spotify.com/track/7KaOma99geyFVlWkzFoXxi"
+    },
+    {
+      "album": {
+        "name": "\u6625\u3068\u4fee\u7f85",
+        "url": "https://open.spotify.com/album/0WDdPXS7zQ5lfRvyMJnhmX"
+      },
+      "artists": [
+        {
+          "name": "whaledontsleep",
+          "url": "https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207678,
+      "name": "\u6625\u3068\u4fee\u7f85",
+      "url": "https://open.spotify.com/track/0F95jhY2gWWNHGPH3ao4uN"
     },
     {
       "album": {

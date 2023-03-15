@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Btrem, Derxan, Major RD, LEALL, $amuka
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,586 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,608 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 | 50 | [Falcon](https://open.spotify.com/track/6w1q6fG07BBKzCbJ0z7CDk) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Mundo Invertido](https://open.spotify.com/album/5FYBIbs8Lyc2g469Lmot0J) | 3:29 |
 
-Snapshot ID: `MTY3Nzg1MTEyNSwwMDAwMDAwMGM5N2M3NThjODE5YzAxN2Q1NzdmNWFhNDA1YzMxMTI4`
+Snapshot ID: `MTY3Nzg1MTEyNSwwMDAwMDAwMGFiMDkwMWQxYzMzN2Y5MjJjOGJmNDYzMTUxOWIzZWMx`

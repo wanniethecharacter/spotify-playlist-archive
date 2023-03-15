@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Calvin Harris x Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,923 likes - 76 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,928 likes - 76 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 75 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
 | 76 | [You Came Along \(feat\. Laura White\)](https://open.spotify.com/track/4ro1RwjSZmhm2b0asqjxQd) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Life Begins After Dark](https://open.spotify.com/album/1IA3CdlBxrnTdJUDoP1Sfb) | 2:27 |
 
-Snapshot ID: `MTY3ODM3ODk1NSwwMDAwMDAwMDNiOTJiY2EzYWU1YzYzMDYzZThhMjdjMDRkNTgwY2I2`
+Snapshot ID: `MTY3ODM3ODk1NSwwMDAwMDAwMDQwZTFiYmY2Nzk4YTg5MGU5NGQxZmVlNTY1Yzk2NzJh`

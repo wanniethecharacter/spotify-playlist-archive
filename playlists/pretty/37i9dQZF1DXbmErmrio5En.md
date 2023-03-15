@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > saturation, distortion, overdrive, feedBack\. Cover: kurffew
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,772 likes - 78 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,884 likes - 78 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 77 | [Internet Girl](https://open.spotify.com/track/3Qo8zqhdyVxacgVJGIQF4u) | [Mana Garden](https://open.spotify.com/artist/66Gv97uu4XTInfcVvHhbcC) | [Internet Girl](https://open.spotify.com/album/6a48qrtBppd0YVIZpEntaH) | 2:19 |
 | 78 | [the summer i grew up](https://open.spotify.com/track/341SgFKGC3j1lJNNX5w7zW) | [ryen](https://open.spotify.com/artist/5L7zIiH18e2nY37pQ9ZjGp) | [the summer i grew up](https://open.spotify.com/album/4SoRO6ybGRA8sOye3hCLeV) | 2:55 |
 
-Snapshot ID: `MTY3ODQ2NTAxNywwMDAwMDAwMGExOTc3NjM2YzM1ODdjYmQ5OTAxZGE0YWIyNTYzNjc1`
+Snapshot ID: `MTY3ODQ2NTAxNywwMDAwMDAwMGI1MTRkMDYyNWMzOWQ5ZWI2ZmFiNTEyYTI5ZDNiZmYw`

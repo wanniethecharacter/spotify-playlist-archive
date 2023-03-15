@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,477 likes - 60 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,594 likes - 60 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 59 | [Tirana](https://open.spotify.com/track/15KVtURLWmNBhpGWlbsG4t) | [minds&machines](https://open.spotify.com/artist/2KxAw5fHhZUSuDNBuNACUQ) | [Tirana](https://open.spotify.com/album/1LY019HgpEOcSistIGWEt3) | 4:09 |
 | 60 | [Pigments](https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R) | [Norabel](https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo) | [Blue Pigments](https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk) | 2:10 |
 
-Snapshot ID: `MTY3ODQwNjQwMCwwMDAwMDAwMDE0ZjI1ZDU1Njk2ZDMxY2MwN2NhZjI3ZjU1ZGM2MjRl`
+Snapshot ID: `MTY3ODQwNjQwMCwwMDAwMDAwMDNkOGFiMjE1OGRkMDI5YzhjMzY5ZWI0NWQ3ZjFhZjUw`

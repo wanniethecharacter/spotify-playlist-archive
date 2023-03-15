@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-210 songs - 15 hr 21 min
+211 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [INVOKE \-インヴォーク\-](https://open.spotify.com/track/2qge0m2SUWLUOPN9oypXm5) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [GEISHA BOY \-ANIME SONG EXPERIENCE\-](https://open.spotify.com/album/69ly56BCOHEVC3Q3UAlJzf) | 4:19 | 2022-10-17 | 2022-11-14 |
 | [It's Just Love!](https://open.spotify.com/track/1ckhGyNThmpfbQrMxrorFl) | [大石ルミ](https://open.spotify.com/artist/6gQfVbFNoR1AS3ldKn2eIW) | [It's Just Love!](https://open.spotify.com/album/3wuEy0hpaDd0ffg6DRtPA7) | 3:57 | 2022-07-27 |  |
 | [Life Goes On](https://open.spotify.com/track/7boNqK0KpoeNQjvYTYx1yi) | [Mika Arisaka](https://open.spotify.com/artist/23mgGAQU04Y9g3pyfwnpF0) | [Life Goes On](https://open.spotify.com/album/6ojkccMbds4v0v2Xk9EBHy) | 4:02 | 2022-07-27 |  |
+| [Line of sight](https://open.spotify.com/track/4tUFxXSNCayPjtYoF3kI7T) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/7CUgVbMeNO27pF1kFDm5yV) | 3:33 | 2023-03-14 |  |
 | [MAGIC](https://open.spotify.com/track/4aCbt9Tkvsbbs6C5yiiNzf) | [Jacob Wheeler](https://open.spotify.com/artist/1MkAnw2CpLgVIrjhKrbv4H) | [MAGIC](https://open.spotify.com/album/3zPCsEyprC959PeCIa2M4X) | 4:45 | 2022-07-27 |  |
 | [MAGIC TIME](https://open.spotify.com/track/6Unwf4vD3ygUvr39kEmIRV) | [sudannayuzuyully](https://open.spotify.com/artist/4AA6Dmgfg8CRDXoBAgnkvc) | [MAGIC TIME](https://open.spotify.com/album/5NgYsNywkut0VDktPlTW8u) | 4:04 | 2022-07-27 |  |
 | [Meguriai](https://open.spotify.com/track/2zg4wZXLu7p8NzTmXUJ6sf) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Meguriai](https://open.spotify.com/album/1lcV7AV2fvUbVCc4RoAWbW) | 5:33 | 2022-07-27 | 2023-03-05 |

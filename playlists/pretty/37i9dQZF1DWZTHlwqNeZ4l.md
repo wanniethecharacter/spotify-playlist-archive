@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTHlwqNeZ4l.md) - [plain]
 | 26 | [Tegan and Sara on Their Music](https://open.spotify.com/track/2pU9KIVKzkq30Ie8hcEzgn) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Tegan and Sara \- Spotify Pride](https://open.spotify.com/album/0xYvIMRxFzd25UqhFOeSIq) | 0:28 |
 | 27 | [Operator \(He Doesn't Call Me\)](https://open.spotify.com/track/56sYN9utLyjGXju9rU8lWi) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 3:24 |
 
-Snapshot ID: `MTQ5NjQxMDc1OSwwMDAwMDAwMDVkZjI5NTUxMjUyYTBjY2FjN2UwMmE0NDk4MDEzZTdl`
+Snapshot ID: `MTQ5NjQxMDc1OSwwMDAwMDAwMDdmMDg5NmUxODlmMjk0MDMyNjE3MGQ5N2M3NjU0ZmRl`

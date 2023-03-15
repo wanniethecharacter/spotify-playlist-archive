@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,707 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,724 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 59 | [See Something](https://open.spotify.com/track/0QG6TEF6PwA6HeMDiE6NJb) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [See Something](https://open.spotify.com/album/01W43KdTTTYrCzTQPpG52K) | 2:37 |
 | 60 | [Honest Decision](https://open.spotify.com/track/3WjqXcn7ulLMNwIp1TqTn0) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Honest Decision](https://open.spotify.com/album/3MumajWKD0oFSzhiyZ8d5T) | 2:19 |
 
-Snapshot ID: `MTY3ODQ1MTYzMSwwMDAwMDAwMGUxMGU1MmNkNjVlNGNmMGExNjAzZWM5MDUxODI0ZGNj`
+Snapshot ID: `MTY3ODQ1MTYzMSwwMDAwMDAwMGY5YjUzMzJkNjgwYWFmMDM0ZjM5NTYwNTZlN2IwMjIz`

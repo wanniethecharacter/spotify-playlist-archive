@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,207 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 913,426 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 | 149 | [Camelot](https://open.spotify.com/track/4sWuPniHClkInYAnzXAYUF) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Camelot](https://open.spotify.com/album/5tdGgaiW18D6bjHFLhtblL) | 2:28 |
 | 150 | [Fight Night](https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:36 |
 
-Snapshot ID: `MTY3NzgyMjkwMCwwMDAwMDAwMGRmN2Q2YTc1YzhmNGZlNzQyMjA5ZmRiZjZiNDZiNGUz`
+Snapshot ID: `MTY3NzgyMjkwMCwwMDAwMDAwMDhiMmI4M2UwMmUxMGFkMmI5NDNkZmQzMWE4MTE5YWY1`

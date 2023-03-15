@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Walk Off The Earth
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,652 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,678 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 74 | [Fake It](https://open.spotify.com/track/3pKCMnO0A36oKIEIbknixC) | [SIIGHTS](https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n) | [Fake It](https://open.spotify.com/album/2nk5HLphr2POdEPUwpwSVy) | 3:09 |
 | 75 | [moshpit](https://open.spotify.com/track/5LIwaCUAPW3ugjQ5ls3Fxs) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:38 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGY0MjYzNzMxYmFhMTJhNTBmYzA3MjZmMDY4Yjg4MDBm`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGRjMDY1ZmZiOTc1YTYwYTI2ZTRiMTMxMjU1ZjhiOWZl`

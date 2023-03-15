@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 
 > The ocean, the sun, your friends, the music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,823 likes - 200 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,850 likes - 200 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 | 199 | [Letting Go](https://open.spotify.com/track/1S7hEPenrIVKVTuEjtXKz9) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Letting Go](https://open.spotify.com/album/6veielpwGAJ4FKG7w3q69H) | 3:12 |
 | 200 | [Galway Girl \- Martin Jensen Remix](https://open.spotify.com/track/2A17f6I4fh6GqYX0J8noGr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Galway Girl \(Martin Jensen Remix\)](https://open.spotify.com/album/77lUgFzLJriGpyTx2pGbCO) | 3:16 |
 
-Snapshot ID: `MTY3Nzc2Mjg4MSwwMDAwMDAwMDk0M2U5MzM5Y2QyZDc0NTI1OTM5MTcxODRhOGY3Njgy`
+Snapshot ID: `MTY3Nzc2Mjg4MSwwMDAwMDAwMGEzZjE3ZDFmNmE4M2ZiODMxZjAxZDI1NjIwMDYwNjlj`

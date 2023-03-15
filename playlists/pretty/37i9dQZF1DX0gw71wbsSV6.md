@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,996 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,004 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 49 | [DOCUMENT](https://open.spotify.com/track/56lLsOLE58RdsoNsFk51D4) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [NOT IN ALMIGHTY](https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov) | 4:40 |
 | 50 | [Empty](https://open.spotify.com/track/10eTwzipwhgE4mhMS5QhSW) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Empty](https://open.spotify.com/album/5znDXiNSVyecWyA86i0FrN) | 3:02 |
 
-Snapshot ID: `MTY3ODM3NDAwMCwwMDAwMDAwMGEyNDdjOWZlNDMwMWQ1ZGM3YWM2NTNiNGNmMjRiODk1`
+Snapshot ID: `MTY3ODgxMDcyOSwwMDAwMDAwMDk0NDNmOGViMzFlMWY0OTY5Y2Y2ZjA2N2JjODZhNzA5`

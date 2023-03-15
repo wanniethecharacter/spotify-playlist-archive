@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,077 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,196 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Special Brew](https://open.spotify.com/track/0SnvLzVAM0X4ATkdDxNAvr) | [Skankin' Pickle](https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S) | [The Green Album](https://open.spotify.com/album/0QmKssJTnSfndHYy8n5NVw) | 3:11 |
 | 100 | [Hey Road](https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [Kosmopoliturbo](https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP) | 3:49 |
 
-Snapshot ID: `MTY3MDYxMTUzOSwwMDAwMDAwMGU0YWI0YTA4NTRmMDhjZDY2MjcyNzk3NTA5ZDk3NTM2`
+Snapshot ID: `MTY3MDYxMTUzOSwwMDAwMDAwMDg0MjliMTQyMzZhMWZkZjdmMmU4YjUxNDJhMTI3YzMw`

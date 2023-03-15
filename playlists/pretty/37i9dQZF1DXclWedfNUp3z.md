@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,099 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,260 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 99 | [Ailments](https://open.spotify.com/track/55HhJOp3tvLBBnCYKnRqt2) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 2:29 |
 | 100 | [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 |
 
-Snapshot ID: `MTY3NzgxODEwOSwwMDAwMDAwMDBlN2ZkMmYyNGU1NWU1YmU2MDgzMzBlYTM0ZGI1YmM3`
+Snapshot ID: `MTY3NzgxODEwOSwwMDAwMDAwMDQ2NzJiZWQwZDkyMzVlNTU1NTgwY2NhN2ZjZTYxMDQ1`

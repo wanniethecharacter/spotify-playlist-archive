@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 115,308 likes - 101 songs - 10 hr 20 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 115,311 likes - 101 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 2 | [A Thousand Hallelujahs \- Radio Version](https://open.spotify.com/track/7Epq07uvSDsLNul46niwb2) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [A Thousand Hallelujahs](https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C) | 3:42 |
 | 3 | [Firm Foundation \(He Won’t\)](https://open.spotify.com/track/4iaas0o0bFzalTLwhQTuBH) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/7a7spHufCfzU5ZO6O0nJJT) | 6:22 |
 | 4 | [Live Again](https://open.spotify.com/track/1K2dxpyTXiR5xcwo0ZrjBI) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kyle McHargh](https://open.spotify.com/artist/6pKGdTf8wPcOSzeNGN1Or3), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Live Again](https://open.spotify.com/album/7N1EAGw0mr5jFoZ1acuPap) | 8:42 |
-| 5 | [Gratitude \- Live From Passion 2023](https://open.spotify.com/track/5o9yTuxw54Wo2JtO8J1zz7) | [Brandon Lake](https://open.spotify.com/artist/4xF4DEtGvk3DBQjnHqrQzk), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 6:18 |
+| 5 | [Gratitude \- Live From Passion 2023](https://open.spotify.com/track/5o9yTuxw54Wo2JtO8J1zz7) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 6:18 |
 | 6 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 |
 | 7 | [Honey In The Rock \- Live](https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 4:43 |
 | 8 | [Fall Like Rain \- Live From Passion 2023](https://open.spotify.com/track/6YiUx9yyiJCjdMuxP5lkzR) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 8:36 |

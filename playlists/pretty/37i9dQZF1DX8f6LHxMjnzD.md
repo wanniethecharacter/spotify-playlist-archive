@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: PNAU & Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,570 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,550 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 |
 | 40 | [Submarine](https://open.spotify.com/track/6cBRrVuaqVQ8WW6VDUHH9l) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Submarine](https://open.spotify.com/album/6ybEZk0qcfHki7HAcqUtcw) | 3:23 |
 
-Snapshot ID: `MTY3ODc0MzQzOSwwMDAwMDAwMGYxNDhlZGM0MTc0Y2JlMGNmZjdlOTViMzE3MGQ5ZTI5`
+Snapshot ID: `MTY3ODc0MzQzOSwwMDAwMDAwMGVjZTQ5MjAzMGI4ZDczZmU2ODA0YWViNzk1MDNhZWRj`

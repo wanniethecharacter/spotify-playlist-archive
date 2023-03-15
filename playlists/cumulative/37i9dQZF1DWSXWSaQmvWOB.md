@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: The Teskey Brothers
 
-630 songs - 1 day 14 hr 41 min
+631 songs - 1 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Freeze Tag \(feat\. Phoelix\)](https://open.spotify.com/track/3t3ZvTvH2juv335N5E1ANK) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Freeze Tag \(feat\. Phoelix\)](https://open.spotify.com/album/40is5SPcJdMGa6HSJgB4el) | 3:11 | 2021-03-06 | 2022-01-28 |
 | [FTP](https://open.spotify.com/track/3P5vb2d5YA9sQ6TqVZdKHC) | [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO) | [FTP](https://open.spotify.com/album/2jUrkpZ0Wqm2fEIIqQaWyP) | 2:26 | 2022-02-03 | 2022-07-29 |
 | [Fuel to the Soul](https://open.spotify.com/track/4GYbEoWXcdQIlyGVXdtIT6) | [Jared Grant](https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd) | [Fuel to the Soul](https://open.spotify.com/album/4Bk6CMhMnHiEUPD7pP8Wxd) | 3:44 | 2022-04-01 | 2022-07-29 |
-| [Future Lover](https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:31 | 2022-08-25 |  |
+| [Future Lover](https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:31 | 2022-08-25 | 2023-03-15 |
 | [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 | 2022-10-13 |  |
 | [Get It Right](https://open.spotify.com/track/3159fLoJc7neVqMUchcCin) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Get It Right](https://open.spotify.com/album/0UCzllaY9orr3hC1iZsim3) | 4:00 | 2021-04-23 | 2021-07-23 |
 | [Gidget](https://open.spotify.com/track/1UrxBDCv9kDRIBUc2oskNR) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [T.Nava](https://open.spotify.com/artist/30Utx0xoArdV237AnYyu6o) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:39 | 2020-03-25\* | 2020-08-25 |
@@ -353,6 +353,7 @@
 | [Miracles](https://open.spotify.com/track/10g4esqFA2aVAWAYc0XQ5Z) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 4:51 | 2022-07-28 | 2022-09-23 |
 | [Miracles](https://open.spotify.com/track/3Z4m4bw6t1LTM09WfrXfPc) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Music](https://open.spotify.com/album/42T1PWZl6NilUzBk3vCXoz) | 4:51 | 2021-04-17 | 2022-07-29 |
 | [Misdirection](https://open.spotify.com/track/6W4aKypGDzibPr3rEnPBOa) | [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew) | [Misdirection](https://open.spotify.com/album/6QjHmbqyjwJGAdCAFHbJDD) | 3:29 | 2021-09-24 | 2022-12-03 |
+| [Mister Right on Time](https://open.spotify.com/track/6S8kMyXvoObx7Eoiw7W6S8) | [Alexis Evans](https://open.spotify.com/artist/1aThYS3aYrPrZWjgtZFhKp) | [Yours Truly](https://open.spotify.com/album/7Dxskns0C1Z3jizDl95R2Y) | 4:27 | 2023-03-14 |  |
 | [Molly](https://open.spotify.com/track/3x3b6gLfASQ3oKMC5tM6Wf) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Belly](https://open.spotify.com/album/3mPwQso7Zs9CKNatbpPISq) | 2:03 | 2021-07-08 | 2022-09-23 |
 | [Mood Right](https://open.spotify.com/track/5Q8G6sLpG6PBFjJIXOPW9l) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Mood Right](https://open.spotify.com/album/5B4oxR73Yss8t4dcgOezUI) | 2:49 | 2023-01-30 |  |
 | [More To Learn](https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [More To Learn](https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2) | 4:30 | 2022-03-10 |  |

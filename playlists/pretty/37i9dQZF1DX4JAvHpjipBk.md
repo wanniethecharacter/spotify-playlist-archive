@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Miley Cyrus, Calvin Harris & Ellie Goulding, NLE Choppa, TWICE and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,074,221 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,074,518 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Need All Mine](https://open.spotify.com/track/4SmyAnBFGSsUa2CcKf2ixw) | [FNF Chop](https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3) | [Who Is Chop?](https://open.spotify.com/album/6SrqRynHDbIcBnKV4ia13g) | 3:04 |
 | 100 | [Major Lazer](https://open.spotify.com/track/7omRjfVEwx72dRDNWdFs43) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Major Lazer](https://open.spotify.com/album/0lvEoELFjNxivRwSoSBLb3) | 2:46 |
 
-Snapshot ID: `MTY3ODQyNDc5MywwMDAwMDAwMDc2OTcwYmJlNDY2ZThjMjMxNjZkMzE4YjMzZGJhMGRl`
+Snapshot ID: `MTY3ODQyNDc5MywwMDAwMDAwMDE1Nzc2ZWVjYWVkMjYwMzA5MmUyMWRlMjM4MDJjYjg1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,056 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,115 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [WONDER \- PVRIS Remix](https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WONDER \(reimagined\)](https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8) | 4:15 |
 | 100 | [September Come](https://open.spotify.com/track/0xsrh1MnIju00GT8ZmEcIu) | [Moël](https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa), [The Accents](https://open.spotify.com/artist/4nbJ453Y0kDXpYVvQYq7DJ) | [September Come](https://open.spotify.com/album/7gmEibaDmaeX04sGCIPayd) | 4:00 |
 
-Snapshot ID: `MTY3MzQ3MDg3NSwwMDAwMDAwMGJhODE0YTY4MmIxMDAyY2NjY2RiZjQzYTVhM2UwNTg2`
+Snapshot ID: `MTY3MzQ3MDg3NSwwMDAwMDAwMGFkYjU5NTRlNTY2NTA5M2VhNjg5OTJlZDc0NWFjZDI5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,452 likes - 209 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,654 likes - 209 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 208 | [Tales of an Oak](https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Tales of an Oak](https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb) | 2:00 |
 | 209 | [Vogeltrek](https://open.spotify.com/track/4Otyz87ttyTeKK45vlO28b) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:14 |
 
-Snapshot ID: `MTY3ODIwNTcwMSwwMDAwMDAwMGI3YzNkNGY2MzY5NjY3OWJkNzM2YjJlN2FiNWJiOWI2`
+Snapshot ID: `MTY3ODIwNTcwMSwwMDAwMDAwMGE1NTQ0ODkyOWVjNGI2ZDEwNzEzMDE1OWJiMTcxZjhk`

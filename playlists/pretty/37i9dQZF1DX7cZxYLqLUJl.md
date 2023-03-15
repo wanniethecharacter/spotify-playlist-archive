@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 
 > Wake up in your own pace with piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,933 likes - 103 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,975 likes - 103 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 | 102 | [Morgentau](https://open.spotify.com/track/405hXsV5rmcZarrpP71qA8) | [Volker Wagner](https://open.spotify.com/artist/4fpf1I40UxYf5cOaMO9Agr) | [united](https://open.spotify.com/album/0xEHLj5DHQfAY9lNsuqOd5) | 3:02 |
 | 103 | [Mid Air](https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Mid Air](https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK) | 2:27 |
 
-Snapshot ID: `MTY0NzU5Mzk0MCwwMDAwMDAwMDliYjAwMWZmMDA4MWFjNTFiNDg3N2JlNTFmYjliMjM2`
+Snapshot ID: `MTY0NzU5Mzk0MCwwMDAwMDAwMDFjM2M4ODUyNzc5MjQ2ODRjOWRhM2ZiMzkxNTk1OWU3`

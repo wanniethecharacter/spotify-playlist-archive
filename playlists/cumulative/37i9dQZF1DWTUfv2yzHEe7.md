@@ -2,7 +2,7 @@
 
 ### [Filmy Party](https://open.spotify.com/playlist/37i9dQZF1DWTUfv2yzHEe7)
 
-> Filmy beats to keep you dancing all night\. Cover \- Deepika Padukone
+> Filmy beats to keep you dancing all night\. Cover \- RRR
 
 83 songs - 4 hr 49 min
 

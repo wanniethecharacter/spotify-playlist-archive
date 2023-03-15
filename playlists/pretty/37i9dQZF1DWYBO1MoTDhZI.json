@@ -1,12 +1,12 @@
 {
   "description": "Set it off with these epic anthems. Only good vibes here!",
-  "num_followers": 3120956,
+  "num_followers": 3121534,
   "original_name": "Good Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODU3MjAwNSwwMDAwMDAwMGU3YTRmZDY1NGUzZDdhYjI3MTgxODgzOWJhZDAwOGYz",
+  "snapshot_id": "MTY3ODU3MjAwNSwwMDAwMDAwMDFiZDcwNjZiOTcyOGQ2Yjg2ZmEzZjZlMGI1ZDg5MGY5",
   "tracks": [
     {
       "added_at": "2023-03-11 22:00:05",
@@ -774,10 +774,14 @@
         {
           "name": "SPINALL",
           "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
         }
       ],
       "duration_ms": 204424,
-      "name": "Just to Be feat. Jess of VanJess",
+      "name": "Just to Be",
       "url": "https://open.spotify.com/track/4RCK3zOstkhoCcL3iV0it3"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Ovy On The Drums & Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,495 likes - 78 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,518 likes - 78 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 77 | [Sigo Inédito \- Remix](https://open.spotify.com/track/2bTxNLc9yBOxsIxyq5XvSA) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Grupo Sigma](https://open.spotify.com/artist/0vUz4dhz7qB3FS6ShK0e4j) | [Sigo Inédito \(Remix\)](https://open.spotify.com/album/5jyqjTqAA0uAz9UsOC0znc) | 4:51 |
 | 78 | [Saco La Paca](https://open.spotify.com/track/1OWYOkf5VApIjWnOynKFJH) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Desde El Infierno](https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n) | 2:27 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDczMzkxNjc3YTExZTQ0MWZiOWM5ODJmMjQxZDhhMzI2`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDUxNzdkMjU0NzVmMjRmODQ1ZTA3OWZkMzZmMjBlYzM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,358 likes - 100 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,598 likes - 100 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [The Ghosts of Charlie Barracuda](https://open.spotify.com/track/2CeY0S8kVprPlCO4r5ffzx) | [The Devil and the Almighty Blues](https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ) | [The Devil and the Almighty Blues](https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw) | 7:46 |
 | 100 | [El Monstro](https://open.spotify.com/track/4NWhOcJUUYesYsHNHrGDrS) | [Skraeckoedlan](https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb) | [Sagor](https://open.spotify.com/album/01iXYjSbjTWy8vNjoN7wmp) | 6:33 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGQyNDcxODVhNzZiOWUyMzNhYTNjNWUxZThiNjY2MTZm`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDJlZDhiZDIzZTg3ODc5MDBjMTBlMGRmODRlY2I3Njg4`

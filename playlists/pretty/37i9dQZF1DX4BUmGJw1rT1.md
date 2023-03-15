@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,068 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,135 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 99 | [Let Me Down Easy](https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Let Me Down Easy](https://open.spotify.com/album/05yGqviixZlZrmRiLyz563) | 2:52 |
 | 100 | [I Love Your Rock 'n' Roll](https://open.spotify.com/track/6rBwdTO9YwLm8xzgvdyHIt) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Ride](https://open.spotify.com/album/274mSeGv906bj4ylimeKiW) | 4:14 |
 
-Snapshot ID: `MTY3Nzg2NzE2MywwMDAwMDAwMDU2ZDRjMGUyNTVhNjA0ZTJmNDFiYzQzNzBlOWRhOTlk`
+Snapshot ID: `MTY3Nzg2NzE2MywwMDAwMDAwMGQ4Njg1ZTVhNDI2NDY3NDMxZmZhMzFkMDgxY2UyZmMy`

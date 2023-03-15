@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 
 > Colourful songs to kickstart your Holi party! Cover \- Yeh Jawaani Hai Deewani
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,278 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,295 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 | 59 | [Do Me A Favour \(Lets Play Holi\)](https://open.spotify.com/track/37V4h43Fdfd6Gsp98mD5yh) | [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Waqt\- The Race Against Time](https://open.spotify.com/album/1Lc3GqjgljnR0isKfwsdM0) | 6:29 |
 | 60 | [Aaj Ki Party](https://open.spotify.com/track/1vmQPVE7vbgSZ12C8MlKX8) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 4:40 |
 
-Snapshot ID: `MTY3ODcxMDk3NCwwMDAwMDAwMGE1ZTE4ZWZjZDIwNDc0OTAzYzEzNzNkZTljODQxYTY4`
+Snapshot ID: `MTY3ODcxMDk3NCwwMDAwMDAwMDFjMzJlMjg3YWZkZDBmMzI2ZDM1NWZmNTBkNzY1YzM5`

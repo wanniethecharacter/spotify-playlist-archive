@@ -394,7 +394,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 316706,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 193106,
       "name": "Break",
       "url": "https://open.spotify.com/track/4urxRqBRiaH0i20OKBsgxc"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 212346,
       "name": "Burn It to the Ground",
       "url": "https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 214706,
       "name": "Call Me When You're Sober",
       "url": "https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 228560,
       "name": "Detroit Rock City",
       "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
@@ -4601,6 +4601,24 @@
     },
     {
       "album": {
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267826,
+      "name": "Shotgun Blues",
+      "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
+    },
+    {
+      "album": {
         "name": "Shotgun Blues",
         "url": "https://open.spotify.com/album/3jNHuwyqws4y5NfWKhgi2Z"
       },
@@ -4652,6 +4670,24 @@
       "duration_ms": 263240,
       "name": "Sleeping My Day Away - 2009 - Remaster",
       "url": "https://open.spotify.com/track/5ZuXgk0enEvv2HlnUe2rj3"
+    },
+    {
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187140,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
     },
     {
       "album": {
@@ -6082,7 +6118,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 187880,
       "name": "Wolf in Sheep's Clothing (feat. William Beckett)",
       "url": "https://open.spotify.com/track/4WXFDVe299Po8ih6Np54n2"

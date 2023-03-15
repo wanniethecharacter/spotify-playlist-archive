@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Josh Makazo\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,888 likes - 103 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,891 likes - 103 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 102 | [Oh, Friend](https://open.spotify.com/track/0f80aZIZhMktPv8Q6imfxV) | [Jean Tan](https://open.spotify.com/artist/5E1YsH5XziUDdfp5wCfazJ) | [Oh, Friend](https://open.spotify.com/album/179PakOmGVyYARp63l6G0b) | 3:41 |
 | 103 | [Shine On](https://open.spotify.com/track/1lHv8uFKGahvJVdrm2TJHC) | [Diana Danielle](https://open.spotify.com/artist/7DKEUCaijEd8l0Fv7COGr6) | [Shine On](https://open.spotify.com/album/6Axm0VoAPHjQUe8KvVidDh) | 3:28 |
 
-Snapshot ID: `MTY3ODM3NzYwMCwwMDAwMDAwMGNhZjlmNjBhMGFiYzI1YmU1ZWM5Y2RkMTE3NWIzMzcw`
+Snapshot ID: `MTY3ODM3NzYwMCwwMDAwMDAwMDQ1MjEwNzg2ODIyNDY0ZmQxMDExNTJhM2FlMGRkMTEx`

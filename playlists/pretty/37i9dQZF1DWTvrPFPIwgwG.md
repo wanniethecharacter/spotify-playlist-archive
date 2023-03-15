@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Kemilly Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,171 likes - 85 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,341 likes - 85 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [Vai Passar \(Ao Vivo\)](https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Vai Passar \(Ao Vivo\)](https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj) | 5:15 |
 | 85 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 
-Snapshot ID: `MTY3ODQ5ODk1NCwwMDAwMDAwMDI0OGI1ZjIzYWJlZDMxODQ1MmViNTZhODVjZWVlNTMw`
+Snapshot ID: `MTY3ODQ5ODk1NCwwMDAwMDAwMDQ5NGQzYmIwODZkN2IzYzA1OGVmYzAwZmU4MTczODRj`

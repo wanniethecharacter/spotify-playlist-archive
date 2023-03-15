@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Benjamin Walker + Fármacos
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,675 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,682 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 79 | [Karma](https://open.spotify.com/track/2XxJKaZNhPanBkpGSMoApE) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/7kP9AmZtw94OKJ9WwCbcs4) | 3:16 |
 | 80 | [diamantes \(lorelei remix\)](https://open.spotify.com/track/4gaFr7Df75y4fkp0lbHOCZ) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN), [Lorelei](https://open.spotify.com/artist/3whh4zpCGGs2fAhqeJ18qI) | [arde lento \(remixes\)](https://open.spotify.com/album/6cv8EMykDbV7tMt3B4ifh8) | 6:31 |
 
-Snapshot ID: `MTY3ODQxNzIwMCwwMDAwMDAwMGI5OTk2NmFhNDU1NjI1ODk3Y2NmNWRhN2VhNzMzYjQx`
+Snapshot ID: `MTY3ODQxNzIwMCwwMDAwMDAwMDMwNTg4NTlhYTkwNzNkNDQ5YzMyZmJhNTZlYjI5OTc1`

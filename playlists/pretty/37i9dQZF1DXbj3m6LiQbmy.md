@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ e dai suoi alleati\. Sans Soucis in cover, e <a href="spotify:playlist:37i9dQZF1DX3LyU0mhfqgP">nella playlist global</a> ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,278 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,282 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 74 | [Fammi sapere](https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ) | [Santissima Vicky](https://open.spotify.com/artist/1SVjhg7V450B2W9zcn9dZY) | [Fammi sapere](https://open.spotify.com/album/5BLc0gWZEp3CQvyEpSO5p0) | 2:55 |
 | 75 | [Repito \- Populous Remix](https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Morsi](https://open.spotify.com/album/0P1YyFEArN1FzbpL542vUa) | 2:58 |
 
-Snapshot ID: `MTY3NzU5MDM0NCwwMDAwMDAwMDNjYWViMzI3MTFjYjkzMThjNjg0NTNkN2E3NTdjYjFl`
+Snapshot ID: `MTY3NzU5MDM0NCwwMDAwMDAwMDNiNTRhOTNhNWRhM2E3MDQ0MzZkZmI2MWU3MGVjN2Iw`

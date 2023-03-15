@@ -4,7 +4,7 @@
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: A7X
 
-78 songs - 5 hr 9 min
+80 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Port In Any Storm](https://open.spotify.com/track/4wVXaAKzc6sh2jkcgOba1d) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [Sirens](https://open.spotify.com/album/1HAvhnvSbJ3wdyOtj6Jtcl) | 3:14 | 2022-01-17 | 2022-10-01 |
 | [All These Things I Hate \(Revolve Around Me\)](https://open.spotify.com/track/0CbESIyx34Usxoy7emUEBd) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 3:45 | 2022-10-25 |  |
 | [Almost Easy](https://open.spotify.com/track/0DkmhHO4yyqCJFjosmmWPU) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 3:54 | 2022-10-25 |  |
+| [An Honourable Reign](https://open.spotify.com/track/4537kerrZrPCs8HeJ59BiJ) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [The Union of Crowns](https://open.spotify.com/album/5Gevx9epKInDurmIs308XV) | 3:59 | 2023-03-14 |  |
 | [At the End of August](https://open.spotify.com/track/7sjCYW3D73C7lxdbVifWPn) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [A Snow Capped Romance](https://open.spotify.com/album/4RXbqQIZqHp5VhyhQZkvD9) | 3:58 | 2022-01-17 |  |
 | [Born To Lose](https://open.spotify.com/track/4WsQCb1Atrhbb2I78hHCNG) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Dead Throne](https://open.spotify.com/album/4iYkAfmG9mB9whqxDEPgfI) | 3:04 | 2022-01-17 |  |
 | [Born To Lose](https://open.spotify.com/track/6clSq0mAWWyBxJ41J4fUnw) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Dead Throne](https://open.spotify.com/album/4aJCOyKPoo44BNCMbA5bP2) | 3:04 | 2022-01-17 | 2022-07-29 |
@@ -25,6 +26,7 @@
 | [Concubine](https://open.spotify.com/track/1ui9EPnCqTurWbYICi9Gld) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Jane Doe](https://open.spotify.com/album/2gtM4m6sglJDrX3toJWZO6) | 1:19 | 2022-01-17 |  |
 | [DEMON\(S\)](https://open.spotify.com/track/6t1Bmjef4I067PKxd6CRlQ) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Deliver Us](https://open.spotify.com/album/0quhTPjAecYoUNdtD4NABf) | 3:48 | 2022-01-17 |  |
 | [Dying in Your Arms](https://open.spotify.com/track/2nuA1esWzYEgnfQ4DpsSsm) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 2:53 | 2022-01-17 |  |
+| [Early Grave](https://open.spotify.com/track/4soE6F9djLRl3OwQyKd3p2) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hollow Crown](https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz) | 3:32 | 2023-03-14 |  |
 | [Ebolarama](https://open.spotify.com/track/47dpubrQXYmHnQ0ccloxSV) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Hot Damn!](https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo) | 2:58 | 2022-01-17 |  |
 | [Empty Promises](https://open.spotify.com/track/2IYfepbNqRb0STzaW3LDt7) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Satisfaction Is The Death Of Desire](https://open.spotify.com/album/4FSyBxzdZ4uVtyHPUKAnPE) | 1:18 | 2022-01-17 |  |
 | [Engine 45](https://open.spotify.com/track/70SkWedrjKzDgKrqHZwAf4) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Get What You Give](https://open.spotify.com/album/3r2Tup1FQ1xiDr78Q7s71v) | 4:12 | 2022-01-17 |  |
@@ -33,7 +35,7 @@
 | [Ex's And Oh's](https://open.spotify.com/track/2gY3Z3f1Qe4vWnw15dBkSw) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [A Death\-Grip On Yesterday](https://open.spotify.com/album/2S7Gg4uwg8Xh7WC4abXpAK) | 3:31 | 2022-01-17 |  |
 | [Forced March](https://open.spotify.com/track/4Z4ig9pGglNaD651mNup8p) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Destroy The Machines](https://open.spotify.com/album/552KfDiDlMOXyQJIPEKVcZ) | 3:47 | 2022-01-17 | 2022-11-23 |
 | [Forever](https://open.spotify.com/track/3vMPhppWYQoLN7Ji4JXWo7) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Frail Words Collapse](https://open.spotify.com/album/1atsQ3zl1LR122Y1UZajsE) | 4:42 | 2022-01-17 |  |
-| [Forever](https://open.spotify.com/track/1G6czdqgskwJ4cBgx9CDAJ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Forever](https://open.spotify.com/album/2V7axnEU5HQoN9Tu5JVl4S) | 3:07 | 2022-01-17 |  |
+| [Forever](https://open.spotify.com/track/1G6czdqgskwJ4cBgx9CDAJ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Forever](https://open.spotify.com/album/2V7axnEU5HQoN9Tu5JVl4S) | 3:07 | 2022-01-17 | 2023-03-15 |
 | [Four Walls](https://open.spotify.com/track/04np64OjIt01Z7KSYWwhcC) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [Brainwashed \(Deluxe\)](https://open.spotify.com/album/30TMZxAS5atxns4X1e8LOQ) | 5:07 | 2022-01-17 | 2022-07-29 |
 | [Four Walls](https://open.spotify.com/track/2xfA2dKr30aRz3YgfvM6PV) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [Brainwashed](https://open.spotify.com/album/6XnWvByzLkijHomCcGO2pv) | 5:07 | 2022-01-17 |  |
 | [Hated](https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive](https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ) | 3:31 | 2022-10-25 |  |
@@ -73,7 +75,7 @@
 | [Sword In Mouth, Fire Eyes](https://open.spotify.com/track/5GQlWWb1evGQw5CwZ6iRJg) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Wrongdoers](https://open.spotify.com/album/2n6jhBxAIapcSnLciCEF4p) | 4:25 | 2022-10-25 |  |
 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 | 2022-01-17 |  |
 | [Tears Don't Fall](https://open.spotify.com/track/7ln7o4q6y9h8qEc6hGrtr1) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 5:48 | 2022-01-17 | 2022-07-29 |
-| [The Downfall Of Us All](https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ) | 3:29 | 2022-01-17 |  |
+| [The Downfall Of Us All](https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ) | 3:29 | 2022-01-17 | 2023-03-15 |
 | [The End of Heartache](https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [The End of Heartache \(Special Edition\)](https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V) | 4:58 | 2022-01-17 |  |
 | [The Sinner](https://open.spotify.com/track/4SAeLRKTvdvEKUvpYIoBzT) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [The Hollow](https://open.spotify.com/album/59fpw1PC2LgFYS0Hmn4zm3) | 4:02 | 2022-01-17 |  |
 | [The Worst Is yet to Come](https://open.spotify.com/track/3T8WTbGrVFWI2eWrDqylTI) | [Still Remains](https://open.spotify.com/artist/1vqMfm7uSTpqRUeV1iQPPp) | [Of Love And Lunacy](https://open.spotify.com/album/6QiKYJ1Fa3n5wE8viOyRea) | 3:50 | 2022-01-17 |  |

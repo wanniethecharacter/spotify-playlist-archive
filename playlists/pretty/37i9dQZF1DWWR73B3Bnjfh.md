@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,820 likes - 100 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,000 likes - 100 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 99 | [Intermezzo](https://open.spotify.com/track/0TvvhxT76LgtvwtCDZ3Uw4) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 3:36 |
 | 100 | [Dam That Dream](https://open.spotify.com/track/1BBIJBrOV8Lzl48C9GZ4rX) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Poppin'](https://open.spotify.com/album/0fGG4NXcCWzTcpYGrcyCtc) | 6:10 |
 
-Snapshot ID: `MTY3ODI4MzU4OSwwMDAwMDAwMGJjYzJjZmNiZmY1MTc4YzJjZThkY2Y2NzY4ZjJhMzVl`
+Snapshot ID: `MTY3ODI4MzU4OSwwMDAwMDAwMGU0YzQ2MmYzNmYyMjU2ZjQ0ZjhiNDg4MzhhOWYwZTA2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,192 likes - 150 songs - 16 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,237 likes - 150 songs - 16 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 149 | [Mori Bangri](https://open.spotify.com/track/3gddauzwaQvjmQTjx5ty4p) | [Fareed Ayaz](https://open.spotify.com/artist/3CCUSweQDSNLPXi7ayw3VO), [Abu Mohammad](https://open.spotify.com/artist/3aipzBVWj2YOrVQuUGJvPr), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions \(Season 4\)](https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs) | 11:00 |
 | 150 | [Kinara](https://open.spotify.com/track/2IuMxhVvsQy0emYrupaMgM) | [Atif Aslam & Riaz Ali Khan](https://open.spotify.com/artist/4KNKbRCxiRYi89QAZC0i5g), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 7:48 |
 
-Snapshot ID: `MTY2NTU4ODI2MSwwMDAwMDAwMGRkMmU0Zjg3MzE1MmE1NWRiZmE4MmM0ZDcyYzI2Mzgz`
+Snapshot ID: `MTY2NTU4ODI2MSwwMDAwMDAwMGE5NmVhZjFkYWFkNTlmZDg5NWUzMjc3ZWU5NTEwY2Fm`

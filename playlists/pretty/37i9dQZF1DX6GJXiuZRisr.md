@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,456,543 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,457,120 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 99 | [Follow You Anywhere](https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Follow You Anywhere](https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs) | 4:04 |
 | 100 | [Gold](https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [Gold](https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y) | 3:40 |
 
-Snapshot ID: `MTY3ODQ2NzYwMCwwMDAwMDAwMGI5MTYzNGM3ZDMyODFlZmM4N2RlOGEwMDhmMjNjY2M4`
+Snapshot ID: `MTY3ODQ2NzYwMCwwMDAwMDAwMGIyZWJiMzdiMzMwZjk0ZTllZjQwOWMxYzUzNjU2YWZh`

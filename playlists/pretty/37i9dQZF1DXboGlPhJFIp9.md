@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,932 likes - 104 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,961 likes - 104 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 | 103 | [Strong Kinds of Emotions](https://open.spotify.com/track/4IAuHbRSyRYfBWMPIFprRj) | [Bluetoon](https://open.spotify.com/artist/135WbQvbKp0SnPHy80df1X) | [The Skies Above](https://open.spotify.com/album/65BZVVODmw9gxRu13MHG49) | 3:36 |
 | 104 | [Dunlin](https://open.spotify.com/track/7LQGIJsi90gdSKo5yzEDOb) | [Dust Follows](https://open.spotify.com/artist/5ANgyunkGzckn6Pn0AK5FC) | [Swan](https://open.spotify.com/album/3CcjnNWOPCrrDBKEgUQ3Mk) | 2:22 |
 
-Snapshot ID: `MTY3ODQ1NzI0MywwMDAwMDAwMDFjZmRkOTA1YjFjZTU2MDU1OWFhMTVkMWNlMTlhMjQz`
+Snapshot ID: `MTY3ODQ1NzI0MywwMDAwMDAwMDFmNzBiNjVkZjI1NzMyN2NmZjhhNmM5MzhjZWIzYmVi`

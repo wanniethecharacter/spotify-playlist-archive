@@ -205,6 +205,28 @@
     },
     {
       "album": {
+        "name": "Airborne Ashes (Eartheater & Aleksandir Remix)",
+        "url": "https://open.spotify.com/album/0CszlQkLgE0fd0ewB4bX6E"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        },
+        {
+          "name": "Aleksandir",
+          "url": "https://open.spotify.com/artist/671aO7xxWHFDZ4Y115H89b"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269026,
+      "name": "Airborne Ashes - Eartheater & Aleksandir Remix",
+      "url": "https://open.spotify.com/track/2MIHcSSYU2ypv5Cq0vKl1T"
+    },
+    {
+      "album": {
         "name": "All I Wanna Do (Radio Edit)",
         "url": "https://open.spotify.com/album/71004lA2E0xecVnR9Bkw90"
       },
@@ -402,7 +424,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 130151,
       "name": "Avaz-e-Del",
       "url": "https://open.spotify.com/track/1aungVYjP15s0WNgRha9Rf"
@@ -516,7 +538,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 152558,
       "name": "Baian\u00e1",
       "url": "https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC"
@@ -604,6 +626,28 @@
       "duration_ms": 169606,
       "name": "Bel Mercy",
       "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
+    },
+    {
+      "album": {
+        "name": "Bel Mercy (El Jefe)",
+        "url": "https://open.spotify.com/album/326nCfRJ9TptcxiBn8cx0q"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170078,
+      "name": "Bel Mercy (El Jefe)",
+      "url": "https://open.spotify.com/track/1U5vRpy8n7K1rq2e3HOBA0"
     },
     {
       "album": {
@@ -1188,7 +1232,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 206720,
       "name": "CONFLICT",
       "url": "https://open.spotify.com/track/36i3VDSBSrn5m3VqIA5tgR"
@@ -1419,6 +1463,32 @@
     },
     {
       "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/3axl6saVOjcbY1RZJWB4XQ"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199646,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/4zM0WZs5xnIoJbYqlSjPQB"
+    },
+    {
+      "album": {
         "name": "Destiny of the Moment",
         "url": "https://open.spotify.com/album/7BMspgO8qEiB6JWyQ9IbOG"
       },
@@ -1434,6 +1504,28 @@
       "duration_ms": 336000,
       "name": "Destiny of the Moment",
       "url": "https://open.spotify.com/track/5ix8OYFmbkHzDcYfX8tT95"
+    },
+    {
+      "album": {
+        "name": "Continua",
+        "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204159,
+      "name": "Different Life",
+      "url": "https://open.spotify.com/track/7LIFs6DXS2QlErkxfGatF2"
     },
     {
       "album": {
@@ -2560,7 +2652,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 271219,
       "name": "Going Back",
       "url": "https://open.spotify.com/track/02D5BJH4qFH578VbitQObD"
@@ -2848,7 +2940,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 271893,
       "name": "Hit By A Train - Bad Day At The Office Version",
       "url": "https://open.spotify.com/track/7sjUc3MReePesL3AuXBT4z"
@@ -2870,6 +2962,24 @@
       "duration_ms": 407125,
       "name": "Hive",
       "url": "https://open.spotify.com/track/69j2qYO8WMoSEUPnElhDkj"
+    },
+    {
+      "album": {
+        "name": "Ground Groove",
+        "url": "https://open.spotify.com/album/3pZfevjbuheybZyPZ7HKsC"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90189,
+      "name": "Hold My Hand, Go For A Walk",
+      "url": "https://open.spotify.com/track/1oVMhEoNlMW1F5UeydIvQW"
     },
     {
       "album": {
@@ -3308,7 +3418,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 243498,
       "name": "Kiss It Better - MJ Cole Remix",
       "url": "https://open.spotify.com/track/62AYZyWHYitJJ4oBOg1wda"
@@ -3398,7 +3508,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 311904,
       "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa) (Chlo\u00e9 Caillet Version)",
       "url": "https://open.spotify.com/track/1ZkFU4SirJGwn5z0x3T4zD"
@@ -4214,7 +4324,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 210746,
       "name": "Nieve - Nick Le\u00f3n Remix",
       "url": "https://open.spotify.com/track/6mOQBI05n2UgeFgmW8Jcdb"
@@ -4729,6 +4839,24 @@
     },
     {
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/15K6GdlmaMGRY1MacH1rf3"
+      },
+      "artists": [
+        {
+          "name": "N\u00eddia",
+          "url": "https://open.spotify.com/artist/3BKX2WA8UjZgTIJ2juyQ7G"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160879,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/0UYRJxr5hcDi6xbFDuPCJi"
+    },
+    {
+      "album": {
         "name": "Plonk IV",
         "url": "https://open.spotify.com/album/6ay1euRxYnpCLCmcWTsRYg"
       },
@@ -4744,6 +4872,24 @@
       "duration_ms": 333048,
       "name": "Plonk IV",
       "url": "https://open.spotify.com/track/1sMYcsXIMDt6hZOc5b6HEn"
+    },
+    {
+      "album": {
+        "name": "Polly Armour",
+        "url": "https://open.spotify.com/album/7n4OYjNT0lQQEhN4jalOq2"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169412,
+      "name": "Polly Armour",
+      "url": "https://open.spotify.com/track/3ssIkCQAizo73SKYe66hfm"
     },
     {
       "album": {
@@ -4916,7 +5062,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 175290,
       "name": "Rave e Bagaceira",
       "url": "https://open.spotify.com/track/4cOvirEduQ56JOQVMdWz5A"
@@ -5070,6 +5216,24 @@
       "duration_ms": 194346,
       "name": "Redd St. Turbulence",
       "url": "https://open.spotify.com/track/0NaapbT4ZqEUSKn2q8Ven3"
+    },
+    {
+      "album": {
+        "name": "Girl In The Half Pearl",
+        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144693,
+      "name": "RESET!",
+      "url": "https://open.spotify.com/track/5Hey6v7tZokhtSJS4ozBcH"
     },
     {
       "album": {
@@ -5509,6 +5673,24 @@
     },
     {
       "album": {
+        "name": "Feet Start Dancing EP",
+        "url": "https://open.spotify.com/album/27d3etPUSi7HY8QzVY4gpG"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169146,
+      "name": "Soul Control",
+      "url": "https://open.spotify.com/track/2d1wgsg3n8KicVcgDkwZxR"
+    },
+    {
+      "album": {
         "name": "hard boiled",
         "url": "https://open.spotify.com/album/3gtJxGdRyZ7Ctp5eo2bEpa"
       },
@@ -5524,6 +5706,24 @@
       "duration_ms": 105365,
       "name": "speaking terms",
       "url": "https://open.spotify.com/track/4McPfj4BGNv2LG8F8g34js"
+    },
+    {
+      "album": {
+        "name": "TENSEI II (Deluxe)",
+        "url": "https://open.spotify.com/album/6FalOyjvPS6xoMlYwzVDUt"
+      },
+      "artists": [
+        {
+          "name": "10kdunkin",
+          "url": "https://open.spotify.com/artist/76uMgi6K2NCrt3QOZ4vVaW"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109241,
+      "name": "STANDIN ON SHIT",
+      "url": "https://open.spotify.com/track/2HbJnyqsrMHo4uUUUUnZz1"
     },
     {
       "album": {
@@ -5960,7 +6160,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 194544,
       "name": "they don't know",
       "url": "https://open.spotify.com/track/4HsYcKJNjPYD7rrKXOCgt4"

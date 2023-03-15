@@ -7200,7 +7200,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
@@ -9450,7 +9450,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 120428,
       "name": "WASTE",
       "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
@@ -13354,7 +13354,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 139636,
       "name": "\u0419\u0443\u043f\u0438 \u0419\u043e",
       "url": "https://open.spotify.com/track/0ePYZtHRuP9NZqlkEDCaC4"
@@ -14454,7 +14454,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 120427,
       "name": "\u041c\u0430\u043d\u0456\u0444\u0435\u0441\u0442",
       "url": "https://open.spotify.com/track/0pWMr82unREASQGFJrrI5S"
@@ -16330,7 +16330,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 137739,
       "name": "\u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u043b\u0435\u0442\u043e",
       "url": "https://open.spotify.com/track/0K5arhAxYWj7QxFhpKJe6z"
@@ -16410,6 +16410,24 @@
       "duration_ms": 165794,
       "name": "\u041f\u041e\u0427\u0415\u041c\u0423?",
       "url": "https://open.spotify.com/track/6TYmpWMxhqv0TVtiAIwzBW"
+    },
+    {
+      "album": {
+        "name": "\u043c\u043e\u0438 (\u0442\u0432\u043e\u0438) \u0442\u0451\u043c\u043d\u044b\u0435 \u0436\u0435\u043b\u0430\u043d\u0438\u044f",
+        "url": "https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01"
+      },
+      "artists": [
+        {
+          "name": "ooes",
+          "url": "https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "\u043f\u0440\u0430\u0432\u0430",
+      "url": "https://open.spotify.com/track/6E2ec1JmPOXyh7k37tYhYU"
     },
     {
       "album": {

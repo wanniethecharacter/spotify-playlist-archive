@@ -642,7 +642,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 211500,
       "name": "A m\u00f3wi\u0142em Ci",
       "url": "https://open.spotify.com/track/2qBC8gjqB8gvQ5Ttq0pFQ3"
@@ -1422,7 +1422,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -4894,7 +4894,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 248400,
       "name": "CZ\u0141OWIEK Z DZIUR\u0104 ZAMIAST KRTANI",
       "url": "https://open.spotify.com/track/3FaQgxX3YENJdih4LIQhFF"
@@ -7900,7 +7900,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 136618,
       "name": "Herbata Z Imbirem",
       "url": "https://open.spotify.com/track/3FZPXHN1fgFeZEiXlMtosR"
@@ -7998,6 +7998,10 @@
         {
           "name": "Oki",
           "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "LDO",
+          "url": "https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z"
         }
       ],
       "date_added": "2023-03-10",
@@ -8256,7 +8260,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -17792,7 +17796,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 225600,
       "name": "p\u0142omie\u0144",
       "url": "https://open.spotify.com/track/2XxNDVlXUbv4FuF3jbPkLt"

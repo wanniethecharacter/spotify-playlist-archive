@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,689 likes - 100 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,821 likes - 100 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 99 | [Little Girl Blue](https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [The John Lewis Piano](https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA) | 4:29 |
 | 100 | [Someday My Prince Will Come \- Take 5](https://open.spotify.com/track/4he1BZuN1pDPDjPqyuNOoS) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Someday My Prince Will Come](https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA) | 3:03 |
 
-Snapshot ID: `MTY3Nzc0MzM3OCwwMDAwMDAwMDg3YzFjM2ZhOTQ1ZTg1YTY5ODJhMzgyODNhMzRmOTI5`
+Snapshot ID: `MTY3Nzc0MzM3OCwwMDAwMDAwMGY1ZDRjNzQ4MTdjNzg1YTY2NTMyY2M1OWMzZTJkZjli`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Rubén Figueroa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,044 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,087 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 74 | [Bajo la Lluvía](https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Cuadra FL](https://open.spotify.com/artist/5oHIm5rVcQJ6IM2Piu65lt) | [Bajo la Lluvía](https://open.spotify.com/album/7FOdGut24nsqdKsggL4p8c) | 2:34 |
 | 75 | [Hombre Normal](https://open.spotify.com/track/2ZrDe83QNYiddNxvsjzKyC) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Hombre Normal](https://open.spotify.com/album/5FUQoA6Vw1X6JsjSNVlM04) | 4:14 |
 
-Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDUwZTQ1NmQwOTU4OTdkYTk2MDdkMmFmZWU0NGM1ZWIy`
+Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMGNiYzRjNmJmZTAxNTc4MTM5OWE2MmZiNTE3NWVjN2Mx`

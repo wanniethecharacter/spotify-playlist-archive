@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,574 likes - 228 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,614 likes - 228 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,4 +237,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 227 | [Wilderness Exit](https://open.spotify.com/track/7MXTBwqSyx2pUURMAT1k7e) | [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K), [KNUT](https://open.spotify.com/artist/6h3SYhsBfgz8N71ozZtHbD) | [Wilderness Exit](https://open.spotify.com/album/1BblbjzdUHX86Ir6rQTu78) | 4:24 |
 | 228 | [Cup](https://open.spotify.com/track/2rh8t6nbYuoABlG31Mm3xX) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Cup](https://open.spotify.com/album/1nIYHMtvCKyA0JVxiF7Mns) | 2:12 |
 
-Snapshot ID: `MTY3ODQxMDAwMCwwMDAwMDAwMGEwZGY0ZDkxY2YxYThhN2Q1ZWY1N2MwYjZkY2ZjZWFi`
+Snapshot ID: `MTY3ODQxMDAwMCwwMDAwMDAwMDNhNDgwZjIyNmM2OTAzYjAwYzQ2NzRiNGJhNjU3NDdi`

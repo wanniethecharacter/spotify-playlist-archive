@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Pop Acústico para tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,015,594 likes - 120 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,015,604 likes - 120 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 119 | [Hasta La Raiz](https://open.spotify.com/track/7xke3tSdPhIekPZh6ZoOfJ) | [Marcol](https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP) | [Hasta La Raíz](https://open.spotify.com/album/3T4Tkh71yxMKEpd84nt0DT) | 2:44 |
 | 120 | [Soy capaz \- Versión Acústica](https://open.spotify.com/track/0EeZEQ51vHrG569kZocOKe) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Soy capaz](https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT) | 3:45 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDc2NDBjNzNlZDE0MWJkNTUwZTllZmM5NDdkODQwYmI1`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDg1NzA2YTVhYjhmNGQ3MGIxYWNhODBmMjk2MDRhNzgz`

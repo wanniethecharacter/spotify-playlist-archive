@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Tsuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,631 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,684 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Money Moves \- Remix](https://open.spotify.com/track/2hTkKz0ylLXhaEwOdEJxrR) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Skamma](https://open.spotify.com/artist/4GmeRSlqrWn9Tg4pVq7XmU), [J Wilz](https://open.spotify.com/artist/16TZaFyJcaVRRfxznuLE2n), [LOAD B](https://open.spotify.com/artist/19N4NQloPOR4JgS0s11hbF), [Weejii](https://open.spotify.com/artist/3r7dVbYdh4DmFosGapMZaw), [Blu Bomma](https://open.spotify.com/artist/4goT9h8GZ7ZKiyw9MxyJDh), [Kinetik](https://open.spotify.com/artist/0LE12w6fWcmvb9eooXtpFl), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Money Moves \(The Remixes\)](https://open.spotify.com/album/6XyppXwfyf3t1MzIr6qxl9) | 4:24 |
 | 55 | [Grape](https://open.spotify.com/track/7wobm0ZyzQHe7G3Q6rzLe3) | [Refracta](https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg) | [Five A DAY](https://open.spotify.com/album/4Eh4Uz2Aeu1hRi5GcUdYXB) | 4:27 |
 
-Snapshot ID: `MTY2MDMyMjA5MSwwMDAwMDAwMDNiNTc3MTM3ZWIwNzJiY2E5NGMzYWQ1OTc2MDE0YzFj`
+Snapshot ID: `MTY2MDMyMjA5MSwwMDAwMDAwMGYxNjc4MGY3Yzc1MjdhNmM5NTgxNzRjNTM0NTU3NTA4`

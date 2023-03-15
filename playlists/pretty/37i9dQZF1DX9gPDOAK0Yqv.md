@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through melodic techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,483 likes - 74 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,650 likes - 74 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 73 | [Better Together](https://open.spotify.com/track/0NJRskEVmAdgBXq9LVuHPs) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Watergate 20 Years \(Pt\. 2/8\)](https://open.spotify.com/album/5wnaw4TaaogpSllYqt2Mix) | 3:21 |
 | 74 | [Equal](https://open.spotify.com/track/06FMbmYdLCapqxnkTNp2q9) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 5:19 |
 
-Snapshot ID: `MTY3ODQ3NDgwMCwwMDAwMDAwMGU2MGJiNGM3ZGQ0NjE4MTIzYzQyYTViYjM3MzZmMmI4`
+Snapshot ID: `MTY3ODQ3NDgwMCwwMDAwMDAwMDc4ZTIyMjQ0MWVjZjAxZjVhYzBmN2VmNTRhODhmNjY4`

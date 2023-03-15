@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > love song do L7 derrete geral
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,082,044 likes - 55 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,083,079 likes - 55 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 54 | [Londres Freestyle](https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Londres Freestyle](https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU) | 2:08 |
 | 55 | [Swing de Morro](https://open.spotify.com/track/0Bl8lSsNsJ6fx2cAqJ0vVC) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Coração Terra de Ninguém](https://open.spotify.com/album/5BTYBHPfdhnD6Ez307JTyy) | 5:13 |
 
-Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMGIzNDU4ZDhiNjc0NTYxN2EzMWJhMTZhNDY5Mzc1NGUx`
+Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMDUxNDdmM2QxMjkyODhkYjA2MTg1OGZiZGEwODI5Mjg1`

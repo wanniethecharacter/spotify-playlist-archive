@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Etta Marcus
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,907 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,906 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 79 | [Kamikaze](https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD) | 2:17 |
 | 80 | [Monday Morning](https://open.spotify.com/track/17wGCJWUp4XC4kSS1kcoh3) | [Ten Tonnes](https://open.spotify.com/artist/4hfrzKkUsrb3Cz209SKxbo) | [Monday Morning](https://open.spotify.com/album/0Ft8MU44cbPa1QIOZD93jV) | 3:35 |
 
-Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDE5M2U4MzA1Nzk2ZjlkNDI3OTU4YjgwYmNmMmY5NzA1`
+Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDI5NDA1ZWYwNzU3NTRkZmE5OTZlZDY5NTA3ZmI5ZTJj`

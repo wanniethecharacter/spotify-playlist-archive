@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The home of rave worthy melodic techno and house\. Cover: Miss Monique
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,756 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,923 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 99 | [Ferro](https://open.spotify.com/track/55zEsncYwH9hFE4UicrOZa) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Ferro](https://open.spotify.com/album/3lswks5ABD6HlwyiU5gXsc) | 6:41 |
 | 100 | [Patchouli](https://open.spotify.com/track/37WdQxvQVFVsWwQvk4uCQd) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Patchouli](https://open.spotify.com/album/2TSyEyxSs1gtLBN7Uprdfg) | 4:47 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDZmZGYyNDliMTU0NGIxMjJiYmQ1NDNjMWMwZWE4ZTk1`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGIxMTA4ZTMxZmYwNjMyNjExZjIwMDVlMjMzMTEzYTIw`

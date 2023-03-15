@@ -1,12 +1,12 @@
 {
   "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Sunny Malton, AR Paisley, Lazyeye",
-  "num_followers": 160841,
+  "num_followers": 160864,
   "original_name": "Northern Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODU2MTAxMywwMDAwMDAwMGIxNWRjNTkxNzk2YmJkYmRlYTQ4ZmYzNDYzZGNhYTU0",
+  "snapshot_id": "MTY3ODU2MTAxMywwMDAwMDAwMDAxNDViYWJkNDVlNGE4YTM2M2JlMDNhMmQ4ZDgwMDBj",
   "tracks": [
     {
       "added_at": "2023-03-10 06:00:19",
@@ -1748,16 +1748,16 @@
       },
       "artists": [
         {
-          "name": "JD Era",
-          "url": "https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv"
-        },
-        {
           "name": "Meeco",
           "url": "https://open.spotify.com/artist/6n5aqrtqKxRHEdap5f4vgQ"
         },
         {
           "name": "DJ Access",
           "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
+        },
+        {
+          "name": "JD Era",
+          "url": "https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv"
         }
       ],
       "duration_ms": 180440,

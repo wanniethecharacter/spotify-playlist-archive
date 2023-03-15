@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Yaya Bey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,446 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,392 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Who Even Cares](https://open.spotify.com/track/38JeXZxpAoBrKrtUgEJakU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:37 |
 | 100 | [Fantasy](https://open.spotify.com/track/3wMKWnMhw5EL1uPU0sW2S4) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Fantasy](https://open.spotify.com/album/2ajZ0vbI4VAjamEGJRl5QP) | 2:59 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGJiNGY5ODRjZmYwMzUzZTIyZWNkN2M5MjU0MzIyOTlj`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDc5ZWMwNmFhMzI5ODVhMmNiNTE4ZTIwMWM2N2U0OTM3`

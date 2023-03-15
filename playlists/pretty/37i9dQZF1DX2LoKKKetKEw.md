@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Uwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,125 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,282 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 79 | [Blessings](https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Blessings](https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW) | 2:41 |
 | 80 | [Efficient](https://open.spotify.com/track/2RFl6yLQk6qZNJ1if9LW7o) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Efficient](https://open.spotify.com/album/18HwWXrgptkhI2krmkHav2) | 2:44 |
 
-Snapshot ID: `MTY3NjAyMzc3NiwwMDAwMDAwMDY2ZGNkNzliY2MwN2M3MDY1OGRlOGJmZDc5MmU5NmNh`
+Snapshot ID: `MTY3NjAyMzc3NiwwMDAwMDAwMDdmZDJiYTg5OWRjZjQ4Y2RjM2E3ODJjN2Q0YmI4OWNj`

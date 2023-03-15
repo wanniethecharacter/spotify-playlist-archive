@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Passion
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,527 likes - 100 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,622 likes - 100 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 99 | [ASK](https://open.spotify.com/track/4uxf52iynlKRDCEDad0lK6) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [ASK](https://open.spotify.com/album/3PjCxXuZeFpkuDqr5Mr0Sk) | 3:59 |
 | 100 | [Free Indeed \(Wonder\) \- Live](https://open.spotify.com/track/7iTIDFY3e9xCWibY08qFUx) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2) | [Free Indeed \(Wonder\) \[Live\]](https://open.spotify.com/album/4wtrL9uem0EyVuuJAWTn1w) | 4:40 |
 
-Snapshot ID: `MTY3ODQzOTY4OCwwMDAwMDAwMGIyMGE3YjE5ZDE2MWJiZjkyZDc3NWY2ODM0ODYyOTJl`
+Snapshot ID: `MTY3ODQzOTY4OCwwMDAwMDAwMDgxNTk5NmEwNTE4MTVjNzI3MWQ2NjE1MWExYWYxYjlj`

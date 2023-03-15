@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "C'est fini",
+        "url": "https://open.spotify.com/album/7jeUqhe5JbbyQzLw8t7Xtn"
+      },
+      "artists": [
+        {
+          "name": "Alain Pironi",
+          "url": "https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151812,
+      "name": "C'est fini",
+      "url": "https://open.spotify.com/track/3nuA3ybZ8pJrqhHqzVRgiI"
+    },
+    {
+      "album": {
         "name": "Caliesa",
         "url": "https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k"
       },
@@ -1946,7 +1964,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 172984,
       "name": "Disappear for a while",
       "url": "https://open.spotify.com/track/1l3yPgvEagEz4OYS2hxMdc"
@@ -2303,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "Elixir",
+        "url": "https://open.spotify.com/album/6L5lu6k4cPjTgp9a2WdKPh"
+      },
+      "artists": [
+        {
+          "name": "Per Salomon",
+          "url": "https://open.spotify.com/artist/0fcCrry5MLypPdXhvHR107"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127718,
+      "name": "Elixir",
+      "url": "https://open.spotify.com/track/4XhMnxEzSOCuSMfOjHc1QF"
+    },
+    {
+      "album": {
         "name": "Ellebori",
         "url": "https://open.spotify.com/album/1Gzq0KGnmDKcF2jwPM83rS"
       },
@@ -2354,6 +2390,24 @@
       "duration_ms": 199987,
       "name": "Elysian",
       "url": "https://open.spotify.com/track/1vCF7vHUELmB38Zxn5T79S"
+    },
+    {
+      "album": {
+        "name": "Embers of Sorrow",
+        "url": "https://open.spotify.com/album/3mqoMlMFpLFJr1j7AX1cnP"
+      },
+      "artists": [
+        {
+          "name": "Fallegur Tonn",
+          "url": "https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121877,
+      "name": "Embers of Sorrow",
+      "url": "https://open.spotify.com/track/0vNKQBtLVcuNlhGFXTFRdI"
     },
     {
       "album": {
@@ -4694,7 +4748,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 190750,
       "name": "Let many flowers grow",
       "url": "https://open.spotify.com/track/6TAdSTLJrVdWjmuvUhTaDd"
@@ -5508,6 +5562,28 @@
       "duration_ms": 123733,
       "name": "Montmarte",
       "url": "https://open.spotify.com/track/0I4fEtucjFVQcwNvMCgqoL"
+    },
+    {
+      "album": {
+        "name": "Moon Song",
+        "url": "https://open.spotify.com/album/343jSnwo27lTQx4VIEuUxA"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        },
+        {
+          "name": "S\u00f8ren Tarding",
+          "url": "https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152374,
+      "name": "Moon Song",
+      "url": "https://open.spotify.com/track/2QBAV31pJ1kQZBQvNERwKZ"
     },
     {
       "album": {
@@ -9732,6 +9808,24 @@
       "duration_ms": 130889,
       "name": "T\u00f4t le matin",
       "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
+    },
+    {
+      "album": {
+        "name": "Un Jour Viendra",
+        "url": "https://open.spotify.com/album/34RXSvhj4VpACMwyx1LDeX"
+      },
+      "artists": [
+        {
+          "name": "Francis Laplanne",
+          "url": "https://open.spotify.com/artist/5CKQ9qNvPaV6mZ3eeOcUMY"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104051,
+      "name": "Un Jour Viendra",
+      "url": "https://open.spotify.com/track/3ccBuCUCjkArY2U3x3gA8s"
     },
     {
       "album": {

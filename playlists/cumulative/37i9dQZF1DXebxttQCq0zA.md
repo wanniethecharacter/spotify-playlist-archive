@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-328 songs - 16 hr 53 min
+329 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [Sangre](https://open.spotify.com/track/6eck4C7AFDsmv8AAwozNa1) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Sangre](https://open.spotify.com/album/4HZ6xvpX9SxOHE2JX72iar) | 3:46 | 2022-05-25 |  |
 | [Sapnis](https://open.spotify.com/track/0UmxO4xdWoH3hRUQwcqdqC) | [Pax Gene](https://open.spotify.com/artist/1IxEav5X3hEPqk0of4PY1I) | [Sapnis](https://open.spotify.com/album/4T8YxsVIllqkGfBz1RRUhW) | 3:37 | 2022-05-25 |  |
 | [Sapphire Destiny](https://open.spotify.com/track/4MX7s8DZ4nIAWhtPzaUK41) | [Real'ax Melody](https://open.spotify.com/artist/0PJmEawyjX5GHTMYmOZSif) | [A Relaxed Sleep](https://open.spotify.com/album/6tK8199QPE2y52zzGjxvkO) | 4:20 | 2022-05-25 | 2023-02-18 |
-| [Seascapes](https://open.spotify.com/track/18ZduE8dvitDNwas6MkmhR) | [Furna](https://open.spotify.com/artist/2MtNVvbfAnblCOA9RXKfBx) | [Seascapes](https://open.spotify.com/album/2dGui3KCKyBOlpNqKVgqJH) | 2:57 | 2022-11-11 |  |
+| [Seascapes](https://open.spotify.com/track/18ZduE8dvitDNwas6MkmhR) | [Furna](https://open.spotify.com/artist/2MtNVvbfAnblCOA9RXKfBx) | [Seascapes](https://open.spotify.com/album/2dGui3KCKyBOlpNqKVgqJH) | 2:57 | 2022-11-11 | 2023-03-15 |
 | [Secret Haven](https://open.spotify.com/track/0sk2c1F1WqhnBDFlxefiQM) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Secret Haven](https://open.spotify.com/album/6VjqiyIPItbntWdMsTH3DB) | 4:30 | 2022-05-25 | 2022-09-28 |
 | [Seguro](https://open.spotify.com/track/33jgsXDccgPQ6C4LLLPwhp) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Descanso](https://open.spotify.com/album/1pzm6eTtrCOHYuyqGeCpoZ) | 2:37 | 2022-07-08 |  |
 | [Selama Aku Bersamamu](https://open.spotify.com/track/6j3XbhOPbyAqJcYc1gkRdS) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Selama Aku Bersamamu](https://open.spotify.com/album/14AvT6nrlER3v91lS8MvDs) | 4:12 | 2022-05-25 |  |
@@ -257,6 +257,7 @@
 | [Serene Clarity](https://open.spotify.com/track/0eZzQlr30pDYx9us8zfVx5) | [Lulu Ray](https://open.spotify.com/artist/31JkhPiJvenq0fyg2UzdWJ) | [Serene Clarity](https://open.spotify.com/album/4mWj1SQTEpfWSPK93thFE8) | 2:19 | 2023-01-20 |  |
 | [Serenity](https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va) | [Eva Slott](https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe) | [Serenity](https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm) | 2:19 | 2022-05-25 | 2022-09-28 |
 | [Serenity](https://open.spotify.com/track/31eJBMnqWEXV3V1YyjP8RT) | [Sayono](https://open.spotify.com/artist/0LABSw5NxTGsqlRQxlGQHD) | [Serenity](https://open.spotify.com/album/7bj8tEfuvbhZBgAFhSErLE) | 2:50 | 2023-02-03 |  |
+| [Serenity](https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Serenity](https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro) | 2:33 | 2023-03-14 |  |
 | [Serum](https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM) | [Cieri](https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL) | [Serum](https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT) | 3:44 | 2022-05-25 |  |
 | [Shasta \- Meditation Mix](https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Paradiso \(Meditation Mix\)](https://open.spotify.com/album/2NWm5EjnnTktWmN2pI87XH) | 3:01 | 2022-05-25 |  |
 | [She’ll be right](https://open.spotify.com/track/0ttVkIiUhVo6j6cxJ6Rnbr) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [She’ll be right](https://open.spotify.com/album/0lhVRQb6dOfoet7rJtPBYg) | 3:15 | 2022-05-25 |  |

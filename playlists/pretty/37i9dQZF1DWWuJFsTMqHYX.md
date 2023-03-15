@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,980 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,280 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 49 | [Penda Djiga](https://open.spotify.com/track/0ra3K6wNCFVYTu2AFsmiR7) | [Afel Bocoum](https://open.spotify.com/artist/06Ib5crxFFg8jg3q8ZP77W) | [Penda Djiga](https://open.spotify.com/album/4eIINnCLgKF5hUcXyk0dIE) | 4:32 |
 | 50 | [Arghane Manine](https://open.spotify.com/track/1lH8iTfrXyg2RFNbRT4sgO) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Kel Tinariwen](https://open.spotify.com/album/4flAylJfbXX7DVPH7oaS6d) | 5:00 |
 
-Snapshot ID: `MTY3NTY3OTIzNCwwMDAwMDAwMGU1MDkyNzVjNGU1MjdjOWMzYTg3YzBmMWE2MjczNjUz`
+Snapshot ID: `MTY3NTY3OTIzNCwwMDAwMDAwMDU2N2NkMDc2NGNkNDYyMmFmMWYxOTc3MmJhNzU4NGEy`

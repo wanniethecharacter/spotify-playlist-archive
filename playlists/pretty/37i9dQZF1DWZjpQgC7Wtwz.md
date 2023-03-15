@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > ¡Hay tamales! ¡Tamales calientitos! Verdes, rojos, de dulce, de mole, ¡y hasta oaxaqueños!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,336 likes - 125 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,447 likes - 125 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 124 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 |
 | 125 | [El Matador](https://open.spotify.com/track/3EsjrObXPhXA79Cr4QixY8) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [20 Grandes Exitos](https://open.spotify.com/album/6Qb0f1j9fnfpraiPN509RI) | 4:34 |
 
-Snapshot ID: `MTY3MzM5Mzc5OSwwMDAwMDAwMGJhMjQwOWNkMGJmOGUwNDM3OTk3OGIzNzhiNTNiMjg3`
+Snapshot ID: `MTY3MzM5Mzc5OSwwMDAwMDAwMDM2OTUxMDdhOWM5ZDZjNzdkOTIyOTZmNGY3NDcyMDIy`

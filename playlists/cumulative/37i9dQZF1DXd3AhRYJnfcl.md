@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف: أحمد كامل
 
-160 songs - 9 hr 18 min
+161 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [بيتكلم عليا](https://open.spotify.com/track/7yqw4f8ovU2HuuQmfy4kVu) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Byetkallem Aalaya](https://open.spotify.com/album/0in1Cb14BGgSyvwOHWpNni) | 4:17 | 2022-12-06 | 2023-02-14 |
 | [جوب](https://open.spotify.com/track/00iZxf2j4qUqsSa7HOngwZ) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [جوب](https://open.spotify.com/album/0sUROVLFIxptdj9P8Vssyn) | 4:10 | 2022-09-26 |  |
 | [حدوته المانى](https://open.spotify.com/track/1hpjMinSryyJGslYdF0cyy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 2:37 | 2022-09-26 |  |
-| [حمرا حمو الطيخا](https://open.spotify.com/track/0O31XAenULKHHAE5wQjhMs) | [Hr\-Muisc1](https://open.spotify.com/artist/2hmqMeLn6oIt4CJS0Wxr0W) | [حمرا حمو الطيخا](https://open.spotify.com/album/6pzMvIbmXlPYgxHCcni6py) | 3:38 | 2023-03-09 |  |
+| [حمرا](https://open.spotify.com/track/0nkJCooURSEVpWFpeYOzeI) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [حمرا](https://open.spotify.com/album/0g8MIat372o8vp1Shk1sMe) | 3:38 | 2023-03-14 |  |
+| [حمرا حمو الطيخا](https://open.spotify.com/track/0O31XAenULKHHAE5wQjhMs) | [Hr\-Muisc1](https://open.spotify.com/artist/2hmqMeLn6oIt4CJS0Wxr0W) | [حمرا حمو الطيخا](https://open.spotify.com/album/6pzMvIbmXlPYgxHCcni6py) | 3:38 | 2023-03-09 | 2023-03-15 |
 | [خطوة اجباري](https://open.spotify.com/track/06h6dQDVdXjnIOXGXabW02) | [نور النبوي](https://open.spotify.com/artist/2lvyyBvz0mMzl57uxbzQ15), [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [خطوة اجباري](https://open.spotify.com/album/74il7VqlKq7JEM1oiTrIm5) | 1:50 | 2022-06-07 |  |
 | [ستو أنا](https://open.spotify.com/track/0BCEJXmemL21JvNNoOB5TT) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb), [Hanady Mehanna](https://open.spotify.com/artist/5v3hMjviVKzTsRKjiUFiGT) | [مكتوب عليا \(أغاني المسلسل التلفزيوني الأصلي\)](https://open.spotify.com/album/7CNSRnoyRE1QhSWksa8OFs) | 2:21 | 2022-05-19 | 2023-01-03 |
 | [ضحكت](https://open.spotify.com/track/3YMUYoWu7jr3wuue0YAX8H) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [الليلادي](https://open.spotify.com/album/47vmIDfQcrWXHK0xeN9TXo) | 3:30 | 2023-02-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,176 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,253 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 99 | [Mi Arbol Y Yo](https://open.spotify.com/track/4un7tX9V9E4O06ogDdtSpv) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [Mi Arbol Y Yo](https://open.spotify.com/album/3xE56OcK19QNVNr7EUoE3o) | 3:33 |
 | 100 | [Fue un Placer Conocerte](https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 3:00 |
 
-Snapshot ID: `MTY3MjQyNjM5NiwwMDAwMDAwMDRhNDMwZGY3ZDc1NTUzZDY0NWM0N2UyMmYzNTQ5YWVm`
+Snapshot ID: `MTY3MjQyNjM5NiwwMDAwMDAwMDVjMzhlZjE4ODljZGZlM2JlZWQwNTE4OTQzMzEzZWFi`

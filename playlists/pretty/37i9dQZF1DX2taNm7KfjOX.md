@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,904 likes - 150 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,008 likes - 150 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [Mecca](https://open.spotify.com/track/5lXex7KyHe7PSaRG5eJ4Mm) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 4:51 |
 | 150 | [Hummed Low](https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Odessa](https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH) | 3:35 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGY5ZTAwNzk0ODkyZDZlYzRiZTUwNWM1MTMyNTk4M2Zl`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGY0NTRjZTcxMjhjOWZkYTZjZDMxMzkzNmFjYzU0NGJj`

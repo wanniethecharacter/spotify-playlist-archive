@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,277 likes - 157 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,360 likes - 157 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 156 | [Deep Forest](https://open.spotify.com/track/2Sn8YGxZe2K2dM1HBGYoxA) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Deep Forest](https://open.spotify.com/album/7AW5VWkIfnIC4iN50cuCmi) | 1:46 |
 | 157 | [La Storia D'Amor](https://open.spotify.com/track/2FNvWhfz1C20qwZaADbkcz) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [La Storia D'amor](https://open.spotify.com/album/1TlO2EbMobeLY5DQncxm1Q) | 2:50 |
 
-Snapshot ID: `MTY3NzIzNDAyMSwwMDAwMDAwMDhkMTY3YzE1ODM3NDkwMDU3MjliNzBiNWQ5MDM3MjEy`
+Snapshot ID: `MTY3NzIzNDAyMSwwMDAwMDAwMGI4YmE3N2ZlYThmZThiOWE4ZjA4YWJjODEzNjA3M2E2`

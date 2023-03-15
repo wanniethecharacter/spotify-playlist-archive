@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hc6vjTG8Od.md) - [plain]
 
 > Energy is <a href ="spotify:artist:6zsJjoCtL1WByG0VsuFWzR">BLOND:ISH</a> currency and that is what you'll get when you hear her latest mix for Spotify!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,341 likes - 16 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,350 likes - 16 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hold Tight \(feat\. Darla Jade\) \- Mixed](https://open.spotify.com/track/3XT6yWtOXWFL4ilFsWMHCS) | [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Hold Tight \(feat\. Darla Jade\) \[Mixed\]](https://open.spotify.com/album/22slRioxWfxtD7fM0iIfEJ) | 2:57 |
 | 2 | [Zimbabwe \- Kintar Remix \- Mixed](https://open.spotify.com/track/0MddDTtXeJCAVjkemdJnbS) | [Sound of Bam](https://open.spotify.com/artist/1WoJDrxx1Np6um5VZNepe9), [KOBAIEN](https://open.spotify.com/artist/0N5BVAMacv1bBPdLYmJLky), [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta), [Kintar](https://open.spotify.com/artist/4WZgFtQLzzmubwRq44JOjT) | [Zimbabwe \- Kintar Remix \(Mixed\)](https://open.spotify.com/album/34hJkqspyDCXgBFqyZLfxh) | 3:28 |
 | 3 | [Remember Me \- Franky Rizardo Remix \- Mixed](https://open.spotify.com/track/1fDA3ldy7BAaBCYxjQa0Fz) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Remember Me \- Franky Rizardo Remix \(Mixed\)](https://open.spotify.com/album/6jGm6skYHIBqAwO4YOryaN) | 2:44 |
-| 4 | [Sete \- Mixed](https://open.spotify.com/track/3z1z13mLyhJpkpjeHl6XnG) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Mixed\)](https://open.spotify.com/album/6YAvqHUF2IFDBXGhxWhH7Q) | 5:16 |
+| 4 | [Sete \- Mixed](https://open.spotify.com/track/5Os694LuZGxYwEpZYHvK14) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Sete \(Mixed\)](https://open.spotify.com/album/2AkJJQgrSw1IF4URk0rsgy) | 5:16 |
 | 5 | [Vamonos \- Mixed](https://open.spotify.com/track/5IXyh5cA3w0ZcWrRtF9uv2) | [Gabsy](https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc), [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m) | [Vamonos \(Mixed\)](https://open.spotify.com/album/0NwubSxI3wBH3kVVmEX6jj) | 4:28 |
 | 6 | [Fluto \- Erik Hagleton & Chris Garcia Remix \- Mixed](https://open.spotify.com/track/2AJORf6BHuihu8Ksu25eDb) | [Erik Hagleton](https://open.spotify.com/artist/7doZ5BXwD0nDdlSQY6f7VX), [Africanism](https://open.spotify.com/artist/3E9XtGFNNweLtiR8y5aZO5) | [Fluto \- Erik Hagleton & Chris Garcia Remix \(Mixed\)](https://open.spotify.com/album/2pcG3d9EqOcQzy6ha86cAN) | 4:12 |
 | 7 | [Voices Above \- Mixed](https://open.spotify.com/track/3qPZTEbn9IaGSpkqKnuPSu) | [Archila](https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Voices Above \(Mixed\)](https://open.spotify.com/album/4pzNZx9XvntTMd56jw310j) | 2:37 |
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hc6vjTG8Od.md) - [plain]
 | 15 | [I Want To Know What Love Is \- BLOND:ISH Sunrise Jungle Rework \- Mixed](https://open.spotify.com/track/7cKF95yfs14qbCHFPjpMuH) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [I Want To Know What Love Is \- BLOND:ISH Sunrise Jungle Rework \(Mixed\)](https://open.spotify.com/album/6S2Y7tclhhum1eeVcN2bHY) | 4:33 |
 | 16 | [Papa Sooma \- Mixed](https://open.spotify.com/track/6XSeqhGLwqGdbbkDASXyJ6) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Papa Sooma \(Mixed\)](https://open.spotify.com/album/22PmTFxwE6CGPBev5lIq6U) | 3:47 |
 
-Snapshot ID: `MTY2NjMzMzQzMiwwMDAwMDAwMGU0MzJmN2JlNWM4OWJjODBmMDQyMjNlNGUwYmQ5ODUw`
+Snapshot ID: `MTY2NjMzMzQzMiwwMDAwMDAwMGU0ZmI2ZTI1MDAwMTU2MjkzZjg0N2RiZDQ5MGU3NDFl`

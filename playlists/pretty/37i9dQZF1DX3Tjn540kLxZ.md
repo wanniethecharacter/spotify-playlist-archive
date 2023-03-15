@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 
 > all\-day bops you can always rely on ◡̈
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,173 likes - 150 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,199 likes - 150 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 149 | [Neon Signs](https://open.spotify.com/track/6JZj85Iz5sc4cGKvOefO7G) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Milk Teeth](https://open.spotify.com/album/2SH7pbrUVL6DRWB6g8BALw) | 3:13 |
 | 150 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/3oqztHfES8jYMyrxPMzWwc) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/album/4Rmv2DGTZuxsULDbhU5L49) | 3:15 |
 
-Snapshot ID: `MTY3Njk3MzQ5NiwwMDAwMDAwMDFlYmYzMjUyYTAwMTQ2Mjc3YmUwYzE5ODA4MjZhMGY5`
+Snapshot ID: `MTY3Njk3MzQ5NiwwMDAwMDAwMDQ2MzQ4NGNhMjFkMTk3ODFjMGI3MDQ5MTQ0ZjlhMzQz`

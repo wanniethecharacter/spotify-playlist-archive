@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Weathers
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,262 likes - 102 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,314 likes - 102 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 101 | [Kaden's Van](https://open.spotify.com/track/6xYUqjuiCUX5ZX6V7EKfSw) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Kaden's Van](https://open.spotify.com/album/3GKk6TY6hsUXHzyXrtfvgH) | 2:37 |
 | 102 | [Dress](https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dress](https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys) | 3:26 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDBlMDQ2MGUyOTlmNTM0ZGQ5ODIzNjg2NDRjMmQwNjU4`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDNmZWI3MTcwYTI0Nzk0ZmUwNWNmZTA0YmNiN2Y0YWIx`

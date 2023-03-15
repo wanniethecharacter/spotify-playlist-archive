@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Michaël Brun
 
-160 songs - 9 hr 37 min
+161 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Ma Woule](https://open.spotify.com/track/4pQ0DgbyyAjOQB3K6YruAl) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Jean Caze](https://open.spotify.com/artist/6QH5fVIRcgRBVVhOM3P5hv) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/0RahduaPCp3gU0jRK3zZHy) | 5:09 | 2021-12-06 | 2022-07-29 |
 | [Mafia](https://open.spotify.com/track/0HcT7vpmX7KXbaCMEus16l) | [Kai](https://open.spotify.com/artist/7B6Ajzkbv8vuRUJfOZE9GH), [Kenny Haiti](https://open.spotify.com/artist/4uq6GFJfxdvAJpyTHUAHTf) | [Mafia](https://open.spotify.com/album/7lWSZKNdrWOFr2x8vjbEx0) | 5:05 | 2021-12-06 | 2023-02-18 |
 | [Melanin](https://open.spotify.com/track/6YPJ5TbzwDltVrRR39bGzC) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Melanin](https://open.spotify.com/album/7GeOqIQ7BCbwZmjwpjqeLQ) | 2:13 | 2021-12-06 | 2022-10-14 |
-| [Melanin](https://open.spotify.com/track/0YLZrWyAqDBpuvSs7UxFX8) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Melanin](https://open.spotify.com/album/49sOQL7iLZeJj1ibp2ooIN) | 2:13 | 2022-09-30 |  |
+| [Melanin](https://open.spotify.com/track/0YLZrWyAqDBpuvSs7UxFX8) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Melanin](https://open.spotify.com/album/49sOQL7iLZeJj1ibp2ooIN) | 2:13 | 2022-09-30 | 2023-03-15 |
+| [Melanin](https://open.spotify.com/track/74sVNFKqFoOMqaeNYpeiIT) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Melanin](https://open.spotify.com/album/1KfykaXnpStmzaXXS6VcEm) | 2:13 | 2023-02-17 |  |
 | [Mennaj Moun Yo](https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo) | [Mennaj Moun Yo](https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7) | 3:08 | 2023-02-17 |  |
 | [Mercy](https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1) | [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Mercy](https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK) | 2:33 | 2022-07-14 |  |
 | [MiMi Miaww](https://open.spotify.com/track/2a1rMqQOgb3qyXmBSicii1) | [Roody Roodboy](https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN) | [MiMi Miaww](https://open.spotify.com/album/4NnAXDysCCzGhxLYisCuoj) | 4:24 | 2021-12-06 | 2022-05-13 |

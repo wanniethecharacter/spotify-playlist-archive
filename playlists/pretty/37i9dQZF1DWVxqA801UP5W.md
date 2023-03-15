@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Sam Ryder
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,550 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,542 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 49 | [Nice To Meet Ya \- Diplo Remix](https://open.spotify.com/track/2r4mpuIYFgKsjeykJTQMqX) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nice To Meet Ya \(Diplo Remix\)](https://open.spotify.com/album/3UuXPv0M71CU6m3On0wIwb) | 3:35 |
 | 50 | [OK Not To Be OK \- Duke & Jones Remix](https://open.spotify.com/track/3qRBN8te6leaLPLXQ7ML9A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [OK Not To Be OK \(Duke & Jones Remix\)](https://open.spotify.com/album/3VEYp7SGrFbn6P91uTiY5J) | 2:34 |
 
-Snapshot ID: `MTY1NTczMTAxMCwwMDAwMDAwMDYxOWI3OTkzZDc4MjQ4MTYyYzc3MjI0ODY1MGUwYWM3`
+Snapshot ID: `MTY1NTczMTAxMCwwMDAwMDAwMDI5YzU5NGViOTAxYzlhMjFlOTE0MDJlYzM3MzZhNWQ4`

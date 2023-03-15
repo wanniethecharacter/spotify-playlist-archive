@@ -1,12 +1,12 @@
 {
   "description": "Up & coming Indonesian producer <a href=\"spotify:artist:7kA4sEagpoNK91I7wr9tYr\">Bleu Clair</a> brings his high-powered energy to his mix.",
-  "num_followers": 4230,
+  "num_followers": 4235,
   "original_name": "Bleu Clair's DJ Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA3ODgyOSwwMDAwMDAwMDczZjhmYzE0NDQwMTA3NzgwZjJiYmEwZDNhYzZhODkz",
+  "snapshot_id": "MTY2NTA3ODgyOSwwMDAwMDAwMDlhZDllMzI2MWZiMTRjMDU5Nzc2M2QyZmQ1YTg2ZWRj",
   "tracks": [
     {
       "added_at": "2021-12-17 15:20:42",
@@ -175,8 +175,8 @@
     {
       "added_at": "2021-12-17 15:20:42",
       "album": {
-        "name": "Haus (Mixed)",
-        "url": "https://open.spotify.com/album/3Aj2uL7YIuYe3lufNJLNf3"
+        "name": "Haus",
+        "url": "https://open.spotify.com/album/4nYcAtXkRKXmLADGMZUBVG"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Haus - Mixed",
-      "url": "https://open.spotify.com/track/6Te0wpoDi7GoqhrxYV8N8x"
+      "duration_ms": 171473,
+      "name": "Haus",
+      "url": "https://open.spotify.com/track/27Llu0CjjPMUF4bGLXJ7n6"
     },
     {
       "added_at": "2021-12-17 15:20:42",
@@ -224,21 +224,21 @@
       "added_at": "2021-12-17 15:20:42",
       "album": {
         "name": "Have Me All (feat. Jelita) [Mixed]",
-        "url": "https://open.spotify.com/album/2Ro4h8rwVVNzFAdLXfKhaz"
+        "url": "https://open.spotify.com/album/1o95XZWUO8TrxcpEjswmD1"
       },
       "artists": [
         {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        },
-        {
           "name": "Jelita",
           "url": "https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr"
+        },
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
         }
       ],
       "duration_ms": 158000,
       "name": "Have Me All (feat. Jelita) - Mixed",
-      "url": "https://open.spotify.com/track/59sqCjbqNacXS8EZILgtuD"
+      "url": "https://open.spotify.com/track/5KUB92cwkUdwubn7XSXdtb"
     },
     {
       "added_at": "2021-12-17 15:20:42",
@@ -304,21 +304,21 @@
       "added_at": "2021-12-17 15:20:42",
       "album": {
         "name": "Hyperspace (feat. Teza Sumendra) [Mixed]",
-        "url": "https://open.spotify.com/album/7MtmtT5r0gwLIbayb9ouT0"
+        "url": "https://open.spotify.com/album/6AJxmR7PYMWzH7611EAou7"
       },
       "artists": [
         {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        },
-        {
           "name": "Teza Sumendra",
           "url": "https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7"
+        },
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
         }
       ],
       "duration_ms": 232000,
       "name": "Hyperspace (feat. Teza Sumendra) - Mixed",
-      "url": "https://open.spotify.com/track/2v1FEhMiFDZzZN08tfZe4v"
+      "url": "https://open.spotify.com/track/6vsYbmd2rluMxQyRLx8mK9"
     }
   ],
   "unique_name": "Bleu Clair's DJ Mix",

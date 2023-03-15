@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: hey, nothing
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,220 likes - 125 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,282 likes - 125 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 124 | [I’ll Go Running](https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx) | 3:56 |
 | 125 | [Be There Still](https://open.spotify.com/track/7dQ76KVAyQkPqpynSmNCot) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain](https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI) | 3:35 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGFlZGY1NWI1Yjk2YzRhNTk1YTY3NTE1NzQxYThhNjZi`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDEyNDFhMzA1Y2M5ZWQ3OTRhOTUxZDE0MDM2YzI2YjJj`

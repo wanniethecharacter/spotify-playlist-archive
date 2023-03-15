@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37CqNpZIOOZ.md) - [plain]
 
 > Discover the music of Richard Strauss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,390 likes - 58 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,399 likes - 58 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37CqNpZIOOZ.md) - [plain]
 | 57 | [Symphonic Fantasie from "Die Frau ohne Schatten", TrV 234a](https://open.spotify.com/track/2OBooBFhjGORpuAc7LX3hS) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Detroit Symphony Orchestra](https://open.spotify.com/artist/1TuMl6QKOFwgQZzzhzuds4), [Antal Doráti](https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL) | [Strauss, Richard: The Tone Poems](https://open.spotify.com/album/1n4OAKBDnr5KAFQTyPpTOZ) | 20:21 |
 | 58 | [Strauss, R: An Alpine Symphony, Op\. 64: XV\. Mists Rise Up](https://open.spotify.com/track/5IJlkebGlHwi0ERYgvws24) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Rudolf Kempe](https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg), [Staatskapelle Dresden](https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7) | [Strauss: Metamorphosis & An Alpine Symphony, Op\. 64](https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN) | 0:17 |
 
-Snapshot ID: `MTY1NTcxODkyMSwwMDAwMDAwMGVhOTQ1ZDllZmZhMTU4MjNkM2RmODE0N2M2N2M4NmYw`
+Snapshot ID: `MTY1NTcxODkyMSwwMDAwMDAwMGM1MGVhZTQxNzk0MWY4MTBhNzIwMmNmNzg5ZjM1Yzk1`

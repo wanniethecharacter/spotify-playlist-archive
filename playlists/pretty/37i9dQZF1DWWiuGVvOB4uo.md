@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 
 > Acoustic covers of all your favourite songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,161 likes - 127 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,359 likes - 127 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 126 | [Steal My Sunshine](https://open.spotify.com/track/5nt4jj7r2dCnR9chlOaiur) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Steal My Sunshine](https://open.spotify.com/album/5mo1IZa96A4BsJ6AKHGHMw) | 3:42 |
 | 127 | [We Can't Stop \- Acoustic](https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [We Can't Stop \(Acoustic\)](https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk) | 2:58 |
 
-Snapshot ID: `MTY3NzIwMDQwMCwwMDAwMDAwMDVmZWMyZGM1OTI3ZDRhMGI0NWViNDAzOWQ1NmJhZjQ3`
+Snapshot ID: `MTY3NzIwMDQwMCwwMDAwMDAwMDRkMjJlYjFlZjBjMjI5YWY2NzViYTQ4M2I1ODc1YmY5`

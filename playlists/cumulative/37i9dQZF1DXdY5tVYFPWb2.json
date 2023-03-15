@@ -812,7 +812,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 169900,
       "name": "CAT'S EYE 2023",
       "url": "https://open.spotify.com/track/43yvgvumHPrqko99AlK1jX"
@@ -1295,6 +1295,40 @@
     },
     {
       "album": {
+        "name": "DOWN TOWN",
+        "url": "https://open.spotify.com/album/3yY408DUkgwhfZkouMRK0i"
+      },
+      "artists": [
+        {
+          "name": "Yu Sakai",
+          "url": "https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y"
+        },
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        },
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        },
+        {
+          "name": "Hiro-a-key",
+          "url": "https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe"
+        },
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290610,
+      "name": "DOWN TOWN",
+      "url": "https://open.spotify.com/track/3MXCCaSni8I1FSvHeMQIGV"
+    },
+    {
+      "album": {
         "name": "Draw Me (feat. VivaOla)",
         "url": "https://open.spotify.com/album/1D5JPBryEXZFilbWtSbnS8"
       },
@@ -1350,6 +1384,24 @@
       "duration_ms": 218186,
       "name": "DRIP DRY",
       "url": "https://open.spotify.com/track/6NWT3AGvf6lBP9rH1W1d7o"
+    },
+    {
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/1WphwJpdlrhrRfSG5tZ2VQ"
+      },
+      "artists": [
+        {
+          "name": "\u9ad9\u6a4b\u591a\u805e",
+          "url": "https://open.spotify.com/artist/71GnUG4fPTeVn1h7PwUbNs"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273662,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/0UyjuTpVs3puSMGJQYY1W4"
     },
     {
       "album": {
@@ -1488,6 +1540,28 @@
       "duration_ms": 313561,
       "name": "Falling",
       "url": "https://open.spotify.com/track/171kFwAAFjLusKsyR2p1kp"
+    },
+    {
+      "album": {
+        "name": "FANCITY",
+        "url": "https://open.spotify.com/album/0N8RNhddtJnfB6ZxMfnCoj"
+      },
+      "artists": [
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        },
+        {
+          "name": "Soulflex",
+          "url": "https://open.spotify.com/artist/4wzBvv8o6GlsTLTEkH4SsS"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242143,
+      "name": "FANCITY",
+      "url": "https://open.spotify.com/track/7cOKzEqICjz5E0DtjXpU0K"
     },
     {
       "album": {
@@ -2556,7 +2630,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 250400,
       "name": "Left Alone feat. \u571f\u5c90\u9ebb\u5b50",
       "url": "https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25"
@@ -4416,7 +4490,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 255615,
       "name": "SODA",
       "url": "https://open.spotify.com/track/1QBvnrIvjaor7TNR39oIyA"
@@ -4710,7 +4784,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 220000,
       "name": "STEP IT",
       "url": "https://open.spotify.com/track/1orgfiHTB2opQkbwf9Gpnl"
@@ -6288,6 +6362,24 @@
       "duration_ms": 337894,
       "name": "\u3075\u305f\u308a\u306e\u30b7\u30eb\u30a8\u30c3\u30c8 (feat. \u5800\u8fbc\u6cf0\u884c)",
       "url": "https://open.spotify.com/track/4G1nLenBpqkbO2UehxVeZ1"
+    },
+    {
+      "album": {
+        "name": "\u307e\u305f\u306d",
+        "url": "https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216730,
+      "name": "\u307e\u305f\u306d",
+      "url": "https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u"
     },
     {
       "album": {

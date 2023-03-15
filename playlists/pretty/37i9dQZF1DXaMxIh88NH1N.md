@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 
 > Al cien con los corridos ¡Para un buen ejercicio!
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,101 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,344 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 | 99 | [El Sera Y El Chavo](https://open.spotify.com/track/1r0C4tN59CyDYQdYcwzbFP) | [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Sera Y El Chavo](https://open.spotify.com/album/1URllllJhLaOq9RD3uR3Zz) | 2:27 |
 | 100 | [DEL Negociante](https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:23 |
 
-Snapshot ID: `MTY3NDgwMTg2NSwwMDAwMDAwMGQ4NTRlZjAzNjk2ZTE5NzcyNmQwYmRjOGI3NWViMzky`
+Snapshot ID: `MTY3NDgwMTg2NSwwMDAwMDAwMGY1NjY3OWEwNDZiZmU2YjUxZTE2YzhiMDkzZDkyYWY0`

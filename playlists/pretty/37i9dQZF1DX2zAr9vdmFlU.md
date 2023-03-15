@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,931 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,059 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 99 | [Naranjo En Flor](https://open.spotify.com/track/4cAHUruX1d4Ukw7rkPrJQ9) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Bajofondo Tango Club](https://open.spotify.com/album/27biw4fIpaTxPJqrSbL7ZM) | 4:38 |
 | 100 | [Cattin' Latin](https://open.spotify.com/track/2U5ceAAb10OELgDJ8YVuxl) | [Dave Pike](https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl) | [The Carnival Samba](https://open.spotify.com/album/2sK8QxfxxHE6ky4OVuXLsz) | 4:47 |
 
-Snapshot ID: `MTY3ODIyMzg0NiwwMDAwMDAwMGQxYjUzMjI3MzZkZDgwNTIxYzhiYzZiYjQ3N2Y0MmQ1`
+Snapshot ID: `MTY3ODIyMzg0NiwwMDAwMDAwMDQ4Njk3NTk3ODM1NDg2OTIzMGNkMmE5NWJhMjJlOWRk`

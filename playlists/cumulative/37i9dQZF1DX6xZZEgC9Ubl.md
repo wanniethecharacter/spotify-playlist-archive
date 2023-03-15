@@ -2,7 +2,7 @@
 
 ### [tear drop](https://open.spotify.com/playlist/37i9dQZF1DX6xZZEgC9Ubl)
 
-> In your bag\. Cover: Kxllswxtch
+> Emo feels for the misunderstood\. Cover: BONES
 
 784 songs - 1 day 11 hr 36 min
 

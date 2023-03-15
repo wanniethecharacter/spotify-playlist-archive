@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,180 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,274 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 99 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 |
 | 100 | [Somewhere Over The Rainbow](https://open.spotify.com/track/0XtrAxuinvQ9qrlSr2rzPN) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso), [Sofia Källgren](https://open.spotify.com/artist/09OnYkvpmVXXKqr2yHAIuL), [Magnus Johansson](https://open.spotify.com/artist/5GQ7Kzcksxq6fWEoLWKbnz) | [Somewhere Over The Rainbow](https://open.spotify.com/album/337Z0b0xL3IXpfnvgpfm0H) | 4:34 |
 
-Snapshot ID: `MTY3ODI4MzIzMywwMDAwMDAwMGExNTI4ZTAzODk2NTU3OTUwYjJhYjNjYzNjNzc2NjQy`
+Snapshot ID: `MTY3ODI4MzIzMywwMDAwMDAwMGE4NTY4YmE0ZjgxNDRiYmZmNWViMWQ3YmU5NWIwYTU5`

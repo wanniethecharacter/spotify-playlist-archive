@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Nia Archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,524 likes - 74 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,528 likes - 74 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 73 | [Need You](https://open.spotify.com/track/5HWybXhMxw8W8t0sUPysxf) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Need You](https://open.spotify.com/album/3yVl1zSI4SBQGVIpUEcDKF) | 3:34 |
 | 74 | [Without You](https://open.spotify.com/track/6zvutAcF7S2uJyNWVYeyk8) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [Without You](https://open.spotify.com/album/5HzikeJkDjre6mvkabWM1g) | 3:17 |
 
-Snapshot ID: `MTY3ODM2NjgwMCwwMDAwMDAwMDRiMWMwYjZhYmZmZTcwZGUyYTcyZDRlMTA0NDRlMzU0`
+Snapshot ID: `MTY3ODM2NjgwMCwwMDAwMDAwMDBjMDk0NDQxOTVmZGY3YTYxMTg2ZjA3MDFlZDFiOTY2`

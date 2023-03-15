@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,352 likes - 100 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,423 likes - 100 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 99 | [Alone Together](https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 7:34 |
 | 100 | [Dukes Place](https://open.spotify.com/track/5CPy7jJup06T0xfzYK7xwr) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Tell It The Way It Is](https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi) | 5:28 |
 
-Snapshot ID: `MTY3ODM1NTMyNSwwMDAwMDAwMDU1OTgwOWZiYTQ0MTA2MjgxY2NlMGQ1YzhiMDlmNmNl`
+Snapshot ID: `MTY3ODM1NTMyNSwwMDAwMDAwMGRkZDExMDJiODY1NWM4ODhlODUzMjUyMGZiMzFjM2Qy`

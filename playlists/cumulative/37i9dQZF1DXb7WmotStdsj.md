@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-144 songs - 11 hr 36 min
+145 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Ga3 Li Srali](https://open.spotify.com/track/4VwGNd7gYBkudOycgXZWpF) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Ga3 Li Srali](https://open.spotify.com/album/2UIsgooFCMOW5g3cVIH6lX) | 3:34 | 2021-10-19 | 2022-09-21 |
 | [Galbek Hnin](https://open.spotify.com/track/4KDcEc96txreeEubzdDPbD) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Galbek Hnin](https://open.spotify.com/album/1MOev2y0PJadIp52sXjwW2) | 4:00 | 2022-11-14 | 2022-11-21 |
 | [Galbi 3lik Nberdah](https://open.spotify.com/track/1dNtGFaYXVYZScOHJDxHop) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A), [Yousri Osqar](https://open.spotify.com/artist/7g2JUs53eAMoNovszsQtay) | [Galbi 3lik Nberdah](https://open.spotify.com/album/3NPdCimnGE3NROx5bGPr4y) | 5:07 | 2022-12-25 |  |
+| [Galbi Khasah Molah](https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Galbi Khasah Molah](https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT) | 4:26 | 2023-03-14 |  |
 | [Galbi Ndirleh 3asas](https://open.spotify.com/track/2o9EZRu4Mx5GMFnJi9WpIC) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Ndirleh 3asas](https://open.spotify.com/album/37pvma3AHWm2qQUjh9tA2g) | 2:53 | 2023-01-03 |  |
 | [Ghazali](https://open.spotify.com/track/3LhtZaCJX2Z5pGFQGK6nP0) | [Artisan Dz](https://open.spotify.com/artist/1v8wfWfx4RqBm2Mqy1v9o9) | [Ghazali](https://open.spotify.com/album/1BD51EjGSTPgMyfQoA6VwG) | 5:04 | 2022-10-03 | 2022-10-09 |
 | [Ghazali](https://open.spotify.com/track/6JBqQLrTxG8wigGUGshYUN) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [Ghazali](https://open.spotify.com/album/3W7Td1MGNtH7PqGMpbtb57) | 5:04 | 2022-12-05 |  |

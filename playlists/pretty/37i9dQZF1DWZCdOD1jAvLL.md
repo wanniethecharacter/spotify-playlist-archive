@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Rezz
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,957 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,102 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 79 | [All I Want](https://open.spotify.com/track/1azvFwFJWipzA89MPBRMfj) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5), [matthew james](https://open.spotify.com/artist/00KE0BfmidRniw6CYYnXJy) | [All I Want](https://open.spotify.com/album/4fwVsLLJVk9nXGOYEVhaXJ) | 3:08 |
 | 80 | [Halcyon \- Bensley Remix](https://open.spotify.com/track/2EZPBMS2uL5CoI0P0wmlWt) | [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF), [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [The Resonance V](https://open.spotify.com/album/2i13ug5QaD2KH7AiQpkJGi) | 4:08 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDBiN2ZkNDBmYTI3ZTNlNjUxY2FhMTMzYzA4YjgxZGI3`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDJlOTRlYjg0ZDliYWEzMWYzMjcxMWRkOTg4YmUyZmY5`

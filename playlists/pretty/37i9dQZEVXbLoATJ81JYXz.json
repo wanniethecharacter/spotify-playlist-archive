@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Sweden.",
-  "num_followers": 607179,
+  "num_followers": 607210,
   "original_name": "Top 50 - Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzMyMDE0OTgxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzMyMTAyMDkzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "Six Feet Under",
         "url": "https://open.spotify.com/album/1VujeZarJaiO5ZUCI5ed6G"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/5DYCuzBPf13q0QZwQvjYzi"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 202954,
+      "name": "Har Dig",
+      "url": "https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "Air",
         "url": "https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "Mer av dig",
         "url": "https://open.spotify.com/album/3waGWjneO6tOSEAzfHusNp"
@@ -73,7 +89,23 @@
       "url": "https://open.spotify.com/track/7xzgJNufqvox5oQQa1dP1O"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "G63",
+        "url": "https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 162105,
+      "name": "G63",
+      "url": "https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "Where You Are (S\u00e1ve\u017ean)",
         "url": "https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE"
@@ -97,103 +129,7 @@
       "url": "https://open.spotify.com/track/4zPqv04ddAFwk2Pgz3jC9U"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "Sl\u00e4pp alla sorger",
-        "url": "https://open.spotify.com/album/1gsNlkpVeWYGcMUg116nlc"
-      },
-      "artists": [
-        {
-          "name": "Nordman",
-          "url": "https://open.spotify.com/artist/71c9ORC5hHt0J1TGCa5nxN"
-        }
-      ],
-      "duration_ms": 183840,
-      "name": "Sl\u00e4pp alla sorger",
-      "url": "https://open.spotify.com/track/4lGrF9Fk8wJ6nLgcuRdFre"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "PISTOLER POESI OCH SEX",
-        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 202954,
-      "name": "Har Dig",
-      "url": "https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/0a2HYm0GJXfRRk2DsSWTVc"
-      },
-      "artists": [
-        {
-          "name": "Panetoz",
-          "url": "https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa"
-        }
-      ],
-      "duration_ms": 185688,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/710xi8haZ3Os0wip67GcmY"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "Where Did You Go",
-        "url": "https://open.spotify.com/album/2KYxGcstPy9m2aE19Y3lzD"
-      },
-      "artists": [
-        {
-          "name": "Kiana",
-          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
-        }
-      ],
-      "duration_ms": 171253,
-      "name": "Where Did You Go",
-      "url": "https://open.spotify.com/track/1tPzSRXNZbPKQbVh3yv7rs"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "G63",
-        "url": "https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 162105,
-      "name": "G63",
-      "url": "https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 200600,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "KURIRER",
         "url": "https://open.spotify.com/album/0q4FcnWY4RnXpgsPRNS8Cy"
@@ -213,55 +149,71 @@
       "url": "https://open.spotify.com/track/7dLIb2FTMx0EKSAipHov7P"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
-        "name": "Never Give Up",
-        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
+        "name": "Sl\u00e4pp alla sorger",
+        "url": "https://open.spotify.com/album/1gsNlkpVeWYGcMUg116nlc"
       },
       "artists": [
         {
-          "name": "Maria Sur",
-          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+          "name": "Nordman",
+          "url": "https://open.spotify.com/artist/71c9ORC5hHt0J1TGCa5nxN"
         }
       ],
-      "duration_ms": 179893,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
+      "duration_ms": 183840,
+      "name": "Sl\u00e4pp alla sorger",
+      "url": "https://open.spotify.com/track/4lGrF9Fk8wJ6nLgcuRdFre"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
-        "name": "Rhythm Of My Show",
-        "url": "https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE"
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/0a2HYm0GJXfRRk2DsSWTVc"
       },
       "artists": [
         {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+          "name": "Panetoz",
+          "url": "https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa"
         }
       ],
-      "duration_ms": 165981,
-      "name": "Rhythm Of My Show",
-      "url": "https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5"
+      "duration_ms": 185688,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/710xi8haZ3Os0wip67GcmY"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
-        "name": "Royals",
-        "url": "https://open.spotify.com/album/526vMx7SZDOiOPxh8RmNCd"
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
       },
       "artists": [
         {
-          "name": "Paul Rey",
-          "url": "https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 178453,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/7Cxq5B4XJt5FrpU4Uu2BxO"
+      "duration_ms": 200600,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "Where Did You Go",
+        "url": "https://open.spotify.com/album/2KYxGcstPy9m2aE19Y3lzD"
+      },
+      "artists": [
+        {
+          "name": "Kiana",
+          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
+        }
+      ],
+      "duration_ms": 171253,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/1tPzSRXNZbPKQbVh3yv7rs"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "JAG VILL HA DIG H\u00c4R HOS MIG",
         "url": "https://open.spotify.com/album/27PgcVTjOkYNS3Y48VtyeA"
@@ -281,39 +233,7 @@
       "url": "https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "RAGGEN G\u00c5R",
-        "url": "https://open.spotify.com/album/30p5LHwQPCPkjJMvlFoyOs"
-      },
-      "artists": [
-        {
-          "name": "Elov & Beny",
-          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
-        }
-      ],
-      "duration_ms": 178693,
-      "name": "RAGGEN G\u00c5R",
-      "url": "https://open.spotify.com/track/5tq2w7SbOai77pCgdi2hcI"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "KOMMER DU IH\u00c5G?",
-        "url": "https://open.spotify.com/album/4T9cDX7VHq0uxIIotzK4Ct"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "KOMMER DU IH\u00c5G?",
-      "url": "https://open.spotify.com/track/7yfMu3Ez41fQXuD9gUbFjQ"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "Can't Tame Her",
         "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
@@ -329,39 +249,7 @@
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "B\u00e4vling",
-        "url": "https://open.spotify.com/album/6s5kpLikMJf3k3PvCExcEn"
-      },
-      "artists": [
-        {
-          "name": "Irma",
-          "url": "https://open.spotify.com/artist/5dnegcfdqoliHuDXVW5nYw"
-        }
-      ],
-      "duration_ms": 116386,
-      "name": "B\u00e4vling",
-      "url": "https://open.spotify.com/track/6PmzO31LLWsHvY0tG37m8F"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/7eB0QLTXvh52cnDFt0Ppry"
-      },
-      "artists": [
-        {
-          "name": "Mariette",
-          "url": "https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0MGC7gE67o7QluGjtMGLtA"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "Feeling Myself",
         "url": "https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU"
@@ -377,55 +265,39 @@
       "url": "https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
-        "name": "Mera mera mera",
-        "url": "https://open.spotify.com/album/2sjbpLcx2MTRtq72RoytQw"
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
       },
       "artists": [
         {
-          "name": "EMIL HENROHN",
-          "url": "https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH"
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
         }
       ],
-      "duration_ms": 178168,
-      "name": "Mera mera mera",
-      "url": "https://open.spotify.com/track/0dLe7y9Pil9ETtYuDWyrpP"
+      "duration_ms": 144890,
+      "name": "Hoodrich",
+      "url": "https://open.spotify.com/track/5o9ZvJGrZrw4iZVRsLW4cr"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
-        "name": "Babblarnas vaggvisa",
-        "url": "https://open.spotify.com/album/03qO055ZzI9jHSXuLIvjOV"
+        "name": "KOMMER DU IH\u00c5G?",
+        "url": "https://open.spotify.com/album/4T9cDX7VHq0uxIIotzK4Ct"
       },
       "artists": [
         {
-          "name": "Babblarna",
-          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
         }
       ],
-      "duration_ms": 334053,
-      "name": "Babblarnas vaggvisa",
-      "url": "https://open.spotify.com/track/1VJRxqJhpEIpnHon7ssp1p"
+      "duration_ms": 158000,
+      "name": "KOMMER DU IH\u00c5G?",
+      "url": "https://open.spotify.com/track/7yfMu3Ez41fQXuD9gUbFjQ"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "H\u00e4lsa Gud",
-        "url": "https://open.spotify.com/album/1fLQJR0wlVYgRmJaDdd2w4"
-      },
-      "artists": [
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 148799,
-      "name": "H\u00e4lsa Gud",
-      "url": "https://open.spotify.com/track/5g9gZGiXlk747pESQzmmRT"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "Die For You (Remix)",
         "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
@@ -445,7 +317,7 @@
       "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "Under n\u00e5gon ny",
         "url": "https://open.spotify.com/album/35VHFKVhL4H8Zd4rPRYHjA"
@@ -465,39 +337,55 @@
       "url": "https://open.spotify.com/track/2eOLvT5HNiHZQb4BTSiwQl"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
-        "name": "Kan Inte G\u00e5",
-        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
+        "name": "Gata",
+        "url": "https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs"
       },
       "artists": [
         {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
         }
       ],
-      "duration_ms": 146718,
-      "name": "Kan Inte G\u00e5",
-      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
+      "duration_ms": 155825,
+      "name": "Gata",
+      "url": "https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
-        "name": "Banan Melon Kiwi & Citron",
-        "url": "https://open.spotify.com/album/0nUdcTL27UO3plbL2aNGkR"
+        "name": "Babblarnas vaggvisa",
+        "url": "https://open.spotify.com/album/03qO055ZzI9jHSXuLIvjOV"
       },
       "artists": [
         {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+          "name": "Babblarna",
+          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Banan Melon Kiwi & Citron",
-      "url": "https://open.spotify.com/track/2ZfaBbRMcEgSF8JnJIaEBP"
+      "duration_ms": 334053,
+      "name": "Babblarnas vaggvisa",
+      "url": "https://open.spotify.com/track/1VJRxqJhpEIpnHon7ssp1p"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
+      },
+      "artists": [
+        {
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "PISTOLER POESI OCH SEX",
         "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
@@ -508,12 +396,12 @@
           "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
         }
       ],
-      "duration_ms": 144890,
-      "name": "Hoodrich",
-      "url": "https://open.spotify.com/track/5o9ZvJGrZrw4iZVRsLW4cr"
+      "duration_ms": 151168,
+      "name": "N\u00e5nting I Luften",
+      "url": "https://open.spotify.com/track/321RwsoTVlohBMx1nkOHmZ"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "Fr\u00e5gor",
         "url": "https://open.spotify.com/album/6QQXRFWvjqm4hZERcDshxN"
@@ -529,7 +417,23 @@
       "url": "https://open.spotify.com/track/3OHkL376IJhmHCUPgwKu9P"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 103227,
+      "name": "Rap \u00c4r Ingen Konst",
+      "url": "https://open.spotify.com/track/506EpbgpJcknwVjuDSUekl"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
@@ -549,7 +453,159 @@
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "HARKI",
+        "url": "https://open.spotify.com/album/2Pit0Gz40DEVhx71C6ZtUz"
+      },
+      "artists": [
+        {
+          "name": "Gaboro",
+          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
+        }
+      ],
+      "duration_ms": 120624,
+      "name": "HARKI",
+      "url": "https://open.spotify.com/track/2EayJFSji4xEOIM4Ur8gik"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "Kan Inte G\u00e5",
+        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 146718,
+      "name": "Kan Inte G\u00e5",
+      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "H\u00e4lsa Gud",
+        "url": "https://open.spotify.com/album/1fLQJR0wlVYgRmJaDdd2w4"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 148799,
+      "name": "H\u00e4lsa Gud",
+      "url": "https://open.spotify.com/track/5g9gZGiXlk747pESQzmmRT"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "Du & Jag",
+        "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
+      },
+      "artists": [
+        {
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+        }
+      ],
+      "duration_ms": 132150,
+      "name": "Du & Jag",
+      "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "Royals",
+        "url": "https://open.spotify.com/album/526vMx7SZDOiOPxh8RmNCd"
+      },
+      "artists": [
+        {
+          "name": "Paul Rey",
+          "url": "https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/7Cxq5B4XJt5FrpU4Uu2BxO"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "RAGGEN G\u00c5R",
+        "url": "https://open.spotify.com/album/30p5LHwQPCPkjJMvlFoyOs"
+      },
+      "artists": [
+        {
+          "name": "Elov & Beny",
+          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
+        }
+      ],
+      "duration_ms": 178693,
+      "name": "RAGGEN G\u00c5R",
+      "url": "https://open.spotify.com/track/5tq2w7SbOai77pCgdi2hcI"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "Rhythm Of My Show",
+        "url": "https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE"
+      },
+      "artists": [
+        {
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+        }
+      ],
+      "duration_ms": 165981,
+      "name": "Rhythm Of My Show",
+      "url": "https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "Somna med Humlan Djojj",
+        "url": "https://open.spotify.com/album/7Fwal5B7DbHxVEjZRmckum"
+      },
+      "artists": [
+        {
+          "name": "Humlan Djojj",
+          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+        }
+      ],
+      "duration_ms": 140046,
+      "name": "Djurens vaggvisa",
+      "url": "https://open.spotify.com/track/5maA851Fle6XexgJgJzFjF"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "TRAKTEN TILL EPAN (feat 1.Cuz & FR\u00d6KEN SNUSK)",
         "url": "https://open.spotify.com/album/0oYqqPkucziudAvLm4tyfa"
@@ -573,23 +629,23 @@
       "url": "https://open.spotify.com/track/0u8AMrMBM6S3YBDfPYwMfe"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
-        "name": "Gata",
-        "url": "https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
       },
       "artists": [
         {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 155825,
-      "name": "Gata",
-      "url": "https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp"
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "RAGGARBIL",
         "url": "https://open.spotify.com/album/4OzfP62K5kmYNkBD1yw0nd"
@@ -609,207 +665,23 @@
       "url": "https://open.spotify.com/track/2VhK6oiMVLEMp16Ri3FRqW"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
-        "name": "Somna med Humlan Djojj",
-        "url": "https://open.spotify.com/album/7Fwal5B7DbHxVEjZRmckum"
+        "name": "Banan Melon Kiwi & Citron",
+        "url": "https://open.spotify.com/album/0nUdcTL27UO3plbL2aNGkR"
       },
       "artists": [
         {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
-        },
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
         }
       ],
-      "duration_ms": 140046,
-      "name": "Djurens vaggvisa",
-      "url": "https://open.spotify.com/track/5maA851Fle6XexgJgJzFjF"
+      "duration_ms": 168000,
+      "name": "Banan Melon Kiwi & Citron",
+      "url": "https://open.spotify.com/track/2ZfaBbRMcEgSF8JnJIaEBP"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "Du & Jag",
-        "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
-      },
-      "artists": [
-        {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
-        }
-      ],
-      "duration_ms": 132150,
-      "name": "Du & Jag",
-      "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "Heal",
-        "url": "https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "HARKI",
-        "url": "https://open.spotify.com/album/2Pit0Gz40DEVhx71C6ZtUz"
-      },
-      "artists": [
-        {
-          "name": "Gaboro",
-          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
-        }
-      ],
-      "duration_ms": 120624,
-      "name": "HARKI",
-      "url": "https://open.spotify.com/track/2EayJFSji4xEOIM4Ur8gik"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "PISTOLER POESI OCH SEX",
-        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "N\u00e5nting I Luften",
-      "url": "https://open.spotify.com/track/321RwsoTVlohBMx1nkOHmZ"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "Miracle (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 186496,
-      "name": "Miracle (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "PISTOLER POESI OCH SEX",
-        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 103227,
-      "name": "Rap \u00c4r Ingen Konst",
-      "url": "https://open.spotify.com/track/506EpbgpJcknwVjuDSUekl"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "L\u00e5t hela stan se p\u00e5",
-        "url": "https://open.spotify.com/album/1eH4xvNREOFJycHwqifLNR"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 184440,
-      "name": "L\u00e5t hela stan se p\u00e5",
-      "url": "https://open.spotify.com/track/1ZmXkSbIt88oScLQlkU8so"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "Edelweiss",
-        "url": "https://open.spotify.com/album/1Tzn1c4m7eM9s69pC3znQh"
-      },
-      "artists": [
-        {
-          "name": "Signe & Hj\u00f6rdis",
-          "url": "https://open.spotify.com/artist/4pkf3JUp7fOYK7kumrKuqG"
-        }
-      ],
-      "duration_ms": 167826,
-      "name": "Edelweiss",
-      "url": "https://open.spotify.com/track/3lnm0gx9usupGiYbwnxH9o"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "N\u00e4tterna i G\u00f6teborg",
-        "url": "https://open.spotify.com/album/2MKfycYePF6VAf9jg2ToaZ"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "N\u00e4tterna i G\u00f6teborg",
-      "url": "https://open.spotify.com/track/1Yn8nh3NeSEfA7Oo9dqCvR"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
-      "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 147979,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
-    },
-    {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -833,23 +705,91 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
       "album": {
-        "name": "Now I Know",
-        "url": "https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc"
+        "name": "N\u00e4tterna i G\u00f6teborg",
+        "url": "https://open.spotify.com/album/2MKfycYePF6VAf9jg2ToaZ"
       },
       "artists": [
         {
-          "name": "Tennessee Tears",
-          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
         }
       ],
-      "duration_ms": 181633,
-      "name": "Now I Know",
-      "url": "https://open.spotify.com/track/591qy56kcfBuNgj1kregOM"
+      "duration_ms": 171000,
+      "name": "N\u00e4tterna i G\u00f6teborg",
+      "url": "https://open.spotify.com/track/1Yn8nh3NeSEfA7Oo9dqCvR"
     },
     {
-      "added_at": "2023-03-13 09:29:41",
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "M.O.B",
+        "url": "https://open.spotify.com/album/3OayJHDFHtATwvDVJ8ccuT"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 128888,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2e9JCw6tagF1APPHXWy6ff"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "Frossa",
+        "url": "https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 154985,
+      "name": "Frossa",
+      "url": "https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/7eB0QLTXvh52cnDFt0Ppry"
+      },
+      "artists": [
+        {
+          "name": "Mariette",
+          "url": "https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0MGC7gE67o7QluGjtMGLtA"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 147979,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -867,6 +807,74 @@
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "Mera mera mera",
+        "url": "https://open.spotify.com/album/2sjbpLcx2MTRtq72RoytQw"
+      },
+      "artists": [
+        {
+          "name": "EMIL HENROHN",
+          "url": "https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH"
+        }
+      ],
+      "duration_ms": 178168,
+      "name": "Mera mera mera",
+      "url": "https://open.spotify.com/track/0dLe7y9Pil9ETtYuDWyrpP"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "B\u00e4vling",
+        "url": "https://open.spotify.com/album/6s5kpLikMJf3k3PvCExcEn"
+      },
+      "artists": [
+        {
+          "name": "Irma",
+          "url": "https://open.spotify.com/artist/5dnegcfdqoliHuDXVW5nYw"
+        }
+      ],
+      "duration_ms": 116386,
+      "name": "B\u00e4vling",
+      "url": "https://open.spotify.com/track/6PmzO31LLWsHvY0tG37m8F"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "PICK ME UP",
+        "url": "https://open.spotify.com/album/47nAM4UWvRCjvXMWYsx8W9"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "PICK ME UP",
+      "url": "https://open.spotify.com/track/3wx0fGGBY8Csos0ZDsKXFE"
+    },
+    {
+      "added_at": "2023-03-14 09:41:33",
+      "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 155008,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/3wIUf2ssPffFAUoIR4F1Tm"
     }
   ],
   "unique_name": "Top 50 - Sweden",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,554 likes - 200 songs - 15 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,786 likes - 200 songs - 15 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [Little Miss Lover \(feat\. Gary Bartz & The Greyboy Allstars\)](https://open.spotify.com/track/6FLdgbIPkk1uTJLxHNxHtm) | [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [Spirit of '70](https://open.spotify.com/album/7h3Pf3Yl1D7O4yggm5GuTk) | 4:17 |
 | 200 | [Milan, Michigan](https://open.spotify.com/track/4TtGZhSreZV7guZT8qneOY) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi) | [Traditori Di Tutti \(Deluxe Edition\)](https://open.spotify.com/album/2u0cEPDOm45kocGJuNCTFs) | 5:01 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDM5ZTkzYjg1YzZjZGZlYjViMGJlMWQ4ZjVkZWVmZDFl`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDZlNzMzOTRhYTAxZjRkZTFmNDYzMGZhYmJhOTUxNzU3`

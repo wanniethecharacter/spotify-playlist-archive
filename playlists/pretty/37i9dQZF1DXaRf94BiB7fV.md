@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Cinnamon Cigars, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,964 likes - 98 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,074 likes - 98 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 97 | [Sun Toh Na](https://open.spotify.com/track/3vQ6jTfaeOJMs3gFcLVzCR) | [Savneet Singh](https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY) | [Sun Toh Na](https://open.spotify.com/album/6TPKOMcfz4hUJUk7ywSp8F) | 4:23 |
 | 98 | [Zara Bhi](https://open.spotify.com/track/1mZJGAkPkyLYr0S88ysNzW) | [Neel Chhabra](https://open.spotify.com/artist/0s1CMA4Jfj8dXPcrZ3v6CX), [Vibhor](https://open.spotify.com/artist/5T92MmjKDVV1SvzuC4L3ou) | [Zara Bhi](https://open.spotify.com/album/5lO9HsHE21w5cPST8oBaqc) | 3:02 |
 
-Snapshot ID: `MTY3ODQzMDEzNCwwMDAwMDAwMGQ1MWVlMzc5MjVhN2M5Y2Y1MWUzZDNjMzA0ZWQ0NWEz`
+Snapshot ID: `MTY3ODQzMDEzNCwwMDAwMDAwMGZhOGNlYzUxMTk1MDk2MmZjMzgwOTMzNGE5ZmQzMDcx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bgBpcV2oGY.md) - [plain]
 
 > Instrumental guitar for rainy day contemplation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,409 likes - 114 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,445 likes - 114 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bgBpcV2oGY.md) - [plain]
 | 113 | [Lola](https://open.spotify.com/track/1Oa5PbACgAPg0pS0l0SGTq) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Lola](https://open.spotify.com/album/0uEwBSSv1rpnE0LgMIb1xq) | 2:27 |
 | 114 | [On A Slow Boat To China](https://open.spotify.com/track/31BnXTHUTtbowXVx3lc0Es) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [On A Slow Boat To China](https://open.spotify.com/album/2YXLeyv7L6ZXiIzX00jjMe) | 2:11 |
 
-Snapshot ID: `MTY3ODQ1NDk5OSwwMDAwMDAwMDM2OWVkNjk0ZjUxMGNjMmZiNzljM2EzNTBlMGZhNmUx`
+Snapshot ID: `MTY3ODQ1NDk5OSwwMDAwMDAwMGJkNDIzMjllMDc0ZjhlMmFhZTcyZjgxNDE0OGVmNzU1`

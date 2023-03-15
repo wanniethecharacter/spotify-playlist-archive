@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,393 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,500 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 74 | [Uma Missão](https://open.spotify.com/track/2bxYiuNc2hYWkuzK5HrVcZ) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Uma Missão](https://open.spotify.com/album/3v56SzOs0MHmJ8Vl273i41) | 2:48 |
 | 75 | [CQC](https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [CQC](https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC) | 3:01 |
 
-Snapshot ID: `MTY3Nzg4NTI2NywwMDAwMDAwMDAwZjI3ODFkY2YxNjQwODBiMGVmNzc1ODNmOWJlY2Yx`
+Snapshot ID: `MTY3Nzg4NTI2NywwMDAwMDAwMGU5MjNiY2NjYmQ1N2IwODE2NDczY2ZkY2NkNjRkNmZh`

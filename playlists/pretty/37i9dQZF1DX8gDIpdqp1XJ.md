@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,880 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,334 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [LEE SCRATCH PERRY](https://open.spotify.com/track/1xlS6gqviYYrU1YD61UCp2) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [LEE SCRATCH PERRY](https://open.spotify.com/album/5WUd0Mxkj53YZtEcE9u088) | 2:11 |
 | 100 | [Blossoms](https://open.spotify.com/track/35mGoqObgsLbl91JQVYHic) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Blossoms](https://open.spotify.com/album/7fOvf5sNEotM0QBW5dfFQs) | 3:25 |
 
-Snapshot ID: `MTY3ODQ3MDA5MSwwMDAwMDAwMGMwN2NjNzk5N2JmMGM3NGMwYzNhNzI5N2JkNWViYzc0`
+Snapshot ID: `MTY3ODQ3MDA5MSwwMDAwMDAwMDcyOTUyZWMyYzM2OTU1NmQyM2U0NzhkODJjYWQ4ZGYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with WHIPPED CREAM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,908 likes - 150 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,974 likes - 150 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 149 | [Kiwi](https://open.spotify.com/track/55b0r9RIvfhCJKCRqpGy4q) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [Kiwi](https://open.spotify.com/album/0ieBSQU75oRUKPzmb9lvJT) | 2:26 |
 | 150 | [La Luz](https://open.spotify.com/track/18BIUBXVi4c5HwNCjKeANr) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/5CA3UREgO8R0pJOqpsby3r) | 3:48 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDliMTI1NDFiNjdkYzVmZGY4MTNjNWIzYjNhODA2NzRl`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGYxOTZmMDlmNGJkNmMwZmRlMGJmZjcyOTNjODZmNDg0`

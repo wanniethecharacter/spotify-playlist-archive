@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,855 likes - 200 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,075 likes - 200 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 199 | [Colors](https://open.spotify.com/track/6pPMNzjGavElntvvM4eLoA) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ) | 3:11 |
 | 200 | [Friendly Fire](https://open.spotify.com/track/1u71gNzUwTjgfYmArCUD0m) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:42 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGJlN2YzYTFjYmY1OTQwZTA0MTE0YmY2NjNmYzQzM2Qz`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGNhMzY4ZDk4ZTEzZjA3OWZjN2I3MzllNjY1MzJjNzNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: YARA, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,979 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,983 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [It's Been a Minute](https://open.spotify.com/track/6bRObHptpD7cUdjbyuLer6) | [FlipGang](https://open.spotify.com/artist/65vJdRQiAjWbDlMgr4aXkR) | [It's Been a Minute](https://open.spotify.com/album/4vctdGHZF9gvU6F97Sufke) | 3:55 |
 | 75 | [Fortune Cookies](https://open.spotify.com/track/0QsWUPbvXlKfKPfkeZ8F2E) | [Wayo](https://open.spotify.com/artist/2TLngt5xSt1QfgX9nKlg34), [a/a](https://open.spotify.com/artist/4uoMAigGy75cmcL3ViaxUc), [Loco Roco](https://open.spotify.com/artist/4pYl9ktq51DV1MIhlByP3u) | [Fortune Cookies](https://open.spotify.com/album/0iEuTKWyNdam1PcLwpe8n7) | 4:45 |
 
-Snapshot ID: `MTY3ODM3NzYwMCwwMDAwMDAwMDIwM2FhY2ViOGNiMDAyMjQwZWZmMmVhY2JiODA5YTli`
+Snapshot ID: `MTY3ODM3NzYwMCwwMDAwMDAwMDc5YWExMDAxMzZmMDhhNDY4NjBiNDg0MTA1MDU4YmI1`

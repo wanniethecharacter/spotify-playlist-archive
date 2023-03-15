@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: The Plot In You
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,172 likes - 74 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 874,325 likes - 74 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 73 | [Circles](https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Circles](https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0) | 3:02 |
 | 74 | [Dead Circus](https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [Dead Circus](https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY) | 3:10 |
 
-Snapshot ID: `MTY3ODQyNjc1MSwwMDAwMDAwMGNkNDNiNzExY2QyNGUxNTlhNjQ0MTQ0NWNkMWMzNmM4`
+Snapshot ID: `MTY3ODQyNjc1MSwwMDAwMDAwMDY1M2Y3ZjZhYTQyNjE5NmYzZWEwMGI2YTI4NmUwZGY2`

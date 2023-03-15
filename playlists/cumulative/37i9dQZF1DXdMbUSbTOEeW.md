@@ -4,7 +4,7 @@
 
 > Trending dance hits in India\. Cover: Deepika Padukone & Shahrukh Khan
 
-191 songs - 10 hr 4 min
+192 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Deja Vu](https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Deja Vu](https://open.spotify.com/album/1RDus4fqaHwhQzqRiidAEY) | 3:18 | 2022-02-01 | 2022-05-19 |
 | [Desert Disco](https://open.spotify.com/track/6EZq7cj5ryaVZDQeM5DVGf) | [BODMAS](https://open.spotify.com/artist/7pi70ZtnhO0CTTkF2fts50) | [Desert Disco](https://open.spotify.com/album/779wLBWoL0hQLaYAbQhiA3) | 4:49 | 2023-02-17 |  |
 | [Diaspora Girl \- ShiShi Remix](https://open.spotify.com/track/6pjiVpOdBStjHq2DSEpKnD) | [Afta Hill](https://open.spotify.com/artist/2QyfQWgIraqOxY6uBmwP6f), [ASADI](https://open.spotify.com/artist/7kzEfOaqiXkhhTh7qMPVLj), [ShiShi](https://open.spotify.com/artist/3zLlUTuczHTGLHdMnYNYX9) | [Diaspora Girl \(ShiShi Remix\)](https://open.spotify.com/album/2PFIAmGeu3V5zLRkzJaIvU) | 4:14 | 2021-11-26 | 2022-05-19 |
+| [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 | 2023-03-14 |  |
 | [Dilbar](https://open.spotify.com/track/5YCdQ5NhaZ3PBdcmAV0CZS) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/4pv9PobaeFfnzvZd3IKHEJ) | 2:48 | 2023-02-14 | 2023-02-18 |
 | [Dillagi](https://open.spotify.com/track/3kA53abqN88SJ06rXMd3np) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Dillagi](https://open.spotify.com/album/6XpGHTIMmOITEcwG5z86NR) | 1:24 | 2023-02-17 |  |
 | [DRXGS](https://open.spotify.com/track/0HWJbGrwVbmXWelYMDJtid) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Sara Fajira](https://open.spotify.com/artist/5YwqDzUzArjMlfxI6sQRgP) | [DRXGS](https://open.spotify.com/album/2hpy6JvNQTxNTbysJTRoPU) | 2:52 | 2021-11-26 | 2022-05-19 |

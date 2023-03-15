@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: Lee Chan Won\(이찬원\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,455 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,470 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 99 | [You are](https://open.spotify.com/track/1aoJu3dxezGb6D7AZIKHXL) | [Tae Hwa Yoon](https://open.spotify.com/artist/2D8TOjwm9HxmUClDQC7S5M) | [MISS TROT2 PRELIMINARY BEST PART1](https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU) | 2:20 |
 | 100 | [Dancing queen](https://open.spotify.com/track/3kOLMqLWYXUPd9fKMOYbN3) | [Jangmin tiger butterfly](https://open.spotify.com/artist/2VcrBOUVCPwfxFseLnZfI7) | [Music source of Mr\. Trot team mission best](https://open.spotify.com/album/5YJpJkm9TPq6laP0qTDzb2) | 4:01 |
 
-Snapshot ID: `MTY3NzIzNTE2OCwwMDAwMDAwMGY2ODQ4NmI2NjdkMjQyMDdkY2IwNjczMWFmZmUwYWM5`
+Snapshot ID: `MTY3NzIzNTE2OCwwMDAwMDAwMDlkM2U0ODRkZDZkYWM3ZGNmMWFmY2RhNDg0MDhlMmVk`

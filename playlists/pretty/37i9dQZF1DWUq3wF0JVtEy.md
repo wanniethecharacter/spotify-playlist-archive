@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,840 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,048 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [LEFT TO RIGHT](https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q) | 2:26 |
 | 100 | [my luv \- bonus track](https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [2HEARTs dlux](https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ) | 3:59 |
 
-Snapshot ID: `MTY3ODQ2MDQwMCwwMDAwMDAwMDg2YTNjOGM3YThlZTk4NGNmN2M5NTc4ZTNhZjlmMGZk`
+Snapshot ID: `MTY3ODQ2MDQwMCwwMDAwMDAwMDE1ZmI1N2IxZGViZmI5ODFlM2U4ZTFlZTBlNWQ1ZDIz`

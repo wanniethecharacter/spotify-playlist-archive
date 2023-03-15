@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,154 likes - 100 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,163 likes - 100 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 99 | [Keep the Home Fire Burnin' \- Live](https://open.spotify.com/track/3nVbQp2oSkQa0CRiiVubZp) | [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1) | [Live and Uncensored / Live and Outrageous](https://open.spotify.com/album/6WAkTQuyJu9eHiX5FnUyA1) | 3:26 |
 | 100 | [Send It On](https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 5:41 |
 
-Snapshot ID: `MTY3MzI2OTc4NCwwMDAwMDAwMDQ5MGE2ZmI4Y2UyY2M1NGU4ZjA4NzkwYTBlM2E5N2M3`
+Snapshot ID: `MTY3MzI2OTc4NCwwMDAwMDAwMGY5NzM0OWNlZDViNzA0MWQyYjc1MjYyMTk5ZjM3NWMx`

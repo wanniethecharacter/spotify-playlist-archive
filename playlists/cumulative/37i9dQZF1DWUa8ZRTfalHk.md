@@ -4,7 +4,7 @@
 
 > The hits of tomorrow are on Spotify today\. Cover: Calvin Harris & Ellie Goulding
 
-1,618 songs - 3 day 11 hr 41 min
+1,619 songs - 3 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -968,6 +968,7 @@
 | [Mood \(Remix\) feat\. Justin Bieber, J Balvin & iann dior](https://open.spotify.com/track/6FuGJB290AQMAHTfjOYVaK) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Mood \(Remix\) feat\. Justin Bieber, J Balvin & iann dior](https://open.spotify.com/album/4PTxbJPI4jj0Kx8hwr1v0T) | 3:12 | 2020-11-06 | 2020-12-11 |
 | [Mood Ring](https://open.spotify.com/track/1I042sygvOn2C5SybTCuJ1) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Mood Ring](https://open.spotify.com/album/4ww2orXklptrpHj4M8xdvy) | 3:45 | 2021-08-21 | 2021-09-11 |
 | [Moon](https://open.spotify.com/track/2Rd4eJ4KwXQQn2sMSToyUM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:36 | 2021-09-04 | 2021-11-13 |
+| [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 | 2023-03-14 |  |
 | [Moonwalking in Calabasas \(feat\. Blueface\) \- Remix](https://open.spotify.com/track/7o4gBbTM6UBLkOYPw9xMCz) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Moonwalking in Calabasas \(feat\. Blueface\) \[Remix\]](https://open.spotify.com/album/1z02WpEdAuImwfySk43owY) | 2:50 | 2020-10-23 | 2020-11-27 |
 | [More](https://open.spotify.com/track/28wvF1w73LXlnO6UEEs3G6) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 2:33 | 2021-01-29 | 2021-02-19 |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-07-01 | 2022-07-23 |

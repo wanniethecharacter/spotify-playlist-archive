@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:3KK1cO0sCWl01U14rS7wwN">Julia Rocka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,970 likes - 46 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,984 likes - 46 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 45 | [Stracone](https://open.spotify.com/track/4JvfItaC78WeKsBPOuSGzh) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Stracone](https://open.spotify.com/album/0U3Tdmx3mIhvaXYNPmk8tg) | 4:24 |
 | 46 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 
-Snapshot ID: `MTY3ODcyMjE1MSwwMDAwMDAwMDdhMTk2Y2FlNmQzNDFhNjQ0MGEzYzFiNjMzZmJjZGEx`
+Snapshot ID: `MTY3ODcyMjE1MSwwMDAwMDAwMGYwNTZjMDRlOTg2YmMwM2FlNDA0YjhhNmJjMDRkODI5`

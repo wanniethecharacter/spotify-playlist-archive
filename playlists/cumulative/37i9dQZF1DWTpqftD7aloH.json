@@ -425,6 +425,28 @@
     },
     {
       "album": {
+        "name": "Cuido dos Detalhes",
+        "url": "https://open.spotify.com/album/4bxXWOi7jCnUEbeZ5SVUPp"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213420,
+      "name": "Cuido dos Detalhes",
+      "url": "https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB"
+    },
+    {
+      "album": {
         "name": "Mas Que Un Anhelo",
         "url": "https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ"
       },
@@ -1696,7 +1718,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 314640,
       "name": "No Sil\u00eancio",
       "url": "https://open.spotify.com/track/5uWsP8qTYiCLycyFxf9pYE"

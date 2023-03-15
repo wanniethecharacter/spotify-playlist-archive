@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:  Gilberto Daza y Sergio Luis Rodríquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,686 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,845 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Aquí Estoy](https://open.spotify.com/track/3qQwoMsksLnArEIa3iBTi0) | [Iglesia Rey De Reyes & Claudio Freidzon](https://open.spotify.com/artist/4xtmhwkXcI1bfDZNzQHR8F) | [Aquí Estoy](https://open.spotify.com/album/3l7p9AOyAssVRhiMBw6e4x) | 5:01 |
 | 100 | [Dulce Compañía](https://open.spotify.com/track/0grJmN960jlAECmg8iDXKd) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI), [Omar Herrera](https://open.spotify.com/artist/4xYi3BaHkw5QR854GqM626) | [Dulce Compañía](https://open.spotify.com/album/1HAj6KJN3twwpvXteQBjhl) | 3:10 |
 
-Snapshot ID: `MTY3ODQyOTgwMCwwMDAwMDAwMGUxYTMxNTUyN2U4NzVhMzI3ZjVmZDkxYzQ2YzkzMDg3`
+Snapshot ID: `MTY3ODQyOTgwMCwwMDAwMDAwMDc2YzdjNGU5MGI5NTMzMDI1YWFhZjM3YjUwMTZlMjZl`

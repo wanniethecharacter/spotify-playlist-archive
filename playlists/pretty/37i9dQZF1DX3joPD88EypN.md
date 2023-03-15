@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,708 likes - 100 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,760 likes - 100 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 99 | [Polska efter Gil](https://open.spotify.com/track/1ZUlYNUVyJuzeVlSRBHOYj) | [Thomas Tidholm](https://open.spotify.com/artist/546D8gpuMz5DBN0i1V9vAx), [Jonas Knutsson](https://open.spotify.com/artist/4epZWwhakogZTfyKbGpvQa) | [Orsa by Night](https://open.spotify.com/album/3ZBMz2uOIHTPBp4lyQY6Vg) | 3:32 |
 | 100 | [I Kirken](https://open.spotify.com/track/7sEygfTquCCu3h5wGsMJeF) | [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq), [Bagland](https://open.spotify.com/artist/2keQ0ZJ8qgOTJte7PPBRzn) | [Cirkel](https://open.spotify.com/album/3iGpwXE8cKFIXeVjAF7svY) | 4:29 |
 
-Snapshot ID: `MTY3ODM1NjczMywwMDAwMDAwMDFiMWMwMThjNTI2N2JkZWIwYTMyYTg2YmRhNTg3MmIw`
+Snapshot ID: `MTY3ODM1NjczMywwMDAwMDAwMGQ1NDQ3MGVjMzhhZmE4ZjUxNzU5ZmRiM2JiNzc2YzI1`

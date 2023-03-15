@@ -1741,6 +1741,32 @@
     },
     {
       "album": {
+        "name": "Ninaivirukka (From \"Pathu Thala\")",
+        "url": "https://open.spotify.com/album/5EEzSnYXyM3wzEjbf6Gj6M"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "A. R. Ameen",
+          "url": "https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255096,
+      "name": "Ninaivirukka (From \"Pathu Thala\")",
+      "url": "https://open.spotify.com/track/1QFt7JduUhTeos7dNxPeHw"
+    },
+    {
+      "album": {
         "name": "Onnoda Nadandhaa (From \"Viduthalai\")",
         "url": "https://open.spotify.com/album/42x5rRggRUdH3v6vbdHNxP"
       },

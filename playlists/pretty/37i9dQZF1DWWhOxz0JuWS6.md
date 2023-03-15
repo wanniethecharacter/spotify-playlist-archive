@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,289 likes - 200 songs - 14 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,356 likes - 200 songs - 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 | 199 | [Far From Over](https://open.spotify.com/track/0mbImplrU76kIvd52GlNbt) | [Frank Stallone](https://open.spotify.com/artist/3BucZwouCkpiGi2UxqfWn9) | [Frank Stallone](https://open.spotify.com/album/4khMOHn89Aq1yHqWgkVzxm) | 3:15 |
 | 200 | [Down Boys](https://open.spotify.com/track/0dw3dXWx6dgp7Ri3HeDBUq) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:03 |
 
-Snapshot ID: `MTY2ODY5OTU0MywwMDAwMDAwMDIzNGVlYjU4ZjY5NWQxYjRkMTRlNjg5YzkzYjk3NTFj`
+Snapshot ID: `MTY2ODY5OTU0MywwMDAwMDAwMDAwZWYwZTgxMzU1YWRmZGU1ODEyOGM5YTRjZDM4MjIx`

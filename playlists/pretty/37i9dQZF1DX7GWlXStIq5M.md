@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do pop dividindo o mesmo palco!   / Foto: Elana Dara
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,950 likes - 90 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,909 likes - 90 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 89 | [IMPERFEITA](https://open.spotify.com/track/3tr1wNT7sRPvjeDNMEdXKL) | [Flay](https://open.spotify.com/artist/7aaNhMElpyzTnU2LgccyR3) | [IMPERFEITA](https://open.spotify.com/album/1liGe6nxBdJk9pTvHvmzNt) | 3:31 |
 | 90 | [seu lugar](https://open.spotify.com/track/1jxrqBqYCtnutz4Ug0i8kf) | [Milla](https://open.spotify.com/artist/1IATW2PPpsnKIEIaDY5CvT) | [seu lugar](https://open.spotify.com/album/4BCqyrF00Xo2VJc7R50qiw) | 3:21 |
 
-Snapshot ID: `MTY3ODcyNjg5NSwwMDAwMDAwMGFmMmZhY2YyM2U5YTIzNWM3ZjIxMzA3MmEzZGNiMTVh`
+Snapshot ID: `MTY3ODcyNjg5NSwwMDAwMDAwMGJjMmQ0OWQ1MTdlZGJjNzJkMzc3ZDkzMmNkNzIyZGFl`

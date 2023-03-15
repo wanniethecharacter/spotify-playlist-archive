@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,918 likes - 82 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,938 likes - 82 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 81 | [Tranquility Farm](https://open.spotify.com/track/2HQZO4e5DndKooGqLWs8od) | [GlobulDub](https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD) | [Tranquility Farm](https://open.spotify.com/album/23rYdcFuFuMzqRl4Z5B0t1) | 2:13 |
 | 82 | [Soul Finding](https://open.spotify.com/track/0L0O6m5t5usqQHEaBsHgSa) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF), [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Collabs, Vol 2](https://open.spotify.com/album/6VxgOQVVFej9Br7fWVVuZi) | 1:41 |
 
-Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMGY2ZGY2ZTA5NzEyZjAyMDUyYmQ5ODJkOGExODI0MTFj`
+Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMDE4NjBjMTVhOWE1MjQxMjlhNDFjZjQ3YWZlZTlkNzFm`

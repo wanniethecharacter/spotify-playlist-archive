@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,734 likes - 100 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,744 likes - 100 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 99 | [The Uncertainty Principle](https://open.spotify.com/track/1KcoD4YKx4uydopVkBqb0Q) | [The Heliocentrics](https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv) | [A World of Masks](https://open.spotify.com/album/0R1du3OpntlnAoctD8EL1a) | 5:31 |
 | 100 | [Only One Thing Is Needed](https://open.spotify.com/track/1LzKdWtzTpcmed7BnCR1id) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 4:33 |
 
-Snapshot ID: `MTY3NjU5OTQwNiwwMDAwMDAwMGFmMmQ5MTdmNDRkNTRkMWYzZTQzYTFhZTEzNjA3YjQ4`
+Snapshot ID: `MTY3NjU5OTQwNiwwMDAwMDAwMDY3OGJkYjViZGMyNzY0ZjA1MWIxMzE1MTlmOTIxZDEy`

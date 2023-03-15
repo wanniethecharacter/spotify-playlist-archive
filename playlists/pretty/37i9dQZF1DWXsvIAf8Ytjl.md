@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,499 likes - 47 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,551 likes - 47 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 46 | [Soul Sacrifice \- Live](https://open.spotify.com/track/258S3Wyb21XJLasu0NcBUF) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana](https://open.spotify.com/album/5GHkjPVlwVaHIqI5e2O9rV) | 4:52 |
 | 47 | [The Oh Kee Pa Ceremony \- Live in Brooklyn](https://open.spotify.com/track/174K2TV5eQ2pxtr83emEVL) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Live in Brooklyn](https://open.spotify.com/album/6s1HK0rSOZc4LHMu4JBC0r) | 1:47 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDYzY2U2ZWU5Y2E3ZWJhNmM4YjBkZjMxNmQ2YjFhZDJj`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDFhYWY5MWI4MGVhZjhhMDA3NjQ0ZTRiNzIyYzczN2Uw`

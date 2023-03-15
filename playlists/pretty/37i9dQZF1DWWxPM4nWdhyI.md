@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxPM4nWdhyI.md) - [plain]
 
 > All his biggest hits, in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,354,165 likes - 62 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,354,969 likes - 62 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxPM4nWdhyI.md) - [plain]
 | 61 | [Be Right Now](https://open.spotify.com/track/3BiiSLo0wyHAY7lpCEO6ge) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:31 |
 | 62 | [Baby One More Time \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 2:57 |
 
-Snapshot ID: `MTY3NjM5MTE5MSwwMDAwMDAwMGFhZDY2YzcwMTE2NjI5N2FjNDhhNzBkN2YzYmExYjQ0`
+Snapshot ID: `MTY3NjM5MTE5MSwwMDAwMDAwMGY1YTg3ZDQ1ZmU3YTQxNWQ0ZDlkNGE3YzZhOGJlMmYz`

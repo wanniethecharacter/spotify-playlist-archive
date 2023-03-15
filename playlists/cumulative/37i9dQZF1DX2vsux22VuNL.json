@@ -1791,6 +1791,32 @@
     },
     {
       "album": {
+        "name": "Fim de Semana",
+        "url": "https://open.spotify.com/album/3QrfrubXNF6xRzCAV6DvB7"
+      },
+      "artists": [
+        {
+          "name": "Victor Sabri",
+          "url": "https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Brian Arimura",
+          "url": "https://open.spotify.com/artist/3564y3B882wmolbLQVDVzZ"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194157,
+      "name": "Fim de Semana",
+      "url": "https://open.spotify.com/track/4bMFMvGNOGQ5GN91G4vw1K"
+    },
+    {
+      "album": {
         "name": "Final de Semana",
         "url": "https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu"
       },
@@ -4658,7 +4684,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 187272,
       "name": "Te Fazer Vibrar",
       "url": "https://open.spotify.com/track/2ht1UBPNgDM0WMpgxKC7Zy"

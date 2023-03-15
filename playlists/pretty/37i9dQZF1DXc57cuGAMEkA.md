@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Miley Cyrus, Meghan Trainor, Calvin Harris & Ellie Goulding and more! Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,442 likes - 79 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,456 likes - 79 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 78 | [leaving home](https://open.spotify.com/track/45J4EoznoID3g0ByvfIJV0) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [leaving home](https://open.spotify.com/album/3MnjEipevFo8fPiOfaiBNw) | 2:53 |
 | 79 | [Situationship](https://open.spotify.com/track/6h5U2llAthHj3i1O6YYc6c) | [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Situationship](https://open.spotify.com/album/2XSvU0IHifUIIClBBKEWx3) | 3:08 |
 
-Snapshot ID: `MTY3ODM3NDAwMCwwMDAwMDAwMDAyY2Y2MTYxOGIwZTZkNmQxODNlODZmNmZkZDcwNGZk`
+Snapshot ID: `MTY3ODM3NDAwMCwwMDAwMDAwMDNkNDlhYWE5YTc2MjRlYTg0Y2IzOTRmOWZhMGExOGRj`

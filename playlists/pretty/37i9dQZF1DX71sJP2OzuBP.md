@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,265 likes - 105 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,275 likes - 105 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [我愛你的自私](https://open.spotify.com/track/5BnOgHvOc0Tcod8BIZMvPx) | [范庭瑜](https://open.spotify.com/artist/4rnD9ILvONsiUUyd1RZ2wK) | [我愛你的自私](https://open.spotify.com/album/6qbDaQT13N72AIpoMHYEqs) | 2:51 |
 | 105 | [又十年](https://open.spotify.com/track/2jnQH1vxtHlmRvwP4z9A3z) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [又十年](https://open.spotify.com/album/3Y2q71A8ggVdhCzULUJ5hY) | 3:58 |
 
-Snapshot ID: `MTY3ODY5NjQzNCwwMDAwMDAwMDU3ZjJjMTQ4OTEzZjRkMGY5MGYzZTU2ZjJjMjc1Y2U5`
+Snapshot ID: `MTY3ODY5NjQzNCwwMDAwMDAwMGUyY2RmOGEyMGFiNGIxNWE5OTYxYmRhMTVlOTE3NjYx`

@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu3lAQuOIjU.md) - [plain]
 
 > Self\-love is the best love, and just in time for the fall, Coco Jones took over our Heard You playlist and curated a few eps about leveling up internally, trusting the process and staying present along the way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,290 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,292 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MTY2Njc4ODY4NCwwMDAwMDAwMDJiNmFlMmYzMzdiM2EyM2VlZTJjMWI3YjFhODg4MzRj`
+Snapshot ID: `MTY2Njc4ODY4NCwwMDAwMDAwMDJkZTBmYWQ4OWIwNWYwMTFjZmMwNWM4Yzc5M2IyMWZl`

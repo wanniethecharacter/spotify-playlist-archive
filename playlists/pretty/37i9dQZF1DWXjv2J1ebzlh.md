@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,442 likes - 1,176 songs - 3 day 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,491 likes - 1,176 songs - 3 day 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -748,7 +748,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 738 | [Fazed Out](https://open.spotify.com/track/6e8fJfHzOKz0DnzO440HPS) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Yeti Season \(Deluxe Version\)](https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK) | 4:01 |
 | 739 | [Muchacha de Mi Pueblo](https://open.spotify.com/track/4yg042ZdlfDkXWLvnA4HHW) | [Martín Chacón](https://open.spotify.com/artist/38YFhbYJxR60Qok2uIoMKB) | [Canciones Zapotecas del Istmo \- Cantarle a la Vida](https://open.spotify.com/album/3JvVLgzKWXaCq5WXflmUVL) | 2:55 |
 | 740 | [Oghneya \(Habibi Funk 019\)](https://open.spotify.com/track/0XyPZiesjaahMP5cpyfVM1) | [Ferkat Al Ard](https://open.spotify.com/artist/1Rf1hYrWaOiHIL2u8VJxfW) | [Oghneya \(Habibi Funk 019\)](https://open.spotify.com/album/0NlApM2IuVJ87FZjc0nJMm) | 6:33 |
-| 741 | [Great '68](https://open.spotify.com/track/78Y5tnFqrmwq5aLh1Q3DfO) | [Marva Moore & The Gaysters](https://open.spotify.com/artist/2wUA61kYfKhcbMoJ14hvIR) | [ABC Rock Steady \(Expanded Version\)](https://open.spotify.com/album/3WS3ldP9AC6Y2d5ntUlhYF) | 2:38 |
+| 741 | [Great '68](https://open.spotify.com/track/78Y5tnFqrmwq5aLh1Q3DfO) | [Marva Moore](https://open.spotify.com/artist/6dtCu6hiWXwCTnMoXCA33D), [The Gaysters](https://open.spotify.com/artist/6E9eQH4MMTejERtTpMOrut) | [ABC Rock Steady \(Expanded Version\)](https://open.spotify.com/album/3WS3ldP9AC6Y2d5ntUlhYF) | 2:38 |
 | 742 | [País Tropical](https://open.spotify.com/track/4877bJ149OUJZHTiU5Jg8P) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 4:10 |
 | 743 | [Ou\-Ou\-Ta](https://open.spotify.com/track/4Nmg8CI6dCfaTN2pV49fwt) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm), [The Walias](https://open.spotify.com/artist/0utUPtDWzcvggWvsleb4r2) | [Tezeta](https://open.spotify.com/album/7l6cwZjSOsaOYD20YaFODd) | 3:23 |
 | 744 | [Exchange No Robbery](https://open.spotify.com/track/5DnTKViBDbm0J2yHo8ZoPG) | [Mighty Dougla](https://open.spotify.com/artist/7fcrtzZf5rD5ntxSLH9WXW) | [Jamaica Is The Place To Go](https://open.spotify.com/album/3QyzPEVKOMeDgrYg4sYHKO) | 4:08 |
@@ -1185,4 +1185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1175 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1176 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MTY3NzQ4NjYwMCwwMDAwMDAwMGY4ZmYxMjdjNWZhMDAzNWFiYjI3YjU2NjFmYzE3ZWNh`
+Snapshot ID: `MTY3NzQ4NjYwMCwwMDAwMDAwMDVlYzhhZTY0MTkxNjgyYWFkMDhhMTBhZjdiMmQxOTIw`

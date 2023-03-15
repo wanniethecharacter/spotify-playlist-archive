@@ -4,7 +4,7 @@
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
 
-76 songs - 7 hr 28 min
+77 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [DOSES](https://open.spotify.com/track/4YNjor6FShrCmTiEjKySoL) | [Delta Species](https://open.spotify.com/artist/6XHNTLKZijuqf1N7Frab5Y), [Alicid](https://open.spotify.com/artist/6Nx8CLrTjryyqmvrQeOMGx), [Bella Kahun](https://open.spotify.com/artist/6HBV7RzsoXsLeNMvkh1raa) | [DOSES](https://open.spotify.com/album/7qAYQE64nGfLuHiL8OuIag) | 7:20 | 2022-03-04 |  |
 | [Feel Good](https://open.spotify.com/track/1ufkg9viQxXiEIok76Fgrt) | [Chemical Noise](https://open.spotify.com/artist/1oSTK4wfPbzq1BnwY7OoZR), [Dang3r](https://open.spotify.com/artist/1w3bZrV4XveeRTaCJAtkGr), [4weekend](https://open.spotify.com/artist/2X11BJbi9xHuQV3J6hJOIy) | [Feel Good](https://open.spotify.com/album/14NuMpUK7CZbe3nsN7rJfV) | 4:56 | 2022-03-04 |  |
 | [Focus](https://open.spotify.com/track/7gNgqRZaXarUWWirped72i) | [Telepatic](https://open.spotify.com/artist/5sEhJmaZzJgVskCBaOTgIa) | [Focus](https://open.spotify.com/album/4Bv7WZLfpA7pv11QaMBUnN) | 7:08 | 2022-03-04 |  |
-| [Forest Ghosts \- Original mix](https://open.spotify.com/track/3QRdcnWwed7TxeuvRv2IS3) | [Duendo Matka](https://open.spotify.com/artist/2mD9yFkX1Q5G3u7M5G2Rgf), [Haffman](https://open.spotify.com/artist/65UMds9K0RnCk4LKN1UQq6) | [Voices Vortex](https://open.spotify.com/album/7fcMaYBaWNSUdEbHmHnEYl) | 7:30 | 2022-03-04 |  |
+| [Forest Ghosts](https://open.spotify.com/track/04Y7lMhMM87gbyznlncCVd) | [Duendo Matka](https://open.spotify.com/artist/2mD9yFkX1Q5G3u7M5G2Rgf), [Haffman](https://open.spotify.com/artist/65UMds9K0RnCk4LKN1UQq6) | [Voices Vortex](https://open.spotify.com/album/192PF73JqswQ8lwwXxbRbL) | 7:30 | 2023-03-03 |  |
+| [Forest Ghosts \- Original mix](https://open.spotify.com/track/3QRdcnWwed7TxeuvRv2IS3) | [Duendo Matka](https://open.spotify.com/artist/2mD9yFkX1Q5G3u7M5G2Rgf), [Haffman](https://open.spotify.com/artist/65UMds9K0RnCk4LKN1UQq6) | [Voices Vortex](https://open.spotify.com/album/7fcMaYBaWNSUdEbHmHnEYl) | 7:30 | 2022-03-04 | 2023-03-15 |
 | [Futuro](https://open.spotify.com/track/3FDRqjnwYpQefRGvQeNc7X) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH), [Draco](https://open.spotify.com/artist/2MjqUHpxa8ABkNecdldDrh) | [Futuro](https://open.spotify.com/album/0Z0yfszhbiJGBJ6tKVEn6b) | 7:12 | 2022-03-04 |  |
 | [Galática](https://open.spotify.com/track/1FTnb2i88kwHAua4wP31I9) | [Vermont \(BR\)](https://open.spotify.com/artist/7aS93G9e7XG0GCUATQjqv0), [PIRAMD](https://open.spotify.com/artist/4ecOJ792RmcIiw2eJXPGAS) | [Galática](https://open.spotify.com/album/0wRct4idjnrcl03EZxSbc9) | 5:42 | 2022-03-04 |  |
 | [Get Up](https://open.spotify.com/track/4mmiiye110tHOWwX5nWbSw) | [D\-Trox](https://open.spotify.com/artist/0Dku3ALAfPCDQu0KgVABdk), [Juiced](https://open.spotify.com/artist/659UR7dBtQ8UBfDvnK9U9r) | [Get Up](https://open.spotify.com/album/2fuNCnDSSWdh6MAiyNWxB4) | 4:06 | 2022-03-04 |  |

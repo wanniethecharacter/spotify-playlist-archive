@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Micha\u00ebl Brun",
-  "num_followers": 75200,
+  "num_followers": 75233,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY3MzYwOCwwMDAwMDAwMGJiYzkzNmRmOGY5OWFiMWNjZWRhZjM4Y2I5ZDQ3MzBk",
+  "snapshot_id": "MTY3NjY3MzYwOCwwMDAwMDAwMDMxMTBlMjE2Yjg2MjNmMDhjYTc3NWRmNjA2MzU1ODI1",
   "tracks": [
     {
       "added_at": "2023-02-17 22:40:08",
@@ -447,26 +447,6 @@
       "duration_ms": 237362,
       "name": "Apre bal la",
       "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
-        "name": "Melanin",
-        "url": "https://open.spotify.com/album/49sOQL7iLZeJj1ibp2ooIN"
-      },
-      "artists": [
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 133835,
-      "name": "Melanin",
-      "url": "https://open.spotify.com/track/0YLZrWyAqDBpuvSs7UxFX8"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -915,22 +895,6 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 102466,
-      "name": "Imamou Lele",
-      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
         "name": "On va pas baisser les bras",
         "url": "https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A"
       },
@@ -967,18 +931,18 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
       },
       "artists": [
         {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
         }
       ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
+      "duration_ms": 102466,
+      "name": "Imamou Lele",
+      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1031,26 +995,18 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Down With the Gouyad (Remix)",
-        "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
       },
       "artists": [
         {
-          "name": "DJ Magickenny",
-          "url": "https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N"
-        },
-        {
-          "name": "Dee End",
-          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
-        },
-        {
-          "name": "Yuri Da King",
-          "url": "https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo"
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
         }
       ],
-      "duration_ms": 291157,
-      "name": "Down With the Gouyad (Remix)",
-      "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1087,22 +1043,26 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Trap King",
-        "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
+        "name": "Down With the Gouyad (Remix)",
+        "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
       },
       "artists": [
         {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+          "name": "DJ Magickenny",
+          "url": "https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N"
         },
         {
-          "name": "Phyllisia Ross",
-          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        },
+        {
+          "name": "Yuri Da King",
+          "url": "https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo"
         }
       ],
-      "duration_ms": 186857,
-      "name": "Fanm Ch\u00e8",
-      "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
+      "duration_ms": 291157,
+      "name": "Down With the Gouyad (Remix)",
+      "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1155,6 +1115,26 @@
       "duration_ms": 183333,
       "name": "Mpral D\u00f2mi Nan Simity\u00e8",
       "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
+        "name": "Trap King",
+        "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        },
+        {
+          "name": "Phyllisia Ross",
+          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Fanm Ch\u00e8",
+      "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1571,6 +1551,26 @@
       "duration_ms": 203259,
       "name": "Fam",
       "url": "https://open.spotify.com/track/2v8G0VjL4H3ZcLMJrQJ1JJ"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/1KfykaXnpStmzaXXS6VcEm"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 133835,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/74sVNFKqFoOMqaeNYpeiIT"
     }
   ],
   "unique_name": "Haitian Heat",

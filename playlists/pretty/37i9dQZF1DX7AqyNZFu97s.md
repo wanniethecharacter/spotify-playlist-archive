@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Coupdekat
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,441 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,451 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Waste Of Time](https://open.spotify.com/track/0SfTCFDyGrB8ObcxRutVIZ) | [Liliana](https://open.spotify.com/artist/6XChjeaOZ2HqbuVpupd9op) | [Waste of Time](https://open.spotify.com/album/1NGU5buhW2VyCN061AYpzA) | 3:21 |
 | 80 | [guessed it was about me](https://open.spotify.com/track/111QDZZpRL5IiyOaTpUQIm) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [guessed it was about me](https://open.spotify.com/album/4DiOdfxS0fJxKYAqispngQ) | 3:23 |
 
-Snapshot ID: `MTY3ODMyMDAwMCwwMDAwMDAwMDliMmU0M2RkYTJjMzE4NmQyNzhkNTBmN2I0Zjk4YjU3`
+Snapshot ID: `MTY3ODMyMDAwMCwwMDAwMDAwMDA2ZTAwYWZhYmMxMWExMWUyZWZlZGNmZjgzZTE5Y2Qx`

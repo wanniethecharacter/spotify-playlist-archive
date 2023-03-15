@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,036 likes - 250 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,096 likes - 250 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 249 | [Indivision](https://open.spotify.com/track/0Cgezkm0kCTnegOB6rCzed) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Indivision](https://open.spotify.com/album/7ANmCCI9lzaAsthwF8QcHd) | 2:48 |
 | 250 | [My Mind Made Up](https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [My Mind Made Up](https://open.spotify.com/album/5gj3aLJleU4wkfTN2bttEO) | 3:35 |
 
-Snapshot ID: `MTY3NzY4NTAwNywwMDAwMDAwMDIyMWFhNjk2N2ZhOGUxYmY1MjE3ZmQ0NzhlZjMyYjRj`
+Snapshot ID: `MTY3ODgwNDIyMywwMDAwMDAwMGM5ZGQ2NGQ0NjAyNDUwNzUzM2ViZDIwMjg2YTVlYTRh`

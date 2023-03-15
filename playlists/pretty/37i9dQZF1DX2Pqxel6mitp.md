@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,608 likes - 120 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,693 likes - 120 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 119 | [Death Letter Blues](https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr) | [Mary Flower](https://open.spotify.com/artist/58sXz2QNZ3Zr0JlQ198mg2) | [Misery Loves Company](https://open.spotify.com/album/1q5Y6DUXVUbAAKCYENUQSc) | 6:12 |
 | 120 | [Passing Through](https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj) | [Mark Harrison](https://open.spotify.com/artist/14CtALWVNL2IsuvjO27qBd) | [The Road to Liberty, Pt\. 1](https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk) | 3:24 |
 
-Snapshot ID: `MTY3Nzg2NzIwMywwMDAwMDAwMDlhYWI3Y2U1MTgxMDkwZWY0YWI2NDAxMjA4OTI3ODBl`
+Snapshot ID: `MTY3Nzg2NzIwMywwMDAwMDAwMDFiZDNmN2E0ZDA1ODZkMTA1ODRkY2MyNjY0NjhmOTkz`

@@ -4,12 +4,13 @@
 
 > deep & dark\. bold & bare\. cover: Samia
 
-196 songs - 12 hr 29 min
+197 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...Familiar Place](https://open.spotify.com/track/0lp0bQqzyLmNNHHFYRaaJf) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/6Ru52lwXvbPaAMSdyPOFsL) | 2:55 | 2021-11-12 | 2022-07-29 |
 | [...Familiar Place](https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 2:55 | 2021-11-12 |  |
+| [68 \- Live](https://open.spotify.com/track/40TGxZwQQG6cDHelPqiQSp) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Live at Bo Bash 2021](https://open.spotify.com/album/58QZnkI7wZjq1OhHyBoo0M) | 3:28 | 2023-03-14 |  |
 | [Berlin](https://open.spotify.com/track/2P9p3GVQ7S6bJ5xaE7f8gH) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/65Ov3Cl0apFHIj2wHY6f2L) | 3:39 | 2021-11-12 | 2022-07-29 |
 | [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 | 2021-11-12 |  |
 | [Better and Better](https://open.spotify.com/track/1o24Xqw0n5tQHJqpZDCXp7) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [How to Break a Fall](https://open.spotify.com/album/4BdwmZr2Z7T7evaxK3FuAn) | 3:00 | 2021-11-12 | 2022-11-14 |
@@ -78,7 +79,7 @@
 | [Henry St.](https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN) | 4:29 | 2023-03-10 |  |
 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2021-11-12 |  |
 | [Hold Your Own Hand](https://open.spotify.com/track/1kTEvUAboeslZmTwiEmxvD) | [Mothers](https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv) | [When You Walk A Long Distance You Are Tired](https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe) | 6:53 | 2022-09-16 | 2022-11-13 |
-| [Hollow](https://open.spotify.com/track/2RZKkkakd9ULBy58ffOAG4) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Ready Reckoner](https://open.spotify.com/album/6AIIp8Sg3vWyxpyoPc4Cfl) | 4:18 | 2021-11-12 |  |
+| [Hollow](https://open.spotify.com/track/2RZKkkakd9ULBy58ffOAG4) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Ready Reckoner](https://open.spotify.com/album/6AIIp8Sg3vWyxpyoPc4Cfl) | 4:18 | 2021-11-12 | 2023-03-15 |
 | [Hollow](https://open.spotify.com/track/6kEIzzsomuC1yknzS8TAwD) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Hollow](https://open.spotify.com/album/7wHbT4Baoyi3De2UAI8uOD) | 4:18 | 2021-11-12 | 2022-07-29 |
 | [Horizon](https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 4:09 | 2021-11-12 |  |
 | [Horizon](https://open.spotify.com/track/7sqxbAwB1tl6MfQXHhA2R5) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Horizon](https://open.spotify.com/album/3wMaqh7xUYaBWsf4hLGbIC) | 4:09 | 2021-11-12 | 2022-07-17 |

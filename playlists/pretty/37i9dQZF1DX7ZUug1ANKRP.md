@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: southstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,704,100 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,704,545 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Sunday Night](https://open.spotify.com/track/7IAFfnLZEm7zPyTBNjjdYb) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Sunday Night](https://open.spotify.com/album/0P55wyOTaw9K3dkyqsjnoH) | 2:30 |
 | 50 | [Romeo & Juliet](https://open.spotify.com/track/4t2BiyPhaMpf2bzOdUoTD5) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Romeo & Juliet](https://open.spotify.com/album/3MOCPhpSF2KOfh1eE688mI) | 2:40 |
 
-Snapshot ID: `MTY3ODI3MzIwMCwwMDAwMDAwMDc1NjA0NGY5MTNkODBhNDNjNmE0NWQxNWFlNDE1Y2Rk`
+Snapshot ID: `MTY3ODI3MzIwMCwwMDAwMDAwMDE2NzA3Mjg5NWI0YjIwMTM4MjcxZDRjNjc3YjdjZWU0`

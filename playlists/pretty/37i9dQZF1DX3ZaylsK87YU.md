@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,340 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,537 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [Doxology//Amen](https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:39 |
 | 100 | [Come Behold the Wondrous Mystery](https://open.spotify.com/track/191TpctWpKVr86es9Q2heJ) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm) | [Come Behold the Wondrous Mystery \- Single](https://open.spotify.com/album/28AvjBNITOjVYY283l9kWr) | 3:48 |
 
-Snapshot ID: `MTY3NjY5NjM5NSwwMDAwMDAwMDVjNTFlMmIwMmM0ZjU0Zjk2Mjk0YTFkNmIwNzE5ZGQz`
+Snapshot ID: `MTY3NjY5NjM5NSwwMDAwMDAwMGM2YjIyMDEwMDBmOTVmMzJiNGJjODkxZmZhNGM3NDI5`

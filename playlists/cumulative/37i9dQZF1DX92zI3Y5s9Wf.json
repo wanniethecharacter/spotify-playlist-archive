@@ -148,6 +148,24 @@
     {
       "album": {
         "name": "Haus",
+        "url": "https://open.spotify.com/album/4nYcAtXkRKXmLADGMZUBVG"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171473,
+      "name": "Haus",
+      "url": "https://open.spotify.com/track/27Llu0CjjPMUF4bGLXJ7n6"
+    },
+    {
+      "album": {
+        "name": "Haus",
         "url": "https://open.spotify.com/album/5ghsDK0ezUVfYUT7HitMHb"
       },
       "artists": [
@@ -176,7 +194,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 167000,
       "name": "Haus - Mixed",
       "url": "https://open.spotify.com/track/6Te0wpoDi7GoqhrxYV8N8x"
@@ -198,10 +216,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 158000,
       "name": "Have Me All (feat. Jelita) - Mixed",
       "url": "https://open.spotify.com/track/59sqCjbqNacXS8EZILgtuD"
+    },
+    {
+      "album": {
+        "name": "Have Me All (feat. Jelita) [Mixed]",
+        "url": "https://open.spotify.com/album/1o95XZWUO8TrxcpEjswmD1"
+      },
+      "artists": [
+        {
+          "name": "Jelita",
+          "url": "https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr"
+        },
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Have Me All (feat. Jelita) - Mixed",
+      "url": "https://open.spotify.com/track/5KUB92cwkUdwubn7XSXdtb"
     },
     {
       "album": {
@@ -220,10 +260,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 232000,
       "name": "Hyperspace (feat. Teza Sumendra) - Mixed",
       "url": "https://open.spotify.com/track/2v1FEhMiFDZzZN08tfZe4v"
+    },
+    {
+      "album": {
+        "name": "Hyperspace (feat. Teza Sumendra) [Mixed]",
+        "url": "https://open.spotify.com/album/6AJxmR7PYMWzH7611EAou7"
+      },
+      "artists": [
+        {
+          "name": "Teza Sumendra",
+          "url": "https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7"
+        },
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Hyperspace (feat. Teza Sumendra) - Mixed",
+      "url": "https://open.spotify.com/track/6vsYbmd2rluMxQyRLx8mK9"
     },
     {
       "album": {

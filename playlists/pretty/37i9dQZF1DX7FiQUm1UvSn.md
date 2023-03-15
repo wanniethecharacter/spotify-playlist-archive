@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 
 > The best soundtrack to relax and stretch your body before or after training!
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,050 likes - 102 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,136 likes - 102 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 | 101 | [Let Me Down Slowly](https://open.spotify.com/track/0U8jEPi2k3UZqHK0jvzEe0) | [Powell Sullivan](https://open.spotify.com/artist/2m1anAOoOQM3Df2j3tNelS) | [Let Me Down Slowly](https://open.spotify.com/album/13m8lRDEDFZt7uoCqeCbZq) | 2:40 |
 | 102 | [Rise](https://open.spotify.com/track/1nsn93tZ1aUhsEbNETgkvH) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Rise](https://open.spotify.com/album/1751wnl8603VRyhfuLVw35) | 3:50 |
 
-Snapshot ID: `MTY3ODQxMDAwMCwwMDAwMDAwMDJmY2JlMTk1MjFjMGQyYmE1OWM1ZWFhNGYyMDMyMWU3`
+Snapshot ID: `MTY3ODQxMDAwMCwwMDAwMDAwMGQ1ZmZkM2IxODQ0MGI3NGJhMDAzZjIyNjZhNjUzOTY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To4GlhTfpA.md) - [plain]
 
 > SHINee's back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,647 likes - 88 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,665 likes - 88 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To4GlhTfpA.md) - [plain]
 | 25 | [데리러 가 Good Evening](https://open.spotify.com/track/3dTFof43vcpQKx6Z3iTsOj) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The Story of Light' EP.1 \- The 6th Album](https://open.spotify.com/album/5XwIkFj2HovD5gR8FNlVhG) | 3:43 |
 | 26 | [1 of 1](https://open.spotify.com/track/6UmRhJatcth1KF76r5ucvZ) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [1 of 1 \- The 5th Album](https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj) | 3:23 |
 | 27 | [Everybody](https://open.spotify.com/track/0BiYJIeiAxB8OrCOm9Hgq6) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Everybody \- The 5th Mini Album](https://open.spotify.com/album/0cJUtiybZCK22BF7yfSeA4) | 4:09 |
-| 28 | [Dream Girl](https://open.spotify.com/track/3PrdbYsr8JsDW8f4Tob5pW) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Chapter 1\. 'Dream Girl \- The Misconceptions of You' \- The 3rd Album](https://open.spotify.com/album/4HbeuXyXcLWhZxJ7DS8epV) | 3:00 |
+| 28 | [Dream Girl](https://open.spotify.com/track/3PrdbYsr8JsDW8f4Tob5pW) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SHINee The 3rd Album Chapter 1\. 'Dream Girl \- The Misconceptions Of You'](https://open.spotify.com/album/4HbeuXyXcLWhZxJ7DS8epV) | 3:00 |
 | 29 | [Replay](https://open.spotify.com/track/3lezH4ocsAaxqVGL8E0pS4) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Replay \- The First Mini Album](https://open.spotify.com/album/2zarKiOQYtJ9PGWxYxUOk5) | 3:36 |
 | 30 | [I Want You](https://open.spotify.com/track/7wNZPLzUKbttcNSyoqELuE) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The Story of Light' Epilogue \- The 6th Album](https://open.spotify.com/album/0myFUTLsIg4SKyAanKrM3f) | 3:04 |
 | 31 | [Hello](https://open.spotify.com/track/5udkCCQRyrMgrpHsepMRHX) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Hello \- SHINee The 2nd Album Repackage](https://open.spotify.com/album/3IC82yhFJAPw2jbSfMBzBy) | 3:03 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To4GlhTfpA.md) - [plain]
 | 40 | [Press Your Number](https://open.spotify.com/track/1T7NW3LwpJZw381bfiPPBz) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Press It \- The 1st Album](https://open.spotify.com/album/3BPjJEl3GqXKDhYZf7iFfs) | 3:46 |
 | 41 | [Odd Eye](https://open.spotify.com/track/66f9BsEekmGOQimdPEjFlG) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Odd \- The 4th Album](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) | 3:21 |
 | 42 | [Love Like Oxygen](https://open.spotify.com/track/0B7QAF2ByMFCp1Ls5ov6R7) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The SHINee World \- The First Album](https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7) | 3:02 |
-| 43 | [Why So Serious?](https://open.spotify.com/track/6LgRAevtPVeJGNoF2ZAQeI) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The 3rd Album Chapter 2\. 'Why So Serious? \- The Misconceptions Of Me'](https://open.spotify.com/album/0UqzNn2IEyWQVIuCXvzvIj) | 3:39 |
+| 43 | [Why So Serious?](https://open.spotify.com/track/6LgRAevtPVeJGNoF2ZAQeI) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SHINee The 3rd Album Chapter 2\. 'Why So Serious? \- The Misconceptions Of Me'](https://open.spotify.com/album/0UqzNn2IEyWQVIuCXvzvIj) | 3:39 |
 | 44 | [I'm Home](https://open.spotify.com/track/0YxfpiPOdUgOyWDJETF5SR) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [I'm Home](https://open.spotify.com/album/5KGaHvby6RAB2otBySlwCC) | 3:24 |
 | 45 | [Juliette](https://open.spotify.com/track/6RgCQuMSvdZJW2Irj44QHK) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [ROMEO \- The Second Mini Album](https://open.spotify.com/album/16atzZZUKzxdfcLUxh1J4N) | 3:27 |
 | 46 | [IDEA \(理想\)](https://open.spotify.com/track/1IYN3VqZzehgwh5NqnavIQ) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:13 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To4GlhTfpA.md) - [plain]
 | 87 | [WANT \~Outro\~](https://open.spotify.com/track/4oPi8MvS4CMLO7DMEefb32) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [WANT \- The 2nd Mini Album](https://open.spotify.com/album/7E01VOJ7gyYPz9HXUVeQeq) | 0:59 |
 | 88 | [The SHINee World \(Doo\-Bop\)](https://open.spotify.com/track/3zwMB1JyTzgOLo6rDnAVJ4) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The SHINee World \- The First Album](https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7) | 3:55 |
 
-Snapshot ID: `MTY0MDc0NDc5MywwMDAwMDAwMDczMWNmNTZjZTM0ZTZhYWIwZDAxY2ZiNDdkODU5ODdj`
+Snapshot ID: `MTY0MDc0NDc5MywwMDAwMDAwMGM3OGEwOWJlY2IxZDk3Y2Y5M2EwZWFkNGJhNjRmNDU3`

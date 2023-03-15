@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Aura / Distance",
+        "url": "https://open.spotify.com/album/7BOzIIvwf46hf8WVtaJcEG"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423880,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/74R7A9muWldPpUhr8fqOiN"
+    },
+    {
+      "album": {
         "name": "Away",
         "url": "https://open.spotify.com/album/2bTOJZjjyHS3JjZ6fqfAF1"
       },
@@ -110,7 +128,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 330857,
       "name": "Away",
       "url": "https://open.spotify.com/track/0YZAILWkcrwLfRMPWvVIwv"
@@ -266,7 +284,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 415989,
       "name": "Blue Dub",
       "url": "https://open.spotify.com/track/4V4SUQWZVLAIMi7w20AbKs"
@@ -356,7 +374,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 304306,
       "name": "Bodies Of Water",
       "url": "https://open.spotify.com/track/5649TeZnAjSa6ENwPKG6h8"
@@ -392,7 +410,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 214382,
       "name": "Bone Mics",
       "url": "https://open.spotify.com/track/5hi29SeDshZlOu96sWB76q"
@@ -745,6 +763,28 @@
     },
     {
       "album": {
+        "name": "Don't Hurt Me",
+        "url": "https://open.spotify.com/album/5C9wrneIR28xvm1TpUQjJg"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211336,
+      "name": "Don't Hurt Me",
+      "url": "https://open.spotify.com/track/1UptW89gc2ATGaWegfuSQV"
+    },
+    {
+      "album": {
         "name": "Dvizhenie",
         "url": "https://open.spotify.com/album/1vZjKLmDFaQBdu8VC7yP5y"
       },
@@ -919,6 +959,28 @@
     },
     {
       "album": {
+        "name": "Expression",
+        "url": "https://open.spotify.com/album/2U83gvD8EyynX78yqdQOaE"
+      },
+      "artists": [
+        {
+          "name": "Scuba",
+          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
+        },
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290795,
+      "name": "Expression",
+      "url": "https://open.spotify.com/track/2dBU0wkNaVUoy9kJnxDhSi"
+    },
+    {
+      "album": {
         "name": "Phantom EP",
         "url": "https://open.spotify.com/album/5Ha2ODCl3nDhwOi5oKvp0p"
       },
@@ -996,7 +1058,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 214036,
       "name": "For The Same Man - Nic Fanciulli Remix",
       "url": "https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO"
@@ -1032,7 +1094,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 221500,
       "name": "FYA FYA",
       "url": "https://open.spotify.com/track/7gXR2JukLmjLqryJmqQmTK"
@@ -1075,6 +1137,42 @@
     },
     {
       "album": {
+        "name": "Get Busy",
+        "url": "https://open.spotify.com/album/0Nx7HrtVR1jpwpAtD9O8ob"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200744,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/0MQN5qEy7j7ptYreg4evUX"
+    },
+    {
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/4RKK2gMGokfiGGGk4l1FiS"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241824,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/0Ex4dfzYtS1tgoubw8jLod"
+    },
+    {
+      "album": {
         "name": "Icons",
         "url": "https://open.spotify.com/album/5sJJC4UoKTfJaW0jO6YYCG"
       },
@@ -1104,7 +1202,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 423618,
       "name": "Gintare",
       "url": "https://open.spotify.com/track/6KMwhOCh728m0Dmi4Lleqi"
@@ -1371,6 +1469,24 @@
     },
     {
       "album": {
+        "name": "Intentionally",
+        "url": "https://open.spotify.com/album/6BZvZr6rHBJEOFABiAjqxz"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376386,
+      "name": "Intentionally",
+      "url": "https://open.spotify.com/track/4REuw9Oum1mUaSuzEycj4Q"
+    },
+    {
+      "album": {
         "name": "Is Mine",
         "url": "https://open.spotify.com/album/1KSDLMWVPRjKQgxafjrdJR"
       },
@@ -1556,7 +1672,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 437260,
       "name": "Maladaptive Daydreamer",
       "url": "https://open.spotify.com/track/1OMzDNa8XPcc7ry1lHY0JB"
@@ -1826,7 +1942,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 164125,
       "name": "New Generation",
       "url": "https://open.spotify.com/track/7jpj8wOz4fQ9GZCJ4prdhF"
@@ -2092,7 +2208,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 330666,
       "name": "Phaeses",
       "url": "https://open.spotify.com/track/3CXLGRODlXbTkXUEvsi7Xu"
@@ -2334,7 +2450,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 325000,
       "name": "RRR+1",
       "url": "https://open.spotify.com/track/1S4SzvAhnPid5WeCOOqf1s"
@@ -2668,7 +2784,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 182001,
       "name": "Storm 2022",
       "url": "https://open.spotify.com/track/39N9R61hAatOAIjBs2RH6z"
@@ -2940,7 +3056,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 390692,
       "name": "U, My",
       "url": "https://open.spotify.com/track/1dMqof5wPCk7WbYCxogYeQ"
@@ -2976,7 +3092,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 389419,
       "name": "Under the Strobe",
       "url": "https://open.spotify.com/track/48TJWuMRb9ZcKAPxu03b5j"
@@ -3096,7 +3212,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 217968,
       "name": "W.A.I.S.T.D. - Genix Remix",
       "url": "https://open.spotify.com/track/28rPVoN6LUZs9w0AE6pBlt"
@@ -3161,6 +3277,24 @@
     },
     {
       "album": {
+        "name": "When Together",
+        "url": "https://open.spotify.com/album/4WQxdIVOs3LEwHpoR3FWUQ"
+      },
+      "artists": [
+        {
+          "name": "Zaltsman",
+          "url": "https://open.spotify.com/artist/64P9QlhICY8oF9DFPHHPco"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340741,
+      "name": "When Together",
+      "url": "https://open.spotify.com/track/26Ueac9pnDqYTCX04Y9LKK"
+    },
+    {
+      "album": {
         "name": "Wildside",
         "url": "https://open.spotify.com/album/3RRhOM6a9IzhKjrIKTHn0J"
       },
@@ -3212,7 +3346,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 278823,
       "name": "X Axis",
       "url": "https://open.spotify.com/track/2KKSzccFD8HPxAaDzAJ9pB"
@@ -3234,7 +3368,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 231623,
       "name": "Xtatic",
       "url": "https://open.spotify.com/track/4nPDscbfLMm9ahOpPlCw95"

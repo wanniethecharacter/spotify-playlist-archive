@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 
 > Enjoy a break with some relaxing soft songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,083 likes - 250 songs - 14 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,218 likes - 250 songs - 14 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 | 249 | [Drink About \- Acoustic Version](https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Drink About \(Acoustic Version\)](https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo) | 2:57 |
 | 250 | [Splintered](https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 4:10 |
 
-Snapshot ID: `MTY3NzgyMzUzOCwwMDAwMDAwMDNkYzQ4ZTIxY2JiZmYwZjc5MGM1Yjg5YTEzNjg0YWE3`
+Snapshot ID: `MTY3NzgyMzUzOCwwMDAwMDAwMDE3MjhjNmVhZTBkYWNiYjgzOGQyMWFmYzQxODFkNWQ2`

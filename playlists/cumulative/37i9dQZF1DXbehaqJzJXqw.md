@@ -4,7 +4,7 @@
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-153 songs - 8 hr 27 min
+154 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [C'est si bon \- 2012](https://open.spotify.com/track/5PcCSUGriuhWuyyWxuBnnM) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Seule ce soir](https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5) | 3:16 | 2022-01-20 |  |
 | [Ces bottes sont faites pour marcher](https://open.spotify.com/track/2UI4CNjKxIkCZ0g14ckmM9) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Seule ce soir](https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5) | 5:23 | 2022-01-20 |  |
 | [Ces Petits Riens](https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 2:14 | 2022-01-20 |  |
-| [Ces petits riens](https://open.spotify.com/track/3ttOCwpDbGFLf3VbZinXF1) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Monsieur Gainsbourg Originals](https://open.spotify.com/album/0SywgxMeOlmVNDa2IXAa3G) | 2:02 | 2022-06-28 |  |
+| [Ces petits riens](https://open.spotify.com/track/3ttOCwpDbGFLf3VbZinXF1) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Monsieur Gainsbourg Originals](https://open.spotify.com/album/0SywgxMeOlmVNDa2IXAa3G) | 2:02 | 2022-06-28 | 2023-03-15 |
 | [Ces petits riens](https://open.spotify.com/track/71HYFVkUfN5ptKggYNJOHF) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Gainsbourg percussions](https://open.spotify.com/album/1eSbBUNhdkrDtfqVHn3sS1) | 2:05 | 2022-01-20 | 2022-07-29 |
 | [Ces petits riens](https://open.spotify.com/track/1f5RkzhoRnzCO6AzMhkhdY) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 3:21 | 2022-01-20 |  |
 | [Cette Nuit là](https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5) | [Les Chauds Lapins](https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ) | [Amourettes](https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co) | 2:30 | 2022-01-20 |  |
@@ -38,7 +38,7 @@
 | [Douce France](https://open.spotify.com/track/6zlMAsPgiG81sZzsYVFwL3) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [Disque D'or](https://open.spotify.com/album/2BgO56jZnE4xbfvlZOjK0L) | 3:12 | 2022-01-20 | 2023-01-11 |
 | [En septembre sous la pluie](https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7) | [Léo Marjane](https://open.spotify.com/artist/17biBe7LOJ6V6OH4aAHbXc) | [La Chapelle Au Clair De Lune](https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj) | 3:07 | 2022-06-10 |  |
 | [Entre nous](https://open.spotify.com/track/3rknoyQue5qrhZIun1P2L4) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Entre nous](https://open.spotify.com/album/2E2cblQjuaWNoa3b0npain) | 2:59 | 2022-01-20 | 2022-06-01 |
-| [Faire des ronds dans l'eau](https://open.spotify.com/track/7JFT6vfzNI3Qtyyza6J55R) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chambre Avec Vue](https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB) | 2:48 | 2022-01-20 | 2023-03-14 |
+| [Faire des ronds dans l'eau](https://open.spotify.com/track/7JFT6vfzNI3Qtyyza6J55R) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chambre Avec Vue](https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB) | 2:48 | 2022-01-20 |  |
 | [Fibre De Verre](https://open.spotify.com/track/1DaKM1Mzf9cOhHF9eKZZ4w) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Attraction](https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS) | 3:40 | 2022-01-20 |  |
 | [High Low In](https://open.spotify.com/track/6LAIuS6A5qBqFP41FEQnsY) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Motifs](https://open.spotify.com/album/6pVrBCOoISxJxv5BQoaYe0) | 3:30 | 2022-05-02 |  |
 | [Il Faut Du Temps Au Temps](https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD) | [Makali](https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO) | [De La Chanson Et Puis C'Est Tout...](https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe) | 2:30 | 2022-06-10 |  |
@@ -68,11 +68,12 @@
 | [La fille d'Ipanema](https://open.spotify.com/track/54HjqZdYLyQTirAJTieAnx) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 2:26 | 2022-02-08 |  |
 | [La grippe](https://open.spotify.com/track/1syekyuaIRLfqGMP5quqhb) | [Jacques Higelin](https://open.spotify.com/artist/7KisXggbWbBdYatDQcBmum), [Brigitte Fontaine](https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1) | [13 chansons d'avant le déluge](https://open.spotify.com/album/15I7QvT8jQY5xvU2CBzWgf) | 2:21 | 2022-01-20 | 2022-07-29 |
 | [La Grippe](https://open.spotify.com/track/7kcRZ2mqIYx1y3LNiOd6lM) | [Jacques Higelin](https://open.spotify.com/artist/7KisXggbWbBdYatDQcBmum), [Brigitte Fontaine](https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1) | [Chante Vian et Higelin](https://open.spotify.com/album/3HeAWCVAleqYP5Vvdc8jdy) | 2:21 | 2022-06-28 |  |
+| [La javanaise](https://open.spotify.com/track/4RiomsjTG30IR5V72paigO) | [Livia Blanc](https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu) | [La javanaise](https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO) | 2:01 | 2023-03-15 |  |
 | [La javanaise](https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:29 | 2022-01-20 | 2022-10-05 |
 | [La mer](https://open.spotify.com/track/2btsOBBDI1iyEvTgyy0oPC) | [Cyntia M.](https://open.spotify.com/artist/33QgqCTyg6QmLocI5YEHmk) | [Bistro Blue](https://open.spotify.com/album/66RanaCIH8Px0JeEElXZBJ) | 4:03 | 2022-01-20 | 2022-11-16 |
 | [La mer opale](https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA) | [Coralie Clement](https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4) | [Salle des pas perdus](https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY) | 2:47 | 2022-01-20 |  |
 | [La noyée](https://open.spotify.com/track/6IqdKYhWzcznN8TPOxD3i4) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un M'a Dit](https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x) | 3:58 | 2022-06-09 | 2022-07-17 |
-| [La noyée](https://open.spotify.com/track/0NwrKodXe9xPCFn5wNDene) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un m'a dit](https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k) | 4:02 | 2022-09-13 |  |
+| [La noyée](https://open.spotify.com/track/0NwrKodXe9xPCFn5wNDene) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un m'a dit](https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k) | 4:02 | 2022-09-13 | 2023-03-15 |
 | [La rua Madureira](https://open.spotify.com/track/6Q2emXXZy652fNKkSSfNht) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 3:23 | 2022-01-20 | 2022-10-05 |
 | [La Rua Madureira](https://open.spotify.com/track/3jFtKmNqDyHp27m8lmEANY) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 3:17 | 2022-01-20 |  |
 | [La valse à mille temps](https://open.spotify.com/track/0Yqvv7EV2VYgC299tA5ZaV) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [15 Ans D'Amour](https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG) | 3:49 | 2022-01-20 | 2022-12-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Juliet Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,739 likes - 79 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,928 likes - 79 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 78 | [Bangalore Girl](https://open.spotify.com/track/5SbQwyAnj2NkyPSg5SLn8V) | [Joyce Muniz](https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L) | [Bangalore Girl](https://open.spotify.com/album/2caJPIatHrvo22ijTShEHD) | 3:02 |
 | 79 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 |
 
-Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMDRkNGIzZGI2Njg5MmFkMTA2Yjg1ZDlmMGNhZTYxMDNl`
+Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMDViZTBhZWJjMmMyYTMxNWNhYTQyZDg1MGZiZGMwM2E4`

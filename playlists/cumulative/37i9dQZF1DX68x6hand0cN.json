@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "AY\u00c9 AYO (feat. Skalpovich)",
+        "url": "https://open.spotify.com/album/2LFb14evc1ArfZ8SkQUbcl"
+      },
+      "artists": [
+        {
+          "name": "L'Alg\u00e9rino",
+          "url": "https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui"
+        },
+        {
+          "name": "Skalpovich",
+          "url": "https://open.spotify.com/artist/0Flx9EfBqXHltFcp3guYVt"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183092,
+      "name": "AY\u00c9 AYO (feat. Skalpovich)",
+      "url": "https://open.spotify.com/track/4XXJnTdwm0MaKLP2OXajCU"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/4ag07Nbz1xUcFWU17JNh1r"
       },

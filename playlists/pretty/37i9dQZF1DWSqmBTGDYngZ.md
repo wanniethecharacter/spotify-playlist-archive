@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqmBTGDYngZ.md) - [plain]
 
 > Make your shower more uplifting by singing along to these hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,215,926 likes - 200 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,217,725 likes - 200 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqmBTGDYngZ.md) - [plain]
 | 199 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
 | 200 | [Superheroes](https://open.spotify.com/track/37sINbJZcFdHFAsVNsPq1i) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [No Sound Without Silence](https://open.spotify.com/album/6yd9yk8nFcHalXzy7mgaDx) | 4:05 |
 
-Snapshot ID: `MTY3Nzc1MDY1NywwMDAwMDAwMDI4OWFhNjIzYjA4OWI3N2I1MWMzOGNkNjkwNWE2M2Fi`
+Snapshot ID: `MTY3Nzc1MDY1NywwMDAwMDAwMGZmNjU5OTM4ZDFhYmUzNWNiZjA1NzQ2YWMzMTU5YmU4`

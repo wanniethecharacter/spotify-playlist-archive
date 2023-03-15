@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,289 likes - 130 songs - 13 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,351 likes - 130 songs - 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 32 | [I Still](https://open.spotify.com/track/38U70XapOx0kexSOsX03gC) | [DJ Gomi](https://open.spotify.com/artist/1cKbeR3hJRlWFlAd3BJxGz), [Walid Martinez](https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6) | [I Still](https://open.spotify.com/album/4eV9uFMNWicgEMeIyUrkS6) | 7:01 |
 | 33 | [Elya](https://open.spotify.com/track/3BMyGkAvosGkqTquzNAiEr) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0) | [Elya](https://open.spotify.com/album/4eggQ1mmUdI3o0QYdx7eVv) | 6:32 |
 | 34 | [Siento Libre \(JJ Rework\) \- Extended Mix](https://open.spotify.com/track/2rymUsZWzkAM9mJTECevbH) | [Virak](https://open.spotify.com/artist/7gEgxCJulGmrl6vAa39NcK), [Tcks](https://open.spotify.com/artist/1oNQhBscjoXDBZBKy9DKIb), [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Siento Libre \(JJ Rework\)](https://open.spotify.com/album/4QU4ftKLTB3zVOMk7yqFQA) | 6:59 |
-| 35 | [Mykonos](https://open.spotify.com/track/6xM5J6zi05edZeo06y524g) | [Fantasi](https://open.spotify.com/artist/3hA7JQHjqkT82wssjqG3uK), [Meric Again](https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF) | [Mykonos](https://open.spotify.com/album/1suGVIujM6SWlo0HktXH23) | 3:46 |
+| 35 | [Mykonos](https://open.spotify.com/track/6xM5J6zi05edZeo06y524g) | [Fantasi](https://open.spotify.com/artist/3hA7JQHjqkT82wssjqG3uK), [Meric Again](https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF), [Nomade](https://open.spotify.com/artist/3Ker8b3IssXoieHmxgR0Xn) | [Mykonos](https://open.spotify.com/album/1suGVIujM6SWlo0HktXH23) | 3:46 |
 | 36 | [XP](https://open.spotify.com/track/3gPI8ddrbwIILGD7Bm9NEg) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [XP](https://open.spotify.com/album/5tQTtuAYhnDoBNfcuf1Lcd) | 6:39 |
 | 37 | [Duduk](https://open.spotify.com/track/5hkEwaKH0APo8nyWO2BT6n) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Roxteel](https://open.spotify.com/artist/0xCictaICMnerRvsyLeisS) | [Soul Of Winds](https://open.spotify.com/album/7pqvYMZ3Mno03S7wSpkddG) | 5:30 |
 | 38 | [Neko \(feat Kotoe\)](https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f), [Kotoe](https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM) | [Neko Ep](https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip) | 4:33 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 129 | [Celebration Santoor](https://open.spotify.com/track/1UjdeuHHj8GKfHf29gaHfV) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Namito](https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ), [Bahramji](https://open.spotify.com/artist/1TRLkR7OoXzEwUckYwHt5B) | [Buddy System](https://open.spotify.com/album/5lVYQO63PD8UsrlzTY4hoD) | 7:16 |
 | 130 | [Sajanna](https://open.spotify.com/track/4aXBbgkj3wdit5Dq2FCo1v) | [Jack Essek](https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [Ethno World 2](https://open.spotify.com/album/5pdUgjwzDl9iEOR32qh0YC) | 7:34 |
 
-Snapshot ID: `MTY3ODczMzMyNSwwMDAwMDAwMGIxYzU2ZDk1NDNjNmQ2YWQwZmQ1MGYyYjU1ZDgxMWZk`
+Snapshot ID: `MTY3ODczMzMyNSwwMDAwMDAwMGEwMmVhNjIzNjg3NjhmMThlZGVhMWIxOWU4M2YxMTY5`

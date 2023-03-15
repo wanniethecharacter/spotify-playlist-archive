@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da ascoltare in loop\. Cover: Lazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,768 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,937 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 99 | [Fiori Del Male \(feat.Sfera Ebbasta\)](https://open.spotify.com/track/6L9c3eo0Mcfmom3QqsGN0j) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [The Dark Album](https://open.spotify.com/album/6dcABz37PK2Q9bnv8kYTt0) | 3:08 |
 | 100 | [Blauer](https://open.spotify.com/track/3Nu1xzgGX1tTyMaw8VdyGa) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Blauer](https://open.spotify.com/album/14i0xkJKrPJS6Mv8VKOOIK) | 2:56 |
 
-Snapshot ID: `MTY3ODA5NDA2NywwMDAwMDAwMGVhMTVhZGM5MGNhMDJlOWExOTIyYzhmMzJiODIxMzMw`
+Snapshot ID: `MTY3ODA5NDA2NywwMDAwMDAwMDc3ZjAyYzJlZGExMzM4M2NmMjkwNTZlMDhjYmViYjU3`

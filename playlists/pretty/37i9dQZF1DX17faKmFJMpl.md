@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,168 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,169 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [Never Give Up Ⅱ \(Feat\. 손박사, 오전도사, DJ Uzi, Rich\)](https://open.spotify.com/track/2E84dE2xWHEMKIBofKogIE) | [ZoPD](https://open.spotify.com/artist/1JIlqu7XZniSF86iMlgKHR), [Rich](https://open.spotify.com/artist/0OAPcmruJr93HIMyFgFjoP), [손박사](https://open.spotify.com/artist/7IQBTbw1x949fH2KfbHi1d), [오전도사](https://open.spotify.com/artist/1jy9lnMScttgD1RbRtKk2h), [DJ Uzi](https://open.spotify.com/artist/7tSx5FV8Ku05I1LEFDWXh7) | [조PD\. Net / Best In East](https://open.spotify.com/album/1WmWpvspnZ2DQGL4dsbdWR) | 4:16 |
 | 100 | [엉터리 학생](https://open.spotify.com/track/44S4m3SbKCTQmS23BsNhNr) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [HONEY FAMILY](https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T) | 4:13 |
 
-Snapshot ID: `MTYyOTI2MTY0MCwwMDAwMDAwMDNmOGM5ZmY1ODM0OWFhNGIzMjI3MDNiNWYzYzI4YjJm`
+Snapshot ID: `MTYyOTI2MTY0MCwwMDAwMDAwMGE0NmFmZGRkNzU1MDI4MmNlMjcyN2Q5OTEzYTI5Y2Nk`

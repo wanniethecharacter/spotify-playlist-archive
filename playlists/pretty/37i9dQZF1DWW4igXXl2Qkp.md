@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: SheedTs
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,277 likes - 65 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,321 likes - 65 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 64 | [Billy](https://open.spotify.com/track/1HUGH6K8uKM2z8OR92JmAc) | [Lord Juco](https://open.spotify.com/artist/5Gld0bWeqAVgHGgwLpOJlZ) | [Shadows 4](https://open.spotify.com/album/32SA1u7qaPOLesIPXb606I) | 2:00 |
 | 65 | [No Cap Pt\. 2 \(feat\. Fredo Bang\)](https://open.spotify.com/track/74kpb349Y0Rnu2U489O9e8) | [Shoebox Baby](https://open.spotify.com/artist/3GXyMzBhozW9CaHPg54y9f), [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [It Aint Over](https://open.spotify.com/album/1qTOiYn4ynjph6yXJ7TeH4) | 2:37 |
 
-Snapshot ID: `MTY3ODI5NDgwMCwwMDAwMDAwMGRiYWVmNTZmZWNkNDE3M2VhNjI1ODRiMGQ1MmM0ODVh`
+Snapshot ID: `MTY3ODI5NDgwMCwwMDAwMDAwMGNhMmYxZmJlYjMwYjllNzc5MzE3YzkzNzUxMGZkMDY2`

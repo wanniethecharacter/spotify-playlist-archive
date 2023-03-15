@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Christine & The Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,656 likes - 172 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,743 likes - 172 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 171 | [How I'd Kill](https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [How I'd Kill](https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b) | 2:23 |
 | 172 | [Bloody Kisses](https://open.spotify.com/track/3UmoLlwTRXFBXogohJo2zC) | [Camp Blu](https://open.spotify.com/artist/6ABdWlgN5QfjDsCacBn6Nt) | [Bloody Kisses](https://open.spotify.com/album/6OyKWoGWjIPSxYppTYzuEO) | 2:32 |
 
-Snapshot ID: `MTY3ODQ3MTI4NCwwMDAwMDAwMGE1MjU0OWYzZWMyMTZkNjE1ZmFkZTYxNmE5Njc4NDVj`
+Snapshot ID: `MTY3ODQ3MTI4NCwwMDAwMDAwMDc1NWQwZjNjMzg2ZmFmMjdlNTExYzY1YjgzY2U0MDM0`

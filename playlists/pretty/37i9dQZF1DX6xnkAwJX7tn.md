@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 
 > The biggest party hits of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,011 likes - 150 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,856 likes - 150 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 149 | [When the Going Gets Tough, The Tough Get Going](https://open.spotify.com/track/5UU5FbITNm5OunvHQdsKME) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 4:08 |
 | 150 | [Dancing in the Street \- 2002 Remaster](https://open.spotify.com/track/6FnuMo55jNECTDdS1nD5H0) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [Dancing In The Street E.P.](https://open.spotify.com/album/25vNR2X4RTa0UJ9aKqaXqz) | 3:24 |
 
-Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMDBkNWQ5MTdmOGY3OTUyODlkOGM4NDBiYWNiMTMwODA0`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMDkwNjRiNTIxNWY0NGZmNjc2YmZhNDg1MjIxYjRhMmNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Nico Kyni
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,965 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,978 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 59 | [Mama](https://open.spotify.com/track/3Ry2ZBM6XaCDPpZaMuFE9v) | [SAMIA](https://open.spotify.com/artist/4LxiKyrhyqB0fTGmKtXSFZ) | [Mama](https://open.spotify.com/album/6Te8O72BKZZIK2MI72LUKT) | 3:11 |
 | 60 | [Just Eat](https://open.spotify.com/track/18liqHUDCbL57MpWreIwOa) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Just Eat](https://open.spotify.com/album/7niPoJYBWsZBlQLp997fLQ) | 3:08 |
 
-Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMDM3ZDRhMTY3ZTY4NmRhY2MxZWIzMThjMzcyNjVhYWI2`
+Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMDYxZWMxM2I3ZWYzM2YzNmVkNDA3NzQ1YzVkNTNkMTI4`

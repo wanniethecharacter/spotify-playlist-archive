@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Oruam, Borges, Chefin
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,787 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,993 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Ford Ka](https://open.spotify.com/track/7g18mpJuwUeWhUIEczyFqw) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Ford Ka](https://open.spotify.com/album/35leKTbOBMKbwK9EPCMBfL) | 2:29 |
 | 50 | [Dores](https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Dores](https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n) | 3:15 |
 
-Snapshot ID: `MTY3ODcyNjAwMiwwMDAwMDAwMDBlYTZiNWU4Mzg5OWMxMGVhZThjNzQxYjU5NzEyMmQ1`
+Snapshot ID: `MTY3ODcyNjAwMiwwMDAwMDAwMDA4ZTNkODNlMDA4ZDY3ZjMyN2YyNDhjNzllM2E4ZTAx`

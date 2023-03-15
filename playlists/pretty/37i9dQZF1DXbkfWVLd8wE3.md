@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 
 > Celebrating De La Soul!
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,170 likes - 90 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,332 likes - 90 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 | 89 | [The Jump Off \(feat\. Mr\. Cheeks\) \- Remix](https://open.spotify.com/track/3CZlTOyNnKVMb021IYEY6r) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mr\. Cheeks](https://open.spotify.com/artist/0UeVxCKyBypjQvDCT889zt) | [The Jump Off \(feat\. Mr\. Cheeks\) \[Remixes\]](https://open.spotify.com/album/4ODmc5z57TpFAVTSe6PVSE) | 3:54 |
 | 90 | [Work It \(feat\. 50 Cent\) \- Remix](https://open.spotify.com/track/7Ml5yFM5H8gCQ4U4NSe4Bc) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 5:04 |
 
-Snapshot ID: `MTY3ODE3NjExOSwwMDAwMDAwMDU2MDQxNjNlNDRhZmJiMzcyNjYwYjcyN2VmNDNlYjQ2`
+Snapshot ID: `MTY3ODE3NjExOSwwMDAwMDAwMGQ4ZGJmMjgwNzNhNjA5NmFiMzVlNDk5YjI1MDE0Y2Ew`

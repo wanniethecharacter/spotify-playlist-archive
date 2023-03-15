@@ -532,7 +532,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 202506,
       "name": "Borderland",
       "url": "https://open.spotify.com/track/7dbcgrQiZGB1kTXzevBEen"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 269466,
       "name": "Henry St.",
       "url": "https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI"
@@ -3025,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "Talking To Myself (demo)",
+        "url": "https://open.spotify.com/album/1tQ0dVXzTgKy42UgCg1UxZ"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184822,
+      "name": "Talking To Myself - demo",
+      "url": "https://open.spotify.com/track/0qB5bMRX5nG0F8qwHJgWmB"
+    },
+    {
+      "album": {
         "name": "Temple Fair",
         "url": "https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO"
       },
@@ -3182,6 +3200,24 @@
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
+    },
+    {
+      "album": {
+        "name": "The Meeting Place",
+        "url": "https://open.spotify.com/album/6FEnZmqXQQg9QwiiUZsDVn"
+      },
+      "artists": [
+        {
+          "name": "Keaton Henson",
+          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262200,
+      "name": "The Meeting Place",
+      "url": "https://open.spotify.com/track/7n09veyrtEC6g7e33V98XY"
     },
     {
       "album": {
@@ -3608,7 +3644,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 274593,
       "name": "You Don't Have To Cry",
       "url": "https://open.spotify.com/track/2fmsxiX567SCvCPfW0LLix"

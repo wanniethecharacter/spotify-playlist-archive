@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Venna
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,253 likes - 140 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,240 likes - 140 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 139 | [Got It Good \- Radio Edit](https://open.spotify.com/track/4jhLUUDxEOYAicBx02QFPh) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Got It Good](https://open.spotify.com/album/6q1MJ8xThRR4WHVBRvH3OH) | 3:02 |
 | 140 | [Think That I Don't Need Your Love](https://open.spotify.com/track/1vFOdLRFuiz5K2pZ7UggOJ) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Think That I Don't Need Your Love](https://open.spotify.com/album/47T6CDeQtuDW8XvUomdeB2) | 3:43 |
 
-Snapshot ID: `MTY3ODQ0MzEyMiwwMDAwMDAwMDc5NjU3NzY4OTE1NzcyZjc2NjE2YWM2ZTE4MGIwMjU3`
+Snapshot ID: `MTY3ODQ0MzEyMiwwMDAwMDAwMGRhYjRlNTM2NWE0MDQ0M2I5ZTNjODU5ZmMyNGJkNGY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,969 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,001 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 49 | [Minuetto](https://open.spotify.com/track/5DPp64xvym2n9tHE8nuhn7) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Il giorno dopo \(Gli Indimenticabili\)](https://open.spotify.com/album/2n9uS88r6JmABiCy4CbhBM) | 4:43 |
 | 50 | [MIA](https://open.spotify.com/track/1SIl1FBbHmGa4PmJu5q6Lm) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45) | [MIA](https://open.spotify.com/album/6cncwJJC6PJW1JelJ6v71g) | 2:54 |
 
-Snapshot ID: `MTY3Nzg2MzU3NCwwMDAwMDAwMDI0YTdkODY3OWFkM2U3ZTRkODZlMWQxZDdiN2I1Zjdj`
+Snapshot ID: `MTY3Nzg2MzU3NCwwMDAwMDAwMDQwM2IyNGYyY2U4YjdlMjA3NDA0M2IzNGQ4ZjQ3MTA4`

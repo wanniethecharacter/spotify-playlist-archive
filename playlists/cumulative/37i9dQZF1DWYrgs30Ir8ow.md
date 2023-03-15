@@ -2,7 +2,7 @@
 
 ### [Fresh Hits](https://open.spotify.com/playlist/37i9dQZF1DWYrgs30Ir8ow)
 
-> Altijd fris in Fresh Hits\. Cover: The Kid LAROI
+> Altijd fris in Fresh Hits\. Cover: Calvin Harris & Ellie Goulding
 
 63 songs - 2 hr 54 min
 

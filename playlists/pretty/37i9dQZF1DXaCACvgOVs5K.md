@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Ibiza season is back for 2022\. Let's dance!
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,565 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,689 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 99 | [Age of Love \- ARTBAT Rave Mix](https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB) | [Age of Love \(ARTBAT Rave Mix\)](https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK) | 7:25 |
 | 100 | [Feel The Heat](https://open.spotify.com/track/3r9CbJJKdAQ1Djfu932w22) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W) | [Feel The Heat](https://open.spotify.com/album/3mDPmJJwXuTE8azVXFBD7n) | 2:44 |
 
-Snapshot ID: `MTY2MTUzNzc2MCwwMDAwMDAwMDgyM2VjOWVkMTk0Yjk4NmMxMjk3MWMxYjBhNzgzZDQ4`
+Snapshot ID: `MTY2MTUzNzc2MCwwMDAwMDAwMDQ3ZTI0YTk1NzQ0N2I4YjQ2NTkyNzAzZGNkZmQ2NmMy`

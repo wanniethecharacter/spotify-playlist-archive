@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 
 > Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,763 likes - 75 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,808 likes - 75 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 | 74 | [Stabat Mater, Op\. 58, B\. 71: Inflammatus et accensus](https://open.spotify.com/track/6Hkaz5ceCPFnCidvYbqmNl) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Christine Brewer](https://open.spotify.com/artist/2JBU8gccWLZRrAHgDU3nja), [Marietta Simpson](https://open.spotify.com/artist/0PT7kJyKkN793JgwIXjLTC), [John Aler](https://open.spotify.com/artist/4AFs7zZ7Ye09FaWoFFp6hf), [Ding Gao](https://open.spotify.com/artist/5KJixgNLwxgEuVOzpTbDjK), [The Washington Chorus](https://open.spotify.com/artist/6A4Z3DxRdmc6jrVTYzcocX), [Washington Orchestra](https://open.spotify.com/artist/3r1iiOUBEEhjQesxLzH7AA), [Robert Shafer](https://open.spotify.com/artist/5WSJ9bSBgl2BO91FasCx2c) | [Dvorak: Stabat Mater / Psalm 149](https://open.spotify.com/album/3R2k6OYPKVE4SBgNTJiNv2) | 6:01 |
 | 75 | [Dvořák: Symphony No\. 1 in C Minor, B\. 9 "The Bells of Zlonice": IV\. Finale\. Allegro animato](https://open.spotify.com/track/4QkWBjvOvwEaBZwWG0jfyA) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [José Serebrier](https://open.spotify.com/artist/1C3E8y3WbXJJYWs9Ex11et), [Bournemouth Symphony Orchestra](https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB) | [Dvořák: Complet Symphonies \- Legends \- Slavonic Dances & Czech Suite](https://open.spotify.com/album/4X8vf4EUAyDC5NVNRTg8dN) | 13:40 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDdiM2Q4MmNlYzk1OTBjOTEwN2Y4MzRjMTk4NjIwNjJh`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMGNlMWMzNDE1N2YxNjc3NGQxYzY5YjQ4YmFlZmJmZjE3`

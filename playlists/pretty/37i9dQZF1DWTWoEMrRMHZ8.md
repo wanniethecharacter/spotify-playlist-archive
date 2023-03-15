@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Adriana Calcanhotto
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,810 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,874 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 99 | [Aquela Que Teima](https://open.spotify.com/track/3NLlMlnjKUOWZgKN7eQrkK) | [Anna Vis](https://open.spotify.com/artist/4mUQAOiVyDNdzk1avmQboE) | [Como Um Bicho Vê](https://open.spotify.com/album/4P4E9ocJ7CQWhautaj5eqO) | 2:10 |
 | 100 | [Mal Acostumada](https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Doce Carnaval](https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB) | 4:30 |
 
-Snapshot ID: `MTY3ODUwMzcyNiwwMDAwMDAwMDgzZDg2MGEzNmU5NWVlMzZkZDAxNGUyMmFkZmQ3ZjRk`
+Snapshot ID: `MTY3ODUwMzcyNiwwMDAwMDAwMDdkMmViZDYwZjk2MmY3ODVmMTI4YTVlOWE5NzQ5NzU0`

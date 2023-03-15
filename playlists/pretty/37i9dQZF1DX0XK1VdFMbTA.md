@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XK1VdFMbTA.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 70s rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,107 likes - 500 songs - 1 day 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,233 likes - 500 songs - 1 day 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XK1VdFMbTA.md) - [plain]
 | 499 | [Crest Of A Wave](https://open.spotify.com/track/7EGqe1xQ4s2XSoWnpeG8ta) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Deuce \(Remastered 2017\)](https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ) | 5:51 |
 | 500 | [Why Does It Hurt When I Pee?](https://open.spotify.com/track/21CXijjRjUaegeKhfPF7uX) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Joe's Garage Acts I, II & III](https://open.spotify.com/album/6uJkCskko3O83SRYWQVsjS) | 2:22 |
 
-Snapshot ID: `MTY2ODY5OTQ2NiwwMDAwMDAwMDJkNGJmNWVkOTEyMTEzYTczNjUwZGViYmIwYWVjYzVh`
+Snapshot ID: `MTY2ODY5OTQ2NiwwMDAwMDAwMDRjNmQyOTRmNTM2ZjE1ZDc0MmNmODQxMDMyNjBlMGZi`

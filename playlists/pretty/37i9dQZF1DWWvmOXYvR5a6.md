@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: SINDOSI:22\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,706 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,798 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 | 99 | [Number \(Feat\. BIG Naughty\)](https://open.spotify.com/track/0b5xMWDVHK7SSZI0Lr2iNg) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:51 |
 | 100 | [Make Love \(Feat\. Zion.T\)](https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 2:34 |
 
-Snapshot ID: `MTY3ODA5NTUwMCwwMDAwMDAwMGY5OTAxYjEzYzUxYmYwYjhhMjE3YzY1YmU4M2E2Yjg3`
+Snapshot ID: `MTY3ODA5NTUwMCwwMDAwMDAwMGMwYzQyZWRlY2Y2YWU5YjY3MWQ0MDBhMmVjMzIyNDJl`

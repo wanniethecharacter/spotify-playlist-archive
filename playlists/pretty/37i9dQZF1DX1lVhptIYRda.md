@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits of the week, worldwide! Cover: Kelsea Ballerini
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,253,961 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,255,133 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [For What It’s Worth \(feat\. Alana Springsteen\)](https://open.spotify.com/track/5b4n4Lp2ZAPDGO9nQM5IHR) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [For What It’s Worth \(feat\. Alana Springsteen\)](https://open.spotify.com/album/1pr7LMNaajjMMWnGjU9pM9) | 2:56 |
 | 50 | [Up There Down Here](https://open.spotify.com/track/1116cRlf1zVJXVI2fUUwFD) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Up There Down Here](https://open.spotify.com/album/77uuIsKBiuPTSu8EjDP0r0) | 3:20 |
 
-Snapshot ID: `MTY3ODQ3MDAyMSwwMDAwMDAwMGE1YjFmM2M5OTQ4YjhlODE1YTRkNDMwNDc3Y2M4YzEy`
+Snapshot ID: `MTY3ODQ3MDAyMSwwMDAwMDAwMDkzNjk2Yzg5MTM5ZWMwNjliMjg4MTUzODUzYjk0OTE0`

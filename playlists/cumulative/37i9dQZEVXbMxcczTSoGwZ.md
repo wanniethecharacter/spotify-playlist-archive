@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,289 songs - 2 day 22 hr 33 min
+1,290 songs - 2 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2022-04-09 | 2022-04-11 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-08 | 2023-03-05 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-04 | 2022-12-09 |
+| [Crocodile Teeth](https://open.spotify.com/track/0Blcsfh3cqrWBAibAEBh1p) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Crocodile Teeth](https://open.spotify.com/album/7ecc4JFHVogZflh9zDwyZG) | 2:10 | 2023-03-14 |  |
 | [Crunch Time](https://open.spotify.com/track/1jS3cp1ISJYqXK3APiXK8p) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [GLITTER](https://open.spotify.com/album/2z3T095JuG4HcJpO36XPnG) | 1:49 | 2021-04-04 | 2021-04-09 |
 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 | 2021-11-21 | 2021-11-27 |
 | [CV](https://open.spotify.com/track/1mSn919G9lGy6kVHDcYoWo) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq) | [LIMBO](https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ) | 3:39 | 2022-12-10 | 2023-01-01 |
@@ -927,7 +928,7 @@
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-11 | 2021-05-27 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-05-03 | 2023-01-03 |
 | [Reggaemiehen lauantai \(Vain elämää kausi 12\)](https://open.spotify.com/track/7vCzRSmOiztXt4ikVp0uMU) | [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Reggaemiehen lauantai \(Vain elämää kausi 12\)](https://open.spotify.com/album/7zNoZoPUdCMVRPkJaWwsGl) | 2:52 | 2021-10-04 | 2021-10-19 |
-| [Reiviluola](https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Älä pelkää elämää](https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo) | 4:07 | 2021-09-12 |  |
+| [Reiviluola](https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Älä pelkää elämää](https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo) | 4:07 | 2021-09-12 | 2023-03-15 |
 | [Reiviluola \- Remix](https://open.spotify.com/track/4eVRTOy6vUWuwD03ccIXYv) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [Reiviluola \(Remix\)](https://open.spotify.com/album/3F9pbcw4b20EvSNQoMYhZx) | 3:19 | 2022-12-31 | 2023-01-19 |
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2021-06-20 | 2021-06-26 |
 | [Remote Control](https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:18 | 2021-08-31 | 2021-09-02 |

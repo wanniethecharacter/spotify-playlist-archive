@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,466 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,584 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 99 | [Awe + Wonder \- Live](https://open.spotify.com/track/6LIbc0JN4nvodJzln08lFo) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 5:26 |
 | 100 | [Maker](https://open.spotify.com/track/2KE7Gi8dYbflFHLf0cxaqp) | [Woodlands Worship](https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls) | [Live](https://open.spotify.com/album/4ZMCjXFFNlIIwp5uI20Njt) | 8:13 |
 
-Snapshot ID: `MTU5MzE0NDEyMCwwMDAwMDAwMGY3MjUwNGMxNWY3OGI4YTZhOTQxNjA2Nzk1MThkMTk3`
+Snapshot ID: `MTU5MzE0NDEyMCwwMDAwMDAwMDM1YmI5MTJmN2Y3MDc5OGU2YmYxYjkzMDFiZTFmODM1`

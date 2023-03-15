@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-192 songs - 9 hr 50 min
+193 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Mandala](https://open.spotify.com/track/5xe5oU9NJYyUTL2THo1TPy) | [Jon Hailey](https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0) | [Mandala](https://open.spotify.com/album/4QCv678G6eTUG92CwBuwnA) | 3:02 | 2022-07-11 |  |
 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 | 2022-03-03 |  |
 | [Midnight Relief](https://open.spotify.com/track/3lzrmp1ug1AEu5KQ3AkzO6) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Midnight Relief](https://open.spotify.com/album/5S9SpAQQFbgO5edXpXYd8A) | 3:06 | 2022-10-07 |  |
-| [Mint Green 528 Hz](https://open.spotify.com/track/7CoNMmP4XciExedSMAQkM4) | [Lo Amber](https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI) | [Mint Green 528 Hz](https://open.spotify.com/album/7eWrcerVgh2dHudoXMJvzn) | 2:14 | 2022-10-07 |  |
+| [Mint Green 528 Hz](https://open.spotify.com/track/7CoNMmP4XciExedSMAQkM4) | [Lo Amber](https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI) | [Mint Green 528 Hz](https://open.spotify.com/album/7eWrcerVgh2dHudoXMJvzn) | 2:14 | 2022-10-07 | 2023-03-15 |
 | [Mirrors](https://open.spotify.com/track/4AxLkuDH6lAh4zfAqnMk1n) | [Tairata](https://open.spotify.com/artist/6S03l2FptTA5eeHeXo115b) | [Mirrors](https://open.spotify.com/album/31hZ1BCR6HrbzBu0dNehj5) | 2:18 | 2021-11-10 |  |
 | [Mollusca](https://open.spotify.com/track/63kG8LOsD5GLmjW62S2rBA) | [Ferndale](https://open.spotify.com/artist/3RXfYE9FOxd2Mgxf46ZMb9) | [Gabriel](https://open.spotify.com/album/6EKSmGzGQ7ODZmqdHVXpa1) | 3:28 | 2021-11-10 |  |
 | [Monrovia](https://open.spotify.com/track/7JYgex93ldydsVqr6Um2nD) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Heliotropism](https://open.spotify.com/album/3MsuLztSUCisSA2S92hlaw) | 3:30 | 2021-11-10 |  |
@@ -194,6 +194,7 @@
 | [Vincible](https://open.spotify.com/track/4oeOk10qaT2s2jR04dyiPT) | [Tech Guru](https://open.spotify.com/artist/6HWoxr5odNX04juRVTyw1q) | [Vincible](https://open.spotify.com/album/2gElzA8obHtMwl3FlYLBQD) | 3:32 | 2021-11-10 | 2022-04-22 |
 | [Vista](https://open.spotify.com/track/7dtcMyTqczRKdUe27niB1N) | [The Destination](https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w) | [Vista](https://open.spotify.com/album/3Gmxb6pNTqDvOu2kU9jHyu) | 2:55 | 2021-11-10 | 2022-08-13 |
 | [we are here](https://open.spotify.com/track/0AmWizHZxla0JyvrOX4Cqj) | [fragile eyes](https://open.spotify.com/artist/0nM9BcwyEiW5nroAbt9tBf) | [we are here](https://open.spotify.com/album/2we0mUjMYZBeABUUYdb89Q) | 3:23 | 2021-11-10 | 2022-09-07 |
+| [We Dream](https://open.spotify.com/track/3npnieFhPJITVCDNMCOKgG) | [Air Balloon Road](https://open.spotify.com/artist/7Mvq4bstt4JZKZo03zqrg8) | [We Dream](https://open.spotify.com/album/1plBdA7VPmgpmi6kPZhdbu) | 2:42 | 2023-03-14 |  |
 | [Welkin](https://open.spotify.com/track/3hqnqpefPxDGTtLwGuaRG6) | [Amber Twilight](https://open.spotify.com/artist/2YihGzUlFb7MxHElA2IZDd) | [Welkin](https://open.spotify.com/album/2KRfYojhz1PPzElLtf5P4z) | 4:08 | 2021-11-10 | 2022-04-22 |
 | [Wood Siding Railway Station](https://open.spotify.com/track/5ixnYv40UHrZQIuqNlOJl0) | [Baroque Modernist](https://open.spotify.com/artist/5uXsIKri6D2vNv9V1EdGet) | [Pristina](https://open.spotify.com/album/5qcBhbgv4r3UeJAOQKCHuf) | 3:12 | 2021-11-10 |  |
 | [Wu Wei](https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Wu Wei](https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW) | 2:49 | 2022-09-13 |  |

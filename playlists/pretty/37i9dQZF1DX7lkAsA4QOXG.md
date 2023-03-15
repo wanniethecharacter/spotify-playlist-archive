@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,786 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,071 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 99 | [She's Leaving Home \- Live](https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8) | [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD) | [The Gallery Concerts II \(Jazz Poetry\)](https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl) | 5:03 |
 | 100 | [Kiss From A Rose](https://open.spotify.com/track/1cO0leXSGQuzc7W3QMFkDS) | [Julia Hülsmann Trio](https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG) | [The End Of A Summer](https://open.spotify.com/album/3O3LacyGxoIb20HcvvfxTt) | 4:05 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGE1ZGY2NWNlODdlMmRiZTUwYTFmZGU5YTFhZDc0ZWEy`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGNlNTFjN2M3ZTZiYTQ3ZjIwYTkzZTBlMjdhMGM2MjY2`

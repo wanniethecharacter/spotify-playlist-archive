@@ -187,6 +187,36 @@
     },
     {
       "album": {
+        "name": "20G",
+        "url": "https://open.spotify.com/album/5bkswgL6FGAbnXZ3z9SEKy"
+      },
+      "artists": [
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "20G",
+      "url": "https://open.spotify.com/track/69Flz1PeHxdGW0trMUNjll"
+    },
+    {
+      "album": {
         "name": "212",
         "url": "https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN"
       },
@@ -1026,7 +1056,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 202411,
       "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
       "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
@@ -2930,7 +2960,7 @@
       ],
       "date_added": "2023-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 168000,
       "name": "Beautiful Day (Thank You for Sunshine)",
       "url": "https://open.spotify.com/track/1z5r6Rpcc1BreRtYALBncX"
@@ -2956,6 +2986,28 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
+    },
+    {
+      "album": {
+        "name": "BEB\u00ca T\u00c1 SOLTA",
+        "url": "https://open.spotify.com/album/1Z8jyx63wxfiXE0gcUWzS8"
+      },
+      "artists": [
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Dj Bn\u00e3o",
+          "url": "https://open.spotify.com/artist/0F1EEVbFwozNDGU9DAdpq8"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197104,
+      "name": "BEB\u00ca T\u00c1 SOLTA",
+      "url": "https://open.spotify.com/track/4ChIBnH5lO5thSaNeMV0oE"
     },
     {
       "album": {
@@ -3206,6 +3258,28 @@
       "duration_ms": 217000,
       "name": "Blue Hair",
       "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
+    },
+    {
+      "album": {
+        "name": "Boa Noite, DEUS (Sped Up)",
+        "url": "https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj"
+      },
+      "artists": [
+        {
+          "name": "Nick Die",
+          "url": "https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS"
+        },
+        {
+          "name": "WMBR",
+          "url": "https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168857,
+      "name": "Boa Noite, DEUS (Sped Up)",
+      "url": "https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl"
     },
     {
       "album": {
@@ -4161,6 +4235,28 @@
     },
     {
       "album": {
+        "name": "Benza Em Brasa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pMJ5KR4DlkXmzkcA3IrK0"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137674,
+      "name": "Cantin - Ao Vivo",
+      "url": "https://open.spotify.com/track/4paBHXdM2NGncZHevhXPJQ"
+    },
+    {
+      "album": {
         "name": "Canto da Sereia",
         "url": "https://open.spotify.com/album/6oeLs83jPMK8JodH2bpSyO"
       },
@@ -4666,7 +4762,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 216160,
       "name": "Chuvas de Deus (Speed Up)",
       "url": "https://open.spotify.com/track/5UqBrA3bSYlncrJjnR8f01"
@@ -4762,6 +4858,24 @@
       "duration_ms": 209026,
       "name": "Codinome",
       "url": "https://open.spotify.com/track/4NQwX44ditNnlFwdnz1Iqm"
+    },
+    {
+      "album": {
+        "name": "Coisas Que Eu Sei",
+        "url": "https://open.spotify.com/album/6L0TgC0N85KnF2cCL7t0es"
+      },
+      "artists": [
+        {
+          "name": "intomusic brazil",
+          "url": "https://open.spotify.com/artist/7a65BfOit4jjLQiH1jLz9N"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185666,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/1ZV8n0wJ4htdpGRBEt25B6"
     },
     {
       "album": {
@@ -5766,7 +5880,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 268000,
       "name": "Deserto (Ao Vivo)",
       "url": "https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7"
@@ -6548,6 +6662,28 @@
       "duration_ms": 108922,
       "name": "Ela Quer Fumar Do Rush",
       "url": "https://open.spotify.com/track/047tt3ZTrLAPh4W5hExOet"
+    },
+    {
+      "album": {
+        "name": "Benza Em Brasa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pMJ5KR4DlkXmzkcA3IrK0"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        },
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193685,
+      "name": "Ela T\u00e1 No Look - Ao Vivo",
+      "url": "https://open.spotify.com/track/4VyfJ01fc4vb0WwLsu5Pw5"
     },
     {
       "album": {
@@ -8153,6 +8289,32 @@
     },
     {
       "album": {
+        "name": "Fim de Semana",
+        "url": "https://open.spotify.com/album/3QrfrubXNF6xRzCAV6DvB7"
+      },
+      "artists": [
+        {
+          "name": "Victor Sabri",
+          "url": "https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Brian Arimura",
+          "url": "https://open.spotify.com/artist/3564y3B882wmolbLQVDVzZ"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194157,
+      "name": "Fim de Semana",
+      "url": "https://open.spotify.com/track/4bMFMvGNOGQ5GN91G4vw1K"
+    },
+    {
+      "album": {
         "name": "Fim de Semana no Rio",
         "url": "https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S"
       },
@@ -9250,6 +9412,24 @@
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
     },
     {
       "album": {
@@ -11031,6 +11211,24 @@
     },
     {
       "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332386,
+      "name": "Look At Us Now (Honeycomb)",
+      "url": "https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V"
+    },
+    {
+      "album": {
         "name": "LOVE DIVE",
         "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
       },
@@ -11064,7 +11262,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 163833,
       "name": "Love Gostosinho - Ao Vivo",
       "url": "https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme"
@@ -13674,7 +13872,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 144026,
       "name": "M\u00f3 Marrinha de Metedor",
       "url": "https://open.spotify.com/track/49l84KRC5Vn8sGR7KbGdRa"
@@ -15169,6 +15367,24 @@
     },
     {
       "album": {
+        "name": "Escolhas, Ep. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159158,
+      "name": "Oi Balde - Ao Vivo",
+      "url": "https://open.spotify.com/track/3mzbab4H0iZYkHggSEj0UX"
+    },
+    {
+      "album": {
         "name": "Oi, Como Ce T\u00e1?",
         "url": "https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou"
       },
@@ -15880,7 +16096,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 196826,
       "name": "PANDORA",
       "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
@@ -17018,7 +17234,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 151011,
       "name": "Promise",
       "url": "https://open.spotify.com/track/2RUcwyW74Sv4VracHFrKdh"
@@ -19364,7 +19580,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 117528,
       "name": "SMOKE IT OFF!",
       "url": "https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym"
@@ -22286,7 +22502,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 166487,
       "name": "Vai Soltando Pancad\u00e3o - Beat do Pica Pau Maluco",
       "url": "https://open.spotify.com/track/2pEnQImOCJiCTvDv3Lu3aE"

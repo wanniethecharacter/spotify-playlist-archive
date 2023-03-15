@@ -1387,6 +1387,28 @@
     },
     {
       "album": {
+        "name": "BABY MAMA",
+        "url": "https://open.spotify.com/album/4CtVwRy1vloL5flmRWj2RH"
+      },
+      "artists": [
+        {
+          "name": "XWOND",
+          "url": "https://open.spotify.com/artist/6sRzLtxCBCC0RCGsLNkd1g"
+        },
+        {
+          "name": "Reizon",
+          "url": "https://open.spotify.com/artist/0YpFRM0kzAZfjSdw0pTlDX"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150470,
+      "name": "BABY MAMA",
+      "url": "https://open.spotify.com/track/2MST5rN6YWaLLx0Ykh44yU"
+    },
+    {
+      "album": {
         "name": "Baby stai con me",
         "url": "https://open.spotify.com/album/0qdIghkVBG0SB2iKAccsY7"
       },
@@ -2400,6 +2422,24 @@
       "duration_ms": 152920,
       "name": "CICATRICI",
       "url": "https://open.spotify.com/track/79HIUVZnx0qNdGmMAAUeaI"
+    },
+    {
+      "album": {
+        "name": "Cicatrici",
+        "url": "https://open.spotify.com/album/0RMNGDgB0CUv7BtEogzApB"
+      },
+      "artists": [
+        {
+          "name": "Narbe",
+          "url": "https://open.spotify.com/artist/7BzJ0cJGQvl5sSCzG20aXO"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103255,
+      "name": "Cicatrici",
+      "url": "https://open.spotify.com/track/64I9Xh3k38tYTsrE9Lzyvt"
     },
     {
       "album": {
@@ -4031,6 +4071,28 @@
     },
     {
       "album": {
+        "name": "hyperburger",
+        "url": "https://open.spotify.com/album/4Muk9muDrmQunJNRiAtV8z"
+      },
+      "artists": [
+        {
+          "name": "yung paninaru",
+          "url": "https://open.spotify.com/artist/0aIsyTArLXSZrMHs0Qkm0Z"
+        },
+        {
+          "name": "Komatsu San",
+          "url": "https://open.spotify.com/artist/2sBYIBND4uDW4CQ90ubLqw"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "fujiko",
+      "url": "https://open.spotify.com/track/5MO0H6qxFTLOmjQbLrp3tm"
+    },
+    {
+      "album": {
         "name": "Fuck Pop",
         "url": "https://open.spotify.com/album/2I9OQRqMr5HCOxId5EbqRV"
       },
@@ -4116,7 +4178,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 155138,
       "name": "FUORIDIME",
       "url": "https://open.spotify.com/track/6ZC2Sv5co4loN56vNCu6P3"
@@ -4928,7 +4990,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 167000,
       "name": "INVIDIA",
       "url": "https://open.spotify.com/track/7I9S91uMjY7rOazVXkaHOC"
@@ -5231,6 +5293,24 @@
     },
     {
       "album": {
+        "name": "la notte (blu)",
+        "url": "https://open.spotify.com/album/2QYOw0TelUUo7rRtqVZ8fY"
+      },
+      "artists": [
+        {
+          "name": "Ga",
+          "url": "https://open.spotify.com/artist/6luz0TrzyU4La1oSQhoxAj"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "la notte (blu)",
+      "url": "https://open.spotify.com/track/0QXXW26zIGRPvSUPGeqVps"
+    },
+    {
+      "album": {
         "name": "La Ruota",
         "url": "https://open.spotify.com/album/2gC0l4h2w09SRuQHUeDvnG"
       },
@@ -5514,6 +5594,24 @@
       "duration_ms": 129000,
       "name": "Logiche",
       "url": "https://open.spotify.com/track/7oEm3YZ68SZMkNV7GVNP4C"
+    },
+    {
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/4p6c9DJd4rchrQjDFvI6HQ"
+      },
+      "artists": [
+        {
+          "name": "POPMINERALE",
+          "url": "https://open.spotify.com/artist/4O5lO0bnj8YQ9wSsUPQejj"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171135,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/0vz6QaMA9cqKi2YYzc1TD2"
     },
     {
       "album": {
@@ -5934,7 +6032,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 193714,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/3Jhis8KUVqGHGucAIJ7gZj"
@@ -5996,6 +6094,24 @@
       "duration_ms": 163404,
       "name": "Mai Fake",
       "url": "https://open.spotify.com/track/5MEsS7xSpVTscYmmtsljUb"
+    },
+    {
+      "album": {
+        "name": "MAL DI TESTA",
+        "url": "https://open.spotify.com/album/0Q6MMXsfye1JUqxBmvC3eP"
+      },
+      "artists": [
+        {
+          "name": "Yuma",
+          "url": "https://open.spotify.com/artist/3TSbPuX2fNmCbH5Zkz0gKT"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "MAL DI TESTA",
+      "url": "https://open.spotify.com/track/4wlDvF3D2JvocY53F3PiKX"
     },
     {
       "album": {
@@ -6182,7 +6298,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 187887,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/6EvI5xktrT4QArsjKeHJTj"
@@ -6426,7 +6542,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 139746,
       "name": "Moda",
       "url": "https://open.spotify.com/track/6HStjTVkAgM4T4E35str85"
@@ -6774,7 +6890,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 181090,
       "name": "NCSA - feat. Lil Cosse",
       "url": "https://open.spotify.com/track/0X0rzLEeDgmgHjGnY1qEsk"
@@ -7960,7 +8076,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 184616,
       "name": "Perch\u00e9 x3",
       "url": "https://open.spotify.com/track/4Eic047RKaqabELHSMyUsu"
@@ -9146,7 +9262,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 189564,
       "name": "Ruggine",
       "url": "https://open.spotify.com/track/0gpmYo3XYjH8DIbP0yQpr5"
@@ -9562,6 +9678,24 @@
       "duration_ms": 177560,
       "name": "Sentimenti in Giro",
       "url": "https://open.spotify.com/track/4qJotoxYsJRlgawZCaKMis"
+    },
+    {
+      "album": {
+        "name": "Senza di te",
+        "url": "https://open.spotify.com/album/3I130r92ojes8jmOJ7wtKv"
+      },
+      "artists": [
+        {
+          "name": "LOU",
+          "url": "https://open.spotify.com/artist/2ab5JYkftADf7SU0ACBB2I"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165340,
+      "name": "Senza di te",
+      "url": "https://open.spotify.com/track/4gUaZ6tMvZcKBQy973pLPF"
     },
     {
       "album": {
@@ -10645,6 +10779,24 @@
     },
     {
       "album": {
+        "name": "Tagliamo I Ponti",
+        "url": "https://open.spotify.com/album/4lzIUS8FeN1H2AJjbJ213D"
+      },
+      "artists": [
+        {
+          "name": "Corinna",
+          "url": "https://open.spotify.com/artist/6vqpDMhV9j6QazfM1e2Cv6"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111794,
+      "name": "Tagliamo I Ponti",
+      "url": "https://open.spotify.com/track/513nJNTSPzaGFSsf6rbwn7"
+    },
+    {
+      "album": {
         "name": "Tapparelle",
         "url": "https://open.spotify.com/album/29Ra0ASs9aqOvJRj4DmiIx"
       },
@@ -10910,6 +11062,24 @@
       "duration_ms": 169819,
       "name": "Tre di notte",
       "url": "https://open.spotify.com/track/4uAO5HzFUtjaiqEn6BFKIO"
+    },
+    {
+      "album": {
+        "name": "Treehouse",
+        "url": "https://open.spotify.com/album/3JHtRak8wUguGVYcMpu6K1"
+      },
+      "artists": [
+        {
+          "name": "Nicaragua",
+          "url": "https://open.spotify.com/artist/52xrPZ8EC64iktrGrmVa4B"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166766,
+      "name": "Treehouse",
+      "url": "https://open.spotify.com/track/2NbAMdzYaIcB4QMU7feidI"
     },
     {
       "album": {

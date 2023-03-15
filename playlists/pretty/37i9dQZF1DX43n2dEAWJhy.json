@@ -1,12 +1,12 @@
 {
   "description": "Producer and DJ <a href=\"spotify:artist:4odLDriBk6oEZotzLPTSnD\">Jessica Audiffred</a> has been captivating the crowd with her unique way of blending Bass & Trap, and this mix does not disappoint! ",
-  "num_followers": 687,
+  "num_followers": 698,
   "original_name": "Jessica Audiffred DJ Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIzODgyNywwMDAwMDAwMDgzYjkwYzZlZmNhYWM4YjAzYmUxOGNjYzg0YjYxMGI5",
+  "snapshot_id": "MTY3NTIzODgyNywwMDAwMDAwMGMxYzkwNDkzYTM5MjA0ZDhlMjU1NmUyZDI0OGE2MDUw",
   "tracks": [
     {
       "added_at": "2023-02-01 00:07:00",
@@ -335,22 +335,22 @@
     {
       "added_at": "2023-02-01 00:07:00",
       "album": {
-        "name": "The King Is Dead (Mixed)",
-        "url": "https://open.spotify.com/album/0MyHYlZBAewOxCzUPiT0QP"
+        "name": "The King Is Dead",
+        "url": "https://open.spotify.com/album/64Irb3YbvqUgQo3yeV3gUM"
       },
       "artists": [
         {
-          "name": "Steller",
-          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
-        },
-        {
           "name": "Jessica Audiffred",
           "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
         }
       ],
-      "duration_ms": 150000,
-      "name": "The King Is Dead - Mixed",
-      "url": "https://open.spotify.com/track/4vH5mVsSZc5otEjvs8fH4N"
+      "duration_ms": 155224,
+      "name": "The King Is Dead",
+      "url": "https://open.spotify.com/track/0IFeuYP7vTwdEQf3ye0kqb"
     },
     {
       "added_at": "2023-02-01 00:07:00",
@@ -380,13 +380,9 @@
       "added_at": "2023-02-01 00:07:00",
       "album": {
         "name": "Riding (Mixed)",
-        "url": "https://open.spotify.com/album/1vaE2uHBl2wp9PyXDb8qyL"
+        "url": "https://open.spotify.com/album/4U9qhgoWz4lFWZuJKUpD3u"
       },
       "artists": [
-        {
-          "name": "Martay M'Kenzy",
-          "url": "https://open.spotify.com/artist/0LVK3Io8yAwy9KLL0lyIHb"
-        },
         {
           "name": "Point.Blank",
           "url": "https://open.spotify.com/artist/0kceiKJrP7AsW2rUPeAw3v"
@@ -394,11 +390,15 @@
         {
           "name": "Jessica Audiffred",
           "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Martay M'Kenzy",
+          "url": "https://open.spotify.com/artist/0LVK3Io8yAwy9KLL0lyIHb"
         }
       ],
       "duration_ms": 186000,
       "name": "Riding - Mixed",
-      "url": "https://open.spotify.com/track/6mh4sSTjHoLWUUwGdfN66v"
+      "url": "https://open.spotify.com/track/4YK5YpVHaVmDFRC2qxLYm3"
     },
     {
       "added_at": "2023-02-01 00:07:00",

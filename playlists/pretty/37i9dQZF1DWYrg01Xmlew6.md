@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Napoli e il meglio della scena campana\. Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,782 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,898 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/track/5gKTEHncscaUVJOCCuRSed) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/album/2IlA92NHGZauM3Q6vkEVXR) | 3:03 |
 | 50 | [Duje Frat](https://open.spotify.com/track/18FjOEa8gQ7B2zZSxmyDgf) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [Duje Frat](https://open.spotify.com/album/7w7SAe84aiF4Q5BvPW27ej) | 2:41 |
 
-Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMGU3NDJkNTU2MjliOGQ3NzMzNGUwMzY0NzJiYWViYWE4`
+Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMDY5YTBkYzgyNGM2ODRmMjY5YjhiMzMzNWFiZGRjNGMw`

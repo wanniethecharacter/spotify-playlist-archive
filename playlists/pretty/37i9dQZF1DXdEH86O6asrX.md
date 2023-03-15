@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 
 > ¡Disfruta de las mejores bandas sonoras del siglo XXI!
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,094 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,102 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 49 | [Santa Claus Is Back In Town](https://open.spotify.com/track/5b1jXYUOgAX5QAHXPVHdld) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:22 |
 | 50 | [Django](https://open.spotify.com/track/008wXvCVu8W8vCbq5VQDlC) | [Luis Bacalov](https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1), [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:53 |
 
-Snapshot ID: `MTY0OTcxODM1NSwwMDAwMDAwMGMxZDUwYzhhZmNjYTg0NTBhMzJmZmI2Mzk4NjM2OWQx`
+Snapshot ID: `MTY0OTcxODM1NSwwMDAwMDAwMGRlNDg3YzA0Mjk2MzI3YzA5MzI4YTg1ZjdhNmZjMmFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,449 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,609 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Shizumu](https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Shizumu](https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj) | 3:51 |
 | 60 | [Torii](https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Torii](https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4) | 2:50 |
 
-Snapshot ID: `MTY2OTM5NTM5NiwwMDAwMDAwMDNjYzJiOTM2MjQyM2UzOTkzYWYxZTBkMzExZjkzYmQ2`
+Snapshot ID: `MTY2OTM5NTM5NiwwMDAwMDAwMGJjMmY2OWVhNmE4OGU3NmEwYWJjYTc1MDlmYWQ4NmQ3`

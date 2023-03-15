@@ -2,7 +2,7 @@
 
 ### [TIRADE](https://open.spotify.com/playlist/37i9dQZF1DWWXzA48d9shL)
 
-> Rap from hell\. Cover: $uicideboy$ & Shakewell
+> Rap from hell\. Cover: do not resurrect
 
 406 songs - 16 hr 4 min
 

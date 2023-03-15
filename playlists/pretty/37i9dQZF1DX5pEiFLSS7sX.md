@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,600 likes - 100 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,681 likes - 100 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [Take a Moment \(Live\) \[feat\. Will Reagan\]](https://open.spotify.com/track/3J7vBrecAaQpAf5CpbXpj4) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Simple Gospel B\-Sides](https://open.spotify.com/album/3HwQXwC4V5Gbhwz8QJ6t80) | 9:40 |
 | 100 | [The Cause Of Christ](https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 4:57 |
 
-Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMGRhYWZhMDZmN2FmMjQ3OGE0NjAxYWU1NjQ4ZTEwMzYw`
+Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMGExNmY0MWMwYzY1ZTllZGRmODJhNzQ3YzA5OTJiYTgx`

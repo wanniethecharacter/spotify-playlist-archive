@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:  Adoración La IBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,182 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,261 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Tu Voz En Mi Oración](https://open.spotify.com/track/5Y37dbUVl05N48xzZvLVrp) | [Sharil](https://open.spotify.com/artist/5ORVnd2wkMlJx7wkblVY5l), [Jeremy Santana](https://open.spotify.com/artist/6jFEoG1VxgYqzAsuGCm4Qg) | [Tu Voz En Mi Oración](https://open.spotify.com/album/1eaCH7zWn4iKq7e8mQOakt) | 3:17 |
 | 100 | [De la Iglesia Pa´la Calle](https://open.spotify.com/track/31G0jOBzeLTZ862uazCrVS) | [DUViMEL](https://open.spotify.com/artist/0nr8vWafm3bpsbHi7qhltF) | [De la Iglesia Pa´la Calle](https://open.spotify.com/album/5QUQWk7P8s9AloDFS1Vzxm) | 3:10 |
 
-Snapshot ID: `MTY3ODQyODc3NiwwMDAwMDAwMDcxNzBjNWM1MDI4ZWRiNjM2OWUyOWQ1MjJlOWFlNzY5`
+Snapshot ID: `MTY3ODQyODc3NiwwMDAwMDAwMDlkYTQ5NjBlNDc4MzVlNThmOTBkZWVkN2RjNzJjZWJk`

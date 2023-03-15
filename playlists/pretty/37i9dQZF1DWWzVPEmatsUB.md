@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Ease into the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,976 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,972 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 99 | [Say No More \- Gary B Balearic Remix](https://open.spotify.com/track/6wtq2JZGRRKInQCDkUf5Ir) | [Marga Sol](https://open.spotify.com/artist/4y7BFiVRM23Sw8fUPcfXRI), [Darles Flow](https://open.spotify.com/artist/4hdHzR9Eg6nQ0wYhyCU9Np), [M\-Sol MUSIC](https://open.spotify.com/artist/1odWkvK9dQ8DtQzbLCtoSz), [Gary B](https://open.spotify.com/artist/3j6HqaYmvmWOTF1MH7YTYk) | [Say No More \(Gary B Balearic Remix\)](https://open.spotify.com/album/7kCB3l0xJYiUZpxoz8Nopn) | 3:20 |
 | 100 | [I Do](https://open.spotify.com/track/5MarIZklriKZNvAzfKdMHj) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx) | 3:10 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMGEwZGU3YTE5YjQ4ODQwNDkyY2EyZWUwYmNkMDJkZmEx`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDhkZDUwOGU1Mjg5MzFhMDAzMTg1NWFmOWU1YTVjYjA2`

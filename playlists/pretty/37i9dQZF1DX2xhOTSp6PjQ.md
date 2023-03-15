@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=6XQ\_wVMCQxO0POZXQzHvXQ">Nomfondo Moh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,169 likes - 59 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,222 likes - 59 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 58 | [Isilingo](https://open.spotify.com/track/5Df0fXk01kB3ZgVPg3uwmk) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhloko Nes'xhanti](https://open.spotify.com/album/6uKsbOxDnGwYTfdVp2qIuP) | 3:40 |
 | 59 | [Diona x5](https://open.spotify.com/track/2PQl2BRgemS4sFZTFS703p) | [Mtshengiseni](https://open.spotify.com/artist/0b7Ds3CZPJOmh8hqOq9md4) | [Maskandi Greats Vol.1](https://open.spotify.com/album/3GzuoeKRn8eQF0KAR0N4o6) | 6:52 |
 
-Snapshot ID: `MTY3ODM5OTE0MCwwMDAwMDAwMDgyNGUyZTVlNGFhOGRiNDA4NWNmYThiYjM2ZjIxZTI1`
+Snapshot ID: `MTY3ODM5OTE0MCwwMDAwMDAwMGE4NWY1OWRiM2QyNDJlMzc3NDIxNTEzYmVkNTVmZmQ2`

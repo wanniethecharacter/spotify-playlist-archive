@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bo0ONSjpvk.md) - [plain]
 
 > Panama born producer <a href="spotify:artist:0vN342SOFAsCVGGZwLU9AF">Gian Varela</a> shares his take on Latin tech house with his upbeat DJ mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016 likes - 18 songs - 59 min 51 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,025 likes - 18 songs - 59 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bo0ONSjpvk.md) - [plain]
 | 2 | [Pressure \(Wanna Feel Good\) \- Mixed](https://open.spotify.com/track/39ScK5sHXq7GEHRmWC4nrr) | [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Pressure \(Wanna Feel Good\) \[Mixed\]](https://open.spotify.com/album/51Z8RcawcQz12jJpg1Aa19) | 1:15 |
 | 3 | [Pararam \- Mixed](https://open.spotify.com/track/4VeFCTrfArLgFEzuN92qX5) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [Pararam \(Mixed\)](https://open.spotify.com/album/5f7ZeifTZw7zvzP9YZFou4) | 2:32 |
 | 4 | [Ponme Loco \- Mixed](https://open.spotify.com/track/6Ih8SMRMt3IgF3zmSHZ9UY) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Melfi](https://open.spotify.com/artist/01hRJI4NkY6Qp7a4IlxxFs) | [Ponme Loco \(Mixed\)](https://open.spotify.com/album/2X4sA2dFN8IOIw0KIBS6xr) | 2:45 |
-| 5 | [La Candela Viva \- Mixed](https://open.spotify.com/track/24Fg53YbE0sU1uIR8wTVas) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [La Candela Viva \(Mixed\)](https://open.spotify.com/album/0yiRhZtuwMvmgS6Uhy3KuD) | 3:23 |
+| 5 | [La Candela Viva \- Mixed](https://open.spotify.com/track/2lpWT0JmCwGI4uEYFOMm2O) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [La Candela Viva \(Mixed\)](https://open.spotify.com/album/1mIsEjwlln1dCrecnGxaOt) | 3:23 |
 | 6 | [Woken Minds \- Mixed](https://open.spotify.com/track/1mO36NhbG0S6OAjD4lBxvB) | [Sam Supplier](https://open.spotify.com/artist/4nGuobAIiHwi25ngyJQO1n) | [Woken Minds \(Mixed\)](https://open.spotify.com/album/3oGatvnawGOc5Y2RsyFLVr) | 2:45 |
-| 7 | [Tequila \- Mixed](https://open.spotify.com/track/1R4gg0YVMtaFwP7Fw32Bh9) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Tequila \(Mixed\)](https://open.spotify.com/album/0CI3XvEGd2gZ2ZQP8F6nkP) | 3:37 |
+| 7 | [Tequila \- Mixed](https://open.spotify.com/track/5DYgG61HYOfPaDPZiuBV4W) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Tequila \(Mixed\)](https://open.spotify.com/album/0c7RYF5zWOgkVrxgkJfGUB) | 3:37 |
 | 8 | [Rizzla \- Mochakk Remix \- Mixed](https://open.spotify.com/track/1XapmmPQOYng11RYGbQ2nZ) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Rizzla \- Mochakk Remix \(Mixed\)](https://open.spotify.com/album/0AN0htPFBHJC2S02MMxBJI) | 3:15 |
 | 9 | [Tamo Loco \- Mixed](https://open.spotify.com/track/7ylc67rspsRX6ySDH1JMlD) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Tamo Loco \(Mixed\)](https://open.spotify.com/album/3CJFPVUrjxYtPhE5vP8WXA) | 3:43 |
 | 10 | [Elma Maria \- Gian Varela Remix \- Mixed](https://open.spotify.com/track/4HPrplfRra0qFhQXgAmbPR) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Elma Maria \- Gian Varela Remix \(Mixed\)](https://open.spotify.com/album/30288aeGezMLZeDVuoFUi3) | 3:25 |
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bo0ONSjpvk.md) - [plain]
 | 17 | [Party Sexo Alcohol \- Mixed](https://open.spotify.com/track/01sNMbpHDTIwJYD0Cq2th0) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Party Sexo Alcohol \(Mixed\)](https://open.spotify.com/album/3ndOMvaXSHxTDQTMSk1j85) | 3:38 |
 | 18 | [Faces \- Mixed](https://open.spotify.com/track/1C27AB8Nyp03R0N8ntDWDb) | [Matluck](https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Faces \(Mixed\)](https://open.spotify.com/album/4zfymGuxlg0uTLYKup90qD) | 3:57 |
 
-Snapshot ID: `MTY3NzE1MzQyMSwwMDAwMDAwMGVmNzEyZDFjNjNiNWI1NjcyMTk4YjMzN2E0MDBjMjJk`
+Snapshot ID: `MTY3NzE1MzQyMSwwMDAwMDAwMGNhNjg2YmIyNmQ4MjBlZjMyMjZhNjhiMjUyM2YzNzdk`

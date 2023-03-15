@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,597 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,602 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 79 | [Gold Grills](https://open.spotify.com/track/1EhYCGnX7XKFP44nGOrTXA) | [Mafeni](https://open.spotify.com/artist/2ethW0V4e5GFiOsnfza3Xs) | [enjoy](https://open.spotify.com/album/3ARS1ArXJvbRxOGNZwSzni) | 3:17 |
 | 80 | [What You Like](https://open.spotify.com/track/3nW0Lor0OZW7muepNnkUI9) | [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Virtuoso](https://open.spotify.com/album/44q2jWpjess1qVcWm1jqoW) | 3:08 |
 
-Snapshot ID: `MTY3NzgzMTA2NiwwMDAwMDAwMGUwY2VjZjRhYmFkMTZlYzE4NjhjOGYyMDVlOWQ4ZjA2`
+Snapshot ID: `MTY3NzgzMTA2NiwwMDAwMDAwMDQ5ZTZlNGZkNjA2MDI3YzVmODQxNDFkZDI2YmEyYmU2`

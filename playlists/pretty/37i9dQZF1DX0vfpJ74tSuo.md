@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,234 likes - 120 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,298 likes - 120 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 119 | [Good, Good Man](https://open.spotify.com/track/7uSkpPhm94n4USbGTq9U31) | [Bai Kamara Jr](https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi), [The Voodoo Sniffers](https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C) | [Good, Good Man](https://open.spotify.com/album/2pSMTbVb4OZqESjjjwyRRG) | 3:56 |
 | 120 | [Mailman, Bring Me No More Blues](https://open.spotify.com/track/63kSGfREzaR7i5BBBVKkWR) | [432 UK](https://open.spotify.com/artist/03oFNcaM41MDeiHBQJSczo) | [Mailman, Bring Me No More Blues](https://open.spotify.com/album/46HdwVjeZIiTS2SakpasBz) | 2:33 |
 
-Snapshot ID: `MTY3Nzg2NzIxNiwwMDAwMDAwMGJjYjhlODA3NmY2ZjYxZDRmY2QyYmJmYjgwNzFkYzM4`
+Snapshot ID: `MTY3Nzg2NzIxNiwwMDAwMDAwMDI0NGM5OGRjMDQ1OTRiMTNmNzE4ZjFjNTdmY2Q1MTc2`

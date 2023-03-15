@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,911 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,060 likes - 80 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [Funkafized](https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0) | [Boston Horns](https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd) | [Funkafized Plus](https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f) | 4:59 |
 | 80 | [Couple A Brownies](https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO) | [Soul Jazz Express](https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh) | [Soul Jazz Express](https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk) | 5:17 |
 
-Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMDJmYTMzMTAzZWVhMGMwMWNlYzc4MjhiMWJmY2U2ZWFh`
+Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMGVmYmZmMGZhMDEyMWY2MDQ4MDkzNzUyNDUzNWMxOGU5`

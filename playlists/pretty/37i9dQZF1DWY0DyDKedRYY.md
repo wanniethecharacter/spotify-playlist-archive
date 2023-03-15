@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > RADAR's artists to watch in 2023\. Featuring RADAR official artist Villano Antillano on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,995 likes - 52 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,984 likes - 52 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 51 | [home](https://open.spotify.com/track/3f2nncGJy6DcBiNiPlogf2) | [Austin Sebek](https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8) | [home](https://open.spotify.com/album/7Mwc5AMvPLzGJQp0GgIdt9) | 3:13 |
 | 52 | [All Eyez On Me](https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [All Eyez On Me](https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf) | 3:56 |
 
-Snapshot ID: `MTY3Mjg2MjAzOSwwMDAwMDAwMDliNWVjOWQxOTM5NzNkY2IyZGMzZWUzMDkzOTY0Y2Rl`
+Snapshot ID: `MTY3Mjg2MjAzOSwwMDAwMDAwMDU5NzRlNmZjMDgxYTJiNWQzYjhlYzRlZTY3ZmMyZDMy`

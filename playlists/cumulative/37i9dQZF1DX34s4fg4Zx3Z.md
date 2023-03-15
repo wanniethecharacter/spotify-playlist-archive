@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Na Ngọc Anh; thiết kế: Isu Kim
 
-795 songs - 1 day 22 hr 23 min
+796 songs - 1 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,8 @@
 | [Không Muốn Ai Thấy Anh Tổn Thương](https://open.spotify.com/track/71kgf0V4RGjykAHUflHZTW) | [Ngô Thành Dương](https://open.spotify.com/artist/1xTKBiDwUhUQBQ2V0Qc272), [Nachi Khang](https://open.spotify.com/artist/1qV9ThJ2DqKWlZ8zdS1Xpr) | [Không Muốn Ai Thấy Anh Tổn Thương](https://open.spotify.com/album/0yimTSK8t6eNhDz6USp9Sm) | 5:48 | 2022-10-10 | 2023-01-19 |
 | [Không Nói Nên Lời](https://open.spotify.com/track/1CefOhiwq8tnlfwCUlrKIR) | [Đỗ Hoàng Dương](https://open.spotify.com/artist/2DTVCDYfT6Uo8NugnHNRsg) | [Không Nói Nên Lời](https://open.spotify.com/album/1JVbP9rzNtSrCjCH676gGX) | 3:00 | 2022-05-16 | 2022-05-21 |
 | [Không Thể Giữ Được Em](https://open.spotify.com/track/2hc79ZvMvnXhTyFL0W0jWU) | [Na](https://open.spotify.com/artist/2WP8403CFULh73tk5ZnRdj) | [Không Thể Giữ Được Em](https://open.spotify.com/album/53Zda61iq7FDVgJKvt4TQy) | 5:28 | 2022-01-06 | 2022-03-11 |
-| [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/53vcJaw0rQEux8YK9EDOxE) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/25aSCmyq0GJvaSUduH72Kj) | 4:04 | 2023-03-01 |  |
+| [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/0vkExWiBJSrfWnlMC7x48b) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/49dKGvpp3ix58fS46uVqOQ) | 4:04 | 2023-03-09 |  |
+| [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/53vcJaw0rQEux8YK9EDOxE) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/25aSCmyq0GJvaSUduH72Kj) | 4:04 | 2023-03-01 | 2023-03-15 |
 | [Khẽ Buông Chút Thương](https://open.spotify.com/track/49AHMbVndzC9DYjUZ2Jj8C) | [NIT](https://open.spotify.com/artist/1MTANbmLhUqJXlLuqADGE7) | [Khẽ Buông Chút Thương](https://open.spotify.com/album/3n7Vm0IZbXcVODj6IkYasn) | 5:05 | 2023-03-01 |  |
 | [Kim Cương Giấu Trong Môi Em](https://open.spotify.com/track/73i8sIs3NdORgAPfXAyJBv) | [Cristian](https://open.spotify.com/artist/5UVYVxjwTczzmEqjAoTWu7) | [Kim Cương Giấu Trong Môi Em](https://open.spotify.com/album/6BF616iTFfgooUbFVVv4oD) | 3:12 | 2022-10-20 | 2022-11-11 |
 | [Kiếm Ở Đâu Ra](https://open.spotify.com/track/2hwiq0F5uw2Xbs0Khhsge1) | [Killer.D](https://open.spotify.com/artist/6bDk2mgR5CWxKtyd988gKN) | [Kiếm Ở Đâu Ra](https://open.spotify.com/album/3lm6QkMt04olQGesmDze9u) | 4:17 | 2022-03-30 | 2022-04-04 |

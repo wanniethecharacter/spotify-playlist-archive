@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,805 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,814 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 49 | [Do Me Like That \(feat\. Buddy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/track/3SbeHIDfwxUYdDFfjg8wmY) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Do Me Like That \(feat\. Buddy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/album/6PVHwuJPqw70S9a0BHPEEd) | 3:02 |
 | 50 | [Hot Girl \(feat\. Kari Faux\)](https://open.spotify.com/track/1p2ZhlXPJ1CdEKEcl4naXs) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 2:42 |
 
-Snapshot ID: `Mjc5Nzg1MjMsMDAwMDAwMDBmOWUyMjc0ZTczODlhYjYwYmRkMTQ3ZWRkMDAyNGFkOA==`
+Snapshot ID: `Mjc5ODAyNzIsMDAwMDAwMDAwZDAyMDQ5ZWVhMjZkZGRiOTFmMjM5ODFmZDI4ZjhkOA==`

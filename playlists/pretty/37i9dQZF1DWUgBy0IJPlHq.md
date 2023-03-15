@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,109 likes - 141 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,208 likes - 141 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 140 | [Soul Sweet Song](https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Soul Sweet Song](https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud) | 3:55 |
 | 141 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGY3OTJhYjc4MTE1MmExZTdkZjVmMjk4MWEzYmVhZmE1`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGI0MjM5YzUyOTcxODUzNDMzNjM4MmM2NDA2YTIzZTM3`

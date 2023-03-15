@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 
 > Kick back with the perfect mix of covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,151,584 likes - 250 songs - 15 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,151,813 likes - 250 songs - 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 | 249 | [Buckets of Rain \- Live](https://open.spotify.com/track/2PoGyTZEy0OVz7fX9P2bxS) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Live From Austin, TX](https://open.spotify.com/album/2omhPQsUhtcv9lWE443mcC) | 2:48 |
 | 250 | [Helplessly Hoping](https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Helplessly Hoping](https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA) | 2:39 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDQ1MzZkYmY2ODczNmI0ZTZiMDczZjk1M2E3ZGI1NTA3`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDJhMmYzMDgzNGNiOTM5NjAwYzYzNDFjNmIwYzliMGQx`

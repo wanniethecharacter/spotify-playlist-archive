@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Tiny Habits \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,276 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,339 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Daydream](https://open.spotify.com/track/0E12FUPGpS0DYu6C1zegiu) | [Baby Cool](https://open.spotify.com/artist/6tChZB9BU0fHdHrrwU5vgb) | [Earthling on the Road to Self Love](https://open.spotify.com/album/4sRPrF3Ev4HPurzyxcbpdr) | 4:03 |
 | 100 | [Dark Side Of Dreaming](https://open.spotify.com/track/3lcFzLTCJ30L3km2BXYVg6) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Dark Side Of Dreaming](https://open.spotify.com/album/3kpilREq1Jsj4UwADIr4YR) | 3:21 |
 
-Snapshot ID: `MTY3ODI5NDgwMCwwMDAwMDAwMDE5Y2JhMmQ2MGNlNmM0NTNlNjA0NDg3MGEwODQ1ZWRl`
+Snapshot ID: `MTY3ODI5NDgwMCwwMDAwMDAwMDljZTY3NTdmMWExNGRjZGFiYjNlNzMxZWE2ZWIzOGJi`

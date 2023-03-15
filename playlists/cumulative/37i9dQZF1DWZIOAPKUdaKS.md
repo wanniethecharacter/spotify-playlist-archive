@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-631 songs - 1 day 3 hr 23 min
+634 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Dancing Michelangelo](https://open.spotify.com/track/1fKfNwz9b2zkY9SoC5NC7I) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Dancing Michelangelo](https://open.spotify.com/album/3wr7KCwoPjLCAUtPPMwmtA) | 2:18 | 2021-12-07 |  |
 | [Dancing Moon](https://open.spotify.com/track/2GC539ITylxw4pnWyRg0dz) | [Vincenzo Crimaco](https://open.spotify.com/artist/28N6QAD7lW1W9hwYsiip0V) | [Dancing Moon](https://open.spotify.com/album/4JRd144baA6QqfHBKKdDXD) | 2:56 | 2022-12-21 |  |
 | [Danderlion](https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Danderlion](https://open.spotify.com/album/06mlIPE6BeK3DQlIxLkgjR) | 2:16 | 2021-12-07 | 2022-08-10 |
+| [dans le Bleu](https://open.spotify.com/track/0f8fnzecrwlGZYOWOHTMz0) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [dans le Bleu](https://open.spotify.com/album/4pI7r8JcKxLLWAB7iM5bdu) | 1:49 | 2023-03-14 |  |
 | [Darjeeling](https://open.spotify.com/track/37LE6gpXSSArk0zKyvukSb) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Darjeeling](https://open.spotify.com/album/3brqqWbxbR44knvxSxj4s0) | 2:52 | 2021-12-07 | 2022-04-08 |
 | [Days Of Roses](https://open.spotify.com/track/3QDpj4QuN10FOJXdCQOwOP) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Days Of Roses](https://open.spotify.com/album/1h8q1h380zEY9QYpPOckSr) | 2:00 | 2022-10-13 |  |
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-01-04 |  |
@@ -411,6 +412,7 @@
 | [Pagodes](https://open.spotify.com/track/22H0gtWkqkj0ek7CdJ4xu3) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Pagodes](https://open.spotify.com/album/7z3g5mPgsMAJvITOSJdmTd) | 2:02 | 2022-05-20 |  |
 | [Paintings](https://open.spotify.com/track/5ddcsw3fJkGjW67wjjtpu6) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Paintings](https://open.spotify.com/album/3kwHT5PRLc3T1iHAln18Bi) | 2:35 | 2021-12-07 | 2022-07-20 |
 | [Paisible](https://open.spotify.com/track/1tmUqof1lj9IgHQoh4LjA7) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Paisible](https://open.spotify.com/album/2bYxwhnFN7tyW3FKu4BWWu) | 2:33 | 2021-12-07 | 2022-04-21 |
+| [Paris la Nuit](https://open.spotify.com/track/0oaMtNH7PDUA1RIf17TDad) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Paris la Nuit](https://open.spotify.com/album/4PNHZwsONC89U7ys3yEaPu) | 1:30 | 2023-03-14 |  |
 | [Passage sombre](https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Passage sombre](https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9) | 2:14 | 2022-01-18 |  |
 | [Passing Robes](https://open.spotify.com/track/1pFfGRhwqs1SHblhJcvR8d) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Passing Robes](https://open.spotify.com/album/005XUz22uopTJZFzq4KvJD) | 2:43 | 2021-12-07 | 2022-11-25 |
 | [Passing Time](https://open.spotify.com/track/4dVCVkwJFhuLlY3mNia5uk) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Passing Time](https://open.spotify.com/album/0vHNtvr3HDKoi3lfPMiujH) | 2:17 | 2021-12-07 | 2022-07-20 |
@@ -512,6 +514,7 @@
 | [slow waltz](https://open.spotify.com/track/1BKUdbyhGPpzazD1H5L6iB) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [slow waltz](https://open.spotify.com/album/1FaJk07lRQS1bKuYA1W4q8) | 3:54 | 2022-02-15 |  |
 | [Slow Wave](https://open.spotify.com/track/0fQwjbsu5xD16BnM1ekJTI) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Slow Wave](https://open.spotify.com/album/4OCwy6VEtMLqzwxCddJQ6L) | 2:49 | 2022-08-09 | 2022-09-13 |
 | [Small River](https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [Small River](https://open.spotify.com/album/4KgOAj9Yq69syNN2mqw3dI) | 2:04 | 2021-12-07 | 2022-09-13 |
+| [Smukke SmåTing](https://open.spotify.com/track/5QMDR6TSypBIy54FoA8dIR) | [Julle Sørensen](https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay) | [Smukke Små Ting](https://open.spotify.com/album/5LRfR2qy1MHU0Zbl6tIjDv) | 2:00 | 2023-03-14 |  |
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2022-05-20 |  |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-02-01 |  |
 | [Solkysst](https://open.spotify.com/track/0flcIAMaspYd4r5KIoZJ5L) | [Nordiska Piano](https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq) | [Solkysst](https://open.spotify.com/album/0QLhrApLnQX972jZsz8n5n) | 2:20 | 2021-12-07 | 2022-04-21 |

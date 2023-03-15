@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 251121,
+  "num_followers": 251162,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGFjZWI5YzdlZDVmY2RkY2I1ODY4ZjA3MmM3NDFhNGE0",
+  "snapshot_id": "MTY3ODgwNzg0MywwMDAwMDAwMGNhNTM3MTUyOGI1NDYxMDQyZmMxMDU3ZjhjZTAxMTRj",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -185,6 +185,22 @@
       "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
     },
     {
+      "added_at": "2023-03-14 15:30:43",
+      "album": {
+        "name": "Live at Bo Bash 2021",
+        "url": "https://open.spotify.com/album/58QZnkI7wZjq1OhHyBoo0M"
+      },
+      "artists": [
+        {
+          "name": "Nolan Taylor",
+          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
+        }
+      ],
+      "duration_ms": 208955,
+      "name": "68 - Live",
+      "url": "https://open.spotify.com/track/40TGxZwQQG6cDHelPqiQSp"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Deep End",
@@ -299,6 +315,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 133773,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
       },
@@ -327,22 +359,6 @@
       "duration_ms": 232000,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 133773,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -611,6 +627,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 170391,
+      "name": "Cathedral",
+      "url": "https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Wild Turkey",
         "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
       },
@@ -655,22 +687,6 @@
       "duration_ms": 307613,
       "name": "Body",
       "url": "https://open.spotify.com/track/2l7JlYeniNFfIzfj3dOUjb"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Something American",
-        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 170391,
-      "name": "Cathedral",
-      "url": "https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1479,6 +1495,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "May",
+        "url": "https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 238515,
+      "name": "May",
+      "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "one hand on the steering wheel the other sewing a garden",
         "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
       },
@@ -1531,22 +1563,6 @@
       "duration_ms": 221135,
       "name": "The Man I'll Never Find - Piano Version",
       "url": "https://open.spotify.com/track/70DCnj3cDWbVil403EvDi5"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "May",
-        "url": "https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 238515,
-      "name": "May",
-      "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1643,22 +1659,6 @@
       "duration_ms": 243242,
       "name": "This Is What Our Love Looks Like Now",
       "url": "https://open.spotify.com/track/1nMTCm7jq5UOUW4tP8JDix"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Ready Reckoner",
-        "url": "https://open.spotify.com/album/6AIIp8Sg3vWyxpyoPc4Cfl"
-      },
-      "artists": [
-        {
-          "name": "Courtney Hartman",
-          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
-        }
-      ],
-      "duration_ms": 258141,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/2RZKkkakd9ULBy58ffOAG4"
     }
   ],
   "unique_name": "noir",

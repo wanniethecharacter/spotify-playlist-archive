@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Kabzaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,695 likes - 101 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,757 likes - 101 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 15 | [Arre Idu Yentha Bhavane \(from "Hoysala"\)](https://open.spotify.com/track/01B4hOPRd4OwoYp7DanGS0) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Arre Idu Yentha Bhavane \(from "Hoysala"\)](https://open.spotify.com/album/1RKgabovE3NDyWohDOxNeQ) | 3:05 |
 | 16 | [SLV \(Title Track\) \- From "SLV\-Siri Lambodhara Vivaha"](https://open.spotify.com/track/7sTx6sQI85uLRcYVVfzCUK) | [Rajesh Krishnan](https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA), [Sangarsh Kumar](https://open.spotify.com/artist/0zHIaMB2YlyVlELmjAM8Xk), [Bhargava Hegde](https://open.spotify.com/artist/13UX8hdnSC2XtAFzEpnaY4), [Varijashree Venugopal](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i) | [SLV \(Title Track\) \[From "SLV\-Siri Lambodhara Vivaha"\]](https://open.spotify.com/album/5LZwQoNNrn4xiqRYvL3Co0) | 3:28 |
 | 17 | [Nenapelli Eega](https://open.spotify.com/track/4sMuno4hnbfTB8s556K7YO) | [Mallika Matti](https://open.spotify.com/artist/4Xk6OszWpduC3wOjYoIhls) | [Juliet 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kuhP7XCIBFnCFaLHOn4Ty) | 3:19 |
-| 18 | [Ghost Theme Music](https://open.spotify.com/track/2Z4NzOBH9myKArrhWnGxtp) | [Nishan Rai](https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy) | [Ghost](https://open.spotify.com/album/1KjaMLaFgkWhSpt87g07xX) | 0:52 |
+| 18 | [Ghost Theme Music \- from "Ghost"](https://open.spotify.com/track/1WOiJdI02yDA33t5gjHwa0) | [Nishan Rai](https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy) | [Ghost Theme Music \(from "Ghost"\)](https://open.spotify.com/album/1pvxjUnPFPocXDuxlbS5G3) | 0:52 |
 | 19 | [Mana Manohara \(From "Beega"\)](https://open.spotify.com/track/6r16xEv74M5cSuIicBs4np) | [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY), [Chethan Gandharva](https://open.spotify.com/artist/2aZR9aRrSC2OodxW3hkbj5), [Sri Guru](https://open.spotify.com/artist/7lhJIYws0pC5cM7Oxh2WUU) | [Mana Manohara \(From "Beega"\)](https://open.spotify.com/album/09KvqsW4OIy6y49tX45U6f) | 4:03 |
 | 20 | [Family Song \(From "Ikshu"\)](https://open.spotify.com/track/1LnsGppN97Pk0GcgDpNAEB) | [Akarsh](https://open.spotify.com/artist/6ZZfZF9L8XXhgmsITas4fb), [Vikas Badisa](https://open.spotify.com/artist/0qAOzzMkqTFgv6sZtBAzQf) | [Family Song \(From "Ikshu"\)](https://open.spotify.com/album/6geiebSwTkuM9cp5K5Idu3) | 3:53 |
 | 21 | [Aala Jeevadala](https://open.spotify.com/track/0z5tEA7dRjGzptM6O47g6D) | [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc) | [Chowka Bara](https://open.spotify.com/album/7uaaBm5UxR0GdXl7bBJVH6) | 4:28 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 100 | [Hodare Hogu Yaarige Beku](https://open.spotify.com/track/7aGVMy9HJ5UBvZiYfWb2y9) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Raymo](https://open.spotify.com/album/2d73atLAA3Mr9CdG4nYTNO) | 4:27 |
 | 101 | [Kesariya Rangu](https://open.spotify.com/track/3X0CBCVKnvNajOvuSN0ngN) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Brahmastra \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1eUqIrELR2kac2RjtgXMQr) | 4:38 |
 
-Snapshot ID: `MTY3ODM3MDAyNSwwMDAwMDAwMDBkOThmZDI1NDUzZWRjYjJmOGJhZjZlNjZjZmQyZDJm`
+Snapshot ID: `MTY3ODM3MDAyNSwwMDAwMDAwMDFjNTEzZTEwOTY3MGZmZjJjNmU5YjhjZDg4ZWE1YTFl`

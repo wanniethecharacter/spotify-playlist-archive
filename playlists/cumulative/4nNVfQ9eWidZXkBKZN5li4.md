@@ -4,7 +4,7 @@
 
 > Best of Bollywood \- All time favourites featuring A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood Top tracks only on this playlist!
 
-216 songs - 13 hr 4 min
+217 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Jwalamukhi](https://open.spotify.com/track/138nVAT9PmSHTgNY84YMc6) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [99 Songs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zvGX2DvCOUKaRqfcWZrLi) | 4:08 | 2021-04-12 | 2022-04-19 |
 | [Kabhii Tumhhe](https://open.spotify.com/track/6Sflud15ff1KqBzg6wj78S) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Shershaah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5BLwx5IlfoWOrjJJ3i7gbK) | 3:50 | 2021-09-03 | 2022-08-20 |
 | [Kabhii Tumhhe \- Female Version](https://open.spotify.com/track/330joCgJHJGHFLOgJCvNEM) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Shershaah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5BLwx5IlfoWOrjJJ3i7gbK) | 3:38 | 2021-09-04 | 2021-11-24 |
+| [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 | 2023-03-14 |  |
 | [Kaise Juda Rahein](https://open.spotify.com/track/1UYZKO7JtihFj5dcZa8zzZ) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Sonna Rele](https://open.spotify.com/artist/6BkvARLboHA3olXUNq2TTH) | [Kaise Juda Rahein](https://open.spotify.com/album/1DKcNzdOh8KaViUwZuoxYy) | 4:13 | 2021-03-31 | 2021-04-15 |
 | [Kandhe Ka Woh Til](https://open.spotify.com/track/2iLm4lsq4WOXwe6ywPmJfQ) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Kandhe Ka Woh Til](https://open.spotify.com/album/7vrv57KUkt1ZPw35LyYSO5) | 3:32 | 2020-10-07 | 2022-01-14 |
 | [Kar Gayi Chull](https://open.spotify.com/track/3BhjbaGeI7E0CiIjctfdD3) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:07 | 2019-02-06 |  |

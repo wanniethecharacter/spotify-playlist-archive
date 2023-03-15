@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,685 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,700 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 79 | [Tell Me Pretty Baby](https://open.spotify.com/track/6pqbK1w6kI8NPTmCldLqsR) | [Fred Davis](https://open.spotify.com/artist/5OsUEYTWiNXmkKn7Sao4B1) | [Tell Me Pretty Baby](https://open.spotify.com/album/1w5cDGWOyVFdkFi9rRLeOE) | 3:29 |
 | 80 | [Heart Breakin' Blues](https://open.spotify.com/track/7ct1EY3oM7uKoXGabiM9D9) | [Cannon's Jug Stompers](https://open.spotify.com/artist/65oBffOa88Yjia8B9FTLAS) | [The Best Of Cannon's Jug Stompers](https://open.spotify.com/album/6zMTnsHJb9V8IonCLVav1F) | 3:06 |
 
-Snapshot ID: `MTY3Nzg2NzA4NywwMDAwMDAwMGU0OWQwNjhmNTViOWNiODUxZGQ0ZWRiYTZmYWUzZjYy`
+Snapshot ID: `MTY3Nzg2NzA4NywwMDAwMDAwMDNmZmNhNjlhNjFiZWRjNzE3MTc4MjljMTBjYWJjOWI4`

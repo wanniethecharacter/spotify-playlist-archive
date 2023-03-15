@@ -1211,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170893,
+      "name": "Give It All",
+      "url": "https://open.spotify.com/track/6TTBhxnb9NYT7cz6aLOkBy"
+    },
+    {
+      "album": {
         "name": "His Last Walk",
         "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
       },
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 224973,
       "name": "Mu Empire",
       "url": "https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0"
@@ -1878,6 +1896,24 @@
       "duration_ms": 209746,
       "name": "My Darkest Hour",
       "url": "https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY"
+    },
+    {
+      "album": {
+        "name": "Discovering The Waterfront",
+        "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "My Heroine",
+      "url": "https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw"
     },
     {
       "album": {
@@ -1928,7 +1964,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 310200,
       "name": "New Noise",
       "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
@@ -2144,7 +2180,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 260306,
       "name": "One Armed Scissor",
       "url": "https://open.spotify.com/track/1lg8iruuIfdRL20TMmHRzJ"
@@ -2432,7 +2468,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 192786,
       "name": "Seven Years",
       "url": "https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV"
@@ -2601,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "Soundtrack to a Headrush",
+        "url": "https://open.spotify.com/album/0KQXjbh2Yh3pfoGpHrXyml"
+      },
+      "artists": [
+        {
+          "name": "Emanuel",
+          "url": "https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173946,
+      "name": "Soundtrack to a Headrush",
+      "url": "https://open.spotify.com/track/1QCI40MvRSpx54E0qFVe7n"
+    },
+    {
+      "album": {
         "name": "Full Collapse",
         "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
       },
@@ -2724,6 +2778,24 @@
       "duration_ms": 348386,
       "name": "Tears Don't Fall",
       "url": "https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C"
+    },
+    {
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221093,
+      "name": "Thank You for the Venom",
+      "url": "https://open.spotify.com/track/0BpKPyXhWsTaWkgXeOd1Sn"
     },
     {
       "album": {
@@ -3242,7 +3314,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 264546,
       "name": "Understanding In A Car Crash",
       "url": "https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7"
@@ -3314,7 +3386,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 326506,
       "name": "Vampires Will Never Hurt You",
       "url": "https://open.spotify.com/track/7J4uwuiyWB7BqIcyNdcVRl"
@@ -3362,6 +3434,24 @@
       "duration_ms": 196560,
       "name": "Vices (feat. Liam Cormier)",
       "url": "https://open.spotify.com/track/7tu3BXZXExM38StzVqnY7I"
+    },
+    {
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217524,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
     },
     {
       "album": {
@@ -3596,6 +3686,24 @@
       "duration_ms": 238053,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
+    },
+    {
+      "album": {
+        "name": "Tell All Your Friends (Remastered)",
+        "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181336,
+      "name": "You're So Last Summer - Remastered",
+      "url": "https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t"
     },
     {
       "album": {

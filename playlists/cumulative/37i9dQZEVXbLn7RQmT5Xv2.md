@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-589 songs - 1 day 9 hr 28 min
+590 songs - 1 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2022-08-26 |  |
 | [Amrikkka](https://open.spotify.com/track/55LLrj5aARUqCLoDEwAp7v) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl) | [Amrikkka](https://open.spotify.com/album/6NE77IxMk4wzSQjFWlFAte) | 3:25 | 2021-03-27\* | 2021-05-28 |
 | [ANA DEAL](https://open.spotify.com/track/1QcOE9wJeillm0WK0oujtD) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [ANA DEAL](https://open.spotify.com/album/2WMRjvOdsTaYJbOf6tQ0tL) | 3:15 | 2022-09-10 | 2022-12-13 |
-| [Ana Ghaltan](https://open.spotify.com/track/7I2GzEUE2hADoq9uuAvYh7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:27 | 2022-06-03 |  |
+| [Ana Ghaltan](https://open.spotify.com/track/7I2GzEUE2hADoq9uuAvYh7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:27 | 2022-06-03 | 2023-03-15 |
 | [Ana Mesh Naguib Sawiris](https://open.spotify.com/track/6x2NGy1xES5Ujzk2kNKIrd) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Ana Mesh Naguib Sawiris](https://open.spotify.com/album/652mBvpZNQoZdP1UKg1HLs) | 2:55 | 2021-03-27\* | 2021-04-01 |
 | [Ana Negm](https://open.spotify.com/track/6CU68VwcV10VfulVQMfj3X) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 4:01 | 2022-09-25 |  |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-04-16 |  |
@@ -503,7 +503,7 @@
 | [الباشا](https://open.spotify.com/track/1qh5fjEI0AwX2QikxLwZLi) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [الباشا](https://open.spotify.com/album/5f8WADVIGDIr3nrlVATVJl) | 2:44 | 2022-05-03 | 2022-05-05 |
 | [البخت](https://open.spotify.com/track/5CeSq5JBv2wCeIHZA0PLtT) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/2QYOx6iuRhBUDiLQ262eGw) | 3:26 | 2022-03-09 | 2022-04-03 |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-02-27 |  |
-| [البوصلة ضاعت](https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [البوصلة ضاعت](https://open.spotify.com/album/17E04dwaT5vHAHsuviwYPB) | 3:29 | 2021-05-18 | 2023-03-08 |
+| [البوصلة ضاعت](https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [البوصلة ضاعت](https://open.spotify.com/album/17E04dwaT5vHAHsuviwYPB) | 3:29 | 2021-05-18 |  |
 | [السر](https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Seif](https://open.spotify.com/artist/5pEMAuF7RVXLCCiIkqVC0q) | [السر](https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW) | 4:32 | 2022-08-25 | 2022-10-31 |
 | [العمر راح جمايل](https://open.spotify.com/track/2tDHfhOcCyIlT2cMc2MbLs) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Abdelsalam](https://open.spotify.com/artist/1RYiKhiu6grbHvPZIuO18y), [Shalsha](https://open.spotify.com/artist/7JvNUhrLYfqBSIPfa5N12E) | [العمر راح جمايل](https://open.spotify.com/album/4t5IE26L1Y0HcP0SMBoDti) | 2:53 | 2023-02-13 | 2023-02-15 |
 | [الغسالة](https://open.spotify.com/track/7JAPo0o6KfpKdZiGLoRCNh) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [الغسالة](https://open.spotify.com/album/5EZeKNiANiLwqcOEYnxSoD) | 2:51 | 2021-03-27\* | 2022-03-07 |
@@ -531,7 +531,8 @@
 | [جوب](https://open.spotify.com/track/00iZxf2j4qUqsSa7HOngwZ) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [جوب](https://open.spotify.com/album/0sUROVLFIxptdj9P8Vssyn) | 4:10 | 2022-09-10 |  |
 | [حدوته ألماني](https://open.spotify.com/track/2bXrayhgyX8nvNNxMjFT0b) | [Hussein Black](https://open.spotify.com/artist/2iPEr3Uk3Nvikdnx4e3ELe) | [حدوته ألماني](https://open.spotify.com/album/2TeKtE9myzBTuM0MmrlGkl) | 2:35 | 2022-07-16 | 2022-07-28 |
 | [حدوته المانى](https://open.spotify.com/track/1hpjMinSryyJGslYdF0cyy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 2:37 | 2022-07-13 |  |
-| [حمرا حمو الطيخا](https://open.spotify.com/track/0O31XAenULKHHAE5wQjhMs) | [Hr\-Muisc1](https://open.spotify.com/artist/2hmqMeLn6oIt4CJS0Wxr0W) | [حمرا حمو الطيخا](https://open.spotify.com/album/6pzMvIbmXlPYgxHCcni6py) | 3:38 | 2023-03-03 |  |
+| [حمرا](https://open.spotify.com/track/0nkJCooURSEVpWFpeYOzeI) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [حمرا](https://open.spotify.com/album/0g8MIat372o8vp1Shk1sMe) | 3:38 | 2023-03-14 |  |
+| [حمرا حمو الطيخا](https://open.spotify.com/track/0O31XAenULKHHAE5wQjhMs) | [Hr\-Muisc1](https://open.spotify.com/artist/2hmqMeLn6oIt4CJS0Wxr0W) | [حمرا حمو الطيخا](https://open.spotify.com/album/6pzMvIbmXlPYgxHCcni6py) | 3:38 | 2023-03-03 | 2023-03-15 |
 | [خد و هات](https://open.spotify.com/track/1AfioCIHFE3Ny3kTBppiP9) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [خد و هات](https://open.spotify.com/album/3DIpQbx2oJvHuZm37Gctpr) | 2:43 | 2021-06-04 | 2022-03-06 |
 | [خضره](https://open.spotify.com/track/2pBLZecKjIIHKnAxS6GfLN) | [amadio](https://open.spotify.com/artist/2s7SZA5iFk03lGBl1bGofj) | [خضره](https://open.spotify.com/album/0e1CeloR3wxlWPEZcPGkkJ) | 2:25 | 2023-03-08 | 2023-03-11 |
 | [خطر \(ياللي سيرتي تعباك\)](https://open.spotify.com/track/1C6pNXiVfcKO49JttTv0xJ) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [خطر \(ياللي سيرتي تعباك\)](https://open.spotify.com/album/6nXBRUkDo8ttEm2DItn3sY) | 4:00 | 2021-08-01 | 2022-03-22 |

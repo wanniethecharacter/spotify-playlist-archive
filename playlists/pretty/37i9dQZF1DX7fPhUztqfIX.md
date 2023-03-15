@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,947 likes - 130 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,002 likes - 130 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [The King In All His Beauty](https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [The King In All His Beauty](https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud) | 4:00 |
 | 130 | [God of the Breakthrough](https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq) | [Crossroads Music](https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY) | [God of the Breakthrough](https://open.spotify.com/album/0h2DEw5z4tM95DMLudOIQ0) | 4:22 |
 
-Snapshot ID: `MTYyMzQ3MDQ0MCwwMDAwMDAwMDFhZDc0NzZkNWZhMzA3YzZkNTYzMzlmOTY1ZmE0YjA4`
+Snapshot ID: `MTYyMzQ3MDQ0MCwwMDAwMDAwMDg2MjBjNGYyNDJhMWYwNTZjNDg4Y2QxYzg3MTJlYTFh`

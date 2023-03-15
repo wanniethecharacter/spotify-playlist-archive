@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Listen to 20 songs of 'Hipster Song' selected by So!YoON! \(황소윤이 직접 선곡한 '힙스터 곡' 20곡을 들어보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,161 likes - 21 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,184 likes - 21 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 20 | [별이 진다네](https://open.spotify.com/track/0uGDaEPsUUYUtMFjr2QMrg) | [여행스케치](https://open.spotify.com/artist/1hjjZKt6yK0bGmubr0yOZ6) | [처음타본 타임머신](https://open.spotify.com/album/6aHpFexUPTYIGNL6uTLPSC) | 5:20 |
 | 21 | [CANADA](https://open.spotify.com/track/0nnBNJCB4r9nVkCZ2YEzgJ) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Prologue : Love](https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo) | 4:55 |
 
-Snapshot ID: `MTY3Njg2OTg4NSwwMDAwMDAwMDM3NTc4YjYzM2U5ZjcxN2NhZjAwYzViYzgwMTAxYjUz`
+Snapshot ID: `MTY3Njg2OTg4NSwwMDAwMDAwMDQ4NTAyODUzY2YxYzMwYTdlOWE1ZjZlNDY1Y2E1NzUz`

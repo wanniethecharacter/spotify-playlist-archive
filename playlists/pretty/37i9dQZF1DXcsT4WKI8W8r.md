@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 
 > A playlist to get you through your whole workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,754 likes - 145 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,977 likes - 145 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 | 144 | [Moral of the Story \(feat\. Niall Horan\)](https://open.spotify.com/track/2NWVdwbd2hPIzC2lyf4y63) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Moral of the Story \(feat\. Niall Horan\)](https://open.spotify.com/album/3pqw4TEWnaCDNK2xs0BKhr) | 3:18 |
 | 145 | [Ugly Heart](https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [G.R.L.](https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF) | 3:18 |
 
-Snapshot ID: `MTYxOTc3MTYzMSwwMDAwMDAwMDBiYjNlMDk5NTg4MmUyYTI5ZTk3Nzk3NTMwZWFjZjIw`
+Snapshot ID: `MTYxOTc3MTYzMSwwMDAwMDAwMDFkMGViOTYxOWZiMTg2OWI4NDFlM2JmYzYzNmQyMGYx`

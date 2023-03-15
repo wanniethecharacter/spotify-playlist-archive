@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,017 songs - 2 day 5 hr 10 min
+1,018 songs - 2 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [100](https://open.spotify.com/track/1vTWv4vzQBqoLWx8DTCIBW) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [CSKI VOL\. 2](https://open.spotify.com/album/0ssgEUHadlWTWQIGXuWZ5j) | 2:06 | 2022-02-05 | 2022-02-07 |
 | [100](https://open.spotify.com/track/6pJvzpr5cKkaaj2uM448bb) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [100](https://open.spotify.com/album/4K6129oXlEorCtDph4tlxa) | 2:06 | 2022-01-22 | 2022-01-29 |
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2022-11-05 |  |
+| [16](https://open.spotify.com/track/4z9bSBXNxEgk0nEKIvu2L9) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [16](https://open.spotify.com/album/2ZkuQPH67wewBcOwlg04Jk) | 3:08 | 2023-03-14 |  |
 | [2 Much](https://open.spotify.com/track/0oaY19dUwZimIgzn3ZZLZO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:32 | 2021-03-27\* | 2021-04-02 |
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2021-08-07 | 2021-10-23 |
 | [24](https://open.spotify.com/track/7DBFslKWQzoRgO0HBBkL3u) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:17 | 2021-08-31 | 2021-09-04 |
@@ -54,7 +55,7 @@
 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 | 2021-03-30 | 2021-04-11 |
 | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9) | 2:36 | 2022-07-23 | 2022-07-31 |
 | [As I Am \(feat\. Khalid\)](https://open.spotify.com/track/6F2r4HgpJnvKDmkN6JEN6J) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:54 | 2021-03-27\* | 2021-04-26 |
-| [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 |  |
+| [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2023-03-15 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-22 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 | 2022-03-05 | 2022-03-21 |
@@ -184,7 +185,7 @@
 | [Danser](https://open.spotify.com/track/5uPv6fOsHPC8ZqxRKElxMP) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Danser](https://open.spotify.com/album/5aIMBNbI3Qyno8HCRWP6iv) | 2:39 | 2022-04-23 | 2023-01-03 |
 | [Danser Kun For Dig](https://open.spotify.com/track/2FsJvP6UAPk4Hz2WgHaT4A) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [Danser Kun For Dig](https://open.spotify.com/album/299ByLsreUOVfJJYUaivGD) | 2:28 | 2023-02-27 | 2023-03-02 |
 | [Danser Med Diablo](https://open.spotify.com/track/3Y7DrSY1cnn7AyTakPIzsW) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Danser Med Diablo](https://open.spotify.com/album/5X4FnXVZQ0JJjdCQU1s52Q) | 2:45 | 2021-08-22 | 2021-09-13 |
-| [Danser Med Piger](https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS) | [Danser Med Piger](https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5) | 2:48 | 2022-08-19 |  |
+| [Danser Med Piger](https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS) | [Danser Med Piger](https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5) | 2:48 | 2022-08-19 | 2023-03-15 |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
 | [Dawn FM](https://open.spotify.com/track/6krYS8KtmNAYyb5uTZiYW4) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-10 | 2022-01-12 |
 | [Daydate \(feat\. Abcitoo\)](https://open.spotify.com/track/4HQZqXCDny7EECn458ez55) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Abcitoo](https://open.spotify.com/artist/2ITY7VxNVZseegV5EddAVN) | [Dit Liv Dit Valg](https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4) | 2:43 | 2023-03-11 | 2023-03-13 |
@@ -302,7 +303,7 @@
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 |  |
 | [Fly Away](https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse](https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf) | 2:58 | 2021-07-18 | 2021-08-01 |
 | [Fly Away](https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away](https://open.spotify.com/album/7jRjPcWQMYGtD6gPBDZiAq) | 2:58 | 2021-03-27\* | 2021-07-18 |
-| [Flytter Bjerge \(feat\. Branco\)](https://open.spotify.com/track/1Xer1Y9qrReXcVk2qmsYOP) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl) | 2:39 | 2023-02-11 | 2023-03-12 |
+| [Flytter Bjerge \(feat\. Branco\)](https://open.spotify.com/track/1Xer1Y9qrReXcVk2qmsYOP) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl) | 2:39 | 2023-02-11 |  |
 | [Flyvende Faduma](https://open.spotify.com/track/4EKSw9Jzun2WFvjm2HU58X) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 3:18 | 2022-10-22 |  |
 | [Flyvende Faduma](https://open.spotify.com/track/5iqWgicPaUYWjxORp5iagj) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Flyvende Faduma](https://open.spotify.com/album/378mNzVXnrWbOyFknDXy4c) | 3:18 | 2022-08-06 | 2022-10-23 |
 | [FOKUS](https://open.spotify.com/track/3msgo1KYsxvVw7BMhihpIS) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [JAMO](https://open.spotify.com/album/6f4qhLPJtFcEjMwKEw2VFa) | 2:44 | 2022-07-16 | 2022-07-18 |

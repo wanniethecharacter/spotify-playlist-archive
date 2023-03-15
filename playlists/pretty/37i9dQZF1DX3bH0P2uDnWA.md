@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,998 likes - 120 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,131 likes - 120 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 59 | [The Jungle Jive](https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd) | [Minimatic](https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV) | [Bongo Chic](https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052) | 3:51 |
 | 60 | [Crazy Cat](https://open.spotify.com/track/1WeIE004KxqkSqL9llndbV) | [11 Acorn Lane](https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5) | [Crazy Cat](https://open.spotify.com/album/74GNHd060Ba5P13cwmFHHV) | 2:37 |
 | 61 | [Don't Stop](https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Don't Stop](https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2) | 3:02 |
-| 62 | [Wake Up Romeo \- PiSk Remix](https://open.spotify.com/track/5gfINY23blgS03ev7UCD1Z) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm), [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc) | [Wake Up Romeo \(PiSk Remix\)](https://open.spotify.com/album/6hmZM1xUX1W6VAQGOohXrk) | 3:02 |
+| 62 | [Wake Up Romeo \- Pisk Remix](https://open.spotify.com/track/0gzUec1Q4dB6HjDMeoP5X6) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm), [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc) | [Wake Up Romeo \(Pisk Remix\)](https://open.spotify.com/album/0Pf35QQ35kGcAq6iMNHkhE) | 3:02 |
 | 63 | [Mañana \- Jojo Effect & Gardener of Delight Remix](https://open.spotify.com/track/27FA1rNL2xN9u8XZyHrxup) | [Jojo Effect](https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL), [The Mills Brothers](https://open.spotify.com/artist/3nxAXv48I7VKMXT8ScbRlg), [Gardener of Delight](https://open.spotify.com/artist/3hSjJFU2I7AkyEDa4nop7i) | [Mañana \(Jojo Effect & Gardener of Delight Remix\)](https://open.spotify.com/album/07HP7HE5ivpEfRj5c9JAqp) | 2:48 |
 | 64 | [Summer Swing](https://open.spotify.com/track/2LpvMsXOLJpmiBWmrBpNYg) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [Summer Swing](https://open.spotify.com/album/5rzDrcy3EbPwDUV6IFUc0N) | 2:38 |
 | 65 | [Taking You with Me](https://open.spotify.com/track/7Hr6qjeI4F1f52j09STzyG) | [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Taking You with Me](https://open.spotify.com/album/4AUmtmKPvKPUjTe93Gy0oj) | 3:19 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 119 | [The Junker](https://open.spotify.com/track/1EmHeOAiZpHgLMbAXUQENm) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [The Junker](https://open.spotify.com/album/5HEBeoM8fE1Sj6xidb5an9) | 2:58 |
 | 120 | [The Illusionist \- Glenn Gatsby Remix](https://open.spotify.com/track/16FCFtwDtgv4OamXVZrqim) | [Valerie Giglio](https://open.spotify.com/artist/0guWLUbzGbZYZ7Abbxuxiw), [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Samuel Cerra](https://open.spotify.com/artist/7EbiisDqIWQRvAFZtJ9Tiu) | [The Illusionist \(Glenn Gatsby Remix\)](https://open.spotify.com/album/2pRtHMttKm9OFOfof33xvQ) | 2:51 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDg3N2I3NWM1N2I1YmFhMTc2N2E0NzFiN2I2Mzc0ODBk`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMGQzOTFiNTMwMzhhOGYzZDA2ZjA3NWQ0YTM4MjEyNzc1`

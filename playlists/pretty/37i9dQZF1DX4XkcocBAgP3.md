@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XkcocBAgP3.md) - [plain]
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,273 likes - 69 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,549 likes - 69 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XkcocBAgP3.md) - [plain]
 | 68 | [Beyond \(feat\. Luke Combs\) \- Live](https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Beyond \(feat\. Luke Combs\) \[Live\]](https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo) | 4:06 |
 | 69 | [The Way She Rides](https://open.spotify.com/track/4t2AnYhvH7gr59zLJ5Cn6c) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way She Rides](https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ) | 2:45 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMGUyY2YwMWE2YmI0NDAzYzk5ZjcwM2Q3NTc1YTBkMWFi`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDMwOWQzMzc0ZDMyNmIzNzNkYTJiOTdiMmQ4M2JjYjM3`

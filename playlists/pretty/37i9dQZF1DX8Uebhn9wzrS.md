@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148,204 likes - 499 songs - 18 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,149,130 likes - 499 songs - 18 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -508,4 +508,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 498 | [humify](https://open.spotify.com/track/4wkQzdybc3qK4nNaxHLzvO) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [humify](https://open.spotify.com/album/3ETuV9sCWTjsUqUf0FVe4R) | 2:41 |
 | 499 | [Turnin'](https://open.spotify.com/track/1FPITXegY60iam6bYx4p5w) | [Chill Collusion](https://open.spotify.com/artist/1TtW6tuwl4p3aUWydX2kMj) | [Turnin'](https://open.spotify.com/album/2gceX5SfUJzI3bjS4BjzGo) | 2:20 |
 
-Snapshot ID: `MTY3ODI3MTQyOSwwMDAwMDAwMDlkNWIzZGJmODVmNTA4MTYxODcxZjgzMDA1MmY3YTY3`
+Snapshot ID: `MTY3ODI3MTQyOSwwMDAwMDAwMDg2MTZhNjcyNWNiNzE4OTZmYTRiOTM0ZmM3NWI2MjE4`

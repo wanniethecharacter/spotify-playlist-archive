@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YnmTbpvHLN.md) - [plain]
 
 > Degusta de lo más delicioso para cenar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,153 likes - 200 songs - 12 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,148 likes - 200 songs - 12 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YnmTbpvHLN.md) - [plain]
 | 199 | [Birds Down South](https://open.spotify.com/track/6wBo7Hme7JU3OCULiY72I6) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Birds Down South](https://open.spotify.com/album/0c6rJQwZVkO76WQIatE63W) | 2:54 |
 | 200 | [Standing Tall](https://open.spotify.com/track/6zyXnFhbzWquheImVhTyMX) | [Magnus Ringblom](https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb) | [Blue Night Bossa](https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7) | 3:51 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGQxMWExZTljZjg3ZDA4M2MzYjZhNWEwNmIwYWQ0ZmQ5`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDQxMWE1OWUwYTg0OTJhOTZjOWUxZGFlNThiMGJkZDIz`

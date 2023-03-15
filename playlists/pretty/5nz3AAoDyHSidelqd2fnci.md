@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 50 min 18 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 45 min 36 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Own Mind](https://open.spotify.com/track/3AfMsHgJQU9CxQf0Im4AcL) | [SUDS](https://open.spotify.com/artist/4u6gl0WUBFGfLaBABuqIA5) | [My Own Mind](https://open.spotify.com/album/0j60S1Q9VorL4xFUpYJQrt) | 4:27 |
-| 2 | [Space Enough To Grow](https://open.spotify.com/track/4bvskHeaENsdxd5OQopmV6) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Restoring Force: Full Circle](https://open.spotify.com/album/2MqYypIxDlwcPNc1T90fO2) | 3:38 |
-| 3 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 |
-| 4 | [Perdon](https://open.spotify.com/track/3x8O7hS9LHPcbhmR3zCTaT) | [Facundo Cabral](https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx) | [Un Canto Al Pueblo, Vol\. 1](https://open.spotify.com/album/3OaYBf63f5rVAAyU84PIeQ) | 3:31 |
-| 5 | [His Last Walk](https://open.spotify.com/track/2DE6LpCfemne6aWM7ixIL4) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [His Last Walk](https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM) | 10:31 |
-| 6 | [Doomed \- Commentary](https://open.spotify.com/track/7y3qprHf1FA8Q3xNTFLKjD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit \(Track by Track Commentary\)](https://open.spotify.com/album/6XPW94L30lADaLwczUnLFh) | 1:28 |
-| 7 | [Let It Rock](https://open.spotify.com/track/6BHtTBtKb4BppT3ykEl8GZ) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 5:25 |
-| 8 | [Clint Eastwood](https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 5:40 |
-| 9 | [Cast from Perfection](https://open.spotify.com/track/0j5IGfFOLxmsVId1zw5P52) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Desolation of Eden](https://open.spotify.com/album/3aLSNKBvxIWL0d8cshVZat) | 2:43 |
-| 10 | [Masterpiece](https://open.spotify.com/track/6yU6o0fbGhtKNFyKDcL8zJ) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Masterpiece](https://open.spotify.com/album/3t3owRZbkMZrjZOAseeMoY) | 2:15 |
-| 11 | [No Me Falles](https://open.spotify.com/track/4esJIc8V94chpvUfB6Rnna) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Grandes Exitos](https://open.spotify.com/album/6Nvv5Jrk3cg5BdplDxEsHq) | 3:38 |
-| 12 | [Laguna Sunrise](https://open.spotify.com/track/7E3ofLA3h82nIUJBRoV5pL) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath Vol\. 4 \(Remastered\)](https://open.spotify.com/album/2PoPhjSYlXmYfkNKHVq1cQ) | 2:50 |
+| 1 | [Before the Duel](https://open.spotify.com/track/4ga3uUilqlbZeRJZh5P004) | [Dark Moor](https://open.spotify.com/artist/0YWKRTzA4kBceGwjywtMkh) | [Beyond The Sea](https://open.spotify.com/album/6kBY3AkEPLE4sZ1ULhYhAS) | 3:50 |
+| 2 | [I Rape Myself](https://open.spotify.com/track/60o1z4x6QmuYUbxgoerX3Y) | [Caliban](https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL) | [The Undying Darkness](https://open.spotify.com/album/2biyXYgABCNpGMltZ3pdb1) | 3:23 |
+| 3 | [Angel Eyes \(Home And Away\)](https://open.spotify.com/track/2ClEdZjrJD2lQOrWU1qqO5) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Popped In Souled Out](https://open.spotify.com/album/5HqzVjfKEE9nMOYpQxQiz1) | 5:16 |
+| 4 | [High Like a Plane](https://open.spotify.com/track/275QQuIkO36GnffrfVHGVz) | [Ahh\-Ceh](https://open.spotify.com/artist/4olexgy8UT7pHhzFjLplyP) | [High Like a Plane](https://open.spotify.com/album/5tMVaUg3Ph1H0SPBWXSqqc) | 3:59 |
+| 5 | [VICTIMIZED](https://open.spotify.com/track/35jdp4bY3CABKBroODRq7Y) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS](https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI) | 1:46 |
+| 6 | [Jesus Christ](https://open.spotify.com/track/1FHqLxctCO6J96ULx0lK2F) | [Matilda Marigolds](https://open.spotify.com/artist/1Bahs2JN67RjH6j5JMOytr) | [Jesus Christ](https://open.spotify.com/album/28QSE6vaNRA2ZkRK5luNhq) | 5:19 |
+| 7 | [Voices](https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:37 |
+| 8 | [Never Giving Up](https://open.spotify.com/track/6JrHK494fKTg8X0PfOfA0l) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Restoring Force: Full Circle](https://open.spotify.com/album/2MqYypIxDlwcPNc1T90fO2) | 3:39 |
+| 9 | [Degenerate](https://open.spotify.com/track/5zaqXwiJTWi0TWxbHVitlb) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/5IlIcdN5FKmqkhZcWNAqoW) | 2:28 |
+| 10 | [Life to Lifeless](https://open.spotify.com/track/1Xp4ErFLJWvbwD4nl1cr98) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Alive or Just Breathing \(Topshelf Edition\)](https://open.spotify.com/album/7BFo7PKlK9oCPJVPEzNJy7) | 3:17 |
+| 11 | [March Of Mephisto](https://open.spotify.com/track/6sxqSN9YxAHzMzJ8u835J5) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS) | [The Black Halo](https://open.spotify.com/album/1CPdkf84Qe1WBkV0biWwoG) | 5:28 |
+| 12 | [Crawling](https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:28 |
 
-Snapshot ID: `MjcsYWNlMWFiMDI1ZGNmMGM5MGIzZmYxNWFmN2Q5MzE4NGM2ZGUwNTQxYg==`
+Snapshot ID: `MjgsMmVkNjRjNDA4ZGFhMTU3NWVjYWQ4NzJhZjZiYWQwNzE4OTRkMmM4YQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,689 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,676 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 99 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/6ETev8u6Hb3YqToPpmTRMl) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Waiting For The Dawn](https://open.spotify.com/album/4ft2IddmKZZ29X9jyO8BAH) | 1:37 |
 | 100 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/09AWVPvdHm3nPt7xA1x1Xu) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Christmas Sessions](https://open.spotify.com/album/5ekIltuFIN3m09eOBSWpF3) | 3:31 |
 
-Snapshot ID: `MTY3MDcyMjA2MywwMDAwMDAwMDQ2Yzk0YzIyMWFkMWU1MTJjMTJmNTgxZGRhZWM1YWNm`
+Snapshot ID: `MTY3MDcyMjA2MywwMDAwMDAwMDg3NzZmMWY4Mzg1YmE3YTA4ODYyYjMwYWFjZTliMzhh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,893 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,019 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 99 | [Nago](https://open.spotify.com/track/0CNCF7iSfTXGBro6idURk4) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Plex](https://open.spotify.com/album/1YY9UnSkfBwVaO3cS85zrY) | 3:56 |
 | 100 | [Son Of Emmerson](https://open.spotify.com/track/1rMV78kBNDG4vOE9IeokKh) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [Son Of Emmerson](https://open.spotify.com/album/0XkagDDZPT7ACptJdHWjhl) | 3:44 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGIxODdlMjhkNjIxOWRkMzE3NTgxNzU0NGZjZDgyNWE4`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDNkNTBhYTZkNzliYTgyM2MwMTVhMjllNDkzNjRhOTcz`

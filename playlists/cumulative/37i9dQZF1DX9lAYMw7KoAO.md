@@ -4,7 +4,7 @@
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-103 songs - 11 hr 1 min
+104 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,13 +35,14 @@
 | [Fix My Eyes on You](https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Born of God](https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf) | 5:32 | 2020-04-13 |  |
 | [Fix My Eyes On You](https://open.spotify.com/track/01681YDSzn0mtZJoXHzcuG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Fix My Eyes On You](https://open.spotify.com/album/6A2omubxXwPF8fveDc1dNy) | 5:33 | 2020-04-13 | 2022-07-29 |
 | [God Turned It Around](https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [God Turned It Around](https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz) | 10:19 | 2022-08-26 |  |
+| [Greater](https://open.spotify.com/track/4ga4GTOzcYUyRB51aRsX6J) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Greater](https://open.spotify.com/album/3uq6TjozBhH2dDBbkK88fU) | 6:42 | 2023-03-14 |  |
 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 | 2019-11-06 |  |
 | [How to Love](https://open.spotify.com/track/1agXd44dQVaf4mCZGgyP3x) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [Hunger \- From Our Heart to Yours \(Live\)](https://open.spotify.com/album/5mvzsp0rnXmZYDKqVa88ac) | 7:21 | 2020-11-05 |  |
 | [How to Love](https://open.spotify.com/track/5NwKf24lljEnETSNBEXzzM) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [Hunger \- From Our Heart to Yours \(Live\)](https://open.spotify.com/album/0IkLNW9rtROyC3ILp4APN7) | 7:22 | 2020-11-05 | 2022-07-29 |
 | [I Believe \(Live\)](https://open.spotify.com/track/6cJO5KcvPHzo50Q0EKS0Og) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [Your Kingdom on Earth \(Live\)](https://open.spotify.com/album/0TYTdff6CTiivlJ13wHFfI) | 5:40 | 2020-08-27 |  |
 | [I Need To Worship](https://open.spotify.com/track/1p8RN6wtquSpTn71bgmuE7) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [Ndikhokhele Bawo](https://open.spotify.com/album/2NMfEgGcpPRYj8sZFi4VDa) | 3:56 | 2020-11-20 |  |
 | [I Never Knew](https://open.spotify.com/track/7ouTAQjTCipK9Ag5GAwqE0) | [Proud Refuge](https://open.spotify.com/artist/7BdlxAdFLv4gmdD9Gl116j), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [I Never Knew](https://open.spotify.com/album/6NIPGPuPrJ7KjfDxf5BLyD) | 3:50 | 2021-11-18 | 2023-02-01 |
-| [Itshokwadi \(Live at Carnival City, 2012\)](https://open.spotify.com/track/0UzgJvhYSu2i6gNbeUClRb) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 16 \(Live at Carnival City, 2012\)](https://open.spotify.com/album/1Todx56OeEZLka6ovR7prO) | 6:32 | 2018-10-01 |  |
+| [Itshokwadi \(Live at Carnival City, 2012\)](https://open.spotify.com/track/0UzgJvhYSu2i6gNbeUClRb) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 16 \(Live at Carnival City, 2012\)](https://open.spotify.com/album/1Todx56OeEZLka6ovR7prO) | 6:32 | 2018-10-01 | 2023-03-15 |
 | [Jehovah Is Your Name \(Live\)](https://open.spotify.com/track/0kL3Q9FIhGS8vplV3HMGrK) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/5LXmSfdbz5yTJD6TgnSPaC) | 7:38 | 2019-11-06 |  |
 | [Jesus Is Enough](https://open.spotify.com/track/3mnkSqpC8veeCS9arqB0yV) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:39 | 2020-11-20 |  |
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2022-03-11 |  |

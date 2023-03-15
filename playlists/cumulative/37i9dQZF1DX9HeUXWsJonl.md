@@ -4,7 +4,7 @@
 
 > Écoute en boucle les hits tunisiens du moment.
 
-143 songs - 8 hr 53 min
+144 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Soukara](https://open.spotify.com/track/4E9W5CF1SVwRrYX8xZ7H2x) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Soukara](https://open.spotify.com/album/0cdBTS4wd4T2k7Bwpw1eP0) | 4:10 | 2022-03-31 |  |
 | [Sous tension](https://open.spotify.com/track/6h0sdTa2cXLsHuxjd29clN) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Sous tension](https://open.spotify.com/album/4q73ju7gYbEFuZCr8Ex5kq) | 3:55 | 2023-01-17 |  |
 | [Soussa By Night](https://open.spotify.com/track/0On8JF0aSbrhCupnZohkK6) | [JahMxli](https://open.spotify.com/artist/7M7zf29Oe6dQh3xmAk2DlN), [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP) | [Soussa By Night](https://open.spotify.com/album/1Ui86A2Tw5RJ4nvnCVg4HO) | 3:24 | 2021-12-10 | 2022-06-30 |
+| [Stava Bene](https://open.spotify.com/track/19IVlD9YCOcPNaonf2YNNT) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 3:44 | 2023-03-14 |  |
 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 | 2022-03-24 | 2022-05-27 |
 | [Ta3bouni](https://open.spotify.com/track/65aEPfjjGbYvuCamNhfaa0) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Ta3bouni](https://open.spotify.com/album/6hGPmmWjolKkO584x6wcIa) | 4:52 | 2023-01-13 |  |
 | [Teblina](https://open.spotify.com/track/62BTtJMH55mNZWkt7bsiN2) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Teblina](https://open.spotify.com/album/1lCnDpXNlxvQ3Pw8WgxDAm) | 3:30 | 2022-10-10 |  |
@@ -135,7 +136,7 @@
 | [Ya Denya](https://open.spotify.com/track/16whsA6oQEJDzjKWa4hept) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ya Denya](https://open.spotify.com/album/2gS3rvgJD2djvs01xHCVAQ) | 4:12 | 2021-12-10 | 2022-12-06 |
 | [Ya Hasra](https://open.spotify.com/track/46w0RuHSg4LYbMh1JjJU8j) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ya Hasra](https://open.spotify.com/album/0lHDyY2aMHz4WQrjFSpb20) | 5:40 | 2021-12-10 | 2022-03-01 |
 | [Ya houb achbik](https://open.spotify.com/track/4FW0O8tnwhgyB5opZtXvsn) | [Nour Chiba](https://open.spotify.com/artist/4RKA21fU9i82HeiNACGsgD) | [Rabouh essahriya](https://open.spotify.com/album/3YtnawJjeuZYcwrsvlrB2e) | 4:55 | 2022-09-12 | 2022-09-15 |
-| [Ya laymi](https://open.spotify.com/track/24oXPBDSSzhNF12yXpxUhE) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk) | [Ya laymi](https://open.spotify.com/album/4rh4V5WvntbsRpyDSnH4eB) | 3:20 | 2023-01-10 |  |
+| [Ya laymi](https://open.spotify.com/track/24oXPBDSSzhNF12yXpxUhE) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk) | [Ya laymi](https://open.spotify.com/album/4rh4V5WvntbsRpyDSnH4eB) | 3:20 | 2023-01-10 | 2023-03-15 |
 | [Ya Lil](https://open.spotify.com/track/3hvJHXAuKeSRSShUEl9v0c) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Lil](https://open.spotify.com/album/4jcoGlVZZi1hu3PhxxIeqB) | 2:46 | 2023-02-20 |  |
 | [Ya M'safer](https://open.spotify.com/track/2sOg0fznPO0YWKWksIQEmA) | [Ghalia Benali](https://open.spotify.com/artist/7BOI7fetZ2yzDpBUiCMyYy) | [Romeo & Leila](https://open.spotify.com/album/2j4MGjJOs8SBgXL7OyqCFl) | 5:22 | 2022-08-31 | 2023-02-24 |
 | [Yammi](https://open.spotify.com/track/4kMMvrtAPcSRax1kZg49eg) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Yammi](https://open.spotify.com/album/3bjWzuvIOn8LIKZX0U7txb) | 3:41 | 2021-12-10 | 2022-06-19 |

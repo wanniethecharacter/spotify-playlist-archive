@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Feist
 
-486 songs - 1 day 6 hr 14 min
+487 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [FIGHT](https://open.spotify.com/track/5wDk6k9GPgqZ3mpn0JVzHE) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [FIGHT](https://open.spotify.com/album/51bglOUVDdHtaQCSwQw9Vg) | 3:32 | 2022-07-15 | 2022-07-25 |
 | [Fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [Shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 | 2021-06-03 | 2022-04-21 |
 | [Fly To You \(feat\. Grimes and Dido\)](https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:05 | 2023-02-15 |  |
-| [foolish thinking](https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [foolish thinking](https://open.spotify.com/album/3aazS3R5JRjdKi2CcbAA3N) | 5:53 | 2023-01-27 |  |
+| [foolish thinking](https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [foolish thinking](https://open.spotify.com/album/3aazS3R5JRjdKi2CcbAA3N) | 5:53 | 2023-01-27 | 2023-03-15 |
 | [For Now](https://open.spotify.com/track/6qThvX4x0IT4D5WCdPxJZV) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Ache of Victory](https://open.spotify.com/album/55ICRQmIlXrgsAS1JfKnEI) | 4:18 | 2021-06-03 | 2022-07-28 |
 | [Forever](https://open.spotify.com/track/6potEImiklXkwD9qFzpu15) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 3:22 | 2022-01-28 | 2022-04-20 |
 | [FORWARD](https://open.spotify.com/track/0lFotZWVqwgQOh779DKet5) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [FORWARD](https://open.spotify.com/album/7DtNIDD8b1fN9YO8abZgtT) | 2:16 | 2022-12-16 |  |
@@ -254,6 +254,7 @@
 | [Last Gasp](https://open.spotify.com/track/2TYAB7bxiKUkNpeACO44Im) | [Holly Herndon](https://open.spotify.com/artist/2c9yn5DJQd5es7YMY92ikZ) | [PROTO](https://open.spotify.com/album/3PkYFFSJTPxOhnSYBtyZsk) | 5:09 | 2021-06-03 | 2022-06-04 |
 | [Late Bloomer](https://open.spotify.com/track/2I4EdLnGNy8FoWF20rhSb2) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Late Bloomer](https://open.spotify.com/album/7yCduTDQ9upZbgCQHNgDfl) | 3:22 | 2021-06-03 | 2022-04-23 |
 | [let all the poisons that lurk in the mud seep out](https://open.spotify.com/track/7fA9qOYwh3KXAMK1Eb27DC) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [let all the poisons that lurk in the mud seep out](https://open.spotify.com/album/7e8P3IXeJq44CRqYI4tUim) | 3:31 | 2021-06-03 | 2022-05-20 |
+| [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 | 2023-03-14 |  |
 | [Lick In Heaven](https://open.spotify.com/track/3vfhlqSBdZiGiTFYy1dBKc) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [All The Time](https://open.spotify.com/album/2WOwRUbpymB1b6ozT7lZVf) | 4:29 | 2021-06-03 | 2022-07-09 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-28 | 2022-11-12 |
 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 | 2021-10-08 |  |

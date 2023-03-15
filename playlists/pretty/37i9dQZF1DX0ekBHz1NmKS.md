@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,903 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,894 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Don't Run](https://open.spotify.com/track/2ZguEqVTShZE8yNoHjRJC9) | [Josefine](https://open.spotify.com/artist/5iLaZnrGlRUHm2PwZ33dIt) | [Don't Run](https://open.spotify.com/album/5NQJVbrdpHqY7QgkrJEHnl) | 2:35 |
 | 100 | [Medborgare av ingenstans](https://open.spotify.com/track/742ArVhbQ8UXMMccqihUo1) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Medborgare av ingenstans](https://open.spotify.com/album/2EJZJmeMD9kSENd9slzqwg) | 3:33 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDEwYWQzN2NjMmE1NzczMjc4OTZmOTk2ZGEwNWUzYjBm`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGVlNDg5MDM1NWFhMjhhYjk5NTBkNDFhYzZlOWI3MDI0`

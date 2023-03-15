@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,504 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,601 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Coercion](https://open.spotify.com/track/2U46iTmxu2rshhQZAJKsst) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Gabe Schnider](https://open.spotify.com/artist/6W0lSVddOFriyTIYsfG78Q), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [John Chin](https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU) | [Coercion](https://open.spotify.com/album/2DBipdyuPCJV03rwxKvYSJ) | 4:04 |
 | 100 | [Almost True](https://open.spotify.com/track/4w52RAqrs2KipmS8b2PByU) | [Janet Evra](https://open.spotify.com/artist/0NTdVSX455k116Wpsv7Kl1), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Almost True](https://open.spotify.com/album/1sAr27DfSgZwLSSv2G0byK) | 3:00 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDAzYThkYjRlNjA1ZmU2ZjFhNTcyNjg1NjMyYzI5YTA4`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMGY5OTZhM2UzOWIyMDMxODRhNGQ0YmNjOTI3NDdhNGI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,570 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,575 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Part Time Lovers](https://open.spotify.com/track/5PSnffyT93zHiE23tRsL0O) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Part Time Lovers](https://open.spotify.com/album/0wcyQMBIXTuUJz3FokoVwp) | 3:10 |
 | 100 | [Catching Feelings](https://open.spotify.com/track/2bzFtWh7zNgVCcNGSvsq0U) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Catching Feelings](https://open.spotify.com/album/7L1xzoqD5rKHvS6OdNv3ET) | 3:16 |
 
-Snapshot ID: `MTY3ODQ2MTg1MywwMDAwMDAwMGJmNDlhZWExMDhjZjUyMWQxMzc5Y2U1ZGYyYmQwOGQx`
+Snapshot ID: `MTY3ODQ2MTg1MywwMDAwMDAwMGVhZjEwZjg1NGJhZjJlYmJlMDA1NTEzNTgyMzY1MmY4`

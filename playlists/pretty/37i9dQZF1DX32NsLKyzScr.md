@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,334,926 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,335,734 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 99 | [Beyond the Fire](https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Beyond the Fire](https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1) | 3:48 |
 | 100 | [Believe \(feat\. Goodboys\) \[Galantis Remix\]](https://open.spotify.com/track/1E5x0AEn7hFZlNwPNRtTGm) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Believe \(feat\. Goodboys\) \[Galantis Remix\]](https://open.spotify.com/album/0xe6QNeyXktGipggjECGK7) | 2:54 |
 
-Snapshot ID: `MTY3ODExNDI1NiwwMDAwMDAwMDczNTRlMjkzOWM0MzBhNjZhY2FkZjg5MWZlMTAyMmZi`
+Snapshot ID: `MTY3ODExNDI1NiwwMDAwMDAwMDM1MGI5ZGViODQ0MzY2YjU4NjJkZDdjYzk0MjZkODZj`

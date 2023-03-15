@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Ana Sanz
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,006 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,027 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 99 | [Vente Conmigo](https://open.spotify.com/track/2QsSokIFxj0qkcmOkSQWxe) | [Árida](https://open.spotify.com/artist/5bmRDivRMo2IWCgKn65cpY) | [Días Salvajes](https://open.spotify.com/album/6XXJqtZ8totEVzz9g5quD3) | 3:16 |
 | 100 | [Si Me Canso de Callar](https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA) | [Más Que Uno](https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er) | [Arder](https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG) | 3:38 |
 
-Snapshot ID: `MTY3NTM5MzIwMCwwMDAwMDAwMDI3MGJiOTAyZmExM2FjYTYxOTNmMmQ5YjRmMDI4ODMy`
+Snapshot ID: `MTY3NTM5MzIwMCwwMDAwMDAwMGI0MTQyZGZiNjVkYTFlNDIyZTM4MWNkMTRkMzAyMGZk`

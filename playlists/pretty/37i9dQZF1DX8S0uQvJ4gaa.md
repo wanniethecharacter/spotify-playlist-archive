@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Josh Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,058 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,933 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [What's It Gonna Take](https://open.spotify.com/track/4lfWuvMmfoONgwFH3jpN73) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [What's It Gonna Take](https://open.spotify.com/album/1p2FLEALTHFqwBM1t98LCS) | 2:57 |
 | 100 | [Bad Day To Be A Cold Beer](https://open.spotify.com/track/5WWFZndggRGVLsE0FXkuhs) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/3Op5gWQhEgVB3x2H4OHDvV) | 3:03 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDE0MWZjYzhjZjE3MzY5ZTFiYzYyMDk4YWYwNjcwNDM0`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDZjZWY1YzYwODU0NDkyMTc4NjM3ODQ1ZTBmZDMwOTVm`

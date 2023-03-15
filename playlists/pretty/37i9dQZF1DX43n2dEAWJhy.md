@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43n2dEAWJhy.md) - [plain]
 
 > Producer and DJ <a href="spotify:artist:4odLDriBk6oEZotzLPTSnD">Jessica Audiffred</a> has been captivating the crowd with her unique way of blending Bass & Trap, and this mix does not disappoint!
 
-[Spotify](https://open.spotify.com/user/spotify) - 687 likes - 23 songs - 56 min 14 sec
+[Spotify](https://open.spotify.com/user/spotify) - 698 likes - 23 songs - 56 min 19 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43n2dEAWJhy.md) - [plain]
 | 15 | [Nindo \- Mixed](https://open.spotify.com/track/6wGnGPf2uoT2bgRaxEsBI4) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Nindo \(Mixed\)](https://open.spotify.com/album/4Rbx1R0XeGmpFUXYI1eSUf) | 2:58 |
 | 16 | [Maximum Bass \- Mixed](https://open.spotify.com/track/0obVBVcjteuUfYbtYpCULp) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Maximum Bass \(Mixed\)](https://open.spotify.com/album/6LTttcVpWJDDNhG493BlSC) | 3:26 |
 | 17 | [Blackbelly \- Mixed](https://open.spotify.com/track/1dstEtGMPl5DX5S0gXHqZS) | [MUERTE](https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y) | [Blackbelly \(Mixed\)](https://open.spotify.com/album/1iykukSeTOfThmvumG4Ecl) | 4:03 |
-| 18 | [The King Is Dead \- Mixed](https://open.spotify.com/track/4vH5mVsSZc5otEjvs8fH4N) | [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [The King Is Dead \(Mixed\)](https://open.spotify.com/album/0MyHYlZBAewOxCzUPiT0QP) | 2:30 |
+| 18 | [The King Is Dead](https://open.spotify.com/track/0IFeuYP7vTwdEQf3ye0kqb) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl) | [The King Is Dead](https://open.spotify.com/album/64Irb3YbvqUgQo3yeV3gUM) | 2:35 |
 | 19 | [Nothing's Left \- Mixed](https://open.spotify.com/track/1JPUSU6qv760mFR9jXRxGp) | [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M), [CHRMNDRS](https://open.spotify.com/artist/697Lw6sG4wn7W0Ospz4lPe), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Nothing's Left \(Mixed\)](https://open.spotify.com/album/5ElNMeHLrDr9oZSpEaUF9R) | 2:24 |
-| 20 | [Riding \- Mixed](https://open.spotify.com/track/6mh4sSTjHoLWUUwGdfN66v) | [Martay M'Kenzy](https://open.spotify.com/artist/0LVK3Io8yAwy9KLL0lyIHb), [Point.Blank](https://open.spotify.com/artist/0kceiKJrP7AsW2rUPeAw3v), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Riding \(Mixed\)](https://open.spotify.com/album/1vaE2uHBl2wp9PyXDb8qyL) | 3:06 |
+| 20 | [Riding \- Mixed](https://open.spotify.com/track/4YK5YpVHaVmDFRC2qxLYm3) | [Point.Blank](https://open.spotify.com/artist/0kceiKJrP7AsW2rUPeAw3v), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Martay M'Kenzy](https://open.spotify.com/artist/0LVK3Io8yAwy9KLL0lyIHb) | [Riding \(Mixed\)](https://open.spotify.com/album/4U9qhgoWz4lFWZuJKUpD3u) | 3:06 |
 | 21 | [Forever \- Mixed](https://open.spotify.com/track/2xY1yHi0JnKr0U6Ly2ve02) | [David Schmid](https://open.spotify.com/artist/24EErCSBTByoYNBhyH0zyr), [Bagha](https://open.spotify.com/artist/3NNinvt3V9x5qPOwQge1ON), [Youth In Circles](https://open.spotify.com/artist/35FbwufKDprqJfq8Qnk31b) | [Forever \(Mixed\)](https://open.spotify.com/album/747qD3J6U6pkRRBNfajH7Y) | 3:12 |
 | 22 | [Stupid Love \- Mixed](https://open.spotify.com/track/3ha4pG9L1Q2HzX7mRzxvdk) | [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Nia V](https://open.spotify.com/artist/1SfEO6H8Sp6ZZYUeZC3sJX) | [Stupid Love \(Mixed\)](https://open.spotify.com/album/2YqP4bmYmFUqwkfRLucA7o) | 2:55 |
 | 23 | [You and Me \- Mixed](https://open.spotify.com/track/2JQ8ZxjKIkKHEIJbUtQy1T) | [Isaac Maya](https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8) | [You and Me \(Mixed\)](https://open.spotify.com/album/2EdrVYft56TlCaSdJv1uBz) | 3:24 |
 
-Snapshot ID: `MTY3NTIzODgyNywwMDAwMDAwMDgzYjkwYzZlZmNhYWM4YjAzYmUxOGNjYzg0YjYxMGI5`
+Snapshot ID: `MTY3NTIzODgyNywwMDAwMDAwMGMxYzkwNDkzYTM5MjA0ZDhlMjU1NmUyZDI0OGE2MDUw`

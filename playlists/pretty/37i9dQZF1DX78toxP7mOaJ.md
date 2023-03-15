@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: SUDS \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,473 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,495 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 11 | [London](https://open.spotify.com/track/729YjD3jEppSHMZ8cya2v9) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [London](https://open.spotify.com/album/6SyduDDcnQD27aApxjogtX) | 4:59 |
 | 12 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 |
 | 13 | [Pieces](https://open.spotify.com/track/3jwReFQ1Hmt2WNSqdSEIA7) | [FLAKE](https://open.spotify.com/artist/1Wa1fIdJf5bscEK7XjnBIU) | [Pieces](https://open.spotify.com/album/4bCLxCrBKmWHDVWZgA7htU) | 3:08 |
-| 14 | [UP](https://open.spotify.com/track/2FU7zzUx7GJz1qSzuTfGww) | [ANNABEL LEE](https://open.spotify.com/artist/05uHL3asnUSGm2jQJIggJl) | [UP](https://open.spotify.com/album/2QDWrprB34Dv25wFuFHFNr) | 4:08 |
+| 14 | [UP](https://open.spotify.com/track/6bQalCqswPowgbGaV8L35D) | [ANNABEL LEE](https://open.spotify.com/artist/05uHL3asnUSGm2jQJIggJl) | [MOTHER'S HAMMER](https://open.spotify.com/album/6qbBldeFwMj9ReYVkHWEMb) | 4:08 |
 | 15 | [Faded](https://open.spotify.com/track/754aVVHqjB1LywcCLaRoZP) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Faded](https://open.spotify.com/album/37E7LCPfCt35D3pmJzSwIR) | 3:10 |
 | 16 | [Live Forever](https://open.spotify.com/track/0vdRmT2GxDWkSVIoRCgzCm) | [Luke and The Second Coming](https://open.spotify.com/artist/4bSYFmFWlfhsvf8YDhdOhQ) | [Live Forever](https://open.spotify.com/album/19ULLIq9q1a7P8BqQlH7W5) | 3:18 |
 | 17 | [Love Beyond The Grave](https://open.spotify.com/track/53BjsI3Lv1SIlExxGAb4p5) | [Crocodiles](https://open.spotify.com/artist/1Z4Erxt5wSXH0gbOsVJUMv) | [Love Beyond The Grave](https://open.spotify.com/album/3hyQLmDtP4UQ1sjXgi7wWj) | 3:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 79 | [Control Freak](https://open.spotify.com/track/7IYOaR5E8YLFR3vycobgjT) | [Madisenxoxo](https://open.spotify.com/artist/2S2x3n1BXskbkRdEdj5gSB) | [Control Freak](https://open.spotify.com/album/2IyVd8sw2WiUv1ymTQItQ8) | 3:29 |
 | 80 | [Forevergreen](https://open.spotify.com/track/1PwsIjDKSQ1ga646a4GsLp) | [Arbor Labor Union](https://open.spotify.com/artist/2bd0QHZajmYTeHqyad6Pup) | [Yonder](https://open.spotify.com/album/2ezCoWEu7nrx6QYPKRFVSl) | 2:59 |
 
-Snapshot ID: `MTY3ODI5NDgwMCwwMDAwMDAwMGE2YmZlM2Q4YzMwY2FkNDliNTQ3OWMzZDdiYzU0OGJm`
+Snapshot ID: `MTY3ODI5NDgwMCwwMDAwMDAwMGE4ZTQ1ZTAwOTE2NjU0NDE1ZTcxNDA3NTY1OGU1Mjg5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > 🎸 canzoni da gridare e in cover gayle! 🎸
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,598 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,622 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [Ma non erano te](https://open.spotify.com/track/0B1LI7BXzvtxDVdpyxCWKb) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Ma non erano te](https://open.spotify.com/album/2XaVVwShBDQsoF20aHYGFM) | 2:33 |
 | 80 | [BENE DA SOLA](https://open.spotify.com/track/1awWd0CV6H0cm5NnZ0FAI0) | [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [BENE DA SOLA](https://open.spotify.com/album/4Fo2F1PyIvtB0E03gu0uAX) | 2:33 |
 
-Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMDM0MjUxMmZjM2I0MTkyODI5MmE3YWFhZWI4ODRhM2Jj`
+Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMDI1OTU1YTlhOTk2YTNiZDA0ZTZiMWVkYWEzNDBlNzFj`

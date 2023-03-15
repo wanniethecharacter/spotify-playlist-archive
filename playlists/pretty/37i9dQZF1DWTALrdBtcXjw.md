@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,868 likes - 100 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,939 likes - 100 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 99 | [London Blues](https://open.spotify.com/track/5x0knlH4sCOHjw2GjEZPEB) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Introducing Brad Mehldau](https://open.spotify.com/album/3Xof3jYaVXRtGnmiREePG1) | 7:02 |
 | 100 | [At That Moment](https://open.spotify.com/track/4XZhdl2OpQUDgNqQlhlg03) | [Joonas Tuuri Quartet](https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx) | [Dimensions](https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8) | 4:39 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGEwMWZkOTAzOTI1ZDRhNDYxMTFkYjVjZDQ1MjJmNjE1`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGNhN2Y1MzhiNzBkN2FmYzBjY2UwY2NlY2VlZjUyODNk`

@@ -1,12 +1,12 @@
 {
   "description": "V-Pop \u0111\u00e3 \u0111\u01a1m hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: HIEUTHUHAI",
-  "num_followers": 144584,
+  "num_followers": 144728,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI0NjY0NSwwMDAwMDAwMGYzNDlhZDJjMzFjNDg5Mzg0M2YyZDFkZTVlODRkOGI4",
+  "snapshot_id": "MTY3ODI0NjY0NSwwMDAwMDAwMGY1YjYzMGU3NzZhNDliMzk5Y2RlNmIzM2Q3Y2YyNzFk",
   "tracks": [
     {
       "added_at": "2023-03-08 03:37:25",
@@ -82,6 +82,10 @@
         {
           "name": "MONSTAR",
           "url": "https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8"
+        },
+        {
+          "name": "GREY-D",
+          "url": "https://open.spotify.com/artist/1DkeVIjKLcyWBdV47p2ogo"
         }
       ],
       "duration_ms": 245333,
@@ -264,7 +268,7 @@
       "added_at": "2023-03-08 03:37:25",
       "album": {
         "name": "Kh\u00f4ng Y\u00eau Xin \u0110\u1eebng N\u00f3i (Piano Version)",
-        "url": "https://open.spotify.com/album/25aSCmyq0GJvaSUduH72Kj"
+        "url": "https://open.spotify.com/album/49dKGvpp3ix58fS46uVqOQ"
       },
       "artists": [
         {
@@ -274,7 +278,7 @@
       ],
       "duration_ms": 244218,
       "name": "Kh\u00f4ng Y\u00eau Xin \u0110\u1eebng N\u00f3i - Piano Version",
-      "url": "https://open.spotify.com/track/53vcJaw0rQEux8YK9EDOxE"
+      "url": "https://open.spotify.com/track/0vkExWiBJSrfWnlMC7x48b"
     },
     {
       "added_at": "2023-03-08 03:37:25",

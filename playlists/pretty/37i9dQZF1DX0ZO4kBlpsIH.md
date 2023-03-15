@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,566 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,845 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 99 | [Menage a Trois](https://open.spotify.com/track/6U2gPk43Wjx7uLEUqM1QFD) | [Gypsy Jazz Caravan](https://open.spotify.com/artist/0SLHeCwwiwjCElg072D2g7) | [Sinister Amusement](https://open.spotify.com/album/0Ub9C7sPAcsgwuPeJkpBuk) | 4:54 |
 | 100 | [Happy Go Lucky](https://open.spotify.com/track/1pi75PZXe1OGVX6RRUXfLx) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Paris Nights: French Gyspy Jazz](https://open.spotify.com/album/03Winiv70Ae2uEgNgDkjvN) | 1:38 |
 
-Snapshot ID: `MTY3ODE5NDI0MywwMDAwMDAwMGU4Y2UxMmY3NThiYTEyY2VmNmQ4ZDEyOTU3NWU5NGI0`
+Snapshot ID: `MTY3ODE5NDI0MywwMDAwMDAwMGZmMmM3ZWM5MDU1MWM0Zjc3NzNlNTNhZmRmMGU2YmU5`

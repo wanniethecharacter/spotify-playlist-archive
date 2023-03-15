@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,700 likes - 60 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,724 likes - 60 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 59 | [Improvisation In Shour](https://open.spotify.com/track/0bXMGGXGsglxFQcaDhymz0) | [Amir Farhang Eskandari](https://open.spotify.com/artist/3EPh1PWVrndSr8yXVA4DKu), [Zakaria Yousefi](https://open.spotify.com/artist/2PAiEBsEV9ODqDghaOdE9r) | [And](https://open.spotify.com/album/0ijz7hzViGMvTYgz1YMR9s) | 2:44 |
 | 60 | [Kawkab Abad \- Live](https://open.spotify.com/track/46qO8r10VMl72reCQgaqwo) | [Akram Abdulfattah](https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG) | [Kawkab Abad \(Live\)](https://open.spotify.com/album/6ZhekGr3KKTbX4yfQ4oQym) | 6:54 |
 
-Snapshot ID: `MTY3MDgzMTU4NCwwMDAwMDAwMGQxN2QzM2FlMDQ0MTMzNWJhNmQ4YjZmZjgzZjhkNGE5`
+Snapshot ID: `MTY3MDgzMTU4NCwwMDAwMDAwMDBjMGYwY2VhMjFhY2UxNjdhMjRhMDFkYTY1N2Q3ZWY5`

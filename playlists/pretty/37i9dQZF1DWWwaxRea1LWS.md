@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Peace, love, and <a href="https://open.spotify.com/playlist/37i9dQZF1DWV6eSE3mpQ1p?si=35a1b145aa204b08">hippie vibes</a> on \#SpotifyTBT Cover: Stevie Nicks
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,187,859 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,188,117 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [The Times They Are A\-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:12 |
 | 50 | [Nights In White Satin \- Single Version / Mono](https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Days Of Future Passed \(Deluxe Version\)](https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM) | 4:29 |
 
-Snapshot ID: `MTY3ODM3MDQyOSwwMDAwMDAwMGEwZjRiODA4ZWFlYzIzMTIxZmUyNTgyZDk4ZTYxYjg0`
+Snapshot ID: `MTY3ODM3MDQyOSwwMDAwMDAwMGM0ZGMyM2Y3NmVkYjNlZDg3NzUzODJiYTAzYWEyMDRi`

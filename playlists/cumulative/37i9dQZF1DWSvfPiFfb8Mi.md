@@ -4,7 +4,7 @@
 
 > Disco, house, funk and soul for the good times.
 
-98 songs - 7 hr 50 min
+99 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Hydrate](https://open.spotify.com/track/6hHn9EtyvsJhovCmCCaJz2) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Hydrate EP](https://open.spotify.com/album/1X4AfBEtMngYcVObm6QKq1) | 6:22 | 2021-07-24 |  |
 | [I Discover](https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [I Discover](https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO) | 2:35 | 2021-07-24 |  |
 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 | 2021-07-24 |  |
-| [I Want You](https://open.spotify.com/track/2oUhuL5XRBFeEUTHTS9WWJ) | [YNOT](https://open.spotify.com/artist/58ieJio1kM9TQ1DhJyA1Al) | [I Want You](https://open.spotify.com/album/07K8rq5ZC7Ux7p0ZDJpMQ1) | 2:54 | 2021-07-24 |  |
+| [I Want You](https://open.spotify.com/track/2oUhuL5XRBFeEUTHTS9WWJ) | [YNOT](https://open.spotify.com/artist/58ieJio1kM9TQ1DhJyA1Al) | [I Want You](https://open.spotify.com/album/07K8rq5ZC7Ux7p0ZDJpMQ1) | 2:54 | 2021-07-24 | 2023-03-15 |
+| [I Want You](https://open.spotify.com/track/3qZ5l212uLlZ2rRSa44K1h) | [YNOT](https://open.spotify.com/artist/58ieJio1kM9TQ1DhJyA1Al) | [I Want You](https://open.spotify.com/album/0WvHI2AeQ1CXfVeUYKRXj4) | 2:54 | 2022-06-20 |  |
 | [Illusion](https://open.spotify.com/track/0H6aRi7rGgHJulopiLFgvm) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/4tYpdAAF6oJaxJ3fuzboHX) | 5:44 | 2022-06-20 | 2022-11-13 |
 | [Illusion](https://open.spotify.com/track/2hDnhOt4pn1uEP1N4YQUT6) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/2Li9ODcatpUeJ9S3DZHWD9) | 5:44 | 2022-06-20 |  |
 | [Illusion](https://open.spotify.com/track/53CpD7nwNQ7otqPNkzMM86) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/5AnU5BoObGiy8FHWRCNAsj) | 5:45 | 2021-07-24 | 2022-07-29 |

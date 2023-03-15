@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: UZI
 
-76 songs - 3 hr 19 min
+77 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Gülşen](https://open.spotify.com/track/3dW8hIO3NKlt6DrLPAVYsx) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Gülşen](https://open.spotify.com/album/7MaxT7zgq2r36MEhTFIvhA) | 2:26 | 2023-01-10 | 2023-01-13 |
 | [Günleri Saydım](https://open.spotify.com/track/3EvnxnwxvUgmXDy75xeoNx) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD) | [Günleri Saydım](https://open.spotify.com/album/41L569Sbr9hSf9KOYtkzqb) | 2:58 | 2023-03-09 |  |
 | [HAYIR](https://open.spotify.com/track/2V4rAqDOrVzthQXJ0PpoNW) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc) | [HAYIR](https://open.spotify.com/album/2hWeZlMbzNGdSAZo33Pahi) | 2:21 | 2023-01-26 |  |
-| [Inzaghi](https://open.spotify.com/track/36S6sHnPZ0VBjD4uLbNXM7) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Natural Born Digga](https://open.spotify.com/album/1wDi3vPan2n6k6F4Y5JBn9) | 2:41 | 2023-01-10 |  |
+| [Inzaghi](https://open.spotify.com/track/36S6sHnPZ0VBjD4uLbNXM7) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Natural Born Digga](https://open.spotify.com/album/1wDi3vPan2n6k6F4Y5JBn9) | 2:41 | 2023-01-10 | 2023-03-15 |
+| [Inzaghi](https://open.spotify.com/track/4k0WSfjrFeVMMrGg6CEAH5) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Natural Born Digga](https://open.spotify.com/album/0rKLBda3nNh7JQYfDzgFpk) | 2:41 | 2023-03-13 |  |
 | [İllegale](https://open.spotify.com/track/0YypAwSTM49KfC5bgHKgZ6) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [İllegale](https://open.spotify.com/album/3vg10Plw06OxHNh30mpvmx) | 1:59 | 2023-01-10 |  |
 | [İMPARATOR](https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [İMPARATOR](https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre) | 2:04 | 2023-01-12 |  |
 | [İNAN BANA](https://open.spotify.com/track/4cjnDLZtFqhXry4Srvtk6O) | [Ayaz](https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [İNAN BANA](https://open.spotify.com/album/4EafW8VnE8XtGOSnxD5PXX) | 3:03 | 2023-01-26 | 2023-02-24 |

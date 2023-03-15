@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,252 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,336 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 99 | [It Might As Well Be Spring](https://open.spotify.com/track/7jJ8ca0B248VezXAFMxrBo) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Love Songs](https://open.spotify.com/album/7N2FFVs2BMCwZeW8qutIbe) | 3:10 |
 | 100 | [My Old Flame](https://open.spotify.com/track/4LDLidKf0DGFRVjYEp4K4h) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 4:55 |
 
-Snapshot ID: `MTY3ODM1MzMyOSwwMDAwMDAwMDY1ZDNjZDI4NThkYTQzMTZlOTRjZTEzOGUxNDZmNDY4`
+Snapshot ID: `MTY3ODM1MzMyOSwwMDAwMDAwMGE2MGVkOWI4Nzc1MTQ5YzRjOGQ4NzU3MWRjMjNiNzYy`

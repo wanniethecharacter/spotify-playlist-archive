@@ -1,16 +1,16 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain](/playlists/plain/37i9dQZF1DX38snDqzaVVW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX38snDqzaVVW)
 
-### [Salam!](https://open.spotify.com/playlist/37i9dQZF1DX38snDqzaVVW)
+### [Salam](https://open.spotify.com/playlist/37i9dQZF1DX38snDqzaVVW)
 
-> Track from Muslims around the world\. Cover: Salim\-Sulaiman, Ayisha Abdul Basith, Salim Merchant
+> Track from Muslims around the world\. Cover: Maher Zain
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,288 likes - 54 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,323 likes - 54 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Salaam](https://open.spotify.com/track/0ekuaPp7dcww2tlJsa3imW) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Ayisha Abdul Basith](https://open.spotify.com/artist/5CK0g8yxcuauorabPxsA5K), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Salaam](https://open.spotify.com/album/2URs3EtQlWwRCg7y4VEBgU) | 5:06 |
-| 2 | [El\-Eid](https://open.spotify.com/track/6wpPRFQ1kVlwfw1CyQJzaX) | [Islamia School Kids](https://open.spotify.com/artist/5yM1BjpLzBIn1l6GQKQoM7) | [I Look, I See 2](https://open.spotify.com/album/7KCZDVv5YUkewQ8DgOS2RT) | 0:27 |
-| 3 | [Hubb Ennabi](https://open.spotify.com/track/2qZ7TOLvwtD8uWn5e8qYXc) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Hubb Ennabi](https://open.spotify.com/album/2YZFEVlbqNJs22h35HPfmY) | 3:53 |
+| 1 | [Hubb Ennabi](https://open.spotify.com/track/2qZ7TOLvwtD8uWn5e8qYXc) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Hubb Ennabi](https://open.spotify.com/album/2YZFEVlbqNJs22h35HPfmY) | 3:53 |
+| 2 | [Salaam](https://open.spotify.com/track/0ekuaPp7dcww2tlJsa3imW) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Ayisha Abdul Basith](https://open.spotify.com/artist/5CK0g8yxcuauorabPxsA5K), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Salaam](https://open.spotify.com/album/2URs3EtQlWwRCg7y4VEBgU) | 5:06 |
+| 3 | [El\-Eid](https://open.spotify.com/track/6wpPRFQ1kVlwfw1CyQJzaX) | [Islamia School Kids](https://open.spotify.com/artist/5yM1BjpLzBIn1l6GQKQoM7) | [I Look, I See 2](https://open.spotify.com/album/7KCZDVv5YUkewQ8DgOS2RT) | 0:27 |
 | 4 | [Warni Warni](https://open.spotify.com/track/3cAeVEM3e2qv2V4lVhMpdR) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Wenu Wenu](https://open.spotify.com/album/3E2DQ7tVjC1zcgiCSTIoaC) | 6:52 |
 | 5 | [Ashraf Al Araab](https://open.spotify.com/track/67i5XcT7Ry0Y7wzRegExsh) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [Ashraf Al Araab](https://open.spotify.com/album/3AKgdSxdOAUuDU3nmqKX6H) | 3:06 |
 | 6 | [Oualahila Ar Tesninam](https://open.spotify.com/track/1jncnTEAwosbxyLVe0sxnt) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Amassakoul](https://open.spotify.com/album/0HtXxCOzxI722dtwJ7ukyv) | 3:47 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 53 | [Dimming of the Day](https://open.spotify.com/track/4SWme0PjIFPTwXLyVWGgOI) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Acoustic Classics](https://open.spotify.com/album/0jCVyzxYUUOyKYYlBUjGV0) | 3:18 |
 | 54 | [Hum Allah Hum Allah Hum Allah](https://open.spotify.com/track/71DfiueMJMIs8D0djEgiyz) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Jewels Of Thought](https://open.spotify.com/album/4eqjbUVRGuA1iM9Gt1UhaV) | 15:10 |
 
-Snapshot ID: `MTY3ODY4OTczMywwMDAwMDAwMGY2YzFiNjQ1N2Y5MzgyOTgyMTIwNDUxZWZiOTA1N2Ez`
+Snapshot ID: `MTY3ODc5MDM3OSwwMDAwMDAwMDYxZDJlYWU1MWY0MTY5NmRiZjM0ODYxNzVjNWU2NmI4`

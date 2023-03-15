@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: FIFTY FIFTY
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,564 likes - 63 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,557 likes - 63 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 62 | [Love War \(Feat\. BE'O\)](https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Love War](https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten) | 3:08 |
 | 63 | [Beautiful Liar](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 3:03 |
 
-Snapshot ID: `MTY3ODcwMzg4MywwMDAwMDAwMDkzNjg3MjJkNGRiMjc4ZjdjNTVlNDM3Y2ZmNDAwZjY4`
+Snapshot ID: `MTY3ODcwMzg4MywwMDAwMDAwMDNlNmY4ZGQ2N2ZmMzJmNjBiNDE2ZDA5N2I3MThmMTUw`

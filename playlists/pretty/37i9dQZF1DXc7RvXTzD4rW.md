@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 斉藤朱夏\(Shuka Saito\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,864 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,869 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Watashi to Sekai](https://open.spotify.com/track/46u9BAGpdHauFrFRRxkr0C) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [Anata to Watashi wo Tsunagumono](https://open.spotify.com/album/5TL5jmTLrfk3KAplSZ4Uph) | 4:23 |
 | 50 | [LOVE&MOON](https://open.spotify.com/track/7c9jAu2ln1PFzqF2a2wD2X) | [高野麻里佳](https://open.spotify.com/artist/3d5BMnkKOiXyuPOxxaO50E) | [LOVE&MOON](https://open.spotify.com/album/6hodN3snVIv1TUixHMq6Xf) | 3:40 |
 
-Snapshot ID: `MTY3NzY2Mjg1NiwwMDAwMDAwMGEzMmMzOTY1NmQ1N2M1NDkwYjg3N2Y5MDhmN2JhMDJi`
+Snapshot ID: `MTY3NzY2Mjg1NiwwMDAwMDAwMDE1MGQyM2RmM2U2ZTkyOWEwNTVkYmEyNDlhMmRkZDFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,607 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,627 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 | 99 | [Rubbing Cardboard](https://open.spotify.com/track/3Uv8FMjCDfiJ2hjGNWzbfM) | [ASMR Billy](https://open.spotify.com/artist/7zThNsQGpD1QW6XvXTlEAC) | [Relaxing ASMR Noises](https://open.spotify.com/album/1ahfASpNH14OETQXrl7uju) | 1:11 |
 | 100 | [Rustling with Fabric](https://open.spotify.com/track/5VVoF5oct26FhdrmyDhfB9) | [Chloe C ASMR](https://open.spotify.com/artist/0qLW4QW8EMXTxjBph3jY4q) | [A Deep Ear Massage](https://open.spotify.com/album/0VChj0yICJTZk7Fer3bqiv) | 3:33 |
 
-Snapshot ID: `MTY3NTM0NTY1NSwwMDAwMDAwMGJjNzFmNjQ4NzlhOTYxYmI2MjUwMjBiZmIyZDZjYjk4`
+Snapshot ID: `MTY3NTM0NTY1NSwwMDAwMDAwMGY5MTUzNzk2NWE1ZGRmZjcxNWMzYzE3Y2Q0NDMzNWU1`

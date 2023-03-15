@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Story Of The Year
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,469 likes - 155 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,706 likes - 155 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 154 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
 | 155 | [Home](https://open.spotify.com/track/4rvipVyFuPr5VaBeYop1bn) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Home](https://open.spotify.com/album/6sba2UuexmszIP7Jf1G6ul) | 3:26 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDM3NDRiOGM0NjViOWYyZTdkYmE3OTk0OGMyMDgzNWQy`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDQwMDcwY2FlZmQzNGQyNzY5NTFiZWYzMzcyMjU1ZDEy`

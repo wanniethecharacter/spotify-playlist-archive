@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 > 結集香港EQUAL女聲力量！\(cover: Kiri T\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,491 likes - 46 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,492 likes - 46 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 45 | [呼吸之間](https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [呼吸之間](https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR) | 4:13 |
 | 46 | [It’s OK To Be Sad](https://open.spotify.com/track/0up477QX11ffSLneXa0xHA) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [It’s OK To Be Sad](https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9) | 3:59 |
 
-Snapshot ID: `MTY3NzYwMDAwMCwwMDAwMDAwMDY1MTM3YjdlNDczNjYwZjY5ZTgxZTBkYTJhMWJjNGMx`
+Snapshot ID: `MTY3NzYwMDAwMCwwMDAwMDAwMGJhYjZmZTY0MWI0YWNlNTljZWZlYzFmNjk4ZjdkY2Q5`

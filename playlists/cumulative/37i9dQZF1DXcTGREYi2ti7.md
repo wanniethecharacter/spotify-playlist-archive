@@ -4,7 +4,7 @@
 
 > A heart\-pumping, bass\-filled DJ mix from <a href="spotify:artist:3UCbp6D1lvILlxRJT9LnFa">Koven</a>.
 
-37 songs - 1 hr 2 min
+38 songs - 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Let It Bang \- Draeden Remix \- Mixed](https://open.spotify.com/track/6tphqwnRtjMz2XRLeB122H) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz), [MACTurnUp](https://open.spotify.com/artist/6TOCZVBUMgvepS42cwkdTV), [Draeden](https://open.spotify.com/artist/7tZV4FXJNO8FzjgrAToCln) | [Let It Bang \- Draeden Remix \(Mixed\)](https://open.spotify.com/album/21tvdUg0vbZIRzldyc6hoR) | 1:16 | 2022-01-04 |  |
 | [Lost \- Mixed](https://open.spotify.com/track/06CZ5dOYH4PAKtyFMiTRgQ) | [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Lost \(Mixed\)](https://open.spotify.com/album/7tyoVgEJ3Odx8gVTvUWzBq) | 1:27 | 2022-01-04 |  |
 | [Love Wins Again \- Mixed](https://open.spotify.com/track/6i2zr8Lr0gv26qhkCnkpwm) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Love Wins Again \(Mixed\)](https://open.spotify.com/album/1tYo6DgtlaThf0l9kWySh0) | 1:07 | 2022-01-04 |  |
-| [MAKE A MOVE \- Mixed](https://open.spotify.com/track/5ToSouzcuCulGlcsPGXzsI) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [MAKE A MOVE \(Mixed\)](https://open.spotify.com/album/14f7Chu31keJHCid5kRKbV) | 1:17 | 2022-01-04 |  |
+| [MAKE A MOVE \- Mixed](https://open.spotify.com/track/5ToSouzcuCulGlcsPGXzsI) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [MAKE A MOVE \(Mixed\)](https://open.spotify.com/album/14f7Chu31keJHCid5kRKbV) | 1:17 | 2022-01-04 | 2023-03-15 |
+| [MAKE A MOVE \- Mixed](https://open.spotify.com/track/5f44zAJIlH3N4yNufaQslG) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [MAKE A MOVE \(Mixed\)](https://open.spotify.com/album/1I30h0jqAhZXj16WEA0KIQ) | 1:17 | 2022-01-04 |  |
 | [Missing \- Mixed](https://open.spotify.com/track/4rVeFEjqKvTQDAYP0GCAi5) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Missing \(Mixed\)](https://open.spotify.com/album/3NE8d9RjCX2oDcFiDKKrgx) | 2:24 | 2022-01-04 |  |
 | [Never Have I Felt This \- Mixed](https://open.spotify.com/track/3ET4wXoKrJdZxfN9pFrDse) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Never Have I Felt This \(Mixed\)](https://open.spotify.com/album/3g6zDGICtdzEDTVhAb6uxN) | 3:19 | 2022-01-04 |  |
 | [Say What You Want \- Mixed](https://open.spotify.com/track/2VcxFZ4FidZB8aX9IhR2lP) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Say What You Want \(Mixed\)](https://open.spotify.com/album/2IfKSCGRBT6cS14hk6DSPN) | 3:19 | 2022-01-04 |  |

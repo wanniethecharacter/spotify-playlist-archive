@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > You can dance or chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,984 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,004 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 79 | [Winter's Going](https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O) | [Flantier](https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96) | [Winter's Going](https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3) | 3:20 |
 | 80 | [Nightcall](https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy) | [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Nightcall](https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2) | 2:06 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDRhZmRiMjEwYmVkM2Q0NjllMGE4MTAxMWM1OGM4ZjYx`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDY3OWY3MmRiZDZjMmE0ODdlZGVjMTA0NGFiNTBlZTk4`

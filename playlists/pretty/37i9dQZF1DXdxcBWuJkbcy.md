@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,741,654 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,743,730 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 99 | [Motive \(feat\. Ben Samama\)](https://open.spotify.com/track/5WzpwgEBTNbF4OXbHkFBDD) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Goldfingers](https://open.spotify.com/artist/7LV1GFyy93NOwrWSbdSxeq), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [Motive \(feat\. Ben Samama\)](https://open.spotify.com/album/2Zc2KyEwuCe2qelexvw8b0) | 2:21 |
 | 100 | [We Don’t Need](https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE) | 3:08 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDEwZWJiMGJmZTU5NGZhMTNjNGI3N2RhYjRjMTgxNWQ3`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGRlMjIwMzcwYjc2YTdkZjRiMTBlMDdmM2Y4ZjcwNzk2`

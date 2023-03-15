@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,956 likes - 150 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,329 likes - 150 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 149 | [Endless Lines](https://open.spotify.com/track/5VyjYh1xSRY08srq7TKQme) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Endless Lines](https://open.spotify.com/album/4BDIAcy8a1R31qcuEdNh3u) | 4:12 |
 | 150 | [Last Path](https://open.spotify.com/track/2Apx7HHXWmBitTwJxOtQV2) | [VIQ](https://open.spotify.com/artist/6XpN8mRlhuOXuvEyva4yjZ) | [Last Path](https://open.spotify.com/album/6k4WHhBJaf9QdJmbq7QeJK) | 4:02 |
 
-Snapshot ID: `MTY3NTk0NjEwNSwwMDAwMDAwMDJiYWIzYjc0YWUxYjc2YTNjMDk5ZTIxZjA0ZTEwYjdi`
+Snapshot ID: `MTY3NTk0NjEwNSwwMDAwMDAwMDI1Zjc3MGZmYzQ3ZDk3MjMwN2I1YjI0NzNiNmI4ODRk`

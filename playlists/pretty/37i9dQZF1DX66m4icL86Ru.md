@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,347 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,119 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 74 | [ME FIRST](https://open.spotify.com/track/0MqAcZlEeS5q152ehuFDTr) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [ME FIRST](https://open.spotify.com/album/6OxThzjOBX7RToUOxjPppa) | 2:33 |
 | 75 | [WOO!](https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [HOOD AVANT\-GARDE \(Deluxe\)](https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k) | 2:48 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDVhOTRmZDlhN2Q5ZjNhNDI5MWNhYjdjOGZkODM2YTA4`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMGQzNDY4MjBhZWQ5ZWVmYWFmNTAzM2ZkNDgyNWE4NGM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,804 likes - 208 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,447 likes - 208 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 8 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 |
 | 9 | [Peaks](https://open.spotify.com/track/08ZVl6IBiPemNOsVfkoIyv) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Peaks](https://open.spotify.com/album/2xv2cURnTpq0NdL39xJsCw) | 2:48 |
 | 10 | [Morph](https://open.spotify.com/track/3MaXtZwpMHhbLqWUNdTy3M) | [Mareina](https://open.spotify.com/artist/1cxHZRpXrZwfKsbKFLpL36) | [Morph](https://open.spotify.com/album/3qlZgXPpnlruwmL4tfxKIj) | 2:30 |
-| 11 | [Oändligheten](https://open.spotify.com/track/4fVgnrnaUs163eRqVEsh8D) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:41 |
-| 12 | [Cloud Gazing](https://open.spotify.com/track/5RA07TPFsjrAR9iDR0OiHC) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Floating Free](https://open.spotify.com/album/30KgVtVeomGLqbrmwF28kn) | 2:47 |
-| 13 | [Seascapes](https://open.spotify.com/track/18ZduE8dvitDNwas6MkmhR) | [Furna](https://open.spotify.com/artist/2MtNVvbfAnblCOA9RXKfBx) | [Seascapes](https://open.spotify.com/album/2dGui3KCKyBOlpNqKVgqJH) | 2:57 |
+| 11 | [Serenity](https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Serenity](https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro) | 2:33 |
+| 12 | [Oändligheten](https://open.spotify.com/track/4fVgnrnaUs163eRqVEsh8D) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:41 |
+| 13 | [Cloud Gazing](https://open.spotify.com/track/5RA07TPFsjrAR9iDR0OiHC) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Floating Free](https://open.spotify.com/album/30KgVtVeomGLqbrmwF28kn) | 2:47 |
 | 14 | [Rymdresa](https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:34 |
 | 15 | [Insieme](https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Spirituale](https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO) | 3:13 |
 | 16 | [Calming Quality](https://open.spotify.com/track/7GJkHBbDnQ0JxgWoRWrcT9) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [Calming Quality](https://open.spotify.com/album/0ora1RTOVwglH8GQhc2GE2) | 3:18 |
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 207 | [Healing Memories](https://open.spotify.com/track/05MWiaG0YFAEQDN0wPRGla) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Yoga Music](https://open.spotify.com/album/3midw5wgEjQrtSeNv7MVwx) | 3:22 |
 | 208 | [Newborn Soul](https://open.spotify.com/track/61I4iLWIWmmx7knqM6f5HL) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Newborn Soul](https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR) | 4:36 |
 
-Snapshot ID: `MTY3ODM3NzkzOSwwMDAwMDAwMDM4MDRmYThjOTY1YzJlMzZhYWQ5NjA4NDJiNWYyYTg1`
+Snapshot ID: `MTY3ODc4NjE4NywwMDAwMDAwMGMyY2QxMzk4NDE2NjhhODkzMGYyNTZiNzk3MzdlYWQx`

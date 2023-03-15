@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,142 likes - 52 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,160 likes - 52 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 51 | [Elluvochi Godaramma \(Remix\) \[From "Valmiki"\]](https://open.spotify.com/track/0XqW5wprbdA808lOGxzhjw) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [P\. Susheela](https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK), [K\. Chakravarthy](https://open.spotify.com/artist/3UOiixLqrkiZEyZUKng1t0), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Elluvochi Godaramma \(Remix\) \[From "Valmiki"\] \- Single](https://open.spotify.com/album/7jV1XjhgXGeCQSQbEpQZI9) | 3:27 |
 | 52 | [Raaye Raaye](https://open.spotify.com/track/6CJnjllUy1qhWVC6slc8cA) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Touch Chesi Chudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jGomlyoYmxcjNxqWILSVr) | 3:28 |
 
-Snapshot ID: `MTY2OTgwNDkyNywwMDAwMDAwMDRlNjFkOTljZWZjMWNkZTRlMzBhMWYwYTQ3MGNjZDY1`
+Snapshot ID: `MTY2OTgwNDkyNywwMDAwMDAwMGE5MzdkN2NkODAxOTBjMzg4NWRjNDAzNGJjNDVmNDQx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 李佳歡 \(KarFun\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,560 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,561 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [我們的寂寞](https://open.spotify.com/track/628YuhN8tCBaK52xpRdUbK) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH) | [4 U](https://open.spotify.com/album/3s8Q2pYoAO73KDMYOLjTqw) | 4:26 |
 | 50 | [良人](https://open.spotify.com/track/4ovwOD6QlKmEWqRUtxV6JS) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [天空島](https://open.spotify.com/album/62Xx7MlXF9H7pE3YMyNcJX) | 4:19 |
 
-Snapshot ID: `MTY3NzY0NDQ3NCwwMDAwMDAwMDJhZmNiZTZmNDQ4MmI4ODk3NzMyYWMwZjUxZTEyZjJk`
+Snapshot ID: `MTY3NzY0NDQ3NCwwMDAwMDAwMGU4ZjExMjdkZmU1NTBmYjAzNTdlNTFhODcyZGM1ZWNh`

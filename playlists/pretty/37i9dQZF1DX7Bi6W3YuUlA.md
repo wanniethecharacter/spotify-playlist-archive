@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,270 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,387 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 99 | [butterfly vibes 2](https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:00 |
 | 100 | [ON THA SEAT](https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy) | [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW) | [ON THA SEAT](https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk) | 3:27 |
 
-Snapshot ID: `MTY3NjY5OTkyMSwwMDAwMDAwMDY3OGViNTA0MDc1YTRiZjZmYjdhNjQ4MTlkNWM3MmUy`
+Snapshot ID: `MTY3NjY5OTkyMSwwMDAwMDAwMDY5N2RhNzE3OGNiOGJiZDVhYWNlNWFkNTgyYjgwOTBi`

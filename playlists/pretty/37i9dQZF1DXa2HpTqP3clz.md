@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Michael Cleveland
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,787 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,809 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 99 | [Gone Gone Gone](https://open.spotify.com/track/7kYOulCKFjv81OmoGbPNIC) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Turning Up The Ground](https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5) | 4:24 |
 | 100 | [Planets](https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Rise Sun](https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS) | 5:48 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGM2ZDc4MWFmNjA1MDY2ZWVmMmNiYWFhYzRiYzUzZTRk`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDQ2NzBkNWNlOGFiNWE0NTRiYTZlZGI0NDBkY2I1MzA2`

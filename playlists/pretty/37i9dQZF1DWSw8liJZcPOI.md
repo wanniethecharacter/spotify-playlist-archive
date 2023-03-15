@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,362 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,222 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 79 | [hundred00](https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [hundred00](https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C) | 4:49 |
 | 80 | [Timeless](https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO) | [Sisulu](https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC) | [Timeless](https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq) | 2:17 |
 
-Snapshot ID: `MTY3ODI3MjUxMiwwMDAwMDAwMGE4ODg5ZjkwYTBiZmRiMDNkZWUxZWJhZjBjN2ZmMDJm`
+Snapshot ID: `MTY3ODI3MjUxMiwwMDAwMDAwMDVjM2FjMGZiYWVhOWMwZDJjM2Q0MDM5ZGQ1MjJhNGFm`

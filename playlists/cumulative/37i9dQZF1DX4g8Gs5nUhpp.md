@@ -4,7 +4,7 @@
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: HIEUTHUHAI
 
-153 songs - 9 hr 58 min
+154 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Khác Biệt To Lớn Hơn](https://open.spotify.com/track/7CVdUE4KKpZkmHYAGVN0o4) | [Trinh Thang Binh](https://open.spotify.com/artist/4co1OIKlUOsNNVJFSZzO9N), [Liz Kim Cương](https://open.spotify.com/artist/6pYrL6H11sEmjp5ZJytWmK) | [Khác Biệt To Lớn Hơn](https://open.spotify.com/album/4NwKHyjNEf456fHaEQFw9d) | 4:12 | 2022-06-28 | 2022-07-27 |
 | [Không Cần Phải Nói Nhiều](https://open.spotify.com/track/1DmMJL7KrTEC5MDTvYpfLD) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Hoang Ton](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f) | [Không Cần Phải Nói Nhiều](https://open.spotify.com/album/0cGa9mtCxVQwgzPrOyoLES) | 4:06 | 2022-05-27 | 2022-06-03 |
 | [không một bài hát nào có thể diễn tả cảm xúc của em lúc này\. \(feat\. Thanh Bui\)](https://open.spotify.com/track/2AA4UcXp2WRvsU9cyHT6Vy) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Thanh Bui](https://open.spotify.com/artist/2q8305j8iKRCQr7Tn6woin) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 4:00 | 2022-08-15 | 2022-09-12 |
-| [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/53vcJaw0rQEux8YK9EDOxE) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/25aSCmyq0GJvaSUduH72Kj) | 4:04 | 2023-03-08 |  |
+| [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/0vkExWiBJSrfWnlMC7x48b) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/49dKGvpp3ix58fS46uVqOQ) | 4:04 | 2023-03-08 |  |
+| [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/53vcJaw0rQEux8YK9EDOxE) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/25aSCmyq0GJvaSUduH72Kj) | 4:04 | 2023-03-08 | 2023-03-15 |
 | [Kìa Bóng Dáng Ai](https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Sterry](https://open.spotify.com/artist/2yT9yRYRWEC22aqXEa6vBu) | [Kìa Bóng Dáng Ai](https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp) | 2:44 | 2023-02-20 |  |
 | [Liệu Giờ](https://open.spotify.com/track/2EZtTS76x5M6hK96CLclPd) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/1aRGbHftmJqclyoYJT8q6c) | 4:18 | 2022-06-15 | 2023-02-13 |
 | [Luôn yêu đời](https://open.spotify.com/track/76zJmpyMFX49tGT3u06JaK) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Cheng](https://open.spotify.com/artist/0jBuicIjx2pKvGmq9yRJju) | [Luôn yêu đời](https://open.spotify.com/album/69Ip5wKOotOmZEtcJpFVfo) | 3:54 | 2023-02-12 | 2023-02-23 |
@@ -136,7 +137,7 @@
 | [tiny love](https://open.spotify.com/track/4AgFXIVT7hVhBZ5DEOaLu3) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [tiny things](https://open.spotify.com/album/4nSOMXIWouesFTEk9vT7eA) | 2:38 | 2022-05-27 |  |
 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 | 2022-05-27 | 2022-06-21 |
 | [Tình Ca Tình Ta](https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4) | [kis](https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9) | [Tình Ca Tình Ta](https://open.spotify.com/album/3qdtvJBOprlT6VK2j0eest) | 2:55 | 2022-05-27 |  |
-| [tình yêu chậm trễ](https://open.spotify.com/track/6jcLKVmEKAQIXIVHJZ8vzS) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8) | [Over The Moon](https://open.spotify.com/album/4bC0p7T5Wy2kqCuQ0uK4D7) | 4:05 | 2022-12-14 |  |
+| [tình yêu chậm trễ](https://open.spotify.com/track/6jcLKVmEKAQIXIVHJZ8vzS) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8), [GREY\-D](https://open.spotify.com/artist/1DkeVIjKLcyWBdV47p2ogo) | [Over The Moon](https://open.spotify.com/album/4bC0p7T5Wy2kqCuQ0uK4D7) | 4:05 | 2022-12-14 |  |
 | [Tình Yêu Đến Sau](https://open.spotify.com/track/1ISenZ6rcvWJHsBlW5kymp) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tình Yêu Đến Sau](https://open.spotify.com/album/4UStQJDzvaNbNdAzxZ1k9A) | 4:31 | 2022-11-26 | 2023-02-13 |
 | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/track/4JPJhbWVL1yWTU8DpYP2Vc) | [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc), [nân](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB) | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/album/0gmt66kHSJzBQI4qpQmkci) | 3:35 | 2022-05-27 | 2022-07-29 |
 | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/track/2WOpp4vm16unl0N3i3BNNv) | [nân](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB), [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc) | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/album/4HEIdDrqHTU5Bocyc47BqI) | 3:35 | 2022-07-27 | 2022-10-14 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,000 songs - 2 day 7 hr 14 min
+1,001 songs - 2 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [999](https://open.spotify.com/track/6byhaAmWs8DEL8veyvFXnO) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [OMERTA](https://open.spotify.com/album/1eS2XzJ1XwWNTky6LZJxVX) | 2:14 | 2023-01-08 | 2023-01-10 |
 | [9lil L7ya](https://open.spotify.com/track/72xRdkNgXfWTetqFPRxY7j) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [9lil L7ya](https://open.spotify.com/album/3VaV1gAZfolzxzGGcZQ0zV) | 2:52 | 2021-10-18 | 2021-10-21 |
 | [9ortass](https://open.spotify.com/track/1m1RUXf2pARYhwNyaKd3ye) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [9ortass](https://open.spotify.com/album/43LzWtYzYJYCAcIHmTHzdr) | 2:49 | 2021-05-07 | 2021-11-24 |
-| [9SARA D LIL](https://open.spotify.com/track/6oYWJ2jG1gaRJcbaFUyDtb) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [9SARA D LIL](https://open.spotify.com/album/2sHdewHBibMmkRCD1z30g9) | 3:09 | 2023-03-12 |  |
+| [9SARA D LIL](https://open.spotify.com/track/6oYWJ2jG1gaRJcbaFUyDtb) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [9SARA D LIL](https://open.spotify.com/album/2sHdewHBibMmkRCD1z30g9) | 3:09 | 2023-03-12 | 2023-03-15 |
 | [= \(Equal Sign\)](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:54 | 2022-07-16 | 2022-07-19 |
 | [A Keeper](https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:53 | 2022-06-18 | 2022-06-21 |
 | [A la vie a la mort](https://open.spotify.com/track/0vuc98OKwnmkAlbWuVqxzS) | [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [A la vie a la mort](https://open.spotify.com/album/77wvNtDg6gy715Cm8CKaiP) | 2:49 | 2021-07-18 | 2021-08-06 |
@@ -328,6 +328,7 @@
 | [Friends](https://open.spotify.com/track/5RjUtRlDonw3TBgGGMLC5b) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:19 | 2022-02-26 | 2022-02-28 |
 | [Fuck Off 2](https://open.spotify.com/track/7kJ0F76to1ON6xSkhlMuIn) | [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Fuck Off 2](https://open.spotify.com/album/3vsZvniN5rtzripBJd24ix) | 10:45 | 2022-10-02 | 2022-10-13 |
 | [Fumigène](https://open.spotify.com/track/6ZS84HuMEK5kHFNisgnZzs) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Fumigène](https://open.spotify.com/album/5smRNpxX9VGSPz77CI6a2x) | 4:20 | 2022-05-07 | 2022-05-29 |
+| [Galbi Khasah Molah](https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Galbi Khasah Molah](https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT) | 4:26 | 2023-03-14 |  |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-15 |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-10-29 | 2022-01-26 |
 | [Gaza](https://open.spotify.com/track/4S07oYRMNExjXLFGaTJyTj) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 5:05 | 2021-09-15 | 2021-09-18 |

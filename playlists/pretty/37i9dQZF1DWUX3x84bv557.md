@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Snelle op de cover van dé Nederpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,039 likes - 109 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,052 likes - 109 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 108 | [Heimwee](https://open.spotify.com/track/3jTDCptomGx0Y7NF7T874P) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Heimwee](https://open.spotify.com/album/0jfzgWx5m88pvXWbyA8kbw) | 2:45 |
 | 109 | [Dief In De Nacht](https://open.spotify.com/track/2tT91bCBuWgFiolKC7TqH5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Dief In De Nacht](https://open.spotify.com/album/6CKCaxPcC6GDQsNawO1GHZ) | 2:10 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDExNWFjZTkyNjExOWI3MTU5MmJmZDNmMTkxMjMzN2Y3`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGMxNTRkNGIwYzdjNDFjZjRlMDMwMGFkODMwNTk1ZjRk`

@@ -6,6 +6,28 @@
     {
       "album": {
         "name": "1, 2 Step (Supersonic) [Mixed]",
+        "url": "https://open.spotify.com/album/0r7eH6QkuxemwjbfoOMGGf"
+      },
+      "artists": [
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "1, 2 Step (Supersonic) - Mixed",
+      "url": "https://open.spotify.com/track/09gw5jxg7V7koCsneIGsSA"
+    },
+    {
+      "album": {
+        "name": "1, 2 Step (Supersonic) [Mixed]",
         "url": "https://open.spotify.com/album/0kjGYHOMjDsYtfIiDtXmVA"
       },
       "artists": [
@@ -20,7 +42,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 154000,
       "name": "1, 2 Step (Supersonic) - Mixed",
       "url": "https://open.spotify.com/track/1AstBFivyakpfivzFC0ViG"
@@ -398,7 +420,7 @@
     {
       "album": {
         "name": "This Feeling (Mixed)",
-        "url": "https://open.spotify.com/album/2ERNyhR6CuKzqbScHK2MEs"
+        "url": "https://open.spotify.com/album/4zgTfY9tFgoENd13wFaHxe"
       },
       "artists": [
         {
@@ -413,6 +435,28 @@
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 207000,
+      "name": "This Feeling - Mixed",
+      "url": "https://open.spotify.com/track/2rknV08e5FBX4iyvjUGhXW"
+    },
+    {
+      "album": {
+        "name": "This Feeling (Mixed)",
+        "url": "https://open.spotify.com/album/2ERNyhR6CuKzqbScHK2MEs"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
       "duration_ms": 207000,
       "name": "This Feeling - Mixed",
       "url": "https://open.spotify.com/track/6IB1Rk80kekawq0USeg4Lc"

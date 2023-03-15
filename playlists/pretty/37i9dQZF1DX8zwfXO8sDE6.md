@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,431 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,473 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 49 | [シンプル・ラブ](https://open.spotify.com/track/75NJAsvUCSHjNYSw0qRT42) | [Junko Ohashi & Minoya Central Station](https://open.spotify.com/artist/3RZbbIjngtULxQCp3wZrrM) | [RAINBOW](https://open.spotify.com/album/465AMZHqKJo1GbIptNitEE) | 3:47 |
 | 50 | [Rainbow Sealine](https://open.spotify.com/track/3NQ3e5j7qcscVxKsUQlfOs) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Super Market](https://open.spotify.com/album/3z7LiLRgCg1W4E6Me7IJVV) | 3:53 |
 
-Snapshot ID: `MTY2ODU2MDE0NSwwMDAwMDAwMDE4OTk2ODEyNjRjMzc3ZmI5OWYxMjI0NDYzODRlZDM0`
+Snapshot ID: `MTY2ODU2MDE0NSwwMDAwMDAwMGRiYjM1YTFkZjU3OTk4OTBlZjc0NTg0OGZiZjVmNTgw`

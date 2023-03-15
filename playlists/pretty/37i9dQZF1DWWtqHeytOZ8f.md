@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,142 likes - 200 songs - 17 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,200 likes - 200 songs - 17 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 | 199 | [A Bright Resemblance \[Abridged\]](https://open.spotify.com/track/0yjPeogfbeSSiMwm85hw2E) | [Light Conductor](https://open.spotify.com/artist/590vdsp0V7yIZNMzdbi2qs) | [A Bright Resemblance \[Abridged\]](https://open.spotify.com/album/1T15Mh3twdV9gUfRJu6IgH) | 7:41 |
 | 200 | [Vaporware 05](https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 6:03 |
 
-Snapshot ID: `MTY3NzgxNjA2MSwwMDAwMDAwMDkwMDY3NDBiYmNmYmFlN2I0YTdlZmY1Zjc5NGEzNjI5`
+Snapshot ID: `MTY3NzgxNjA2MSwwMDAwMDAwMGFmNjdjODZhNTQwMGY2OGJkYzI3MTYzMzBiNzA4YjBl`

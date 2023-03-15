@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: SHN
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,162 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,165 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [as long as you're there](https://open.spotify.com/track/0HfiC0BALNXtrml73ouCf4) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [as long as you're there](https://open.spotify.com/album/4ZnLdPupZ4uDFklJ4nOnig) | 3:27 |
+| 1 | [27 in a 7\-Eleven](https://open.spotify.com/track/7M2WiIMPWioFgdsDUNLPvU) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [27 in a 7\-Eleven](https://open.spotify.com/album/2HepEpC2LK5JZ3duY3sxqO) | 3:00 |
 | 2 | [Build A Home](https://open.spotify.com/track/2N2pNJbvZNvNMEC0mlgr4k) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Build A Home](https://open.spotify.com/album/22BcyhsuaGOMfG2OWs1ZVt) | 3:57 |
 | 3 | [Look At This](https://open.spotify.com/track/2sIBt75HNRZMFtFEoPgV3j) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [Look At This](https://open.spotify.com/album/2C4xKICnTxn7rGSBpeJvsD) | 2:49 |
 | 4 | [Terus Hidup](https://open.spotify.com/track/3sUY5xI83n8KX0rjpfxoQu) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Terus Hidup](https://open.spotify.com/album/4BDfVnGe4BlQxXQcf9RcqA) | 4:24 |
 | 5 | [Langit Yang Sama](https://open.spotify.com/track/2CJvBRL5ZevYir3mbFdcm6) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Langit Yang Sama](https://open.spotify.com/album/6K1IgEqIElbpdvorDrwEkZ) | 4:05 |
 | 6 | [janji kita bertemu lagi](https://open.spotify.com/track/5JO9dDda0tqXhPOhA6y4VL) | [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [janji kita bertemu lagi](https://open.spotify.com/album/24GLmkNtjkUQaEUFQsjoDB) | 4:18 |
 | 7 | [Winter](https://open.spotify.com/track/1pe8pkKTMRAHgVDvkMGye6) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [Winter](https://open.spotify.com/album/1GyfrRukb2HZgsoSW0UQvm) | 3:20 |
-| 8 | [Safe](https://open.spotify.com/track/1ZK2qvM0yDoj7sonoEWiG5) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Safe](https://open.spotify.com/album/0B29tKx7e38MjW4NBSvcZF) | 3:30 |
-| 9 | [Tell Me](https://open.spotify.com/track/470DmyCe8EL1wwbElMLaN7) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Tell Me](https://open.spotify.com/album/0WtREq23Wm2V6Fj6tKlluH) | 3:56 |
-| 10 | [Burn \- English Version](https://open.spotify.com/track/5IENcbXHvFoKAhecGLQtc6) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Burn \(English Version\)](https://open.spotify.com/album/11VgXoVhoRveVxdk7wFLRE) | 3:09 |
-| 11 | [Fajar](https://open.spotify.com/track/1YmmjCvJGAPRwnpbOFIwbq) | [Wani Kayrie](https://open.spotify.com/artist/623y6Eo7aOEpYo9LSZCQ1M) | [Fajar](https://open.spotify.com/album/3qbHIVSidorQWYKwUGSUxk) | 3:43 |
-| 12 | [Remedy](https://open.spotify.com/track/6Oa0nJwDOkclkCQsiZh6ge) | [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES) | [Daydream](https://open.spotify.com/album/2oMoazj0HGsegjfPDyfrvh) | 3:31 |
-| 13 | [Solace](https://open.spotify.com/track/0RUfi1QfMXMnGQGcX3FgOJ) | [Afee](https://open.spotify.com/artist/3UgXt5RJMgngGdKXJAFoOD) | [Solace](https://open.spotify.com/album/4HQhioGsFrghbRy8ajT6Sj) | 3:11 |
-| 14 | [Superhuman](https://open.spotify.com/track/6YAUAZ6Yf0mUeTIPduQHAB) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [Superhuman](https://open.spotify.com/album/4zyyXOkKsKk9qTke4pCYQM) | 3:47 |
-| 15 | [when i lie](https://open.spotify.com/track/3jzfXEShdDtFxTtXlsbT7a) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [dark places](https://open.spotify.com/album/54OZigkOypoAyPcvwBtrd2) | 3:17 |
+| 8 | [as long as you're there](https://open.spotify.com/track/0HfiC0BALNXtrml73ouCf4) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [as long as you're there](https://open.spotify.com/album/4ZnLdPupZ4uDFklJ4nOnig) | 3:27 |
+| 9 | [Safe](https://open.spotify.com/track/1ZK2qvM0yDoj7sonoEWiG5) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Safe](https://open.spotify.com/album/0B29tKx7e38MjW4NBSvcZF) | 3:30 |
+| 10 | [Tell Me](https://open.spotify.com/track/470DmyCe8EL1wwbElMLaN7) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Tell Me](https://open.spotify.com/album/0WtREq23Wm2V6Fj6tKlluH) | 3:56 |
+| 11 | [Burn \- English Version](https://open.spotify.com/track/5IENcbXHvFoKAhecGLQtc6) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Burn \(English Version\)](https://open.spotify.com/album/11VgXoVhoRveVxdk7wFLRE) | 3:09 |
+| 12 | [Fajar](https://open.spotify.com/track/1YmmjCvJGAPRwnpbOFIwbq) | [Wani Kayrie](https://open.spotify.com/artist/623y6Eo7aOEpYo9LSZCQ1M) | [Fajar](https://open.spotify.com/album/3qbHIVSidorQWYKwUGSUxk) | 3:43 |
+| 13 | [Remedy](https://open.spotify.com/track/6Oa0nJwDOkclkCQsiZh6ge) | [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES) | [Daydream](https://open.spotify.com/album/2oMoazj0HGsegjfPDyfrvh) | 3:31 |
+| 14 | [Solace](https://open.spotify.com/track/0RUfi1QfMXMnGQGcX3FgOJ) | [Afee](https://open.spotify.com/artist/3UgXt5RJMgngGdKXJAFoOD) | [Solace](https://open.spotify.com/album/4HQhioGsFrghbRy8ajT6Sj) | 3:11 |
+| 15 | [Superhuman](https://open.spotify.com/track/6YAUAZ6Yf0mUeTIPduQHAB) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [Superhuman](https://open.spotify.com/album/4zyyXOkKsKk9qTke4pCYQM) | 3:47 |
 | 16 | [Astana](https://open.spotify.com/track/67oBisTedMhW9Ku67XPcXZ) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Astana](https://open.spotify.com/album/38UjF0TgEfXgo5Zl4mnPle) | 3:25 |
 | 17 | [Future Somebody](https://open.spotify.com/track/4lW3yXHQfYvnq1njjxU07M) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Future Somebody](https://open.spotify.com/album/6oNuFaEPjjlNH9XeT1Aiab) | 2:22 |
 | 18 | [Bimbang](https://open.spotify.com/track/4McwnRAyCRirH4Tntqt9Ew) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Bimbang](https://open.spotify.com/album/5IVjZ9i3Vq42zKh6F8Y0IB) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [Boneka](https://open.spotify.com/track/1C9wjvXDwQQEaVlNJn4lAV) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Koleksi Terbaik Ernie Zakri](https://open.spotify.com/album/0RJfa9ixS7mhDhhQLvlKXg) | 3:50 |
 | 50 | [不, 要不要](https://open.spotify.com/track/53dWaPiPkR1bJKpqJZN7Sd) | [Angelloweee](https://open.spotify.com/artist/3VKXShqcZPqG6OPlvIAQ7t) | [不, 要不要](https://open.spotify.com/album/6cNHhVnI9wvR1KNAzgRp7O) | 3:04 |
 
-Snapshot ID: `MTY3NzYwMDAwMCwwMDAwMDAwMDc4YTJlNjU4ZmM3ZTcwYTU5NmU0YTExNjRmYTA2YWU1`
+Snapshot ID: `MTY3ODc3NDAxOCwwMDAwMDAwMGYwOWRhOTc2NDYxY2YwYzUxZDgwYjEyMjM1ZGI1OTQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,666 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,686 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 49 | [Bh](https://open.spotify.com/track/5TKEFmm00kb1pGhbbrcMAJ) | [Daniel Aged](https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH) | [Daniel Aged](https://open.spotify.com/album/2225T7QnBygl0yoM7dbNGD) | 4:35 |
 | 50 | [Curiosity](https://open.spotify.com/track/2SWeZfgjcKdR6E6Jj2ZtMU) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Curiosity](https://open.spotify.com/album/0Raftg28EuFQ9RNzpPBjLq) | 2:46 |
 
-Snapshot ID: `MTYzNDMwNTY0NywwMDAwMDAwMGE2ODM1MWRkODRlZTVmYjY2NzUyMmQxZjVmMGFkMTNi`
+Snapshot ID: `MTYzNDMwNTY0NywwMDAwMDAwMGRjNzM2ZjcyN2NmMzI5NDFhMThkMzZiNWFiNWQxMjM2`

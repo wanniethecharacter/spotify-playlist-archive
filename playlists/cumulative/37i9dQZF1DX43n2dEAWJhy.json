@@ -350,10 +350,36 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 186000,
       "name": "Riding - Mixed",
       "url": "https://open.spotify.com/track/6mh4sSTjHoLWUUwGdfN66v"
+    },
+    {
+      "album": {
+        "name": "Riding (Mixed)",
+        "url": "https://open.spotify.com/album/4U9qhgoWz4lFWZuJKUpD3u"
+      },
+      "artists": [
+        {
+          "name": "Point.Blank",
+          "url": "https://open.spotify.com/artist/0kceiKJrP7AsW2rUPeAw3v"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Martay M'Kenzy",
+          "url": "https://open.spotify.com/artist/0LVK3Io8yAwy9KLL0lyIHb"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Riding - Mixed",
+      "url": "https://open.spotify.com/track/4YK5YpVHaVmDFRC2qxLYm3"
     },
     {
       "album": {
@@ -423,6 +449,28 @@
     },
     {
       "album": {
+        "name": "The King Is Dead",
+        "url": "https://open.spotify.com/album/64Irb3YbvqUgQo3yeV3gUM"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155224,
+      "name": "The King Is Dead",
+      "url": "https://open.spotify.com/track/0IFeuYP7vTwdEQf3ye0kqb"
+    },
+    {
+      "album": {
         "name": "The King Is Dead (Mixed)",
         "url": "https://open.spotify.com/album/0MyHYlZBAewOxCzUPiT0QP"
       },
@@ -438,7 +486,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 150000,
       "name": "The King Is Dead - Mixed",
       "url": "https://open.spotify.com/track/4vH5mVsSZc5otEjvs8fH4N"

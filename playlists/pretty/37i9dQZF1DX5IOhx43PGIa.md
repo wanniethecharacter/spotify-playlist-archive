@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: beabadoobee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,531 likes - 150 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,630 likes - 150 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 149 | [Nobody Sees Me Like You Do](https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Nobody Sees Me Like You Do](https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P) | 3:31 |
 | 150 | [NERVE](https://open.spotify.com/track/06FYjJDuCF2agn3rJBuNiv) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [NERVE](https://open.spotify.com/album/2beatj9EGiW7MRNWbMVARe) | 2:28 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDcwZjVmNjJlM2RhNTA2ZjgxZGE1MjY3MzI5YTNkOTg2`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDA1MjRjYjgwZGNiM2RmODAzYTI3MTQwMDk0ZDZlZWU5`

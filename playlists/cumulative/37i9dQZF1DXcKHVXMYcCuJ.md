@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-321 songs - 20 hr 3 min
+323 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,9 @@
 | [Another Space Song](https://open.spotify.com/track/50iBJRkGjjht3RiwD0VqLA) | [Failure](https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j) | [Fantastic Planet](https://open.spotify.com/album/5hbxMCegyQPhpycfjtlW6I) | 5:10 | 2021-12-15 |  |
 | [Anyways](https://open.spotify.com/track/4up4dWG8xOET2Uo5aoOLAm) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Anyways](https://open.spotify.com/album/4khFn2Fi43Wl2Aje2uk7bh) | 2:57 | 2022-09-21 | 2023-01-26 |
 | [Anyways](https://open.spotify.com/track/2lnwXQojOIFk9AQX166wix) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Anyways \- EP](https://open.spotify.com/album/7EdF72Mn8YxTeAZyHlEoR7) | 2:59 | 2021-12-15 | 2022-07-27 |
+| [Apple Cider, I Don't Mind](https://open.spotify.com/track/02SdGsV2CdVzFNaMiI33Uk) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Holy Ghost](https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7) | 1:57 | 2023-03-15 |  |
 | [Aquasun](https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 3:42 | 2021-12-15 |  |
-| [Around The Railing](https://open.spotify.com/track/2Fcz9olH3OgfFMj3auXTjA) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 5:09 | 2022-06-23 |  |
+| [Around The Railing](https://open.spotify.com/track/2Fcz9olH3OgfFMj3auXTjA) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 5:09 | 2022-06-23 | 2023-03-15 |
 | [Around the Railing](https://open.spotify.com/track/7nLa9KoKRgMQTOJkmwunaG) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6zIpcsCh1mPH1UcBvo5jGj) | 5:09 | 2021-12-15 | 2022-07-29 |
 | [Baby Shea](https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [Buds](https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M) | 1:37 | 2022-06-23 |  |
 | [Backroads](https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:06 | 2022-11-02 | 2023-02-28 |
@@ -76,13 +77,14 @@
 | [Dogwalk](https://open.spotify.com/track/669JWthnxk4uSsnnDhEnu8) | [Pity Sex](https://open.spotify.com/artist/7zYojeiCfuseHGA4IJ8qSk) | [Dark World](https://open.spotify.com/album/1KYhQv6jxV95Pwpv57vj1S) | 4:42 | 2022-06-23 |  |
 | [Drink the Sunshine](https://open.spotify.com/track/7CFu1EG7qOdp6IdXlVAkof) | [Symposium](https://open.spotify.com/artist/3YUqeikmjlNZDLLImxLPuq) | [One Day at a Time](https://open.spotify.com/album/2TJq6nTvk4gsnUlgwNsKN2) | 3:55 | 2022-11-02 | 2022-12-12 |
 | [Driveway to Driveway](https://open.spotify.com/track/1C65EMS98C2cnJZA5DEEq8) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish \(Remastered\)](https://open.spotify.com/album/1qmuiYImHKC0qwKQXH1U1O) | 4:41 | 2021-12-15 | 2022-07-29 |
-| [Driveway to Driveway](https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish](https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A) | 4:41 | 2022-06-23 | 2023-03-08 |
+| [Driveway to Driveway](https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish](https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A) | 4:41 | 2022-06-23 |  |
 | [Driving Nowhere](https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 4:19 | 2021-12-15 | 2023-03-06 |
 | [Drugs](https://open.spotify.com/track/7Mh6yMRAIXYHKa7o19k6X6) | [Ammonia](https://open.spotify.com/artist/1yaf2CGmvYuUIyrsL0GZOV) | [Mint 400](https://open.spotify.com/album/4A8BiSkjO2PvMBZAXHiSby) | 3:27 | 2021-12-15 |  |
 | [Empty Eyes](https://open.spotify.com/track/3Ct9bSfkgmX7MSMI6ZsqAf) | [Dead History](https://open.spotify.com/artist/719fbHkBe8sRhnokHm56Py) | [Dead History](https://open.spotify.com/album/3WdZpSVjNj5dnVKHDWqwux) | 3:43 | 2021-12-15 | 2022-07-29 |
 | [Encore](https://open.spotify.com/track/4LdImt7hg85uPpUOPKlLAy) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 2:45 | 2021-12-15 |  |
 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 | 2023-02-27 |  |
 | [Everyone Needs a Nemesis](https://open.spotify.com/track/3J8ReooQWOzrZrF2T5IqMW) | [Fighting With Wire](https://open.spotify.com/artist/7j5NOrcRzeQkX4s9RlY9VR) | [Man vs Monster](https://open.spotify.com/album/2M8OASkw9IhvEyMOeiSkNv) | 3:30 | 2021-12-15 | 2022-07-22 |
+| [Face Down](https://open.spotify.com/track/2zcIwrnFbmwBSbJf29xq1c) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [I Want](https://open.spotify.com/album/66fM2xo6aWI1z0nsmTXeD0) | 3:23 | 2023-03-15 |  |
 | [Fade Out/In](https://open.spotify.com/track/2n95SHaby7YQBiPeQP7X5I) | [Paloalto](https://open.spotify.com/artist/5pvgbizg8R3nhrmefYQu2A) | [Heroes And Villains](https://open.spotify.com/album/5SGWgDLfzAz9KjchKxSYPF) | 3:37 | 2022-04-15 | 2022-04-21 |
 | [Feel the Burn](https://open.spotify.com/track/3Ns3L4FiaTOvNHzj42dCiN) | [Elm Tree Circle](https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4) | [The Good Life](https://open.spotify.com/album/0H6OGmAxBhBAIMqmarWdqt) | 2:52 | 2022-02-02 | 2022-04-21 |
 | [Feel the Burn](https://open.spotify.com/track/672ya0WXJAbZvxDp4rD4h3) | [Elm Tree Circle](https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4) | [The Good Life](https://open.spotify.com/album/3x64mf0X5GYeyJeArm8S6h) | 2:52 | 2022-11-02 | 2022-12-14 |
@@ -103,7 +105,7 @@
 | [Ghetto Blaster](https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [4 AM](https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq) | 5:02 | 2021-12-15 | 2023-01-06 |
 | [Ghost in the Mirror](https://open.spotify.com/track/2sxVGe2awPj7emt2btYnp1) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Asymmetry \(Deluxe\)](https://open.spotify.com/album/1b6IlVlHRzbkcAWIpXaW37) | 3:36 | 2022-04-15 |  |
 | [Glad That You're Gone](https://open.spotify.com/track/3zZhZxT1Rv2cgBSuGGElrL) | [The Hard Aches](https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq) | [Glad That You're Gone](https://open.spotify.com/album/1aYQKTRz4sQPvXXAkRZWSd) | 3:18 | 2021-12-15 | 2022-07-28 |
-| [Glorious Sunset](https://open.spotify.com/track/30ThXCf6ARvmaA89SjmNZi) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3UsHM8DzVWx0rh5qQWvYLY) | 3:59 | 2023-02-27 |  |
+| [Glorious Sunset](https://open.spotify.com/track/30ThXCf6ARvmaA89SjmNZi) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3UsHM8DzVWx0rh5qQWvYLY) | 3:59 | 2023-02-27 | 2023-03-15 |
 | [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 | 2023-01-25 | 2023-02-27 |
 | [Gold](https://open.spotify.com/track/4Kx4tZHPRKg7DVFeyh9xMA) | [Black Map](https://open.spotify.com/artist/6rCmNHjnotXZpGxnCM7tkq) | [...And We Explode](https://open.spotify.com/album/1xnNpamKRzpuKyF4pWNdZd) | 2:45 | 2021-12-15 | 2022-07-27 |
 | [Goldfinger](https://open.spotify.com/track/4Qtu0Y2KSnqwr5NJTDQX0C) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9) | 4:31 | 2023-02-27 |  |
@@ -114,7 +116,7 @@
 | [Hallelujah \(So Low\)](https://open.spotify.com/track/3aSqWoVZ18TK33qMgVUo0k) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Violence](https://open.spotify.com/album/7q0Fdj0jZDoYWIGWY64x3A) | 3:55 | 2022-01-11 | 2022-09-22 |
 | [Handwritten](https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten](https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR) | 3:58 | 2022-06-23 |  |
 | [Handwritten](https://open.spotify.com/track/7dqaE8YtE14X1QXMgVNMW4) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten \(Deluxe Version\)](https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY) | 4:01 | 2021-12-15 | 2022-07-19 |
-| [Heartbeat in the Brain](https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Whenever, If Ever](https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm) | 5:41 | 2021-12-15 |  |
+| [Heartbeat in the Brain](https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Whenever, If Ever](https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm) | 5:41 | 2021-12-15 | 2023-03-15 |
 | [Heaven Sent](https://open.spotify.com/track/1QdX4nYBypuyK39i3kI0si) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [California Nights](https://open.spotify.com/album/1JIhBE54vvyvz6yqqKKJ1A) | 3:25 | 2021-12-15 | 2022-07-27 |
 | [Hell Will Wait](https://open.spotify.com/track/6gH90ldgKSavrVGdeN6Rcm) | [COLISION](https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ) | [Lost Ghosts, Vol\. 1](https://open.spotify.com/album/2ZsBSBmRkl5OvVVOFqQWZr) | 3:50 | 2021-12-15 | 2022-07-22 |
 | [Holy](https://open.spotify.com/track/2irFDtyw34II0pdCWIOBaN) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:39 | 2021-12-15 |  |

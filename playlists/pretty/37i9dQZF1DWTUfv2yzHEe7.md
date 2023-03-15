@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUfv2yzHEe7.md) - [plain]
 
 ### [Filmy Party](https://open.spotify.com/playlist/37i9dQZF1DWTUfv2yzHEe7)
 
-> Filmy beats to keep you dancing all night\. Cover \- Deepika Padukone
+> Filmy beats to keep you dancing all night\. Cover \- RRR
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,706 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,905 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUfv2yzHEe7.md) - [plain]
 | 59 | [Bang Bang](https://open.spotify.com/track/7DonyrUlcVcrtk28mqvWNL) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bang Bang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OPaPfgLzRn30767pjwfY3) | 5:20 |
 | 60 | [The Disco Song](https://open.spotify.com/track/3UaP2PQwhA31keZXt7oPLA) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR) | [Student of the Year \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy) | 5:42 |
 
-Snapshot ID: `MTY3ODA3NTMyMSwwMDAwMDAwMDU2MGM3MmFmMGQxNmFjZWJlM2JiYTJkOWMxMjA4OTQ5`
+Snapshot ID: `MTY3ODc2OTA4MCwwMDAwMDAwMGJiMjhjYjQyZTQyMGMwODhlMzA0Y2M1YjZlODhlM2Y3`

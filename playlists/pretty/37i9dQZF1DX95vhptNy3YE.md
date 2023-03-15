@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Vulgo FK, MC Cebezinho, KayBlack e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,636 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,761 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [X6](https://open.spotify.com/track/7qE3yPi9s1SdhSVEuOfFw4) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [Buccy](https://open.spotify.com/artist/0j4YvpvQYySHXXpVgqyPqT) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:53 |
 | 50 | [Luxo No Morro](https://open.spotify.com/track/7cAPIqPqmxtcBVvfW6BZkm) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [A Jolly Child](https://open.spotify.com/artist/1OJliXxNuEF6RlPefYFz1D) | [Dos Prédios](https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d) | 2:20 |
 
-Snapshot ID: `MTY3ODcyODA3NiwwMDAwMDAwMGY1ODM4Nzk0Zjg1NjU1NjE1YWZmY2Y1ZGQwN2ZmZjJh`
+Snapshot ID: `MTY3ODcyODA3NiwwMDAwMDAwMGI5Y2FjOTE1ZmNmOWJlZDlmNzgwMWUyZGU4YzdiMTU2`

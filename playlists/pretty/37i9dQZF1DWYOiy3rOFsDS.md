@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Luis Miguel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,787 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,862 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 99 | [Punto de partida](https://open.spotify.com/track/77et43mdYaaaqBu1r4sEpE) | [Fabiola Finkmann](https://open.spotify.com/artist/4fU1U7dEb19U1HlP9TyUtn) | [Manzanero presenta a Fabiola Finkmann](https://open.spotify.com/album/65smolEH2NZeq5XztHRbxP) | 3:42 |
 | 100 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
 
-Snapshot ID: `MTY3ODQ5NTM5NSwwMDAwMDAwMDY0YWExYTdjNGM3YTBlOGIyZDkwZTQ2YmZhMDQxMjFh`
+Snapshot ID: `MTY3ODQ5NTM5NSwwMDAwMDAwMDBiMzhkMzc4NWJhMGUyY2E2ZGUwZTAzMDMwZWQ3N2Vm`

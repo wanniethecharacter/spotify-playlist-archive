@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: CODE KUNST\(코드 쿤스트\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,070 likes - 54 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,101 likes - 54 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 53 | [Zero gravity \(feat\. Blueday\)](https://open.spotify.com/track/4CHZmHfpzinqUwWiSYWPn7) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Blueday](https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx) | [Zero gravity](https://open.spotify.com/album/1EyyquQhOTZzRuuwcN1VCF) | 3:16 |
 | 54 | [Once \(feat\. J.O.Y\)](https://open.spotify.com/track/5DKXbkV2NsCOFBOWZILA2L) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Once](https://open.spotify.com/album/6LqHI2g0taFCS72SOZFXDP) | 3:10 |
 
-Snapshot ID: `MTY3ODI2NjMwOCwwMDAwMDAwMDA2NTIxMzFjYjJkNDUzNTEwZjQ5NzU1NmEyM2Y3OWQ4`
+Snapshot ID: `MTY3ODI2NjMwOCwwMDAwMDAwMGMzNTdlZTZiNTAzM2Y1MDBkMTVkY2RiMzVmMTM2ODJi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Músicas calminhas pra começar o dia bem relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,771 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,129 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 49 | [Toda Beleza](https://open.spotify.com/track/4yPKVW76qe5VWOK4WOUsZa) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:06 |
 | 50 | [Outono](https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Deixa Vir Do Coração](https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y) | 3:24 |
 
-Snapshot ID: `MTY3ODUwMzkyMiwwMDAwMDAwMDM3NjNhNTkwM2JhODU1YjFlMjY0OGY0MThjMjQwMzk4`
+Snapshot ID: `MTY3ODUwMzkyMiwwMDAwMDAwMDI4MTk0MWExZDBkN2U1YjczMTQyNjAxYjM2MWIyMzk4`

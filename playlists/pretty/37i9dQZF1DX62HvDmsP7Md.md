@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 
 > Party like it's the early 2000s\. ✨  Cover: Puff Daddy, Lil' Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,591 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,828 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 99 | [Drop \(feat\. Fatman Scoop\)](https://open.spotify.com/track/5ra5c4NPCA4szK6hBbMs4u) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Magoo](https://open.spotify.com/artist/7pv3MRGkgkXa9Qn8sMctxT), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Indecent Proposal](https://open.spotify.com/album/1CQyN4iheuFankpvxYuLPD) | 6:00 |
 | 100 | [You Owe Me \(feat\. Ginuwine\)](https://open.spotify.com/track/2VqjCBJ4AxpDTrNRKhL0Pw) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Nastradamus](https://open.spotify.com/album/0yv3K62ndWgrZ0bbAEMzj5) | 4:47 |
 
-Snapshot ID: `MTY3NzYzNzkzOSwwMDAwMDAwMDkwMzAwYzJiZjhkNjA3NDEyOTBmM2JhOTZmZDY1NmQ2`
+Snapshot ID: `MTY3NzYzNzkzOSwwMDAwMDAwMDk5YTZkMDZlNDZmM2YyMjc2YTRlNzM1MWNjZjAwYTc2`

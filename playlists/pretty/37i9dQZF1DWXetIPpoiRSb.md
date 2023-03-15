@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Lauren Spencer\-Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,142 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,172 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [Bad At Letting Go](https://open.spotify.com/track/4uWDzzFjuB9AV1hMSTyEAJ) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Bad At Letting Go](https://open.spotify.com/album/25cBhyZGuY9xdg7QMCdc9K) | 3:20 |
 | 80 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 |
 
-Snapshot ID: `MTY3ODQ2MjA1MCwwMDAwMDAwMDNmN2NjNzVlYzA1ODBkOWIxZjI0NWY0ZTllMTA4MTQ5`
+Snapshot ID: `MTY3ODQ2MjA1MCwwMDAwMDAwMDA2NzFkNDM2ZWE1ZGQyMzczNzJjZDgzYzY0ZDUyZGVl`

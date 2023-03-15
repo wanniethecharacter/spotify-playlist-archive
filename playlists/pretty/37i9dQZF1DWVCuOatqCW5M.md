@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Kanishk Seth
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,713 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,747 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 2 | [Mulaqat Baki Hai](https://open.spotify.com/track/3uIH2zctyh263EVMj7u9UI) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw) | [Mulaqat Baki Hai](https://open.spotify.com/album/1RNSZhkN7iUZuaSpTPzfUb) | 3:09 |
 | 3 | [Choo Liya](https://open.spotify.com/track/3CCKZEmtnCCbq2jrEihxgr) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [MEER](https://open.spotify.com/artist/4Qtx4aI2TxoK7IDTDZgvti), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Choo Liya](https://open.spotify.com/album/0bm7EwOK7BLJUrrx0J9Sm6) | 3:03 |
 | 4 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 |
-| 5 | [Aadhe Raste](https://open.spotify.com/track/46ebBx0SwajtdikPU7N9vJ) | [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Aadhe Raste](https://open.spotify.com/album/2OA7NvFAVOpYFDSdcG5nM2) | 3:28 |
+| 5 | [Aadhe Raste](https://open.spotify.com/track/46ebBx0SwajtdikPU7N9vJ) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ) | [Aadhe Raste](https://open.spotify.com/album/2OA7NvFAVOpYFDSdcG5nM2) | 3:28 |
 | 6 | [Tumne Hamein](https://open.spotify.com/track/1d9KnLHrsroucWcoNKvHtP) | [Ankush Bhardwaj](https://open.spotify.com/artist/0XshHSxU5gt37nBa6SS8gY), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU) | [Tumne Hamein](https://open.spotify.com/album/61mTverss6T06JkYOBxeVN) | 3:49 |
 | 7 | [Tere Hone Se](https://open.spotify.com/track/0WOQ0NIjQEAFHXS9haQDOZ) | [DJ Suketu](https://open.spotify.com/artist/4TfiXd01xLFV0xg8PSCysH), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Tere Hone Se](https://open.spotify.com/album/3VBhUpmVVwGtSZd2TGd8FK) | 5:01 |
 | 8 | [Poori Tarah Se](https://open.spotify.com/track/5vE3s0cujAgnFmfbMf8xfh) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Chirag Soni](https://open.spotify.com/artist/3UMC3IINcoIuI0GeNb6Jm3) | [Poori Tarah Se](https://open.spotify.com/album/2euZcVgfeai6fDMUQNmbog) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Mehendi Lagi Hai](https://open.spotify.com/track/36uw7L3TTkfsXOyym2RFuw) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Sakshi Holkar](https://open.spotify.com/artist/1NzWmNFNge2tR9foXVCz7R), [Danish Sabri](https://open.spotify.com/artist/1d1zBysvyutA5en7DZnvJW) | [Mehendi Lagi Hai](https://open.spotify.com/album/3Epan1Y4ZX0f1QLN7Utrux) | 3:22 |
 | 50 | [Aasmaan](https://open.spotify.com/track/4OJ3ecc157Wg4Z29aglEOu) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Farzi \(Original Series Soundtrack\)](https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz) | 2:52 |
 
-Snapshot ID: `MTY3ODQyNzU4MCwwMDAwMDAwMDE2M2NkNjM0NmUwYmNhM2MxZWQ3ZTgzYzNiOGY0YWQ4`
+Snapshot ID: `MTY3ODQyNzU4MCwwMDAwMDAwMDVhNWViN2FhYjE3YmVlNGYzNmQ4M2FjN2QyOWMzOWYx`

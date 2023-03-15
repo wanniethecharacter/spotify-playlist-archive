@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Maluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,759 likes - 56 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,814 likes - 56 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 55 | [Não Manda Áudio](https://open.spotify.com/track/78qabjuI3mGUaREZk5hiEt) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Não Manda Áudio](https://open.spotify.com/album/4TvJjBa84YCeR0DZKsnWFP) | 3:14 |
 | 56 | [Suficiente](https://open.spotify.com/track/1tHIfjP3YPkoTLLTmW0BUP) | [Gran Radio Riviera](https://open.spotify.com/artist/3RUegLawnCVTlcsbFk6fUq), [YIYI](https://open.spotify.com/artist/7AN8elJtTMhsDuKjTZOYKZ) | [0\-800 HOY](https://open.spotify.com/album/6GzCj4kV2236LdiDBg6VHP) | 4:05 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDM3NmExNGNjYmI0Y2RjZDIxZjk2ZGMzYmRmMWM3ZDg3`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGM4NGQ3ZDhlNzFlOTFiMDA0YzEyMTJkOGJlNzQxYTkx`

@@ -1,12 +1,12 @@
 {
   "description": "Deephouse that travels from Afro to Eastern sounds.",
-  "num_followers": 38289,
+  "num_followers": 38351,
   "original_name": "Dunes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODczMzMyNSwwMDAwMDAwMGIxYzU2ZDk1NDNjNmQ2YWQwZmQ1MGYyYjU1ZDgxMWZk",
+  "snapshot_id": "MTY3ODczMzMyNSwwMDAwMDAwMGEwMmVhNjIzNjg3NjhmMThlZGVhMWIxOWU4M2YxMTY5",
   "tracks": [
     {
       "added_at": "2023-03-13 18:48:45",
@@ -714,6 +714,10 @@
         {
           "name": "Meric Again",
           "url": "https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF"
+        },
+        {
+          "name": "Nomade",
+          "url": "https://open.spotify.com/artist/3Ker8b3IssXoieHmxgR0Xn"
         }
       ],
       "duration_ms": 226115,

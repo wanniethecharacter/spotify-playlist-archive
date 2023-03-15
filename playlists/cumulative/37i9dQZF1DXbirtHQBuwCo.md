@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: Nieah \(니아\)\)
+> Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: HUH YUNJIN\(허윤진\)\)
 
-541 songs - 1 day 5 hr 15 min
+542 songs - 1 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Love of My Life](https://open.spotify.com/track/4CyPvA5XZJBFxD4x71iFgh) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [Heart Full of Empty Love](https://open.spotify.com/album/5aPm1mE6zlVO8cPRFoczCo) | 3:01 | 2022-07-24 | 2022-07-26 |
 | [Love Paradox \(feat\. Ash\-B\)](https://open.spotify.com/track/1kIVH72XZlgZsE2j2tYYyX) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4) | [Foxiboy](https://open.spotify.com/album/6GdYQZVWk6RMZBslqjSFn0) | 3:07 | 2022-04-19 | 2022-04-21 |
 | [Love song](https://open.spotify.com/track/1jzrBDpLgKPx3eZDzmixai) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU) | [Spring in Winter](https://open.spotify.com/album/3J9hWyRg3THDctWGtQOgLE) | 2:53 | 2022-04-19 | 2022-07-28 |
+| [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 | 2023-03-14 |  |
 | [Love Yourself \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/5B0Ki3CZf0mzoN0lLWPcnF) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Symphony](https://open.spotify.com/album/1GwDKLnH82W2m2BBWf3gbS) | 3:14 | 2023-01-11 | 2023-01-19 |
 | [Lovers In The Night](https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Lovers In The Night](https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv) | 3:30 | 2022-04-19 |  |
 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 | 2022-07-07 | 2022-07-23 |
@@ -353,7 +354,7 @@
 | [Not About You](https://open.spotify.com/track/4fVyrplBcb6lVgij1b8pIO) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [blanc](https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL) | 3:56 | 2022-08-12 | 2022-08-19 |
 | [Not Anymore](https://open.spotify.com/track/2HJ5BHQ3pguvRIiCXqXuL7) | [VAITEI](https://open.spotify.com/artist/3ql4XNI00x7aUyzk26dDNO) | [Not Anymore](https://open.spotify.com/album/1qen2YeRQZv51XhBBcie3X) | 2:49 | 2022-06-09 | 2022-06-19 |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/5Qjsh4Xp6YQJIFSPWTdyAC) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/1XI748LrBjy0ui2wEPqpEM) | 3:15 | 2022-05-28 | 2022-07-27 |
-| [Not Me](https://open.spotify.com/track/5DLfhr11jMK4yJanglbWcl) | [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw) | [Not Me](https://open.spotify.com/album/7oS6RPCgrvzRCoDVvAwQqj) | 3:24 | 2023-03-07 |  |
+| [Not Me](https://open.spotify.com/track/5DLfhr11jMK4yJanglbWcl) | [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw) | [Not Me](https://open.spotify.com/album/7oS6RPCgrvzRCoDVvAwQqj) | 3:24 | 2023-03-07 | 2023-03-15 |
 | [NOT ME!](https://open.spotify.com/track/655YhibeaetlWccj0PYi7W) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Talking Book](https://open.spotify.com/album/6YXHb67IA4vW8FjfUs3Uen) | 3:10 | 2022-05-11 | 2022-07-21 |
 | [Nothing](https://open.spotify.com/track/2LKpQ3ksn1YinHycbalctk) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Lake of Fire II](https://open.spotify.com/album/75JefiZbeuPESs9WoduwDW) | 2:29 | 2022-04-19 | 2022-04-21 |
 | [NOW](https://open.spotify.com/track/2Tb2yszENsQNbtyAGPcjIT) | [Park Hyun Kyu](https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt) | [Unlock My Boss, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3tfCBm0ZGzC2Rdhx9kkAfh) | 3:15 | 2023-01-11 | 2023-01-24 |

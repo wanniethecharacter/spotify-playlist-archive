@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,151 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,152 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 79 | [Soldi Puliti](https://open.spotify.com/track/02OFJLIZuX5l0IKApndnkh) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Soldi Puliti](https://open.spotify.com/album/0EGdVToK2bi2arUQ1PWtY4) | 2:39 |
 | 80 | [La zone \(feat\. Shiva\)](https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [La zone \(feat\. Shiva\)](https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M) | 2:38 |
 
-Snapshot ID: `MTY3NDE0MjI4MywwMDAwMDAwMGFmNTY3YmQyYWY1MDNjZGU4ODlkNGQ0MWY3NThjZTMw`
+Snapshot ID: `MTY3NDE0MjI4MywwMDAwMDAwMDliMTk2M2U2NTQxM2MyYjY1ZWQzNjRhOWE2ZTM4NzI3`

@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-353 songs - 15 hr 24 min
+356 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Ballad](https://open.spotify.com/track/0I3MZaEMddQfkUjRTEYWA2) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Orpheus](https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv) | 2:51 | 2022-12-22 |  |
 | [Barren Lands](https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Barren Lands](https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ) | 2:19 | 2022-03-01 |  |
 | [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2021-12-07 |  |
-| [Belonging](https://open.spotify.com/track/6RQo40Vh1f5NCn14I04Kpp) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Belonging](https://open.spotify.com/album/4xFCnNBnu0rDejXyJa6P89) | 3:38 | 2022-06-07 |  |
+| [Belonging](https://open.spotify.com/track/6RQo40Vh1f5NCn14I04Kpp) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Belonging](https://open.spotify.com/album/4xFCnNBnu0rDejXyJa6P89) | 3:38 | 2022-06-07 | 2023-03-15 |
 | [Beneath the Waves](https://open.spotify.com/track/16HrDFed6T82sUdFy0S14W) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Beneath the Waves](https://open.spotify.com/album/6bCloCt5prFJNtHzfYWOQ1) | 3:10 | 2022-04-21 |  |
 | [Blund](https://open.spotify.com/track/0duYOyKFVmUrJpDhmKaIyW) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Blund](https://open.spotify.com/album/5v1lS8JfFsyrxPCbTbVchK) | 2:46 | 2021-12-07 |  |
 | [Breathe](https://open.spotify.com/track/3gtL7UMzcc54SjrOT0ZZE4) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Breathe / Debris](https://open.spotify.com/album/2wb8IcAFeV3ndOH36qTsRH) | 2:30 | 2021-12-07 |  |
@@ -110,6 +110,7 @@
 | [Forever & Always](https://open.spotify.com/track/5hLVKQBumXZ9DhK6khCiOP) | [Tom Stannard](https://open.spotify.com/artist/6rDF0xaV7KBIlI5t9zs6EZ) | [Forever & Always](https://open.spotify.com/album/7B03e9Eebco3A1QGyFcBxj) | 2:06 | 2021-12-07 | 2022-06-08 |
 | [Fragment](https://open.spotify.com/track/3VBPPIu4MGBnMj4SF8sJBJ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:33 | 2021-12-07 | 2022-04-22 |
 | [Frühlingsbach](https://open.spotify.com/track/5q3d5I3rMvfKAuyDvmBwwe) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Frühlingsbach](https://open.spotify.com/album/08s8yCYnuv2L21WxgomVTb) | 2:51 | 2021-12-07 |  |
+| [Fårö](https://open.spotify.com/track/1eAIx6ZkhGBb20lkDABhy9) | [ODELIO](https://open.spotify.com/artist/69WozQ1x904JxonDiYM4ax) | [Fårö](https://open.spotify.com/album/1nsTkxa7rQtTCJQlwV4mfc) | 1:52 | 2023-03-14 |  |
 | [Gdansk](https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Gdansk](https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR) | 2:27 | 2021-12-07 |  |
 | [Gentle](https://open.spotify.com/track/5XtP7nT6y4Yl8BhnPkDLjr) | [Lennox Cole](https://open.spotify.com/artist/4ZJ87FCTeqG6E14EkGqXpi) | [Gentle](https://open.spotify.com/album/4MVDKPNV0q07arvLobByMW) | 2:12 | 2021-12-07 |  |
 | [Glendale Walk](https://open.spotify.com/track/30bKGGrB4CdUU1FrhDbjE8) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Glendale Walk](https://open.spotify.com/album/5foJvhdGbJtArvZjVzl7ER) | 3:07 | 2021-12-07 | 2023-01-27 |
@@ -181,6 +182,7 @@
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2021-12-07 | 2022-07-29 |
 | [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-07-19 |  |
 | [Lullaby](https://open.spotify.com/track/6kPyPhrxTK85bPB3DuvjME) | [George Hart](https://open.spotify.com/artist/6OxbaDDKrLN3DgWrl4JHS6) | [Lullaby](https://open.spotify.com/album/7luSqY1qpa7KQWiyHMsSVR) | 2:05 | 2023-01-26 |  |
+| [Luna Llena](https://open.spotify.com/track/11WbYgcb6E1FT0ouyqhopV) | [Jovian Findlay](https://open.spotify.com/artist/5sG1B4jyp6nDdgZZlQW3O5) | [Luna Llena](https://open.spotify.com/album/1cNgRDVEReVsIxA6i7Ap7Z) | 2:01 | 2023-03-14 |  |
 | [LYR](https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK) | [Aeden Azora](https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX) | [LYR](https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H) | 3:00 | 2022-10-14 | 2023-02-22 |
 | [Ma meilleure année](https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5) | [Amour Lesauvage](https://open.spotify.com/artist/6qx6GDbg4utV2vDQvS2I4k) | [Ma meilleure année](https://open.spotify.com/album/30w5d5wLvQ3zkV9jXAAded) | 2:35 | 2022-01-04 |  |
 | [Marigold](https://open.spotify.com/track/2lKWcuILwTVURJflD1vka8) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Marigold](https://open.spotify.com/album/64jyz6k12xJwCirt5ZIgvb) | 1:55 | 2021-12-07 | 2022-03-17 |
@@ -196,6 +198,7 @@
 | [Mezzogiorno](https://open.spotify.com/track/20iXuObDDyAfZ8R9VyjSUq) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Mezzogiorno](https://open.spotify.com/album/5YRrHQxyeeWBTQI4btqRSV) | 2:59 | 2022-11-18 |  |
 | [Modern Mysteries](https://open.spotify.com/track/7mS1QFR4914xDutXZCWqvW) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Modern Mysteries](https://open.spotify.com/album/1yXfbvmskN1VvFog6B1J9G) | 2:36 | 2022-07-19 |  |
 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 | 2021-12-07 |  |
+| [Moments of movement](https://open.spotify.com/track/2hHiDZt7uHjaIIUa2H9qBU) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Moments of movement](https://open.spotify.com/album/0gLpOwvM4ZUnonSZV5Odp3) | 2:12 | 2023-03-14 |  |
 | [Mond \- Piano Version](https://open.spotify.com/track/5VGWn67OKkc1UZzxtclMnm) | [Stiehler](https://open.spotify.com/artist/3t6PFvpjhve61oCENXXrh9) | [Mond \(Piano Version\)](https://open.spotify.com/album/3dJJ0wTbifqnYIGI5pTdII) | 2:54 | 2022-05-06 |  |
 | [Mondegreen](https://open.spotify.com/track/6BKGokQ3PKLFqBlCBjCy8J) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Mondegreen](https://open.spotify.com/album/1TWsYhkMKywsJN0fNA08Yt) | 2:24 | 2022-03-16 |  |
 | [Montauk](https://open.spotify.com/track/2aYaaYfQ5VY6NrpzuaUb38) | [Rebecca Jean Rossi](https://open.spotify.com/artist/7glMKJlAKPc4VqtQiR1qwt) | [Montauk](https://open.spotify.com/album/6cu1Llxho99KdhDVHSNIPV) | 3:08 | 2022-05-27 |  |
@@ -287,7 +290,7 @@
 | [Skog](https://open.spotify.com/track/6SO2Oh12IbukgnkeSBOxW9) | [Frode](https://open.spotify.com/artist/6Mnuy8VToSC75uUGCSBqDD) | [Skog](https://open.spotify.com/album/1vDqp9KQA5MfjXeBo7sR4X) | 2:44 | 2021-12-07 | 2023-01-27 |
 | [Skärgård](https://open.spotify.com/track/5WHAPNyWoUYm8TB13lAVTX) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Skärgård](https://open.spotify.com/album/3HTVIw9HK66IcYjS5Z4QuV) | 2:19 | 2021-12-07 | 2022-08-10 |
 | [Small River](https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [Small River](https://open.spotify.com/album/4KgOAj9Yq69syNN2mqw3dI) | 2:04 | 2021-12-07 |  |
-| [So Close](https://open.spotify.com/track/2cQ5XGvt8Yo5sNlvPLWYp3) | [Sander Bjerke](https://open.spotify.com/artist/5CNvO8oqz1vgXgVLKA4ehv) | [So Close](https://open.spotify.com/album/4sfzGdTKd1DCPLJwktCO3d) | 3:27 | 2023-02-21 |  |
+| [So Close](https://open.spotify.com/track/2cQ5XGvt8Yo5sNlvPLWYp3) | [Sander Bjerke](https://open.spotify.com/artist/5CNvO8oqz1vgXgVLKA4ehv) | [So Close](https://open.spotify.com/album/4sfzGdTKd1DCPLJwktCO3d) | 3:27 | 2023-02-21 | 2023-03-15 |
 | [Solace](https://open.spotify.com/track/2XpT1bngtM9pHoYEsfoYuu) | [Lucile Colbert](https://open.spotify.com/artist/2ztM0XfKnV9j8twCZI9qzK) | [Solace](https://open.spotify.com/album/5EUQ58DddJWsBvzcKnjewJ) | 2:04 | 2023-01-26 |  |
 | [Something \(Nothing\)](https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Ephemera](https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ) | 2:38 | 2021-12-07 |  |
 | [Sonata del Giardino](https://open.spotify.com/track/2wNBTbBMhZ1FDFx5US3u3o) | [Domani Fendi](https://open.spotify.com/artist/1GaEeF01ebT6znhYvW1s7b) | [Sonata del Giardino](https://open.spotify.com/album/1L0WoZmWBaqsMwbs8oa4wm) | 2:45 | 2021-12-07 | 2022-08-10 |

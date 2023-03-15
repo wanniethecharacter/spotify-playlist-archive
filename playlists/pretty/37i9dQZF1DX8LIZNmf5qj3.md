@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Chlöe
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,441 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,458 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Let's Talk About It](https://open.spotify.com/track/7ndcbnVmqORhDBMA0VPt4W) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Let's Talk About It](https://open.spotify.com/album/0J0aCszy6epzsN60DXaR2k) | 2:44 |
 | 50 | [Sensitive](https://open.spotify.com/track/59aIuvxf1TpntfDqbeynWt) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Sometimes, I'm Speechless](https://open.spotify.com/album/45Mb8i8kcqmoh1jZkqbLqE) | 2:54 |
 
-Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMDNjZGZjMGZjZmFhNDE3YmNlODYxMzMwZTAwOTBkZGJm`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMGMwMWVjYzRmYmIwMWI4ZTM5YzYyY2Q2NDI2NWY3ODBl`

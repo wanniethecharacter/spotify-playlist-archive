@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: BE:FIRST
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,048 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,077 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [Give Love](https://open.spotify.com/track/2A3ShNautqXezP1lFDePwa) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 2:56 |
 | 50 | [Sakura furefure](https://open.spotify.com/track/4i32VDJhNyNYeRmuSSGVFQ) | [THE SUPER FRUIT](https://open.spotify.com/artist/3I0DG4uOeYNPq5MCyHPPer) | [Sakura furefure](https://open.spotify.com/album/1TXAzr199OFgyoMhtPhZz4) | 3:53 |
 
-Snapshot ID: `MTY3ODQxNzIwMCwwMDAwMDAwMDdkMjgxZjYwNGI1MWJhOWM2OTZlYzY4NDc3ZjI1NTA5`
+Snapshot ID: `MTY3ODQxNzIwMCwwMDAwMDAwMDJkNjQxNzEzYjA4YWE5MmVjZTZlYTY1OTliZDg2MzVl`

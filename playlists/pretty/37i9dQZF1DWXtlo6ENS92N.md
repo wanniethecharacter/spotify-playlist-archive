@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 
 > B bole toh biggest blockbusters, right here! Koi Shaq? 😎 Cover \- Tu Jhoothi Main Makkaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,491 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,561 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 | 59 | [Tujhe Kitna Chahne Lage](https://open.spotify.com/track/5QtEFRYavs5S3GHtFEq7A4) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 4:44 |
 | 60 | [Tera Yaar Hoon Main](https://open.spotify.com/track/4ZTx87kAgEwlPMzoojFZWg) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 4:24 |
 
-Snapshot ID: `MTY3ODA3NDM1NiwwMDAwMDAwMDM5ZGFiMDFjYjMyMDgzNjJiMDlkMWI4ZDJjZGNhODVl`
+Snapshot ID: `MTY3ODA3NDM1NiwwMDAwMDAwMDgzOTJmMjU5MGFjMDYxYWI2NGM4YjIyOWQxNGIyMGIx`

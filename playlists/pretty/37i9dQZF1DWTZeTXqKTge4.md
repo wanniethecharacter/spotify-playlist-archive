@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: GreenWoodz
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,678 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,694 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Écart type](https://open.spotify.com/track/7elFP749giV9I0f1LQHeFM) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Astronaute](https://open.spotify.com/album/2A41RCTjlR4P888t6OfM89) | 2:54 |
 | 75 | [Hold Up](https://open.spotify.com/track/2BRWx7J7x96qi5yNCAjxKA) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 3:33 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDlkNGZiMzlmNDE3ZWVjZWI4YmJmYTU1YjEyNzA1OTkw`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDZjYzVkYTg4MTRjNDA2OGQzYzBkMzk3NjM1ZTI2MjVi`

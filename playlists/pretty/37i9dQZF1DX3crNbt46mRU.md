@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,263 likes - 109 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,267 likes - 109 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 41 | [The Race](https://open.spotify.com/track/28Uw7wcsuQQpm5xElRoiww) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Race](https://open.spotify.com/album/4BTzguyoRmiBkf9KYV60Dy) | 2:21 |
 | 42 | [Welt Bereisen](https://open.spotify.com/track/7kLlUTvjeCBC4PMSwUyy0u) | [lityway](https://open.spotify.com/artist/2fu4Q8SANwMZ2rWS5hqjcA), [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [Welt Bereisen](https://open.spotify.com/album/3uTR0uzQcB4oRXktlnvjyw) | 2:13 |
 | 43 | [simp](https://open.spotify.com/track/7jALRLtDWomS83yIjmUZI0) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [rocket science](https://open.spotify.com/album/1QGXwt2LukvLgFomHlhC41) | 2:43 |
-| 44 | [Passt nicht](https://open.spotify.com/track/0xFqVm6MhfcTr8pC69W6qY) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [Passt nicht](https://open.spotify.com/album/6Im662veLuZDcg2nx8Lqdm) | 2:50 |
+| 44 | [passt nicht](https://open.spotify.com/track/0xFqVm6MhfcTr8pC69W6qY) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [passt nicht](https://open.spotify.com/album/6Im662veLuZDcg2nx8Lqdm) | 2:50 |
 | 45 | [Dooh Dooh \(Stereo Sound\)](https://open.spotify.com/track/0pCgiDXakABvpav5gAwwBU) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4), [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Dooh Dooh \(Stereo Sound\)](https://open.spotify.com/album/2Vk9sx2NOlxu6RL2JtJEoZ) | 2:05 |
 | 46 | [Tanisha \(Pump That\)](https://open.spotify.com/track/5ckaFWaVWVfIcPFYfofmzH) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Tanisha \(Pump That\)](https://open.spotify.com/album/6GqEIfRc7ACkLQ2SGGqxFb) | 2:46 |
 | 47 | [Kompliziert](https://open.spotify.com/track/0VKqezUMwDKWAT7WqR373A) | [Leon Machère](https://open.spotify.com/artist/4NMbgO5NL6aXzSmQzAAYPP), [Nessa](https://open.spotify.com/artist/0To8tjDBkD8g2KMw2oGKT0) | [Kompliziert](https://open.spotify.com/album/07TH0h4wromnLSjgzL2X6V) | 2:34 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 108 | [Gehts dir gut](https://open.spotify.com/track/45AaovRE84Vn4lmywDmMsG) | [Jimi Blue](https://open.spotify.com/artist/40usISovKmbmSxl0UEIfCL) | [Gehts dir gut](https://open.spotify.com/album/2AiXrap3DWLiK2MN7WqY1J) | 2:27 |
 | 109 | [Quiet Love](https://open.spotify.com/track/10tdu8bNWJscbs91LMQMWv) | [Schiller](https://open.spotify.com/artist/4tRSX1e4hJYjMNdl1TkINg), [Tricia McTeague](https://open.spotify.com/artist/4HtWgflucbnz9e5IjPUOfQ) | [Illuminate](https://open.spotify.com/album/72J8PHW6WeZlsxyUssf51J) | 4:44 |
 
-Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMDQxNjRmZjExMDMwNjhhZmIyOGU0MzVkMmVlZTc5MWUw`
+Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMGQ5YWU5MzZmMmYzMjk5YzdkZTFhMWI2M2QxNDgyNTcw`

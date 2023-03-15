@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 975,939 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,168 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 99 | [Stardust](https://open.spotify.com/track/33rhFjtqI16a5Q0qI4VHaO) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [No Count Sarah](https://open.spotify.com/album/53B3ZugSBLBVQT9XftI5Xb) | 3:19 |
 | 100 | [Don't Sit Under The Apple Tree \(With Anyone Else But Me\)](https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Essential Glenn Miller](https://open.spotify.com/album/6dVUKIxSRafCpEGZ5prYlG) | 3:10 |
 
-Snapshot ID: `MTY3ODE5NDUxMiwwMDAwMDAwMDU5YTljOWQzM2NiY2FjYWM3YzFlZjNmZDhjNTkyYjU0`
+Snapshot ID: `MTY3ODE5NDUxMiwwMDAwMDAwMDhjZTU5MmU0YzJjZWEzNDI3Y2M1YTU0YWZkMzNlMTNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dWUhnBuLs.md) - [plain]
 
 > Los grandes éxitos de Emmanuel y Mijares en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,513 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,582 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dWUhnBuLs.md) - [plain]
 | 49 | [Todo Se Derrumbó \- MTV Unplugged](https://open.spotify.com/track/4TcLBhVL7oQqfxuo8CchcP) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:14 |
 | 50 | [Vencer al Amor \(feat\. Lucero Mijares\)](https://open.spotify.com/track/7dZNnvRCgtsYrvBFN01MNb) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [Rompecabezas](https://open.spotify.com/album/2ADfhnqAkJo0LTxfxtplLW) | 5:24 |
 
-Snapshot ID: `MTY0MTgyNDI0MSwwMDAwMDAwMDA3YjY5YTM1YTg5OGI4NzRmYTI0NzIzYmNmOGEzNjM5`
+Snapshot ID: `MTY0MTgyNDI0MSwwMDAwMDAwMGZlOGVmODA0ODc1MzM0YTI1MGFjNGQ0ZWUwMzE2OTUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Azevedo, BIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,741 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,856 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [Classe A](https://open.spotify.com/track/3LIqYiBl4x5F0xiLEIbnKI) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3), [MC Gueguel](https://open.spotify.com/artist/3molm66VKu9fbziv2QIOKo), [Cafiero](https://open.spotify.com/artist/4UXWiXHSiOrqPu87aZNyDJ), [Kost](https://open.spotify.com/artist/6O3wEFNP8bQ5IytKN2dwx0) | [Classe A](https://open.spotify.com/album/7t2sub0l7Ksaj39QF8MmZy) | 4:29 |
 | 50 | [Afrodisíaco](https://open.spotify.com/track/4N5X9gkfB7PUV8iE1P7pon) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:04 |
 
-Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMDAwMjE3YzQwZjNhZDcyOGZlN2Q5MmZkYjQ4ZTRhODA4`
+Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMGZlYzk1NmM1NzFiYjYzODI4YjY0YTEzYjlkMjE4ODEy`

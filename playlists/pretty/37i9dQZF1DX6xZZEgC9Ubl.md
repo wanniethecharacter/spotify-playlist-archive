@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 ### [tear drop](https://open.spotify.com/playlist/37i9dQZF1DX6xZZEgC9Ubl)
 
-> In your bag\. Cover: Kxllswxtch
+> Emo feels for the misunderstood\. Cover: BONES
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,449,722 likes - 100 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,450,036 likes - 100 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 99 | [Reckless](https://open.spotify.com/track/1CIxzzS0nVJNfk5wuN2MjM) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Reckless](https://open.spotify.com/album/1aSPP0cNC617X9tPtQUUlt) | 3:26 |
 | 100 | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW) | 2:57 |
 
-Snapshot ID: `MTY3ODcyODMxOCwwMDAwMDAwMDNmYzJkNDU4YjcwNjY3Yzc4NGJjMTRhMDQwODBjODVl`
+Snapshot ID: `MTY3ODgwOTYwOCwwMDAwMDAwMDhjYzI4MThkZTJhOWI0OTE2NDRiYjY3ODZhZWI1M2Zj`

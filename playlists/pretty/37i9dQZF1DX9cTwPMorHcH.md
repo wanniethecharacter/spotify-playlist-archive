@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,818 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,917 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 99 | [What Kind Of Woman Is This?](https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 5:17 |
 | 100 | [The Pleasure's All Mine](https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions](https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE) | 3:43 |
 
-Snapshot ID: `MTY2NzQ5MDkzNSwwMDAwMDAwMDM2YzVmMDhmNWM3ZjM3MTA1OWRhM2FmNGJlMDUwYzVh`
+Snapshot ID: `MTY2NzQ5MDkzNSwwMDAwMDAwMDNjYmFlMTU4MDdlNmI0MDkzNjA1MTAxMTdlMDNhZWI4`

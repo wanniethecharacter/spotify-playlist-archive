@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,681 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,809 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 69 | [La Que Se Fue](https://open.spotify.com/track/1alyNZG9KRgo9QEs7alv92) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Fiesta Mexicana](https://open.spotify.com/album/3YGaO3xZe4xrr1defiiv5q) | 2:49 |
 | 70 | [El Jinete \- Remastered](https://open.spotify.com/track/3enUz3EjVKgcrL7q8Q2HuW) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Grabaciones Completas \(Remastered\)](https://open.spotify.com/album/3DhnqhKYzQ8tKtUUOLJcnX) | 2:59 |
 
-Snapshot ID: `MTY0MzE1MzkxMSwwMDAwMDAwMGFhMGViZmUzZjZiOWZhMzE0NDY5NWQxNWNmY2E2ZTVm`
+Snapshot ID: `MTY0MzE1MzkxMSwwMDAwMDAwMDgzMzg4NTI0YmRlYzM5MDMwODg1ZWQ5YzllNjgxOTNh`

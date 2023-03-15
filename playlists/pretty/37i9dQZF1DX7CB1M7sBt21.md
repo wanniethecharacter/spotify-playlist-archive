@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 287 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 79 | [Everywhere \(feat\. Maya Avedis\)](https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk) | [XO Cupid](https://open.spotify.com/artist/1Fy4Vnoq3HspYLrgEs9VNc), [Maya Avedis](https://open.spotify.com/artist/64msO0RZHKEtUsVvNtOrS4) | [Everywhere \(feat\. Maya Avedis\)](https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8) | 2:56 |
 | 80 | [Coffee \(Give Me Something\)](https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Coffee \(Give Me Something\)](https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe) | 3:09 |
 
-Snapshot ID: `MTY3ODA5NDU5OSwwMDAwMDAwMGE4ODJmYjVjMGU3N2Q5NjljNmJkYTZkNzdiNjQ1OTc5`
+Snapshot ID: `MTY3ODA5NDU5OSwwMDAwMDAwMGRhN2NiNDk3YWM5ZDYwYTY5NzNjYTk5ZDllOGViODU0`

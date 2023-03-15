@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,680 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,784 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [You Ain't Telling Me Shit](https://open.spotify.com/track/3eccAxEJG48KjYCT1rqBUC) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [You Ain't Telling Me Shit](https://open.spotify.com/album/1kWRE5YZW0onMi01j5M2da) | 2:54 |
 | 100 | [Locked Up](https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [Locked Up](https://open.spotify.com/album/76rwBzfgCJLi9bwg1WGFla) | 3:53 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGRjYjc4MWNhYzk0MzFhOTMxOGUwNTJmNWEwOGJlM2Uy`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGJkMTQyZmU2MTg5YTM4YWE5NzJiOTI4MzEzY2I4NDM2`

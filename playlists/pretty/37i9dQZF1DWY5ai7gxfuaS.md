@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The most innovative and forward thinking metal right now\. Cover: Static\-X
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,797 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,040 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 79 | [Providencia III \- La Flora Que Crece Alrededor de Nuestras Catedrales](https://open.spotify.com/track/40ka2TBKZf7bPubTAE4xHT) | [Huszar](https://open.spotify.com/artist/1l1A8JuXGHt8QY7W37dU9C) | [Providencia](https://open.spotify.com/album/5hqcP9226vpEkLWr8bzQRL) | 7:24 |
 | 80 | [Synopsis](https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX) | [Mountain Eye](https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz) | [Synopsis](https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG) | 3:22 |
 
-Snapshot ID: `MTY3Nzg2MTAxNCwwMDAwMDAwMDFiNTNkNjM2OTQzZTRmMGFkOWQ2ODRiNmE3MjgwOWU2`
+Snapshot ID: `MTY3Nzg2MTAxNCwwMDAwMDAwMDlhN2U1Yzk2MTk4YzRjYjRkYzljOGQwN2EzNjE1NzA5`

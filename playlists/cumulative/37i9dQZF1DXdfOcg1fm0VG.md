@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-143 songs - 8 hr 17 min
+144 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Prelude and Main Titles](https://open.spotify.com/track/3XjWFz19CqI8IP1h5JdSdH) | [Never Alone](https://open.spotify.com/artist/00FJJnZ8342BcvhZvAQkOD) | [Never Alone \(Original Soundtrack\)](https://open.spotify.com/album/01aAZS4vF5Rpe1ak4Ngcf3) | 3:09 | 2021-12-15 | 2022-07-09 |
 | [Promise of the West \(feat\. Julie Elven\)](https://open.spotify.com/track/4AXy57QDFmqdKAhvbM3yAP) | [Joris de Man](https://open.spotify.com/artist/7FzXqfhbeFzALmcyi1j90U), [Julie Elven](https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv) | [Promise of the West \("Horizon Forbidden West" Reveal Trailer Theme\)](https://open.spotify.com/album/7g2KZmy9miQS6uWY35H8kC) | 2:55 | 2021-12-15 |  |
 | [Préludes / Book 1, L\. 117 \- Arr\. Dan Golding: Minstrels](https://open.spotify.com/track/5PjcWKOgKS9eclq2J0uJV5) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Dan Golding](https://open.spotify.com/artist/6yL1j20yrcLtfc8Fb9a4hM) | [Untitled Goose Game \(Original Soundtrack\)](https://open.spotify.com/album/7y8Ihc6D0V71csR3xP8uAj) | 2:27 | 2021-12-15 | 2022-03-15 |
+| [Quiet Water](https://open.spotify.com/track/0gt76DuMx7F3UZJPg7jcC5) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 0:32 | 2023-03-14 |  |
 | [Rift Apart](https://open.spotify.com/track/4MJ5RyJXc0COLaoeBxvgpw) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb), [Wataru Hokoyama](https://open.spotify.com/artist/6UZmaOjwzTSWYflEx9LFX6) | [Ratchet & Clank: Rift Apart \(Original Soundtrack\)](https://open.spotify.com/album/4Dq65Lwt50IB0eAKuT10nC) | 3:19 | 2021-12-15 |  |
 | [Saber's Edge \(Final Fantasy XIII\)](https://open.spotify.com/track/6yt8SuNkqup43idePXmKt2) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds V: More Music from Final Fantasy](https://open.spotify.com/album/2GsWyD8lhE7lOjRSbqQPLD) | 4:15 | 2021-12-15 | 2022-07-16 |
 | [Save Room](https://open.spotify.com/track/3zudlPMpi7uCXuaAQiyd9D) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 0:41 | 2021-12-15 |  |

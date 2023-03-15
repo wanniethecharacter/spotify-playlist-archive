@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,213 likes - 254 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,369 likes - 254 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -263,4 +263,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 253 | [Open Skies](https://open.spotify.com/track/5lP90jpZwrWDr9KoFmNQux) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [muun](https://open.spotify.com/artist/6R0LlvMD1ig3Hplf2IyhRf) | [Open Skies](https://open.spotify.com/album/7GzoQgQRZiLz14ByYZOIPN) | 2:06 |
 | 254 | [Adventure Time](https://open.spotify.com/track/49qgo51BRqysyr1FdfGCi7) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [Lost in Space](https://open.spotify.com/artist/62aXOeeoR4j8XjHRJXIhMf) | [Lasting Memories](https://open.spotify.com/album/75vXCfbM1TdyfXLgMC1hyS) | 2:11 |
 
-Snapshot ID: `MTY3ODI3NDA2NSwwMDAwMDAwMDZjMzU1ZTU4OTViY2ZhM2UzMjY2YzE3ZjQ4ZDk3ZjE1`
+Snapshot ID: `MTY3ODI3NDA2NSwwMDAwMDAwMDYyMWI3NDdjMDhlYTg0MTgyZjgyMzM4MWU5YjY4ZTcz`

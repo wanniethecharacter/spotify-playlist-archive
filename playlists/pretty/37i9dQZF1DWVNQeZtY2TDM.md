@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: MC耀宗
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,296 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,302 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 69 | [愛,不存在? \- 劇場版](https://open.spotify.com/track/5QAaM2hr88Upn81PfVw3PP) | [高薛立德Leader](https://open.spotify.com/artist/4pMioqEiMkyroTlDHHQzy7), [Ryou](https://open.spotify.com/artist/3CP5UzXkbN6WWg3qIAejzs), [鄭媙](https://open.spotify.com/artist/40EE1sGYh8czibKCNtDCCo) | [愛,不存在? \(劇場版\)](https://open.spotify.com/album/1NmgL8U5ThFPG0tmWEca11) | 3:15 |
 | 70 | [Red Line](https://open.spotify.com/track/4R7pZNBDI3IMs5vyoWEaGv) | [頑童Mj116](https://open.spotify.com/artist/7aMQdNM05rPkcHS1ethHUx) | [Red Line](https://open.spotify.com/album/0QYJALkekmTQcJ2BQPpr4o) | 2:37 |
 
-Snapshot ID: `MTY3ODY3MjIyNywwMDAwMDAwMDRjYTFmMmJkZGMzM2NjNDhjZmIxYTVlMmRmZDM0NmVi`
+Snapshot ID: `MTY3ODY3MjIyNywwMDAwMDAwMGE5Zjc4YmZiNGI3YTBkMDk2ODNlMGU4MzY5ZDAyOGY5`

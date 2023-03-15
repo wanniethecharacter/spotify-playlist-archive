@@ -1993,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "UNDERTALE Soundtrack",
+        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
+      },
+      "artists": [
+        {
+          "name": "Toby Fox",
+          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32000,
+      "name": "Quiet Water",
+      "url": "https://open.spotify.com/track/0gt76DuMx7F3UZJPg7jcC5"
+    },
+    {
+      "album": {
         "name": "Ratchet & Clank: Rift Apart (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4Dq65Lwt50IB0eAKuT10nC"
       },

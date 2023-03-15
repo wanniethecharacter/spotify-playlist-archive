@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Hozier",
-  "num_followers": 46800,
+  "num_followers": 46869,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDA4YTBkZmU3ZDFhZDQ5MzJjNWRmY2Q4NjY0NjA4MmY4",
+  "snapshot_id": "MTY3ODgwNjg3NywwMDAwMDAwMGNjMTJiYTk4ZjQxZWM2YzMzOGU4MmFlOGVkN2I4YmNh",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS"
     },
     {
+      "added_at": "2023-03-14 15:14:37",
+      "album": {
+        "name": "Live at Bo Bash 2021",
+        "url": "https://open.spotify.com/album/58QZnkI7wZjq1OhHyBoo0M"
+      },
+      "artists": [
+        {
+          "name": "Nolan Taylor",
+          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
+        }
+      ],
+      "duration_ms": 208955,
+      "name": "68 - Live",
+      "url": "https://open.spotify.com/track/40TGxZwQQG6cDHelPqiQSp"
+    },
+    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Until I Found You",
@@ -135,22 +151,6 @@
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Norm",
-        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "Catch Your Eye",
-      "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Norm",
+        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "Catch Your Eye",
+      "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "The Walls Are Way Too Thin",
         "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 190216,
       "name": "The End",
       "url": "https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk"
-      },
-      "artists": [
-        {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
-        }
-      ],
-      "duration_ms": 215111,
-      "name": "Beat of My Heart",
-      "url": "https://open.spotify.com/track/44fTa1co7zmof732liprRg"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

@@ -606,7 +606,7 @@
     {
       "album": {
         "name": "Point (Mixed)",
-        "url": "https://open.spotify.com/album/66cAQS8NL49Z8SOHHLs0G6"
+        "url": "https://open.spotify.com/album/1ZZHtX5ztamqoYwxqAnVNh"
       },
       "artists": [
         {
@@ -621,6 +621,28 @@
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 66000,
+      "name": "Point - Mixed",
+      "url": "https://open.spotify.com/track/1xucXmi3Sie43p3nZ4F4Hz"
+    },
+    {
+      "album": {
+        "name": "Point (Mixed)",
+        "url": "https://open.spotify.com/album/66cAQS8NL49Z8SOHHLs0G6"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        },
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
       "duration_ms": 66000,
       "name": "Point - Mixed",
       "url": "https://open.spotify.com/track/5beBbkRTZOnyvBuEoLPVI5"

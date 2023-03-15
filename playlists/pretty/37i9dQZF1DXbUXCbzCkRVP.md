@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,933 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,004 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 79 | [Ode to Lynn Taitt](https://open.spotify.com/track/2IkeeV6KxreS3OJu2r4r8b) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Cindy Cashdollar](https://open.spotify.com/artist/1Geygkl2ueTUPSA6EkUaj4) | [Ode to Lynn Taitt](https://open.spotify.com/album/43TTJfYeftVYRqyi6kXw6h) | 3:01 |
 | 80 | [The Clock Strikes Twelve](https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Go Bo Diddley](https://open.spotify.com/album/71lvfHjjLerIFN8ZNSrqIe) | 2:57 |
 
-Snapshot ID: `MTY3Nzg2NzE1MSwwMDAwMDAwMGNkMzE0NmI4YTFmZTM1Zjg3MzVmYmUyNWExNTFiMjQy`
+Snapshot ID: `MTY3Nzg2NzE1MSwwMDAwMDAwMGQ5ZmI4ZDkwNzFjMTkwNTUyNDQyZWFkNTZkM2YyN2Ni`

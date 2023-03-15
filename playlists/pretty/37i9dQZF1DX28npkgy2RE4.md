@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Drugdealer
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,538 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,657 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [I Feel an Urge Coming On](https://open.spotify.com/track/501jsSXfxhgClQe4UDrofk) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Nick Waterhouse](https://open.spotify.com/album/1e1FoOAXam30VAJJb4q4Zk) | 3:20 |
 | 150 | [This Is Your Life](https://open.spotify.com/track/3zaFz69Xfh3EnN9f1S0Nd3) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Welcome Home](https://open.spotify.com/album/0b4TocuPShTGNAFy5tZx73) | 4:13 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDlmNGNjOTc1MDkxOTYwYjMyYzYzZTBkNTI4Yzc3NjMx`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDY2ODllMmRmNjU2ZTIzOWI5ZWY1MDJjM2QwNmY4ODMx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,323 likes - 150 songs - 12 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,322 likes - 150 songs - 12 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [Just The Cross](https://open.spotify.com/track/4rL4jepFTo9OeQ3A0bFej9) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Reborn](https://open.spotify.com/album/32Wr0t52xLB961RcVbsfDI) | 5:57 |
 | 150 | [When I Survey \(The Wondrous Cross\) \- Live](https://open.spotify.com/track/3OHj3fzeyn0854r7Xl6MMH) | [Kathryn Scott](https://open.spotify.com/artist/7HJ2qHT3pTpbEpLs7kGBCt) | [Satisfy \(Live\)](https://open.spotify.com/album/5hFzKLzolMNHxndo0gkf9J) | 3:57 |
 
-Snapshot ID: `MTY3NjY5OTY5OSwwMDAwMDAwMGZjNzgwY2MyNjU1M2EyNjc4YmNkNDY2NDQ3NzYyMWI4`
+Snapshot ID: `MTY3NjY5OTY5OSwwMDAwMDAwMGUwNTE0NTlmN2Q5MmFjMTcwNGEwYWY0NjdjN2VkZjVh`

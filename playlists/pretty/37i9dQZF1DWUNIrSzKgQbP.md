@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Snowy days, cozy nights\. Soak up the spirit of the season with lush, intricate acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,670,109 likes - 66 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,670,023 likes - 66 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 65 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 |
 | 66 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDJjOWYyYjhkZWUxMTM5ODA2N2RiM2E0YzUyMWIxODI0`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDVmMjc5MDU2YzAxMzNmMjdmM2IzNTYxYmZjYmJmZjJj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,377 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,391 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 74 | [Mais um Som de Amor](https://open.spotify.com/track/74vWxQDutYLap7sNfZlaux) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [Bella Mattar](https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3) | [Mais um Som de Amor](https://open.spotify.com/album/6s8zmjO54RlZqp76NmViiy) | 3:34 |
 | 75 | [Ela Não Cansa](https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ) | [Coffee Zk](https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK), [Mel](https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94) | [Ela Não Cansa](https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H) | 2:54 |
 
-Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMDk0NjA5MzU0MjdiZTU0MWY4YTBjM2U4NzNkMGNhYzdl`
+Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMGIwZDFlMTYzNjA0NTg1MGE0MDIzZTY5ZTVhZTA5YmYz`

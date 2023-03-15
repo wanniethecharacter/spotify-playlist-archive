@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,802 likes - 150 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,961 likes - 150 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Love and Devotion](https://open.spotify.com/track/4VhujOlgo1NtVfXQkxwPaP) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss) | [A Deeper Cut](https://open.spotify.com/album/081mWFWjZU1Dyl2RspScxV) | 3:23 |
 | 150 | [You Fool No One](https://open.spotify.com/track/3VwX9gYYcPgxBMwFzxLVqT) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss), [Ian Paice](https://open.spotify.com/artist/2gNdXbhyIbXHWvurrlrUAq) | [You Fool No One](https://open.spotify.com/album/6vZ8EJfoHumz3tbNiFDpz0) | 3:46 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDdlZjA3OWIxYTViMjcxYjNmMWYzNzYxMTg4NzAwMjJk`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDEwMmYzMzgxNmIyM2MyZTlhN2E0NGRhYWIwMzY1YTRh`

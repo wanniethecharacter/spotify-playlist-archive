@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,654 likes - 88 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,666 likes - 88 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 87 | [Love Tale](https://open.spotify.com/track/0xuguGT4hciIZWGswErWMB) | [Derai](https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn) | [Love Tale](https://open.spotify.com/album/1xmXP9wEPOCbwYCHanF7yO) | 3:08 |
 | 88 | [Round & Round](https://open.spotify.com/track/1nGzJFZ5nmG4zS7s8s0CuG) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Round & Round](https://open.spotify.com/album/4E9ZtOGnrNEjiVEPcepMBU) | 3:16 |
 
-Snapshot ID: `MTY3ODQxOTQ4NCwwMDAwMDAwMDUxMWZmNjVkODRjZjI2YWMwNWE2MDZmMTJjYjczYTRm`
+Snapshot ID: `MTY3ODQxOTQ4NCwwMDAwMDAwMGFlYTMzMjgzZDcyOTRmNWY0NzJlODE0NDUzNTZhYmY4`

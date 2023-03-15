@@ -1,12 +1,12 @@
 {
   "description": "The newest Hip-Hop, refreshed weekly. Cover: Blxst, Roddy Ricch",
-  "num_followers": 246,
+  "num_followers": 278,
   "original_name": "All New Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNTkwMSwwMDAwMDAwMDQwNTJkZjg0MGVkNDU5ZThiOTJmMWQwYWFjZTA4OGMy",
+  "snapshot_id": "MTY3ODQyNTkwMSwwMDAwMDAwMGY4NTE3ZTMyODVhZjMxZmM3M2IzMDY5MzMxYmFlMDk3",
   "tracks": [
     {
       "added_at": "2023-03-10 05:25:01",
@@ -590,6 +590,10 @@
         {
           "name": "Omar Falcon",
           "url": "https://open.spotify.com/artist/7ADdWGpZInbXyv3knSiU4S"
+        },
+        {
+          "name": "FatZoe",
+          "url": "https://open.spotify.com/artist/4WiZGJkF9B6tJEKsJrYnm9"
         },
         {
           "name": "Paranoize",

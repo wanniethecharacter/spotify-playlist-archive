@@ -2043,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Fiume",
+        "url": "https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140124,
+      "name": "Fiume",
+      "url": "https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA"
+    },
+    {
+      "album": {
         "name": "Fleurs S\u00e9ch\u00e9es",
         "url": "https://open.spotify.com/album/7LeBN7j9XjqfRoxtUKIvV2"
       },
@@ -3640,6 +3658,24 @@
       "duration_ms": 152000,
       "name": "Matria",
       "url": "https://open.spotify.com/track/03wyufh9uNomZdlKIcQ0E4"
+    },
+    {
+      "album": {
+        "name": "Me Time",
+        "url": "https://open.spotify.com/album/5XOxeo91vjLNW9Oh91A49o"
+      },
+      "artists": [
+        {
+          "name": "Jakob M\u00fcnchen",
+          "url": "https://open.spotify.com/artist/5lzyS07BZQrvRmABhTmroF"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116206,
+      "name": "Me Time",
+      "url": "https://open.spotify.com/track/15ErabbOFwo4gEknWytsAG"
     },
     {
       "album": {

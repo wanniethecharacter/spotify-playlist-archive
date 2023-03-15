@@ -4,7 +4,7 @@
 
 > Enjoy music from "My Hero Academia"! 歴代OP/ED、サントラ曲で辿る<a href="http://heroaca.com/">「僕のヒーローアカデミア」</a>の世界。© 堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-80 songs - 4 hr 42 min
+81 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [THE DAY](https://open.spotify.com/track/1tjOClAkdMxDfYPO0xvGbG) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [Butterfly Effect](https://open.spotify.com/album/01X3RZ75rwi431u8hB34eK) | 4:01 | 2022-10-01 |  |
 | [THE DAY](https://open.spotify.com/track/5Nb08bCwVTjsqrK5wUCHtA) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [THE DAY](https://open.spotify.com/album/3CCLycmOuNfKZiZ2KScBxK) | 4:03 | 2022-10-11 | 2022-11-13 |
 | [The Hero Work Recommendation Project](https://open.spotify.com/track/4vbOT5lWQB92AC19x2VILp) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Heroes Rising \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SOxXWhi3EzFeaf2xnBwgk) | 3:15 | 2022-10-01 |  |
+| [The Next Me](https://open.spotify.com/track/7CkwAWQgVabTEMQo9JdXaP) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [「僕のヒーローアカデミア」サウンドトラックセレクション 2021\-2023](https://open.spotify.com/album/3MRlskbgnU3ULFv2fJmKq9) | 2:42 | 2023-03-14 |  |
 | [Trinity](https://open.spotify.com/track/0DllV6dwG26PTq513ZzUqY) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 1:18 | 2022-10-01 |  |
 | [We'll be everyone's heroes](https://open.spotify.com/track/4bT4iTECgzOCLIONpjdVh4) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』6th オリジナルサウンドトラック](https://open.spotify.com/album/7d3zzvGeMjqUSFo6qnEz2U) | 1:54 | 2022-12-13 | 2022-12-15 |
 | [We'll be everyone's heroes](https://open.spotify.com/track/6LznbpWs5WcsIqymkDPUa6) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 1:54 | 2022-12-13 |  |

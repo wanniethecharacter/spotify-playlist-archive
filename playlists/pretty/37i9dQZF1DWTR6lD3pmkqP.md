@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,845 likes - 250 songs - 20 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,912 likes - 250 songs - 20 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [Move](https://open.spotify.com/track/3HYCr4XXLZxMBqNQOvFNFR) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Move](https://open.spotify.com/album/0ylSLXxWjDXyvz2ghDuLeA) | 6:42 |
 | 250 | [Actual Proof](https://open.spotify.com/track/4Iilbf7sqOuxzAmt08j9Lk) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF), [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Actual Proof](https://open.spotify.com/album/1BKVI6Z8oknAjK1gHFUJ7G) | 3:21 |
 
-Snapshot ID: `MTY0ODc4NTY2MCwwMDAwMDAwMGZiNTQ5MWZmOThiOWNiYjkwZDExMGE4ZTQ2YjZhMTY0`
+Snapshot ID: `MTY0ODc4NTY2MCwwMDAwMDAwMDJiN2NlNzQ2YmFlMjVmMDFmNzgwYjczMzgxZDQ4Nzlk`

@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 166611,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
@@ -1840,6 +1840,24 @@
       "duration_ms": 203520,
       "name": "Location",
       "url": "https://open.spotify.com/track/5tzMYHFfYJksWb9AfFi93b"
+    },
+    {
+      "album": {
+        "name": "Lunar Spirits",
+        "url": "https://open.spotify.com/album/7gZaCDSfzWTxJ0arszwSI0"
+      },
+      "artists": [
+        {
+          "name": "Can\u00f8",
+          "url": "https://open.spotify.com/artist/61y7GkU4OOPseS05owEXtL"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399677,
+      "name": "Lunar Spirits",
+      "url": "https://open.spotify.com/track/26TzE87XsAR0zd9SkruqxB"
     },
     {
       "album": {

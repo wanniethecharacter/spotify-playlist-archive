@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,846 likes - 155 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,944 likes - 155 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 154 | [am Marienplatz](https://open.spotify.com/track/6aChaZyAJMXGE1dv3Hl1Py) | [Alexander Wurzler](https://open.spotify.com/artist/25W6u2VnVVME6ZEMSn9Kfa) | [Morgenstund](https://open.spotify.com/album/2ni9DbZXvKnvHyr5UbYAo5) | 2:49 |
 | 155 | [Salt of the earth](https://open.spotify.com/track/4CqfpazHWTsvO1AiSrtfwl) | [Meg Stiles](https://open.spotify.com/artist/6azAZkeJXuyfeAMVQ3YwU8) | [Salt of the Earth](https://open.spotify.com/album/2ilAYRZfti1IwkWeoTVNC1) | 3:02 |
 
-Snapshot ID: `MTY3ODQ1Mzg2NywwMDAwMDAwMDU2Yjk3NDI5YWY0N2Q0OGRlNmUwZmJhMWJjZWE2Zjc5`
+Snapshot ID: `MTY3ODQ1Mzg2NywwMDAwMDAwMGNjOGU4MWY1MTViMWFkOTEyZjI5Y2Q2ZmZhOGRlYTZm`

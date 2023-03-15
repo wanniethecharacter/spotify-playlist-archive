@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,964 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,019 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 53 | [Lullaby](https://open.spotify.com/track/7pkZMkcojXx5fG6DpdLhiF) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Lullaby](https://open.spotify.com/album/5ci1cWpUPVQw6k5zU54eRF) | 2:28 |
 | 54 | [My Stupid Heart \(with Lauv\)](https://open.spotify.com/track/1SVOLTmC627fn0XY9ltvx2) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [My Stupid Heart \(with Lauv\)](https://open.spotify.com/album/6yT57VsTlEjkZz6539dA8i) | 2:40 |
 | 55 | [Right](https://open.spotify.com/track/2bRNyQh32OGVHRS9DLiAKA) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Right](https://open.spotify.com/album/2a3d6V3ahlROz5M8eeHpUB) | 3:12 |
-| 56 | [Butterflies](https://open.spotify.com/track/33BFPA2AADvu2tiyLotov8) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Buttlerflies](https://open.spotify.com/album/79c0H3KKIc2uGlEotrhsl6) | 2:38 |
+| 56 | [Butterflies](https://open.spotify.com/track/33BFPA2AADvu2tiyLotov8) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Butterflies](https://open.spotify.com/album/79c0H3KKIc2uGlEotrhsl6) | 2:38 |
 | 57 | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu) | 3:02 |
 | 58 | [Made It Past October](https://open.spotify.com/track/08GWRVbcOrqwJXUszRxAii) | [CHELJI](https://open.spotify.com/artist/2ESWgVDISqTfO10g1OjXRO) | [Made It Past October](https://open.spotify.com/album/3bUmoJXvZA2HUKScrTfNEP) | 2:12 |
 | 59 | [Wings](https://open.spotify.com/track/4l61TlfmTwxt7PdzEe28rz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Wings](https://open.spotify.com/album/1gZbP4bJhkyyompPUyfAdj) | 1:58 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 73 | [This Time \(I Don't Wanna\)](https://open.spotify.com/track/5McIkhN2bSvCcjNUaMoWYZ) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [This Time \(I Don't Wanna\)](https://open.spotify.com/album/49gfNZqgZJ8StTogeghXGM) | 3:01 |
 | 74 | [Good, but not together](https://open.spotify.com/track/4XfgpMiAz9XG58pvq4ly9Q) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Good, but not together](https://open.spotify.com/album/7IJq7iIJ0JztktxLcoa0Sn) | 3:03 |
 | 75 | [Told You So](https://open.spotify.com/track/2Az8j2kikaFAwzF9q9ZQoU) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Told You So](https://open.spotify.com/album/3w63t3U6t3Sf2vLcy2Rrys) | 2:45 |
-| 76 | [Would you do it again?](https://open.spotify.com/track/5IhOaFkIHZmRZmcBDoOZjQ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Would you do it again?](https://open.spotify.com/album/3lPAuwRmYdKEQa71owI4ol) | 2:27 |
+| 76 | [Would you do it again?](https://open.spotify.com/track/4S3QaFRffd2LZH5kw0TytZ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Would you do it again?](https://open.spotify.com/album/0q4DIPAhsIhvnrYrHVVv7n) | 2:27 |
 | 77 | [1/2 as good as her](https://open.spotify.com/track/7yE6MawffFg35US7sze1qy) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [1/2 as good as her](https://open.spotify.com/album/4bvYih4k6GucaUEgS0fIXv) | 3:20 |
 | 78 | [Bruises](https://open.spotify.com/track/5kUqU9uLc98ndpJiqieN8K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone \(Deluxe\)](https://open.spotify.com/album/1KSAqXIHFEWo73keoru7FX) | 2:41 |
 | 79 | [Not A Friend](https://open.spotify.com/track/4HEevHV7V3J3R0hNOE3SdP) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz) | [Not A Friend](https://open.spotify.com/album/01zWIecBsNp4MjncbkzF13) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Lost Boys](https://open.spotify.com/track/0DLskw2mycbviyt3VjdDvU) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Lost Boys](https://open.spotify.com/album/7xxovtL5c5rGIECZxnvcOE) | 3:10 |
 | 100 | [PANIC](https://open.spotify.com/track/1elZUiLAgrrivs3bEOTMUL) | [NSB](https://open.spotify.com/artist/4l1AJByOtdMSExWY5qoi46) | [PANIC](https://open.spotify.com/album/26PV2jHlnrB67cy5F1UKR6) | 2:48 |
 
-Snapshot ID: `MTY3ODQ2ODg1NywwMDAwMDAwMGRmNmViZGUxZTkyMTA4ZDk0MjkyMmQ3NjZiMGU0NjJl`
+Snapshot ID: `MTY3ODQ2ODg1NywwMDAwMDAwMGFjYjYxNDc2MmZmNmZmOGE4MWJiNTZmZGFiOTg4YzM3`

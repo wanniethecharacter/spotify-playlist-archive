@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 
 > All the indie disco platters that matter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,276 likes - 250 songs - 16 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,378 likes - 250 songs - 16 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 | 249 | [Gronlandic Edit](https://open.spotify.com/track/5boY1VZLXBJojafFINgnJF) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Hissing Fauna, Are You The Destroyer?](https://open.spotify.com/album/15Fb7HPHdy42No0l9KnXAZ) | 3:24 |
 | 250 | [Ready to Start](https://open.spotify.com/track/33X9miK4Xz7pNeVrc9RITG) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs \(Deluxe\)](https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F) | 4:15 |
 
-Snapshot ID: `MTY3Njk3MzUyNSwwMDAwMDAwMDBhMjM1Yzc5YWQ2YjcyNzY1M2E2MzMwMjFmYjdlN2Qz`
+Snapshot ID: `MTY3Njk3MzUyNSwwMDAwMDAwMGE2MjgyNGNkMzQzNzg2ZGZiN2I5ZjUyZTczOGFlY2Nk`

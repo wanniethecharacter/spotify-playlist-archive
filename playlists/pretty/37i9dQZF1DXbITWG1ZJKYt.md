@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in Jazz history\. Cover: Wayne Shorter
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,856,561 likes - 250 songs - 21 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,857,383 likes - 250 songs - 21 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 249 | [Cheek To Cheek](https://open.spotify.com/track/3MRu7wA7ziRNf2cZr9gqtb) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Irving Berlin Song Book](https://open.spotify.com/album/2hK70fCNOlYgTg0sQMzPbj) | 3:48 |
 | 250 | [Lover Man](https://open.spotify.com/track/0DuWyzeLH09PQcnOMJiRgE) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 3:17 |
 
-Snapshot ID: `MTY3ODE3NzY0NiwwMDAwMDAwMGUxODNmNTZjNTVjMDE5Yjc0ZjIxYTU3Mzc5ODg5ZjM0`
+Snapshot ID: `MTY3ODc4MzA5NiwwMDAwMDAwMGZjOWY2OTVlNWYwNzdhMDY3ZDJjNjAwMGVjNGNjM2Iy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,159 likes - 150 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,243 likes - 150 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 149 | [Like Someone In Love](https://open.spotify.com/track/1Td5BcPlFaDctmFFAbcILg) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Make Someone Happy](https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm) | 3:30 |
 | 150 | [Dear December](https://open.spotify.com/track/5BfkVCI8z3idTK0IDjaW9u) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Cecilia Persson](https://open.spotify.com/artist/3iRDzd9nJKqwfzMggbpCRv) | [Dear December](https://open.spotify.com/album/2qcJbRNeqt3GBJU7NebTl7) | 2:58 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDAzNTc2MGZmYWUzZmFmMjA0NWRhZTI1OTVlY2Q5NWY0`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDJiNmUzYmQ5NjA1OWM4MmRjZWYxYWU5NDAxMDI5MWZh`

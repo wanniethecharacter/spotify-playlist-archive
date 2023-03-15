@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY24WaVcCqqH.md) - [plain]
 
 > All the sweetest melodies, in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 985,643 likes - 65 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 985,724 likes - 65 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY24WaVcCqqH.md) - [plain]
 | 64 | [One I've Been Missing](https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Expanded Edition\)](https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8) | 3:12 |
 | 65 | [Wings \- Live from Spotify London](https://open.spotify.com/track/0fSjCWNcKwXi67UpDVqtBU) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Sessions](https://open.spotify.com/album/4Ea6kB7AvZSz9jRxviJrdI) | 3:54 |
 
-Snapshot ID: `MTYzNzk0NDk1MywwMDAwMDAwMGE1YzMzZjc2NTA2OWU1OGQxNDAyYjk4NDk4MzYxNWYw`
+Snapshot ID: `MTYzNzk0NDk1MywwMDAwMDAwMGM3OWUzMWY2YjhmNGMzN2RmNDA0Yzc3ZjNjMTY3NDIx`

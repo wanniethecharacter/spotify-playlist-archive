@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,092 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,084 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 99 | [Song For Wermland](https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4) | [Rasmus Jenzen](https://open.spotify.com/artist/0dE07SkhpjSzABGjYGdVDc) | [Song For Wermland](https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA) | 3:46 |
 | 100 | [Spheres](https://open.spotify.com/track/2swLJNK900RQGq9ef3I1vo) | [Jade](https://open.spotify.com/artist/3kEZNTYPKnCakgPVLhTdzI) | [Spheres](https://open.spotify.com/album/15eSOvcTaJRtltxmljaSyH) | 3:07 |
 
-Snapshot ID: `MTY3ODM3ODY2NywwMDAwMDAwMDg2NjVkZDQ5YzNmNGFkZGQ5MThkNmYyZWJkNGY3MmYy`
+Snapshot ID: `MTY3ODc4NjYzNCwwMDAwMDAwMGU2MzA2NmIyMTdmNzMxYzViM2Y1ZWM3YzY3ODdhNzMz`

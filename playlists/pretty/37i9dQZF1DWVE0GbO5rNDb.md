@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 
 > Musica dance per le tue giornate di sole!
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,729 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,737 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 99 | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP) | 2:56 |
 | 100 | [Way It Is](https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [Way It Is](https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO) | 3:12 |
 
-Snapshot ID: `MTY3MTU0ODQxNSwwMDAwMDAwMDZjMTQyMjQzYmFjM2E2ZTQ0M2VhMjI4NzBiNDUxYjZh`
+Snapshot ID: `MTY3MTU0ODQxNSwwMDAwMDAwMGNmOTNlZDI1ODU5MmE4ZTQ5OGY1MDMwMzkwMGQ4MDJl`

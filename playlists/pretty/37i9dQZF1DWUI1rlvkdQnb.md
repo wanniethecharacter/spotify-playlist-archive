@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 
 > Soft, relaxing music for workout recovery.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,745 likes - 110 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,772 likes - 110 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 | 109 | [Parc Güell](https://open.spotify.com/track/1hOEj6667PNM1Y7a1xXfek) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/0AoLN81p8pWTCGh4UEX1TS) | 3:28 |
 | 110 | [Endless Fragments of Time](https://open.spotify.com/track/1UFmSqbxVtP5pl9r8KdeY1) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Endless Fragments of Time](https://open.spotify.com/album/12kcM5eBTpgQt2jLeb8sjL) | 3:36 |
 
-Snapshot ID: `MTY3ODM3ODc5OCwwMDAwMDAwMDhmYzg3NTBjZWNkZjAxNjI3NDFhNTZjZDhlNmRmYmFk`
+Snapshot ID: `MTY3ODM3ODc5OCwwMDAwMDAwMDNmYjcxOWQ0MzMwNGMyNzFkODkzZjExOGQ5NWJmYjhj`

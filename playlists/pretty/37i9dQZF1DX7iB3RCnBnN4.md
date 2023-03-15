@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Every song with over 1 billion streams on Spotify\. Cover: Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,091 likes - 373 songs - 22 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,236 likes - 373 songs - 22 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -382,4 +382,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 | 372 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 |
 | 373 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 |
 
-Snapshot ID: `MTY3ODczMjU3MCwwMDAwMDAwMGVmYTE1NWIzMDc2YWNhNWMyN2I3NDNjMWJhMTQ1MzJi`
+Snapshot ID: `MTY3ODczMjU3MCwwMDAwMDAwMDhjMDIwY2ZkYzE1Yjc2NDhlMWM3YmNmMDIyNjJmZTQw`

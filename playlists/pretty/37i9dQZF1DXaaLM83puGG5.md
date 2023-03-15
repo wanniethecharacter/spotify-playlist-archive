@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going w/ Designer, LaQuan Smith for \#NYFW
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,252 likes - 86 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,569 likes - 86 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 85 | [No Sleeep \(feat\. J\. Cole\)](https://open.spotify.com/track/2j9bG8ErzwDyAr7QljgBBp) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Unbreakable](https://open.spotify.com/album/5DjjcPVGw8jJoF9SlsQJed) | 4:20 |
 | 86 | [Backstroke](https://open.spotify.com/track/1MHYcqRzapG1BOmvRlrNuG) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Complex Simplicity: 15th Anniversary Edition](https://open.spotify.com/album/5ds3BcAZoYcGl8H1yMbnHg) | 3:37 |
 
-Snapshot ID: `MTY3NjMxMjExMSwwMDAwMDAwMDk2ZTJkNDdkOWQ2NDIxZTAwNmRlYjBmYTg4NzEzZjVh`
+Snapshot ID: `MTY3NjMxMjExMSwwMDAwMDAwMGQ4MDhjZGE5ZTNiNTc5NDdhNGEyZTFlODg3NzFjODUy`

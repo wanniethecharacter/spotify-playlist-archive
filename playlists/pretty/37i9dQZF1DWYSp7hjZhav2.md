@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,331 likes - 69 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,555 likes - 69 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 68 | [Closed Doors](https://open.spotify.com/track/0UNbGjrR3WQgekwcTagh44) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Closed Doors](https://open.spotify.com/album/3pH6GlrVlPuxjs5Aulu93A) | 5:43 |
 | 69 | [At Your Gamut](https://open.spotify.com/track/2uJJfL2Yp7dcXTh2zdVQkN) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 7:06 |
 
-Snapshot ID: `MTY3NjQ5MzEzOSwwMDAwMDAwMGMwZGYzMTVjNDYzNGE5Y2FkYjE2Y2MyM2MzYzRkNjI2`
+Snapshot ID: `MTY3NjQ5MzEzOSwwMDAwMDAwMGYwZGJlZmY1YTRmZjliNmQzYjJjMTYzNmM1MDY4MmI4`

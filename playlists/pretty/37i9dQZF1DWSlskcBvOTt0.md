@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,255 likes - 100 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,525 likes - 100 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 99 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 |
 | 100 | [Alabora \- Foxall Pale Blue Remix](https://open.spotify.com/track/32hpq6FjVS2QrE5Z0q8Ffa) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo), [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Alabora](https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O) | 7:50 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDE5ZmRjY2Q3ZTllOWFkNjYyNGJhZjk4MzU1YjAyYTFm`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGJhZGQwM2M4ZWEzZTViNmJjYjdmMzZiNzk1NGM5MDM4`

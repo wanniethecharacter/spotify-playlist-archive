@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,410 likes - 113 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,418 likes - 113 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 35 | [Muddy Feet \(feat\. Sia\)](https://open.spotify.com/track/1S1WWTuydW6zljNeHOpZXe) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:16 |
 | 36 | [Henry St.](https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN) | 4:29 |
 | 37 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 |
-| 38 | [Addicted to you](https://open.spotify.com/track/6YRxaKuVqSSjZzUnoBqYZk) | [Colone](https://open.spotify.com/artist/0pQGruzS2qDKZKC2brjxA9), [Lim3](https://open.spotify.com/artist/1Sr5Z8blDO7kSnwiK3qxfi), [SUD](https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ) | [Addicted to you](https://open.spotify.com/album/2jDXwEnAZcRswFdxufO8gY) | 2:39 |
+| 38 | [Addicted to you](https://open.spotify.com/track/6YRxaKuVqSSjZzUnoBqYZk) | [Colone](https://open.spotify.com/artist/0pQGruzS2qDKZKC2brjxA9), [LIM3](https://open.spotify.com/artist/7jDWVPTMByGv5kIksAmLF7), [SUD](https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ) | [Addicted to you](https://open.spotify.com/album/2jDXwEnAZcRswFdxufO8gY) | 2:39 |
 | 39 | [Run Till Dark \(with Now United\)](https://open.spotify.com/track/0HJ4Tedj2QSKLQJWRH30Aw) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Run Till Dark \(with Now United\)](https://open.spotify.com/album/0hxfJ0C3ggfGV0OmszUMOV) | 2:19 |
 | 40 | [Money On My Mind](https://open.spotify.com/track/7C7XVzOXWx0vdOlS7D2ieH) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Money On My Mind](https://open.spotify.com/album/34NJpodehWmHpl3bLdhpP6) | 2:13 |
 | 41 | [Skyboy](https://open.spotify.com/track/2HFigR6saLng0ZUEr9ISCE) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Skyboy](https://open.spotify.com/album/1aBJUsmDLkDgfeZ2nCqHlm) | 3:31 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 112 | [Lighter Better](https://open.spotify.com/track/2aLLgMDijCDiNYYeDhEr1V) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Lighter Better](https://open.spotify.com/album/5kUx9LciOvOTrMEK98Hvrk) | 3:12 |
 | 113 | [Bloodshot](https://open.spotify.com/track/0eyaXlEiQOmUyQo0PC0PpT) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Bloodshot](https://open.spotify.com/album/2ZGm33efqRup92vVIxh1kw) | 3:24 |
 
-Snapshot ID: `MTY3ODQ0MTUzMSwwMDAwMDAwMDdmZmFjZjhkMDJiNDEyNTg5ZDU4YzhjZGIzYmE3MTM1`
+Snapshot ID: `MTY3ODQ0MTUzMSwwMDAwMDAwMGMxZGM0OTRlNWQ1ZTRiZmRhZjkyYjg0OWI2YTU3M2Fl`

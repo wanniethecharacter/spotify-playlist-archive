@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this Peaceful Indie Ambient mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,322 likes - 110 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,358 likes - 110 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 109 | [I Was Just Thinking](https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1) | 3:31 |
 | 110 | [White Sun](https://open.spotify.com/track/5ROW9ymB6dGoQzDRNxaJC6) | [JFDR](https://open.spotify.com/artist/5Lg2eWJA2ZmMnZszOYPMCJ) | [Brazil](https://open.spotify.com/album/5xVsJu0AcLyBxsGRg0EUbV) | 4:28 |
 
-Snapshot ID: `MTY3MTAzNjc0MCwwMDAwMDAwMGQ2Y2JhZDM2MmRmYzkzM2M0MDFmZjU3N2VjMGFhZWFj`
+Snapshot ID: `MTY3MTAzNjc0MCwwMDAwMDAwMGYwNmJkNjRlMmMzZWE2NzU0NjllMDAwMmE5ZmYzMTRi`

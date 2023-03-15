@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Adoradores cantando sobre o amor\. Foto: Paulo Cesar Baruk
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,956 likes - 68 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,991 likes - 68 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 67 | [Minha Jóia Rara](https://open.spotify.com/track/1PbHuaCO9IrBt51mwcV93I) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Amo Você Vol\. 18](https://open.spotify.com/album/6ZtjVbQ1Fo4d5xn47KfF11) | 3:58 |
 | 68 | [Perto de Mim](https://open.spotify.com/track/5N5c9pE8W7KFfV3C9kOLdt) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Perto de Mim](https://open.spotify.com/album/5tkfbVIirsXOLrEOD5C58y) | 2:48 |
 
-Snapshot ID: `MTY3ODQ5ODA4MSwwMDAwMDAwMGU4NTYxMGMyZGFlNGQyNmIyMjA5M2VkMDljY2I3ZDAx`
+Snapshot ID: `MTY3ODQ5ODA4MSwwMDAwMDAwMDNlYmFhNjdjNTUxZTBlMThjYzliOTczMTRlZDAzZDNi`

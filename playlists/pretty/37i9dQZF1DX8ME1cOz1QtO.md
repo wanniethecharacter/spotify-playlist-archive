@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,925 likes - 100 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,009 likes - 100 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Mirador](https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 15:36 |
 | 100 | [Part One](https://open.spotify.com/track/7CQFDhAbz7zLvtNcsl3qAB) | [Master Wilburn Burchette](https://open.spotify.com/artist/2EefjxRUX7kaLEifrs6jG1) | [Transcendental Music for Meditation](https://open.spotify.com/album/7MBKtyZEbWaoHfKbXbD8bB) | 15:10 |
 
-Snapshot ID: `MTY2NDg4Njk1OCwwMDAwMDAwMGQxMDEyZmI0NWFhOGQxOGJjNzI5MzdjNjM4ZjNjMDk0`
+Snapshot ID: `MTY2NDg4Njk1OCwwMDAwMDAwMDhlM2Y2MTkzYjlmMmQ3YzRhZmEyYWE1ZWE3YjBlMzhm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 
 > Acoustic versions of well\-known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,554 likes - 96 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,579 likes - 96 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 | 95 | [It Aint me \- Acoustic](https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [It Aint me \(Acoustic\)](https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV) | 3:12 |
 | 96 | [Irreplaceable](https://open.spotify.com/track/04dqYNkXUPAVc9ZfHYicW6) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Irreplaceable](https://open.spotify.com/album/597cDRdmbPhqWq8GpaJk1o) | 3:09 |
 
-Snapshot ID: `MTY3NTk5MDgwMCwwMDAwMDAwMGFlY2Q0M2MyOWU1ZTI0NjQxNmU5ZmNlMGYzNzZhNTNl`
+Snapshot ID: `MTY3NTk5MDgwMCwwMDAwMDAwMDAxMjliYWZiMjUyYzZmMzU1YTQyMTg5ZjhjMTNlNzZk`

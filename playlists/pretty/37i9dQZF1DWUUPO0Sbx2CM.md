@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,881 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,170 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 99 | [Out Of The Dark \- Petey Martin Remix](https://open.spotify.com/track/4SfcLgPBOZa0ZFtHt3HBXO) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB) | [Out Of The Dark \(Petey Martin Remix\)](https://open.spotify.com/album/79HDfZmxKg9v2NCsvpNboH) | 2:45 |
 | 100 | [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 |
 
-Snapshot ID: `MTY3NTc5MTgwMSwwMDAwMDAwMDY5Y2Q0Y2UxOGQ4MWRhYmYxNjJhMWM0MDVjOTlkZWI5`
+Snapshot ID: `MTY3NTc5MTgwMSwwMDAwMDAwMDU3ZTU1MTMzNGJlNDkwODgxNTA1MWE4YTIxMDE4NTU5`

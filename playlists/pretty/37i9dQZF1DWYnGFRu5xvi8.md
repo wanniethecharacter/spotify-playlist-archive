@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,252 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,288 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 99 | [Charge!](https://open.spotify.com/track/5QI2VaX6L6e44bu9dDlX77) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Chocobo's Dungeon 2\(Original Soundtrack\)](https://open.spotify.com/album/4UH6RNedh8HuSmhX2PlTPB) | 2:00 |
 | 100 | [「Battle at the Big Bridge \- arrange \-」 from FINAL FANTASY V](https://open.spotify.com/track/4mhti55dmnpfcWliFxwyOV) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 2:29 |
 
-Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMGVjMzBlMDhmNzBjODc2ZGI5NDBlMzQzZWYzZmY3NGFj`
+Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDI5MmFmMzI5MDIwNTA1Njc4N2I2MjllODg4NzU5OTM4`

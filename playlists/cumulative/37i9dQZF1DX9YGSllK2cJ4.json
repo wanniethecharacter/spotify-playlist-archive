@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/2OTzot2xyJqHg3x07R5YJZ"
+      },
+      "artists": [
+        {
+          "name": "Milo Edale",
+          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133292,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/0bdJQ3zKl2JfnFRYXGpPgZ"
+    },
+    {
+      "album": {
         "name": "Ros",
         "url": "https://open.spotify.com/album/5HhDwfAzAAR7NlMRtpsQ7k"
       },
@@ -2229,6 +2247,24 @@
     },
     {
       "album": {
+        "name": "Lentement",
+        "url": "https://open.spotify.com/album/68s563Nh1u4VTolbnEzPm7"
+      },
+      "artists": [
+        {
+          "name": "Odette Pineda",
+          "url": "https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131414,
+      "name": "Lentement",
+      "url": "https://open.spotify.com/track/5IsR52IBI6AWGxcmx0dj83"
+    },
+    {
+      "album": {
         "name": "Never ending Grace",
         "url": "https://open.spotify.com/album/6rCQs9lo5svYnmXkIBcV4y"
       },
@@ -3974,6 +4010,24 @@
       "duration_ms": 192593,
       "name": "Solas",
       "url": "https://open.spotify.com/track/2AwBq3Ecjq5IfpC5f897VY"
+    },
+    {
+      "album": {
+        "name": "Soleil De Printemps",
+        "url": "https://open.spotify.com/album/5YgADlrXYIu8D8zVVENFVo"
+      },
+      "artists": [
+        {
+          "name": "Martin La Pelle",
+          "url": "https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177386,
+      "name": "Soleil De Printemps",
+      "url": "https://open.spotify.com/track/3oCeHeT1LpAKRK7esg4S0R"
     },
     {
       "album": {

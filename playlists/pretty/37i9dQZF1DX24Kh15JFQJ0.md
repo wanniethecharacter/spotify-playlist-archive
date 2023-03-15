@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,640 likes - 134 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,685 likes - 134 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 133 | [Oughta Miss Me by Now](https://open.spotify.com/track/6RcWdxxvdKiEByaJM3WEny) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Tradition Lives](https://open.spotify.com/album/3DMgEWtAZKzePMRCkh34gO) | 3:37 |
 | 134 | [Born Ready](https://open.spotify.com/track/532uB7VNAJi3V6uRcLIKPm) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Born Ready](https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G) | 2:55 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDA4OTAwZTJiZDM1ZGM0ZTljN2RmYmJjMjA2NGRmZjJk`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGE1NDkxMjUzZmRkMTZhYzdkNDA3MTNiODMyY2VkZGQw`

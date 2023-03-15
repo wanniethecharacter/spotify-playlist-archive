@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Bella Shmurda
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,627 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,644 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 59 | [Cruise](https://open.spotify.com/track/0Op20pqChmir5R3Pd7rrC2) | [Korra Obidi](https://open.spotify.com/artist/5D7ylBByLFxsmDgJ40qoRn) | [Cruise](https://open.spotify.com/album/01D1nLJp5pNIxNDGjUJd7P) | 3:15 |
 | 60 | [BADDEST](https://open.spotify.com/track/4xTwTDFRbBqfXCx5tMmadx) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [BADDEST](https://open.spotify.com/album/2RljvYXkDwwa9oREPizmGL) | 3:45 |
 
-Snapshot ID: `MTY3ODQ0ODA5MywwMDAwMDAwMDEwNmU5MThmMTM1NDNhNjI2ZTBlMDQxZGQ1NDQ0NDgx`
+Snapshot ID: `MTY3ODQ0ODA5MywwMDAwMDAwMDVmNmEzMmIyOTY1Y2M0OTg0OGY0OGUyOTIxZTU4MDJl`

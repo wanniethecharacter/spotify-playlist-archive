@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. Artwork by Ian Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,880 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,822 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/album/3s8P0go7OUTdf9NzZFS15a) | 3:42 |
 | 100 | [Real Ones](https://open.spotify.com/track/364iH9PRTLwG7Lvr3MqPpa) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [Real Ones](https://open.spotify.com/album/68H6LwUmQnUtRxVitstmt4) | 3:48 |
 
-Snapshot ID: `MTY3ODQyNzY2MiwwMDAwMDAwMDQzMDUwOTg5NTU3ZWZkZjdhZDE1NGRmNTNmODJlNTAy`
+Snapshot ID: `MTY3ODQyNzY2MiwwMDAwMDAwMDU3M2Q0YTQ4MzVmNGQwY2UwZmI0YmY2OGRkOTJkZWFm`

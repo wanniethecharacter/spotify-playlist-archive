@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto:Dois P, Amabbi,  1Kilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,547 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,757 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 71 | [Algumas frases](https://open.spotify.com/track/08zbjBLRtTe5cSEJKDxiO5) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Algumas frases](https://open.spotify.com/album/3VZcWuRtvlvQeWjcwyChSm) | 3:21 |
 | 72 | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q) | 4:02 |
 | 73 | [Não Volto](https://open.spotify.com/track/0coMyavxt9GBli4voSWNgs) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Mc Cabelinho](https://open.spotify.com/artist/1h2EHQBKf0TVDiNDONHTsL), [Marginal Supply](https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Não Volto](https://open.spotify.com/album/0fCXdqv9FuTBhCujTgurSB) | 2:50 |
-| 74 | [Pode Me Esperar \(feat\. Meucci, Tasdan & Agatha\)](https://open.spotify.com/track/62FCtdHru9nNAJOGbzObi4) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Meucci](https://open.spotify.com/artist/7q5inmN8Sb3wfNtaLYZf8G), [Tasdan](https://open.spotify.com/artist/65qqCVZrZgynhVrsFka5HM), [Agatha](https://open.spotify.com/artist/5EGXi3LtVsybMb4XMnsNjY) | [Pode Me Esperar \(feat\. Meucci, Tasdan & Agatha\)](https://open.spotify.com/album/00rcJMuYMSrKDj1oKpzTCM) | 3:30 |
+| 74 | [Pode Me Esperar \(feat\. Tasdan & Agatha\)](https://open.spotify.com/track/62FCtdHru9nNAJOGbzObi4) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Tasdan](https://open.spotify.com/artist/65qqCVZrZgynhVrsFka5HM), [Agatha](https://open.spotify.com/artist/5EGXi3LtVsybMb4XMnsNjY) | [Pode Me Esperar \(feat\. Tasdan & Agatha\)](https://open.spotify.com/album/00rcJMuYMSrKDj1oKpzTCM) | 3:30 |
 | 75 | [Foda Que Ela É Linda](https://open.spotify.com/track/4saoLEiUcHah8wjObocRDq) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Tropicalia, Pt\. 1 \(AO VIVO\)](https://open.spotify.com/album/2yDb9A4k58djFPcENLbHxP) | 3:03 |
 
-Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMDY5NTczMDEwYWIyZGNlMjU3ZTJlZDRmNGI0MzUyZGZl`
+Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMDQ2MTIwNWExNjZlMDU3N2FiNTEwYTExYzkyNjM4MDUy`

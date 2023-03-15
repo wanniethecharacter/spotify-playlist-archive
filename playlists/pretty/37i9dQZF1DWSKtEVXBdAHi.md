@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,479 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [High On Your Love](https://open.spotify.com/track/1yavdxQOY4oqesNyn9eH68) | [The Waked](https://open.spotify.com/artist/1D953gELvYO8pd1hxk5swV), [Nora Andersson](https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq) | [High On Your Love](https://open.spotify.com/album/3gCgNvcccB3JTjF7KKkvlx) | 2:36 |
 | 80 | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/track/2MAkRdJohGSnQJXNcRZPIs) | [Pelago](https://open.spotify.com/artist/5kgwb87hriOMQstPRdvInn), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/album/5GyFeddVWHPmY3ETkD7e4T) | 3:09 |
 
-Snapshot ID: `MTY3ODQ0MzU0NiwwMDAwMDAwMDlmMTY3NGY2MTRiYjFiN2JlYWJiYjhkZGY5ODMzNGJh`
+Snapshot ID: `MTY3ODQ0MzU0NiwwMDAwMDAwMDFlYzlhNjNiNmRjYjQ4ODkwZDE2ZDQ4MzUwMDY0NTMw`

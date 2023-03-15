@@ -4,7 +4,7 @@
 
 > The fastest growing genre in 2022.
 
-53 songs - 2 hr 4 min
+54 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,9 @@
 | [Devil Eyes](https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or) | [Devil Eyes](https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl) | 2:16 | 2022-11-30 |  |
 | [Devil Ride](https://open.spotify.com/track/1HR0lYFetVM22vVwRETZiF) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Devil Ride](https://open.spotify.com/album/2VAYxDkiPWql7J52mhQX1X) | 2:15 | 2022-11-30 |  |
 | [DEVIL SOUL](https://open.spotify.com/track/7t0OaHwReZjPuEBImsRwvX) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC) | [DEVIL SOUL](https://open.spotify.com/album/0aK4cmOqiaYYr52r3hlRqu) | 1:53 | 2022-11-30 |  |
-| [Disaster](https://open.spotify.com/track/1xFRymLXeZNa95SHjpcdJZ) | [Hammound](https://open.spotify.com/artist/62Gv0hCZD1VtXunP8qgOKB) | [Disaster](https://open.spotify.com/album/0y7F0A5G3Ryam3ikA9Hcga) | 1:24 | 2022-11-30 |  |
+| [Disaster](https://open.spotify.com/track/1xFRymLXeZNa95SHjpcdJZ) | [Hammound](https://open.spotify.com/artist/62Gv0hCZD1VtXunP8qgOKB) | [Disaster](https://open.spotify.com/album/0y7F0A5G3Ryam3ikA9Hcga) | 1:24 | 2022-11-30 | 2023-03-15 |
 | [Disaster](https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag) | 1:24 | 2022-11-30 | 2023-03-11 |
+| [Disaster](https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC) | 1:24 | 2022-11-30 |  |
 | [Disaster](https://open.spotify.com/track/5Uz9ZPw5u13ngnstN00ZJq) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/4pe0uLLtb4nB0G1CzlPbSV) | 1:24 | 2022-11-30 | 2023-03-14 |
 | [DOWNING ME](https://open.spotify.com/track/3rxBuyFbUbsfslCAliycO7) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [DREAM](https://open.spotify.com/album/3Zo5srzZBKt75pN3MhAZ6W) | 2:12 | 2022-11-30 |  |
 | [DYNAMIC](https://open.spotify.com/track/3qVSfd3Z2fmJKfHZeOweyQ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DYNAMIC](https://open.spotify.com/album/3IsXhqut1v9sbGsID7VGcS) | 2:00 | 2022-11-30 |  |

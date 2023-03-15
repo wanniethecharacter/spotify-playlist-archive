@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > Écoute en boucle les hits tunisiens du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,391 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,462 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,19 +13,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 3 | [Galbi](https://open.spotify.com/track/0pD4zoFSCXvBkqka5j4qew) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Galbi](https://open.spotify.com/album/3LLJ8bmI6YrK73g6RhHEPK) | 5:22 |
 | 4 | [Ya Lil](https://open.spotify.com/track/3hvJHXAuKeSRSShUEl9v0c) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Lil](https://open.spotify.com/album/4jcoGlVZZi1hu3PhxxIeqB) | 2:46 |
 | 5 | [9ased Rabbi \- قاصد ربي](https://open.spotify.com/track/4OiyOUXW7IzOT8rHrSIzUh) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [9ased Rabbi \(قاصد ربي\)](https://open.spotify.com/album/6NU1cd9ixX7q50aeM0AhWl) | 3:44 |
-| 6 | [Hbibty Wini \- حبيبتي ويني](https://open.spotify.com/track/2Gru4OBnrGbfM7mIpts6Fk) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Hbibty Wini \(حبيبتي ويني\)](https://open.spotify.com/album/7jwGkqkRlEcpFIy0kcYH20) | 2:41 |
-| 7 | [Sous tension](https://open.spotify.com/track/6h0sdTa2cXLsHuxjd29clN) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Sous tension](https://open.spotify.com/album/4q73ju7gYbEFuZCr8Ex5kq) | 3:55 |
-| 8 | [Filamen \- فيلمان](https://open.spotify.com/track/5SfgODdv831EqaStxXB8el) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Filamen \(فيلمان\)](https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5) | 4:25 |
-| 9 | [Ech Sayer](https://open.spotify.com/track/7zmjWzVeM3boUMAXvIeHgS) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Souhail Al Hafi](https://open.spotify.com/artist/7HSoEJ0ShMhA62LkjDiI5S) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 4:18 |
+| 6 | [Stava Bene](https://open.spotify.com/track/19IVlD9YCOcPNaonf2YNNT) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 3:44 |
+| 7 | [Hbibty Wini \- حبيبتي ويني](https://open.spotify.com/track/2Gru4OBnrGbfM7mIpts6Fk) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Hbibty Wini \(حبيبتي ويني\)](https://open.spotify.com/album/7jwGkqkRlEcpFIy0kcYH20) | 2:41 |
+| 8 | [Sous tension](https://open.spotify.com/track/6h0sdTa2cXLsHuxjd29clN) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Sous tension](https://open.spotify.com/album/4q73ju7gYbEFuZCr8Ex5kq) | 3:55 |
+| 9 | [Filamen \- فيلمان](https://open.spotify.com/track/5SfgODdv831EqaStxXB8el) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Filamen \(فيلمان\)](https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5) | 4:25 |
 | 10 | [Ma3lebeli](https://open.spotify.com/track/6KnxFw2AetemRnBKgN26B8) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Ma3lebeli](https://open.spotify.com/album/5qw02s0C0OQmlom0DEc31T) | 4:07 |
 | 11 | [MCHEW !](https://open.spotify.com/track/5wXQE0LVpsiIELgQqCPwfe) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [MCHEW !](https://open.spotify.com/album/4eVpsLlYCq0Aeh0u6RhdTK) | 3:28 |
 | 12 | [Youm Wara Youm](https://open.spotify.com/track/5qicaloS3NlXFjw9HupZa6) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Youm Wara Youm](https://open.spotify.com/album/12rqCKonJMpJeawjO5zHT9) | 4:05 |
 | 13 | [Bario](https://open.spotify.com/track/1lpg6YHzAsWn2dyAYhHxv2) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 3:19 |
-| 14 | [Ma3lich](https://open.spotify.com/track/5alqglkGs6BMV7WGUvjyVv) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw) | [Ma3lich](https://open.spotify.com/album/6Mgz9dw5CWYFHK936bMH07) | 3:16 |
-| 15 | [Khir](https://open.spotify.com/track/26Xvxzbj11H9b04kc7RTZ4) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Khir](https://open.spotify.com/album/1XyZvi7vMiQ2bCWNIhOi2z) | 3:36 |
-| 16 | [Lil](https://open.spotify.com/track/58ZDRk8fyRvesaCYGro0Di) | [Joujma](https://open.spotify.com/artist/6J3OrlKMbWMx60M7QuDJsf) | [Lil](https://open.spotify.com/album/7JFYWTodPY8Eb2UsKFEYlB) | 3:00 |
-| 17 | [Denya Bkhout \- دنيا بخوت](https://open.spotify.com/track/7vA7XKOXZcVVAwYw9d1ZYc) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Khaled L'artiste](https://open.spotify.com/artist/6nUgQSUscZW4aFAg3C2ZPu) | [Denya Bkhout \(دنيا بخوت\)](https://open.spotify.com/album/5TA7rpDHWi2M9RWYOScgNn) | 3:25 |
-| 18 | [Ya laymi](https://open.spotify.com/track/24oXPBDSSzhNF12yXpxUhE) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk) | [Ya laymi](https://open.spotify.com/album/4rh4V5WvntbsRpyDSnH4eB) | 3:20 |
+| 14 | [Ech Sayer](https://open.spotify.com/track/7zmjWzVeM3boUMAXvIeHgS) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Souhail Al Hafi](https://open.spotify.com/artist/7HSoEJ0ShMhA62LkjDiI5S) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 4:18 |
+| 15 | [Ma3lich](https://open.spotify.com/track/5alqglkGs6BMV7WGUvjyVv) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw) | [Ma3lich](https://open.spotify.com/album/6Mgz9dw5CWYFHK936bMH07) | 3:16 |
+| 16 | [Khir](https://open.spotify.com/track/26Xvxzbj11H9b04kc7RTZ4) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Khir](https://open.spotify.com/album/1XyZvi7vMiQ2bCWNIhOi2z) | 3:36 |
+| 17 | [Lil](https://open.spotify.com/track/58ZDRk8fyRvesaCYGro0Di) | [Joujma](https://open.spotify.com/artist/6J3OrlKMbWMx60M7QuDJsf) | [Lil](https://open.spotify.com/album/7JFYWTodPY8Eb2UsKFEYlB) | 3:00 |
+| 18 | [Denya Bkhout \- دنيا بخوت](https://open.spotify.com/track/7vA7XKOXZcVVAwYw9d1ZYc) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Khaled L'artiste](https://open.spotify.com/artist/6nUgQSUscZW4aFAg3C2ZPu) | [Denya Bkhout \(دنيا بخوت\)](https://open.spotify.com/album/5TA7rpDHWi2M9RWYOScgNn) | 3:25 |
 | 19 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 |
 | 20 | [Ta3bouni](https://open.spotify.com/track/65aEPfjjGbYvuCamNhfaa0) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Ta3bouni](https://open.spotify.com/album/6hGPmmWjolKkO584x6wcIa) | 4:52 |
 | 21 | [Maghrebins](https://open.spotify.com/track/4U5h7GaXXXNOLpuo5vr3dU) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Hasta la muerte](https://open.spotify.com/album/72MdvUI4rPAcOTW0ty9zuw) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 49 | [Kberna](https://open.spotify.com/track/3qPuUbEjX7fBcj4WPUkbh4) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 3:24 |
 | 50 | [BLA BLA](https://open.spotify.com/track/4XDaWzm0Y6gZoRuo2engXC) | [Youssef Mounes](https://open.spotify.com/artist/6sMjcbHchN0wUoMmYhKSD2) | [BLA BLA](https://open.spotify.com/album/5qy4gJpXBGvCqlAM7uyVTj) | 2:48 |
 
-Snapshot ID: `MTY3ODQyOTUxMiwwMDAwMDAwMDg4MGUyMDY2OTRlZTM3NmU5Y2JjN2MxZTRiNGZjZGE3`
+Snapshot ID: `MTY3ODc3ODIyMywwMDAwMDAwMGJiOGQzYWMxZTQ3ODE2MzdhZmY3MGVhMDQ0MmRkYjU1`

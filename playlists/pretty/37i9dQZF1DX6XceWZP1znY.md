@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,805 likes - 200 songs - 13 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,167 likes - 200 songs - 13 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 | 199 | [ODDTAXI](https://open.spotify.com/track/4bMo9lJmh3jNTzfmfQ1YcL) | [スカートとPUNPEE](https://open.spotify.com/artist/2c1PTv8do7xhzgK6rKBf5A), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [ODDTAXI](https://open.spotify.com/album/3xvfQSF7SX9lk4OC1wwOTS) | 3:23 |
 | 200 | [ジュブナイル](https://open.spotify.com/track/0EIlSiMlNJDHecJUkmzYer) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [ジュブナイル](https://open.spotify.com/album/0omLVfcLxIrrw4WFZJMzLo) | 4:21 |
 
-Snapshot ID: `MTY3ODU1MzczOCwwMDAwMDAwMDIwYzM4YjFhMTBmMWU1ZmJiYmM1YmEyOWFkYjM4MTZk`
+Snapshot ID: `MTY3ODU1MzczOCwwMDAwMDAwMDAwMzg4OTM0N2ZlMDJlOWQxZjI1MjA4ZTkyMjk0Nzgz`

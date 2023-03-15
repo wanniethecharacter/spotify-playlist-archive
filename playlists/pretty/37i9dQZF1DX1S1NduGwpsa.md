@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover:  Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,276 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,322 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [BC](https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [4th Feb \(Stay Awake\) / BC](https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw) | 7:30 |
 | 50 | [I Saw Her Standing There](https://open.spotify.com/track/3aVmoxYkKf1Hgv7JzRr6OJ) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know: Brad Mehldau Plays The Beatles](https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT) | 3:54 |
 
-Snapshot ID: `MTY3ODM5OTIwMCwwMDAwMDAwMDVlMDk2NzU1MGEwMGRlM2E4ZTM2NTkwMGNmMTM0ZjAz`
+Snapshot ID: `MTY3ODM5OTIwMCwwMDAwMDAwMGNjYWYwOThmYmNhMDIxYjcwN2Y4ZWJiNDE3ZWQ4NDlh`

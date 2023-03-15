@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,458 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,532 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 74 | [Última Chance](https://open.spotify.com/track/6zCBcd3eIbyjiz2f0IyQgi) | [Cabo](https://open.spotify.com/artist/1qdZozQ0iarVm0ezFEHGex) | [Ansiedade & Paranóias](https://open.spotify.com/album/62QwzAOPcbroYvq9CDpcP8) | 3:48 |
 | 75 | [Sangue](https://open.spotify.com/track/7y7QWBupm0DyjCDOZFUmci) | [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [Sangue](https://open.spotify.com/album/6lT4K9CWMJN0y3tfRspMuW) | 3:02 |
 
-Snapshot ID: `MTY3ODQzOTYwNiwwMDAwMDAwMGFiNzE4ZjkyY2UxOGYwM2Y3ZTAwZDBjYmYwM2NlNTlk`
+Snapshot ID: `MTY3ODQzOTYwNiwwMDAwMDAwMDE5NjU2MTU5ZTUxODgxNThjZjZmZjFiMWVlOGM0NzYw`

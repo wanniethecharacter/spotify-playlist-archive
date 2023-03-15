@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Mirella, Mc Gabzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,299 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,374 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 49 | [Casal Mandrake](https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Casal Mandrake](https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI) | 2:19 |
 | 50 | [Tom de Pele](https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2) | [Tom de Pele](https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY) | 2:45 |
 
-Snapshot ID: `MTY3NTk5ODA2MCwwMDAwMDAwMDk1MGQzOWQ5ZmZhYWI2N2I0NTY3MDRlZTJiMzNhYTlh`
+Snapshot ID: `MTY3NTk5ODA2MCwwMDAwMDAwMGM0MzhlZTkzMGNjYjQ2MTgwYmQyNDMwYWRjY2NmYjIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2SvaUOnqS5LqjhwNsyWEJZ">Lucas Kastrup</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182 likes - 44 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 183 likes - 44 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 8 | [Fio da Fé \- Ao Vivo](https://open.spotify.com/track/3FDJcbATfIrRFYVfGncD1Y) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Ao Vivo No República do Reggae](https://open.spotify.com/album/2DuoPecCOczeOZQ7EXCdMQ) | 3:15 |
 | 9 | [Ditadura da Televisão](https://open.spotify.com/track/3TXDNilo3IU4gCoIy2ER56) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 5:17 |
 | 10 | [Familia Ponto](https://open.spotify.com/track/47VbY3pygnNQ4Ed9vPTwAf) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Familia Ponto](https://open.spotify.com/album/6geLZHAnVnFUiYErgxf4Qv) | 3:34 |
-| 11 | [O Convite](https://open.spotify.com/track/2aRrL0YiXk89WWOwynYBMx) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 4:53 |
-| 12 | [Toque Primitivo](https://open.spotify.com/track/5V3hDjjDd11QQziHbjCT8i) | [Daniel Profeta](https://open.spotify.com/artist/5kzlekzE6BvBzIhRqgsB0w), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Foi Jah Quem Mandou](https://open.spotify.com/album/0PtuaNT0sysrBvZwY9ELvd) | 3:12 |
+| 11 | [Toque Primitivo](https://open.spotify.com/track/5V3hDjjDd11QQziHbjCT8i) | [Daniel Profeta](https://open.spotify.com/artist/5kzlekzE6BvBzIhRqgsB0w), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Foi Jah Quem Mandou](https://open.spotify.com/album/0PtuaNT0sysrBvZwY9ELvd) | 3:12 |
+| 12 | [O Convite](https://open.spotify.com/track/2aRrL0YiXk89WWOwynYBMx) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 4:53 |
 | 13 | [África](https://open.spotify.com/track/0G1ioXbnO6iGbw4BshL4sJ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 7:02 |
 | 14 | [Ame Sua Missão](https://open.spotify.com/track/0jERDLXffwCjTU5Td5zIXK) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 8:23 |
 | 15 | [Etiópia Sagrada](https://open.spotify.com/track/58LQob3LvS84O03sloPqzY) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:47 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 43 | [Inesperado](https://open.spotify.com/track/0eupIHRJZCM2EtZVEIjHil) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Ju em família](https://open.spotify.com/artist/6pg8jD6EtfSM5XbIsPqqKq) | [Inesperado](https://open.spotify.com/album/7fjNn0pCODT14KoguYaxyN) | 3:25 |
 | 44 | [Encontro Com Jah](https://open.spotify.com/track/2Y7sPLjrzRuhH9KZVN7TWP) | [Irmãos de Fé](https://open.spotify.com/artist/1aJjD4Hp0uNpbYujxCkeHu) | [Livremente](https://open.spotify.com/album/1oqVG1xM2CRF6YwwW23hXa) | 4:05 |
 
-Snapshot ID: `Mjc5NzkyMDcsMDAwMDAwMDA5MmU2M2Q5N2VhMjk3MWQ2NDUwMzMwMjA4M2QzZTU1Nw==`
+Snapshot ID: `Mjc5ODA2NDcsMDAwMDAwMDAwM2Q3NjY0ZjBmMDU5Zjk3NmI2MGFjMjY5ZDU1ZGUxMw==`

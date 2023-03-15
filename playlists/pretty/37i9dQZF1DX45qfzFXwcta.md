@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's hey day; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,158 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,261 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 74 | [Cognac \- Instrumental](https://open.spotify.com/track/3HkKjrNj0JjpgC1kmL7Eil) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43), [Jay Stone](https://open.spotify.com/artist/1XMoZ8AHs0TxrFiQAnOTAI) | [Foreign Pedestrians](https://open.spotify.com/album/2JDMaRvUUZ2xkm2P59ebH3) | 2:38 |
 | 75 | [Geek Out](https://open.spotify.com/track/5pktTyYT3PBDL3sdwCBvjW) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Geek Out](https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631) | 1:47 |
 
-Snapshot ID: `MTY3Nzc3MjQ5NywwMDAwMDAwMGY2OGY5YjhiNTIyOGVjMmE3NDIyMmQyNzJkYTM1YzBk`
+Snapshot ID: `MTY3Nzc3MjQ5NywwMDAwMDAwMGI1ZDM2NjM5ZWZiMWYwN2FlNzJmNTc5OTZkMmNiYzQ2`

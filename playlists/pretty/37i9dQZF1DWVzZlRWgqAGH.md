@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Musiq Soulchild
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,262 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,215 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Compassion \(feat\. Chiiild\)](https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 4:22 |
 | 100 | [This Morning \(feat\. Arin Ray & Smino\)](https://open.spotify.com/track/3onuWjUbFaNSdAMD5Z2UOQ) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [DRONES](https://open.spotify.com/album/1cSZDrpp0lic8Y70I3JGUa) | 3:43 |
 
-Snapshot ID: `MTY3ODU1OTkxOCwwMDAwMDAwMGNkNDQzZDdmYmEzMDM1ODBhMjhkNmY3NDBiMmVlZGU3`
+Snapshot ID: `MTY3ODU1OTkxOCwwMDAwMDAwMDkyZWNkZmVlMjlhMzJkOTE5ZmQyOTI0OTQ2MjNiODI2`

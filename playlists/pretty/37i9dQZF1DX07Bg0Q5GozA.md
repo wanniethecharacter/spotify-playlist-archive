@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Róisín Murphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,972 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,090 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [A Place To Lie](https://open.spotify.com/track/5KFS9MC8czFqXczPjaOi7R) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [A Place To Lie](https://open.spotify.com/album/4CinlAbdXopU8pbdDjuiqM) | 5:23 |
 | 75 | [I Know, I Know](https://open.spotify.com/track/6NWBt3dF86G49ZL9Cg3DUm) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [I Know, I Know](https://open.spotify.com/album/0UETdQXKfEJtzQoiiXV7Kz) | 2:33 |
 
-Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMGRkODQ2MmJmMjY4OWIxNzljNmQwMjhlMDk1NmUyYzFh`
+Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMDM3NDJkN2FhYWU0NGM2Mjg2ZjdlMjRlMGU0NzQ0NTRm`

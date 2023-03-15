@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Torren Foot
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,421 likes - 102 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,446 likes - 102 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 101 | [Butterflies](https://open.spotify.com/track/19dObDGedr40x1UcAm15qz) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 3:15 |
 | 102 | [Down With Me](https://open.spotify.com/track/1poa3266sVq4mnVbgocKda) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Down With Me](https://open.spotify.com/album/3j95Z60Qiu2cyDQaRQWmu5) | 3:12 |
 
-Snapshot ID: `MTY3ODM2ODQzNywwMDAwMDAwMDQ0NjE1ZTIzZjJlYzE0OTdjNTQ0YTRlMTA0ZDAxNTMw`
+Snapshot ID: `MTY3ODM2ODQzNywwMDAwMDAwMGY5NDFkNDZkYjM4MzZhMGViMTVhNmNjY2U5ZTZmNjBh`

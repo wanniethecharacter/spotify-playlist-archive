@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: WLSN
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,578 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,582 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 |
 | 100 | [Rolling Back](https://open.spotify.com/track/1irJhcpldknFoEzcqO75qB) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 3:43 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMGM4YmMwMjI2YzNkNGQ0N2VhN2UyZTZhYWQwZGY0NDdk`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDlmNmY0YTMwMDU2OThlNjI3ZjRkNDAzZDYwYzE4OTY5`

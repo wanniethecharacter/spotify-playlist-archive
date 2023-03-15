@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 春ねむり \(Haru Nemuri\)
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: TENDOUJI
 
-520 songs - 1 day 4 hr 23 min
+521 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Echoes](https://open.spotify.com/track/6Uyg688fHWz8kJKYGF6qBQ) | [Castaway](https://open.spotify.com/artist/2hxbs29SIzDIKSPzGsIgir) | [With Future Behind](https://open.spotify.com/album/7nWMrzNZ9APVAzVrIrYQMw) | 2:39 | 2022-05-31 | 2022-07-26 |
 | [Eighteen](https://open.spotify.com/track/1sTCtW9aaQJsLhc44zoBTQ) | [Someday's Gone](https://open.spotify.com/artist/79SvxaP9S35Y7A5R9IPYgx) | [Eighteen](https://open.spotify.com/album/1QID9d1zljk50cGaPQnj48) | 3:18 | 2022-05-24 | 2022-07-23 |
 | [Emotions](https://open.spotify.com/track/4NwBpZ1bR7ltHJbxK20g8E) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Intergalactic](https://open.spotify.com/album/0S7tyEpTLYAtAQRB2wYSo2) | 3:24 | 2022-09-14 |  |
+| [EVERGREEN](https://open.spotify.com/track/61aCEeinXGhvUkDthsjlfS) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [EVERGREEN](https://open.spotify.com/album/3SkwWttZbYEwAZDMICGUwt) | 3:01 | 2023-03-14 |  |
 | [Everythings Okay When You're Down](https://open.spotify.com/track/2R17jolI5j3yHNblJK8Xu9) | [STAY HOME ALONE](https://open.spotify.com/artist/5CNF5bJBffK7fmwXHZGibg) | [Lonely Room \- EP](https://open.spotify.com/album/3FAsUOkojvqzuTe35v70wA) | 3:26 | 2022-05-17 | 2022-07-29 |
 | [F](https://open.spotify.com/track/6NGPjCG75x7cKpI39f0baR) | [MINAMI NiNE](https://open.spotify.com/artist/362QHsvg6mSewP1yybMD15) | [SOUTH](https://open.spotify.com/album/58YOBOFVMaOf0hibhwmkNe) | 4:16 | 2022-07-12 | 2022-07-15 |
 | [Face](https://open.spotify.com/track/5lhcxBIcygm85GQyKGqHB3) | [RAINCOVER](https://open.spotify.com/artist/2sOzogZ56UHGK5MxDIniyW) | [Face](https://open.spotify.com/album/3QgafUGqnucqDBBJWTvGgH) | 2:49 | 2022-05-19 | 2022-07-19 |
@@ -222,7 +223,7 @@
 | [Ode to Joy](https://open.spotify.com/track/1PP762X3mGJl5OnW4TwK6Q) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/4dyz7fp74JIqn8UzSkbeDd) | 3:48 | 2023-02-21 | 2023-02-23 |
 | [Ode to Joy](https://open.spotify.com/track/5OVuQtzwNxAL3V5Y4daijB) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:48 | 2023-02-21 | 2023-03-08 |
 | [OFF THE WALL](https://open.spotify.com/track/1UFagrhLahtfM5bpC2a938) | [Five State Drive](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [We'll be the Next](https://open.spotify.com/album/6jf1XEwvf9Nwyk3cf9bGKn) | 2:04 | 2022-05-17 | 2022-07-20 |
-| [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 | 2022-05-19 |  |
+| [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 | 2022-05-19 | 2023-03-15 |
 | [oiの中の蛙](https://open.spotify.com/track/0mjoRduEfRPNAfDtsuSjC0) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [THEガガガSP](https://open.spotify.com/album/2fftHCw5wj2J0qp7gr41nM) | 2:42 | 2022-05-12 | 2022-07-27 |
 | [Omotesando](https://open.spotify.com/track/2VIqACtFptv3Y1Z7rT5zpp) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK!](https://open.spotify.com/album/3nLvQzElvXxOBAqemV0rqo) | 2:04 | 2022-11-17 | 2022-12-21 |
 | [on my way](https://open.spotify.com/track/1pL9q42ZQuu05GaWK2KutY) | [LEGAL RUSH](https://open.spotify.com/artist/3FbEdSZOvGICjM2Qs7pQQ0) | [on my way](https://open.spotify.com/album/5ZLuPHzi4JwaSUsj6P8VDP) | 1:31 | 2022-07-14 | 2022-07-25 |

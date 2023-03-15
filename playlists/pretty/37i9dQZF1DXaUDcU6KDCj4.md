@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Angel Olsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,059 likes - 150 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,216 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Hermosa Drive](https://open.spotify.com/track/6WysaBBSPIpoVPCbF4Rys4) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hermosa Drive](https://open.spotify.com/album/1W9chSfuRIMlDR9h1KLeO7) | 3:54 |
 | 150 | [Running on Sweet Smile](https://open.spotify.com/track/0qWeKlQ4XsdZI9YOARIfSl) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Running on Sweet Smile](https://open.spotify.com/album/6kTJFL44amSlYwT0U5PzxO) | 3:21 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGRlNTFhZGM5ZmZmNTY5YmFlOWM0NzEzNjAxZGZkYzAy`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDBjNDA0OWIwODc0ZmYxZDVhNjhmYWQ2NjExNzNhNjQ1`

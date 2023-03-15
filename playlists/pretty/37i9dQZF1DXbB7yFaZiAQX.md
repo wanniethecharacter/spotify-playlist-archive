@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 913,687 likes - 150 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 913,994 likes - 150 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 149 | [Nellie the Elephant](https://open.spotify.com/track/00MmJraiM6d7AINTYB5Xid) | [The Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [Dig That Groove Baby](https://open.spotify.com/album/2G4Qadfi3LHuQSaZ60rFCP) | 3:27 |
 | 150 | [Surrender \- 2022 \- Remaster](https://open.spotify.com/track/21DRFiBq9G12EAq9RoW6iw) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Surrender](https://open.spotify.com/album/7l5I3C9sBNZfNG0BiECU2X) | 3:46 |
 
-Snapshot ID: `MTY3NzQ5NDkzOSwwMDAwMDAwMDBjMzZkMWMyODNmNTk0NWM5YTA1OTVmNGNmZDQ4MWU0`
+Snapshot ID: `MTY3NzQ5NDkzOSwwMDAwMDAwMGFlZTRhZTI0NjNkNzg3ZTc5MjMwYmY5NmFmYTI5Mzky`

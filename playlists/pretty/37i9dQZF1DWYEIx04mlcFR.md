@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Yukun & Nsqk en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,091 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,103 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 79 | [no me asusta \(me gusta\)](https://open.spotify.com/track/0QEj1wfXQ7UxQ9erHYZirm) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [no me asusta \(me gusta\)](https://open.spotify.com/album/48YRa8dcfCVgZ7psfWRZRm) | 2:37 |
 | 80 | [FBI](https://open.spotify.com/track/5gxQpTNE0oQb7Orf2QbnFX) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [FBI](https://open.spotify.com/album/7nISyqRwUIfAYATsvHgdgS) | 2:24 |
 
-Snapshot ID: `MTY3ODQyODAwMCwwMDAwMDAwMDBlNDZhN2QzYzI0NGUyODcyZDU0NTU4N2I2NWZhOWRi`
+Snapshot ID: `MTY3ODQyODAwMCwwMDAwMDAwMDU3NDRkMjM5NzU5OGVmZTA0M2U4YWFlODZkZThlYjUw`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-564 songs - 1 day 9 hr 11 min
+565 songs - 1 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [คิดไม่ออก](https://open.spotify.com/track/1I9oRSMpN2K0xYivVr0AhF) | [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [คิดไม่ออก](https://open.spotify.com/album/6pcnTpwlGq2hfODdsHGBz1) | 3:20 | 2021-03-30 | 2021-07-04 |
 | [คุยคนเดียวเก่ง](https://open.spotify.com/track/4DqaFHKqAsnBn9DfLWhRpW) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:22 | 2021-07-23 | 2021-07-28 |
 | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/album/1XtKXmvNFMiuGJZ4vsxmVZ) | 3:43 | 2022-05-14 | 2022-06-26 |
+| [จดหมาย](https://open.spotify.com/track/2wgGM5bNyPTVI2d7KHmmRw) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [I Beg Your Pardon](https://open.spotify.com/album/2lTMsDMjTYFFp2NVAMDgtf) | 3:03 | 2023-03-14 |  |
 | [จะกลับไปดีกับเขาก็บอก](https://open.spotify.com/track/0uSPq0GNlfrIeaBDc2574f) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [จะกลับไปดีกับเขาก็บอก](https://open.spotify.com/album/5kEtuZ1KxY8xJRFZ25Xn4H) | 3:20 | 2021-07-21 | 2021-10-29 |
 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 | 2021-07-01 | 2023-01-22 |
 | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/track/4fwPmzupzsPEzwquuuVaiw) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/album/1XgD84QIPjOXQps6PisWMM) | 4:48 | 2023-01-28 |  |
@@ -446,7 +447,7 @@
 | [ทะเลสีดำ \- เพลงประกอบละคร แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/4d3ZN68omv7xoexu5wglUD) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เพลงประกอบละคร แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/album/0eNu0duhI8p2QRiDLTbiXq) | 3:45 | 2021-06-21 | 2021-06-23 |
 | [ทักครับ](https://open.spotify.com/track/70DE8f3cq3auql4JMrF0Qg) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [ทักครับ](https://open.spotify.com/album/5JQ7Bn6uJX2Ed94W8gvvJK) | 3:11 | 2022-04-27 | 2023-02-07 |
 | [ที่สุดของฉัน](https://open.spotify.com/track/1icYoiOpJDRqYdSvTSK7v4) | [2021 ราตรี \(2021 Ratri\)](https://open.spotify.com/artist/0bc8YINhSnzAEHTbhK8hGR) | [ที่สุดของฉัน](https://open.spotify.com/album/0QZpUpgDgcumPb5i5a3bAN) | 4:05 | 2021-03-27\* | 2021-04-26 |
-| [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/track/1af2PmV5gQRWELZmVrjNMQ) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/album/4NFDAt3VZrqAVgAR8SpltV) | 4:26 | 2022-12-02 |  |
+| [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/track/1af2PmV5gQRWELZmVrjNMQ) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/album/4NFDAt3VZrqAVgAR8SpltV) | 4:26 | 2022-12-02 | 2023-03-15 |
 | [ท้องฟ้า](https://open.spotify.com/track/4KRH5emKl7a7Qo1nqmWFKb) | [PAPER](https://open.spotify.com/artist/7pEWOWPLD9S2HcpWEMDfOH) | [ท้องฟ้า](https://open.spotify.com/album/17jlfqzBUc0lLYoJHwS2CT) | 4:56 | 2022-02-06 | 2022-05-17 |
 | [ธาตุทองซาวด์](https://open.spotify.com/track/00Tm1bspfNQJnaWAoQK2eC) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S), [SONOFO](https://open.spotify.com/artist/1eQjm9oQCIF3AuenFuEs7S) | [ธาตุทองซาวด์](https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK) | 3:55 | 2023-02-01 |  |
 | [นอนไม่หลับ \(Melatonin\)](https://open.spotify.com/track/7bHqlO1utHAs2yknWvVt1C) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [นอนไม่หลับ \(Melatonin\)](https://open.spotify.com/album/2kiDXg6Q09gxC3dXGJdC58) | 3:39 | 2022-04-21 | 2022-05-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Reality Club \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,588 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,622 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 74 | [Heaven Or Honolulu](https://open.spotify.com/track/5QcuSJWlK8VkXnlGkFSoTF) | [Burmese Bombshells](https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522) | [Heaven Or Honolulu](https://open.spotify.com/album/3kktxLKeB8ims1EqUAhyVH) | 2:44 |
 | 75 | [Lucifer \(with ZOMBIE\-CHANG\)](https://open.spotify.com/track/7AKwZD4xfKyTlsn890SopS) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [Lucifer \(with ZOMBIE\-CHANG\)](https://open.spotify.com/album/6ySfq9uaapwG22pGbb8BHP) | 3:33 |
 
-Snapshot ID: `MTY3ODM4MTIwMCwwMDAwMDAwMDdlYWQ4ZGVkOTQ1MmI0NDEwNzlmNjk0YWFjODBjNmZm`
+Snapshot ID: `MTY3ODM4MTIwMCwwMDAwMDAwMGM3YTUyNjI4NzBkNTUxMjIzMzc1MDg5ZDRjZWRhNTM0`

@@ -4,7 +4,7 @@
 
 > Take a deep breath and relax.
 
-139 songs - 7 hr 24 min
+140 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2022-05-25 |  |
 | [Falling Winds](https://open.spotify.com/track/3LDurr25Dx3XAR4nMxNXpp) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Falling Winds](https://open.spotify.com/album/4nOCx7KqmyryOHBbu3cNdV) | 3:25 | 2022-05-25 | 2023-02-25 |
 | [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
-| [Forever close](https://open.spotify.com/track/4SIJIe0qLkPFLP8Nedt1Ga) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Forever close](https://open.spotify.com/album/0bhOdhCWSXWvy2uQKxDbGK) | 3:43 | 2022-05-25 |  |
+| [Forever close](https://open.spotify.com/track/4SIJIe0qLkPFLP8Nedt1Ga) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Forever close](https://open.spotify.com/album/0bhOdhCWSXWvy2uQKxDbGK) | 3:43 | 2022-05-25 | 2023-03-15 |
 | [Forgotten Hill](https://open.spotify.com/track/61kOQYIvim1ZUEA66P51br) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Forgotten Hill](https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf) | 4:01 | 2022-05-25 |  |
 | [Freshwater and Lagoonal](https://open.spotify.com/track/5InPgnqltWDLl2RfWWnlmN) | [Mia Radcliffe](https://open.spotify.com/artist/34dREKRtx0bIdYuFrPQYMK) | [Freshwater and Lagoonal](https://open.spotify.com/album/57bBbUvaoMYXxA3ZFHX8Me) | 3:34 | 2022-05-25 | 2022-09-07 |
 | [Galina](https://open.spotify.com/track/1oMqTsOS6mzsTNvxKKdFps) | [Stella Kovalyova](https://open.spotify.com/artist/1VcsmBSxaifP1LiG8WtsLA) | [Galina](https://open.spotify.com/album/1cVc2Y1RhScTWiZLRSlExA) | 3:17 | 2022-05-25 |  |
@@ -118,6 +118,7 @@
 | [Rêver](https://open.spotify.com/track/1yYjkMdQyOvwqiwfeGP5fK) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Rêver](https://open.spotify.com/album/6Sb8XeQK9LqSeUlYHFaB9B) | 2:54 | 2022-05-25 |  |
 | [Saddleworth](https://open.spotify.com/track/2dqHZOXBMrkntSDYahuzfF) | [Tonal Blues](https://open.spotify.com/artist/4op9odiUcMauXLhmhuxU2m) | [Squares](https://open.spotify.com/album/5mjzHuXW8jh4dmN9dBkyAp) | 3:40 | 2022-05-25 |  |
 | [Savannah](https://open.spotify.com/track/1GfkDco09y8iruC25beFMz) | [Nath Lue](https://open.spotify.com/artist/1kInNb813DsqBOR40Sg1Ih) | [Auspicious](https://open.spotify.com/album/2DJAMZ46NRFHgC1O9icft6) | 3:26 | 2022-05-25 |  |
+| [Serenity](https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Serenity](https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro) | 2:33 | 2023-03-14 |  |
 | [Seventh Heaven](https://open.spotify.com/track/2bV4AO2zBHjmlTxcUhY3w9) | [Elsa Whage](https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo) | [Arcadia](https://open.spotify.com/album/6xil8dpE2Ky4SeNOvkpS33) | 3:14 | 2022-12-02 |  |
 | [Shasta \- Meditation Mix](https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Paradiso \(Meditation Mix\)](https://open.spotify.com/album/2NWm5EjnnTktWmN2pI87XH) | 3:01 | 2022-05-25 | 2022-06-26 |
 | [Sinilluarit](https://open.spotify.com/track/3g0xCFy4hQ4MDoe0KfLVud) | [Søren Jeremiassen](https://open.spotify.com/artist/54h5UZPx5rj7dEDGaofoaj) | [Sinilluarit](https://open.spotify.com/album/5TZx3UPmzvKH7BAAkpnGyQ) | 3:10 | 2022-05-25 | 2023-01-21 |

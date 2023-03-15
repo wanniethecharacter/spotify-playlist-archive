@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Underoath on top of the biggest Metal playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,387,835 likes - 65 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,388,157 likes - 65 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 64 | [Sing to the Grave](https://open.spotify.com/track/3GcWW4Bmb0q0LsbDOWChNU) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Sing to the Grave](https://open.spotify.com/album/6NLPfi1CsS3PmCWe6QSb2o) | 2:39 |
 | 65 | [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGQzMGM2YTgzOGJhMTgyZGM3ODYwMmViNzg3MGMwYzJl`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGY5OTQ0ZTRiNjNlM2M2YTJhYzQ5Njk1ZmQ3MGE0YTJh`

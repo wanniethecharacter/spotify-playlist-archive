@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=0kYBUhrWRECzIPuumOl1vA">Nomfundo Moh</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,349 likes - 54 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,477 likes - 54 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 53 | [Jabula](https://open.spotify.com/track/5e2vMDSGRmgjPEfJxOE2C2) | [Thalie MaMbooica](https://open.spotify.com/artist/4QDUrDd9oDGPYb7Rgl8fy7) | [Jabula](https://open.spotify.com/album/1PByTxEEJePPHAhWmXGaIS) | 3:19 |
 | 54 | [Byala](https://open.spotify.com/track/4hmJCqRxK1mzvc8EKyTykO) | [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k) | [Byala](https://open.spotify.com/album/6IzPFY46mM8rSY9R2b4uu8) | 5:28 |
 
-Snapshot ID: `MTY3ODM5OTE0MCwwMDAwMDAwMDNkZWQ5ZmU4MTM3ODAxNzEyMDMyZDkzMWFlYThjNjJi`
+Snapshot ID: `MTY3ODM5OTE0MCwwMDAwMDAwMDc4ODg5ODBjYzM0M2M0N2FmMTk2NzQ5NjMyNTk2NmVm`

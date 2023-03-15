@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,334 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,395 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [Omo Olomo](https://open.spotify.com/track/52dfPXnhw6T9PJZ839w169) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Omo Olomo](https://open.spotify.com/album/6EQxI2JlN9WV4hXWCbdhfl) | 3:03 |
 | 50 | [Shayo](https://open.spotify.com/track/37KRtNYpPJ2tK6UcT8PGr0) | [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Diamond in the Rough](https://open.spotify.com/album/6t7hQNIVpEOG7Lpk5rJIYZ) | 2:52 |
 
-Snapshot ID: `Mjc5Nzg1MjIsMDAwMDAwMDBjYjRiOWQ5YTI4YzU0ZmQ1NGRmZjU5M2U1ZmY4MDBkNg==`
+Snapshot ID: `Mjc5ODAyNzIsMDAwMDAwMDBjZjlhZTBiZjMwZjFkYjkxMDcxMDgwNDg3NWE2Y2FjMg==`

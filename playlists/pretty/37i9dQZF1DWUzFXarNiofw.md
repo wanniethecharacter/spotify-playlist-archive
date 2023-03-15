@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Elmiene
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,037 likes - 129 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,214 likes - 129 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 128 | [Mine](https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI) | [Upstrz](https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi) | [Meet Me Upstrz](https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY) | 2:36 |
 | 129 | [How To Kill A Man \- Acoustic](https://open.spotify.com/track/1XQ0EtxFkmXdy9CwN3ihST) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [How To Kill A Man \(Acoustic\)](https://open.spotify.com/album/4qFn5L8w0027MonWrHowRP) | 2:53 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDBmMGFiMjhhODAzMTNkMzA1MDY4YTcxN2I5ODc1MWQ4`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGY0ZmYzZGMzNGQ3YzQyNzg5ZTNhYjc5MzM3OGIzZjUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,840 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,903 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 99 | [Snow \(Hey Oh\)](https://open.spotify.com/track/41SA5xHK3B3LI0f6bj9tyR) | [Super Power Club](https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f) | [Super Power Club: 8\-Bit Tribute to Modern Rock Hits](https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd) | 4:10 |
 | 100 | [What I've Done](https://open.spotify.com/track/1QPqTG2MhhMJsXVfezJriJ) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Linkin Park](https://open.spotify.com/album/6W3SvNdAMTZxqQhuKhyhEe) | 3:26 |
 
-Snapshot ID: `MTY2OTk1NzUwMCwwMDAwMDAwMGZhYTM3ZTY5MzBmZmU1NDcwNWJhNTRjZmE1MzkwODlh`
+Snapshot ID: `MTY2OTk1NzUwMCwwMDAwMDAwMDcyNWVhM2MwNzRlNGI1MjZhNTNmYmQyZjAwNzNhZDc0`

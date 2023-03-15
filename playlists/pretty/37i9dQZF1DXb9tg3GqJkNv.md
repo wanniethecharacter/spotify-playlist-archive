@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: NAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 507 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 601 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Hard to Replace \(feat\. Luh Kel\)](https://open.spotify.com/track/4zJGmbyLquw8H53vrVHUKq) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w), [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [Made 4 More 2](https://open.spotify.com/album/1BTRlRnUM0XZaLGJBJoBqy) | 2:42 |
 | 75 | [KickStart FreeStyle](https://open.spotify.com/track/5lCD5KHEN070NOlP0BtgyP) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [KickStart FreeStyle](https://open.spotify.com/album/7x6WA2hRL8LmqTzVTDzGd6) | 1:36 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMGFjNWIzODVhOWI5ZWUwYTNiM2FlZjhmOGQ0Y2JjNjUz`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDFhN2UwZDUwOTQzZjExY2VkOTcwY2ZjMTRkNzJhMjZj`

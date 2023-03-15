@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 ### [TIRADE](https://open.spotify.com/playlist/37i9dQZF1DWWXzA48d9shL)
 
-> Rap from hell\. Cover: $uicideboy$ & Shakewell
+> Rap from hell\. Cover: do not resurrect
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,498 likes - 100 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,913 likes - 100 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [kuinke](https://open.spotify.com/track/0bXi4r2mRKFw9BQnSVd9It) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [kuinke](https://open.spotify.com/album/4RJ39GTV8D0ZPSqoBn8FzE) | 1:32 |
 | 100 | [Mr\. Make Her Dance](https://open.spotify.com/track/4DtVUDgdAyUynlbZPrbj24) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Mr\. Make Her Dance](https://open.spotify.com/album/2bFOfBfOwE10X9B6CPyQmO) | 2:35 |
 
-Snapshot ID: `MTY3ODcyODI0NiwwMDAwMDAwMGUyMDlmY2UwZWUzMmI0MmRjZjAzNDEwZjlmM2MzMjAx`
+Snapshot ID: `MTY3ODgwODQ0NCwwMDAwMDAwMDJmMDk1MGYxZDhhNzcwYjZkYzgzZGE1YzU0ZTA5MTg3`

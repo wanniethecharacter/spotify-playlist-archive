@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,931 likes - 60 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,945 likes - 60 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 36 | [It Goes On \(At the Afterparty\)](https://open.spotify.com/track/3rwOXnsJIFelb2uEL6racm) | [Joey Mercedes](https://open.spotify.com/artist/54oBNihvb3acQd2WJCIYp4), [Brandon Markell Holmes](https://open.spotify.com/artist/49hxY3aryuNE1UJpuJ0YJf), [Dee Diggs](https://open.spotify.com/artist/3GrNYIRzpnrh3HltUMlMeg) | [It Goes On \(At the Afterparty\)](https://open.spotify.com/album/3sxf4PHUvea7auhbNUlMBh) | 6:32 |
 | 37 | [Kou douw](https://open.spotify.com/track/5HAOxJgbPsOMCQqgi8GKMP) | [Keke Kassiry](https://open.spotify.com/artist/66DebSA3RyF7ReCpwfjHT8) | [Best of Kassiry](https://open.spotify.com/album/4pPTUTGJgdkAiEE1ALmQOs) | 4:25 |
 | 38 | [You Can't Hide It](https://open.spotify.com/track/4JllN6LAth4uuFh7Xm84n9) | [Passion](https://open.spotify.com/artist/5YgczGESVzCXzvQN5E6n84) | [Don't Stop My Love](https://open.spotify.com/album/5JbkjdDWYlwxa2HV8N77Hp) | 6:13 |
-| 39 | [Earth Song \(What About Us\) \- Club Mix](https://open.spotify.com/track/3fcpQwhkotcEzpzRZ6maMg) | [Anelisa Lamola](https://open.spotify.com/artist/4JQspweC9s9YK2H81Nylvi), [Greg Gould](https://open.spotify.com/artist/7scMWGksw0YUGUVuewfyJo), [Phebe Edwards](https://open.spotify.com/artist/5Phxu6UZtHHfEHNPDwyqpo), [Revival](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq), [GeO Gospel Choir](https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H) | [Earth Song \(What About Us\)](https://open.spotify.com/album/5TlJmOQSTdjLIcFcYFJJ5n) | 6:02 |
+| 39 | [Earth Song \(What About Us\) \- Club Mix](https://open.spotify.com/track/3fcpQwhkotcEzpzRZ6maMg) | [Greg Gould](https://open.spotify.com/artist/7scMWGksw0YUGUVuewfyJo), [Revival](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [Phebe Edwards](https://open.spotify.com/artist/5Phxu6UZtHHfEHNPDwyqpo), [Anelisa Lamola](https://open.spotify.com/artist/4JQspweC9s9YK2H81Nylvi), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq), [GeO Gospel Choir](https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H) | [Earth Song \(What About Us\)](https://open.spotify.com/album/5TlJmOQSTdjLIcFcYFJJ5n) | 6:02 |
 | 40 | [Till Dawn](https://open.spotify.com/track/17ssW5GFqQ3mF12GSydUzh) | [Running Hot](https://open.spotify.com/artist/18QvrAlrBwNeoiAkXE1ikj) | [The Hardest Step Is Always First](https://open.spotify.com/album/0CsdqUlzVU73nQrLImpemF) | 7:05 |
 | 41 | [Toy Boy \- RAW SILK Remix Instrumental](https://open.spotify.com/track/4aEdlsxMHeHqKGpgGS1Xzm) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [RAW SILK](https://open.spotify.com/artist/0TWVaByAXEDhyWrgP1w4iw) | [Toy Boy \(RAW SILK Remix\)](https://open.spotify.com/album/4EmJ6lt7c2D1xjgdu4FHvZ) | 5:24 |
 | 42 | [Ibiza Ritter](https://open.spotify.com/track/64FtLRfjZFXzYQXLVfyYH1) | [DJ Fett Burger](https://open.spotify.com/artist/7yWrxpMXYe5naRQUVdSWoD), [DJ Speckgürtel](https://open.spotify.com/artist/5r1hN5elIQAsYHiQYUOdjm) | [Red Scorpions](https://open.spotify.com/album/5i1QNkN8oZzYzsRP6ve9kO) | 7:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 59 | [Until Dawn \- Original Mix](https://open.spotify.com/track/0K613P27zJ2GcJ4fM5Q2J4) | [Doildoshi](https://open.spotify.com/artist/286xMU6guFcghkncOEDcJH) | [Invisible Threat](https://open.spotify.com/album/6LWwyEmPZfHR5hh0qZVMKL) | 4:42 |
 | 60 | [Funk The Tribe](https://open.spotify.com/track/6hjgXS8zDeaonIMlmtqZDj) | [Ash Dargan](https://open.spotify.com/artist/7uMdXW4knlRBzxIvzpyJby) | [Breath Of A Man](https://open.spotify.com/album/3nmqsQR4920MF39cgHx4ns) | 5:13 |
 
-Snapshot ID: `MTY3NDE5MDE4OCwwMDAwMDAwMDlhNmVjYjhkYjliODNkMzk0ZmI3YmFkZjkxMTJmYWFj`
+Snapshot ID: `MTY3NDE5MDE4OCwwMDAwMDAwMGEwNTQxYmJkZmE0MWZiYmZkZTE3Y2MzNjU5NDk3ZDYz`

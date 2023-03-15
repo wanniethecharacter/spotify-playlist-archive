@@ -1,12 +1,12 @@
 {
   "description": "Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.",
-  "num_followers": 871113,
+  "num_followers": 871185,
   "original_name": "Soul Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDk1YTQ4MmY4MDA0YzJkMTA0ZWQxOWU3ZWU2NjQyNjk3",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGQ1MWVmODk2YTEyMGMyZTMzYjVkZjg1NzNhOWFlOTg5",
   "tracks": [
     {
       "added_at": "2023-03-03 05:07:57",
@@ -58,6 +58,10 @@
         {
           "name": "Flwr Chyld",
           "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        },
+        {
+          "name": "$ean Wire",
+          "url": "https://open.spotify.com/artist/6wmTMxyKDHCbnoxy4n66rb"
         }
       ],
       "duration_ms": 281142,

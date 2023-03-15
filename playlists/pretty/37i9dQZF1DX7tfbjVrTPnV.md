@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,112 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,153 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [No Later than Soon](https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Black Roses](https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA) | 2:56 |
 | 150 | [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDNkZWU4NWEzZjcwN2Q3Y2UyYjdhMzcxNDliNWI4MzIw`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDIzYzBiZDQ3MjIxNWQ1ZGViNDYzM2U1ZWYzOWU3NDYw`

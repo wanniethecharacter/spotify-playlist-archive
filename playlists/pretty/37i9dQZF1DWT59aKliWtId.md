@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend ft\. boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,143 likes - 102 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,177 likes - 102 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 101 | [Getting It Right](https://open.spotify.com/track/7zNFIqmdezDsHbvyQz86Gd) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [CAZIMI](https://open.spotify.com/album/3ujHcA736Nx4Y0WyxEprm7) | 2:50 |
 | 102 | [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGVlZjA4NmE1ZmMxODA5ODY1ZmY3MTUxNWU4MjBmNTg2`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDZlZjA5YWM0NjBhOWY1MzJkZTdlNTJkYjM0MTdkNDk2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,693 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,705 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 49 | [Little Juke Joint](https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Show Of Strength](https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3) | 6:00 |
 | 50 | [Sweet Thang](https://open.spotify.com/track/3WxhLjbfNgVM6R2zMA3wIy) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Down Home Mojo](https://open.spotify.com/album/3ERQDgDldAaWSZIJj9R9iz) | 4:51 |
 
-Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDViMDRlM2JhZGYzMGVkM2U5OWM2NTEwY2YzMmYyYzhm`
+Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDdkNjYzMzdlOGE0YWIxNjgyODgxMWIyNzkzNDRjOWM0`

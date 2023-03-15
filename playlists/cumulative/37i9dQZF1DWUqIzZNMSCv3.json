@@ -425,6 +425,28 @@
     },
     {
       "album": {
+        "name": "Chopin",
+        "url": "https://open.spotify.com/album/2y7XA7KLJXRPzTgULfXK5F"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Rafa\u0142 Blechacz",
+          "url": "https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490920,
+      "name": "Barcarolle in F-Sharp Major, Op. 60",
+      "url": "https://open.spotify.com/track/00x8ogYPKcIAAtDzC414DR"
+    },
+    {
+      "album": {
         "name": "Beethoven: Piano Sonatas Nos 8, \"Path\u00e9tique\", 9 & 10",
         "url": "https://open.spotify.com/album/5AuBjTnxyHHKNNKiGt8V0c"
       },
@@ -668,6 +690,28 @@
       "duration_ms": 346573,
       "name": "Fantasia No. 3 in D Minor, K. 397",
       "url": "https://open.spotify.com/track/4yExhO3Vh6bLW32qU4DOOs"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: French Suite No. 5 in G Major, BWV 816: I. Allemande",
+        "url": "https://open.spotify.com/album/2rGNxZi5BpXPuWhfrDcJTo"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "French Suite No. 5 in G Major, BWV 816: I. Allemande",
+      "url": "https://open.spotify.com/track/6omFR3t3gc8xuIVI8DyRuI"
     },
     {
       "album": {
@@ -1568,6 +1612,28 @@
       "duration_ms": 330840,
       "name": "Suite bergamasque, L. 75: III. Clair de lune",
       "url": "https://open.spotify.com/track/3aflqY3isjShFUHoiS1QbR"
+    },
+    {
+      "album": {
+        "name": "The Handel Project: Handel-Suites & Brahms-Variations",
+        "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "Suite No. 7 in B-Flat Major, HWV 440: III. Sarabande",
+      "url": "https://open.spotify.com/track/3wEz4LwtG1Wdi8qppCukdL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Miley Cyrus, Devon Cole, d4vd, and Chromeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,484 likes - 101 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,499 likes - 101 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 100 | [Different](https://open.spotify.com/track/4k2upKKu83q3kMVS1LkTGc) | [B.ROB](https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR) | [Undeniable](https://open.spotify.com/album/4bCBQNr0cmDJ7DCOhRlDM5) | 3:40 |
 | 101 | [All I Need](https://open.spotify.com/track/5jBZSh7u8Af31hRzNbyY3z) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [Cinzia & The Eclipse](https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W) | [All I Need](https://open.spotify.com/album/56SM0Astc88nwn9KA6KM7n) | 3:36 |
 
-Snapshot ID: `MTY3ODQ3MDc0NSwwMDAwMDAwMDhmYmY0NGI5MWQ3YzFjNWI5OGIwMTI0MmNhNmMxYzRj`
+Snapshot ID: `MTY3ODQ3MDc0NSwwMDAwMDAwMGE3NGVjOGIxYzlhOTEwZjZmNGJlNjJjOGEzOWE0NzUz`

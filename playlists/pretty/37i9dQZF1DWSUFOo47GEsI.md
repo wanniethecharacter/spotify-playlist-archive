@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUFOo47GEsI.md) - [plain]
 
 > Music to reduce insomnia and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,712 likes - 284 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,749 likes - 284 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -293,4 +293,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUFOo47GEsI.md) - [plain]
 | 283 | [Seneca Rise](https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt) | [Sky Wishes](https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh) | [Seneca Rise](https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO) | 2:37 |
 | 284 | [Covering the Sun](https://open.spotify.com/track/1IUe9CBv83sg56rTorIVLp) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Ivory Clouds](https://open.spotify.com/album/4nYrgdNmIyEbayYyjdmppr) | 3:13 |
 
-Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMDdiNjNmZmJlZTNjZDM5ZWM3OWQ3MTE4MjQ2ZmNhZDAx`
+Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMDBlMzYyNGZhMTNjN2RlNDc4YjU1Y2E0ZWY3NjkwZDMz`

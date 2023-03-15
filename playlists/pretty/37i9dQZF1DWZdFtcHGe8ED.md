@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,114 likes - 120 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,220 likes - 120 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Reaggression](https://open.spotify.com/track/0Q81O7nuF9F1WxAyQ8UtEJ) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Blood in the Water](https://open.spotify.com/album/6pNMEpHq9E6z40Miw7l9Ax) | 4:10 |
 | 120 | [Heavy Metal Maniac](https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW) | [Exciter](https://open.spotify.com/artist/1jH2JkQvdH6R63yORA8GTd) | [Heavy Metal Maniac](https://open.spotify.com/album/4jV5DFEggX8yPy0CPQ42il) | 3:47 |
 
-Snapshot ID: `MTY3MTEzNTA5NywwMDAwMDAwMGU2ZDFiNzUyNWQ5MmQ1MDRmM2VjYWE0MTI3NGQ1MTAx`
+Snapshot ID: `MTY3MTEzNTA5NywwMDAwMDAwMGI2MWVlNTI5NDRmZWNkNDhiM2Y1YTM3NDU1YzQ5OGU5`

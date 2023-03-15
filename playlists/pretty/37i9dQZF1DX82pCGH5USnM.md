@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,682,768 likes - 304 songs - 15 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,682,852 likes - 304 songs - 15 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 94 | [This Life](https://open.spotify.com/track/3vvZV2GPtse98WQYMTrybR) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [This Life](https://open.spotify.com/album/2cjSbdhqooA0bHkIQOPgaR) | 3:06 |
 | 95 | [Airglow](https://open.spotify.com/track/3leeQGS5ZOJRXrQ8I2juxI) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Airglow](https://open.spotify.com/album/5eiuYQuowBrhyX2WIEYxxa) | 2:10 |
 | 96 | [Lust](https://open.spotify.com/track/0j4qFTe4enF6QzswnwSl4D) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [Lust](https://open.spotify.com/album/2xSxL6nXIl9RgxhGhnhVUm) | 2:09 |
-| 97 | [One Try](https://open.spotify.com/track/0r2uhuFtiYZzeNncUUzvv7) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [One Try](https://open.spotify.com/album/6lsgyMkymdgSTK43XGqvqI) | 2:31 |
+| 97 | [One Try](https://open.spotify.com/track/1cqG2UKTksqEK69bleOoj3) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [One Try](https://open.spotify.com/album/3jGgGZFzyHGsD5855LRhgk) | 2:31 |
 | 98 | [Unknown Controlpanel](https://open.spotify.com/track/4Jbd4SmdEeNeH6if9lsNLe) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Anticyclone Velodrome](https://open.spotify.com/album/6mlT2K4JCofZHXmLzSxDUx) | 3:06 |
 | 99 | [Extra Sauce](https://open.spotify.com/track/1hciDzduTo3NzRZAUbn8MF) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [Extra Sauce](https://open.spotify.com/album/093GCiTifgpyMmpiWDOCUE) | 2:54 |
 | 100 | [Laurier](https://open.spotify.com/track/7cGtbegZZSQNi7PlakMPvj) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [Laurier](https://open.spotify.com/album/57wPEiEcl3ApSWUw6wF8HU) | 2:56 |
@@ -313,4 +313,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 303 | [Seadrift](https://open.spotify.com/track/3L3Zugtoy4iSpky2oiOjDI) | [Joshua Kimiko](https://open.spotify.com/artist/0rseV1mtdhrtR6FEHuvOIm) | [Seadrift](https://open.spotify.com/album/6EQYRA1zDcrhK0N9faGKbe) | 2:46 |
 | 304 | [Beautiful Mistakes](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z) | [Maurice Mills](https://open.spotify.com/artist/0ZcVnAa1FuqddOKuw0Ok6Q) | [Beautiful Mistakes](https://open.spotify.com/album/54b551w06UPS9Bt1a4yl6E) | 2:03 |
 
-Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMDUxMzc5ZjZlMWU0YmZlYjViYTA1N2RjNTc3MDRmZDU2`
+Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMDcwZWMwOTFkODAwYjJjNDYyYTIwNDMxNzQ4NzZlZWE3`

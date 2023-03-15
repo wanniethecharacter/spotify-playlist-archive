@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX38snDqzaVVW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX38snDqzaVVW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX38snDqzaVVW)
 
-### [Salam!](https://open.spotify.com/playlist/37i9dQZF1DX38snDqzaVVW)
+### [Salam](https://open.spotify.com/playlist/37i9dQZF1DX38snDqzaVVW)
 
-> Track from Muslims around the world\. Cover: Salim\-Sulaiman, Ayisha Abdul Basith, Salim Merchant
+> Track from Muslims around the world\. Cover: Maher Zain
 
 161 songs - 13 hr 58 min
 

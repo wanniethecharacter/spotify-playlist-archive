@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Talia Goddess\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,538 likes - 150 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,598 likes - 150 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 149 | [without you](https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV) | [Secily](https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2) | [without you](https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z) | 2:56 |
 | 150 | [Closure \(feat\. Jane Handcock\)](https://open.spotify.com/track/1fAgrabzFmIZLe9sOiVaC2) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Jane Handcock](https://open.spotify.com/artist/0bl51qrk7bbplQWzpO2fqD) | [Yam Grier](https://open.spotify.com/album/2KvfsMy0IQ2XRd5Rh7Ur2Q) | 3:30 |
 
-Snapshot ID: `MTY3ODQ2NjQ3NiwwMDAwMDAwMGY0NmVkMTk5NDgyNTNjMjQ4NTk4MjhjZDViMDRmMTRi`
+Snapshot ID: `MTY3ODQ2NjQ3NiwwMDAwMDAwMDYxMTA2YzQwYjcwM2UzMzIwMzc2Y2NlMjc3MTU2NThi`

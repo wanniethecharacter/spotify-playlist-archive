@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > un cuore così 💔  \(in cover, solø\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,527 likes - 138 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,567 likes - 138 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 137 | [Hasta la Muerte](https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Hasta la Muerte](https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0) | 2:00 |
 | 138 | [frantumi](https://open.spotify.com/track/3UvV9yZNhfhCyJ2vb99egC) | [junksleep](https://open.spotify.com/artist/7A34sA473n97mgts6lGL8m) | [frantumi](https://open.spotify.com/album/24x1yXLHqq5T8lNh78SbuU) | 1:30 |
 
-Snapshot ID: `MTY3ODM1ODY4NywwMDAwMDAwMGRjYWE4ZWExNDdlMzYzZWQ2YjBhNWFlZDEwNTAwMzAy`
+Snapshot ID: `MTY3ODM1ODY4NywwMDAwMDAwMDExNjBkOWM0MzhjMWI5ZDgyNWY1NzU5NjUwNDJkMGFm`

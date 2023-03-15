@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: SUDS \| Artwork: Jim Klok
 
-800 songs - 1 day 19 hr 44 min
+801 songs - 1 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -752,7 +752,8 @@
 | [Under Your Skin](https://open.spotify.com/track/7BKdb4GNYKW3XJSRubvtSm) | [Deathcruiser](https://open.spotify.com/artist/2TsHAB2qyWpuSKBYhpRxu3) | [Under Your Skin](https://open.spotify.com/album/09JgN3TaRLayNPDzPkfi1y) | 3:07 | 2022-06-29 | 2022-09-09 |
 | [Unfun](https://open.spotify.com/track/6Yk5oWoxAXYgND1Yq8Mx0u) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y), [Small Crush](https://open.spotify.com/artist/5MpGrez01Tx9nl5YQ1Aseq) | [Unfun / Sleep In](https://open.spotify.com/album/6V7UUDVV3MbEgmVRUlFN9t) | 4:22 | 2022-08-24 | 2022-11-10 |
 | [Until It Stains](https://open.spotify.com/track/5NAE4XAjqPaRiNxLgUXDAP) | [Summer Hoop](https://open.spotify.com/artist/5bJpzOPrVuGyusOODkFeIM) | [Until It Stains](https://open.spotify.com/album/5YiHetxaWnSTarchbQMl6J) | 2:50 | 2023-01-18 | 2023-03-02 |
-| [UP](https://open.spotify.com/track/2FU7zzUx7GJz1qSzuTfGww) | [ANNABEL LEE](https://open.spotify.com/artist/05uHL3asnUSGm2jQJIggJl) | [UP](https://open.spotify.com/album/2QDWrprB34Dv25wFuFHFNr) | 4:08 | 2023-03-08 |  |
+| [UP](https://open.spotify.com/track/2FU7zzUx7GJz1qSzuTfGww) | [ANNABEL LEE](https://open.spotify.com/artist/05uHL3asnUSGm2jQJIggJl) | [UP](https://open.spotify.com/album/2QDWrprB34Dv25wFuFHFNr) | 4:08 | 2023-03-08 | 2023-03-15 |
+| [UP](https://open.spotify.com/track/6bQalCqswPowgbGaV8L35D) | [ANNABEL LEE](https://open.spotify.com/artist/05uHL3asnUSGm2jQJIggJl) | [MOTHER'S HAMMER](https://open.spotify.com/album/6qbBldeFwMj9ReYVkHWEMb) | 4:08 | 2023-03-08 |  |
 | [Useful Machine](https://open.spotify.com/track/4kpGFw3vuISTYN1Cqwfj3E) | [Caracara](https://open.spotify.com/artist/5RXLh2Xx0zUslNR6tIxSqH) | [New Preoccupations](https://open.spotify.com/album/5tdcDns4udwHqsiPhtcvA4) | 4:45 | 2022-04-06 | 2022-06-16 |
 | [Van Gogh](https://open.spotify.com/track/5x6XxpO2MTeyiuCieCDunk) | [Ray Rockman](https://open.spotify.com/artist/0OKOm3I4JxCKm7MGpf2ToR) | [Van Gogh](https://open.spotify.com/album/01SMSYwa35O2Fyvt9gNDCF) | 2:12 | 2022-08-03 | 2022-08-25 |
 | [Veronica's Shield](https://open.spotify.com/track/5UpGyLAkTFoWx6DWuiQ3eE) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [Veronica's Shield](https://open.spotify.com/album/1slozzvkXlyqatUhmQok4b) | 2:51 | 2022-08-10 | 2022-10-20 |

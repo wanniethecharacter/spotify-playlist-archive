@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 
 > Enjoy music from "Case Closed"! アニメ「名探偵コナン」の世界を彩る音楽をプレイリストで。©2020 青山剛昌／名探偵コナン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,321 likes - 111 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,368 likes - 111 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 | 110 | [Need not to know.](https://open.spotify.com/track/3NeIzYjZpPeZ4XplelZxwt) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 |
 | 111 | [名探偵コナン愛のテーマ](https://open.spotify.com/track/1xq00MfmWouCjGppzvy4zr) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 探偵たちの鎮魂歌 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0dDgRi3DAoAPkevbJTyPym) | 1:12 |
 
-Snapshot ID: `MTY3NzE0MTAyNSwwMDAwMDAwMDZhODc4OWUzNTFiOTQ2NWU2ZWEzYzkzY2JiMjliOGQz`
+Snapshot ID: `MTY3NzE0MTAyNSwwMDAwMDAwMDc5ZDY4ZDFjMDY0NzhiODI5MjAwNTQ3NzkzOTNhYzhh`

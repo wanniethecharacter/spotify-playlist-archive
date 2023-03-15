@@ -1,12 +1,12 @@
 {
   "description": "Spotify country fan favorites. Artist: Dierks Bentley",
-  "num_followers": 2123993,
+  "num_followers": 2124411,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzcwMTk2MSwwMDAwMDAwMDc5ZTBiNzc5ZGJkMDE0YjcyYWI1MDIzOGM1OGZkOTdi",
+  "snapshot_id": "MTY3NzcwMTk2MSwwMDAwMDAwMGI5N2U0OWU0MTFhYTZlYjllMGZmZDQxOGI3ZmViYmE5",
   "tracks": [
     {
       "added_at": "2023-02-01 05:00:00",
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
     },
     {
-      "added_at": "2023-03-14 01:03:10",
+      "added_at": "2023-03-15 00:43:56",
       "album": {
         "name": "Dierks Bentley",
         "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
@@ -1521,7 +1521,7 @@
       "url": "https://open.spotify.com/track/3VamXAvVMczcS2PTYtPfBQ"
     },
     {
-      "added_at": "2023-03-14 01:03:10",
+      "added_at": "2023-03-15 00:43:56",
       "album": {
         "name": "Black",
         "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"

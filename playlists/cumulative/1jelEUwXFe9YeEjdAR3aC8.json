@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 228666,
       "name": "Acrobatics",
       "url": "https://open.spotify.com/track/60o8hG5Y3wDYQuxRJFarqQ"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 172723,
       "name": "amnesia",
       "url": "https://open.spotify.com/track/33EPuIJQwfcm82vhTGJXyj"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 212361,
       "name": "Buried The Day",
       "url": "https://open.spotify.com/track/26LgkRj0GLm2yZrwPFsVug"
@@ -1703,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "Passing",
+        "url": "https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284720,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/5mNhrWH68FG0ni1etCujHX"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/63uFRNIUTdLT7cIrWMjjie"
       },
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 170873,
       "name": "First Of The Year",
       "url": "https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6"
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 241250,
       "name": "flood lines",
       "url": "https://open.spotify.com/track/3FbCoTjGMj9u4VLecvKh1Y"
@@ -2136,7 +2154,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 170414,
       "name": "Hard To Be Human",
       "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
@@ -2244,7 +2262,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 201174,
       "name": "Hiding Out In The Open",
       "url": "https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN"
@@ -2529,6 +2547,24 @@
     },
     {
       "album": {
+        "name": "I Can't Get My Head Around You",
+        "url": "https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206427,
+      "name": "I Can't Get My Head Around You",
+      "url": "https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW"
+    },
+    {
+      "album": {
         "name": "No One's Ever Looked At Me Like That / I Don't Believe It",
         "url": "https://open.spotify.com/album/28C5v07nZmOy4fNskllukP"
       },
@@ -2562,7 +2598,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 217172,
       "name": "I Hope I Packed A Parachute (feat. Charlotte Cardin)",
       "url": "https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif"
@@ -2934,7 +2970,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 158000,
       "name": "labyrinth",
       "url": "https://open.spotify.com/track/3qbzROYNqCrv7hAPjFKzHP"
@@ -2992,6 +3028,24 @@
       "duration_ms": 192154,
       "name": "Last To Know",
       "url": "https://open.spotify.com/track/3jW2VJnoDSO9fPvt3GPwct"
+    },
+    {
+      "album": {
+        "name": "leaving home",
+        "url": "https://open.spotify.com/album/3MnjEipevFo8fPiOfaiBNw"
+      },
+      "artists": [
+        {
+          "name": "Camylio",
+          "url": "https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173336,
+      "name": "leaving home",
+      "url": "https://open.spotify.com/track/45J4EoznoID3g0ByvfIJV0"
     },
     {
       "album": {
@@ -3068,6 +3122,24 @@
       "duration_ms": 273235,
       "name": "Life According To Raechel",
       "url": "https://open.spotify.com/track/0L6aCvJcfTEAx0INqVxjBH"
+    },
+    {
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212784,
+      "name": "LIMBO",
+      "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV"
     },
     {
       "album": {
@@ -3212,6 +3284,24 @@
       "duration_ms": 227677,
       "name": "Lonely Like I Am",
       "url": "https://open.spotify.com/track/3RzRzy9k0oXNcGNl05QmW4"
+    },
+    {
+      "album": {
+        "name": "Lonely Love Song",
+        "url": "https://open.spotify.com/album/133u1HCKHE50wMw0PrcKFg"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157857,
+      "name": "Lonely Love Song",
+      "url": "https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw"
     },
     {
       "album": {
@@ -3378,7 +3468,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 200951,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/7E6jdcJTGDpYmjHFnXu3vG"
@@ -3454,7 +3544,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 113607,
       "name": "meet me at the tryouts (feat. Prentiss) - nc",
       "url": "https://open.spotify.com/track/2584UpE1DH9iHKUepsIQNu"
@@ -3472,7 +3562,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 220798,
       "name": "Men On The Moon",
       "url": "https://open.spotify.com/track/164LL9rTyEZ6DF0KMgXxsJ"
@@ -3660,6 +3750,24 @@
       "duration_ms": 193018,
       "name": "Nectar",
       "url": "https://open.spotify.com/track/1KlHf3jLMQ1jE6EzPosEkv"
+    },
+    {
+      "album": {
+        "name": "Never Goes Away",
+        "url": "https://open.spotify.com/album/0NLKXJv4DxlwyQ94CetFXg"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146439,
+      "name": "Never Goes Away",
+      "url": "https://open.spotify.com/track/5FPSUR4mfKAz1YIY0Fjx0L"
     },
     {
       "album": {
@@ -4259,6 +4367,24 @@
     },
     {
       "album": {
+        "name": "Reasons To Stay",
+        "url": "https://open.spotify.com/album/5LfiDDRyhDicozHp1Dkd5W"
+      },
+      "artists": [
+        {
+          "name": "Charlie Oriain",
+          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152917,
+      "name": "Reasons To Stay",
+      "url": "https://open.spotify.com/track/4bWGLlwkPEmykisIpM5B99"
+    },
+    {
+      "album": {
         "name": "Remember (Acoustic)",
         "url": "https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM"
       },
@@ -4318,6 +4444,24 @@
       "duration_ms": 182000,
       "name": "REWIND",
       "url": "https://open.spotify.com/track/2EFTpz9QGlNy5UFJuSW4E6"
+    },
+    {
+      "album": {
+        "name": "Right",
+        "url": "https://open.spotify.com/album/2a3d6V3ahlROz5M8eeHpUB"
+      },
+      "artists": [
+        {
+          "name": "Dylan Dunlap",
+          "url": "https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "Right",
+      "url": "https://open.spotify.com/track/2bRNyQh32OGVHRS9DLiAKA"
     },
     {
       "album": {
@@ -4426,6 +4570,24 @@
       "duration_ms": 217223,
       "name": "Sad Love",
       "url": "https://open.spotify.com/track/68UkVdPxJFZDz5Dtz2nGsb"
+    },
+    {
+      "album": {
+        "name": "Sally",
+        "url": "https://open.spotify.com/album/4fRbVJ1B6nbRrPdKLg3aYo"
+      },
+      "artists": [
+        {
+          "name": "gigi",
+          "url": "https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273935,
+      "name": "Sally",
+      "url": "https://open.spotify.com/track/0qFZubf0FS0xxropyslwYJ"
     },
     {
       "album": {
@@ -4609,6 +4771,28 @@
     },
     {
       "album": {
+        "name": "Si Me Voy (with The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203219,
+      "name": "Si Me Voy (with The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
+    },
+    {
+      "album": {
         "name": "Charm of Pleasure",
         "url": "https://open.spotify.com/album/6YrdjgvM2rx0BQ3yQFAJuH"
       },
@@ -4776,6 +4960,24 @@
       "duration_ms": 314213,
       "name": "St. Beater Camry",
       "url": "https://open.spotify.com/track/3u7s57agRpvdm0JSkG3pny"
+    },
+    {
+      "album": {
+        "name": "Stay Anything",
+        "url": "https://open.spotify.com/album/2ROnH7L5WNEBQdPn6q0vxA"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208282,
+      "name": "Stay Anything",
+      "url": "https://open.spotify.com/track/0XC3NNlml0mClzs23YtBiL"
     },
     {
       "album": {
@@ -5090,6 +5292,28 @@
       "duration_ms": 217130,
       "name": "Teeth Marks",
       "url": "https://open.spotify.com/track/6L7uYQYLL6veGWP89fFph0"
+    },
+    {
+      "album": {
+        "name": "Tell Me Have You Been Dancing (Claud Remix)",
+        "url": "https://open.spotify.com/album/5PJQPn04XHPVunHWwobYIL"
+      },
+      "artists": [
+        {
+          "name": "Daisy the Great",
+          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
+        },
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185525,
+      "name": "Tell Me Have You Been Dancing - Claud Remix",
+      "url": "https://open.spotify.com/track/30wuBQxnI9aME41CBMuKaZ"
     },
     {
       "album": {
@@ -5544,7 +5768,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 173540,
       "name": "van gogh",
       "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
@@ -5836,7 +6060,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 282974,
       "name": "When You're Gone (with Bedouine) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/7Gp2tFkwXuiDF0CdbGsXZN"

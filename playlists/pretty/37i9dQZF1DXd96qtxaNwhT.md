@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,973 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,970 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 74 | [Panic at the Party](https://open.spotify.com/track/24vkQwXidlMB5SEoZEU2pi) | [Ash Lune](https://open.spotify.com/artist/4qGkfdK3YS6jr5oIQ0AkQI) | [Panic at the Party](https://open.spotify.com/album/4b7o70zLLuzU6s304X3R2e) | 3:27 |
 | 75 | [Hopeless Romantics](https://open.spotify.com/track/0zn5Sa8fRjpUo7XXUaNRTB) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Hopeless Romantics](https://open.spotify.com/album/4caqBOEvibGE77J3LaRrzK) | 2:59 |
 
-Snapshot ID: `MTY3ODI2NzEzMCwwMDAwMDAwMGRmYWQ0MTg2ZDY2MzY1NmY4M2VmZDNkNjc3NTQxYmE5`
+Snapshot ID: `MTY3ODI2NzEzMCwwMDAwMDAwMDJhNWMyYjFhNDUzMGU5ZDEyYTNjOGUyMTRmNTgwYWQz`

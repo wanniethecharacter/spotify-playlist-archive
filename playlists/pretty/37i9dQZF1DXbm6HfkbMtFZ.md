@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,198 likes - 115 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,340 likes - 115 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [King Prawn The 1st](https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Boys, B\-Sides & Rarities](https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U) | 2:36 |
 | 115 | [Lazy Nina](https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q) | [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Pulse \(Expanded Edition\)](https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4) | 5:26 |
 
-Snapshot ID: `MTY3ODQ4NjIxOSwwMDAwMDAwMGM0NDA5N2U2Njk1Yzc5MDc1NjZhMWI2ZjAwNzZjMWM1`
+Snapshot ID: `MTY3ODQ4NjIxOSwwMDAwMDAwMGQwMjM2Y2ZmYjc2OGY4OGM4YjI4NDJjNTM0YWZiYzRi`

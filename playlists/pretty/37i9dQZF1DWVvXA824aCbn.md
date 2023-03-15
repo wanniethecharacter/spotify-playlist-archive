@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,640 likes - 150 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,649 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 149 | [When All Was Said and Done](https://open.spotify.com/track/4RTUdqbqiuKJ3cu7PBvScU) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [When All Was Said and Done](https://open.spotify.com/album/2RD4jX3CYtP6pvuNAnLqPi) | 4:35 |
 | 150 | [You Go To My Head](https://open.spotify.com/track/366IPHOgIJJNwxJlfAcnv9) | [Tommy Flanagan Trio](https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU) | [Tommy Flanagan Trio](https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu) | 4:27 |
 
-Snapshot ID: `MTY3ODI4NTM2OCwwMDAwMDAwMDVjZWNiNjM2ZjUyNjY0MjhiNmFiZThlNGYyNjc0OGYz`
+Snapshot ID: `MTY3ODI4NTM2OCwwMDAwMDAwMDZhYThjNjFhZTViNWQ5NGY3MmM0ZWE1MmIxMjdmMjFh`

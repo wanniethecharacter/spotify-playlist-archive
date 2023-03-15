@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Zinadelphia\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156,314 likes - 64 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,272 likes - 64 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 63 | [Shoot This Bitch Up](https://open.spotify.com/track/5diBidXq76CnTQb70AJhCQ) | [GMO Stax](https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK) | [Shoot This Bitch Up](https://open.spotify.com/album/4LtjPc5HoJRz2h370RXYZL) | 1:31 |
 | 64 | [CAMPGROUND](https://open.spotify.com/track/0kzE5NWXrcroDqu6iN1za5) | [daynim](https://open.spotify.com/artist/5TJfVhMs1wOBcLLl56fiu6) | [PSSST!](https://open.spotify.com/album/2mpmmZuwNKpA1TD1coBwFg) | 3:16 |
 
-Snapshot ID: `MTY3ODQ4MDIyOCwwMDAwMDAwMDk4NmI2ZmEzZTIxYjY3ODQ2MzFlMTY4NzU0YmRmM2Qz`
+Snapshot ID: `MTY3ODQ4MDIyOCwwMDAwMDAwMDA4Mjg4YWZjNGJkMmMwOGFmY2ZhNTNhMThjMDYyOWE5`

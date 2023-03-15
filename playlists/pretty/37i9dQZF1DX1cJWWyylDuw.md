@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Chelsea Grin
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,372 likes - 125 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,743 likes - 125 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 124 | [Lost Boy](https://open.spotify.com/track/5jFuZGmz1VmEmx31wP7lDy) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [Lost Boy](https://open.spotify.com/album/3ZULFLjv3iyEZCgOzmmKHp) | 3:58 |
 | 125 | [The Price of Grace](https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Price of Grace](https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd) | 4:07 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDQ2MTc4ODk0M2YxYmUxM2JmNjYyYmZkZDg5MGJiNzdl`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGQ3NDM1MjE5MTZjZWMyOGIyZjQ5MjdlOTZkZTdmYjc4`

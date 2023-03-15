@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Gary Hobbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,648 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,653 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 79 | [La Buena Vida](https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz) | [Rose Elva & the Crew](https://open.spotify.com/artist/3DZ3z0HmuuNFD5JiIukSKn) | [La Buena Vida](https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk) | 3:42 |
 | 80 | [Si Esto No Es Amor](https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI) | [Liz Garcia](https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX) | [Si Esto No Es Amor](https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP) | 3:38 |
 
-Snapshot ID: `MTY3ODQ3MzgwOCwwMDAwMDAwMDQwNWJkNTcyODQ2NzNjNDk2NDc1YjIwMmE4MjFmZjYw`
+Snapshot ID: `MTY3ODQ3MzgwOCwwMDAwMDAwMGIyZTViNThjNzEyN2E0YjYzYzczZTU3OWZmNjdhOTgw`

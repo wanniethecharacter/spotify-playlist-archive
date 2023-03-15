@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Turf en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,670 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,688 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Groovie](https://open.spotify.com/track/2pjhhTvS2eA18Ix13UziC4) | [La China Lina](https://open.spotify.com/artist/6ytqIaZijZnv5wtglCrQ2G) | [Groovie](https://open.spotify.com/album/7cWczqEmH3zAfXWBFo6HeU) | 3:53 |
 | 50 | [Mañana](https://open.spotify.com/track/4KmDO4Jut1aQpoTe6wqwN5) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Su Majestad Mi Banda el Mexicano de Casimiro Zamudio](https://open.spotify.com/artist/6xpqO0zJHdy9pGoY7u0G8u) | [Muchas Noches, Buenas Gracias](https://open.spotify.com/album/5OEzYiqPv2GSi6RTemlNK7) | 3:48 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGU0MTI0ODM0OWQ1ZWI1MmE4YzU2ZDFjN2RiMzViZWY0`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDk1M2YyMzQ4NGRjMTE1MDUxNzFiYzcwMmY3ZDFkYjVi`

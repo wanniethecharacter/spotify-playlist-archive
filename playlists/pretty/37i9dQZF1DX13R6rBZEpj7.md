@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Bushbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,058 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,111 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [Nuclear](https://open.spotify.com/track/3OWUGei3PnLi5pqAl68fhZ) | [Arc Nade](https://open.spotify.com/artist/57dmsH0BOHyhumBwhL2zqL) | [Nuclear \- EP](https://open.spotify.com/album/6Y5fwzWmzx1kgIPUUybmNa) | 3:15 |
 | 70 | [Thugs](https://open.spotify.com/track/0Rwc46KVDHVdcn6fN5S4dc) | [KDYN](https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi), [Albzzy](https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ) | [Thugs](https://open.spotify.com/album/6bnzNlV4NIrKZSkyPnADpE) | 3:56 |
 
-Snapshot ID: `MTY3NDU4NDc3MSwwMDAwMDAwMDBhOWFiNmEwYjE4ZTg5ODIzOGI4N2Q2ZTBjZGIyMjg3`
+Snapshot ID: `MTY3NDU4NDc3MSwwMDAwMDAwMDk0YzM4MzFjMTE4NDlhYjRmMDBiOTUwMjAzNmRkM2My`

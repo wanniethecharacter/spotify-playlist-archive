@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,416,290 likes - 150 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,416,422 likes - 150 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 149 | [Tell Me](https://open.spotify.com/track/0ndV1KbJuiFxPuZ4cJZZi8) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy), [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [Tell Me](https://open.spotify.com/album/1irZ1TS0B9d4Imzn6SSg1J) | 3:06 |
 | 150 | [either side](https://open.spotify.com/track/5zsbL78TMgXh1vzt77h5pl) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:47 |
 
-Snapshot ID: `MTY3ODM4Mjc0NywwMDAwMDAwMGZhMGJlNzRjODQ5OThhYmU1ZGU5NjE2MjViOWZjZjM5`
+Snapshot ID: `MTY3ODM4Mjc0NywwMDAwMDAwMGM0MDMwNWU3N2YyZmE2YjcyNzFhN2Q2YmMzMDY5Mjg5`

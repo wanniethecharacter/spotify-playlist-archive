@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,450 likes - 120 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,778 likes - 120 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 119 | [Hunter](https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL) | [Nature of Wires](https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi) | [Building Reflections](https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G) | 3:15 |
 | 120 | [Northern Spirit](https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Northern Spirit](https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL) | 4:06 |
 
-Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMDk2Yzc2OGFmYzgwYzYxNWMyNGJhY2U0MzRlYTVjMGFi`
+Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMDNkZDY1N2NmMjk2ZDI0OTUzOGQzNDU1MjJiY2E4MTM2`

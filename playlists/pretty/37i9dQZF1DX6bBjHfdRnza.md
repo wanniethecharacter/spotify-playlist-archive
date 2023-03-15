@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Surusinghe\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,712 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,770 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Bass](https://open.spotify.com/track/47Rm5INnFdXp4Evsbjn9NH) | [WeMart](https://open.spotify.com/artist/0TMamNslZ5iAw4ONMusWdK) | [Drop It](https://open.spotify.com/album/6Dpd45yWpfcCT3o2EIaNAf) | 3:30 |
 | 100 | [Yoku](https://open.spotify.com/track/5cyDQYk71U1HBroUoA1jnN) | [Deepchild](https://open.spotify.com/artist/2QWcO0QxyDazrtTXJvnEFB) | [Black Atlantic](https://open.spotify.com/album/7CrGHQm8LXxpDuIh4895NA) | 5:30 |
 
-Snapshot ID: `MTY3ODI5MzAwMCwwMDAwMDAwMGQxNmFhYTY3ZTYyODM1YzU1MzI2MjQxZThmNThlMGFl`
+Snapshot ID: `MTY3ODI5MzAwMCwwMDAwMDAwMGE5YzMwZDcyYzEwZDNjMTA5ZjYyMWU2MzJmN2M4NDZl`

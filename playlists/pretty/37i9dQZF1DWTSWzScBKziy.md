@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,583 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,617 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [JOY](https://open.spotify.com/track/6UCBG8W5KLIYwcGrzDygoe) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [JOY](https://open.spotify.com/album/3Sxk9JuUc26FMBhyi4L94K) | 4:16 |
 | 100 | [HOLY GHOST](https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [HOLY GHOST](https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA) | 4:50 |
 
-Snapshot ID: `MTY2NzAyNzg1OCwwMDAwMDAwMGJhYmE0ZDBkYTkxZTk2NmZiNDY3YjllZjkyNjRmMTRl`
+Snapshot ID: `MTY2NzAyNzg1OCwwMDAwMDAwMGVhNWMxODk3NGY3MWNhYzYzODVmNDA3ZTU2YjQ0YTYw`

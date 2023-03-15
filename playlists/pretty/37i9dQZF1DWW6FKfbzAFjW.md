@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 
 > Feel\-good tunes for your Cinco de Mayo\. ¡Salud!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,740 likes - 44 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,736 likes - 44 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 43 | [El Shot](https://open.spotify.com/track/7Ay1aNyumjdw2fRWmy0xBx) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Entre Amigos y Enemigos](https://open.spotify.com/album/1hQIcRYED9BUiPqxtFGoeO) | 2:40 |
 | 44 | [Dame Otro Tequila](https://open.spotify.com/track/1vJcLbQyYRfmCoiyXKTsLk) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Pau Factor](https://open.spotify.com/album/5aJbHf0uuWc09nain4j3wl) | 2:42 |
 
-Snapshot ID: `MTY3MzI0NTkzNywwMDAwMDAwMDcwMDc2ODQ3N2JhOGVlMGRlY2FjZjJhNjYxZDFlYjJi`
+Snapshot ID: `MTY3MzI0NTkzNywwMDAwMDAwMDIzZTMyYTg5MTI4YzY5Y2QxMWRjN2JkODQyODZiMzY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,406 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,402 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [When You're Smiling](https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR) | [Kid Thomas](https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe), [Thomas Jefferson](https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR), [Percy Humphrey](https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE) | [New Orleans Traditional Jazz Legends, Vol\. 3](https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs) | 4:27 |
 | 50 | [Everything's Lovely](https://open.spotify.com/track/38CCKfmrlEEs95wFhEVSWy) | [Dejan's Olympia Brass Band](https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk) | [Here Come da Great Olympia Band](https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17) | 0:49 |
 
-Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDA0MWU0NDdiMjkzYWNiMTA2ZTRlN2Q1Yjc0Zjk2MTM2`
+Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDM2ODczODg2ZjM4YzE0Zjc0ZmYxZDBmYTNmODRmMjYy`

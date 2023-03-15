@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Night Skinny
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,123 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,264 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 59 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
 | 60 | [molecole \(interlude\)](https://open.spotify.com/track/7vsofh7bdDeL0n0lodFiCi) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:05 |
 
-Snapshot ID: `MTY3MzU2ODA2MCwwMDAwMDAwMDBkNDJkZjdlZjAxYzQxZGVlY2M4NzY3MmJkMGJiMjVi`
+Snapshot ID: `MTY3MzU2ODA2MCwwMDAwMDAwMDEyNDM3OTRhM2ViM2M1YTExMTY3MDkxMGNjZDU0MGJm`

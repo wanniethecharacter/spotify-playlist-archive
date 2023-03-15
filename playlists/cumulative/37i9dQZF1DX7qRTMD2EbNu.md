@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL?si=s0bniQCJRpSqS2Ohh60y0Q"> Medikal </a>
 
-174 songs - 8 hr 53 min
+175 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Soja](https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Soja](https://open.spotify.com/album/0WrpYqyMi0ZU8EY9AzCdht) | 3:01 | 2022-09-23 |  |
 | [Stand Firm](https://open.spotify.com/track/0YcxvwO8PUGQgxUER2C2bM) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Stand Firm](https://open.spotify.com/album/3sr8Z6gGLvnzOKXnejZs3r) | 2:12 | 2022-06-24 |  |
 | [Stay Away](https://open.spotify.com/track/43tWFsS0ym9fYjWEUWE9Af) | [Kay Flip](https://open.spotify.com/artist/15XbgPh1TL1km28ZEPr2tF) | [Stay Away](https://open.spotify.com/album/0en8EMOWHKcxUasrbB9mcl) | 2:55 | 2023-02-03 | 2023-02-11 |
-| [Stir It Up](https://open.spotify.com/track/5A6mHdKHowaitCRTSEHriS) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Stir It Up](https://open.spotify.com/album/6MNUKupGTXg7Znmqx0BGB0) | 3:41 | 2023-01-20 |  |
+| [Stir It Up](https://open.spotify.com/track/5A6mHdKHowaitCRTSEHriS) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Stir It Up](https://open.spotify.com/album/6MNUKupGTXg7Znmqx0BGB0) | 3:41 | 2023-01-20 | 2023-03-15 |
+| [Stir It Up \(Feat\. Sarkodie\)](https://open.spotify.com/track/1NM9OsPbiAuxw8slkPB5QO) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Stir It Up](https://open.spotify.com/album/28XO1MdjPr59qd5qrHd2oW) | 3:41 | 2023-03-10 |  |
 | [Streets Ayeshi](https://open.spotify.com/track/0wPU1eNyf9rT9oPnOUdVad) | [Ground Up Chale](https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh), [Bigg Homie Flee](https://open.spotify.com/artist/24OjXcA2zXunU4i5RgzZQa), [Kimati](https://open.spotify.com/artist/0C7w64wIrv459eGHwq6hPn), [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV), [QV](https://open.spotify.com/artist/50CBRvn7AKdKTErB76P7dv), [Abdoulaye Diope](https://open.spotify.com/artist/5B7uXAP6dAICj1MahqaPSy) | [Trenches Babies](https://open.spotify.com/album/3IP9LuMkbM7Ka57uxuyiWd) | 4:16 | 2022-09-01 |  |
 | [SWAG \(feat\. O'Kenneth, Reggie, Jay Bahd & Kawabanga\)](https://open.spotify.com/track/1Gn3pwGB9TLj56eElRY2a2) | [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh) | [SWAG \(feat\. O'Kenneth, Reggie, Jay Bahd & Kawabanga\)](https://open.spotify.com/album/4jVT3IHYxo6EFIMpaMRrsp) | 2:54 | 2022-11-25 | 2023-02-24 |
 | [Switch](https://open.spotify.com/track/7yRAFznS8XbA9g8KkCW83X) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9) | [Switch](https://open.spotify.com/album/2d8MfrCy3VLlkB38w4J4lh) | 3:45 | 2023-01-27 | 2023-02-11 |

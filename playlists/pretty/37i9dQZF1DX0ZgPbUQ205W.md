@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,399 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,478 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 99 | [The First Touch](https://open.spotify.com/track/5fDmVPtwQAo45rLxKBUZod) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 4:13 |
 | 100 | [For L.R.P.](https://open.spotify.com/track/0m7znBzP0zJP5J6DomAfkg) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Eva](https://open.spotify.com/album/6tSaqXyuMecjyWMqqxundn) | 3:55 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDhkNGM1NTE5ZGJjZTcyOTdmM2M1NjNjMWQ5MGJiYTNm`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDMwZTc3YzZiZWVlODk4ZDk0ZTg5MzZlODQ3NGMyNjcx`

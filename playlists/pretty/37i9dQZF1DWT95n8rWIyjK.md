@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT95n8rWIyjK.md) - [plain]
 
 > Música Mexicana curated by <a href="https://open.spotify.com/show/408KWeYfiDfXvhqbmPEIsg?si=fb7f4db31ff64f53">Agushto Papa</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 791 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT95n8rWIyjK.md) - [plain]
 | 39 | [LA NIÑA DEL INSTA](https://open.spotify.com/track/7xyB07GxoxgAD2fwwIOXhT) | [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [CORAZÓN ILLUSIONADO](https://open.spotify.com/album/79l8egiNLCBeyya4yP25H4) | 2:46 |
 | 40 | [Es Claro](https://open.spotify.com/track/6rmWdaLQjCFmwgjujWPnY9) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Es Claro](https://open.spotify.com/album/5bZbVxM7cTMdqUkoNcRr5y) | 2:41 |
 
-Snapshot ID: `MTY3ODIxOTYxNiwwMDAwMDAwMGExNmI3MzI3YWEzZGQ3OTZjNDUyOWY5MWYzMzI3N2U3`
+Snapshot ID: `MTY3ODIxOTYxNiwwMDAwMDAwMDJhNGE3OTY2NDkyNTk0MGVjN2JmNDYzY2Q0MGZhYTlh`

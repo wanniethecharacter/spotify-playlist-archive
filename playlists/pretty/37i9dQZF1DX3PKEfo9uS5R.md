@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,748 likes - 92 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,817 likes - 92 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 91 | [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 |
 | 92 | [All that glitters](https://open.spotify.com/track/3a23Wcf6iYqWZM55UJpemn) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Compose Yourself](https://open.spotify.com/album/53t4xsId26JE5HRAkUSVxo) | 3:17 |
 
-Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMGE0ZWRjMDBmNTVjNjFkMzNkZWZhZWJkZmI1OGNkODdh`
+Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMDI4YjZhNDNkNDU0N2YzNDgyNDE3ZWMyM2U1ZjZlNGFl`

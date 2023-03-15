@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,301 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,363 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 99 | [Paradise Lost](https://open.spotify.com/track/2SpjlJaVfxGEJBGIYBzGjM) | [Not Waving](https://open.spotify.com/artist/6mkqjpZbG63Y1MJQcItRmC), [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Eyes of Fate](https://open.spotify.com/album/5fXndXNfdkUYyh1tfHB3QU) | 3:23 |
 | 100 | [Cry Me A Blizzard \- AFRODEUTSCHE I'm Here Remix](https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG), [AFRODEUTSCHE](https://open.spotify.com/artist/4jRLhvF4a3NHs5TaR1lU3m) | [Cry Me A Blizzard \(AFRODEUTSCHE I'm Here Remix\)](https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3) | 3:29 |
 
-Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMDEwZDI5ZDJkYTc5ZjRlYjk3ZGZiN2IyYzhkYjQzNjU0`
+Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMDBkZmQ1ZTFlYWM5YWVkMTJlZWFhYTQ5OWFiMGMzYzMy`

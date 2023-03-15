@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Felipe Vilela
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,817 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,845 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 79 | [Planos Melhores](https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL) | [Andressa Cordeiro](https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF) | [Planos Melhores](https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul) | 3:04 |
 | 80 | [Amor de Pai](https://open.spotify.com/track/2zvuGj62W1rYAmotN7H8nE) | [Jessé Lucas](https://open.spotify.com/artist/4uosL2rdfOhq51LXq004XL) | [Amor de Pai](https://open.spotify.com/album/7zFp6VVBpVZyGWatYgtwE2) | 3:49 |
 
-Snapshot ID: `MTY3NzIzNzc0MiwwMDAwMDAwMDdiMjBiNDVhY2IyYTBjODgzYTc3MTAxYjEwNjg0MmZl`
+Snapshot ID: `MTY3NzIzNzc0MiwwMDAwMDAwMGQyOTNmNmEzNTFiNGI4NTNmZjkyYWIyOGE5ODg5MjIy`

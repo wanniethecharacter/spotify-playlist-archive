@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,933 likes - 150 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,608 likes - 150 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 149 | [My Jamaican Guy](https://open.spotify.com/track/7zcC5yZZp1IKnI73ztsIaE) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Living My Life](https://open.spotify.com/album/4EsGuoM79PDO7tQwqAwjKC) | 6:02 |
 | 150 | [Tender Rose](https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Tender Rose](https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP) | 3:22 |
 
-Snapshot ID: `MTY3Nzc2Mjg2NiwwMDAwMDAwMGUyZjM0MzU4NzU4NGE0NzQ4YmM2NDY5NjQ5NDQyMjAw`
+Snapshot ID: `MTY3Nzc2Mjg2NiwwMDAwMDAwMGE5ODIwY2FkZGM0MmJlMDg1NzI1MWQ1ZjVhYjc1YTZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,862 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,880 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 149 | [Deer Creek Canyon](https://open.spotify.com/track/4bjK4okiLjAPmGjvxEjEBY) | [Sera Cahoone](https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ) | [Deer Creek Canyon](https://open.spotify.com/album/0BwzPjT3gChyxVmQYzGvzK) | 3:18 |
 | 150 | [Can't See Stars \(feat\. Kevin Morby\)](https://open.spotify.com/track/4vDEQxivxtfbgmEHtsJ29H) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Lighten Up](https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI) | 3:36 |
 
-Snapshot ID: `MTY3ODI1MTYwMCwwMDAwMDAwMDVkMzE1OGNhYTMxYmRiNGFhNWE5ZmJjMGYxNjkwZmZj`
+Snapshot ID: `MTY3ODI1MTYwMCwwMDAwMDAwMGJjZGVmZDkwOWU2OTkzZWQxMTI2MmExMmZlMGQwZDZm`

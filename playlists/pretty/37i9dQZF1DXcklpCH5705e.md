@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > 經得起時間考驗嘅歌曲，無論新版、舊歌一樣好聽！
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,391 likes - 35 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,393 likes - 35 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 34 | [甘心替代你 \- 2020 Music Suite Live](https://open.spotify.com/track/5aB9F7Ku4KwzuvEmQqXnPI) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Dear Secret \(2nd edition\)](https://open.spotify.com/album/33oSpTnVlOvjODoph9vv3u) | 3:25 |
 | 35 | [給自己的信](https://open.spotify.com/track/0Tmkb2BB7M6Jxugz2yHZCU) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [C AllLive 2012](https://open.spotify.com/album/6rvPe6eKm2V6YVw3GzJWAj) | 4:33 |
 
-Snapshot ID: `MTY3NTMyOTEyMywwMDAwMDAwMDNlNDAwMzAxY2ZmZWY2ODcxNTQ4MmY2MzZkMzE5Y2M2`
+Snapshot ID: `MTY3NTMyOTEyMywwMDAwMDAwMGU5YzFjM2ExNTNkOGE3MmQ0MGIwYzQzZjQ0ZTU2MDYy`

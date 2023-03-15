@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,319 likes - 202 songs - 11 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,334 likes - 202 songs - 11 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 | 201 | [tea for two](https://open.spotify.com/track/2hX0ncE771SfgEmu1wBBi8) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:44 |
 | 202 | [You've Changed](https://open.spotify.com/track/6aNOZF4gBajxxwyUDipZHR) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [You’ve Changed](https://open.spotify.com/album/2PRzgBftdc0MsjSTdRo1la) | 4:31 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGZlZjhkNThmNzgxYWVmNWUwYTY3OTIzYjVkOWMwNDEz`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDI3YzY4OTQyZTE4ZDgyNTI1MzRhMjZhMmMyMzI2MGYy`

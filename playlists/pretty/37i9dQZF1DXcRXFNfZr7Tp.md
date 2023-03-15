@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Meghan Trainor
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,734,035 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,734,535 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 99 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 |
 | 100 | [Don't Hurt Me \(What Is Love\)](https://open.spotify.com/track/6Lytqcs0fMmCO8JNewrnbj) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Don't Hurt Me \(What Is Love\)](https://open.spotify.com/album/4NM3zrdNq6tpELPeaPM8QY) | 2:37 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDEyODczNjFmODE1YzRmMTE0MTc0NTAzZDA1NzYzMjUx`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDBiNGRhMmE5MjQ0ZjYyZGVmZjU1NzE0OTIyZjdkNzli`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Rufus Wainwright
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,837 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,848 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Pictures](https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:16 |
 | 100 | [The Sweetest Lie](https://open.spotify.com/track/3M0hEMN4OZSet5nnh1PKGZ) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [The Sweetest Lie](https://open.spotify.com/album/6tGjHzgMwiHP7oVKzFofVF) | 2:33 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDQ5ZTk3ZWNkMWIwYWE3Y2FjYWM2MWRiODFjMzc1NTY5`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDkxYjg3NTEyZDBiNjAxMDhiNTk5MmE4N2FiZjU5MTY4`

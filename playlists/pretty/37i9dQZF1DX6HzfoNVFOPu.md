@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HzfoNVFOPu.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,927 likes - 200 songs - 12 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,060 likes - 200 songs - 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HzfoNVFOPu.md) - [plain]
 | 199 | [Kiss Me](https://open.spotify.com/track/3Tm90zTQXKVR2q0KBXgC46) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 2:55 |
 | 200 | [Nice to Know You](https://open.spotify.com/track/77eRSoQbDt4qHlAhUqovmy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:43 |
 
-Snapshot ID: `MTY3NDA3NjcwOCwwMDAwMDAwMDhmODZhZWY1MjIxNThiZDlkZjMzNzUwZDE4NTk4ZTU3`
+Snapshot ID: `MTY3NDA3NjcwOCwwMDAwMDAwMDlkZjk1MWM5YjVhN2MzNzg3NTU3Mjg2ZTZkYTI2Yzgz`

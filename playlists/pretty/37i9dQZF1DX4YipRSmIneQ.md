@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > 😈 turn anywhere into a sexy club 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,017 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,160 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 49 | [High Tide \- Doss Remix](https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [High Tide \(Doss Remix\)](https://open.spotify.com/album/2h2McsLfMB1ZNJywK2TRG4) | 3:43 |
 | 50 | [What's the Word \- Wax Wings Remix](https://open.spotify.com/track/6Es4E4HxhijoUHSqNz0Eut) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S), [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3) | [What's the Word \(Wax Wings Remix\)](https://open.spotify.com/album/7DNGZ4fefzzTijus6WXMxO) | 3:29 |
 
-Snapshot ID: `MTY3NzA5MzQ4MiwwMDAwMDAwMDNkZTE2YzcwYjA1MjNiYTViM2E2YWM0YjUxY2M3ZmY4`
+Snapshot ID: `MTY3NzA5MzQ4MiwwMDAwMDAwMDM4NWViMGQ1OTA0ZWI4NjcxYjUxMmM2M2VjMGZjOThh`

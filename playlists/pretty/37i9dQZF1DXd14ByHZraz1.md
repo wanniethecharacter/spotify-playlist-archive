@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Groove Delight
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,444 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,438 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Falling for You](https://open.spotify.com/track/5CG0mHrltJxCqMV0YHZ62x) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Briana](https://open.spotify.com/artist/4EK5SSlytCE7of3wEUqiDE) | [Falling for You](https://open.spotify.com/album/3PlHIJHpzzxNtRzzCy5YUr) | 2:20 |
 | 50 | [Pretender](https://open.spotify.com/track/2OM6aYmfvRVnYAnfo7I9V7) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Yann Camargo](https://open.spotify.com/artist/1FAj2IV5DuzAW8Q5V9EDbp), [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Pretender](https://open.spotify.com/album/6DprqvZwBR7EGIuIfQ0J3T) | 2:50 |
 
-Snapshot ID: `MTY3ODQxNzM4MCwwMDAwMDAwMDUxODU1MmZhOTI4YThiZjYyOTE3MTRlNGZiYTMxNDE2`
+Snapshot ID: `MTY3ODQxNzM4MCwwMDAwMDAwMDYyOTIxYjBiYmViYTE1NTRkYWU5M2ZjYmI2MjdiODkz`

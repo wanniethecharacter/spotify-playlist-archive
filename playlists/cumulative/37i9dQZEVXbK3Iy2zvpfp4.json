@@ -41,6 +41,36 @@
     },
     {
       "album": {
+        "name": "gener\u00e1cia 00",
+        "url": "https://open.spotify.com/album/4QF0TEUrD0GQjw4Ta8gu8r"
+      },
+      "artists": [
+        {
+          "name": "Matias",
+          "url": "https://open.spotify.com/artist/1zOf9bgaDL59wIeRQjUIxg"
+        },
+        {
+          "name": "RuckFiso",
+          "url": "https://open.spotify.com/artist/2Y8buMwgAJXUwSFQhXQ44W"
+        },
+        {
+          "name": "goldenB",
+          "url": "https://open.spotify.com/artist/5bQwKVBmEuLHp20gMjiwob"
+        },
+        {
+          "name": "Impulz",
+          "url": "https://open.spotify.com/artist/3qiu7fPteFVvxeiy1czHuD"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269111,
+      "name": "10",
+      "url": "https://open.spotify.com/track/2VwEWsVMBWaFPPSEXFK3Qi"
+    },
+    {
+      "album": {
         "name": "K\u00f3dex",
         "url": "https://open.spotify.com/album/3U5WZxiGnrWDCBMnudNI8f"
       },
@@ -186,7 +216,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 170100,
       "name": "3 Nap",
       "url": "https://open.spotify.com/track/0R7YvZPeHphkV48ffoGmsl"
@@ -3596,7 +3626,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 207286,
       "name": "Dirty Vans",
       "url": "https://open.spotify.com/track/0qWNR5S5Hb3aOppJ86e08C"
@@ -4779,6 +4809,24 @@
     },
     {
       "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
+    },
+    {
+      "album": {
         "name": "FLUTE",
         "url": "https://open.spotify.com/album/5wd6GqCH0LfjgoklXABWxF"
       },
@@ -4816,6 +4864,28 @@
       "duration_ms": 159123,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
+    },
+    {
+      "album": {
+        "name": "Forget You",
+        "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147986,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
     },
     {
       "album": {
@@ -5865,6 +5935,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
+    },
+    {
+      "album": {
         "name": "Hell's Comin' with Me",
         "url": "https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg"
       },
@@ -6022,6 +6110,24 @@
       "duration_ms": 245156,
       "name": "Hop \u010cip",
       "url": "https://open.spotify.com/track/7sqpK9TpNVIWSn01Nm2AUu"
+    },
+    {
+      "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264473,
+      "name": "HOPE",
+      "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
     },
     {
       "album": {
@@ -6699,6 +6805,24 @@
     },
     {
       "album": {
+        "name": "Introvert\u00e1lt dal",
+        "url": "https://open.spotify.com/album/6ZRIaIZEYI7HBPNPKmeAXw"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169841,
+      "name": "Introvert\u00e1lt dal",
+      "url": "https://open.spotify.com/track/2SoIhnJXdHp8oo0w9pktub"
+    },
+    {
+      "album": {
         "name": "S l\u00e1skou, Luk\u00e1\u0161.",
         "url": "https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t"
       },
@@ -7322,7 +7446,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 77360,
       "name": "Klub b\u00fdval\u00fdch",
       "url": "https://open.spotify.com/track/5RG6jLFbb40PrBDP5HWxzb"
@@ -7888,7 +8012,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
@@ -8616,7 +8740,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 217103,
       "name": "Mentalit\u00e9",
       "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
@@ -8926,6 +9050,24 @@
       "duration_ms": 170983,
       "name": "Miss You - Sped Up Version",
       "url": "https://open.spotify.com/track/1R133Fme0thKYEVPlWHhaW"
+    },
+    {
+      "album": {
+        "name": "orange blood",
+        "url": "https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH"
+      },
+      "artists": [
+        {
+          "name": "Zach Templar",
+          "url": "https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145833,
+      "name": "missin something",
+      "url": "https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt"
     },
     {
       "album": {
@@ -10446,6 +10588,24 @@
       "duration_ms": 142226,
       "name": "Paint It Black",
       "url": "https://open.spotify.com/track/1OuCn2F9BmyTAdM0Jylo9X"
+    },
+    {
+      "album": {
+        "name": "PAINTING PICTURES",
+        "url": "https://open.spotify.com/album/485hROfaw36i4rniIeXPbI"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122070,
+      "name": "PAINTING PICTURES",
+      "url": "https://open.spotify.com/track/6KXKcH4QO1MiGrMQOGoADP"
     },
     {
       "album": {
@@ -11978,7 +12138,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 145160,
       "name": "S l\u00e1skou, Luk\u00e1\u0161",
       "url": "https://open.spotify.com/track/1ke6pjpooJymwb1AXoPwhG"
@@ -12334,7 +12494,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 189681,
       "name": "September",
       "url": "https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk"
@@ -13578,7 +13738,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 150053,
       "name": "Sure Thing - Sped Up",
       "url": "https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj"
@@ -13720,6 +13880,24 @@
       "duration_ms": 174857,
       "name": "Talk",
       "url": "https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH"
+    },
+    {
+      "album": {
+        "name": "Tatiana",
+        "url": "https://open.spotify.com/album/5vFP2Vvxm4ameXwPKWKsX1"
+      },
+      "artists": [
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170825,
+      "name": "Tatiana",
+      "url": "https://open.spotify.com/track/1hwXuNabpH3GDnHQhfiIfL"
     },
     {
       "album": {
@@ -15154,7 +15332,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 178728,
       "name": "Ve\u010der Na Izbe",
       "url": "https://open.spotify.com/track/7B4PauJntjBaPZrPnsZclm"
@@ -15374,6 +15552,24 @@
       "duration_ms": 188695,
       "name": "V\u0161ade",
       "url": "https://open.spotify.com/track/52Ti1NmPqg616YOG6vHqb0"
+    },
+    {
+      "album": {
+        "name": "V\u0161etko AJ Tak Nie Je Re\u00e1lne",
+        "url": "https://open.spotify.com/album/3HWKhLeBz2UWYR3Wl01TW0"
+      },
+      "artists": [
+        {
+          "name": "Call Dominika",
+          "url": "https://open.spotify.com/artist/6EBKq4KCXExYanXleLzIVT"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142192,
+      "name": "V\u0161etko AJ Tak Nie Je Re\u00e1lne",
+      "url": "https://open.spotify.com/track/1SnPa4QP5hOjPljnxRfox0"
     },
     {
       "album": {
@@ -16226,7 +16422,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 71215,
       "name": "You and you",
       "url": "https://open.spotify.com/track/3DQGpmTE2PxtFagccs6XDF"

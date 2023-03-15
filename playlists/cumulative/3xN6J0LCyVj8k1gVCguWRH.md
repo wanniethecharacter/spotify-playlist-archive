@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,078 songs - 4 day 23 hr 37 min
+2,080 songs - 4 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,6 +536,7 @@
 | [Dreams](https://open.spotify.com/track/0GZgpLTjtWNeTLasSGRXl1) | [Yon Idy](https://open.spotify.com/artist/4D92NZA9x3RLim0Ap6p8hr) | [Dreams](https://open.spotify.com/album/3pNWwKyRTMLTUc7LxyVN9k) | 3:02 | 2022-04-29 | 2022-05-15 |
 | [Drift](https://open.spotify.com/track/3ilHYf43OdRBv3HD90mbAy) | [Basic Comfort](https://open.spotify.com/artist/12dGLOMykGanl0rMpcRu13) | [Drift](https://open.spotify.com/album/2HqD3RNfcH5ZHJ5jCVwILn) | 3:05 | 2022-10-14 | 2022-11-05 |
 | [Drift Away](https://open.spotify.com/track/11YWR8tzDTR2P4KZ3lAySj) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Throwback Tunes: 70s](https://open.spotify.com/album/5DJHtJpuoj7VidJ447oD8s) | 3:54 | 2019-09-29\* | 2021-11-19 |
+| [Driftin away](https://open.spotify.com/track/4aclkqp2dw6jFrgK8D0TJg) | [Donty](https://open.spotify.com/artist/0ZxTq85uqZbmwj6NxcTapu) | [Driftin away](https://open.spotify.com/album/3p7NOOgCc0zxKt6oLfLkkB) | 3:01 | 2023-03-15 |  |
 | [Drown](https://open.spotify.com/track/2ez57JQdgRiEe4RTyACyku) | [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47) | [Drown](https://open.spotify.com/album/45ZBG4cB5HwxxzMN8Tv66n) | 2:15 | 2022-05-20 | 2022-06-05 |
 | [Drown](https://open.spotify.com/track/1oxPEOFAqkzKyv6XwNtIFz) | [Will Wallace](https://open.spotify.com/artist/1w4xMYzzViAQQ2bG0PnLo7) | [Drown](https://open.spotify.com/album/68FGziuVSjpId4NK22crrL) | 3:00 | 2022-11-25 | 2022-12-17 |
 | [Drowning in U](https://open.spotify.com/track/4mG9q3XvD8QSl0LZOzgtkT) | [Habbit](https://open.spotify.com/artist/5jnZs0tUrXXVVBsU95GwFT) | [Sleeper](https://open.spotify.com/album/0ETXjHepV53KXR1uT9AVgB) | 4:32 | 2022-09-02 | 2022-09-18 |
@@ -579,6 +580,7 @@
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 | 2021-07-11 |  |
 | [Everyday](https://open.spotify.com/track/3K2oPaUAXDrRQuA84xVB8x) | [Logan Richard](https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o) | [Logan Richard](https://open.spotify.com/album/11evvnEdQomY7zQ3zM5Gfc) | 3:16 | 2021-05-21 | 2021-06-06 |
 | [Everything \(..\. Is Never Quite Enough\)](https://open.spotify.com/track/7tpTeZgPPcpGHmKLwQClXt) | [Wasis Diop](https://open.spotify.com/artist/5WgEnjgCrT1aeQELTV3tdB) | [Toxu](https://open.spotify.com/album/4orLzkXAHLvYzQncVdLYFX) | 4:32 | 2021-07-11 |  |
+| [Everything We Know](https://open.spotify.com/track/5gMXhRsYttCSc04PQTUlmS) | [Eliyanah](https://open.spotify.com/artist/4Fy9ktzHsOjSuaaOECXtaC) | [Everything We Know](https://open.spotify.com/album/6TXB9Ix1LXaTfxznJ6eZIh) | 3:24 | 2023-03-15 |  |
 | [Exodus](https://open.spotify.com/track/5MRQvbpvXejJJy0OWciP8G) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 7:39 | 2021-07-11 |  |
 | [Eyes Closed](https://open.spotify.com/track/3E3zkflz6Oe2zCcjHpw7qw) | [Max Green](https://open.spotify.com/artist/2dzz9G09zy2vDqCFo1emQd) | [Eyes Closed](https://open.spotify.com/album/5QgQhahldhB5zQ5PmNd7Dv) | 4:03 | 2022-03-04 | 2022-03-26 |
 | [Fade Away](https://open.spotify.com/track/0nVKBy2n1QYLL7XBIvq7KJ) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [Fade Away](https://open.spotify.com/album/1BlBwOb5xAl7VzrHdXmBBt) | 3:14 | 2020-09-28 | 2020-10-12 |

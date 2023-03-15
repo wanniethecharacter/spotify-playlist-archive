@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,472 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,683 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 79 | [Memories](https://open.spotify.com/track/2EEZdCeGp095urJDE3wEpS) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Memories](https://open.spotify.com/album/7crhe15k1Qn72AWzAHMVOt) | 3:36 |
 | 80 | [All I Want](https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [All In All](https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN) | 7:48 |
 
-Snapshot ID: `MTY3NzI0OTA0NiwwMDAwMDAwMDQwNjRjMWVmYWY4ZWRkNWM2ODBmZjhiNTI0MjIwZGVh`
+Snapshot ID: `MTY3NzI0OTA0NiwwMDAwMDAwMDljNGVmMzFmOWJlYThmNTg2ZDlhNjAyZjkwMmU5OTNm`

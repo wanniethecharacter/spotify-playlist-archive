@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,236 likes - 175 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,226 likes - 175 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 174 | [Snowdonia](https://open.spotify.com/track/6JMuZsTQprhBrbywStSwer) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Snowdonia](https://open.spotify.com/album/6OyZMyAiAtD2MJjAI91Irc) | 2:58 |
 | 175 | [Descending](https://open.spotify.com/track/6i1azfJNXmsV9fNIA41tea) | [Mayol](https://open.spotify.com/artist/3cIlmB3JDBrJWUm3Un5Yia) | [Breathe Out](https://open.spotify.com/album/2CiiGCO5igDhPWapdqw2Ub) | 3:30 |
 
-Snapshot ID: `MTY3NzI2MTc3MCwwMDAwMDAwMGFmZTMxYTU3OTUxNjRhYjQ5YTMwYmQzMWM1ZWM1M2Nj`
+Snapshot ID: `MTY3NzI2MTc3MCwwMDAwMDAwMGVmNDJkZjM4YTk3NjRhNGFjM2Y5NjRhNjIzNWEwYTNh`

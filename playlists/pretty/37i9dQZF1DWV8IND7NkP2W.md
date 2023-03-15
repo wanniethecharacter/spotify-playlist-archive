@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,657 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,775 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Water Circles](https://open.spotify.com/track/0Nm5Bp7nRHP398BEnIOnhK) | [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Water Circles](https://open.spotify.com/album/0vqTCC4FGn6WosT2pGb2rD) | 1:57 |
 | 100 | [Shurayuki hime](https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū II](https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ) | 3:05 |
 
-Snapshot ID: `MTY3ODM3NDAwMCwwMDAwMDAwMDI2MzBlNmQ4Y2JkYWIzYzFmYmVjMzg1N2YwNzA5ZDU0`
+Snapshot ID: `MTY3ODM3NDAwMCwwMDAwMDAwMDQ1NzFjZWE2YTg3YmNhNTE0ZWQ4ODUyMmY0M2MxYTYx`

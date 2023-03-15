@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-702 songs - 1 day 16 hr 27 min
+703 songs - 1 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,7 +442,8 @@
 | [On the Fly](https://open.spotify.com/track/2noqFiLZzV5Z50Eyf5AfC3) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:02 | 2022-05-20 | 2022-06-10 |
 | [One Day](https://open.spotify.com/track/23xtj6sfcsi2pZjmLM0m6L) | [GIM GAM](https://open.spotify.com/artist/6l3713Vu1NzSyc18FhDN8Y) | [One Day](https://open.spotify.com/album/7oXojJOI8sgR1i5y9bRNlx) | 3:02 | 2022-09-02 |  |
 | [One Day Back](https://open.spotify.com/track/3DrTuirQtYns2DOev8VVag) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [One Day Back](https://open.spotify.com/album/0tqrWV0uxSRhDVRS1pf8Tj) | 3:30 | 2022-10-07 |  |
-| [One Try](https://open.spotify.com/track/0r2uhuFtiYZzeNncUUzvv7) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [One Try](https://open.spotify.com/album/6lsgyMkymdgSTK43XGqvqI) | 2:31 | 2022-05-10 |  |
+| [One Try](https://open.spotify.com/track/0r2uhuFtiYZzeNncUUzvv7) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [One Try](https://open.spotify.com/album/6lsgyMkymdgSTK43XGqvqI) | 2:31 | 2022-05-10 | 2023-03-15 |
+| [One Try](https://open.spotify.com/track/1cqG2UKTksqEK69bleOoj3) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [One Try](https://open.spotify.com/album/3jGgGZFzyHGsD5855LRhgk) | 2:31 | 2023-03-10 |  |
 | [Opposite](https://open.spotify.com/track/6VLstEbmUW5oCxgahFe0Wf) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moment EP](https://open.spotify.com/album/0lIHGVhcEfhqRTMFCCYbmt) | 4:34 | 2021-09-09 | 2022-04-06 |
 | [Original Love](https://open.spotify.com/track/26obskJ2LXxb1kcWs6FUmB) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Original Love](https://open.spotify.com/album/5ToSCwAk4JI5h6yMI3qzhb) | 3:02 | 2022-05-10 |  |
 | [Out Late](https://open.spotify.com/track/1gjW2RMESNkfWVJCyObu1v) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Out Late](https://open.spotify.com/album/6xNsZ5aOnzwLrhbQjc7gB0) | 3:03 | 2022-07-15 |  |

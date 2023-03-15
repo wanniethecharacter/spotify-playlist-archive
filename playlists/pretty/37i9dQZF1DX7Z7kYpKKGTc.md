@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 
 > The romantic side of classic rock and metal
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,840 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,251 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 | 49 | [Desperate](https://open.spotify.com/track/2eaom6bXMm3dHkowGkHnmQ) | [Babylon A.D.](https://open.spotify.com/artist/6sh4WKluS0LOsPdGPerKJ5) | [Babylon A.D.](https://open.spotify.com/album/4BzqcQaLslzAXjJqAXOgHj) | 5:24 |
 | 50 | [Give Me a Reason](https://open.spotify.com/track/7tirALr1fgTNz35ykP7Q9J) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl) | [Calling the Wild](https://open.spotify.com/album/3hQ8W3xLTZfakw0pF4WJHt) | 4:20 |
 
-Snapshot ID: `MTY3NjM5MTM4NywwMDAwMDAwMDAxYmM3N2EwZmRjYTIwZTMwNzNkNTNiNTBhZWE4Yjky`
+Snapshot ID: `MTY3NjM5MTM4NywwMDAwMDAwMGE2ZTk3NDI5NzM2ZmNhOTZhZDg3MGZkYzE5ZWY0NGZi`

@@ -924,7 +924,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 223124,
       "name": "Forever close",
       "url": "https://open.spotify.com/track/4SIJIe0qLkPFLP8Nedt1Ga"
@@ -1990,6 +1990,24 @@
       "duration_ms": 206769,
       "name": "Savannah",
       "url": "https://open.spotify.com/track/1GfkDco09y8iruC25beFMz"
+    },
+    {
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro"
+      },
+      "artists": [
+        {
+          "name": "Studio Tranquilo",
+          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153962,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q"
     },
     {
       "album": {

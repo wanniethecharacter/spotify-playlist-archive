@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,356 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,479 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 99 | [Brazz Street](https://open.spotify.com/track/6ldCioYjj4oYp0hrvD3zFh) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Crossroads](https://open.spotify.com/album/311JJvbG6VDhP5NDPutK1B) | 4:42 |
 | 100 | [Adriatic Flow](https://open.spotify.com/track/26iTrELwsyYYDiZWnu2mFW) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX), [Magdalena Chovancova](https://open.spotify.com/artist/7sk96eq3pJ78GAZnf02FEP) | [Adriatic Flow](https://open.spotify.com/album/3jP7ViVs8srQs8tcV2OCy5) | 4:07 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDQ5NWEyYjBkYWE3YTNlN2FjNDlmYjliMDUzNGQzMmM3`
+Snapshot ID: `MTY3ODgwMjM0NCwwMDAwMDAwMDYxZDk2MWU3NGZjZWIwNjcwOTIyNGRlMzU2YjYxYWE0`

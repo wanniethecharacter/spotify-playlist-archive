@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,718 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,702 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 | 149 | [Born a King \- Reimagined](https://open.spotify.com/track/34qhtucHZ0VKASva6lFJD8) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Born a King \(Reimagined\)](https://open.spotify.com/album/2XckCbcJxb6HwFjzah1DlG) | 3:18 |
 | 150 | [Hope's Come to Town](https://open.spotify.com/track/76yElxLOh6tjCQTQrLKxXJ) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Lovkn Christmas: Awaited One](https://open.spotify.com/album/2OlK6S3FFUPYYNzXTzisXE) | 3:08 |
 
-Snapshot ID: `MTY3MDc5MDQ5OSwwMDAwMDAwMDk0NjM3YWE4ZGQzYzQ5OGQ2MmFkZjA1NGE3NjUyZjBm`
+Snapshot ID: `MTY3MDc5MDQ5OSwwMDAwMDAwMDQwYWI1NjcwZWU0N2E1NGU5OTg0ODQzODdkODU5MmRh`

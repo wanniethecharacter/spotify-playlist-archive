@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,632 likes - 80 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,837 likes - 80 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Dancer In The Dark](https://open.spotify.com/track/3pYyBOW5DEfM5CjNLknnRZ) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Together \- Part One](https://open.spotify.com/album/2OyCp5DyvzRA35ZBssD2xg) | 5:05 |
 | 80 | [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st) | 4:06 |
 
-Snapshot ID: `MTY3NjY0NDIwMCwwMDAwMDAwMDViYjhjNDNlMjQ0MjdiNzhjYWNlNzg4NGE0NDM3MGYy`
+Snapshot ID: `MTY3NjY0NDIwMCwwMDAwMDAwMDgzOGFhOTNmMmMxNjQ2NDBlZGZmYTQwYmU5NmYyYzI5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Olivia Khoury Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,120 likes - 90 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,166 likes - 90 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 89 | [tecnologia](https://open.spotify.com/track/5te5cXCLWzdRXQVTeqwupo) | [Brad Allen Williams](https://open.spotify.com/artist/4HBi6ycIZDI7zvTjPzR7y7) | [tecnologia](https://open.spotify.com/album/4Id9LjLYX5gVKmpLBq0lmm) | 4:27 |
 | 90 | [Chrysalide](https://open.spotify.com/track/4z216cr5r11o7U1aCrjY67) | [Patricia Essong](https://open.spotify.com/artist/0Xw8xErlE8lUQwW2h9KQhS) | [Chrysalide](https://open.spotify.com/album/4zObpGAsQyYFylPsuzUJgT) | 3:12 |
 
-Snapshot ID: `MTY3ODM3NjU4MSwwMDAwMDAwMGRlYjhkM2ViYTU1MGQ4ZmE2ZWJiYjdmNjIxMzI3MWMz`
+Snapshot ID: `MTY3ODM3NjU4MSwwMDAwMDAwMGIxMjBmNzFiNTAzNzQ0NDQ4YjMyNDg3YzkwMGM5YjA2`

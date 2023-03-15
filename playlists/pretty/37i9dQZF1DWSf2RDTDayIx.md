@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,076,101 likes - 150 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,077,285 likes - 150 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [More Than I Want To](https://open.spotify.com/track/4dkQMweppOlQjOvxv5fQTy) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [More Than I Want To](https://open.spotify.com/album/6JBU6wA7ziYnoFPcULQBYy) | 2:47 |
 | 150 | [Life Is Good](https://open.spotify.com/track/3IfCmk4YbYwaOqtsd4iZqm) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Life Is Good](https://open.spotify.com/album/3dWd0Sv4fTJMxR4ICRlyk2) | 3:20 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDhkNTdhODI2ZWY3MmQ5YWFiOWM2NDYzZTM0YTgwNjA4`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGIyZWU1ODUwODdkOGIxMDhjNDUyYjhlOWNjZjM3MThi`

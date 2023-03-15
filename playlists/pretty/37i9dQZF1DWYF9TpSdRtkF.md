@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,046 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,070 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [瞳の中のシリウス](https://open.spotify.com/track/0eH3a5sDLfG8eXsdQIggQF) | [Takane Shijou \(CV: Yumi Hara\)](https://open.spotify.com/artist/0jByAMysntS3sv6vTCXNJl), [Umi Kousaka \(CV: Reina Ueda\)](https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS), [徳川まつり \(CV.諏訪彩花\)](https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk), [Miya Miyao \(CV: Choucho Kiritani\)](https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 10](https://open.spotify.com/album/5Y49hqNoAuT0V33DeyHUnj) | 4:47 |
 | 75 | [Criminally Dinner \~正餐とイーヴルナイフ\~](https://open.spotify.com/track/20L6HYbRFA7jHYC3GacEp0) | [星井美希 \(CV.長谷川明子\)](https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi), [舞浜 歩 \(CV.戸田めぐみ\)](https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF), [最上静香 \(CV.田所あずさ\)](https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH), [篠宮可憐 \(CV.近藤 唯\)](https://open.spotify.com/artist/1sRDMoEgLsGqFABNV67q7z), [中谷 育 \(CV.原嶋あかり\)](https://open.spotify.com/artist/5FB5Wm8kE5bIEOea6Mb3Dl) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/7xnOD6rZxXAaEzf5hLiut6) | 3:29 |
 
-Snapshot ID: `MTY3MzU4MzczNywwMDAwMDAwMDg3OWFjZDQzNzkyYzYzN2JkYjM1ZmViZDA5ODllZmNh`
+Snapshot ID: `MTY3MzU4MzczNywwMDAwMDAwMGE2MGNlMTg2ODI3NjFlNjk5ZjdiNGNjMDJmZWIxZDhk`

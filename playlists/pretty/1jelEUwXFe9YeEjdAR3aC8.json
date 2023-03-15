@@ -6,10 +6,42 @@
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "NzgwNywyZmQzNTIxM2M2MzBmNzdlNzZiYjFhZWU2MmEzNmRiYTVhY2E0OTJk",
+  "snapshot_id": "NzgxMiwwYzY3MDQwMmEyMjAzYmI3ZGU4YTAwMjBjODIxOTg0ODgzNzNiNTFl",
   "tracks": [
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
+      "album": {
+        "name": "Stay Anything",
+        "url": "https://open.spotify.com/album/2ROnH7L5WNEBQdPn6q0vxA"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 208282,
+      "name": "Stay Anything",
+      "url": "https://open.spotify.com/track/0XC3NNlml0mClzs23YtBiL"
+    },
+    {
+      "added_at": "2023-03-14 06:59:12",
+      "album": {
+        "name": "leaving home",
+        "url": "https://open.spotify.com/album/3MnjEipevFo8fPiOfaiBNw"
+      },
+      "artists": [
+        {
+          "name": "Camylio",
+          "url": "https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4"
+        }
+      ],
+      "duration_ms": 173336,
+      "name": "leaving home",
+      "url": "https://open.spotify.com/track/45J4EoznoID3g0ByvfIJV0"
+    },
+    {
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Good Riddance",
         "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/5FGDtm3MXJe8LikBkOJnOQ"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Everything To Everyone (Deluxe)",
         "url": "https://open.spotify.com/album/1KSAqXIHFEWo73keoru7FX"
@@ -41,7 +73,59 @@
       "url": "https://open.spotify.com/track/0qE0N1pEpZ5rsb4GM6pk6C"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
+      "album": {
+        "name": "Si Me Voy (with The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 203219,
+      "name": "Si Me Voy (with The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
+    },
+    {
+      "added_at": "2023-03-14 06:59:12",
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 212784,
+      "name": "LIMBO",
+      "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV"
+    },
+    {
+      "added_at": "2023-03-14 06:59:12",
+      "album": {
+        "name": "Never Goes Away",
+        "url": "https://open.spotify.com/album/0NLKXJv4DxlwyQ94CetFXg"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 146439,
+      "name": "Never Goes Away",
+      "url": "https://open.spotify.com/track/5FPSUR4mfKAz1YIY0Fjx0L"
+    },
+    {
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Good, but not together",
         "url": "https://open.spotify.com/album/5CG9626TPlTSDlOlsVXafP"
@@ -57,7 +141,7 @@
       "url": "https://open.spotify.com/track/6YiR17DGpJa5r4X7RjwCwW"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "blotter baby",
         "url": "https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d"
@@ -73,7 +157,23 @@
       "url": "https://open.spotify.com/track/2R2tBo200QmOUSW4tt23tb"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
+      "album": {
+        "name": "Passing",
+        "url": "https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 284720,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/5mNhrWH68FG0ni1etCujHX"
+    },
+    {
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Until Now",
         "url": "https://open.spotify.com/album/656QB1tzxNjCNtDUswWRAF"
@@ -89,7 +189,7 @@
       "url": "https://open.spotify.com/track/4djT5qYz4PIcIDV6TziZhm"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "a little more time",
         "url": "https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi"
@@ -105,7 +205,7 @@
       "url": "https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e"
@@ -121,27 +221,23 @@
       "url": "https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
-        "name": "Better Luck In The Next Life",
-        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+        "name": "I Can't Get My Head Around You",
+        "url": "https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e"
       },
       "artists": [
         {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        },
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 217172,
-      "name": "I Hope I Packed A Parachute (feat. Charlotte Cardin)",
-      "url": "https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif"
+      "duration_ms": 206427,
+      "name": "I Can't Get My Head Around You",
+      "url": "https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
@@ -157,7 +253,7 @@
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Placebo Effect",
         "url": "https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa"
@@ -173,7 +269,7 @@
       "url": "https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "internet crush",
         "url": "https://open.spotify.com/album/5lUP2Yxp4mdf7Dl3GXoB8H"
@@ -189,39 +285,7 @@
       "url": "https://open.spotify.com/track/4GISsjjHTA2UyM9DY4DNgY"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
-      "album": {
-        "name": "Man On The Moon",
-        "url": "https://open.spotify.com/album/18WXWG3I5v4L3odjNg1YtR"
-      },
-      "artists": [
-        {
-          "name": "Delacey",
-          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
-        }
-      ],
-      "duration_ms": 200951,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/7E6jdcJTGDpYmjHFnXu3vG"
-    },
-    {
-      "added_at": "2023-03-06 05:31:30",
-      "album": {
-        "name": "Buried The Day",
-        "url": "https://open.spotify.com/album/4P6qC9gkA2FnZv4KFFw56F"
-      },
-      "artists": [
-        {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
-        }
-      ],
-      "duration_ms": 212361,
-      "name": "Buried The Day",
-      "url": "https://open.spotify.com/track/26LgkRj0GLm2yZrwPFsVug"
-    },
-    {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Butterflies (feat. AURORA)",
         "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
@@ -241,59 +305,7 @@
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
-      "album": {
-        "name": "rave (nc)",
-        "url": "https://open.spotify.com/album/0ALMEZvu4E26GuMykkZ2PV"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        },
-        {
-          "name": "Prentiss",
-          "url": "https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H"
-        }
-      ],
-      "duration_ms": 113607,
-      "name": "meet me at the tryouts (feat. Prentiss) - nc",
-      "url": "https://open.spotify.com/track/2584UpE1DH9iHKUepsIQNu"
-    },
-    {
-      "added_at": "2023-03-06 05:31:30",
-      "album": {
-        "name": "Multitudes",
-        "url": "https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 201174,
-      "name": "Hiding Out In The Open",
-      "url": "https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN"
-    },
-    {
-      "added_at": "2023-03-06 05:31:30",
-      "album": {
-        "name": "Men On The Moon",
-        "url": "https://open.spotify.com/album/1mK3MLTmhxsrOTx7ceJwyr"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 220798,
-      "name": "Men On The Moon",
-      "url": "https://open.spotify.com/track/164LL9rTyEZ6DF0KMgXxsJ"
-    },
-    {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Don\u2019t Go, Don\u2019t Leave",
         "url": "https://open.spotify.com/album/6AYpseGYHB6Pmln8Wvcsey"
@@ -309,7 +321,7 @@
       "url": "https://open.spotify.com/track/3Cg9Ds1CWQUGuQoQ9QvjDl"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Narcissist",
         "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
@@ -325,7 +337,7 @@
       "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Footprints I Found",
         "url": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
@@ -341,7 +353,7 @@
       "url": "https://open.spotify.com/track/6e0Gfl49FN9m2c8QaB9vFr"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
@@ -357,23 +369,7 @@
       "url": "https://open.spotify.com/track/7Gvf6Li9MYft4fUijkFjKq"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
-      "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/5WIID0lQrxRT5xsXrOd0E5"
-      },
-      "artists": [
-        {
-          "name": "Grace Gardner",
-          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Acrobatics",
-      "url": "https://open.spotify.com/track/60o8hG5Y3wDYQuxRJFarqQ"
-    },
-    {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Let Me Down",
         "url": "https://open.spotify.com/album/30hk8tSh4WijrOfesqXZLx"
@@ -393,7 +389,23 @@
       "url": "https://open.spotify.com/track/0ulm3WgGZsMAgwwv0Zg00W"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
+      "album": {
+        "name": "Reasons To Stay",
+        "url": "https://open.spotify.com/album/5LfiDDRyhDicozHp1Dkd5W"
+      },
+      "artists": [
+        {
+          "name": "Charlie Oriain",
+          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
+        }
+      ],
+      "duration_ms": 152917,
+      "name": "Reasons To Stay",
+      "url": "https://open.spotify.com/track/4bWGLlwkPEmykisIpM5B99"
+    },
+    {
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Saturn",
         "url": "https://open.spotify.com/album/3zt7xkuRvDftoB76HEu3oH"
@@ -409,43 +421,7 @@
       "url": "https://open.spotify.com/track/3F3YMGCp5ErvS14f71s8LX"
     },
     {
-      "added_at": "2023-03-09 00:23:11",
-      "album": {
-        "name": "labyrinth",
-        "url": "https://open.spotify.com/album/5QaITPB0fRNwrTGQkqzNzF"
-      },
-      "artists": [
-        {
-          "name": "heimlich",
-          "url": "https://open.spotify.com/artist/1kMXJQzp4rZtPvmRbIgKIZ"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "labyrinth",
-      "url": "https://open.spotify.com/track/3qbzROYNqCrv7hAPjFKzHP"
-    },
-    {
-      "added_at": "2023-03-09 00:23:15",
-      "album": {
-        "name": "van gogh",
-        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 173540,
-      "name": "van gogh",
-      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
-    },
-    {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Lose It All",
         "url": "https://open.spotify.com/album/1zxsgM6wXvm801tK3ue3aF"
@@ -461,7 +437,7 @@
       "url": "https://open.spotify.com/track/1mBtrVS6hLeqcVecvpAqBJ"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Pointless",
         "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
@@ -477,7 +453,7 @@
       "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Orlando",
         "url": "https://open.spotify.com/album/2bUlcn67avN5E46GifoXYl"
@@ -493,23 +469,7 @@
       "url": "https://open.spotify.com/track/5eqNWg31aG8wKNbpJxCpCg"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
-      "album": {
-        "name": "amnesia",
-        "url": "https://open.spotify.com/album/6N7m2bKMX2KklL0ELXoGCH"
-      },
-      "artists": [
-        {
-          "name": "Camylio",
-          "url": "https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "amnesia",
-      "url": "https://open.spotify.com/track/33EPuIJQwfcm82vhTGJXyj"
-    },
-    {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Venting to Strangers",
         "url": "https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz"
@@ -525,23 +485,7 @@
       "url": "https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
-      "album": {
-        "name": "First Of The Year",
-        "url": "https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 170873,
-      "name": "First Of The Year",
-      "url": "https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6"
-    },
-    {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "paper",
         "url": "https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw"
@@ -557,7 +501,7 @@
       "url": "https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "All 4 Nothing",
         "url": "https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS"
@@ -573,7 +517,7 @@
       "url": "https://open.spotify.com/track/3XA0msNCCQysLnspbnbgw3"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
@@ -589,7 +533,7 @@
       "url": "https://open.spotify.com/track/7bxvEJTeHETJchJLrjxHPQ"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "The Loneliest Time",
         "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
@@ -605,7 +549,7 @@
       "url": "https://open.spotify.com/track/0nrKz8Ez1mQ1wiv1oqc7Ld"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "22 Make",
         "url": "https://open.spotify.com/album/34ZJHKy9s9JbUQmdOmrS4F"
@@ -621,7 +565,7 @@
       "url": "https://open.spotify.com/track/6bBJ6Pz37sqtGnhjrzMqec"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Superache",
         "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
@@ -637,7 +581,7 @@
       "url": "https://open.spotify.com/track/7jrYMBC1bS1SCwxE2bt3AP"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Seventeen Going Under (Live Deluxe)",
         "url": "https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV"
@@ -653,7 +597,7 @@
       "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr"
@@ -669,7 +613,7 @@
       "url": "https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
@@ -689,7 +633,23 @@
       "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
+      "album": {
+        "name": "Lonely Love Song",
+        "url": "https://open.spotify.com/album/133u1HCKHE50wMw0PrcKFg"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 157857,
+      "name": "Lonely Love Song",
+      "url": "https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw"
+    },
+    {
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Guitar Songs",
         "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
@@ -705,23 +665,7 @@
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
-      "album": {
-        "name": "flood lines",
-        "url": "https://open.spotify.com/album/4T9DEhlakkK3iD2Zw0Cwyr"
-      },
-      "artists": [
-        {
-          "name": "Ivytide",
-          "url": "https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp"
-        }
-      ],
-      "duration_ms": 241250,
-      "name": "flood lines",
-      "url": "https://open.spotify.com/track/3FbCoTjGMj9u4VLecvKh1Y"
-    },
-    {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Everyone And No One",
         "url": "https://open.spotify.com/album/39NKyfawlegx7lvZjuyTS2"
@@ -737,7 +681,7 @@
       "url": "https://open.spotify.com/track/5sP3kGcEg7Cj6bXhv1Ev7o"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Can You Afford To Lose Me?",
         "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
@@ -753,7 +697,7 @@
       "url": "https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Godzilla",
         "url": "https://open.spotify.com/album/7s2kLItYeY5LgrmNwFm5Al"
@@ -769,27 +713,7 @@
       "url": "https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
-      "album": {
-        "name": "When You're Gone (with Bedouine) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/1lfGD8BicdqCr2Rt7MYSt0"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 282974,
-      "name": "When You're Gone (with Bedouine) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/7Gp2tFkwXuiDF0CdbGsXZN"
-    },
-    {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "I'll Be Waiting",
         "url": "https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR"
@@ -805,7 +729,23 @@
       "url": "https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
+      "album": {
+        "name": "Right",
+        "url": "https://open.spotify.com/album/2a3d6V3ahlROz5M8eeHpUB"
+      },
+      "artists": [
+        {
+          "name": "Dylan Dunlap",
+          "url": "https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Right",
+      "url": "https://open.spotify.com/track/2bRNyQh32OGVHRS9DLiAKA"
+    },
+    {
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "The Hardest Love",
         "url": "https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX"
@@ -821,7 +761,7 @@
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg"
@@ -849,23 +789,27 @@
       "url": "https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
-        "name": "Hard To Be Human",
-        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
+        "name": "Tell Me Have You Been Dancing (Claud Remix)",
+        "url": "https://open.spotify.com/album/5PJQPn04XHPVunHWwobYIL"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Daisy the Great",
+          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
+        },
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
         }
       ],
-      "duration_ms": 170414,
-      "name": "Hard To Be Human",
-      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
+      "duration_ms": 185525,
+      "name": "Tell Me Have You Been Dancing - Claud Remix",
+      "url": "https://open.spotify.com/track/30wuBQxnI9aME41CBMuKaZ"
     },
     {
-      "added_at": "2023-03-06 05:31:30",
+      "added_at": "2023-03-14 06:59:12",
       "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
@@ -879,6 +823,22 @@
       "duration_ms": 224386,
       "name": "Human Too",
       "url": "https://open.spotify.com/track/2PUHkK7V8XSoquIV8Skj7h"
+    },
+    {
+      "added_at": "2023-03-14 06:59:12",
+      "album": {
+        "name": "Sally",
+        "url": "https://open.spotify.com/album/4fRbVJ1B6nbRrPdKLg3aYo"
+      },
+      "artists": [
+        {
+          "name": "gigi",
+          "url": "https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT"
+        }
+      ],
+      "duration_ms": 273935,
+      "name": "Sally",
+      "url": "https://open.spotify.com/track/0qFZubf0FS0xxropyslwYJ"
     }
   ],
   "unique_name": "Indie Chill",

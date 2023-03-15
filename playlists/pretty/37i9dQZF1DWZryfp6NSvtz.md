@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: GAYLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,867 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,097 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Make Way](https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Make Way](https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm) | 2:57 |
 | 50 | [Lattice](https://open.spotify.com/track/4MNPF36soeinIWw2D5QbmM) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Lattice](https://open.spotify.com/album/47Z38eMy7Ggl15Xmlhz6QM) | 4:24 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDNlZGMyZTIyZTE3YWIzMDk3ODkyYWIyYWZkZDhiYTUw`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDAwOGEyNmQxMzgyMzhmNjBmMWY1NzM5YTYzNzRmY2Qw`

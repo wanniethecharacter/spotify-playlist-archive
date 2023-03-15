@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128280,
+      "name": "Bathroom Dance",
+      "url": "https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC"
+    },
+    {
+      "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
       },
@@ -208,6 +226,24 @@
       "duration_ms": 135311,
       "name": "Captain Marvel",
       "url": "https://open.spotify.com/track/4CQ8uwWfH9hDCbwj4PUs58"
+    },
+    {
+      "album": {
+        "name": "The Da Vinci Code",
+        "url": "https://open.spotify.com/album/4GuLx38y1727p45spIvslr"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247400,
+      "name": "Chevaliers De Sangreal - From The Da Vinci Code Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/64q5EfFKR9hYJ1FHqSClxe"
     },
     {
       "album": {
@@ -377,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Harry Potter and the Half-Blood Prince (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2xXblCIb5G6ji70efT7THx"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Hooper",
+          "url": "https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142253,
+      "name": "Dumbledore's Farewell",
+      "url": "https://open.spotify.com/track/0bmb8jg6ljmt8qBmIsMNvL"
+    },
+    {
+      "album": {
         "name": "Gladiator: 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/5XgEM5g3xWEwL4Zr6UjoLo"
       },
@@ -455,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Fury (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155826,
+      "name": "Emma",
+      "url": "https://open.spotify.com/track/4TuGt2O2iqrisOsNQNrL0j"
+    },
+    {
+      "album": {
         "name": "The Duchess (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6nOhQTzY8IZPRcYpkfZOsl"
       },
@@ -496,6 +568,24 @@
       "duration_ms": 254360,
       "name": "Episode I - Duel of The Fates",
       "url": "https://open.spotify.com/track/4oZwvVtLqXMdZLJnlQDlt1"
+    },
+    {
+      "album": {
+        "name": "X-MEN: FIRST CLASS",
+        "url": "https://open.spotify.com/album/14jwLvbmFd60gtCScp5pcc"
+      },
+      "artists": [
+        {
+          "name": "Henry Jackman",
+          "url": "https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200226,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/5IWmdl33NNTLsKlLT6WSlh"
     },
     {
       "album": {
@@ -843,6 +933,28 @@
     },
     {
       "album": {
+        "name": "Requiem for a Dream / OST",
+        "url": "https://open.spotify.com/album/7Jkv05qDgXZynnNaYcxY5W"
+      },
+      "artists": [
+        {
+          "name": "Clint Mansell",
+          "url": "https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "Lux Aeterna",
+      "url": "https://open.spotify.com/track/62Da3JOu9H9EIgmqV7DoLG"
+    },
+    {
+      "album": {
         "name": "Chocolat (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1fs5PH1L35fEbG2csJT3AD"
       },
@@ -996,6 +1108,46 @@
       "duration_ms": 51800,
       "name": "Mission: Impossible Theme",
       "url": "https://open.spotify.com/track/1FL7eUG80aeUeyMO2N4btN"
+    },
+    {
+      "album": {
+        "name": "The Hobbit: An Unexpected Journey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6X0qkUUcolJDrRN3i3CAlT"
+      },
+      "artists": [
+        {
+          "name": "Richard Armitage",
+          "url": "https://open.spotify.com/artist/6DQsmplq17UDA3zmiybbSb"
+        },
+        {
+          "name": "The Dwarf Cast",
+          "url": "https://open.spotify.com/artist/0jU1GFJFpeW29LAqraN7n5"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103024,
+      "name": "Misty Mountains",
+      "url": "https://open.spotify.com/track/3AAwJ043uT1wXSKDtGyuxF"
+    },
+    {
+      "album": {
+        "name": "The Island (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KRdwpsJJjZXq5spIpVXse"
+      },
+      "artists": [
+        {
+          "name": "Steve Jablonsky",
+          "url": "https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222453,
+      "name": "My Name Is Lincoln",
+      "url": "https://open.spotify.com/track/24V9V4erGgsbLeSa7tlimK"
     },
     {
       "album": {
@@ -1542,6 +1694,24 @@
       "duration_ms": 123360,
       "name": "The Avengers - From \"The Avengers\"/Score",
       "url": "https://open.spotify.com/track/7qlhVOhCgs3AtHD5FLv18B"
+    },
+    {
+      "album": {
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407533,
+      "name": "The Batman",
+      "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71"
     },
     {
       "album": {

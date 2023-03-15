@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,259 likes - 500 songs - 1 day 15 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,464 likes - 500 songs - 1 day 15 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 | 499 | [Simplicity](https://open.spotify.com/track/2R1vQwYTC0sl93C6oyVuHC) | [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF) | [25 Years](https://open.spotify.com/album/4GDYdHheKfIOBMjqOgTK6k) | 5:09 |
 | 500 | [Morning Of The Carnival \- From "Black Orpheus"](https://open.spotify.com/track/6GQ6rapsknPIutGbpv0DTR) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 5:30 |
 
-Snapshot ID: `MTY3ODI4MzMxOSwwMDAwMDAwMGM2YjRjZGVhNzFlN2FhZjMxNzc0MjFkNTljNTA4MjBj`
+Snapshot ID: `MTY3ODI4MzMxOSwwMDAwMDAwMDkwMzhkNzY4MWFjNDA4ZGNkOTA1YzYyYjY4NGMzYjEx`

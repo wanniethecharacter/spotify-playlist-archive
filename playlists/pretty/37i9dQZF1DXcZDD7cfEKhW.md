@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,381,283 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,381,546 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 99 | [Good Luck \- D.O.D Remix](https://open.spotify.com/track/2iDejv4THvGsopBwdmWbXd) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Good Luck \(D.O.D Remix\)](https://open.spotify.com/album/0SwhUVYIId1xWWjk02CY4g) | 2:52 |
 | 100 | [Discoteca \(Deorro Remix\)](https://open.spotify.com/track/5tCSY4kKx54ly2kdJuHUpq) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Discoteca \(Deorro Remix\)](https://open.spotify.com/album/4hbQnVsOamBrrAhYFzw4Fj) | 3:10 |
 
-Snapshot ID: `MTY3ODQ2NDIxNSwwMDAwMDAwMGZiNjdiYWM3M2Q4NTNiMDIxNjJjZjRkZGY0NjU4ZTE0`
+Snapshot ID: `MTY3ODQ2NDIxNSwwMDAwMDAwMDJhYWJkZGZmOTRiYzIwOGE2MTVlZTI0Mzg1MzUzZDJl`

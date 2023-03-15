@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 
 > Acoustic and roots music gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,142,295 likes - 160 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,142,287 likes - 160 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 | 159 | [A Prayer Of My Own](https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [A Prayer Of My Own](https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO) | 4:33 |
 | 160 | [Sorrow \- Acoustic](https://open.spotify.com/track/723gxwUYsB0XH2MTzYNiMB) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Favors EP \(Acoustic\)](https://open.spotify.com/album/1dSQSvPzdvdoOe8jYTrZk4) | 3:00 |
 
-Snapshot ID: `MTY3Njk5MDA0NywwMDAwMDAwMDJmNmE0MTEwMzBiOGMwN2Q1ZjAwODZlNDhmNjRiOGI5`
+Snapshot ID: `MTY3Njk5MDA0NywwMDAwMDAwMDVmMDRlZTQ2MTQ5MzE1ZGFiYzU0NDM2ZThhN2Y2ZGY2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,164 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,420 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [143](https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [143](https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN) | 1:43 |
 | 100 | [Freedom Airways](https://open.spotify.com/track/6eVP45Uxmf0VUSqhZKxjVX) | [Gogi 93](https://open.spotify.com/artist/3eOwKRgznUp7QxbWDDG4fZ) | [Agoraphilia](https://open.spotify.com/album/2YDSlxjHqPxovT02jnUU18) | 3:41 |
 
-Snapshot ID: `MTY2NzU0MjAyOCwwMDAwMDAwMDI5NDhlODQ0MTJlMThmYzhjNzBhNjhiYWRiNTRhOWVh`
+Snapshot ID: `MTY2NzU0MjAyOCwwMDAwMDAwMDU5ZjZlMDZhYWZmYzBjMjdjMTgyNzBjNzBjZTkzYzQ2`

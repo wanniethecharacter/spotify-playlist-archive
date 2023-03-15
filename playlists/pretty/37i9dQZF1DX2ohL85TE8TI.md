@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: <a href="https://open.spotify.com/show/1YP4xy5nGxCxKG2GD9PdCt?si=c1ff94872f7c4b88">Take Me Over\(썸타임즈\)</a>\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,509,537 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,509,694 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Slainte!](https://open.spotify.com/track/5OvS0h5GTsVkyovheeb6g8) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [PLAYLIST SEASON2 OST](https://open.spotify.com/album/1LCTXXqbcyoffo0HpBA7co) | 3:38 |
 | 100 | [Love is](https://open.spotify.com/track/3LCzKYk2HMznKEaUYjB6CC) | [nautilus](https://open.spotify.com/artist/19ddo3hi6DZb6iZqWuvziQ) | [Love is \(CURTAIN CALL OST Part.8\)](https://open.spotify.com/album/0pqnP0umCdXV393jE15ymW) | 3:43 |
 
-Snapshot ID: `MTY3NzIzNDgzOSwwMDAwMDAwMDJkZTlmYzJjY2RlYzViZjg4ZDAxZWU0ZjQzMzRlYjkw`
+Snapshot ID: `MTY3NzIzNDgzOSwwMDAwMDAwMDNmNDY4YTUxNjYwMTZkNWUwYTNiZjhlNzE1Y2UxYTM1`

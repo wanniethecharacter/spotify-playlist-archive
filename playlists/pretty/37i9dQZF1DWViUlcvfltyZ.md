@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. In cover, Generic Animal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,285 likes - 58 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,292 likes - 58 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rosso](https://open.spotify.com/track/1dCoLitotcRABlWlOOZcTs) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Rosso](https://open.spotify.com/album/7wl8O8kzkACKcaiWrmXKEV) | 3:37 |
+| 1 | [Rosso](https://open.spotify.com/track/1dCoLitotcRABlWlOOZcTs) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Rosso](https://open.spotify.com/album/7wl8O8kzkACKcaiWrmXKEV) | 3:35 |
 | 2 | [Volpi](https://open.spotify.com/track/3OHRaBl0M2X5UWfgevbyVK) | [Ricche le Mura](https://open.spotify.com/artist/0Jejmdac0sG1anWKT8F1RB) | [Volpi](https://open.spotify.com/album/2ipqyNnq2rcaJqVoVMFkJB) | 3:40 |
 | 3 | [Terra bruciata](https://open.spotify.com/track/1yHJnusWqo8BF3UHLKqsCa) | [Maura](https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7) | [Terra bruciata](https://open.spotify.com/album/5SdBpJHfqcUcg03ZXZ0FpI) | 3:13 |
 | 4 | [VADO DI MATTO](https://open.spotify.com/track/6ENWZUAwZJBazFJqMu2wWq) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [VADO DI MATTO](https://open.spotify.com/album/0kUAowt4UlLQK2NSYZ9wXf) | 2:15 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 57 | [It Will Be Nice](https://open.spotify.com/track/2wjBjguEcbLgjwiRkmrGcx) | [Black And Blue Radio](https://open.spotify.com/artist/2RapILNg5CtoAEe8bYtGPP) | [It Will Be Nice](https://open.spotify.com/album/2EDtRxAaULZ02Gi2r3Qh0d) | 2:35 |
 | 58 | [White Cage](https://open.spotify.com/track/5BilJJWDFub6jR3T7ubM97) | [Kæry Ann](https://open.spotify.com/artist/5fyWgPHjsdMY9xcNciixy2) | [Songs of Grace and Ruin](https://open.spotify.com/album/7q0ZQm0aEuVpJWMZLpDZeF) | 3:47 |
 
-Snapshot ID: `MTY3ODQ2NDYzMSwwMDAwMDAwMGNmOWU5YjI5NDFmYjUwM2QwMGFjMGE1ZDVkMzEzZDY4`
+Snapshot ID: `MTY3ODQ2NDYzMSwwMDAwMDAwMGRlN2Q0N2ZhNzgzNzI0MjQ3ZWJkMTc1OTc2OGUyZWEx`

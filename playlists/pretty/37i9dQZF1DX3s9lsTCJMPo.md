@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but classics! The best in Soca anthems brought to you by the Soca Queen herself Alison Hinds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,208 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,254 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 76 | [Feels Like I'm Home Again](https://open.spotify.com/track/1rd1OgVjWmyY0MXya8oDRq) | [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:13 |
 | 77 | [Forking It](https://open.spotify.com/track/5oiX7dak92GykveQY4vnw2) | [Joe Cloudy](https://open.spotify.com/artist/2ovlZiNL2VXPCPXlpAfVos) | [Forking It](https://open.spotify.com/album/0fdWesVIX0JUbfw8FN5Nzp) | 3:10 |
 | 78 | [Bacchanalist](https://open.spotify.com/track/5HgYDywJjr19X20XDHr1qQ) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [Antilles Riddim \(Soca 2012 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/6UZiTsFyDpUdq4Feei6wF7) | 3:18 |
-| 79 | [Gyal You A Party Animal](https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You A Party Animal](https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff) | 3:34 |
+| 79 | [Gyal You a Party Animal](https://open.spotify.com/track/6bOLRTULQUiXeVnxOIPZVA) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You a Party Animal](https://open.spotify.com/album/0AuidICCpJQTwjMajndF4h) | 3:34 |
 | 80 | [Santorini \- Toutouni](https://open.spotify.com/track/0fmLrumawMi4GSc6Am5M22) | [Gamma](https://open.spotify.com/artist/4PNh8FwyFmQmZ8itJT1ZnM) | [Santorini \(Toutouni\)](https://open.spotify.com/album/53HA8pTKzXVuedif71ncAP) | 1:50 |
 
-Snapshot ID: `MTY2MDg2NDU4OSwwMDAwMDAwMDJlNTkyNDdkOTliNjUyYWQ3ZGRiYjI3NDQ5MmUwZDMz`
+Snapshot ID: `MTY2MDg2NDU4OSwwMDAwMDAwMGRhOTk5N2MyNjA3MGFhMzk2MDU2MTk2YzhmMzhhMTEx`

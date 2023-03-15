@@ -4,7 +4,7 @@
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Raffa Moreira
 
-625 songs - 1 day 7 hr 39 min
+626 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Blusa De Time](https://open.spotify.com/track/4yRQGwJHwd5BgvrJXqfdYc) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Blusa De Time](https://open.spotify.com/album/4i57P80Q0lfKv6EITiuojK) | 3:00 | 2022-11-18 | 2022-11-26 |
 | [Bonde da Fumaça \(feat\. Murda Beatz\)](https://open.spotify.com/track/3sFh9lzuy6wPPE8ZOBiz9t) | [Recayd Mob](https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bonde da Fumaça \(feat\. Murda Beatz\)](https://open.spotify.com/album/5ayQdD3dWYbpXpeM653pgw) | 3:56 | 2022-01-17 | 2022-02-19 |
 | [Bonde da Rock](https://open.spotify.com/track/6sC0OMXUGXDtzcm0SkJYv5) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Bonde da Rock](https://open.spotify.com/album/4lyBsKWg4M8zHI0Ormmpo7) | 2:17 | 2022-12-23 | 2023-02-11 |
+| [Bonita](https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH) | [Me Espera](https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof) | 3:14 | 2023-03-14 |  |
 | [Bonjour](https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Bonjour](https://open.spotify.com/album/0Baa9kQydueBXW6jcAE6Tq) | 2:11 | 2023-02-10 |  |
 | [Box](https://open.spotify.com/track/015qMCodOqUPGIz1q08bqi) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [OG](https://open.spotify.com/album/709J3ee8ZkyK7gcnnNXlsa) | 2:47 | 2022-10-21 | 2022-11-12 |
 | [BPM](https://open.spotify.com/track/4zghjhThOVSNRxXMpKmGmS) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo) | [BPM](https://open.spotify.com/album/3QhS0fSP4jiZi8IIFkRrqE) | 1:51 | 2022-09-30 | 2022-10-15 |
@@ -472,7 +473,7 @@
 | [Pronto pro Jogo.](https://open.spotify.com/track/4o5Ln4iZELCKbjw0snLpwP) | [Tubaína](https://open.spotify.com/artist/5aJbzurT6OT2V55swJzGpf) | [Pronto pro Jogo.](https://open.spotify.com/album/5Ey5gQuXvE8k1EhZ4QecAO) | 3:28 | 2022-02-25 | 2022-03-12 |
 | [Proposta](https://open.spotify.com/track/73MNsAhT4NItKH19z9B1KR) | [Tito JV](https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Proposta](https://open.spotify.com/album/5DnJ8Qq6S8sQxkoZ2ItdaQ) | 2:38 | 2022-07-01 | 2022-07-23 |
 | [PSG](https://open.spotify.com/track/0tqO1MBpRPPk6oF9VuHtIs) | [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [DJ Nemo NTR](https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0) | [PSG](https://open.spotify.com/album/7CXRExkP237yg0IcXS5IHl) | 2:19 | 2023-01-31 | 2023-03-06 |
-| [Putaria e Muita Rima](https://open.spotify.com/track/2s51xgrfLjp0rI6ibbU8Nu) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB) | [Putaria e Muita Rima](https://open.spotify.com/album/1P8AHNOfhxcuvtirayw2DM) | 2:05 | 2023-02-22 |  |
+| [Putaria e Muita Rima](https://open.spotify.com/track/2s51xgrfLjp0rI6ibbU8Nu) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B) | [Putaria e Muita Rima](https://open.spotify.com/album/1P8AHNOfhxcuvtirayw2DM) | 2:05 | 2023-02-22 |  |
 | [Puto de Luxo](https://open.spotify.com/track/07ju745iEQFzrMsX7UUzVc) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Puto de Luxo](https://open.spotify.com/album/6znvdqy8BOk5pPExvi18f5) | 2:24 | 2022-12-02 | 2022-12-31 |
 | [Pérola](https://open.spotify.com/track/0OUFQe9fTQPUDh04a2IbaE) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [HATZ](https://open.spotify.com/artist/5xTgBjp7sMoQ7Wrgm7ETf5) | [Pérola](https://open.spotify.com/album/5GJLRXEEBcQoPp1X8nFpyK) | 1:54 | 2022-02-18 | 2022-11-19 |
 | [Pílulas](https://open.spotify.com/track/0aNpDTu7IyAUqYgj8vj9Vh) | [Liink](https://open.spotify.com/artist/6XAaynGctovNbHNyGohYkA) | [Pílulas](https://open.spotify.com/album/0Cz7tQRQzLXl3J2cgJT2Sj) | 3:37 | 2022-05-27 | 2022-06-07 |

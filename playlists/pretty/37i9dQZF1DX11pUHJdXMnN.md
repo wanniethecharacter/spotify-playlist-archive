@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,344 likes - 45 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,367 likes - 45 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Prisoner Of Love](https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Vandesande](https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm) | [Inglorious Express EP](https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt) | 6:40 |
 | 45 | [Koko Schanel](https://open.spotify.com/track/59I871wr4KeSHtGRs2MBVU) | [Adam Stacks](https://open.spotify.com/artist/2L6tFQkfIxssirVgyNtVaL) | [Koko Schanel](https://open.spotify.com/album/6D9BNGmHLwT9Vp6eUY8M66) | 3:15 |
 
-Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMGIzNzNmNmIyNWQxODQ2ZTMyN2NjYzA2MDczNDgzOTJi`
+Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDkzYzY5YWM2ZDRmMzg4NWQ5YTBlMDkzOGE1YzRhYzNm`

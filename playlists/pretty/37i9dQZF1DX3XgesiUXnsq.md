@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: De La Soul – R.I.P\. Trugoy 🕊
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,147 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,494 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 74 | [When The Moving Stops](https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [When The Moving Stops](https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8) | 3:28 |
 | 75 | [Passin' Me By](https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:03 |
 | 76 | [Be Honest'](https://open.spotify.com/track/0YQ1b1ySD9cDPnqpDVB7SQ) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [MP3 Player](https://open.spotify.com/album/0RiBrW2AVB3VpGL0m3gYc5) | 2:10 |
-| 77 | [Change](https://open.spotify.com/track/687XycCZVWFqDMG62uBjDE) | [JD Era](https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv), [Meeco](https://open.spotify.com/artist/6n5aqrtqKxRHEdap5f4vgQ), [DJ Access](https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T) | [Change](https://open.spotify.com/album/0C7TBWsRhx5h6VDUwxfOlP) | 3:00 |
+| 77 | [Change](https://open.spotify.com/track/687XycCZVWFqDMG62uBjDE) | [Meeco](https://open.spotify.com/artist/6n5aqrtqKxRHEdap5f4vgQ), [DJ Access](https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T), [JD Era](https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv) | [Change](https://open.spotify.com/album/0C7TBWsRhx5h6VDUwxfOlP) | 3:00 |
 | 78 | [Hustler Musik](https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6) | 5:03 |
 | 79 | [The Highs & The Lows](https://open.spotify.com/track/7DKJP7ksSaJn4YyBkcBDii) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [The Highs & The Lows](https://open.spotify.com/album/2apZoa0oXih4sM7dDMNi2a) | 4:15 |
 | 80 | [Wave Gods](https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Magic](https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 |
 | 100 | [Luchini AKA This Is It](https://open.spotify.com/track/20DcrlNK0NcRknbX4wcEO4) | [Camp Lo](https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB) | [Uptown Saturday Night](https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E) | 4:00 |
 
-Snapshot ID: `MTY3ODQyNjYyMCwwMDAwMDAwMGIzMTRkYmFkNDAyMmY0MGYwNmRhNzk4Mzc0MDFjMmNh`
+Snapshot ID: `MTY3ODQyNjYyMCwwMDAwMDAwMDRkMWQ1ZWE3ZTY3Yjk1MmEwODQ5ODI1MTU2NDE5ZDIz`

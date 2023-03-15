@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat. Cover: Miley Cyrus",
-  "num_followers": 161950,
+  "num_followers": 161961,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQzODgwMCwwMDAwMDAwMGU1MzFjYjJlOGVjNjZlNjVlZDkyZjNmYTFkOTNlMzc2",
+  "snapshot_id": "MTY3ODQzODgwMCwwMDAwMDAwMGRlYzE5M2YyZGE5ODg1NDgyZTc0NTYxMGQ3MDU5MDFi",
   "tracks": [
     {
       "added_at": "2023-03-10 09:00:00",
@@ -548,16 +548,16 @@
       },
       "artists": [
         {
+          "name": "lagu kami tentang kamu",
+          "url": "https://open.spotify.com/artist/6SnqKVMczGDQRmhvXcqZun"
+        },
+        {
           "name": "Dustin Tiffani",
           "url": "https://open.spotify.com/artist/2XKkENjmo9GBH8g6T3pZsu"
         },
         {
           "name": "Laleilmanino",
           "url": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
-        },
-        {
-          "name": "lagu kami tentang kamu",
-          "url": "https://open.spotify.com/artist/6SnqKVMczGDQRmhvXcqZun"
         }
       ],
       "duration_ms": 167200,

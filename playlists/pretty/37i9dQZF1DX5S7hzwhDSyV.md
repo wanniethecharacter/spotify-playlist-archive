@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,179 likes - 100 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,270 likes - 100 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 99 | [Love For Sale \- Rudy Van Gelder Edition](https://open.spotify.com/track/31LoccJiEwfzHm72hDHLj0) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 7:37 |
 | 100 | [Falling in Love with Love](https://open.spotify.com/track/47wToAWMFORf7uL8V62a82) | [Eddie Higgins](https://open.spotify.com/artist/0W5dlTiXGpQqs0OhqCRE92) | [Anticipation](https://open.spotify.com/album/4uSyd2HyJkL25NBvieXCiY) | 4:36 |
 
-Snapshot ID: `MTY3ODI4NTQwMywwMDAwMDAwMGZjZjA2MGQ5NmY2NmM1MTBmNGU3MzY4YmNhZDA4MTM3`
+Snapshot ID: `MTY3ODI4NTQwMywwMDAwMDAwMDNlYTVlMDFiZmMxMmE1MTg5YWQyZGU2MWUxYjc2ZTI0`

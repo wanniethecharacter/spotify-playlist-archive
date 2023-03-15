@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: King Isis
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,095 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,137 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Bloody Kisses](https://open.spotify.com/track/3UmoLlwTRXFBXogohJo2zC) | [Camp Blu](https://open.spotify.com/artist/6ABdWlgN5QfjDsCacBn6Nt) | [Bloody Kisses](https://open.spotify.com/album/6OyKWoGWjIPSxYppTYzuEO) | 2:32 |
 | 100 | [Bloom](https://open.spotify.com/track/2VMhrbfj7f1lbJWOXrDaW9) | [BUNGALOW](https://open.spotify.com/artist/4df15LQWBysxTPYxoa9l6G) | [Bloom](https://open.spotify.com/album/4A0ZxURvsgkqHmL6CEatzi) | 3:45 |
 
-Snapshot ID: `MTY3ODQwODAzOSwwMDAwMDAwMGQyOTlkNTExMzAzOTU2NjljNTIxMTg4ZGI3YjQ1ODRi`
+Snapshot ID: `MTY3ODQwODAzOSwwMDAwMDAwMDA4YmIxMmZiYWNiOWZiN2M0NzVmNDc5ZDQ5YjE0N2M1`

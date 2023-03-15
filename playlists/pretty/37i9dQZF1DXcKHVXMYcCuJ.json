@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 95594,
+  "num_followers": 95812,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODc0ODM2NiwwMDAwMDAwMDY0MTg2YmFjN2FhNzE5MDMxN2I0MjIyMWFiZjZiN2Jl",
+  "snapshot_id": "MTY3ODgyOTEwNiwwMDAwMDAwMGRmNGMxZTQ4YTQ2YmE5ZjQwM2RjMWVkZjY0ZjE1NTA0",
   "tracks": [
     {
       "added_at": "2023-03-07 11:45:52",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-03-07 11:45:52",
       "album": {
-        "name": "Whenever, If Ever",
-        "url": "https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm"
-      },
-      "artists": [
-        {
-          "name": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
-          "url": "https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip"
-        }
-      ],
-      "duration_ms": 341906,
-      "name": "Heartbeat in the Brain",
-      "url": "https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL"
-    },
-    {
-      "added_at": "2023-03-07 11:45:52",
-      "album": {
         "name": "Blackened Sky",
         "url": "https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW"
       },
@@ -1289,6 +1273,22 @@
       "url": "https://open.spotify.com/track/2sxVGe2awPj7emt2btYnp1"
     },
     {
+      "added_at": "2023-03-15 01:06:55",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
+      },
+      "artists": [
+        {
+          "name": "Modern Baseball",
+          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
+        }
+      ],
+      "duration_ms": 117345,
+      "name": "Apple Cider, I Don't Mind",
+      "url": "https://open.spotify.com/track/02SdGsV2CdVzFNaMiI33Uk"
+    },
+    {
       "added_at": "2023-03-07 11:45:52",
       "album": {
         "name": "The New Vice EP",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-03-07 11:45:52",
       "album": {
-        "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/3UsHM8DzVWx0rh5qQWvYLY"
+        "name": "Brave Faces Everyone",
+        "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
       },
       "artists": [
         {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Glorious Sunset",
-      "url": "https://open.spotify.com/track/30ThXCf6ARvmaA89SjmNZi"
+      "duration_ms": 242365,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
     },
     {
       "added_at": "2023-03-07 11:45:52",
@@ -1431,22 +1431,6 @@
       "duration_ms": 205148,
       "name": "Lily",
       "url": "https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI"
-    },
-    {
-      "added_at": "2023-03-07 11:45:52",
-      "album": {
-        "name": "Brave Faces Everyone",
-        "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
-      },
-      "artists": [
-        {
-          "name": "Spanish Love Songs",
-          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
-        }
-      ],
-      "duration_ms": 242365,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
     },
     {
       "added_at": "2023-03-07 11:45:52",
@@ -1479,22 +1463,6 @@
       "duration_ms": 195079,
       "name": "The Big What If",
       "url": "https://open.spotify.com/track/0j8qJI1KjzSJwuOwggXv2s"
-    },
-    {
-      "added_at": "2023-03-07 11:45:52",
-      "album": {
-        "name": "Jar",
-        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
-      },
-      "artists": [
-        {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
-        }
-      ],
-      "duration_ms": 309136,
-      "name": "Around The Railing",
-      "url": "https://open.spotify.com/track/2Fcz9olH3OgfFMj3auXTjA"
     },
     {
       "added_at": "2023-03-07 11:45:52",
@@ -1607,6 +1575,38 @@
       "duration_ms": 279266,
       "name": "Savory",
       "url": "https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N"
+    },
+    {
+      "added_at": "2023-03-15 01:06:55",
+      "album": {
+        "name": "I Want",
+        "url": "https://open.spotify.com/album/66fM2xo6aWI1z0nsmTXeD0"
+      },
+      "artists": [
+        {
+          "name": "Present",
+          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
+        }
+      ],
+      "duration_ms": 203062,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/2zcIwrnFbmwBSbJf29xq1c"
+    },
+    {
+      "added_at": "2023-03-07 11:45:52",
+      "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
+      },
+      "artists": [
+        {
+          "name": "Superchunk",
+          "url": "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
+        }
+      ],
+      "duration_ms": 281173,
+      "name": "Driveway to Driveway",
+      "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

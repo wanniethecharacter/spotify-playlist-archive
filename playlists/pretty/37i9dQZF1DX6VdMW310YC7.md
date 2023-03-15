@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,565,859 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,566,471 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [To Feel Alive](https://open.spotify.com/track/52Ef7FHOaP7KRzlhTrw8LC) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [To Feel Alive](https://open.spotify.com/album/65SOeSp0BUDNXNAiUJORH8) | 3:29 |
 | 100 | [Falling Back](https://open.spotify.com/track/1IQIzH150iF2R5NaBRyGAG) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Falling Back](https://open.spotify.com/album/5YtbuCRyDgcFhczoXr7KQR) | 4:21 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDkzMTExYmM2M2FmNTI1MThiODcxZTVmNGQ4YTUwY2Vj`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDA0YWQwM2NmZDkwYmNiNDk5YTdhMzc0NmY1MDc3OWQy`

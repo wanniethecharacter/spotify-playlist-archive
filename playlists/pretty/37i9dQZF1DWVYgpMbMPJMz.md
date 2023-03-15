@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Sarah Kroger
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,922 likes - 100 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,028 likes - 100 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/track/0CEaIQxIFxpvVsZqDIpkcz) | [Krissy Nordhoff](https://open.spotify.com/artist/6JuQ1D9qv2atxeYHJmkgw0), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/album/46oRc7TlVThSB8eLUIEjLL) | 5:05 |
 | 100 | [Crying Holy \(Klippan\)](https://open.spotify.com/track/6u9bJLenNvDSN0Cz6fLfld) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Crying Holy \(Klippan\)](https://open.spotify.com/album/3elIMNvjaGiB0ENHdrp9gs) | 4:18 |
 
-Snapshot ID: `MTY3ODQzNzIwMSwwMDAwMDAwMDZlNGI0NmE0ZjVhMmZhMDdjMmZjOWM5ZTMxYTgxYTVk`
+Snapshot ID: `MTY3ODQzNzIwMSwwMDAwMDAwMDY2YjNiMWIzMDUzNmE2MTJiZjVhOTQwYmFiN2IxMDUw`

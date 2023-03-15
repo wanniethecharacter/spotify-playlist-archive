@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\. Cover: Tauren Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,291 likes - 150 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,376 likes - 150 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 |
 | 150 | [Cry For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3XpryMvmOzzlLfqAq8WLN2) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/0YppXqlu9VxA7tFteqmjMn) | 3:01 |
 
-Snapshot ID: `MTY3ODIwNjcwMCwwMDAwMDAwMGJhNTQ2MjdmMWE0MjYxNmUyNDZjYzg3NTc1OTY2N2Q3`
+Snapshot ID: `MTY3ODIwNjcwMCwwMDAwMDAwMDI3NmEwYjNkYTE3Y2UzMjI5ZTY0ZGJkMzBmNGQ0Mzdm`

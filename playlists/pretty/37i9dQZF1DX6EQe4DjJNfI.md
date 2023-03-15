@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Amanda Magalhães, Dj Nyack
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,855 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,888 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [incenso](https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [incenso](https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D) | 2:23 |
 | 75 | [Bem Longe](https://open.spotify.com/track/2vshespmRvtcximTIzQvB2) | [Thiene](https://open.spotify.com/artist/2Jh7MhQqgXwm1wagSuBoZS) | [Bem Longe](https://open.spotify.com/album/3B9sABomz6c9CwXBFXhW6a) | 3:09 |
 
-Snapshot ID: `MTY3ODQ1OTM1OSwwMDAwMDAwMGNkNWYwZWQwNjM4M2M2ZjNkODcxZjVmOGRmM2MzOWJm`
+Snapshot ID: `MTY3ODQ1OTM1OSwwMDAwMDAwMGFjM2U0NGRmNzE0YjIxN2NkNDFhOGRmYjc1OTcxODY4`

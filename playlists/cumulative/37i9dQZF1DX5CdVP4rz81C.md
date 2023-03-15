@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Alexander Stewart
 
-1,200 songs - 2 day 14 hr 57 min
+1,202 songs - 2 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,7 +396,7 @@
 | [Funeral \(feat\. James Bay\)](https://open.spotify.com/track/22iSD46gegyVRBsNuqrVvx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Funeral \(feat\. James Bay\)](https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr) | 2:34 | 2021-05-08 | 2021-06-19 |
 | [Future Kids](https://open.spotify.com/track/5Cy20icxvxt8EnB2pIdVxf) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Future Kids](https://open.spotify.com/album/2aAF4bnWU9rrbK8mw70TGl) | 3:11 | 2021-02-12 | 2021-04-10 |
 | [Gasoline \(feat\. Taylor Swift\)](https://open.spotify.com/track/2bzUVEvpZ7At5cYz1kOLI9) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Women In Music Pt III \(Expanded Edition\)](https://open.spotify.com/album/79thwyFL6Uo6rgTp3YWEAf) | 3:13 | 2021-02-19 | 2021-03-14 |
-| [Gatekeeper](https://open.spotify.com/track/7uveohm2cpiLUOYZ7fj8hM) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Gatekeeper](https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB) | 3:26 | 2023-02-03 |  |
+| [Gatekeeper](https://open.spotify.com/track/7uveohm2cpiLUOYZ7fj8hM) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Gatekeeper](https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB) | 3:26 | 2023-02-03 | 2023-03-15 |
 | [georgia](https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 3:30 | 2022-12-02 | 2023-03-04 |
 | [Get It Right](https://open.spotify.com/track/0CKD2OndUS3ri1ne9xvP0G) | [Charlotte Jane](https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ) | [Get It Right](https://open.spotify.com/album/0uFiJJswhogugRxz29c8ZG) | 3:02 | 2020-11-20 | 2021-02-09 |
 | [get over you](https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [get over you](https://open.spotify.com/album/1WfIsb7kUmspRRksM1l4OU) | 2:53 | 2022-09-30 | 2023-02-25 |
@@ -665,6 +665,7 @@
 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 | 2022-03-18 | 2022-04-16 |
 | [Lonely Ones](https://open.spotify.com/track/42BFZETGGpgA8AVUUgnu6H) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Lonely Ones](https://open.spotify.com/album/5MfQihyF0DVwpWQtfk8492) | 3:07 | 2020-10-23 | 2021-04-17 |
 | [long way home](https://open.spotify.com/track/6M7C0SPmqWEsy1sF23Yt4V) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [long way home](https://open.spotify.com/album/0YjPmT6Y8BxWvvLorvnGRT) | 3:08 | 2023-01-06 | 2023-02-18 |
+| [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/6xSr2HhAmY096v9vfJrRqv) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30) | 5:32 | 2023-03-14 |  |
 | [Look Back & Laugh](https://open.spotify.com/track/6e0Gfl49FN9m2c8QaB9vFr) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Footprints I Found](https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf) | 2:44 | 2022-09-16 | 2022-10-29 |
 | [Lord It's A Feeling](https://open.spotify.com/track/3ETbxVJMIJHm68APazPq90) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/4d8DPHAB7LDn4dvjfi5xnn) | 4:12 | 2021-04-24 | 2021-05-27 |
 | [Lose](https://open.spotify.com/track/7rgjkzZBhBjObaYsvq8Ej0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Lose](https://open.spotify.com/album/5GW3Hm4C7AkrClwby88sFJ) | 4:16 | 2020-10-13\* | 2020-10-29 |
@@ -1191,7 +1192,8 @@
 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 | 2020-10-13\* | 2021-02-12 |
 | [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 | 2021-06-19 | 2021-08-28 |
 | [worst enemy](https://open.spotify.com/track/4GRELogjYGX7i6b0jXQMDF) | [Jake Clark](https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd) | [worst enemy](https://open.spotify.com/album/5c1T3eQmdBGNy4Ol5pDWPw) | 2:57 | 2022-12-23 | 2023-02-18 |
-| [Would you do it again?](https://open.spotify.com/track/5IhOaFkIHZmRZmcBDoOZjQ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Would you do it again?](https://open.spotify.com/album/3lPAuwRmYdKEQa71owI4ol) | 2:27 | 2023-03-03 |  |
+| [Would you do it again?](https://open.spotify.com/track/4S3QaFRffd2LZH5kw0TytZ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Would you do it again?](https://open.spotify.com/album/0q4DIPAhsIhvnrYrHVVv7n) | 2:27 | 2023-03-14 |  |
+| [Would you do it again?](https://open.spotify.com/track/5IhOaFkIHZmRZmcBDoOZjQ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Would you do it again?](https://open.spotify.com/album/3lPAuwRmYdKEQa71owI4ol) | 2:27 | 2023-03-03 | 2023-03-15 |
 | [WTF](https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [WTF](https://open.spotify.com/album/5LDEHT3uGE4kS5BbbhiPTO) | 3:02 | 2022-03-18 | 2022-04-29 |
 | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/track/2JerYQPEZWTiTEIFgfUEoV) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/album/4VkgVNf0yIMLkwfls1J83u) | 4:04 | 2022-03-04 | 2022-03-26 |
 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 | 2021-12-11 | 2022-04-23 |

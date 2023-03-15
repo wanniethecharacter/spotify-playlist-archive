@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,902 likes - 79 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,904 likes - 79 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 78 | [Neon Light \[And the Sky Was Trans\]](https://open.spotify.com/track/7vFAgpPhAoNXnwVVS4gFOK) | [Linda Fredriksson](https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL) | [Neon Light \[And the Sky Was Trans\]](https://open.spotify.com/album/0JpAFFtjeBpAPuzsSds87a) | 5:28 |
 | 79 | [Arcade](https://open.spotify.com/track/1uT3YSj2okGX3oYOiROe2z) | [Kalevi Hämäläinen Group](https://open.spotify.com/artist/4Kc8F50zSN0op8lEcKm6c2) | [Arcade](https://open.spotify.com/album/5viGCnQLCBvMYEdAaxkM54) | 6:28 |
 
-Snapshot ID: `MTY3ODM2NTUyMSwwMDAwMDAwMGRiMTMyMDVlYTYzZWJjNTYxYThiOGI2YjQ4MjA4Njkx`
+Snapshot ID: `MTY3ODM2NTUyMSwwMDAwMDAwMDQzZGI0Y2ZhMWQzYzcyNDg5MDdhOGYyYmY4NzY0YTBh`

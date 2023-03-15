@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,318 likes - 75 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,333 likes - 75 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 74 | [Srikanthimati \- Raga Hemavati \- Adi](https://open.spotify.com/track/2ZDdlty7GrKywhF1YbAFmt) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC), [S\. D\. Shreedhar](https://open.spotify.com/artist/4dxOpsI4hcEO0T6LSAAY2v) | [Classical Icons \- U\. Srinivas](https://open.spotify.com/album/6Je0QnMyx8BfMcbeJ9Agfi) | 26:49 |
 | 75 | [Vallabha Nayakasya \- Raga Begada](https://open.spotify.com/track/4kc3xF1SKMHUsrexy73MPj) | [N\. Ravikiran](https://open.spotify.com/artist/1hLUGkZvkUxmwCNpPJg9w5) | [Dikshitar Masterpieces](https://open.spotify.com/album/0al0UjnQ78WIhshfdmxUBv) | 6:14 |
 
-Snapshot ID: `MTY3NzI0NDQ4OCwwMDAwMDAwMDIzMGViNjI1NGJmOWEzZDI2OTlkMjdhY2YwZTc0NTlm`
+Snapshot ID: `MTY3NzI0NDQ4OCwwMDAwMDAwMGNlZThjMTVmOWFlOGU5YjMxMmY1N2ExZGNhOTRmZmZi`

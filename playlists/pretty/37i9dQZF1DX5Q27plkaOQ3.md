@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Jessica Audiffred
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,799 likes - 125 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,809 likes - 125 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 124 | [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 |
 | 125 | [Prayers](https://open.spotify.com/track/32AM51AZPlQ7NqpuGqK4rP) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Prayers](https://open.spotify.com/album/1l5hWqjF2bmh6NgduCsMwj) | 3:20 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDBlMzIxZTllODNmMjJjM2NmYmZmNTc1YjM4ODY4MzQ1`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGRjMTYyNDczMDlkNzY3MzFlMjNiZTNjM2UwZDU1NDNk`

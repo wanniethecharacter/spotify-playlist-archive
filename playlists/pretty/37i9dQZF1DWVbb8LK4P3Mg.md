@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: Red Velvet, aespa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,826 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,799 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [One Day in December](https://open.spotify.com/track/3YCr2GzVVrz4LiKNUAPW6G) | [ON](https://open.spotify.com/artist/7pXZtQ6CdS3SQx3WDK8jW3) | [One Day in December](https://open.spotify.com/album/0ZZTeU4ov4MizoljxXjL2N) | 2:37 |
 | 100 | [It's Christmas](https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz) | [FNC ARTIST](https://open.spotify.com/artist/1skD49OqyAqPbSUpVyxEP0) | [FNC LAB \#2 'It's Christmas'](https://open.spotify.com/album/5T3gFIMhsV2HuCRmZNgo2S) | 3:50 |
 
-Snapshot ID: `MTY3MzM2NDI1MywwMDAwMDAwMDc1NWY1NjllMTQ0YWZlZmUxY2U3YzUxMDMyOTgwZWZi`
+Snapshot ID: `MTY3MzM2NDI1MywwMDAwMDAwMGUxNGNkMGI1ZGY0NzdjMTkxNTBlMmI5ODBlMDM2MmM3`

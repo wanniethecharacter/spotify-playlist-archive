@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Kassi Ashton
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,373 likes - 154 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,460 likes - 154 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 153 | [Looking Back Now](https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Looking Back Now](https://open.spotify.com/album/47MPMs9cQemgI2ek85Rbqd) | 3:29 |
 | 154 | [Ain't Got the Heart](https://open.spotify.com/track/5WvHZvK7EkrTFOSttRAmTv) | [Jeb Gipson](https://open.spotify.com/artist/3MG8H6zu9EvmL5sRtFpDMF) | [Ain't Got the Heart](https://open.spotify.com/album/4dJrfQpx73rRWTpN84an2P) | 3:18 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDA4NzA3ODA5OTBlYTJlYTE0NzM4NTNkNGFiNGM0OWU4`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGQwMDdiMzU0OGRiMzk1NDI2MjVhMTdkYzBkNGE4MGNj`

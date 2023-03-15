@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,110 likes - 150 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,146 likes - 150 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [Whole Lotta Shakin' Goin' On \- Live At The Municipal Auditorium, Birmingham, Alabama/1964](https://open.spotify.com/track/2L8QMbzt6ivEdQ3aQIJ8cK) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Greatest Live Show On Earth \(Live At The Municipal Auditorium, Birmingham, Alabama/1964\)](https://open.spotify.com/album/7pHGti1C51afG7dnl9goap) | 5:07 |
 | 150 | [Is Anybody Goin' to San Antone \- Live](https://open.spotify.com/track/5WE2W6nJmMgqqRhzMavLKs) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Live](https://open.spotify.com/album/6J5evHxgFS0lym40ETnOs3) | 2:42 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDlkZGUwYTRkNTEzNmZjNmZhMGUzYWI1Y2Y4NGI0ZDRh`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDllNDBkNTMzZTk3M2Y2ZDYzNGQzNjQ5MThhZjY0OGNl`

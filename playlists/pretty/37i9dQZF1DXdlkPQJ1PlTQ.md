@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlkPQJ1PlTQ.md) - [plain]
 
 > 2022's must hear episodes, hand\-picked by Spotify Podcast Editorial
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,893 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 76,883 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MTY2OTc5NDkzOCwwMDAwMDAwMDkxMjYzM2QzZjNlMDJmOWNiOWZiNTg1OTc2MDUxNWRi`
+Snapshot ID: `MTY2OTc5NDkzOCwwMDAwMDAwMDM2NmYwZTNmZTUyODEzNzBhZWQxYmNlYTJhYWQzYjM1`

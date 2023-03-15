@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,472 likes - 140 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,463 likes - 140 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 | 139 | [O, Come All Ye Faithful](https://open.spotify.com/track/6t1Ls3PvpUFhJAaAJBLsRl) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Glory In The Highest: Christmas Songs Of Worship](https://open.spotify.com/album/1a2gUlUBypmai0CzuIVXQo) | 5:39 |
 | 140 | [O Holy Night \- Live](https://open.spotify.com/track/4mBR7vdP33yfR2w4y3pKHR) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Emmanuel: Christmas Songs Of Worship \(Live\)](https://open.spotify.com/album/1z06qfsfaXA1QFSQ4gIzDf) | 4:19 |
 
-Snapshot ID: `MTY3MDcxOTYxNiwwMDAwMDAwMGFhZDliMjk4OTA0YjU5MjExNDVlMDViYTQzNWI2ZjY5`
+Snapshot ID: `MTY3MDcxOTYxNiwwMDAwMDAwMGZiMWEyMzAxODhmNTJiN2E5NTYzMWFjNGQzZjRmYmM1`

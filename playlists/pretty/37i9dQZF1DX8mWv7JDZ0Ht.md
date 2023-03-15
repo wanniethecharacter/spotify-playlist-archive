@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Agnes Nunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,011 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,064 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 79 | [sexto sentido](https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [sexto sentido](https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg) | 2:36 |
 | 80 | [Juntin](https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ) | [Nós Dois](https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g) | [nósdois](https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe) | 2:43 |
 
-Snapshot ID: `MTY3ODUwMzYwMCwwMDAwMDAwMGUxYTBiZmE4ZWFmZjc5NjUyNDU2YmQ4OTA5OWEyMTkw`
+Snapshot ID: `MTY3ODUwMzYwMCwwMDAwMDAwMDVlNzM2ZjMxZDM1ZjAxMTA4YzM1Y2JlMjg4MWRiZDRl`

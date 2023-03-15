@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حاله حب 🫶
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,920 likes - 130 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,988 likes - 130 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 129 | [Baseeb El Donia](https://open.spotify.com/track/441kvK0iZMdhGy2peaAaqC) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Baseeb El Donia](https://open.spotify.com/album/3HDTqcv00LpIwQEys88c0Z) | 3:21 |
 | 130 | [هنرقص الأيام](https://open.spotify.com/track/0v2hbpxiOMvvpib4VZB1eU) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [هنرقص الأيام](https://open.spotify.com/album/6KG9i8kep5W6akgPNCh4Hm) | 3:32 |
 
-Snapshot ID: `MTY3NzgyNjc5NSwwMDAwMDAwMDEzZTdkOTYxZDUxYTAzNGI2MWJiMDk0MWQ3OTRhMjhk`
+Snapshot ID: `MTY3NzgyNjc5NSwwMDAwMDAwMDY1MjE3YTNlMjg4OWQyYTk3MjQzZjUxMDA0MzZiNjNh`

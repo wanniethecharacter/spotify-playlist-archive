@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,814 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,822 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Sablier](https://open.spotify.com/track/37lp2tHv4wMehW2Xu66Mez) | [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Cercle vicieux 2](https://open.spotify.com/album/7p5Uy3lT9LoFdeeWLrMtE5) | 3:13 |
 | 100 | [Désirée \(feat\. Cape Tula & Yen Dough\)](https://open.spotify.com/track/6xOBm3J2uftXOZNzkI3vEf) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS), [Yen Dough](https://open.spotify.com/artist/3RNcfewLEd1Y5n8WtcoJXG), [Cape Tula](https://open.spotify.com/artist/7tZSgCNyyOgOdu6RvF0yAf) | [OUI \(tout, tout, tout, toutttte\)](https://open.spotify.com/album/7bRU8bH8jcOYzSA5NKd1QK) | 4:14 |
 
-Snapshot ID: `MTY1NjUyNzU5MCwwMDAwMDAwMDZhMDI5ZDAwYjU5ZjRiNDk3Y2ZhOTljYjg1ZmVhNzFk`
+Snapshot ID: `MTY1NjUyNzU5MCwwMDAwMDAwMDdiMTA1ZjI5NjgzZGY5ZGE4Y2M0NWIzNzk1NGM4NmJm`

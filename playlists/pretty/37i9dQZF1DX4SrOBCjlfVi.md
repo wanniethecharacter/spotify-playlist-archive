@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring NLE Choppa, Blxst and more\. Cover: Lola Brooke
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,043 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,126 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Gang Signs](https://open.spotify.com/track/4jTYEWGM1YwXg0fkhNs3we) | [Action Pack](https://open.spotify.com/artist/7FjgkFMkxGiIJ3RkjUBOW4) | [I'm Action](https://open.spotify.com/album/61AhGmBpQM70S8CEqCfg2E) | 1:59 |
 | 50 | [Bad Time](https://open.spotify.com/track/7F8e3Ph2sw6ASOAIoG0HEI) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35), [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [Bad Time](https://open.spotify.com/album/2LN6XGtqzQxXOW6WnFZnqQ) | 3:23 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGVmMDdmZTMxNjZlMTQyNzI2MDJlM2E1MTUzY2I0Zjdh`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGExZTcxODAxOWMzYTg2N2YyMTNlNjNlMWIwZTVmOTNl`

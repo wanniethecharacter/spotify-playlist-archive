@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "scared of everything",
+        "url": "https://open.spotify.com/album/6qf1Qjmib5fOTb18Ju6uA9"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60333,
+      "name": "could you love me while i hate myself",
+      "url": "https://open.spotify.com/track/7uo2L5FAja3pWIBa3HJVeC"
+    },
+    {
+      "album": {
         "name": "Crisis / Secret / Set Me Free",
         "url": "https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0"
       },
@@ -1869,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227924,
+      "name": "Last Train To London",
+      "url": "https://open.spotify.com/track/7djOJmSvxXtq0Q49iC9qsX"
+    },
+    {
+      "album": {
         "name": "Learn To Let Go",
         "url": "https://open.spotify.com/album/2x1M49vqWJIct5mZKbBX5o"
       },
@@ -1942,7 +1978,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 177440,
       "name": "lie to me",
       "url": "https://open.spotify.com/track/4f9IfFvBFm7Gsf1IVEudyf"
@@ -2876,7 +2912,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 227307,
       "name": "Virtually",
       "url": "https://open.spotify.com/track/3agFpBb8vzrMVSqTEMLTBa"

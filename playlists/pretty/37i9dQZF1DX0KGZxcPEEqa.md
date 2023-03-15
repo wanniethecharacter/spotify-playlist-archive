@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 
 > Digging deep into the history of 10s pop\. Cover: Ellie Goulding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,806 likes - 400 songs - 23 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,844 likes - 400 songs - 23 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 | 399 | [Don't](https://open.spotify.com/track/6gTJaPuj8DT8RjuDJyBgzP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 3:39 |
 | 400 | [Love Me](https://open.spotify.com/track/2BSFAQuiYKu4VcMjovRgRQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:52 |
 
-Snapshot ID: `MTY3MTYyNzYyNCwwMDAwMDAwMGM5ZWYzNmRkMWQzZWUzNTU0NTNkZDE2NGIxMDczNzUz`
+Snapshot ID: `MTY3MTYyNzYyNCwwMDAwMDAwMDFkMThjNDgyM2U5NzEyYzc1ODg0M2RkMjQ1NDQwZmE0`

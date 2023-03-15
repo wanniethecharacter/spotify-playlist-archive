@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Sem Aliança no Dedo e os funks mais 🔑 do Brasil\. Foto: MC Xenon
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,464,037 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,466,733 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Menina Se Prepara](https://open.spotify.com/track/2aqqXrjrPdRHU9uSeRmL3C) | [Mc Pepeu](https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Menina Se Prepara](https://open.spotify.com/album/3Lm13mfUcBeFGDitToszX5) | 3:30 |
 | 50 | [Privilégio](https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3), [Mc Vitin do LJ](https://open.spotify.com/artist/4NYa9HEvARX9LXU4LRoGny), [MC Marley](https://open.spotify.com/artist/0f6Q3bpuXN7TfNxeJJBd3m) | [Privilégio](https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb) | 2:31 |
 
-Snapshot ID: `MTY3ODQxNzM4MCwwMDAwMDAwMDdjMDlhYjE0NTg3ZmRlYTE5YjViYTdmN2NmOTllYzkw`
+Snapshot ID: `MTY3ODQxNzM4MCwwMDAwMDAwMDE4NTE0NTk0YTZjNDM3MmZhNDI4MzdhYmRiNzE1YWI3`

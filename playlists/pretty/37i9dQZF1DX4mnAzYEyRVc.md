@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,096 likes - 200 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,157 likes - 200 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 199 | [Ska en la Playa](https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 2:42 |
 | 200 | [Részeg](https://open.spotify.com/track/21AWMfngLGi5gL8mrpMcJm) | [Pannonia Allstars Ska Orchestra](https://open.spotify.com/artist/6JOOdNj8DMXHtPO470pyHE), [Riger János](https://open.spotify.com/artist/0y00MUz87wCYgqRJADv7BO) | [Ghost Train](https://open.spotify.com/album/7aZsLt8oHbOXbLrsnXtIa8) | 3:21 |
 
-Snapshot ID: `MTY3ODQ2MDUyMiwwMDAwMDAwMDI1ZGNkOTIwZGYwNDc5NTBlMmY1NjNkMzA1NmFhM2Ez`
+Snapshot ID: `MTY3ODQ2MDUyMiwwMDAwMDAwMGIyMWJiZGM1ZTk5NDkxMWQyYzI1YmE4ZjVhMjJmZThh`

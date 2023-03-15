@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Kamaiyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,503 likes - 55 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,544 likes - 55 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 54 | [Stuck In My Ways](https://open.spotify.com/track/4VTsnJUPlrL4YsWnXsfd1F) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Stuck In My Ways](https://open.spotify.com/album/3gRpuBhGFFzi997GMO5P95) | 2:23 |
 | 55 | [On My Way Up \(feat\. Roddy Rich\)](https://open.spotify.com/track/7IPmY6ICbq3fgESalaC3An) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Roddy Rich](https://open.spotify.com/artist/0wAtXnbE4dgmdsqEZLkdb5) | [Rodney Brown Jr](https://open.spotify.com/album/1vnYinE0S5ozezv7FVM0lI) | 3:12 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDMyZTc1OTZkZDFhYjdhMDhmMmI0NGEwYTY0ZjJlNzVi`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGVjM2EyM2M2ZjIwMTg1MjU1NDJiYzczZGZlNzM2NDNl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,816 likes - 150 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063,381 likes - 150 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 149 | [Knives](https://open.spotify.com/track/7zgIdPmFuTRPj7MsAKV0lH) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Knives](https://open.spotify.com/album/46fenR6yH4MASF1fkHgcWq) | 4:16 |
 | 150 | [Gateways](https://open.spotify.com/track/5JxyDHWj4XMRgvuRzWd9JK) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Abrahadabra](https://open.spotify.com/album/1lAP0ZWj2nDXDHcChtDzSO) | 5:10 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDc5NzFiYzVlYjhhZTBmYjg4MTA4YWY2MzM2OGI4MTkz`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGEzMDgyZDRkNmIwZTNiMGRkMmFhZjEyNWE0ZjRjMWU5`

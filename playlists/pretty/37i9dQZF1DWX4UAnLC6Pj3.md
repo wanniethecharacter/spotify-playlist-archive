@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Luis Ángel El Flaco & Josi Cuen en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,707 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,117 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 99 | [La Contraseña De Tu Cuerpo](https://open.spotify.com/track/0JGxubIP9h6x5JDYUzyrTH) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Eladio Flores LR](https://open.spotify.com/artist/79L55hJR2nKHrFkWbJO0RG) | [La Contraseña De Tu Cuerpo](https://open.spotify.com/album/1ODDDgLFksy7YfvDvaqAXp) | 3:22 |
 | 100 | [Salud Por Eso](https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Salud Por Eso](https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR) | 2:59 |
 
-Snapshot ID: `MTY3ODQyODAwMCwwMDAwMDAwMGI2YmQxMjQ5MDcxMjUxODljZWY0NWYxOWY0Zjg0Mzk1`
+Snapshot ID: `MTY3ODQyODAwMCwwMDAwMDAwMDY2NWNkNTBmYjhkNThjNGE1OTMxZWE0NDYwMzhhYTJk`

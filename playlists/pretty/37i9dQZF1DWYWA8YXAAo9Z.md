@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,366 likes - 75 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,424 likes - 75 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 74 | [Approximate Bermeja](https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk) | [Andrew Pekler](https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J) | [Sounds From Phantom Islands](https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI) | 3:09 |
 | 75 | [Kosmic Headroom](https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva) | [Poulson Sq.](https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp) | [Kosmic Headroom](https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj) | 4:13 |
 
-Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMGMzYjcxOTk3ZDQ0MWFlYWYxZDI2MmM2YjRiYTJiM2E1`
+Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMDkwYzdmYzhlNWNmOTllOGVmZGFkMWE1ZThkYzc4ZmNm`

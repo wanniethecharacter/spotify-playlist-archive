@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,862 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,035 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 98 | [Major Lazer](https://open.spotify.com/track/7omRjfVEwx72dRDNWdFs43) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Major Lazer](https://open.spotify.com/album/0lvEoELFjNxivRwSoSBLb3) | 2:46 |
 | 99 | [Come 2 Brazil](https://open.spotify.com/track/6ECE8va8cPjYXqWxtw1R1F) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Come 2 Brazil](https://open.spotify.com/album/1GlhS8meus1qIRZVOKu1Kq) | 2:14 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDU0YTkyY2I1YzMyMWU2YTZjMDJjM2JmMWI5YTJhMGIz`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDBiNTNhYjlkZjc3MDJkNWYwNjJhOWFiOTA0ZTVhNDI3`

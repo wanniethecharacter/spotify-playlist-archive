@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Mariah Angeliq
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,076 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,108 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [Frontal](https://open.spotify.com/track/1d0oVJE9NW9cxubVR0PcMw) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW), [Angie Flores](https://open.spotify.com/artist/0mtlM0TqGqmfxPDsgIVc6T) | [Frontal](https://open.spotify.com/album/28e7MMir9UFaj0Zo5dm1t3) | 3:00 |
 | 100 | [Top Game](https://open.spotify.com/track/6WQCVFmE815us7BFE5evCq) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Top Game](https://open.spotify.com/album/3KQIUsqePcQqFREkNRhCsT) | 2:06 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDgwYjBhNWUyYjRjYmQ1ZTRkMWI4YjNmMmYxMTVjNjEz`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGRjMzcwYThjZmE0ZTBkYTc3MTk4OGRhZDBlNDAzMzFj`

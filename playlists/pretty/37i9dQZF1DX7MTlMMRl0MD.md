@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Mike Bahía & Greeicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,892,810 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,893,063 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 99 | [En Cada Aniversario](https://open.spotify.com/track/5p8f4fXfH83ixykJnIkUMD) | [Alexandra](https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX), [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Duos Entre Amigos](https://open.spotify.com/album/2aZsa1dc6ynwuv3yXjyZDC) | 4:05 |
 | 100 | [Cuanto Duele](https://open.spotify.com/track/4pJDYk0CnZoydOy6qzqxJW) | [Carlos y Alejandra](https://open.spotify.com/artist/198g5ZZS90C4PnJ7E1dVjA) | [La Introducción...Continued](https://open.spotify.com/album/3mUrBZLHq70OZkho88yAEC) | 3:34 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGFiNTRmNTY3N2JkNWFiNjM4YTFmM2UyZjllNzQ4ZGQx`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDY0MGQxZDExMDJkYjhiODAyOWM1ZmQ1OTEzNDUxZDIw`

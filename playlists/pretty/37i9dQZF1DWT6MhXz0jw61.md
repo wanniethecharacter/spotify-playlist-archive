@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Little Simz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,206,647 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,207,169 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 83 | [One of Us](https://open.spotify.com/track/0KBg8fop4DsefGLKkkuenn) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 4:02 |
 | 84 | [37th](https://open.spotify.com/track/1Zw5s7JEokiF5OchgnRB0t) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:15 |
 | 85 | [The Hills](https://open.spotify.com/track/7zhfWs9c97sn0mEP4x8xFi) | [Mazen](https://open.spotify.com/artist/4ri7eLpPVlGqwclssOyJDM), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [The Hills](https://open.spotify.com/album/0M9IK1ZESirlxB0zzzyFBe) | 3:38 |
-| 86 | [Blue Hundreds](https://open.spotify.com/track/0MC5f84F0ZAGoOkBqkbEKg) | [YGTUT](https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU), [Ducko Mcfli](https://open.spotify.com/artist/3Ub1GELMKvphT5J3F36nJf) | [SUPA EP](https://open.spotify.com/album/6lKgU5WyW5XFmMjbVgFR2e) | 3:13 |
+| 86 | [Blue Hundreds](https://open.spotify.com/track/0MC5f84F0ZAGoOkBqkbEKg) | [YGTUT](https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU), [Ducko Mcfli](https://open.spotify.com/artist/3Ub1GELMKvphT5J3F36nJf) | [SUPA](https://open.spotify.com/album/6lKgU5WyW5XFmMjbVgFR2e) | 3:13 |
 | 87 | [Counseling](https://open.spotify.com/track/5BwGvMLx9eTDR9XFNZ9tiQ) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [Kinrose](https://open.spotify.com/artist/6SUbi1ZVEswHqRUWsxmq2m), [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI) | [Counseling](https://open.spotify.com/album/1CrZOtcNEuPhLcLUi4HMWS) | 3:28 |
 | 88 | [hyogo](https://open.spotify.com/track/0rA7LaZ2rbWjKBZv0hHqaR) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj) | [hyogo](https://open.spotify.com/album/2ASDSaBeaz82gXuU0BonvZ) | 2:33 |
 | 89 | [Sedated](https://open.spotify.com/track/6hh9zLiPE6RILuiIsxOuIE) | [Tattie](https://open.spotify.com/artist/3ufe6cJhr6OWhsAsnJF4pi) | [Familiarity](https://open.spotify.com/album/2lv4yoXH6ukiQyXbeomzSd) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [BAKERY](https://open.spotify.com/track/050tQce8FVFGpGiQtzhhJT) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A) | [BAKERY](https://open.spotify.com/album/1UCjI9yKK2KQkR8InhyPmB) | 4:01 |
 | 100 | [Save The Best For Last \(Feat\. Rick Ross\)](https://open.spotify.com/track/4mmg0ZJlcATIM6pJQrdKVS) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:50 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDA1NDc1MzM5ZDk3ZTUzMDNkNjY4YTUyZTAwOWNkMWZl`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDc4Zjg2NThiZjAyYWUwOGQ2ZjNkZDc3YjliMjA4NzVl`

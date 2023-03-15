@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u5e7e\u7530\u308a\u3089",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: eill",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 203879,
       "name": "2gether 4ever",
       "url": "https://open.spotify.com/track/5t8oTln1Hm5wX4J5sumiQH"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 211448,
       "name": "Arigatou",
       "url": "https://open.spotify.com/track/1BqO13qjFNkQXvcBUQJx3d"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 211786,
       "name": "BE ME",
       "url": "https://open.spotify.com/track/6YXgarWY2jY2f1F7VVUE0Z"
@@ -3425,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "HMN</3",
+        "url": "https://open.spotify.com/album/6PIB7gC1CweteFuVFjbpro"
+      },
+      "artists": [
+        {
+          "name": "illiomote",
+          "url": "https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186745,
+      "name": "everyone likes",
+      "url": "https://open.spotify.com/track/6iNg9CQ1O2PGfjBRsgFu9s"
+    },
+    {
+      "album": {
         "name": "Fallin\u2019",
         "url": "https://open.spotify.com/album/0fJAMatgtuw8ux3zSExPFz"
       },
@@ -3968,7 +3986,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 183359,
       "name": "Gensou",
       "url": "https://open.spotify.com/track/1CXHyiojJVoZFDBtrhqWvz"
@@ -4402,7 +4420,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 271280,
       "name": "Heart",
       "url": "https://open.spotify.com/track/5Telaq6UCXw3kG6nepeLp1"
@@ -4802,7 +4820,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 217500,
       "name": "I Need U ~\u541b\u306b\u983c\u3063\u3066\u3082\u3044\u3044?~",
       "url": "https://open.spotify.com/track/5UyJogrgcVhrP3auoMpRVI"
@@ -5540,7 +5558,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 173413,
       "name": "Just Be Alive",
       "url": "https://open.spotify.com/track/4OpfbKpEcLBFDFR5084S8q"
@@ -6044,6 +6062,24 @@
       "duration_ms": 270108,
       "name": "lean forward",
       "url": "https://open.spotify.com/track/6YXm0b3TVVGOz1K82ye05R"
+    },
+    {
+      "album": {
+        "name": "Leap",
+        "url": "https://open.spotify.com/album/2RPT4dc1XDtfpyALnf0yq7"
+      },
+      "artists": [
+        {
+          "name": "Uniolla",
+          "url": "https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246965,
+      "name": "Leap",
+      "url": "https://open.spotify.com/track/3hrZ10jvm7019DdwZLxmCU"
     },
     {
       "album": {
@@ -6612,7 +6648,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 212233,
       "name": "lullaby",
       "url": "https://open.spotify.com/track/2zg2jjRWX3zKG6GW4zaPqX"
@@ -7356,7 +7392,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 134500,
       "name": "Mushroom Beats",
       "url": "https://open.spotify.com/track/5uJImPxcrsokmLjKHsRw67"
@@ -8250,7 +8286,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 258393,
       "name": "Painting in the Dusk",
       "url": "https://open.spotify.com/track/0Aoh3DIsXbABQwCd2lf0iN"
@@ -9034,7 +9070,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 272578,
       "name": "rush",
       "url": "https://open.spotify.com/track/0nwExdohc2fbpAyAXr0udo"
@@ -9340,7 +9376,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 237746,
       "name": "SEVENTH HEAVEN",
       "url": "https://open.spotify.com/track/6YK1jSYfYeUZybhXRnPKna"
@@ -9780,6 +9816,24 @@
       "duration_ms": 210480,
       "name": "Someone To Love",
       "url": "https://open.spotify.com/track/1pUvCQzbPxG75m2Ox3vCEN"
+    },
+    {
+      "album": {
+        "name": "HUES",
+        "url": "https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172455,
+      "name": "SORA",
+      "url": "https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL"
     },
     {
       "album": {
@@ -11676,7 +11730,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 240053,
       "name": "Walkin' In My Lane",
       "url": "https://open.spotify.com/track/3l2O4IuJ4DFEfUwDdWyPnf"
@@ -11825,6 +11879,24 @@
     },
     {
       "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/7GV1xZuvSu7f3Xqfecgi3a"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212372,
+      "name": "WE ARE",
+      "url": "https://open.spotify.com/track/6WJy6lQqRkj2WMm348ieps"
+    },
+    {
+      "album": {
         "name": "We Are",
         "url": "https://open.spotify.com/album/2xtTnFp57oSOS3VWu4w6ob"
       },
@@ -11890,7 +11962,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 238831,
       "name": "We've Come So Far",
       "url": "https://open.spotify.com/track/6NPWhHGuKj5lHVOYCjqENO"
@@ -13006,7 +13078,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 239673,
       "name": "\u304b\u305f\u3063\u307dshoes",
       "url": "https://open.spotify.com/track/4tb2PgYuehRxm9NPEIproL"
@@ -15536,7 +15608,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 203554,
       "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
       "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
@@ -17328,7 +17400,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 181368,
       "name": "\u521d\u96ea",
       "url": "https://open.spotify.com/track/2zIht1HPxFqj3KEwqYdTFK"
@@ -18242,7 +18314,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
@@ -19540,6 +19612,24 @@
       "duration_ms": 265714,
       "name": "\u661f\u6708\u591c",
       "url": "https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm"
+    },
+    {
+      "album": {
+        "name": "Bet On Me",
+        "url": "https://open.spotify.com/album/0rTpb9TTasG9osavRMEFD3"
+      },
+      "artists": [
+        {
+          "name": "JUJU",
+          "url": "https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209586,
+      "name": "\u6625\u306e\u5d50",
+      "url": "https://open.spotify.com/track/2rLQopphegapsx4uPwpwz7"
     },
     {
       "album": {
@@ -21094,7 +21184,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 202582,
       "name": "\u8056\u8005\u306e\u884c\u9032",
       "url": "https://open.spotify.com/track/6sm09Seh0gwvS3X9meLVC4"

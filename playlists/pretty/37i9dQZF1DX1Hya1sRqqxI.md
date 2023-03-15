@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,235 likes - 150 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,784 likes - 150 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 149 | [Who Loves You](https://open.spotify.com/track/5MjwNUe4SSzAzsHoBjlPOm) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 4:15 |
 | 150 | [Pick Up the Pieces](https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [AWB](https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6) | 3:59 |
 
-Snapshot ID: `MTY2OTk2NTUzOSwwMDAwMDAwMGY4MjQ0MGJjYjFjM2U2N2Q4NmViNDM5NmU5MTVmZmU3`
+Snapshot ID: `MTY2OTk2NTUzOSwwMDAwMDAwMDAxMzE2YmRkNGViYTZkYWIyMTE0N2IxNTBiMjU4ZmMy`

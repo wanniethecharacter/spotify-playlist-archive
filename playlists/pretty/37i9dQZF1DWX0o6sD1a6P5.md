@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Ruger
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,704 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,291 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 48 | [True Love](https://open.spotify.com/track/3xABB1adEnkr26aW1LmAYS) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [True Love](https://open.spotify.com/album/3m39YZfDCGNFFQzAmSxVlo) | 2:24 |
 | 49 | [Chérie](https://open.spotify.com/track/0nteyEHe6e9vAbJiF5oeyo) | [Axelence](https://open.spotify.com/artist/1AHYy1rAuCOfdbdxgh1dyo), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [DIMA DIMA](https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu) | [Chérie](https://open.spotify.com/album/7JdvLHmdhtxHnama0XdVXl) | 2:55 |
 
-Snapshot ID: `MTY3ODQwNDE5MywwMDAwMDAwMDYzOWI3MmE3MTRhZWM4NWQ0YjI2MWQ1Y2UyOWU0MmZh`
+Snapshot ID: `MTY3ODQwNDE5MywwMDAwMDAwMGIxNmJjMWFjNDY4ODUwMzNmZGZjNzk1MDRjZGNhMTRm`

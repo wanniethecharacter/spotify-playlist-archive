@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-217 songs - 11 hr 5 min
+218 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Escape \- Juan Dileju & Sam Ourt VIP Mix](https://open.spotify.com/track/1JfPvINntzaONpjJ9sEHPT) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [AKIAL](https://open.spotify.com/artist/75llQ03L6DeBiswluXIMWn), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv), [Juan Dileju](https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0) | [Escape \(Juan Dileju & Sam Ourt VIP Mix\)](https://open.spotify.com/album/7g07T8MA5I4JYLieH80XkQ) | 2:17 | 2022-12-12 |  |
 | [Falling](https://open.spotify.com/track/2mBji77pNUVeI0PVKqskIc) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Falling](https://open.spotify.com/album/4PmsOH9a3agTL1QrFeyfFp) | 3:35 | 2022-04-08 |  |
 | [Falling For You](https://open.spotify.com/track/4laQol4chyvQc0gdVToZgl) | [SouMix](https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp), [Bromar](https://open.spotify.com/artist/1bilUcnWet3UAKE4biDiQY) | [Falling For You](https://open.spotify.com/album/1AkO9k156Wdnw51DHA7Lod) | 2:09 | 2022-09-27 |  |
-| [Faster](https://open.spotify.com/track/1jw3vByyGzHaeKkhl6W5vo) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O) | [Faster](https://open.spotify.com/album/49W9j2gUsprNUqp3r6hmft) | 2:06 | 2022-07-01 |  |
+| [Faster](https://open.spotify.com/track/1jw3vByyGzHaeKkhl6W5vo) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [Faster](https://open.spotify.com/album/49W9j2gUsprNUqp3r6hmft) | 2:06 | 2022-07-01 |  |
 | [Fata Morgana](https://open.spotify.com/track/6n6g8x3L94VKeaTwXdERjG) | [Lennart Schroot](https://open.spotify.com/artist/2X0ndI9nIkbMvJE9YlLQr4) | [Fata Morgana](https://open.spotify.com/album/4qoActIgfsN38oC0qCL1x5) | 2:14 | 2022-12-20 |  |
 | [feel](https://open.spotify.com/track/1YWRkdve95UlDNmUIj67Z4) | [JB Hain](https://open.spotify.com/artist/7iJUjgKf5EfgLRlczakDtA) | [feel](https://open.spotify.com/album/6lYnCqxUSRXwLHpfMNeTu1) | 3:01 | 2023-03-08 |  |
 | [Feel](https://open.spotify.com/track/1whGAh2hFEr9CQeEmhouJq) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Feel](https://open.spotify.com/album/6fvg92JFSGmu8WbC3xLtDU) | 2:36 | 2022-06-07 |  |
@@ -205,6 +205,7 @@
 | [Unstoppable](https://open.spotify.com/track/6hzOIrpitaEFkPqlSHHpap) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Unstoppable](https://open.spotify.com/album/1HjcUXi7TgTqJw6fHtGwMm) | 2:50 | 2023-01-06 |  |
 | [Vision](https://open.spotify.com/track/1G3sEIZJQpPtsPNTLlWSzs) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT), [just alex](https://open.spotify.com/artist/5uSqBdEd1pGLkqnqdSEKVu) | [Vision](https://open.spotify.com/album/1KIMzdcNaxOXmlCH63HR96) | 2:25 | 2023-01-13 |  |
 | [Volcano](https://open.spotify.com/track/2H4QqnZCyGPQ7CuVLmQNwO) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Volcano](https://open.spotify.com/album/4VQ9dQ519GNaeOFIgdfFys) | 2:40 | 2023-01-27 |  |
+| [Voyage](https://open.spotify.com/track/0SOnRPjBDZ2wJiKXEysgeD) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Voyage](https://open.spotify.com/album/645TcShtLFbgysGGzf7bSV) | 3:14 | 2023-03-14 |  |
 | [Waiting](https://open.spotify.com/track/5ZsVoJMUYzanwp2MZfNOvf) | [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Waiting](https://open.spotify.com/album/0xfFT55IkgeDqA3zuvyg6z) | 3:07 | 2022-12-13 |  |
 | [War Machine](https://open.spotify.com/track/6SRBp5BQJJkuzMw9aSpb8t) | [Dryskill](https://open.spotify.com/artist/5llLxfNmypH6ujbtB5ZoVN), [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [War Machine](https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY) | 3:17 | 2022-10-25 |  |
 | [What I Say](https://open.spotify.com/track/2MYf47KmmKlnt8IVcvszkx) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH) | [What I Say](https://open.spotify.com/album/3h0ZMafVpLo8FQFokxjilF) | 3:35 | 2022-11-18 |  |

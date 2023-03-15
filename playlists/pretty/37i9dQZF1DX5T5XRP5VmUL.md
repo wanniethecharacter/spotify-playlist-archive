@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,641 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,615 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Don't You Know It's Christmas](https://open.spotify.com/track/4WZ51l7xdSwPLQcXeReBfG) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Don't You Know It's Christmas](https://open.spotify.com/album/2mxIzdveUmWmDNedhS7qh4) | 3:37 |
 | 100 | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/track/0AFOsHOLzZvUY8IqnhfRvA) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/album/1U04rSEjf2f4tMvOpvKacK) | 3:51 |
 
-Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMDQ2NjZhNmIyMDc3MjViOTVlMDVmYWJmOWJhYmM0NTA1`
+Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMDgzNDhhMDc3OTBmZTI2YzA3M2VjODE1Mjk0YmZiNjk3`

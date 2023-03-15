@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 
 > The biggest Christmas songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,389,035 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,387,898 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 99 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:03 |
 | 100 | [Fairytale of New York \(feat\. Kirsty MacColl\) \- Edit](https://open.spotify.com/track/4soJpnUFA0SPs7XTi6QIVp) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [Fairytale of New York \(feat\. Kirsty MacColl\) \[Edit\]](https://open.spotify.com/album/5Rxp9oBKNjn0m24SjWIkUW) | 4:35 |
 
-Snapshot ID: `MTY3MTcwMjkzNywwMDAwMDAwMDk2MzVjZWQxYTBkMmRmODk4Yjc3Mzk0ZTU4NzFlMmMw`
+Snapshot ID: `MTY3MTcwMjkzNywwMDAwMDAwMDRmY2E0YTA1NjUzOTYzNjhiYTMwZGYzZWRmZjg5ODEy`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,584 likes - 55 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,728 likes - 55 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ngủ một mình \(tình rất tình\)](https://open.spotify.com/track/76dD9BdSOzsRJSGGBjOcUf) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [ngủ một mình \(tình rất tình\)](https://open.spotify.com/album/24GVnl6IHS4453WEGwp65Y) | 3:12 |
 | 2 | [có hẹn với thanh xuân](https://open.spotify.com/track/0zCGKGZB5aySnQQSHWRGIT) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [có hẹn với thanh xuân](https://open.spotify.com/album/6nhbul7dYBCe9NS0eGwN6L) | 3:38 |
 | 3 | [nếu lúc đó](https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [nếu lúc đó](https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV) | 4:24 |
-| 4 | [tình yêu chậm trễ](https://open.spotify.com/track/6jcLKVmEKAQIXIVHJZ8vzS) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8) | [Over The Moon](https://open.spotify.com/album/4bC0p7T5Wy2kqCuQ0uK4D7) | 4:05 |
+| 4 | [tình yêu chậm trễ](https://open.spotify.com/track/6jcLKVmEKAQIXIVHJZ8vzS) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8), [GREY\-D](https://open.spotify.com/artist/1DkeVIjKLcyWBdV47p2ogo) | [Over The Moon](https://open.spotify.com/album/4bC0p7T5Wy2kqCuQ0uK4D7) | 4:05 |
 | 5 | [Em Đồng Ý \(I Do\)](https://open.spotify.com/track/0bgJPIvefuRnEU4MNJuJSA) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs), [911](https://open.spotify.com/artist/3H7pODXycF821OnRyAw2VT) | [Em Đồng Ý \(I Do\)](https://open.spotify.com/album/1oZsMcVFQcEPyOqfiUgfd2) | 3:23 |
 | 6 | [Sinh Ra Đã Là Thứ Đối Lập Nhau \(feat\. Badbies\)](https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Badbies](https://open.spotify.com/artist/2ZjO6APYelcHcLd2pWMx8x) | [Sinh Ra Đã Là Thứ Đối Lập Nhau \(feat\. Badbies\)](https://open.spotify.com/album/5vJ5JDNypTPlAc5yv3du8s) | 3:54 |
 | 7 | [để tôi ôm em bằng giai điệu này](https://open.spotify.com/track/2anWKmV4Je8175CHvemHV9) | [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [để tôi ôm em bằng giai điệu này](https://open.spotify.com/album/1p3STHvnQGSVsZGiKij4Je) | 4:24 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 11 | [Anh Chưa Thương Em Đến Vậy Đâu](https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tập 12: The Masked Singer Vietnam](https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA) | 4:30 |
 | 12 | [Vì Anh Đâu Có Biết](https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Vì Anh Đâu Có Biết](https://open.spotify.com/album/3C5z2dMU7D6VLpnNtYujPJ) | 4:01 |
 | 13 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl) | 4:38 |
-| 14 | [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/53vcJaw0rQEux8YK9EDOxE) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/25aSCmyq0GJvaSUduH72Kj) | 4:04 |
+| 14 | [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/0vkExWiBJSrfWnlMC7x48b) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/49dKGvpp3ix58fS46uVqOQ) | 4:04 |
 | 15 | [Cô Gái Này Là Của Ai? \(feat\. Rush & Nhi Nhi\)](https://open.spotify.com/track/5sIgSa5Q1GEGWF0lrCQ0N6) | [Krix](https://open.spotify.com/artist/0CFshi8xoCTnhggihTqoUL), [Nhi Nhi](https://open.spotify.com/artist/69WVr1fBDPGsMEMn3kbxZt), [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Cô Gái Này Là Của Ai? \(feat\. Rush & Nhi Nhi\)](https://open.spotify.com/album/2NGMT2aQkL96whD93DdNxo) | 2:46 |
 | 16 | [Qua Ngày Mai \- 2018](https://open.spotify.com/track/6aCkeFgaHGiIxRAPGEk9P9) | [Tiên Tiên](https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe) | [Qua Ngày Mai \(2018\)](https://open.spotify.com/album/3XI0babfSGTn56c1kedLte) | 2:40 |
 | 17 | [Em Không Hiểu](https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Em Không Hiểu](https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn) | 3:57 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 54 | [Chúng Ta Sau Này](https://open.spotify.com/track/5IO873C4IP8pXdsXcJiBes) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Chúng Ta Sau Này](https://open.spotify.com/album/4J0LzY0UJJAeZnyLKWWWOO) | 3:31 |
 | 55 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 |
 
-Snapshot ID: `MTY3ODI0NjY0NSwwMDAwMDAwMGYzNDlhZDJjMzFjNDg5Mzg0M2YyZDFkZTVlODRkOGI4`
+Snapshot ID: `MTY3ODI0NjY0NSwwMDAwMDAwMGY1YjYzMGU3NzZhNDliMzk5Y2RlNmIzM2Q3Y2YyNzFk`

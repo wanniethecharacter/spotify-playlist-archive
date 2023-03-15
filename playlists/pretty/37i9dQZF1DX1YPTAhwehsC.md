@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Coi Leray
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,878 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,944 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Bulletproof Skin](https://open.spotify.com/track/7CyszM5ZobMrQx1Obcv4K3) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [The Fuse Is Lit](https://open.spotify.com/album/5wGsdUOBWY4hiJJ2c2Vpu6) | 3:34 |
 | 100 | [2.5](https://open.spotify.com/track/5EdjtFDTfqbdWFzpceeiCE) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9), [Torchhh](https://open.spotify.com/artist/6GeNJTovWkpD8d5Eu4AlEk) | [2.5](https://open.spotify.com/album/7mRnHAD7x7rcnoJaZbz6qu) | 1:53 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGE5ZDNjNzI0N2UxMTg5N2E3NGNlOGE5NDg1MGQ0Njgw`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDllMmQ0NjJlNDU2ZGMzMTM0MzljZjUyY2Q2NDc2MjVk`

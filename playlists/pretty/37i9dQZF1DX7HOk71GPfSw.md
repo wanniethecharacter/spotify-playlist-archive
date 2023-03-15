@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,403 likes - 90 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,605 likes - 90 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 89 | [Your Brother](https://open.spotify.com/track/1VD9GWAvof6JERoHuYEHl7) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Your Brother](https://open.spotify.com/album/2Pc2i5Wpy4R9SMUZZXUhve) | 3:02 |
 | 90 | [i wish my dad was still alive](https://open.spotify.com/track/0URmsHOFzwaBU8NDaL7l55) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [i wish my dad was still alive](https://open.spotify.com/album/2krXLLPmhIptQpcHEpjseW) | 2:20 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDVjNGNlZjQ5MzVhZjJhM2RhYmIzODNlYjNlN2NlN2Nl`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMGE3YmQxY2Q1ZjA0ZjkwMGNjODY1NzU3YmY2ZmE5YjQy`

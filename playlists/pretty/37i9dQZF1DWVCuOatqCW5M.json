@@ -1,12 +1,12 @@
 {
   "description": "New music from popular Hindi artists. Cover- Kanishk Seth",
-  "num_followers": 19713,
+  "num_followers": 19747,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNzU4MCwwMDAwMDAwMDE2M2NkNjM0NmUwYmNhM2MxZWQ3ZTgzYzNiOGY0YWQ4",
+  "snapshot_id": "MTY3ODQyNzU4MCwwMDAwMDAwMDVhNWViN2FhYjE3YmVlNGYzNmQ4M2FjN2QyOWMzOWYx",
   "tracks": [
     {
       "added_at": "2023-03-10 05:53:00",
@@ -92,12 +92,12 @@
       },
       "artists": [
         {
-          "name": "Nikhil - Swapnil",
-          "url": "https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ"
-        },
-        {
           "name": "Hansika Pareek",
           "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Nikhil - Swapnil",
+          "url": "https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ"
         }
       ],
       "duration_ms": 208000,

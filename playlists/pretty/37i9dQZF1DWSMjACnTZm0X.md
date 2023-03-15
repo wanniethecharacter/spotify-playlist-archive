@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=yhkjM4YgQcialbj\-N\_\-D4A">Mr Eazi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,453 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,459 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 9 | [Nice \(Kiss\)](https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Nice \(Kiss\)](https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm) | 4:57 |
 | 10 | [Mashonzha](https://open.spotify.com/track/6fVhiCUu6bhwRQflSayHbh) | [Gusba Banana](https://open.spotify.com/artist/0JQngxUcKlWPmUklxDidWb) | [EP Ya Baba](https://open.spotify.com/album/0EkFZZ27esrer52Rqb9iF7) | 3:36 |
 | 11 | [Khusela \(feat\. Msaki\)](https://open.spotify.com/track/1mg27ci1uDANuJ2ghZBrir) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Khusela \(feat\. Msaki\)](https://open.spotify.com/album/2sfjcZkqiS1bQT3zb4EiVL) | 8:21 |
-| 12 | [CANADA](https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [CANADA](https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW) | 4:07 |
+| 12 | [CANADA](https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Herc Cut The Lights](https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP) | [CANADA](https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW) | 4:07 |
 | 13 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 |
 | 14 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 |
 | 15 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [Walking On Water](https://open.spotify.com/track/6krVefZEplWKpATeUAZc1D) | [Obi Sanaa](https://open.spotify.com/artist/6Jwq0DU8WsVYLYyJqzfhEM), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Walking on Water](https://open.spotify.com/album/7ofRbTcpB7C0hYNhBL18p7) | 3:45 |
 | 50 | [Punk Luv](https://open.spotify.com/track/6bqzTc0gaDiq1wzaHW0g2d) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy) | [Punk Luv](https://open.spotify.com/album/37oAGxwK44ijCSqaHy6Mca) | 3:16 |
 
-Snapshot ID: `MTY3Nzc5NDM0MCwwMDAwMDAwMDAxZjYwMDYyZDFiZWUyZGQ0YmMzOTY1MGRlNzE4ZmVm`
+Snapshot ID: `MTY3Nzc5NDM0MCwwMDAwMDAwMDBmMTc4NzJjM2I3ODhlMmIzNDhhY2M1MWZlMmQ3Y2Iz`

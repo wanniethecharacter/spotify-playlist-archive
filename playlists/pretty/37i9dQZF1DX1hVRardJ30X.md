@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Cuco & The Marías
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,007 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,090 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Agua Marfil](https://open.spotify.com/track/4Flixyfpct0RIHOJYmdWMT) | [Matt Austin](https://open.spotify.com/artist/5KaReYdLy02ztF4gIzF6sQ) | [Agua Marfil](https://open.spotify.com/album/1eJfqN8tPmyM8cK9uXEOrI) | 2:51 |
 | 50 | [Lucid Dreaming](https://open.spotify.com/track/7CxxcJ8I5VAwnb1amdhZWq) | [Karina Magallon](https://open.spotify.com/artist/1YwrLrYKopX3zW2DMXpeSh) | [Lucid Dreaming](https://open.spotify.com/album/6fRkrFd5kyAEbpSBe37CvW) | 2:37 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGNmZTY0ZDllNTk5MzJkNjc2OTMwMjA5MzRiMTU2MzE3`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGI4ZjM2MDQzY2QzYWI3ZDViYjRiNzU0NGVhYmZiN2Uz`

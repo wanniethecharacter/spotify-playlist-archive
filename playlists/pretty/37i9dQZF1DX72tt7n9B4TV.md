@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > Hot noise for summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,727 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,724 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 79 | [SUCKAPUNCH](https://open.spotify.com/track/0j97Xzv5UT0jVlbR9ZwkZu) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t) | 4:59 |
 | 80 | [Sinner](https://open.spotify.com/track/5RuV11hkZ75dXUhglEKA9F) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [RITUALS](https://open.spotify.com/album/62cKkFUbbmw5lx2XK17KEJ) | 3:27 |
 
-Snapshot ID: `MTY1NjkyOTIyNCwwMDAwMDAwMDJlODQ0ZWFmZjJmYTEzZTVlNTc4MjkzNWFkMGQzZjY5`
+Snapshot ID: `MTY1NjkyOTIyNCwwMDAwMDAwMDY2MmIzMTliMDkwOWQ1N2Q3NTZiMDkxZjEyYzMwM2Rm`

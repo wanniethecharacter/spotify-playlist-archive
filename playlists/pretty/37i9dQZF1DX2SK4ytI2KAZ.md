@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > have fun with it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,269 likes - 150 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,337 likes - 150 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 149 | [Collect Call](https://open.spotify.com/track/75zV0Nc4cnupY4QXbKRzN7) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [From Mexico with Love](https://open.spotify.com/album/3qSSoMApIWkXTmCn4IaC30) | 2:56 |
 | 150 | [Boulangerie](https://open.spotify.com/track/36tuyoS2mGSzN7dMIuTHpM) | [Recent Rumors](https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn) | [Heart Baby](https://open.spotify.com/album/5Hub95rVF5waxlr8LWgTFq) | 3:18 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGVjYjJiMDM0OTg3NTU1NmYzOWM4NTM2M2M3Yjc1MDUx`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDM3MjlhMjliMDM0NTllOGEwZGQxZTI0YWExNjQ3NTA3`

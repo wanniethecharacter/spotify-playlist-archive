@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > What I'm listening to getting ready for the Streamer Awards on March 11th! <a href="https://thestreamerawards.com/">Click here</a> to learn more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,157 likes - 25 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,234 likes - 25 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 | 24 | [Waving Through A Window](https://open.spotify.com/track/0gMW8XpPFPjoApDii5Tj1u) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Original Broadway Cast of Dear Evan Hansen](https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij) | [Dear Evan Hansen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi) | 3:56 |
 | 25 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 |
 
-Snapshot ID: `MTY3ODExMTIwMCwwMDAwMDAwMGViMzkyYTY2M2Q2NjQyNjM4ZTdhYTUzMDFkNTg2YjQ2`
+Snapshot ID: `MTY3ODExMTIwMCwwMDAwMDAwMDJjYjdlNjZhNTRjYWJhOGVjMjA5NDJjMTZjZjg3YzRi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les dernières nouveautés francophones avec Thierry Larose, Comment Debord et Fanny Bloom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,097 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,105 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [Pour le pire \- Radio edit](https://open.spotify.com/track/1Wi1mITr79mUl0NuxSh3vU) | [Joémi](https://open.spotify.com/artist/25cKcxFoxsh54c8T8aaAMJ) | [Pour le pire \(Radio edit\)](https://open.spotify.com/album/5mILhJQJRVtutv80K36I31) | 2:26 |
 | 50 | [Flash](https://open.spotify.com/track/3fKhBsWZYvxmBdgHmexyne) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Flash](https://open.spotify.com/album/2U2BM552LnpdQaBfh1TkRs) | 3:12 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMGMxYTE1MzFiNjc1YjE3YjgzOWM0YmI4NGMwMzk2N2Zl`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMGVmNDhlYzk4Yzg0NDk1MGY2YWIwYTgzNjI4YzRkMDJm`

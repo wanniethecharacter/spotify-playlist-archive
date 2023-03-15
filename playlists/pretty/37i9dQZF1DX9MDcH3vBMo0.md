@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,243 likes - 250 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,456 likes - 250 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 249 | [Deliquescence](https://open.spotify.com/track/26Bz99v8NoOOUXYfkVR4Tw) | [Laura Olejnik](https://open.spotify.com/artist/510b8N0CM4dvQR311fMOOP) | [Deliquescence](https://open.spotify.com/album/7jXsZmBCvgUe8Dbd6gfbbR) | 2:46 |
 | 250 | [A Piece In Three Four](https://open.spotify.com/track/53QF1jYx9t2QTfViROvl6W) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Winter Sessions By The Lake](https://open.spotify.com/album/4pwxYdiYntZbLCuyJQnadA) | 2:43 |
 
-Snapshot ID: `MTY3NzUxMjY1MywwMDAwMDAwMGQwZjg4YjUyYzVjMTliNWIyNDQ3ODhmZGJkZTMwZTNi`
+Snapshot ID: `MTY3ODc4OTU1NSwwMDAwMDAwMDBjOTEzMjI2MWIwOTA0ODFmMTMwODk3ZTZkOTZiYWIx`

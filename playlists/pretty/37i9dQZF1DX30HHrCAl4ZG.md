@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The pulse of new indie rock\. Featuring Slow Pulp.
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,096 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,138 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Utah](https://open.spotify.com/track/3HEBe9g9vNZ6AaAnRtsjvh) | [Kid Smoko](https://open.spotify.com/artist/16zg8eKBf9uqn7jLrCpo8I) | [Utah](https://open.spotify.com/album/3hWfrYNExzE25TccvjpHEC) | 2:49 |
 | 100 | [Buzzed](https://open.spotify.com/track/2TNfI1TGo40RpRfvIuI2zO) | [Caroline Culver](https://open.spotify.com/artist/6ykTQoJQsIFiHJg8IzOMu0) | [Buzzed](https://open.spotify.com/album/68bbtsnWT7V3jOx4iGlxYq) | 2:57 |
 
-Snapshot ID: `MTY3ODQ3MjMwNSwwMDAwMDAwMDBiYmIwNGRjZDVhOTA3YmY3YzkyN2IwMWZiNGQ5ZTkw`
+Snapshot ID: `MTY3ODQ3MjMwNSwwMDAwMDAwMDU0N2E5OTExMzU3ZTc5ZTZhYzI3ZDczY2M3NTJmNmFm`

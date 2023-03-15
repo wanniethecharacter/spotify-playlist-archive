@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todos as novidades e hits do pop br aqui e agora! Foto: Marina Sena
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,445,085 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,445,210 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 49 | [Horizonte](https://open.spotify.com/track/2BxoVrrBkNMSHDv3IMJSw6) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Mazili](https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4) | [Horizonte](https://open.spotify.com/album/2yfBvpXbJ15VXJSKU6YTJH) | 3:14 |
 | 50 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 
-Snapshot ID: `MTY3ODcxOTY4MywwMDAwMDAwMDAyMzNlMDE2YzZiMGFhZjYwMzkwNjQ3YjJhZTM1ZWQ0`
+Snapshot ID: `MTY3ODcxOTY4MywwMDAwMDAwMDY2MzFiZGVjZDJmYzZlMWI5ZDdmNGEyNGE4Y2NhN2Yx`

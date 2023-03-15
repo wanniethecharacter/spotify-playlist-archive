@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Rehmahz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,090 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 79 | [Able](https://open.spotify.com/track/4NDtKpWb0IpALyrOdZAeWW) | [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Able](https://open.spotify.com/album/6KqJjlg8GqLgZwuME7CbR4) | 3:36 |
 | 80 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 |
 
-Snapshot ID: `MTY3ODQ1MTQ5OSwwMDAwMDAwMDFjM2Y5M2U3OTI3NWY1ODBjMjg3ZDYwYzVlNTAxZmUy`
+Snapshot ID: `MTY3ODQ1MTQ5OSwwMDAwMDAwMDlhMzI4ZmQyYjgzZGE3MTA5MjVlOTAzNDBlNTZkZmUy`

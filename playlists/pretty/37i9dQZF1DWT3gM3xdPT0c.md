@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 
 > Warm instrumental guitar for a gentle start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,876 likes - 120 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,971 likes - 120 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 | 119 | [Lilac Morning](https://open.spotify.com/track/3DrBORXqiYfJiL2uwilZGG) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Lilac Morning](https://open.spotify.com/album/2xnOqaHP1YzVvckOvOZeKZ) | 2:41 |
 | 120 | [I've Made Up My Mind](https://open.spotify.com/track/7di3JmluQQPzpBk39jaBXO) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [I've Made Up My Mind](https://open.spotify.com/album/0rlBNagqYyRlrHzmUsxMmW) | 3:35 |
 
-Snapshot ID: `MTY3ODQxMDAwMCwwMDAwMDAwMGJhNTc3ZDdmZDE4YzBkNjM0MWVlYjVjMWU0ZWYxZTE2`
+Snapshot ID: `MTY3ODQxMDAwMCwwMDAwMDAwMDM3NDI0MjEyMDhlYjJkNWU4NzVkY2FmYTcyNjJhZWM2`

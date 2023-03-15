@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19?si=bWDtCPlxQWS9LwP2XRgBlw"> Bryann</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,061 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,078 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [Old Wineskins](https://open.spotify.com/track/3MzoX3cSxKxrxarYOt6IJL) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41) | [Old Wineskins](https://open.spotify.com/album/1wHbVtTz7SLQi50QI4stdV) | 3:44 |
 | 80 | [Hypnotized](https://open.spotify.com/track/33a48upmr4xnlU6FPPSPPs) | [Layzee Ella](https://open.spotify.com/artist/5pvPu7OzfK3aKQaqKaEP4u) | [Feel Everything](https://open.spotify.com/album/2u68w7gKwmk7doL3JIhLif) | 2:26 |
 
-Snapshot ID: `MTY3ODQ0ODgyMywwMDAwMDAwMDdmNzcyYzkyMmMzNjYyNGY3OGQ2MDc5N2QxMWJhNGU2`
+Snapshot ID: `MTY3ODQ0ODgyMywwMDAwMDAwMDg1YThjNWEyYmJiM2UxYTdiMjBmMmVkMjcyODA3ZDRm`

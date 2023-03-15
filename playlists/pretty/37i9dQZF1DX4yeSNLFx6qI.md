@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,730,608 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,730,848 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 99 | [Fue Lo Mejor](https://open.spotify.com/track/662Z8N8YhRLVVCIKnxLNBg) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Fue Lo Mejor](https://open.spotify.com/album/7LMo6IdCd1P9BTGOYvbgZF) | 3:07 |
 | 100 | [Devuelveme la Vida \(with Antonio Orozco\)](https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR), [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Otra Piel](https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ) | 4:06 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDQ4MjlmN2U2M2FhZjczMzQ4YTBlNGU2Yjg3ZDUwOGU2`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDk0MmVhNDM3ZGFmOTBlMGM0NTc4N2E0NjI2MjZkZGI4`

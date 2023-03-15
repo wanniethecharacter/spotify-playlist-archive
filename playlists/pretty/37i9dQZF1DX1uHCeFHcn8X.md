@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 
 > Mellow songs from the 2010s\. Cover: <a href="spotify:artist:5Mq7iqCWBzofK39FBqblNc">Jessie Ware</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,868 likes - 250 songs - 15 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,579 likes - 250 songs - 15 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 | 249 | [Passport Home](https://open.spotify.com/track/4DzgGTs7eaS6DHHOp1xcyj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:00 |
 | 250 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 |
 
-Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDgwZDYyMzhiZDNiNjgxNTFjMjY1ZDg4NGFmMmM2OGIy`
+Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMGUwZGI3YjcxZDJmZTVhNzFkYjE1NWE3MTY5M2U5MjMy`

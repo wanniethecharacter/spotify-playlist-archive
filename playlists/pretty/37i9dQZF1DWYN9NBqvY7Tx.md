@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,576 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,892 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [Blank](https://open.spotify.com/track/7ucAyhKPjKsLrP14q4mcyo) | [Disfigure](https://open.spotify.com/artist/6qS98hCc0GWwq1AShPNl2w) | [Blank](https://open.spotify.com/album/6ASew3RZGJJ5igghbU9lX2) | 3:28 |
 | 100 | [Believer \- Kaskade Remix](https://open.spotify.com/track/6aiHF2IbJr6lG4Vu9em8KF) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Believer \(Kaskade Remix\)](https://open.spotify.com/album/2wVV49qXJai8kmCb1Czp0p) | 3:10 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMGRhMTMyNmM3Nzc2M2M0MzM3Njk0ZGRiZTdjZWI2MGFh`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMGRkMmY2NTZiNDI5YjBiYThhN2Y4OWQyNWYzYjYxOTk0`

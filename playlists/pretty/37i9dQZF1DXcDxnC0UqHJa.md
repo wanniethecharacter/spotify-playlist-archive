@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Josiah and the Bonnevilles
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,296 likes - 115 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,315 likes - 115 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [To Love Somebody](https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:26 |
 | 115 | [Fix You](https://open.spotify.com/track/0QCZRTDJbGo40h7mWL8Pa2) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Jordan C\. Brown](https://open.spotify.com/artist/2Be71FORRclLcc097kl39G) | [Fix You](https://open.spotify.com/album/5e8eSj5xIgJxdmHMphwUcB) | 5:01 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGI3MTI5Y2E3NTg1MDUzOTJlNWVkMDQwZDk3ZWVkMGM1`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGFmM2YzYmNhMGEwNjE5NGZmMzc1MTk3Yzg4NTkxNTdi`

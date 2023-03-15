@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Welisson
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,720 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,738 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Bandida](https://open.spotify.com/track/5nzxFD95Uijg8YyhRGYylY) | [Gabri](https://open.spotify.com/artist/3i468cz7CVoisTnRQV6TDB), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Bandida](https://open.spotify.com/album/675uZGQiA6OGmEt8LsG70p) | 3:23 |
 | 75 | [crazy](https://open.spotify.com/track/52dY05m7cPZN8T5ScOLOFy) | [Matheus Queiroz](https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [crazy](https://open.spotify.com/album/64F5xEtg6S83eBCStQWHZ7) | 2:40 |
 
-Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMGU5Y2Q0OTU5ZWRkMzJhN2QzY2Q2NTZlNTRkMDg4ZWFi`
+Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMDQ5OTQzNDA3OTA5NTA0MDQ4OWVjNWZlZjY3ZjM5YTNh`

@@ -4,11 +4,12 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-206 songs - 11 hr 54 min
+207 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Summers](https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [10 Summers](https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx) | 2:40 | 2022-05-30 |  |
+| [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 | 2023-03-14 |  |
 | [Alien \- Acoustic](https://open.spotify.com/track/6VDRCKWp49mhQhrvAeI5QT) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Alien \(Acoustic\)](https://open.spotify.com/album/6lA3p7IHcwFXjdy08QkGWS) | 3:24 | 2022-05-30 | 2022-07-29 |
 | [Alone \- Acoustic](https://open.spotify.com/track/0vDnzajlY189JIRlQ0cOUs) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe) | 3:46 | 2022-06-24 | 2022-11-12 |
 | [Alone \- Acoustic](https://open.spotify.com/track/2tCtgel3uat9YPL5givf5C) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/3a32QdgcEGrEKhkSfJk8Tw) | 3:46 | 2022-05-30 | 2022-07-29 |
@@ -118,7 +119,7 @@
 | [Little Love](https://open.spotify.com/track/43LWPJSO1sg36MdqOZ0PcO) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 3:33 | 2022-06-24 | 2023-03-09 |
 | [Little Love](https://open.spotify.com/track/4I6oc3FccCUbVMOI7hXJzR) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Little Love](https://open.spotify.com/album/5U1JnfMBjhibuXLfJq04g1) | 3:33 | 2022-05-30 | 2022-07-29 |
 | [Little Victories](https://open.spotify.com/track/5SbYDzbgqFwoskAcM73WLl) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [Little Victories](https://open.spotify.com/album/69JkJ1P45sQIbeDLuv9oXe) | 2:53 | 2022-05-30 | 2022-07-29 |
-| [Luck Pusher](https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Luck Pusher](https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm) | 2:43 | 2022-11-07 |  |
+| [Luck Pusher](https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Luck Pusher](https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm) | 2:43 | 2022-11-07 | 2023-03-15 |
 | [Luck Pusher](https://open.spotify.com/track/56IGNuGmEjWZDtih5N6i3y) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Luck Pusher](https://open.spotify.com/album/2bW59wdPku3mlEZWg8xsip) | 2:43 | 2022-06-24 | 2022-10-13 |
 | [Malibu Nights](https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR) | [Cole Norton](https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy) | [Malibu Nights](https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW) | 3:36 | 2022-06-24 |  |
 | [Malibu Nights](https://open.spotify.com/track/5MowXhrwxi1Imfo8WT2OiZ) | [Cole Norton](https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy) | [Malibu Nights](https://open.spotify.com/album/4XR0dijl0N381YWVdw0xHW) | 3:36 | 2022-05-30 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > House music lives here\. United under one roof, featuring The Blessed Madonna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,783,077 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,783,438 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 99 | [Nightjar \(feat\. SHELLS\)](https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Nightjar \(feat\. SHELLS\)](https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC) | 2:29 |
 | 100 | [Love Again](https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Love Again](https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg) | 3:10 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDNhY2Y2ZmIxMDE5MWJmMGJjZmE1MmU0OTFmOWZjMGEy`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDJjNmExODk1MDY3NzEwMGJhOWU0NTExZDYzNmNlZjQ2`

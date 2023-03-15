@@ -12239,6 +12239,24 @@
     },
     {
       "album": {
+        "name": "LIZ TAYLOR EP",
+        "url": "https://open.spotify.com/album/7FEnEhO3UiyEwnLnLQ5eA0"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132008,
+      "name": "TRAUM",
+      "url": "https://open.spotify.com/track/3P8DLhbZLrQDP7oXG6mBzp"
+    },
+    {
+      "album": {
         "name": "TRAUM",
         "url": "https://open.spotify.com/album/0xXmLAbDru3u0VgNUzywpu"
       },
@@ -12250,7 +12268,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-15",
       "duration_ms": 132008,
       "name": "TRAUM",
       "url": "https://open.spotify.com/track/4DuzhtyeZ7SaKwzunko5lK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,014 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,053 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 9 | [Ascending, Dawn Sky](https://open.spotify.com/track/3TqSk9b44VmdSgGllFcqmA) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [7RAYS](https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx) | [Music For Psychedelic Therapy](https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH) | 9:22 |
 | 10 | [Spring Consolation](https://open.spotify.com/track/7eB3y89enbULLgbXi3aN62) | [Jessica Gallo](https://open.spotify.com/artist/0AUXT7h44snL3V6J0jBame), [Kenji Azuma](https://open.spotify.com/artist/0mXX3f6gHD2LPwHv6n5E2D) | [Spring Consolation](https://open.spotify.com/album/5lRJRm17mkKZvZMyBgKetr) | 4:15 |
 | 11 | [Washed Out](https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Empire of Light \(Original Score\)](https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D) | 1:47 |
-| 12 | [Receiving](https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r) | [ANNA](https://open.spotify.com/artist/5zq0B2yaMWrFb7KGrniDzc), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Receiving](https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0) | 7:07 |
+| 12 | [Receiving](https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Receiving](https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0) | 7:07 |
 | 13 | [Wake](https://open.spotify.com/track/4M1hruYTFKjnNnJKcZpVp1) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [O Woods / Wake](https://open.spotify.com/album/1voNqheGLAG4jd34kt38FS) | 2:12 |
 | 14 | [Kuware Uta \- Intro](https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 2:09 |
 | 15 | [tsukimi dango](https://open.spotify.com/track/6xFoMmZIkhOgRv7Zj3luYA) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [tsukimi dango](https://open.spotify.com/album/3iof4fuNnejiULldVY8Z1R) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 99 | [Sea Kaleidoscope](https://open.spotify.com/track/3ARFPSPw3Mhx0Lr0kajzBd) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Waves Tapes](https://open.spotify.com/album/3iLe9TqutnZJAnaeT4Y2a6) | 6:47 |
 | 100 | [Tsukiyo](https://open.spotify.com/track/0LcM0jJCxhAOw8fjLjehes) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 2:48 |
 
-Snapshot ID: `MTY3ODQ5Mjg2MCwwMDAwMDAwMDNkMzU4ZTkzYWMzYmZjMTg0NTUxMzYzOGIxYTVkYTIw`
+Snapshot ID: `MTY3ODQ5Mjg2MCwwMDAwMDAwMDY0NjllNTFkN2I0NTc0MDM3ZTAwM2YwMzY2NTQwNDI3`

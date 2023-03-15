@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 
 > <a href="spotify:artist:1oZmFNkGAT93yD1xX4vTRE">Nina Kraviz</a>' favorite tracks\. Updated regularly\. Curated by Nina Kraviz\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,246 likes - 55 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,262 likes - 55 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 | 54 | [A1 Star\-Kid](https://open.spotify.com/track/2terEafqPQc2egPCOM6RKW) | [Star\-Kid](https://open.spotify.com/artist/5FbRMUYX0JcNQMMrRBo2K1) | [Panzerkreuz 1012](https://open.spotify.com/album/2gQs2tl5SC4oTz1Y2I6Vl5) | 4:54 |
 | 55 | [Logitech](https://open.spotify.com/track/35CcZt5cYMvkXLaQoUCCxm) | [Leather Forecast](https://open.spotify.com/artist/3BfE19Tmu1EWW9TKSw8xgZ) | [Blizzard People](https://open.spotify.com/album/1NJht446o33kGyPLc27U0l) | 3:57 |
 
-Snapshot ID: `MTY3NjU4ODQ2MCwwMDAwMDAwMGY0ZDI2NmQ4ZmRkZGNkOTU5ZTM4ZDBlODJiY2Q4YTU3`
+Snapshot ID: `MTY3NjU4ODQ2MCwwMDAwMDAwMGQ2ZDE5NzBmYzI1M2YyNzc4MmRjZmMwZGE3ZTc3MTM5`

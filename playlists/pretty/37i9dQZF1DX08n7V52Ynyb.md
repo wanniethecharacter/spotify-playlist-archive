@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,178 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,239 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 99 | [If I Had You](https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [The Art of Jazz with Miriam Netti](https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2) | 5:20 |
 | 100 | [The Very Thought of You](https://open.spotify.com/track/0cOY54OpNKZC1lLgdqJCaI) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg) | [The Very Thought of You](https://open.spotify.com/album/3jYDvk2uAOO4nPrY86a08n) | 3:27 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDEzYWM5NmE3YmMxZGMzY2M0ODYwZGU0M2FjYzhhZjhi`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGNhNDcwNjZkNjhhMzllMGFmMmRiNGMwYTkzNGI2MmE0`

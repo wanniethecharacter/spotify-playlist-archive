@@ -2,9 +2,9 @@
 
 ### [Piano for Meditation](https://open.spotify.com/playlist/37i9dQZF1DXb7eLtQI7KhP)
 
-> Soft and soothing piano music for meditation.
+> Soft and soothing ambient piano music for meditation.
 
-126 songs - 5 hr 50 min
+128 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Propinquity](https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Propinquity](https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843) | 2:22 | 2022-04-28 |  |
 | [Quiet And Its Consequences](https://open.spotify.com/track/19fkav9BQtc6EL75ZRPMjQ) | [Clark Rhee](https://open.spotify.com/artist/2DrtllITdgCklBWKoeIfkv) | [Quiet And Its Consequences](https://open.spotify.com/album/21E5SUaJvK0AH2GMAuN9UT) | 1:57 | 2022-04-28 |  |
 | [Quiet Changes](https://open.spotify.com/track/7Dkqii9tqdGUvbUtAEFdLT) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Persistence](https://open.spotify.com/album/6orrmY7UOM4QMlFLnFwobd) | 4:07 | 2022-04-28 |  |
+| [Quiet Respite](https://open.spotify.com/track/6rRC89OHKbpXVraHgnZ7MI) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [Quiet Respite](https://open.spotify.com/album/29obYtqcaVQlkJ95FwcT9p) | 2:43 | 2023-03-14 |  |
 | [Re\-Creation](https://open.spotify.com/track/5wZ7sKBs08UXxYQflzZQJJ) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Re\-Creation](https://open.spotify.com/album/5Pvp369gZThJy1GNGciDcX) | 3:25 | 2022-04-28 |  |
 | [Remembering](https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Remembering](https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT) | 3:03 | 2022-04-28 |  |
 | [Sea Terms](https://open.spotify.com/track/25BD0YQAjKvVqP4G8VhPd5) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Deeper Still](https://open.spotify.com/album/00lmL7tTXFcXRgNcRRHuhk) | 2:56 | 2022-04-28 |  |
@@ -108,6 +109,7 @@
 | [Spirit In Nature](https://open.spotify.com/track/0yESmRQrIBwPooYVwz3vq7) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Hope](https://open.spotify.com/album/25RZ4UlU87BazPvvU23qQ5) | 3:04 | 2022-04-28 |  |
 | [Spokój Ducha](https://open.spotify.com/track/1RJMt3tfqFYwBlfoqFG9QJ) | [Idzi Kowalczyk](https://open.spotify.com/artist/5rmln9rtcpJK2jz9QDvmYa) | [Spokój Ducha](https://open.spotify.com/album/5JcPljoFEI3Q6pRGyGKWfc) | 2:44 | 2022-04-28 |  |
 | [Spots](https://open.spotify.com/track/1DzIfBEPXivn7orD1D7eiO) | [Mila Duran](https://open.spotify.com/artist/4V0PWkhjqKmj5gDW50Vryl) | [Spots](https://open.spotify.com/album/6YjQbkMUI8xOjyKIFacfBk) | 3:04 | 2022-04-28 | 2022-07-28 |
+| [Stargazer](https://open.spotify.com/track/4jALRfKqKJhEjTslirOvsm) | [Cloudville](https://open.spotify.com/artist/2PZ9Lx5YAYcmTUPBc6a17L) | [Stargazer](https://open.spotify.com/album/0BzSglmfXitjj9f9f2pP1F) | 2:11 | 2023-03-14 |  |
 | [Stay By My Side](https://open.spotify.com/track/5kMhF1IhkSty2NFj6LCYJ1) | [Mr\. Kensington](https://open.spotify.com/artist/1LR4518CxOuuUY9nRfIhIZ) | [Stay By My Side](https://open.spotify.com/album/7o9fu8n1lNe3ML4ktRE65U) | 2:13 | 2022-07-27 |  |
 | [Stuck In A Dream](https://open.spotify.com/track/26S0ebDSZX2BBmDXQhpsrq) | [Joyce Dulaney](https://open.spotify.com/artist/5fdxuo0vbjD6xK1zty3Kvi) | [Stuck In A Dream](https://open.spotify.com/album/1aUbffKm9QcEYO7ZTOplKQ) | 2:48 | 2022-04-28 |  |
 | [Summer Memories](https://open.spotify.com/track/2Jr8bmTiSIKWvn3OpTyN9s) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:47 | 2022-04-28 |  |
@@ -118,7 +120,7 @@
 | [The People Stare](https://open.spotify.com/track/4VhCO377YzeImgrIWCZm21) | [Marta Delgado](https://open.spotify.com/artist/0B8IFmmZxB0JtGg29Qzat2) | [The People Stare](https://open.spotify.com/album/1qnNjkSsXqCfVR0KknEakW) | 3:35 | 2022-04-28 |  |
 | [The Thread](https://open.spotify.com/track/7jYky4GcDF7yAEi1jDz29Y) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Thread](https://open.spotify.com/album/7zwuCg5viRTfN5xKAYgmSU) | 2:07 | 2022-04-28 | 2023-02-07 |
 | [This Heart Of Mine](https://open.spotify.com/track/1zPdxtJ6dnmQaqtr9NbPkh) | [Ashlyn Wells](https://open.spotify.com/artist/3zYmhcuzxbyb5fHYDliCFn) | [This Heart Of Mine \(Ambient Version\)](https://open.spotify.com/album/4wlwX82sNvN5hz7uwDWPNp) | 2:02 | 2022-04-28 |  |
-| [Tiger Face](https://open.spotify.com/track/5uegoJLNJ1Y8hBliXUeTtC) | [Lyam Roelof](https://open.spotify.com/artist/64GaFeqfcIl6At2Bpc3fxU) | [Tiger Face](https://open.spotify.com/album/6vRm1JHnsnWFJLtUxwEumf) | 2:51 | 2022-04-28 |  |
+| [Tiger Face](https://open.spotify.com/track/5uegoJLNJ1Y8hBliXUeTtC) | [Lyam Roelof](https://open.spotify.com/artist/64GaFeqfcIl6At2Bpc3fxU) | [Tiger Face](https://open.spotify.com/album/6vRm1JHnsnWFJLtUxwEumf) | 2:51 | 2022-04-28 | 2023-03-15 |
 | [Unawareness](https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf) | [Enika Moerani](https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh) | [Unawareness](https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i) | 2:42 | 2022-04-28 |  |
 | [Under The Sky](https://open.spotify.com/track/5u4tzKR7fFLFVcr3u6h1JF) | [Boudoin](https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep) | [Under The Sky](https://open.spotify.com/album/36IP6uCEgs7X9qI29Qz9KA) | 2:03 | 2022-04-28 |  |
 | [Visions](https://open.spotify.com/track/5h3851Qxv7ASuTSNi4T3oN) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Visions](https://open.spotify.com/album/0xU18dAYezTrxCcQbVNx2o) | 4:14 | 2022-04-28 |  |

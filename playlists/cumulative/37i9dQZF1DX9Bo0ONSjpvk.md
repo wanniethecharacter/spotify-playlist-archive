@@ -4,7 +4,7 @@
 
 > Panama born producer <a href="spotify:artist:0vN342SOFAsCVGGZwLU9AF">Gian Varela</a> shares his take on Latin tech house with his upbeat DJ mix.
 
-18 songs - 59 min 51 sec
+20 songs - 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Elma Maria \- Gian Varela Remix \- Mixed](https://open.spotify.com/track/4HPrplfRra0qFhQXgAmbPR) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Elma Maria \- Gian Varela Remix \(Mixed\)](https://open.spotify.com/album/30288aeGezMLZeDVuoFUi3) | 3:25 | 2023-02-23 |  |
 | [Faces \- Mixed](https://open.spotify.com/track/1C27AB8Nyp03R0N8ntDWDb) | [Matluck](https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Faces \(Mixed\)](https://open.spotify.com/album/4zfymGuxlg0uTLYKup90qD) | 3:57 | 2023-02-23 |  |
 | [Karma \- Mixed](https://open.spotify.com/track/5pPFbWRH2fmxmi9R6EB2wk) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Karma \(Mixed\)](https://open.spotify.com/album/3kfVYP0jFDF1ur5cIATcWY) | 4:47 | 2023-02-23 |  |
-| [La Candela Viva \- Mixed](https://open.spotify.com/track/24Fg53YbE0sU1uIR8wTVas) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [La Candela Viva \(Mixed\)](https://open.spotify.com/album/0yiRhZtuwMvmgS6Uhy3KuD) | 3:23 | 2023-02-23 |  |
+| [La Candela Viva \- Mixed](https://open.spotify.com/track/24Fg53YbE0sU1uIR8wTVas) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [La Candela Viva \(Mixed\)](https://open.spotify.com/album/0yiRhZtuwMvmgS6Uhy3KuD) | 3:23 | 2023-02-23 | 2023-03-15 |
+| [La Candela Viva \- Mixed](https://open.spotify.com/track/2lpWT0JmCwGI4uEYFOMm2O) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [La Candela Viva \(Mixed\)](https://open.spotify.com/album/1mIsEjwlln1dCrecnGxaOt) | 3:23 | 2023-02-23 |  |
 | [La Fiesta \- Mixed](https://open.spotify.com/track/15t2Gxto0Q6nggxlDP5kP1) | [Siwell](https://open.spotify.com/artist/3ktDOdSifPv7lXzeyXX1J1) | [La Fiesta \(Mixed\)](https://open.spotify.com/album/7sf6PUhnxULSqsWKoglWFw) | 3:45 | 2023-02-23 |  |
 | [Oiga Morena \- Mixed](https://open.spotify.com/track/1Embm76C0YFJKBJDpeAU9X) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Nenito Vargas](https://open.spotify.com/artist/5nZJzDR7V0oO6I3jG7y1dC) | [Oiga Morena \(Mixed\)](https://open.spotify.com/album/4uSlQkFoAlaLJOvGoTuEC0) | 2:46 | 2023-02-23 |  |
 | [Pararam \- Mixed](https://open.spotify.com/track/4VeFCTrfArLgFEzuN92qX5) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [Pararam \(Mixed\)](https://open.spotify.com/album/5f7ZeifTZw7zvzP9YZFou4) | 2:32 | 2023-02-23 |  |
@@ -24,7 +25,8 @@
 | [Que Lo Que \- Mixed](https://open.spotify.com/track/2DWc7o9Udhgneuws8oeZrK) | [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh) | [Que Lo Que \(Mixed\)](https://open.spotify.com/album/6bxIwIj0k6VVdGjPuekScn) | 3:13 | 2023-02-23 |  |
 | [Rizzla \- Mochakk Remix \- Mixed](https://open.spotify.com/track/1XapmmPQOYng11RYGbQ2nZ) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Rizzla \- Mochakk Remix \(Mixed\)](https://open.spotify.com/album/0AN0htPFBHJC2S02MMxBJI) | 3:15 | 2023-02-23 |  |
 | [Tamo Loco \- Mixed](https://open.spotify.com/track/7ylc67rspsRX6ySDH1JMlD) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Tamo Loco \(Mixed\)](https://open.spotify.com/album/3CJFPVUrjxYtPhE5vP8WXA) | 3:43 | 2023-02-23 |  |
-| [Tequila \- Mixed](https://open.spotify.com/track/1R4gg0YVMtaFwP7Fw32Bh9) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Tequila \(Mixed\)](https://open.spotify.com/album/0CI3XvEGd2gZ2ZQP8F6nkP) | 3:37 | 2023-02-23 |  |
+| [Tequila \- Mixed](https://open.spotify.com/track/1R4gg0YVMtaFwP7Fw32Bh9) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Tequila \(Mixed\)](https://open.spotify.com/album/0CI3XvEGd2gZ2ZQP8F6nkP) | 3:37 | 2023-02-23 | 2023-03-15 |
+| [Tequila \- Mixed](https://open.spotify.com/track/5DYgG61HYOfPaDPZiuBV4W) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Tequila \(Mixed\)](https://open.spotify.com/album/0c7RYF5zWOgkVrxgkJfGUB) | 3:37 | 2023-02-23 |  |
 | [Woken Minds \- Mixed](https://open.spotify.com/track/1mO36NhbG0S6OAjD4lBxvB) | [Sam Supplier](https://open.spotify.com/artist/4nGuobAIiHwi25ngyJQO1n) | [Woken Minds \(Mixed\)](https://open.spotify.com/album/3oGatvnawGOc5Y2RsyFLVr) | 2:45 | 2023-02-23 |  |
 
 \*This playlist was first scraped on 2023-02-27. Prior content cannot be recovered.

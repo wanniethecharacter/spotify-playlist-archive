@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Egreen in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,054 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,080 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 99 | [Amor de mi vida](https://open.spotify.com/track/1V88gWT2lkujA6094zxA39) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Sotto lo stesso effetto](https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0) | 4:55 |
 | 100 | [Sapori e sostanza](https://open.spotify.com/track/21jGfTFjt6MPGltvk7yHrS) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [Questo non è un cane](https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY) | 3:05 |
 
-Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMDA0MGM3OGU3NDM2ZWE3ZmY4NjVjNzVlZmZkOGY2NzJm`
+Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMGU1MTBlM2VhYjk0MGE1NTUyNzYxYzc4YjExMDY5M2I0`

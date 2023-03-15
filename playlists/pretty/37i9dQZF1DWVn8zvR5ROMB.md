@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Tim McGraw, Sam Hunt, Carrie Underwood and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,895 likes - 62 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,168 likes - 62 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 61 | [Nothing Is The Same](https://open.spotify.com/track/1efgevxTxE245A7Trqo4Qt) | [Blane Rudd](https://open.spotify.com/artist/5RE1D7Dj0jwZOgbPw08HBq) | [Nothing Is The Same](https://open.spotify.com/album/4Cjlao0AQZA2yTp4PGipm6) | 4:00 |
 | 62 | [Swerve](https://open.spotify.com/track/2vGmYHsH37W53xPmW973fs) | [Kevin Nichols](https://open.spotify.com/artist/0Dxxyu2C5xNLuRz0M4VmQs) | [Swerve](https://open.spotify.com/album/1pnI858I3rBB1iE1Kn83zA) | 3:33 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDFmNThiNDM0Nzg3MDc1NjVmYTA1MGQ1YTNmMWM2MzIy`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDRhOWJhOWUxYTZkNjk1MmI2N2MwYWIwYzE1ZGMwMDll`

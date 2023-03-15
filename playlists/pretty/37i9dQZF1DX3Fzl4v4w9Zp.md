@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Brit Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,205 likes - 150 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,241 likes - 150 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [it won't always be this way](https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [it won't always be this way](https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc) | 4:27 |
 | 150 | [Nice Things](https://open.spotify.com/track/2KmJNXpDwYWJFYfrWPgf5x) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [You Get It All](https://open.spotify.com/album/6OjJdNN6yUYwFhYXWV6TMT) | 3:48 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGMzZjIzYmRjZTRmYTI0NWI2OTdiNmFjYTI4NTFjMWY5`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDg1OGRiYmIxOWU4ZmI3MjRhMTJlZjRlN2Y3ZjQ3YWQ0`

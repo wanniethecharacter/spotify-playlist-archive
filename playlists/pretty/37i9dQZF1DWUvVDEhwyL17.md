@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvVDEhwyL17.md) - [plain]
 
 > Cozy acoustic covers to accompany all your DIY, painting and creative crafts projects.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,503 likes - 81 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,538 likes - 81 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvVDEhwyL17.md) - [plain]
 | 80 | [Perfect](https://open.spotify.com/track/13j8NnWrcfmasCTBPc5ESv) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw), [Sad Boy](https://open.spotify.com/artist/4meJBHK5f4F36FJAPqO2qC) | [Covers EP](https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs) | 3:39 |
 | 81 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/4jAzQGA8cl7MtPzgNQ5Ehx) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/3GINcZdettso6ktU4bTlmy) | 3:47 |
 
-Snapshot ID: `MTY3ODQxMDAwMCwwMDAwMDAwMDAyYzc1Zjk0ZTI5M2M3OGZmNjY5NTc5YTEyY2QyYmFj`
+Snapshot ID: `MTY3ODQxMDAwMCwwMDAwMDAwMDI3Y2QzMDA3ZmIxOGRlOWI5ZTI1OWNmZjgwOTA3MDA0`

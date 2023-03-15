@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 
 > Remixed hits from the past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,662 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,609 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 | 99 | [Habits \(Stay High\) \- The Chainsmokers Radio Edit](https://open.spotify.com/track/2D20D6gxMn8iJV4ij30DIV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Habits \(Stay High\) \[The Chainsmokers Radio Edit\]](https://open.spotify.com/album/5IqxiIfO0zV4ePwnE3niNQ) | 4:24 |
 | 100 | [Obsessed \- Tiësto Remix](https://open.spotify.com/track/4918TwZfPrxk8vKhuaqIiq) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Obsessed \(Tiësto Remix\)](https://open.spotify.com/album/7KhkO46MV318xVAh7UbcUj) | 4:20 |
 
-Snapshot ID: `MTY3NjA0OTkxNCwwMDAwMDAwMDcyNzJhNTU4ZDJkNmU0ZDU2YTk1Y2NhMjc0ZWUzZTUz`
+Snapshot ID: `MTY3NjA0OTkxNCwwMDAwMDAwMGRjMTljZTdlNjNkMjE3ZjZiOGMxODA4M2QyNmIwZDM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,522 likes - 150 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,846 likes - 150 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [Catch These Hands \- Remix](https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [KJ\-52](https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP), [Pettidee](https://open.spotify.com/artist/0qehlCsv0Di0jyb9tWOmvO) | [Catch These Hands \(Remix\)](https://open.spotify.com/album/7APamlqElimCKW62z0yKFf) | 2:24 |
 | 150 | [Hold Me Back](https://open.spotify.com/track/1ahWWaHuP2LtyLfoB1g9By) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Hold Me Back](https://open.spotify.com/album/4D5iRWNKdcqfryA717B96y) | 2:18 |
 
-Snapshot ID: `MTY3MTE4MTIwMCwwMDAwMDAwMDVjNzhlZDdiMGE5MzcwOGYyYjY0ZGVlNTkxZjc2ZjIw`
+Snapshot ID: `MTY3MTE4MTIwMCwwMDAwMDAwMGUxYzM4N2RjZTFlNWJiZDcxOWJiNjE4OTU0OGZlNWZm`

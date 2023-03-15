@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 
 > <a href="spotify:artist:69zPIMRgsZieOHFtHtvnj0">Yu Su</a>'s favorite tracks\. Updated regularly\. Curated by Yu Su\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,129 likes - 96 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,140 likes - 96 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 | 95 | [Show Some Love \- Rhythm Invention Remix](https://open.spotify.com/track/5ZDDPBtrCvr42KFPyIaadw) | [Jaco](https://open.spotify.com/artist/0aCjTRsnxds1RhhLfvHzeT), [Rhythm Invention](https://open.spotify.com/artist/3BqNVifkvumKTZp6YXGIO4) | [Show Some Love](https://open.spotify.com/album/7kAq9IgkxJ9ccEhMXmDbJK) | 6:37 |
 | 96 | [Techno Cave \- Sharif Laffrey Nightwork Remix](https://open.spotify.com/track/6JoiH5Hnnx63LWwagrTR0A) | [Ruf Dug](https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T), [Sharif Laffrey](https://open.spotify.com/artist/3QEeHLDl1Pk9xlAOm7413Q) | [Ruffy's Island](https://open.spotify.com/album/19XIG9qAf6trDqzYpy72j7) | 10:15 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDJjOGZjYTI4ZDNiZDllN2UzMGUzYjUyNDQyYTdkMDQ5`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGM0NWNhZmMxNDcwZWY4ZmNiNmI2OWVlOGJlOWQ4Y2M4`

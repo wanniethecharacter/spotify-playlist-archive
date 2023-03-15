@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,984 likes - 133 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,476 likes - 133 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 132 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/4LT51chp62pm3MNGp7mhFD) | [Brainstate](https://open.spotify.com/artist/2hUGnvPj0GQsP1N9kGIseW) | [Gamma Drones](https://open.spotify.com/album/0xMbmD1DuvDfpiDwyIpPSO) | 3:14 |
 | 133 | [Binaural Gamma Sinus 80 Hz \- 120 Hz](https://open.spotify.com/track/6DLK0gTnZnWa1eh1oiFQri) | [Maroon Skies](https://open.spotify.com/artist/6DbYZxD7WulhTEfLKvm9um) | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/album/5kj2Eg808u8lOQiupkWaaU) | 2:24 |
 
-Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMDhiZjFlNjU5NjA1MzQ0ZTUzNmY1OTMwMTc0OGExMWQ5`
+Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMDc0YmVjYTczZThhOWJjNTlhODFkMDBhYmYwMDgxYjY2`

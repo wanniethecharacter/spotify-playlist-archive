@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4o1oenSJRJd.md) - [plain]
 
 > The biggest songs of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,608,705 likes - 150 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,610,185 likes - 150 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4o1oenSJRJd.md) - [plain]
 | 149 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:50 |
 | 150 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 |
 
-Snapshot ID: `MTY3NjI4NjczNSwwMDAwMDAwMDkzOGE1Y2U3NmJiYTAzZDhmZmRhZTgzYjA3OGVlYTgy`
+Snapshot ID: `MTY3NjI4NjczNSwwMDAwMDAwMDM3ZTE1ZjMxMzE2ZGFiZDI3MzIzYzQxMWZkM2VmNzBl`

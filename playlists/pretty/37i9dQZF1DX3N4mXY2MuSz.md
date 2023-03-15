@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,056 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,041 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 74 | [December's Here](https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [December's Here](https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN) | 2:59 |
 | 75 | [Hope This Christmas](https://open.spotify.com/track/7bLIbZBDv6U3hGtyiv0boo) | [Shybits](https://open.spotify.com/artist/3RpiuODlxLEzGTjoKa2qW7), [Eddie Argos](https://open.spotify.com/artist/6Bb1Tz9dIywMGlbDzpwUCo) | [Hope This Christmas](https://open.spotify.com/album/4bcnJnLqOWtNtBghs2Tkdq) | 2:45 |
 
-Snapshot ID: `MTY3MTE0ODgwMCwwMDAwMDAwMDljYjNmOTk1MGIyYjJmYzBkMGZlYjQwNmUxNzFmYTgw`
+Snapshot ID: `MTY3MTE0ODgwMCwwMDAwMDAwMGRjMTMzMTJiMTY4ZTY0NGUwOTMzMWUyODAyMmIxM2Nl`

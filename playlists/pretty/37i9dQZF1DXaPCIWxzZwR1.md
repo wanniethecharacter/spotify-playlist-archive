@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop cover: Ruel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237,077 likes - 103 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,237,216 likes - 103 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 102 | [People You Know](https://open.spotify.com/track/63mdJr3NMY3wReOkNE6c6W) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:14 |
 | 103 | [moon and back](https://open.spotify.com/track/4228YpK0ZZuY4CZzBDVi3q) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:28 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDdjZDI0OTdhNWUyNDJlMGU1YmJiNTgxMmIxNmM2MzYx`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDFmNTg0YzA2NjljOGJiMThmNzg2YjcxNmJkOTBlYTVi`

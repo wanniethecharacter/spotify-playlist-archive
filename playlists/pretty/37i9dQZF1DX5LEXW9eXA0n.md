@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: YUJU\(유주\)\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,537 likes - 115 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,572 likes - 115 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 114 | [When I walk \(feat\. Park Raejun\)](https://open.spotify.com/track/0eI9KWNQRPy1R1tPa17tJx) | [Peppermint](https://open.spotify.com/artist/1cj9Ls0VaVBl17PJNe4RLZ), [Park Raejun](https://open.spotify.com/artist/5w7EWyqhONHPfYAhWK6cOz) | [When I walk](https://open.spotify.com/album/0qjHGRWoEOulQ0y2ZelFTF) | 3:51 |
 | 115 | [Wish](https://open.spotify.com/track/0omiswhwT71hQ8vM9jrrAJ) | [TAESEOK](https://open.spotify.com/artist/28Gt2fkGTjayT0qe1hxGMI) | [Wish](https://open.spotify.com/album/6w7WIJqxrATxF5hiII7k3I) | 3:26 |
 
-Snapshot ID: `MTY3ODI2NDc0OSwwMDAwMDAwMGYxYzhmMTI2ODQ2NDU2MDY5ZGRhMmIwNjZkZjc5ZTk3`
+Snapshot ID: `MTY3ODI2NDc0OSwwMDAwMDAwMDE3ZDQ5ZGU2NWRkYWMwY2ViZGIzOGQ2ZmZjYTY5ZmEw`

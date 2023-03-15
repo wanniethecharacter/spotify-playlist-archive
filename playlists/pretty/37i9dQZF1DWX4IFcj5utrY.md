@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc?si=fXic9FuYS9ChRvUkbQuCZw">Lazarusman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,477 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,496 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 49 | [Coloured Goose](https://open.spotify.com/track/7wesfLW7BjVajGqFw6MimD) | [Atie\-G](https://open.spotify.com/artist/2FP2RNmzEllDXn8wyfRC6M), [Paula Kammies](https://open.spotify.com/artist/7mMu1cx3o69EjbbtVyJhAA) | [Coloured Goose](https://open.spotify.com/album/4HRCidNp6wRmrD3mUsGIg5) | 5:25 |
 | 50 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
 
-Snapshot ID: `MTY3ODM5OTE0MCwwMDAwMDAwMDZiMmM2MDFjYmQ1OTQ3NTc3NWYxNGNlMjczMTZkMGVk`
+Snapshot ID: `MTY3ODM5OTE0MCwwMDAwMDAwMDg0ZDgzOGE5ODU1MmRiNDUzMGRlOGM0NDM5NjQ4NzJm`

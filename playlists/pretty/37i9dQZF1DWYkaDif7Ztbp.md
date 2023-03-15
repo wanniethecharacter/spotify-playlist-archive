@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf?si=ILsLVrW\_Rty1LYnWhFCDPg"> Peruzzi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,279,609 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,280,541 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 |
 | 50 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 |
 
-Snapshot ID: `MTY3ODQwNzg1MywwMDAwMDAwMGQ4ZTY2Y2Q5Mjk0ODQ2ZWZjY2ZmN2YyMWYyOTM5MTA0`
+Snapshot ID: `MTY3ODQwNzg1MywwMDAwMDAwMDYzZDYyOGFhZTc4ODk5ZjE0NTYwYmY3YmY5MzYyMWMx`
