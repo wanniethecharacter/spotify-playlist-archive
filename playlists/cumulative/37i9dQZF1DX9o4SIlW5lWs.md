@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Karina.
 
-297 songs - 17 hr 4 min
+298 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Eterno Amor](https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [El Chino](https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW) | [Eterno Amor](https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx) | 4:16 | 2022-01-14 |  |
 | [Extraño](https://open.spotify.com/track/2Ydtfox8U5t2rob7alFqS0) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [Extraño](https://open.spotify.com/album/7vuYSvs3KzgnvIN2xo78Xk) | 2:07 | 2022-03-11 | 2022-04-19 |
 | [Fabricando Fantasías](https://open.spotify.com/track/1R6ug43KqWcVVOnKqKqcRN) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Fabricando Fantasías](https://open.spotify.com/album/0BbSuC3q9Vy6HM3mpOA1yO) | 3:16 | 2022-01-21 | 2022-12-28 |
-| [Fin de Semana Sin Ti](https://open.spotify.com/track/5hfajhl7a1MNhGMMPDDToN) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Fin de Semana Sin Ti](https://open.spotify.com/album/6dK4IkKmd6CSyK69a8pXyE) | 2:23 | 2022-09-23 |  |
+| [Fin de Semana Sin Ti](https://open.spotify.com/track/5hfajhl7a1MNhGMMPDDToN) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Fin de Semana Sin Ti](https://open.spotify.com/album/6dK4IkKmd6CSyK69a8pXyE) | 2:23 | 2022-09-23 | 2023-03-16 |
 | [Formula de Amor / Todo Esta en Vos](https://open.spotify.com/track/2TWtjWp7zaw9siAhd2MUVp) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx), [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Formula de Amor / Todo Esta en Vos](https://open.spotify.com/album/1A7rfMPCgZk7Ck8HhfdJZQ) | 5:53 | 2022-01-21 | 2022-05-28 |
 | [Fue Difícil](https://open.spotify.com/track/3p9UeIicVHsdEUBucLJqes) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Es Tan Grande Este Amor](https://open.spotify.com/album/0cWsxDLP7WMqbs6Yiui0yH) | 3:46 | 2022-03-11 | 2022-07-29 |
 | [Fue Difícil](https://open.spotify.com/track/6949gWWMFg0NWjam6SkCDA) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Es Tan Grande Este Amor](https://open.spotify.com/album/2zJ3aQpwT8EmleuSKUEsdD) | 3:46 | 2022-07-22 |  |
@@ -201,6 +201,7 @@
 | [Pienso en Ti](https://open.spotify.com/track/1CyNMu6acmjLDN51yaWWap) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [\- 22 \-](https://open.spotify.com/album/5F10xwo7yEThhhBLctvaG1) | 3:12 | 2022-04-01 | 2022-07-06 |
 | [Poco](https://open.spotify.com/track/7jiBjftkmWFijn6VufQQfE) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Poco](https://open.spotify.com/album/51qb2RFstuUv6NvyyZvvf1) | 4:09 | 2022-09-09 | 2022-12-24 |
 | [Porque te Amo](https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor!!!](https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp) | 3:53 | 2022-01-14 | 2023-03-12 |
+| [Porque te amo](https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:53 | 2023-03-10 |  |
 | [Porque te fuiste](https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El Polaco \- Agradeciendo a Dios](https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf) | 3:23 | 2022-01-14 |  |
 | [Primera y Última Vez](https://open.spotify.com/track/7HlYK2GEvPtvYGCdHA0vFM) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [Primera y Última Vez](https://open.spotify.com/album/7bEnK9vfhCtR0jb4znVATw) | 2:07 | 2022-04-01 | 2022-04-21 |
 | [Que Bello](https://open.spotify.com/track/7cSaRsCIekpL1auJQU4V4T) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [Amor de Media Noche](https://open.spotify.com/album/71R1ELeugvEBPsXHo9fPF5) | 4:11 | 2022-01-14 | 2022-07-29 |

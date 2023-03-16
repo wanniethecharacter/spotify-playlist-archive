@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Maluma & Marc Anthony",
-  "num_followers": 1819586,
+  "num_followers": 1819804,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDJhNDhmN2M3ZDk5ZGYzYmI5ZmRmNzc3NTVmNTA5MzVj",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDY0OGQyMDYzZjhiZjJiODkyZWEyM2VlNGQzMzgwMjFi",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Galy Galiano 30 A\u00f1os",
-        "url": "https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 438026,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "MAFIOSA",
         "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 266217,
       "name": "MAFIOSA",
       "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Galy Galiano 30 A\u00f1os",
+        "url": "https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy"
+      },
+      "artists": [
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        }
+      ],
+      "duration_ms": 438026,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Lado A Lado B",
+        "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 276726,
+      "name": "Decid\u00ed Tener Pantalones",
+      "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Nubes Negras",
         "url": "https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 246224,
       "name": "Nubes Negras",
       "url": "https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Lado A Lado B",
-        "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 276726,
-      "name": "Decid\u00ed Tener Pantalones",
-      "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Coraz\u00f3n Roto",
+        "url": "https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "Coraz\u00f3n Roto",
+      "url": "https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Pa'lante",
         "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Coraz\u00f3n Roto",
-        "url": "https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        }
-      ],
-      "duration_ms": 208524,
-      "name": "Coraz\u00f3n Roto",
-      "url": "https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Tromboranga",
         "url": "https://open.spotify.com/album/73edLPjbItIG3qulH8etvP"
       },
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Empezando Otra Vez",
-        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 248325,
-      "name": "Te Equivocaste Conmigo",
-      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Leyendas: Salsa Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 304533,
       "name": "Cuenta Conmigo",
       "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Empezando Otra Vez",
+        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 248325,
+      "name": "Te Equivocaste Conmigo",
+      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Calle Linda (Golden Edition)",
-        "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
-      },
-      "artists": [
-        {
-          "name": "Pirulo y la Tribu",
-          "url": "https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO"
-        }
-      ],
-      "duration_ms": 383040,
-      "name": "Loco Pero Feliz",
-      "url": "https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Los Oscares De Oscar",
         "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 228554,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Calle Linda (Golden Edition)",
+        "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
+      },
+      "artists": [
+        {
+          "name": "Pirulo y la Tribu",
+          "url": "https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO"
+        }
+      ],
+      "duration_ms": 383040,
+      "name": "Loco Pero Feliz",
+      "url": "https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t"
     },
     {
       "added_at": "2023-03-03 05:00:00",

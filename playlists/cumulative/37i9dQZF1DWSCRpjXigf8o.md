@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-222 songs - 13 hr 37 min
+223 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-03-07 |  |
 | [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 | 2022-10-27 | 2022-12-07 |
 | [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 | 2022-10-20 | 2022-10-28 |
-| [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 | 2023-03-07 |  |
+| [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 | 2023-03-07 | 2023-03-16 |
 | [As It Was](https://open.spotify.com/track/6adP3vuwCZxxZzns0oDEEA) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [As It Was](https://open.spotify.com/album/5EXGvuSkshnysHOI7kPBTR) | 3:07 | 2023-02-28 |  |
 | [Aselestine](https://open.spotify.com/track/2M7TQ7SQVGxLhIV43yTN8I) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Aselestine](https://open.spotify.com/album/3YO4xzqS7a56VCkqxgsoy2) | 3:50 | 2023-01-10 | 2023-01-20 |
 | [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 | 2023-03-07 |  |
@@ -180,6 +180,7 @@
 | [The List \- Acoustic](https://open.spotify.com/track/1j5n8L8OiDeBsTQhNu1xHD) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [The List \(Acoustic\)](https://open.spotify.com/album/3eEAn7oPPZVL1Zzb1vYfQv) | 4:55 | 2023-02-23 | 2023-03-01 |
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 | 2022-12-15 |  |
 | [The Meeting Place](https://open.spotify.com/track/7n09veyrtEC6g7e33V98XY) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [The Meeting Place](https://open.spotify.com/album/6FEnZmqXQQg9QwiiUZsDVn) | 4:22 | 2023-03-14 |  |
+| [The Way You Look At Me](https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Way You Look At Me](https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng) | 4:11 | 2023-03-14 |  |
 | [The World](https://open.spotify.com/track/1FnMJKhfwSZlQRL6SyP162) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/25I9wFWR6xbLZYP6veOxhw) | 3:06 | 2022-11-15 | 2022-11-17 |
 | [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 | 2022-11-15 |  |
 | [There She Goes](https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 2:42 | 2022-10-20 |  |

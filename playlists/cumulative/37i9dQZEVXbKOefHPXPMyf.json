@@ -7952,7 +7952,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 186043,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
@@ -10208,7 +10208,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
+      "date_removed": null,
       "duration_ms": 208065,
       "name": "LEFT RIGHT",
       "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
@@ -13034,6 +13034,24 @@
       "duration_ms": 140426,
       "name": "Nieve",
       "url": "https://open.spotify.com/track/2gLDm4AjVnHlsik9sK87vj"
+    },
+    {
+      "album": {
+        "name": "POP CUBE",
+        "url": "https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210600,
+      "name": "NIGHT DANCER",
+      "url": "https://open.spotify.com/track/3gmn76fCtpDazGMnN0QMHX"
     },
     {
       "album": {
@@ -19484,7 +19502,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 319738,
       "name": "Tu Loco",
       "url": "https://open.spotify.com/track/2KQj2OQo0UcJ2uFAe5LG47"

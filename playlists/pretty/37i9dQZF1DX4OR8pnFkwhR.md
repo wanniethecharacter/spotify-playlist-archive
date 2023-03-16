@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ヤングスキニー / <br/>Early Noise Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,971 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,041 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ゴミ人間、俺](https://open.spotify.com/track/2VU59VkXEBNX4ZZf7SmGAy) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:49 |
+| 1 | [Gominingen,Ore](https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:49 |
 | 2 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 |
 | 3 | [Pink Hair](https://open.spotify.com/track/62ZXOrUNBpa5DAiP3tE19s) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Pink Hair](https://open.spotify.com/album/2M6ubuh4ne6Vjvrx8MUs2t) | 2:57 |
 | 4 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 17 | [このままじゃ](https://open.spotify.com/track/2HIp2q3CAjJTxSsVfEKlni) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [SPIRAL](https://open.spotify.com/album/3YS2w784zqJBCAVGbsubJW) | 4:33 |
 | 18 | [Friday Night](https://open.spotify.com/track/59O01qCMVHWOsyJRHpKPNL) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Friday Night](https://open.spotify.com/album/6dNszo04S4P26VRdTUGP0K) | 3:31 |
 | 19 | [Polaroid](https://open.spotify.com/track/7e1jexFzFNed1Ovw45S798) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Polaroid](https://open.spotify.com/album/0VxTDHLoZJmKFCKsxUjBYf) | 3:14 |
-| 20 | [SORA](https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh) | 2:52 |
+| 20 | [SORA](https://open.spotify.com/track/3dGWJ8UlemnEV4WycKW3hd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 2:52 |
 | 21 | [Ratpark](https://open.spotify.com/track/451krgfVbiNmFxAIXTGQjL) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [Ratpark](https://open.spotify.com/album/3B88ap6PgLfLt41faNFPsN) | 3:32 |
 | 22 | [空](https://open.spotify.com/track/1lwv5k50GkovuXJLFzm6lG) | [Kanna](https://open.spotify.com/artist/47U5PirBYuleMsuD307qej) | [空](https://open.spotify.com/album/45BX1MKbn08yZfKpApLo0v) | 3:09 |
 | 23 | [Gensou](https://open.spotify.com/track/1CXHyiojJVoZFDBtrhqWvz) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Gensou](https://open.spotify.com/album/6cn5LTnUmif9ro3cgI3Va6) | 3:03 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 26 | [rose \- feat\. Vaundy](https://open.spotify.com/track/72DWkd9AazMHYDafzpq4XF) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mixtape](https://open.spotify.com/album/3kbR4fhps595HxImAmVHvY) | 3:07 |
 | 27 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 |
 | 28 | [Lifetime](https://open.spotify.com/track/19ifncpKx4A8IDEEFHCCZC) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Lifetime](https://open.spotify.com/album/3biCMPJLQKjynlXeJBZcDg) | 3:23 |
-| 29 | [小さな怪獣](https://open.spotify.com/track/5UHvtWIBduWHyvMu8uU32S) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [風街突風倶楽部\-EP](https://open.spotify.com/album/4KufIw40yi95QMckwUEwaW) | 3:03 |
+| 29 | [Chiisana Kaiju](https://open.spotify.com/track/4bnNLpqdv1N5SjtWzmLhL7) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [Kazemachi Toppu Club\-EP](https://open.spotify.com/album/7yr0HcSzr5QYJ57Z9FuUJU) | 3:03 |
 | 30 | [All night](https://open.spotify.com/track/5JlJuloP4IgM88EZ3IjCxe) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [All night](https://open.spotify.com/album/23omW2nOAt0jOBcHXo9sYb) | 2:57 |
 | 31 | [hanauta](https://open.spotify.com/track/4jup6UZ6V2MJ94Ji0AB7hk) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x) | [23=](https://open.spotify.com/album/4ZD1VhC0IGaLac9meKgNii) | 2:54 |
 | 32 | [Soup](https://open.spotify.com/track/6UHbnHQHQcFlhtEVwOVVQT) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Soup](https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX) | 3:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [Neighbor](https://open.spotify.com/track/5Gfd9OVeGAntRYosUS0ZCy) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Neighbor](https://open.spotify.com/album/4SMsvmN93mpnD23tZXZikV) | 4:32 |
 | 70 | [マジでミラクルパワー!](https://open.spotify.com/track/1YOQbt8vUObRmTpz0LjTQV) | [明るい赤ちゃん](https://open.spotify.com/artist/4XU1iGcrARM9uqtvGoGuER) | [マジでミラクルパワー!](https://open.spotify.com/album/6RWJVoG6NYfObvpPxvijx6) | 3:22 |
 
-Snapshot ID: `MTY3ODgwOTQzMywwMDAwMDAwMDA3ZTQ1ZWE4MTMxMTk0NjgzMDU5ODdkMGQyMjk4NTAw`
+Snapshot ID: `MTY3ODgwOTQzMywwMDAwMDAwMDllZTgxMDAwMTdkYTNjODdhZjk2MTdhZDY0ZGMzN2Iy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,667 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,806 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,26 +87,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 77 | [Lonesome 7\-7203](https://open.spotify.com/track/7uoR7OHB4pJt1LPL128prk) | [Hawkshaw Hawkins](https://open.spotify.com/artist/0fX1VRKNIBwg3qD7oe2IVV) | [Hawkshaw Hawkins 28 Big Ones](https://open.spotify.com/album/6PY8NzMXhWfO5psQjbsQBb) | 2:43 |
 | 78 | [\(That's What You Get\) For Lovin' Me](https://open.spotify.com/track/1FrG5yYxDbusk4dK3pQ9le) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Essential Waylon Jennings](https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox) | 2:26 |
 | 79 | [Yesterday When I Was Young](https://open.spotify.com/track/7nSjdcQueimUqsDsBq7orE) | [Roy Clark](https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS) | [Great Picks & New Traditions](https://open.spotify.com/album/30GpNOPehzWUQ24tAdP8EK) | 3:21 |
-| 80 | [Green Green Grass Of Home](https://open.spotify.com/track/6Ss6vCdWHgCuiB3icgBAwY) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Super Hits](https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ) | 2:59 |
+| 80 | [The Image of Me](https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Timeless](https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju) | 2:57 |
 | 81 | [Blue Kentucky Girl](https://open.spotify.com/track/2mqXqQnxcFq5tmG98kUQZw) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Blue Kentucky Girl](https://open.spotify.com/album/5958wwjPRxw2GmGJbOVuLc) | 2:43 |
 | 82 | [Above And Beyond](https://open.spotify.com/track/2XEsLZrgYIAEa2YNDiqPYI) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:28 |
-| 83 | [The Image of Me](https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Timeless](https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju) | 2:57 |
+| 83 | [Green Green Grass Of Home](https://open.spotify.com/track/6Ss6vCdWHgCuiB3icgBAwY) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Super Hits](https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ) | 2:59 |
 | 84 | [Wolverton Mountain](https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey) | [Claude King](https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g) | [Columbia Country Classics Volume 3: Americana](https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA) | 2:57 |
 | 85 | [The Streets of Baltimore](https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Streets of Baltimore](https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp) | 2:37 |
 | 86 | [Chug\-A\-Lug](https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [The Very Best of…](https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE) | 2:03 |
 | 87 | [Wings Of A Dove](https://open.spotify.com/track/2DD8OhehvkzSFeoRW0u7Gb) | [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Capitol Collectors Series](https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH) | 2:19 |
 | 88 | [A Six Pack To Go](https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0) | [Best Of The Best](https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ) | 2:09 |
 | 89 | [Pop a Top](https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW) | [Jim Ed Brown](https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM) | [The Essential Jim Ed Brown And The Browns \(feat\. Jim Ed Brown\)](https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh) | 2:20 |
-| 90 | [The Cold Hard Facts of Life](https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [The Cold Hard Facts of Life](https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie) | 3:12 |
-| 91 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
+| 90 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
+| 91 | [The Cold Hard Facts of Life](https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [The Cold Hard Facts of Life](https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie) | 3:12 |
 | 92 | [I've Been Everywhere \- Remastered](https://open.spotify.com/track/1rFGwz7rswOuW2IdXPd0fv) | [Hank Snow](https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S) | [The Essential Hank Snow](https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR) | 2:44 |
 | 93 | [Make the World Go Away](https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 2:37 |
 | 94 | [Don't You Ever Get Tired of Hurting Me](https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Other Woman](https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4) | 2:48 |
 | 95 | [Send Me The Pillow You Dream On](https://open.spotify.com/track/0fabZNPJqBJBfwzDxuKQTi) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [It Keeps Right On A\-Hurtin'](https://open.spotify.com/album/3xZM8nFWsJ8KMEwhZkHAPH) | 2:53 |
 | 96 | [May the Bird of Paradise Fly up Your Nose](https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [May the Bird of Paradise Fly Up Your Nose](https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR) | 2:31 |
-| 97 | [Saginaw, Michigan](https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [Saginaw, Michigan](https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX) | 3:02 |
-| 98 | [Standing In The Shadows](https://open.spotify.com/track/5NTDu48JtNkuXzs2Zbc1X1) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [The Best Of Hank Williams, Jr\. 20th Century Masters The Millennium Collection](https://open.spotify.com/album/3UEsMApmagWq63RApvoAER) | 3:09 |
+| 97 | [Standing In The Shadows](https://open.spotify.com/track/5NTDu48JtNkuXzs2Zbc1X1) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [The Best Of Hank Williams, Jr\. 20th Century Masters The Millennium Collection](https://open.spotify.com/album/3UEsMApmagWq63RApvoAER) | 3:09 |
+| 98 | [Saginaw, Michigan](https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [Saginaw, Michigan](https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX) | 3:02 |
 | 99 | [Statue Of A Fool](https://open.spotify.com/track/6mYIZzGhfj9z1TJNL6ZhYh) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [Sings His Best](https://open.spotify.com/album/5T41fC09ilKmDfREcWeQrW) | 2:52 |
 | 100 | [Wine Me Up](https://open.spotify.com/track/2QS8C4T3H1hYpnADMpq8Uz) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [Hello Walls](https://open.spotify.com/album/1wkRC5qOr6uz5lbOZNcFfL) | 2:24 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDc4MmU0ZDA1MDllZTA3MGM3MjE1NDZlYWMzNWFiZmIy`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMGZkY2QxMzBjYjU3ZmRhODRiMWI3NzI1MWU2YjZiMzNi`

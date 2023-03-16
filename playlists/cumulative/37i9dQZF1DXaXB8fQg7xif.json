@@ -4633,6 +4633,24 @@
     },
     {
       "album": {
+        "name": "Silver & Gold - Chapter II",
+        "url": "https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161929,
+      "name": "Drinks on MI",
+      "url": "https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr"
+    },
+    {
+      "album": {
         "name": "Driver Seat",
         "url": "https://open.spotify.com/album/2jhH69NOhQ7yZEtBgxANsj"
       },
@@ -13016,7 +13034,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 150635,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89"

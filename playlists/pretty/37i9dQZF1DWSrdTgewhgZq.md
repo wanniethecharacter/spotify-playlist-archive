@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 ### [DOPE.](https://open.spotify.com/playlist/37i9dQZF1DWSrdTgewhgZq)
 
-> Only the best Hip\-hop, only non\-stop hits\. Cover: GloRilla
+> Only the best Hip\-hop, only non\-stop hits\. Cover: Conway The Machine & Jae Skeese
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,272 likes - 97 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,247 likes - 97 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Internet Trolls](https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf) | [Internet Trolls](https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR) | 2:20 |
-| 2 | [Metallic 5's](https://open.spotify.com/track/1FswwGm9noeepfDqPxDygo) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Jae Skeese](https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ) | [Metallic 5's](https://open.spotify.com/album/4AZEzSBfQTDClCA2P4wUZS) | 3:12 |
+| 1 | [Metallic 5's](https://open.spotify.com/track/1FswwGm9noeepfDqPxDygo) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Jae Skeese](https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ) | [Metallic 5's](https://open.spotify.com/album/4AZEzSBfQTDClCA2P4wUZS) | 3:12 |
+| 2 | [Internet Trolls](https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf) | [Internet Trolls](https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR) | 2:20 |
 | 3 | [In The Room \(with JID, Tierra Whack & BJ The Chicago Kid\)](https://open.spotify.com/track/1i8PBua3ohiyKijMp7WOpX) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Creed III: The Soundtrack](https://open.spotify.com/album/00hCNOuhFfKYCeLgRRRAT6) | 2:52 |
 | 4 | [MISAWA \)](https://open.spotify.com/track/6tsdStu2dRwRTVIurMi3Nr) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL) | [MISAWA \)](https://open.spotify.com/album/6bbs4aTcWo5P5a4jvbAQZT) | 3:51 |
 | 5 | [On Wat U On \(with GloRilla\)](https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [On Wat U On \(with GloRilla\)](https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz) | 2:39 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 | 96 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 |
 | 97 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 |
 
-Snapshot ID: `MTY3Nzg4MDg0NiwwMDAwMDAwMGQzZTY4ODI2OTZkOTVjNDcwMWExZTI5NDJmNjUxNDli`
+Snapshot ID: `MTY3ODkyODUwNCwwMDAwMDAwMDhhZWRlNzUwNzVmMjhhZDliYjUzNWM1ZGFkMDYxZjYx`

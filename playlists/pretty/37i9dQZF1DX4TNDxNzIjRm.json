@@ -1,12 +1,12 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1457422,
+  "num_followers": 1457407,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIxMDE3MiwwMDAwMDAwMDdkZTYwNGM3NWY3NzhiMDdkZDQxM2QwNzZkZDIxZjBh",
+  "snapshot_id": "MTY3ODIxMDE3MiwwMDAwMDAwMDc5ODA3ZTMwYTliYjhmMTNkODhhMDZhMWFmNWFhODVk",
   "tracks": [
     {
       "added_at": "2023-03-07 17:29:32",
@@ -247,22 +247,18 @@
     {
       "added_at": "2023-03-07 17:29:32",
       "album": {
-        "name": "PLAYA DEL INGL\u00c9S",
-        "url": "https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9"
+        "name": "VISTA AL MAR",
+        "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
       },
       "artists": [
         {
           "name": "Quevedo",
           "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 237525,
-      "name": "PLAYA DEL INGL\u00c9S",
-      "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
+      "duration_ms": 180672,
+      "name": "VISTA AL MAR",
+      "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
     },
     {
       "added_at": "2023-03-07 17:29:32",
@@ -415,18 +411,22 @@
     {
       "added_at": "2023-03-07 17:29:32",
       "album": {
-        "name": "VISTA AL MAR",
-        "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
+        "name": "PLAYA DEL INGL\u00c9S",
+        "url": "https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9"
       },
       "artists": [
         {
           "name": "Quevedo",
           "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 180672,
-      "name": "VISTA AL MAR",
-      "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
+      "duration_ms": 237525,
+      "name": "PLAYA DEL INGL\u00c9S",
+      "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
     },
     {
       "added_at": "2023-03-07 17:29:32",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-03-07 17:29:32",
       "album": {
+        "name": "Si Te La Encuentras Por Ah\u00ed",
+        "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Si Te La Encuentras Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
+    },
+    {
+      "added_at": "2023-03-07 17:29:32",
+      "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 227220,
       "name": "ULTRA SOLO",
       "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
-    },
-    {
-      "added_at": "2023-03-07 17:29:32",
-      "album": {
-        "name": "Si Te La Encuentras Por Ah\u00ed",
-        "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Si Te La Encuentras Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
     },
     {
       "added_at": "2023-03-07 17:29:32",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-03-07 17:29:32",
       "album": {
-        "name": "VIVES",
-        "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 194742,
-      "name": "Robarte un Beso",
-      "url": "https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k"
-    },
-    {
-      "added_at": "2023-03-07 17:29:32",
-      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
+    },
+    {
+      "added_at": "2023-03-07 17:29:32",
+      "album": {
+        "name": "VIVES",
+        "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 194742,
+      "name": "Robarte un Beso",
+      "url": "https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k"
     },
     {
       "added_at": "2023-03-07 17:29:32",
@@ -943,6 +943,30 @@
     {
       "added_at": "2023-03-07 17:29:32",
       "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 266086,
+      "name": "Soltera - Remix",
+      "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
+    },
+    {
+      "added_at": "2023-03-07 17:29:32",
+      "album": {
         "name": "UN DIA (ONE DAY) (Feat. Tainy)",
         "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
       },
@@ -967,30 +991,6 @@
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
-    },
-    {
-      "added_at": "2023-03-07 17:29:32",
-      "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 266086,
-      "name": "Soltera - Remix",
-      "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
     },
     {
       "added_at": "2023-03-07 17:29:32",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-03-07 17:29:32",
       "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 183709,
-      "name": "CASUALIDAD",
-      "url": "https://open.spotify.com/track/3yIyUQXF050PehHtbkgaDu"
-    },
-    {
-      "added_at": "2023-03-07 17:29:32",
-      "album": {
         "name": "La Nota",
         "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
+    },
+    {
+      "added_at": "2023-03-07 17:29:32",
+      "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 183709,
+      "name": "CASUALIDAD",
+      "url": "https://open.spotify.com/track/3yIyUQXF050PehHtbkgaDu"
     },
     {
       "added_at": "2023-03-07 17:29:32",
@@ -1535,22 +1535,26 @@
     {
       "added_at": "2023-03-07 17:29:32",
       "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+        "name": "Indeciso",
+        "url": "https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P"
       },
       "artists": [
         {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         },
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
         }
       ],
-      "duration_ms": 181845,
-      "name": "Detente",
-      "url": "https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX"
+      "duration_ms": 217253,
+      "name": "Indeciso",
+      "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
     },
     {
       "added_at": "2023-03-07 17:29:32",
@@ -1575,26 +1579,22 @@
     {
       "added_at": "2023-03-07 17:29:32",
       "album": {
-        "name": "Indeciso",
-        "url": "https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P"
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 217253,
-      "name": "Indeciso",
-      "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
+      "duration_ms": 181845,
+      "name": "Detente",
+      "url": "https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX"
     },
     {
       "added_at": "2023-03-07 17:29:32",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2023-03-07 17:29:32",
       "album": {
-        "name": "LOST",
-        "url": "https://open.spotify.com/album/3bncOq9bM24eCefxlJvrtK"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        }
-      ],
-      "duration_ms": 259600,
-      "name": "Jangueo",
-      "url": "https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR"
-    },
-    {
-      "added_at": "2023-03-07 17:29:32",
-      "album": {
         "name": "Problem\u00f3n",
         "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 193013,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
+    },
+    {
+      "added_at": "2023-03-07 17:29:32",
+      "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/3bncOq9bM24eCefxlJvrtK"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "duration_ms": 259600,
+      "name": "Jangueo",
+      "url": "https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR"
     },
     {
       "added_at": "2023-03-07 17:29:32",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2023-03-07 17:29:32",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Flow La Movie",
-          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
-        }
-      ],
-      "duration_ms": 182496,
-      "name": "AM",
-      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
-    },
-    {
-      "added_at": "2023-03-07 17:29:32",
-      "album": {
         "name": "Mi Ni\u00f1a",
         "url": "https://open.spotify.com/album/5F7rUv9XZPAnNfeKCYkqZS"
       },
@@ -1779,6 +1759,26 @@
     {
       "added_at": "2023-03-07 17:29:32",
       "album": {
+        "name": "FERXXO (VOL 1: M.O.R)",
+        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "PORFA",
+      "url": "https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW"
+    },
+    {
+      "added_at": "2023-03-07 17:29:32",
+      "album": {
         "name": "Tutu",
         "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
       },
@@ -1799,38 +1799,22 @@
     {
       "added_at": "2023-03-07 17:29:32",
       "album": {
-        "name": "Toy a Mil",
-        "url": "https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k"
+        "name": "AM",
+        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 148363,
-      "name": "Toy a Mil",
-      "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
-    },
-    {
-      "added_at": "2023-03-07 17:29:32",
-      "album": {
-        "name": "FERXXO (VOL 1: M.O.R)",
-        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
         },
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Flow La Movie",
+          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
         }
       ],
-      "duration_ms": 232653,
-      "name": "PORFA",
-      "url": "https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW"
+      "duration_ms": 182496,
+      "name": "AM",
+      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
     },
     {
       "added_at": "2023-03-07 17:29:32",
@@ -1871,6 +1855,22 @@
     {
       "added_at": "2023-03-07 17:29:32",
       "album": {
+        "name": "Toy a Mil",
+        "url": "https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 148363,
+      "name": "Toy a Mil",
+      "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
+    },
+    {
+      "added_at": "2023-03-07 17:29:32",
+      "album": {
         "name": "MAMACITA",
         "url": "https://open.spotify.com/album/39kXbkUjh0IIyoGBnlGX9V"
       },
@@ -1891,42 +1891,6 @@
       "duration_ms": 249142,
       "name": "MAMACITA",
       "url": "https://open.spotify.com/track/14wf185UxfNbSy8dwt4r4q"
-    },
-    {
-      "added_at": "2023-03-07 17:29:32",
-      "album": {
-        "name": "Travesuras (Remix)",
-        "url": "https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Flow La Movie",
-          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
-        }
-      ],
-      "duration_ms": 324426,
-      "name": "Travesuras - Remix",
-      "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
     },
     {
       "added_at": "2023-03-07 17:29:32",
@@ -1967,6 +1931,42 @@
       "duration_ms": 243500,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/6QxjQa0Kdf7a1oRrGCQqEX"
+    },
+    {
+      "added_at": "2023-03-07 17:29:32",
+      "album": {
+        "name": "Travesuras (Remix)",
+        "url": "https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Flow La Movie",
+          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
+        }
+      ],
+      "duration_ms": 324426,
+      "name": "Travesuras - Remix",
+      "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
     },
     {
       "added_at": "2023-03-07 17:29:32",

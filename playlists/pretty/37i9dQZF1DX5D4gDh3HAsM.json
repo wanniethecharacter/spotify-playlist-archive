@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 514362,
+  "num_followers": 514304,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDc4M2RiOWYyN2Y2NzEwOTEwNDYxNjdhMjQwMWQ2NDMx",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGFlNTM4YjIxNzJhYWIyN2Y4YzYzZTA5ZTg3OWM3ZmY1",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -643,18 +643,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Big Band Christmas",
-        "url": "https://open.spotify.com/album/56pKtkUTPwFTlRuApcpS9P"
+        "name": "Together Again (Remastered 2003)",
+        "url": "https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6"
       },
       "artists": [
         {
-          "name": "John Tesh",
-          "url": "https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 133893,
-      "name": "We Wish You The Merriest",
-      "url": "https://open.spotify.com/track/2YyDhrHll7MvGZsGtQbq7O"
+      "duration_ms": 194133,
+      "name": "A Child Is Born - Remastered 2003",
+      "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -675,22 +679,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Together Again (Remastered 2003)",
-        "url": "https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6"
+        "name": "Big Band Christmas",
+        "url": "https://open.spotify.com/album/56pKtkUTPwFTlRuApcpS9P"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "John Tesh",
+          "url": "https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r"
         }
       ],
-      "duration_ms": 194133,
-      "name": "A Child Is Born - Remastered 2003",
-      "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
+      "duration_ms": 133893,
+      "name": "We Wish You The Merriest",
+      "url": "https://open.spotify.com/track/2YyDhrHll7MvGZsGtQbq7O"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -835,18 +835,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
       },
       "artists": [
         {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 243600,
-      "name": "Have a Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/2Lb9nBoZ8V5GNtMOgcaF8o"
+      "duration_ms": 286533,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/08dQ920WdoLvM1iItUuflQ"
     }
   ],
   "unique_name": "Christmas Jazz",

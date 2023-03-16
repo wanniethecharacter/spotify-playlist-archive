@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,004 songs - 2 day 4 hr 30 min
+1,005 songs - 2 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [Det Går Et Festtog Gjennom Landet!](https://open.spotify.com/track/06xTF6pNyBi14cHpKISeyk) | [Sarpsborg Kammerkor](https://open.spotify.com/artist/4yhRrKbyZyoKNHY3jR7T7K), [Forsvarets Stabsmusikkorps](https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U) | [Livets toner \- en messe for eng og asfalt](https://open.spotify.com/album/6yAoYL9gEeFPIhI6an83ob) | 2:41 | 2021-05-19 | 2021-05-20 |
 | [det urolige hjertet](https://open.spotify.com/track/2g1rRs9JS5apGsROlSmtYr) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [det urolige hjertet](https://open.spotify.com/album/4MM5DfeciVb5GVfrXeAnoz) | 3:19 | 2021-04-11 | 2021-04-18 |
 | [Devil Doesn’t Bargain](https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:43 | 2022-06-30 | 2022-08-30 |
-| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 |  |
+| [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:52 | 2023-03-15 |  |
+| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 | 2023-03-16 |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-27 |
 | [Die Together](https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Die Together](https://open.spotify.com/album/2wwjIcsUvhqDVJt95NrgQB) | 2:55 | 2022-05-16 | 2022-05-27 |
 | [Din låt](https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Din låt](https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7) | 2:45 | 2022-07-23 | 2022-08-06 |

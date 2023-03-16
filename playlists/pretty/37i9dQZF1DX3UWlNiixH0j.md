@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > The freshest indie sounds from Japan\. 日本のインディーシーン最先端を特集。Cover: Wez Atlas
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,023 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,039 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Life’s A Game](https://open.spotify.com/track/5PHqslBNMYjZGjAa2VEAP6) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [This Too Shall Pass](https://open.spotify.com/album/22VtQWVPaMtZXlwKc82rxz) | 2:34 |
-| 2 | [メガフォン](https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [メガフォン](https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1) | 2:38 |
+| 2 | [メガフォン](https://open.spotify.com/track/0Q4sqHF7uMbOZjwkbrfrw4) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [4PIES](https://open.spotify.com/album/0Varj37mIYsQjzlphyyWRO) | 2:38 |
 | 3 | [everyone likes](https://open.spotify.com/track/6iNg9CQ1O2PGfjBRsgFu9s) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [HMN</3](https://open.spotify.com/album/6PIB7gC1CweteFuVFjbpro) | 3:06 |
 | 4 | [忘れさせて](https://open.spotify.com/track/5IXxkcxGm9Tk0DmeH8YtV8) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 4:07 |
 | 5 | [Eyes](https://open.spotify.com/track/5hztfJs7VAjS4c4IWc3lZc) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Eyes](https://open.spotify.com/album/2VSREGDOr59t7uOXZ8B7s7) | 2:50 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 15 | [HUMAN](https://open.spotify.com/track/2HTPQfPf92R09MFSOaE8nD) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [HUMAN](https://open.spotify.com/album/2ff6i92pRXmlG5QpKDOeuU) | 4:17 |
 | 16 | [だりぃ](https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:16 |
 | 17 | [街の終わり](https://open.spotify.com/track/7fD09NyzrkqscB07BQJAwS) | [Nag Ar Juna](https://open.spotify.com/artist/0XCIw94rGkUZr24KGUi5Vu) | [街の終わり](https://open.spotify.com/album/2uJY0lqrnhLdQZD7odrXRT) | 4:22 |
-| 18 | [少年](https://open.spotify.com/track/1kMlMvY21mWORqvrEVVnPX) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [少年](https://open.spotify.com/album/3HghVTA1RhGHzVmvIcri32) | 3:54 |
+| 18 | [Boys](https://open.spotify.com/track/2JFnPK8zBNEQ1c7Z1XOk9P) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [Boys](https://open.spotify.com/album/0qLkcCZm48PFDPLU4ZzGAX) | 3:54 |
 | 19 | [EVERGREEN](https://open.spotify.com/track/61aCEeinXGhvUkDthsjlfS) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [EVERGREEN](https://open.spotify.com/album/3SkwWttZbYEwAZDMICGUwt) | 3:01 |
 | 20 | [Third Summer of Love](https://open.spotify.com/track/1JqvgMV4lvu6HCMTY2eAkL) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Million Wish Collective](https://open.spotify.com/artist/3L0IgTFlmkllM0Mcnp2JeQ) | [ANOCHI](https://open.spotify.com/album/3QaWpNuVe2FRMDAnG2iPwx) | 5:05 |
 | 21 | [祈り](https://open.spotify.com/track/7HPycbZx8VSAwN1tOdy4Ty) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [祈り](https://open.spotify.com/album/7HytM9B1Hbl3MDAMKdE5c6) | 3:37 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 38 | [Últimamente](https://open.spotify.com/track/51nSvDGXM7G9kVKlptO6Id) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [Últimamente](https://open.spotify.com/album/0WJBCgQpMgOg6OGrLw7IHC) | 3:53 |
 | 39 | [one way](https://open.spotify.com/track/5DQX3YKH3270aIOqMQfpzt) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [one way](https://open.spotify.com/album/44YthLKFtNvEnn4Jzss8BA) | 3:34 |
 | 40 | [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 |
-| 41 | [SORA](https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh) | 2:52 |
+| 41 | [SORA](https://open.spotify.com/track/3dGWJ8UlemnEV4WycKW3hd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 2:52 |
 | 42 | [愛の宇宙語](https://open.spotify.com/track/6dOweKZMfhzPCCRvNUouZD) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [愛の宇宙語](https://open.spotify.com/album/2n8BTJEsUOpxQe893tvosF) | 3:22 |
 | 43 | [The Cosmic Law](https://open.spotify.com/track/4H3qpAVmoQEI3kE9YGhZrC) | [The Muddies](https://open.spotify.com/artist/2zFsxadjvDk8KJz1lgxwXS) | [The Cosmic Law](https://open.spotify.com/album/08tqLADQIO4IbNn4CsJohz) | 3:30 |
 | 44 | [narashite \- Audiotree Live Version](https://open.spotify.com/track/71fkJnR1lE164GspbrcFUA) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [HARU NEMURI on Audiotree Live](https://open.spotify.com/album/4VJQdztVh2Pkt6nOt7h1D3) | 3:17 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 64 | [Timeless Melody \- Album Ver.](https://open.spotify.com/track/6ZL95Gf3zyUx0PZrxbwZfX) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Ride](https://open.spotify.com/album/0fk8yp59UfhdKnRp9o7cvC) | 2:09 |
 | 65 | [Heaven](https://open.spotify.com/track/7iA5JECof3LNeKOJjJjV3j) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [GuruConnect](https://open.spotify.com/artist/5RDnewAvgHZQ5gCf1h74kF) | [Heaven](https://open.spotify.com/album/4Or4MgaVHzMxr8Q6jMRko0) | 3:27 |
 | 66 | [FLOOR IS MINE](https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [FLOOR IS MINE](https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9) | 3:15 |
-| 67 | [急げ!!!](https://open.spotify.com/track/0CRf9ovluQV67yFMoVivTY) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [BORN IN ASIA](https://open.spotify.com/album/1hxqiqdMhB96Aq0uzgazNM) | 2:06 |
+| 67 | [HURRY UP!!!](https://open.spotify.com/track/6aO0KMUSHdlz5wnq7qgXlW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [BORN IN ASIA](https://open.spotify.com/album/65GDZ705N3kG0ZFSosu8W1) | 2:06 |
 | 68 | [Landscapes](https://open.spotify.com/track/1kR9fUrtW3ivzHiNKftnkP) | [Cairophenomenons](https://open.spotify.com/artist/4N8yE8e1Fb6NtGKZujp2v8) | [Landscapes](https://open.spotify.com/album/6kWcsa0s3FsfMs6k51rWBL) | 3:41 |
 | 69 | [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 |
 | 70 | [Fanfare](https://open.spotify.com/track/53q80WeNxUnyi3YDm3PPhp) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Fanfare](https://open.spotify.com/album/6tkKpYubLhXjkc4sqf2DtM) | 4:17 |
 
-Snapshot ID: `MTY3ODgxNDM1NiwwMDAwMDAwMDJjZDdjYjA5OWE0NDMxMzg4NjE2NGU1ZDNlOGQ0NGE4`
+Snapshot ID: `MTY3ODgxNDM1NiwwMDAwMDAwMDY3MTA3NGIyYmM0ZGM5MGE1NThmY2FlY2U5NzA3NTZm`

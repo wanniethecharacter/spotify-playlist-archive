@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,001 songs - 2 day 7 hr 18 min
+1,002 songs - 2 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,8 @@
 | [Diamond](https://open.spotify.com/track/5ZWTPl9SNP5HG7eZZxV8qK) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Hamza15\-3](https://open.spotify.com/artist/4KakN50EORWP9ML1bXhyWF) | [Diamond](https://open.spotify.com/album/4TmNR3ZS70JdZCrCX6QyNr) | 2:57 | 2022-05-07 | 2022-05-11 |
 | [Diamond](https://open.spotify.com/track/5qMtuivmlLWhyMc9Ez1MEu) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Hamza15\-3](https://open.spotify.com/artist/4KakN50EORWP9ML1bXhyWF) | [Diamond](https://open.spotify.com/album/6ZD7JqXlhqJ7ffrOEoVTIq) | 2:57 | 2021-11-11 | 2021-11-19 |
 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 | 2022-08-17 | 2022-11-19 |
-| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 |  |
+| [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:52 | 2023-03-15 |  |
+| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 | 2023-03-16 |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-27 |
 | [DIFFERENT V2](https://open.spotify.com/track/3nMLSphMk9zGtpJCB1zm8K) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [DIFFERENT V2](https://open.spotify.com/album/0pXh9lyVEqChCz3XGkWcLU) | 3:31 | 2023-02-15 | 2023-02-24 |
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2021-06-28 | 2021-07-20 |

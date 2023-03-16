@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1980s.",
-  "num_followers": 66638,
+  "num_followers": 66678,
   "original_name": "80s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3NDUzMCwwMDAwMDAwMGQyZTczZDFlOTUzMTA0MDVjN2Q2NDgwMDg0ODcxZDBk",
+  "snapshot_id": "MTY3NDA3NDUzMCwwMDAwMDAwMDMzM2M1NmExNmI1ZDNkZjYwODZkZWE5NTk2ZjQ4OWRi",
   "tracks": [
     {
       "added_at": "2023-01-18 20:42:10",
@@ -39,6 +39,22 @@
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -87,22 +103,6 @@
       "duration_ms": 241306,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 356066,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 277476,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -219,22 +203,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 178360,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -247,6 +215,38 @@
       "duration_ms": 155880,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 277476,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 178360,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Appetite For Destruction (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
       "artists": [
         {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 145706,
-      "name": "Blister In The Sun",
-      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
+      "duration_ms": 254733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -455,6 +439,22 @@
       "duration_ms": 457675,
       "name": "Let's Dance - 2018 Remaster",
       "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "Blister In The Sun",
+      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 185694,
-      "name": "Never Tear Us Apart",
-      "url": "https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Piece of Mind (2015 - Remaster)",
         "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 252733,
       "name": "The Trooper - 2015 Remaster",
       "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 185694,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/4k1GJg2poyo6hwWLqJn9C2"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Hold On Tight",
-      "url": "https://open.spotify.com/track/6yBbmHFTxihIDFAerzDMGi"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "The Principle of Moments",
         "url": "https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Eat 'Em and Smile",
-        "url": "https://open.spotify.com/album/0Ali88C44gQdI065upsgKU"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/4k1GJg2poyo6hwWLqJn9C2"
       },
       "artists": [
         {
-          "name": "David Lee Roth",
-          "url": "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
         }
       ],
-      "duration_ms": 234706,
-      "name": "Yankee Rose",
-      "url": "https://open.spotify.com/track/5Fh5nmTu6TEk0ze8QAU7og"
+      "duration_ms": 186600,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/6yBbmHFTxihIDFAerzDMGi"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -987,6 +971,22 @@
       "duration_ms": 322896,
       "name": "Once Bitten Twice Shy",
       "url": "https://open.spotify.com/track/7pkWZL0kA26s754CwyK0SH"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Eat 'Em and Smile",
+        "url": "https://open.spotify.com/album/0Ali88C44gQdI065upsgKU"
+      },
+      "artists": [
+        {
+          "name": "David Lee Roth",
+          "url": "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "Yankee Rose",
+      "url": "https://open.spotify.com/track/5Fh5nmTu6TEk0ze8QAU7og"
     },
     {
       "added_at": "2023-01-18 20:42:10",

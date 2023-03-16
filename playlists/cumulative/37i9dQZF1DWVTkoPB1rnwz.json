@@ -2420,7 +2420,7 @@
           "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
         }
       ],
-      "date_added": "2023-03-04",
+      "date_added": "2023-03-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153162,
@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 328778,
       "name": "Lithe",
       "url": "https://open.spotify.com/track/5tFLJyoBQkbIFz3YZ2SfF5"
@@ -4218,6 +4218,24 @@
       "duration_ms": 115315,
       "name": "Sleepy Story.",
       "url": "https://open.spotify.com/track/5FL7eUhAFgmV6FzrNYbdUO"
+    },
+    {
+      "album": {
+        "name": "Slowly Forgetting, Barely Remembering",
+        "url": "https://open.spotify.com/album/0w2mMp1rooOhYEVGKP6wWc"
+      },
+      "artists": [
+        {
+          "name": "Martyna Basta",
+          "url": "https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Slowly Forgetting, Barely Remembering",
+      "url": "https://open.spotify.com/track/5WZSFvCa9sw3lDufP9w8nb"
     },
     {
       "album": {

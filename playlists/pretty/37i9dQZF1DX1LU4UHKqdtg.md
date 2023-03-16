@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Kep1er
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,229 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,621 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 47 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 | 48 | [BETTING](https://open.spotify.com/track/2D4FPjRVAWPGZUnO3Qzz8d) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx), [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [BETTING](https://open.spotify.com/album/5tVF9innz1XK3xj72Phi7e) | 3:18 |
 | 49 | [One Moment](https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Seasonal Hiatus](https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445) | 3:38 |
-| 50 | [花路](https://open.spotify.com/track/0B2xB2XuQlN7jMpbsDHYUb) | [Kim Hyun Joong](https://open.spotify.com/artist/0rB9P2J3OkobNezpTBcXqE) | [花路](https://open.spotify.com/album/4G5aqy3YbX5zaVXP0LgzZ6) | 3:44 |
+| 50 | [HANA MICHI](https://open.spotify.com/track/6Ype063HsGKF7AholzHRFh) | [Kim Hyun Joong](https://open.spotify.com/artist/0rB9P2J3OkobNezpTBcXqE) | [HANA MICHI](https://open.spotify.com/album/4rHAamZcFkv1pnv2FHKua4) | 3:44 |
 | 51 | [Beautiful Liar](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 3:03 |
 | 52 | [MOONLIGHT](https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [MOONLIGHT](https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch) | 2:41 |
 | 53 | [PULL UP](https://open.spotify.com/track/4Jmrkz9hytD3jaLDkZ7Qvc) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 3rd Mini Album 'VarioUS'](https://open.spotify.com/album/2XZJWoPAW0Ah1msTIFXFSt) | 2:55 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 69 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 |
 | 70 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 |
 
-Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMDVhYzJlMTA3NTMyYTllZmY4NWI0NzViNzA3NTE4NDMy`
+Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMDI2NWIzNGFjNjkzNDBhYjFmZDU2YWRhZWQ1Y2FhY2Y0`

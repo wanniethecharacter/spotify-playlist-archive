@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "oops_i_did_it_again.mp3",
-  "name": "dosmileras",
+  "description": "c\u00e1ntale a ese coraz\u00f3n \ud83d\udda4",
+  "name": "el amor seg\u00fan Elsa y Elmar x Carla Morrison",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 210186,
       "name": "A Puro Dolor - Balada",
       "url": "https://open.spotify.com/track/28upjDakWVnHAgW2anm273"
@@ -34,10 +34,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 237493,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
+    },
+    {
+      "album": {
+        "name": "Adi\u00f3s Amor",
+        "url": "https://open.spotify.com/album/0VAMFOvgMhd7RhmGSIgTHQ"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227407,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/78xTaDYgWVn7pJdbnfeIl9"
     },
     {
       "album": {
@@ -52,7 +70,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 228906,
       "name": "Ain't No Other Man",
       "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
@@ -70,7 +88,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 214440,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
@@ -95,6 +113,24 @@
     },
     {
       "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231951,
+      "name": "amantes y amigos",
+      "url": "https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48"
+    },
+    {
+      "album": {
         "name": "Reyli En La Luna",
         "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
       },
@@ -106,7 +142,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 242026,
       "name": "Amor del Bueno",
       "url": "https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z"
@@ -124,10 +160,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 193373,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
+    },
+    {
+      "album": {
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226595,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/7rLozI09IOepDfaF5umbK8"
     },
     {
       "album": {
@@ -160,10 +214,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 310146,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
+    },
+    {
+      "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF"
     },
     {
       "album": {
@@ -178,7 +250,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 239306,
       "name": "Atr\u00e9vete-Te-Te",
       "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
@@ -196,7 +268,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 294573,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
@@ -232,7 +304,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 262466,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
@@ -250,7 +322,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 200400,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
@@ -268,7 +340,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 230640,
       "name": "Can't Get You out of My Head",
       "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
@@ -322,7 +394,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 267960,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
@@ -383,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Mientras T\u00fa Dorm\u00edas",
+        "url": "https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257091,
+      "name": "Compartir",
+      "url": "https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW"
+    },
+    {
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
@@ -394,10 +484,46 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 244506,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
+    },
+    {
+      "album": {
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237466,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2CNpOXQzoJwWC6YMssLmQY"
+    },
+    {
+      "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169859,
+      "name": "corazones negros",
+      "url": "https://open.spotify.com/track/0e2GVhGzqP33IhjMWfFAJi"
     },
     {
       "album": {
@@ -416,7 +542,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
@@ -441,6 +567,78 @@
     },
     {
       "album": {
+        "name": "Culpa, Tengo",
+        "url": "https://open.spotify.com/album/6ijb7bIlJEXCOrnMxTmVfX"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187777,
+      "name": "Culpa, Tengo",
+      "url": "https://open.spotify.com/track/4bKQUb2YadX9zaek1ngZKj"
+    },
+    {
+      "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP"
+    },
+    {
+      "album": {
+        "name": "Amor Supremo",
+        "url": "https://open.spotify.com/album/0Jo8yyj5aHXkj6rCJUVbT5"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237592,
+      "name": "Devu\u00e9lvete",
+      "url": "https://open.spotify.com/track/5GWk4mjGmPLZiXHETqMlhW"
+    },
+    {
+      "album": {
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197853,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
+    },
+    {
+      "album": {
         "name": "The Last Don",
         "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
       },
@@ -452,7 +650,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 204600,
       "name": "Dile",
       "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
@@ -474,7 +672,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 289160,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"
@@ -496,7 +694,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 298853,
       "name": "Dirrty (feat. Redman)",
       "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
@@ -514,7 +712,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 183973,
       "name": "Don",
       "url": "https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E"
@@ -536,10 +734,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 275373,
       "name": "Duele El Amor",
       "url": "https://open.spotify.com/track/0oXLSuno5adlHcPzlzs8l6"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235306,
+      "name": "D\u00e9jenme Llorar",
+      "url": "https://open.spotify.com/track/4oBSrpZNE2K79sMuS0jCyx"
     },
     {
       "album": {
@@ -554,7 +770,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 262440,
       "name": "D\u00edgale",
       "url": "https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2"
@@ -572,7 +788,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 183533,
       "name": "El Eco de Tu Voz",
       "url": "https://open.spotify.com/track/4u8snuKA78YNkJujLeh7Ht"
@@ -590,7 +806,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 238720,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN"
@@ -626,7 +842,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 330373,
       "name": "El Problema",
       "url": "https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO"
@@ -662,10 +878,46 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 267600,
       "name": "Eres",
       "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
+    },
+    {
+      "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205868,
+      "name": "Eres Diamante",
+      "url": "https://open.spotify.com/track/7oBpMDJu3l99QKuZElyE3W"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "album": {
@@ -680,7 +932,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 250693,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
@@ -716,7 +968,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 237333,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/3I09LQbHS3NSU46Ly3tPpR"
@@ -734,10 +986,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 295533,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "album": {
+        "name": "Rey",
+        "url": "https://open.spotify.com/album/4Zz44QAJk0eMkEZfHZ4HJN"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232960,
+      "name": "Forma Antigua",
+      "url": "https://open.spotify.com/track/6YgLFEyIP7UBZtKmyPcCXz"
     },
     {
       "album": {
@@ -756,7 +1026,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 238133,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
@@ -792,7 +1062,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 211666,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/6bK9BH9Ts8Gj5JFvnQkzak"
@@ -810,10 +1080,54 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 251240,
       "name": "Gimme More",
       "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
+    },
+    {
+      "album": {
+        "name": "Grecia",
+        "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200118,
+      "name": "Grecia",
+      "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241626,
+      "name": "Hasta la Piel",
+      "url": "https://open.spotify.com/track/5zu4MAEQblGCaTrbXtfpb8"
     },
     {
       "album": {
@@ -828,7 +1142,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 263600,
       "name": "Heroe",
       "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
@@ -846,7 +1160,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 235213,
       "name": "Hey Ya!",
       "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
@@ -868,7 +1182,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 218093,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
@@ -886,7 +1200,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 199853,
       "name": "Hollaback Girl",
       "url": "https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw"
@@ -922,7 +1236,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 220226,
       "name": "Hot N Cold",
       "url": "https://open.spotify.com/track/1y4eb6hmAvsqlDOl3fx9kk"
@@ -958,7 +1272,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 337733,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
@@ -976,7 +1290,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 179640,
       "name": "I Kissed A Girl",
       "url": "https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9"
@@ -1012,7 +1326,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 203600,
       "name": "I'm a Slave 4 U",
       "url": "https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN"
@@ -1090,7 +1404,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 273360,
       "name": "I'm Still in Love with You (feat. Sasha)",
       "url": "https://open.spotify.com/track/5lJx5eiSahFfsqkMJVlkDN"
@@ -1130,7 +1444,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
@@ -1148,7 +1462,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 216706,
       "name": "La Camisa Negra",
       "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
@@ -1166,7 +1480,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 247693,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6"
@@ -1244,7 +1558,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 267960,
       "name": "Lady Marmalade - Single Edit",
       "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
@@ -1262,7 +1576,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 220666,
       "name": "Las de la Intuici\u00f3n",
       "url": "https://open.spotify.com/track/3uU6dqBjVKRTPis0RrTaT4"
@@ -1280,7 +1594,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 203626,
       "name": "Love",
       "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
@@ -1316,7 +1630,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
@@ -1334,10 +1648,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 258893,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244226,
+      "name": "Me Encanta",
+      "url": "https://open.spotify.com/track/3GB6DySkHRs8sNXHuQ7Yoj"
     },
     {
       "album": {
@@ -1352,7 +1684,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 239706,
       "name": "Me equivoqu\u00e9",
       "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
@@ -1370,7 +1702,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 187520,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
@@ -1406,7 +1738,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 284373,
       "name": "Meet Me Halfway",
       "url": "https://open.spotify.com/track/6wOYnPq1hPihRepcDClPUw"
@@ -1424,10 +1756,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 205160,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+    },
+    {
+      "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187662,
+      "name": "Mierda",
+      "url": "https://open.spotify.com/track/2Ebw8Zuljp4ERFd2dicosz"
     },
     {
       "album": {
@@ -1500,7 +1850,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 231760,
       "name": "My Love",
       "url": "https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g"
@@ -1533,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218853,
+      "name": "Nadie Va",
+      "url": "https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU"
+    },
+    {
+      "album": {
         "name": "Stereo Hits",
         "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
       },
@@ -1544,7 +1912,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 219533,
       "name": "Ni T\u00fa Ni Nadie",
       "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
@@ -1587,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190892,
+      "name": "No Me Llames",
+      "url": "https://open.spotify.com/track/17OUytzPZONEaJ4QqYI0nn"
+    },
+    {
+      "album": {
         "name": "As I Am (Expanded Edition)",
         "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
       },
@@ -1598,7 +1984,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 253813,
       "name": "No One",
       "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
@@ -1641,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170926,
+      "name": "Obra de Arte",
+      "url": "https://open.spotify.com/track/3kJPCWZAOSi7Rxa4UR1bjv"
+    },
+    {
+      "album": {
         "name": "HA-ASH",
         "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
       },
@@ -1652,10 +2056,32 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 210640,
       "name": "Odio Amarte",
       "url": "https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG"
+    },
+    {
+      "album": {
+        "name": "Ojos Noche (feat. Carla Morrison)",
+        "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254929,
+      "name": "Ojos Noche (feat. Carla Morrison)",
+      "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
     },
     {
       "album": {
@@ -1670,7 +2096,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 211160,
       "name": "Oops!...I Did It Again",
       "url": "https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ"
@@ -1688,7 +2114,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
@@ -1706,7 +2132,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 225413,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o"
@@ -1724,10 +2150,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 265733,
       "name": "Pero Me Acuerdo de T\u00ed",
       "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
+    },
+    {
+      "album": {
+        "name": "Rey",
+        "url": "https://open.spotify.com/album/4Zz44QAJk0eMkEZfHZ4HJN"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155133,
+      "name": "Planeando El Tiempo",
+      "url": "https://open.spotify.com/track/0yrPBI6TUysAU0OQbbd7IH"
     },
     {
       "album": {
@@ -1742,7 +2186,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 237200,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
@@ -1760,7 +2204,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 246960,
       "name": "Pon de Replay",
       "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
@@ -1796,7 +2240,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 217400,
       "name": "Por Besarte",
       "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
@@ -1814,7 +2258,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 216333,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
@@ -1868,7 +2312,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 213066,
       "name": "Pump It",
       "url": "https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo"
@@ -1940,7 +2384,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 237026,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
@@ -1958,7 +2402,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 269360,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/0HpOft5SON0qXcoicEug2m"
@@ -2000,7 +2444,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 211466,
       "name": "Ser O Parecer",
       "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
@@ -2022,7 +2466,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 195853,
       "name": "Sexy Bitch (feat. Akon)",
       "url": "https://open.spotify.com/track/0uXO2GrNiIb1xHT9LUdxZE"
@@ -2066,7 +2510,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 242733,
       "name": "SexyBack (feat. Timbaland)",
       "url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"
@@ -2084,7 +2528,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 230093,
       "name": "Shape of My Heart",
       "url": "https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D"
@@ -2102,7 +2546,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 233840,
       "name": "Si t\u00fa te atreves",
       "url": "https://open.spotify.com/track/4tljir1112UOLjqP2lXn4J"
@@ -2120,7 +2564,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 188960,
       "name": "Since U Been Gone",
       "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
@@ -2138,7 +2582,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 193213,
       "name": "Single Ladies (Put a Ring on It)",
       "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
@@ -2174,7 +2618,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 215160,
       "name": "So What",
       "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
@@ -2210,7 +2654,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
@@ -2228,7 +2672,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 194106,
       "name": "Suerte (Whenever, Wherever)",
       "url": "https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My"
@@ -2246,7 +2690,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 254026,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
@@ -2288,7 +2732,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
@@ -2330,7 +2774,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 219520,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
@@ -2384,7 +2828,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 233493,
       "name": "Te amo",
       "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
@@ -2402,10 +2846,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 194320,
       "name": "Te necesito",
       "url": "https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx"
+    },
+    {
+      "album": {
+        "name": "Amor Supremo (Desnudo)",
+        "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242446,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
     },
     {
       "album": {
@@ -2420,7 +2882,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 204800,
       "name": "The Call",
       "url": "https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT"
@@ -2442,7 +2904,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 246466,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
@@ -2460,7 +2922,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 206200,
       "name": "This Love",
       "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
@@ -2576,10 +3038,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 203360,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI"
+    },
+    {
+      "album": {
+        "name": "Amor Supremo",
+        "url": "https://open.spotify.com/album/0Jo8yyj5aHXkj6rCJUVbT5"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344995,
+      "name": "Todo Pasa",
+      "url": "https://open.spotify.com/track/0U0ahY5GZOnhiLLG7wE5vB"
     },
     {
       "album": {
@@ -2594,10 +3074,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 204906,
       "name": "Todos Me Miran",
       "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
+    },
+    {
+      "album": {
+        "name": "Mientras T\u00fa Dorm\u00edas",
+        "url": "https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210279,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/1huQafAsMu5RtRhtpS3zli"
     },
     {
       "album": {
@@ -2634,10 +3132,46 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
+    },
+    {
+      "album": {
+        "name": "Amor Supremo (Desnudo)",
+        "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261614,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/6PwVWeo4KpH7YrTg2b5Het"
+    },
+    {
+      "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201887,
+      "name": "vuelve",
+      "url": "https://open.spotify.com/track/5vbUaeom27lTaAIhDin5DU"
     },
     {
       "album": {
@@ -2652,7 +3186,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 272533,
       "name": "Where Is The Love?",
       "url": "https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ"
@@ -2688,7 +3222,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 208600,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
@@ -2724,7 +3258,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 265000,
       "name": "Why Does It Always Rain On Me?",
       "url": "https://open.spotify.com/track/5MmWgG5KgiqSxkOZdVXRQA"
@@ -2742,7 +3276,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 224400,
       "name": "Womanizer",
       "url": "https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2"
@@ -2764,7 +3298,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 200400,
       "name": "World, Hold On",
       "url": "https://open.spotify.com/track/6P3TrUT5OBuyrBYGrHo525"
@@ -2782,7 +3316,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 224224,
       "name": "Ya Lo Ve\u00eda Venir",
       "url": "https://open.spotify.com/track/55TzaicixkSM6XT23JvIZA"
@@ -2800,7 +3334,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
@@ -2818,7 +3352,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 224640,
       "name": "Yo No Soy Esa Mujer",
       "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
@@ -2836,7 +3370,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 259853,
       "name": "Yo No S\u00e9 Ma\u00f1ana",
       "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
@@ -2890,7 +3424,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 232120,
       "name": "You Belong With Me",
       "url": "https://open.spotify.com/track/1GEBsLDvJGw7kviySRI6GX"
@@ -2908,7 +3442,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
@@ -2926,10 +3460,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+    },
+    {
+      "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179377,
+      "name": "\u00faltimo y primero",
+      "url": "https://open.spotify.com/track/7xUFeXNhkN04OkneYwQVXB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaN3n8Umehd8"

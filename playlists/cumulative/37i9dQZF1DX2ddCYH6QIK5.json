@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: katya., Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Soft Loft, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 189716,
       "name": "All I Know",
       "url": "https://open.spotify.com/track/2BKNB7lzJTXy3qZkT0eBDW"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 138666,
       "name": "BBB #40",
       "url": "https://open.spotify.com/track/75UAvAAZnHbKvkrC3kKdfN"
@@ -1974,7 +1974,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 122678,
       "name": "Core",
       "url": "https://open.spotify.com/track/72T42XJjVprSTUoQVrnPMt"
@@ -2032,6 +2032,24 @@
       "duration_ms": 253000,
       "name": "Court Of Love",
       "url": "https://open.spotify.com/track/02bwDpPdC8SQGp5shMidO9"
+    },
+    {
+      "album": {
+        "name": "Cover Up",
+        "url": "https://open.spotify.com/album/2UeVgaoUSxQ4MF1aefQUe9"
+      },
+      "artists": [
+        {
+          "name": "Like Sundays",
+          "url": "https://open.spotify.com/artist/0P3oMAIIWhsnEOnp4Bc6XA"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146270,
+      "name": "Cover Up",
+      "url": "https://open.spotify.com/track/6RPxb376CEUreRiEA86Xgj"
     },
     {
       "album": {
@@ -3765,6 +3783,28 @@
     },
     {
       "album": {
+        "name": "Get You Back",
+        "url": "https://open.spotify.com/album/0KT1zhe7CNjNE1GKTMXoUn"
+      },
+      "artists": [
+        {
+          "name": "Noayama",
+          "url": "https://open.spotify.com/artist/2iBTkjABfiSsNwJZ2YiEPY"
+        },
+        {
+          "name": "Maassai",
+          "url": "https://open.spotify.com/artist/2Sk415hwNp1WKbB5VMZeMu"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160149,
+      "name": "Get You Back",
+      "url": "https://open.spotify.com/track/47N1GiRMY3Ui84gKF9BMDj"
+    },
+    {
+      "album": {
         "name": "Get You High",
         "url": "https://open.spotify.com/album/2RJYZWsapFGP5Wz1OSp7FU"
       },
@@ -4967,6 +5007,24 @@
     },
     {
       "album": {
+        "name": "i think i'm falling",
+        "url": "https://open.spotify.com/album/3JW0a2bfBcHUssDE6SdwTM"
+      },
+      "artists": [
+        {
+          "name": "the great stoyan duo",
+          "url": "https://open.spotify.com/artist/2AADXTogH3ieTwhgU2XwfF"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167998,
+      "name": "i think i'm falling",
+      "url": "https://open.spotify.com/track/0DGkQjBEzlaJi0ybfwa4Ou"
+    },
+    {
+      "album": {
         "name": "A ROOM FOR HER OWN",
         "url": "https://open.spotify.com/album/0mMIsNwq9MUsaGm3lKMFBq"
       },
@@ -5176,7 +5234,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 221655,
       "name": "In A Dress",
       "url": "https://open.spotify.com/track/3xFuUawZfrjPdZZR9hJeJd"
@@ -5309,6 +5367,24 @@
     },
     {
       "album": {
+        "name": "Is It Me",
+        "url": "https://open.spotify.com/album/3I3vADoXrs50CCHvOtJ2f4"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194638,
+      "name": "Is It Me",
+      "url": "https://open.spotify.com/track/3HoWMvZthFR2Ymbm1YaSgh"
+    },
+    {
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/3fGHCwjNsuak1BMnymnD5f"
       },
@@ -5356,7 +5432,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 254769,
       "name": "Jagen",
       "url": "https://open.spotify.com/track/3SoRTfoCmMsGbmJro8YT2I"
@@ -5861,6 +5937,24 @@
     },
     {
       "album": {
+        "name": "Le Mirage",
+        "url": "https://open.spotify.com/album/6CleMEXjLAINMhDZ19yU2F"
+      },
+      "artists": [
+        {
+          "name": "Claus Casper",
+          "url": "https://open.spotify.com/artist/1asQbSi83hmInBcUB9z6oi"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Le Mirage - Radio Edit",
+      "url": "https://open.spotify.com/track/7J7NTqDAVuR1U5DqJTVWIX"
+    },
+    {
+      "album": {
         "name": "Leere",
         "url": "https://open.spotify.com/album/3T31m17CFyKOcF4og9guia"
       },
@@ -6186,7 +6280,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 203520,
       "name": "Lost a Friend",
       "url": "https://open.spotify.com/track/5caXgageFqvA8zELmKN4r7"
@@ -7041,6 +7135,24 @@
     },
     {
       "album": {
+        "name": "Nach Dir",
+        "url": "https://open.spotify.com/album/708sbT6s42xtTTSw5yDszH"
+      },
+      "artists": [
+        {
+          "name": "Emma-Mo",
+          "url": "https://open.spotify.com/artist/55DyEqKHqeEbyqIs8XJ6tJ"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Nach Dir",
+      "url": "https://open.spotify.com/track/5fJ23SU4FzhG6ZzgNYDav6"
+    },
+    {
+      "album": {
         "name": "Narbenherz",
         "url": "https://open.spotify.com/album/7AKajkhAqodbAuKEYwE3ow"
       },
@@ -7856,7 +7968,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 181567,
       "name": "Pocket Song",
       "url": "https://open.spotify.com/track/1XFmCNvt7iqsRiv4ssrWb6"
@@ -8026,6 +8138,24 @@
       "duration_ms": 266181,
       "name": "Pussy Galore",
       "url": "https://open.spotify.com/track/3FjOcP7gTJJN1zePjLFrKz"
+    },
+    {
+      "album": {
+        "name": "P\u00e9n\u00e9lope",
+        "url": "https://open.spotify.com/album/2dcnyvLlhiGeyMbNSmHBnf"
+      },
+      "artists": [
+        {
+          "name": "Soften",
+          "url": "https://open.spotify.com/artist/1LOBaSd0n2eromYWuqxWLy"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287813,
+      "name": "P\u00e9n\u00e9lope",
+      "url": "https://open.spotify.com/track/4k8wHbMgMoI5TNe3iUgkSb"
     },
     {
       "album": {
@@ -8245,6 +8375,24 @@
     },
     {
       "album": {
+        "name": "Red And Yellow All Over",
+        "url": "https://open.spotify.com/album/0Js8XmodtBj4ekBJOECxUy"
+      },
+      "artists": [
+        {
+          "name": "Jealous",
+          "url": "https://open.spotify.com/artist/0VCf4hjBKWDodCDO7U8yJO"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301514,
+      "name": "Red And Yellow All Over",
+      "url": "https://open.spotify.com/track/7cmDbyTSuwK5EVbxMjSPeG"
+    },
+    {
+      "album": {
         "name": "Red Clay",
         "url": "https://open.spotify.com/album/16rmIZfBElU3EiKJw6jwku"
       },
@@ -8328,7 +8476,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 144000,
       "name": "Redux",
       "url": "https://open.spotify.com/track/75DXlX1UhXLaCL8266arxL"
@@ -8628,7 +8776,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 281269,
       "name": "Sacred Type",
       "url": "https://open.spotify.com/track/4Huu3YdsOUkubcMqVramYl"
@@ -8682,7 +8830,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 209341,
       "name": "Sans oxyg\u00e8ne",
       "url": "https://open.spotify.com/track/0mVCcqZcHUoGAwI7towUJ7"
@@ -9198,6 +9346,24 @@
       "duration_ms": 146250,
       "name": "So naiv sind wir nicht",
       "url": "https://open.spotify.com/track/6k1Kw7DQbHDQ1CvqxS1vYy"
+    },
+    {
+      "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/7L3bPL8G4KlolCW6bM8mo7"
+      },
+      "artists": [
+        {
+          "name": "Asa 808",
+          "url": "https://open.spotify.com/artist/2clnQoRMSrsLAHktJx8SHR"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208133,
+      "name": "SOMA",
+      "url": "https://open.spotify.com/track/2XpYV3u9TyH5xILSMIC7IJ"
     },
     {
       "album": {
@@ -10969,6 +11135,24 @@
     },
     {
       "album": {
+        "name": "Von uns beiden",
+        "url": "https://open.spotify.com/album/4wg48WqI83Bj02x6juYRuJ"
+      },
+      "artists": [
+        {
+          "name": "Enya Elstner",
+          "url": "https://open.spotify.com/artist/7InSqIOYCcGiFGrajTdcZU"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204422,
+      "name": "Von uns beiden",
+      "url": "https://open.spotify.com/track/0oXo7COL6mO87GWR4aYNH6"
+    },
+    {
+      "album": {
         "name": "Vuka!",
         "url": "https://open.spotify.com/album/4EsJNgGMShrHYhR4BIN13S"
       },
@@ -10984,7 +11168,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 163809,
       "name": "Vuka!",
       "url": "https://open.spotify.com/track/19vn6BU72dB0IIA8G6LsBW"
@@ -11370,6 +11554,28 @@
       "duration_ms": 281966,
       "name": "Who Are You?",
       "url": "https://open.spotify.com/track/76wCpQ9at0OSLTFfYQDnvw"
+    },
+    {
+      "album": {
+        "name": "Who Is She",
+        "url": "https://open.spotify.com/album/6Dl6OB6Uy06aPbUxRqsdXC"
+      },
+      "artists": [
+        {
+          "name": "wnbl",
+          "url": "https://open.spotify.com/artist/2Hvw8u0ssZnBDtqANHbnI2"
+        },
+        {
+          "name": "EV\u00ceN",
+          "url": "https://open.spotify.com/artist/0lWgtltnu46nD7fJxTjarO"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209824,
+      "name": "Who Is She",
+      "url": "https://open.spotify.com/track/2jC2KZbVEFLv55MyNlohD7"
     },
     {
       "album": {

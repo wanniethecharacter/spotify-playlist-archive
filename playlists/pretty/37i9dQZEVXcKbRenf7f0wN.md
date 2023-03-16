@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Arms Around Your Love](https://open.spotify.com/track/3U07KE9Jse87pLyZAD2b37) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/125bv7EBFzsaqeW2LzY6QP) | 3:34 |
 | 30 | [Hej, czy nie wiecie](https://open.spotify.com/track/5aV6NxUaWtQdDV4K6VSLww) | [Kult](https://open.spotify.com/artist/3QrpmDKMmvcSUTHH8xED93) | [Your Eyes](https://open.spotify.com/album/0kFT2lVOnmc5S8XLoVBhgH) | 5:21 |
 
-Snapshot ID: `MCwwMDAwMDAwMDYzZTg4N2U1ODJiYWI0MzdlNGIzY2NiYThiNmZmNGNm`
+Snapshot ID: `MCwwMDAwMDAwMGMwOGNkOTJlOTQxYmJmYjA0YjFmZjY2NGVkNTNhNTAz`

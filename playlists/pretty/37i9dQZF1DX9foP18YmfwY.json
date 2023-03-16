@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Anjos de Resgate",
-  "num_followers": 289927,
+  "num_followers": 290038,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ5ODUyOCwwMDAwMDAwMDYwYWIzOGFlZDVjZWZjMGMwYTU4N2M0NDVmOGYzNTU4",
+  "snapshot_id": "MTY3ODQ5ODUyOCwwMDAwMDAwMDZmZjUwYmM4NDFlMTczN2VhY2NlMDkzNjNmYWQ1NTc3",
   "tracks": [
     {
       "added_at": "2023-03-11 01:35:28",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-03-11 01:35:28",
       "album": {
+        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
+      },
+      "artists": [
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 429900,
+      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
+    },
+    {
+      "added_at": "2023-03-11 01:35:28",
+      "album": {
         "name": "Estou Orando por Voc\u00ea",
         "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 337168,
       "name": "Estou Orando por Voc\u00ea",
       "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
-    },
-    {
-      "added_at": "2023-03-11 01:35:28",
-      "album": {
-        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
-      },
-      "artists": [
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
-        }
-      ],
-      "duration_ms": 429900,
-      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
     },
     {
       "added_at": "2023-03-11 01:35:28",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-03-11 01:35:28",
       "album": {
-        "name": "Cora\u00e7\u00e3o de Transgressor",
-        "url": "https://open.spotify.com/album/0PKAfcsf5TQeI1Ex7bgS5H"
-      },
-      "artists": [
-        {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        }
-      ],
-      "duration_ms": 250456,
-      "name": "Cora\u00e7\u00e3o de Transgressor",
-      "url": "https://open.spotify.com/track/1T72Pe1YOTYYKJNpvTOyMs"
-    },
-    {
-      "added_at": "2023-03-11 01:35:28",
-      "album": {
         "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim 9",
         "url": "https://open.spotify.com/album/1Z19YIT9c8WBEPPsiUnGBU"
       },
@@ -363,6 +347,26 @@
       "duration_ms": 636452,
       "name": "Me Aceita de Volta",
       "url": "https://open.spotify.com/track/3GIxWG9j6QNtm6BteSTIqG"
+    },
+    {
+      "added_at": "2023-03-11 01:35:28",
+      "album": {
+        "name": "Quero Nascer de Novo",
+        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Quero Nascer de Novo",
+      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
     },
     {
       "added_at": "2023-03-11 01:35:28",
@@ -387,22 +391,18 @@
     {
       "added_at": "2023-03-11 01:35:28",
       "album": {
-        "name": "Quero Nascer de Novo",
-        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
+        "name": "Cora\u00e7\u00e3o de Transgressor",
+        "url": "https://open.spotify.com/album/0PKAfcsf5TQeI1Ex7bgS5H"
       },
       "artists": [
         {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
         }
       ],
-      "duration_ms": 370000,
-      "name": "Quero Nascer de Novo",
-      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
+      "duration_ms": 250456,
+      "name": "Cora\u00e7\u00e3o de Transgressor",
+      "url": "https://open.spotify.com/track/1T72Pe1YOTYYKJNpvTOyMs"
     },
     {
       "added_at": "2023-03-11 01:35:28",
@@ -511,42 +511,6 @@
     {
       "added_at": "2023-03-11 01:35:28",
       "album": {
-        "name": "Quero Ouvir Tua Voz",
-        "url": "https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v"
-      },
-      "artists": [
-        {
-          "name": "Cleiton Saraiva",
-          "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
-        },
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        }
-      ],
-      "duration_ms": 264891,
-      "name": "Quero Ouvir Tua Voz",
-      "url": "https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO"
-    },
-    {
-      "added_at": "2023-03-11 01:35:28",
-      "album": {
-        "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW"
-      },
-      "artists": [
-        {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
-        }
-      ],
-      "duration_ms": 309660,
-      "name": "Ningu\u00e9m Explica Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN"
-    },
-    {
-      "added_at": "2023-03-11 01:35:28",
-      "album": {
         "name": "Nada Temerei",
         "url": "https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ"
       },
@@ -567,18 +531,18 @@
     {
       "added_at": "2023-03-11 01:35:28",
       "album": {
-        "name": "Resili\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hVNGg5aKdYEJ54F9xPh1Q"
+        "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW"
       },
       "artists": [
         {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
         }
       ],
-      "duration_ms": 569032,
-      "name": "Eis-Me Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/2B8hftUbw5ZgpDierVaXNn"
+      "duration_ms": 309660,
+      "name": "Ningu\u00e9m Explica Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN"
     },
     {
       "added_at": "2023-03-11 01:35:28",
@@ -599,6 +563,22 @@
     {
       "added_at": "2023-03-11 01:35:28",
       "album": {
+        "name": "Resili\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hVNGg5aKdYEJ54F9xPh1Q"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 569032,
+      "name": "Eis-Me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/2B8hftUbw5ZgpDierVaXNn"
+    },
+    {
+      "added_at": "2023-03-11 01:35:28",
+      "album": {
         "name": "Esp\u00edrito da Verdade",
         "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 287303,
       "name": "Se Eu Tocar",
       "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
+    },
+    {
+      "added_at": "2023-03-11 01:35:28",
+      "album": {
+        "name": "Quero Ouvir Tua Voz",
+        "url": "https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v"
+      },
+      "artists": [
+        {
+          "name": "Cleiton Saraiva",
+          "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
+        },
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        }
+      ],
+      "duration_ms": 264891,
+      "name": "Quero Ouvir Tua Voz",
+      "url": "https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO"
     },
     {
       "added_at": "2023-03-11 01:35:28",
@@ -655,22 +655,18 @@
     {
       "added_at": "2023-03-11 01:35:28",
       "album": {
-        "name": "Gba Stage, Vol. 4",
-        "url": "https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f"
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G"
       },
       "artists": [
         {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
         }
       ],
-      "duration_ms": 235714,
-      "name": "S\u00f3 por Ti, Jesus",
-      "url": "https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy"
+      "duration_ms": 237000,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE"
     },
     {
       "added_at": "2023-03-11 01:35:28",
@@ -687,22 +683,6 @@
       "duration_ms": 308875,
       "name": "Louvor dos Pequenos",
       "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
-    },
-    {
-      "added_at": "2023-03-11 01:35:28",
-      "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE"
     },
     {
       "added_at": "2023-03-11 01:35:28",
@@ -727,6 +707,26 @@
     {
       "added_at": "2023-03-11 01:35:28",
       "album": {
+        "name": "Gba Stage, Vol. 4",
+        "url": "https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "duration_ms": 235714,
+      "name": "S\u00f3 por Ti, Jesus",
+      "url": "https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy"
+    },
+    {
+      "added_at": "2023-03-11 01:35:28",
+      "album": {
         "name": "Ressonhar",
         "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 290125,
       "name": "Oceano de Miseric\u00f3rdia",
       "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
+    },
+    {
+      "added_at": "2023-03-11 01:35:28",
+      "album": {
+        "name": "Deus Anda Comigo",
+        "url": "https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e"
+      },
+      "artists": [
+        {
+          "name": "Cleiton Saraiva",
+          "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
+        }
+      ],
+      "duration_ms": 223285,
+      "name": "Longe de Deus, Tudo \u00c9 Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/6tFow5ytjJCSOIVngI2uNc"
     },
     {
       "added_at": "2023-03-11 01:35:28",
@@ -763,22 +779,6 @@
       "duration_ms": 240188,
       "name": "Grande Rei",
       "url": "https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ"
-    },
-    {
-      "added_at": "2023-03-11 01:35:28",
-      "album": {
-        "name": "Deus Anda Comigo",
-        "url": "https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e"
-      },
-      "artists": [
-        {
-          "name": "Cleiton Saraiva",
-          "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
-        }
-      ],
-      "duration_ms": 223285,
-      "name": "Longe de Deus, Tudo \u00c9 Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/6tFow5ytjJCSOIVngI2uNc"
     },
     {
       "added_at": "2023-03-11 01:35:28",
@@ -815,58 +815,6 @@
     {
       "added_at": "2023-03-11 01:35:28",
       "album": {
-        "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        }
-      ],
-      "duration_ms": 384059,
-      "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
-    },
-    {
-      "added_at": "2023-03-11 01:35:28",
-      "album": {
-        "name": "Gba Stage, Vol. 5",
-        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "duration_ms": 177322,
-      "name": "Cora\u00e7\u00e3o de M\u00e3e",
-      "url": "https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L"
-    },
-    {
-      "added_at": "2023-03-11 01:35:28",
-      "album": {
-        "name": "Nada Te Perturbe",
-        "url": "https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25"
-      },
-      "artists": [
-        {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
-        }
-      ],
-      "duration_ms": 225326,
-      "name": "Nada Te Perturbe",
-      "url": "https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1"
-    },
-    {
-      "added_at": "2023-03-11 01:35:28",
-      "album": {
         "name": "Apenas Barro",
         "url": "https://open.spotify.com/album/1SCgr0nIPx6A9mJrH36dT0"
       },
@@ -887,6 +835,38 @@
     {
       "added_at": "2023-03-11 01:35:28",
       "album": {
+        "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        }
+      ],
+      "duration_ms": 384059,
+      "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
+    },
+    {
+      "added_at": "2023-03-11 01:35:28",
+      "album": {
+        "name": "Nada Te Perturbe",
+        "url": "https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        }
+      ],
+      "duration_ms": 225326,
+      "name": "Nada Te Perturbe",
+      "url": "https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1"
+    },
+    {
+      "added_at": "2023-03-11 01:35:28",
+      "album": {
         "name": "J\u00e1 Deu Certo",
         "url": "https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 276885,
       "name": "J\u00e1 Deu Certo",
       "url": "https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3"
+    },
+    {
+      "added_at": "2023-03-11 01:35:28",
+      "album": {
+        "name": "Gba Stage, Vol. 5",
+        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "duration_ms": 177322,
+      "name": "Cora\u00e7\u00e3o de M\u00e3e",
+      "url": "https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L"
     },
     {
       "added_at": "2023-03-11 01:35:28",
@@ -951,6 +951,26 @@
       "duration_ms": 310704,
       "name": "Seja Bem-Vindo Jesus",
       "url": "https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd"
+    },
+    {
+      "added_at": "2023-03-11 01:35:28",
+      "album": {
+        "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
+        "url": "https://open.spotify.com/album/0CjTATUNtQXUPAI15486Yi"
+      },
+      "artists": [
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        },
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "duration_ms": 285030,
+      "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
+      "url": "https://open.spotify.com/track/4kwoJY1r3HEz1J6k9Oqwcn"
     },
     {
       "added_at": "2023-03-11 01:35:28",
@@ -1007,22 +1027,6 @@
     {
       "added_at": "2023-03-11 01:35:28",
       "album": {
-        "name": "Reinflama",
-        "url": "https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I"
-      },
-      "artists": [
-        {
-          "name": "Flavinho",
-          "url": "https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4"
-        }
-      ],
-      "duration_ms": 231796,
-      "name": "Reinflama",
-      "url": "https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL"
-    },
-    {
-      "added_at": "2023-03-11 01:35:28",
-      "album": {
         "name": "Ana e Maria",
         "url": "https://open.spotify.com/album/6jjVrZBuB3fRQmqiV9C2Jp"
       },
@@ -1055,22 +1059,18 @@
     {
       "added_at": "2023-03-11 01:35:28",
       "album": {
-        "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
-        "url": "https://open.spotify.com/album/0CjTATUNtQXUPAI15486Yi"
+        "name": "Reinflama",
+        "url": "https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I"
       },
       "artists": [
         {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        },
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+          "name": "Flavinho",
+          "url": "https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4"
         }
       ],
-      "duration_ms": 285030,
-      "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
-      "url": "https://open.spotify.com/track/4kwoJY1r3HEz1J6k9Oqwcn"
+      "duration_ms": 231796,
+      "name": "Reinflama",
+      "url": "https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL"
     },
     {
       "added_at": "2023-03-11 01:35:28",
@@ -1107,6 +1107,26 @@
       "duration_ms": 300000,
       "name": "Em Tua Presen\u00e7a",
       "url": "https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ"
+    },
+    {
+      "added_at": "2023-03-11 01:35:28",
+      "album": {
+        "name": "Lugar da Promessa",
+        "url": "https://open.spotify.com/album/0az8jmNkDgSooCY5M5SLIJ"
+      },
+      "artists": [
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        },
+        {
+          "name": "Canthares",
+          "url": "https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr"
+        }
+      ],
+      "duration_ms": 283490,
+      "name": "Lugar da Promessa",
+      "url": "https://open.spotify.com/track/1NLPPnEEQCbaoum7s54fBG"
     },
     {
       "added_at": "2023-03-11 01:35:28",
@@ -1151,22 +1171,22 @@
     {
       "added_at": "2023-03-11 01:35:28",
       "album": {
-        "name": "Lugar da Promessa",
-        "url": "https://open.spotify.com/album/0az8jmNkDgSooCY5M5SLIJ"
+        "name": "Gba Stage, Vol. 5",
+        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
       "artists": [
         {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
         },
         {
-          "name": "Canthares",
-          "url": "https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr"
+          "name": "Gil Monteiro",
+          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
         }
       ],
-      "duration_ms": 283490,
-      "name": "Lugar da Promessa",
-      "url": "https://open.spotify.com/track/1NLPPnEEQCbaoum7s54fBG"
+      "duration_ms": 173272,
+      "name": "Como \u00c9s Lindo",
+      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
     },
     {
       "added_at": "2023-03-11 01:35:28",
@@ -1187,26 +1207,6 @@
       "duration_ms": 238478,
       "name": "O Sagrado Que H\u00e1 Aqui",
       "url": "https://open.spotify.com/track/2YBFupp0OR2HpD0rncxpc6"
-    },
-    {
-      "added_at": "2023-03-11 01:35:28",
-      "album": {
-        "name": "Gba Stage, Vol. 5",
-        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Gil Monteiro",
-          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
-        }
-      ],
-      "duration_ms": 173272,
-      "name": "Como \u00c9s Lindo",
-      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
     },
     {
       "added_at": "2023-03-11 01:35:28",

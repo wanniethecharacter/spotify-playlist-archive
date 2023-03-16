@@ -3965,6 +3965,24 @@
     },
     {
       "album": {
+        "name": "I Can't Handle Change",
+        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
+      },
+      "artists": [
+        {
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135693,
+      "name": "Christmas Kids",
+      "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
+    },
+    {
+      "album": {
         "name": "Fighting Demons (Extended Edition)",
         "url": "https://open.spotify.com/album/7qFlJdLo0I0sQrphIweCvC"
       },
@@ -6138,7 +6156,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 180022,
       "name": "Dumb Ways to Die",
       "url": "https://open.spotify.com/track/180MVaidIYWpB1MSYEv5BI"
@@ -16394,7 +16412,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 212253,
       "name": "OMG",
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
@@ -18746,7 +18764,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-15",
+      "date_removed": null,
       "duration_ms": 189782,
       "name": "Second Guessing",
       "url": "https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um"

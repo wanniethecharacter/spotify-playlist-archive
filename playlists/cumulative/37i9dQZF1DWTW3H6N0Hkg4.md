@@ -4,7 +4,7 @@
 
 > Cumbias de antaño para bailar.
 
-258 songs - 15 hr 32 min
+259 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 | 2021-10-19 | 2022-07-29 |
 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 | 2022-07-19 |  |
 | [Cosas del Amor](https://open.spotify.com/track/7hUeM605R3peXzGU9FBgix) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [17 Aniversario](https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77) | 3:19 | 2022-06-07 |  |
-| [Cozumel](https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk) | [Los Sonor's](https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0) | [Antología...Los Sonor's](https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6) | 2:47 | 2022-06-07 |  |
+| [Cozumel](https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk) | [Los Sonor's](https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0) | [Antología...Los Sonor's](https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6) | 2:47 | 2022-06-07 | 2023-03-16 |
 | [Cumbia Barulera](https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:00 | 2022-06-07 |  |
 | [Cumbia Cienaguera](https://open.spotify.com/track/3uUTp8ivOJPX695AIFBpwj) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:04 | 2021-10-19 | 2022-12-31 |
 | [Cumbia de las Flores](https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s) | 3:22 | 2022-06-07 | 2022-11-13 |
@@ -76,7 +76,7 @@
 | [El Aguajal](https://open.spotify.com/track/69wiGluawqV442FfP20UXz) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Cariñito](https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA) | 3:45 | 2022-12-07 |  |
 | [El Aguajal](https://open.spotify.com/track/2PQGsNqid5HDxWuab2GSrN) | [Rodolfo Aicardi Y Su Tipica Ra7](https://open.spotify.com/artist/7uLsqUGIjlBE3L56WJLWPT) | [Qué Chevere, Vol\. 2](https://open.spotify.com/album/1973kT56qSH9cNCxl9LuCJ) | 3:45 | 2021-10-19 | 2022-07-29 |
 | [El Amor Se Fue](https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Sencillo](https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX) | 3:50 | 2022-07-19 |  |
-| [El Ausente](https://open.spotify.com/track/2yFGylyE6vbZQKXVZcvWFj) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos](https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd) | 3:26 | 2022-06-07 |  |
+| [El Ausente](https://open.spotify.com/track/2yFGylyE6vbZQKXVZcvWFj) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos](https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd) | 3:26 | 2022-06-07 | 2023-03-16 |
 | [El Barbarazo](https://open.spotify.com/track/4UsaJJNwMg7vKuw4QPzjeO) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [El Barbarazo](https://open.spotify.com/album/6PQmEphEaMRHR925jc382J) | 3:30 | 2022-06-07 | 2022-07-08 |
 | [El Botecito](https://open.spotify.com/track/7GVxAP3rK73EvCoAqxk5vJ) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [El Botecito](https://open.spotify.com/album/0ucwoASnxx3Y3pt7vy2esy) | 2:30 | 2021-10-19 | 2022-05-29 |
 | [El Cable](https://open.spotify.com/track/3QwrlXr3N7FWhQwZEAR8q8) | [Mario y sus Diamantes](https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo) | [50 Años de Éxitos](https://open.spotify.com/album/3SWZLaAfmaA9OkmzbntsrS) | 3:01 | 2022-06-07 | 2022-11-13 |
@@ -117,7 +117,7 @@
 | [Juana La Cubana](https://open.spotify.com/track/50HdY3sn3Np9Fh2yICpPcX) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Mis 50 Favoritas](https://open.spotify.com/album/1Epn9WsW3M8oE075XiKAwS) | 3:13 | 2022-06-07 | 2022-07-29 |
 | [Juana La Cubana](https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Mis 50 Favoritas](https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0) | 3:13 | 2022-07-19 | 2022-11-13 |
 | [Juventud](https://open.spotify.com/track/6XGVwHELAvx2LYv3uAH7DV) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Confesiones De Amor](https://open.spotify.com/album/07ES558NCyjBbDDjCW0ZmK) | 3:41 | 2022-06-07 | 2022-07-29 |
-| [La Banda Borracha](https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 3:15 | 2022-06-07 | 2022-12-03 |
+| [La Banda Borracha](https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 3:15 | 2022-06-07 |  |
 | [La Brujita](https://open.spotify.com/track/6n8M4N16lQMUFeCHNtZIzJ) | [La Luz Roja De San Marcos](https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb) | [15 Anos De Exitos](https://open.spotify.com/album/5y8nVWoUWR774YYWRSdYEh) | 3:48 | 2022-06-07 | 2022-11-13 |
 | [La Colegiada](https://open.spotify.com/track/0EYVTuGER9NV3k7FT5oX1E) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Cariñito](https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA) | 3:40 | 2022-07-19 |  |
 | [La Colegiala](https://open.spotify.com/track/5G9zTiOzuF1wONxSuXHg33) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/2MFR4ywLd3BPvVDa8U52Us) | 3:40 | 2022-07-19 | 2022-11-26 |
@@ -251,6 +251,7 @@
 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/10UiP7h6szsk0CitFO8NM2) | [Sonideros de MEX USA](https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm) | [Exitos Sonideros, Vol\. 1](https://open.spotify.com/album/10vSYmCwnxyQXCeMtq6a92) | 3:44 | 2021-10-19 | 2022-06-08 |
 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 | 2021-10-19 |  |
 | [Una Cerveza](https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 4:00 | 2022-07-19 |  |
+| [Una Ráfaga De Amor](https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Soplando Fuerte / Un Fenómeno Natural](https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC) | 3:02 | 2022-12-07 |  |
 | [Una Ráfaga de Amor](https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:03 | 2022-07-19 | 2023-03-13 |
 | [Una y Mil Veces](https://open.spotify.com/track/4FhMTZKmjbkIR9bazv8bFv) | [Los Forasteros](https://open.spotify.com/artist/6qBJpxk1RBoWp8XeYy8BmU) | [Cumbia Romántica](https://open.spotify.com/album/5tvgwdhzYB1qmYXZdGNXm0) | 4:31 | 2022-07-19 | 2022-11-13 |
 | [Usted Que Haria](https://open.spotify.com/track/0l9S0ufiXdSXWGF4br3uZs) | [Sonido Condor](https://open.spotify.com/artist/4IVjseASdZdJJujgEilnEp) | [100% Poblano](https://open.spotify.com/album/52tQuXHttcfzw6ELaSMIvL) | 2:52 | 2021-10-19 | 2022-07-29 |

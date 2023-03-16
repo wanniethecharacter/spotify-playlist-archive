@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 2000. \n\n",
-  "num_followers": 154130,
+  "num_followers": 154406,
   "original_name": "Rock en Espa\u00f1ol: Los 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEzNzExNSwwMDAwMDAwMGVkYzE3MTc0OTI0NTU2YWE3ZDVlNDUyYTU3ZGYwYjM3",
+  "snapshot_id": "MTY1NzEzNzExNSwwMDAwMDAwMGNiNDI3Y2RhNWZjYTAyMGRmNDU5NmI1NzNkYWRkZGQ3",
   "tracks": [
     {
       "added_at": "2022-07-06 19:51:55",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Vicentico",
-        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Algo Contigo",
-      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
         "name": "Vida De Perros",
         "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 236472,
       "name": "Llueve Sobre La Ciudad",
       "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Vicentico",
+        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Algo Contigo",
+      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Elefante",
-        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
         "name": "Vida De Perros",
         "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 217849,
       "name": "Ven Aqu\u00ed",
       "url": "https://open.spotify.com/track/13eBG1b8pd7PxlEAAChfHO"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Elefante",
+        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
         "name": "Barrio Estaci\u00f3n",
         "url": "https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 286106,
       "name": "Nada Nuevo Bajo El Sol",
       "url": "https://open.spotify.com/track/6hBfF54vgIAdtb5kbbvt75"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
     },
     {
       "added_at": "2022-07-06 19:51:55",

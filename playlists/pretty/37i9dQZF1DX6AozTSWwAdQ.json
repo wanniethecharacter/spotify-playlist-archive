@@ -1,12 +1,12 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 55261,
+  "num_followers": 55270,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODY3NzE1NiwwMDAwMDAwMGZmOWNjZDUyZTk0ODIyOGZhODU5NDgwNGNjNDdiOGYy",
+  "snapshot_id": "MTY3ODY3NzE1NiwwMDAwMDAwMGRiNjI5OGM3Zjc5MDk0ZWRlMjhkNWY4ZmZlNTE1MzM4",
   "tracks": [
     {
       "added_at": "2023-03-13 03:12:36",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-03-13 03:12:36",
       "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 176989,
+      "name": "Freezing",
+      "url": "https://open.spotify.com/track/7reh67rES37v1n9grDX6HO"
+    },
+    {
+      "added_at": "2023-03-13 03:12:36",
+      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2023-03-13 03:12:36",
       "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 176989,
-      "name": "Freezing",
-      "url": "https://open.spotify.com/track/7reh67rES37v1n9grDX6HO"
-    },
-    {
-      "added_at": "2023-03-13 03:12:36",
-      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-13 03:12:36",
       "album": {
-        "name": "Give Me a Kiss",
-        "url": "https://open.spotify.com/album/0CafPkGhvLKbSwto8FQJq1"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 169204,
-      "name": "Give Me a Kiss",
-      "url": "https://open.spotify.com/track/0OXdfW3Q6VJGpg1k5Ik1SW"
-    },
-    {
-      "added_at": "2023-03-13 03:12:36",
-      "album": {
         "name": "Center Point Road",
         "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
       },
@@ -651,22 +635,6 @@
       "duration_ms": 168960,
       "name": "Look What God Gave Her",
       "url": "https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V"
-    },
-    {
-      "added_at": "2023-03-13 03:12:36",
-      "album": {
-        "name": "EDGING",
-        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "EDGING",
-      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
     },
     {
       "added_at": "2023-03-13 03:12:36",
@@ -703,6 +671,22 @@
     {
       "added_at": "2023-03-13 03:12:36",
       "album": {
+        "name": "Give Me a Kiss",
+        "url": "https://open.spotify.com/album/0CafPkGhvLKbSwto8FQJq1"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 169204,
+      "name": "Give Me a Kiss",
+      "url": "https://open.spotify.com/track/0OXdfW3Q6VJGpg1k5Ik1SW"
+    },
+    {
+      "added_at": "2023-03-13 03:12:36",
+      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -715,6 +699,38 @@
       "duration_ms": 258418,
       "name": "American Teenager",
       "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+    },
+    {
+      "added_at": "2023-03-13 03:12:36",
+      "album": {
+        "name": "EDGING",
+        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "EDGING",
+      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
+    },
+    {
+      "added_at": "2023-03-13 03:12:36",
+      "album": {
+        "name": "Shut Me Up",
+        "url": "https://open.spotify.com/album/3iggNyh19LyTVYH5SexoYr"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "duration_ms": 141218,
+      "name": "Shut Me Up",
+      "url": "https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v"
     },
     {
       "added_at": "2023-03-13 03:12:36",
@@ -747,22 +763,6 @@
       "duration_ms": 193089,
       "name": "Black And White",
       "url": "https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE"
-    },
-    {
-      "added_at": "2023-03-13 03:12:36",
-      "album": {
-        "name": "Shut Me Up",
-        "url": "https://open.spotify.com/album/3iggNyh19LyTVYH5SexoYr"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        }
-      ],
-      "duration_ms": 141218,
-      "name": "Shut Me Up",
-      "url": "https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v"
     },
     {
       "added_at": "2023-03-13 03:12:36",

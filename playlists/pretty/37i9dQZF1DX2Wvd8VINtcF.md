@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,889 likes - 101 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,890 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 33 | [Inhale / Exhale](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:50 |
 | 34 | [Perfect 10 \(feat\. Harvey Sutherland\)](https://open.spotify.com/track/6XpdXkGR4ZU3OqOCwkjosD) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Perfect 10 \(feat\. Harvey Sutherland\)](https://open.spotify.com/album/7b8xwKgPMPswifNh4lWNbw) | 3:22 |
 | 35 | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/album/6KgSP1vLwIc3xBI7hUTrly) | 2:18 |
-| 36 | [60 Days](https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [60 Days](https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS) | 3:00 |
+| 36 | [60 Days](https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [60 Days](https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS) | 3:19 |
 | 37 | [Baby from Atlanta](https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Baby from Atlanta](https://open.spotify.com/album/0jf4RUx2WK91eYFyllJPlc) | 3:19 |
 | 38 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 |
 | 39 | [Your Skin \(flora cash Remix\)](https://open.spotify.com/track/3sJgE7ekF7mb5hI6XpxcJt) | [Murdo Mitchell](https://open.spotify.com/artist/1hxBd0Mu9CDjEoBuEpxpxt), [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Your Skin \(flora cash Remix\)](https://open.spotify.com/album/5zb0ByfUCkkeJUJg8BC8RY) | 3:28 |

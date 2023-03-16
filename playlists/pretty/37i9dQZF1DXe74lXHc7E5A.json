@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: AKA",
-  "num_followers": 4994,
+  "num_followers": 5010,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ0Njk3MSwwMDAwMDAwMGE4ODZkMDFiMmM1YjgzYTcwYmM0MGUwYzY3ZmRkNWE4",
+  "snapshot_id": "MTY3ODQ0Njk3MSwwMDAwMDAwMDQxYzRkZjJlMDdmMTA0N2NmZDU3NzM5NzJkYmYyZDU1",
   "tracks": [
     {
       "added_at": "2023-03-03 08:01:29",
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h"
     },
     {
-      "added_at": "2023-03-15 01:07:23",
+      "added_at": "2023-03-16 01:57:46",
       "album": {
         "name": "Lyf\u00eb",
         "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS"
     },
     {
-      "added_at": "2023-03-15 01:07:23",
+      "added_at": "2023-03-16 01:57:46",
       "album": {
         "name": "Aft\u00ebrLyfe",
         "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3"
     },
     {
-      "added_at": "2023-03-15 01:07:23",
+      "added_at": "2023-03-16 01:57:46",
       "album": {
         "name": "Suffer For Beauty",
         "url": "https://open.spotify.com/album/6KHJY7nfgchDTdcPNDF6gj"
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/5qgFgsrrxOjyPmX5YCuK2E"
     },
     {
+      "added_at": "2023-03-16 01:57:46",
+      "album": {
+        "name": "Tanisha (Pump That)",
+        "url": "https://open.spotify.com/album/6GqEIfRc7ACkLQ2SGGqxFb"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Tanisha (Pump That)",
+      "url": "https://open.spotify.com/track/5ckaFWaVWVfIcPFYfofmzH"
+    },
+    {
       "added_at": "2023-03-03 08:01:29",
       "album": {
         "name": "Love, Damini",
@@ -769,22 +785,6 @@
       "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
     },
     {
-      "added_at": "2023-03-15 01:07:23",
-      "album": {
-        "name": "Tanisha (Pump That)",
-        "url": "https://open.spotify.com/album/6GqEIfRc7ACkLQ2SGGqxFb"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Tanisha (Pump That)",
-      "url": "https://open.spotify.com/track/5ckaFWaVWVfIcPFYfofmzH"
-    },
-    {
       "added_at": "2023-03-03 08:01:29",
       "album": {
         "name": "The Villain I Never Was",
@@ -799,6 +799,46 @@
       "duration_ms": 161699,
       "name": "Konongo Zongo",
       "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
+    },
+    {
+      "added_at": "2023-03-03 08:01:29",
+      "album": {
+        "name": "Picanto",
+        "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
+      },
+      "artists": [
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "ECko Miles",
+          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "Picanto",
+      "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
+    },
+    {
+      "added_at": "2023-03-03 08:01:29",
+      "album": {
+        "name": "Mel Made Me Do It",
+        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 440857,
+      "name": "Mel Made Me Do It",
+      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
     },
     {
       "added_at": "2023-03-03 08:01:29",
@@ -827,22 +867,6 @@
     {
       "added_at": "2023-03-03 08:01:29",
       "album": {
-        "name": "Mel Made Me Do It",
-        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 440857,
-      "name": "Mel Made Me Do It",
-      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
-    },
-    {
-      "added_at": "2023-03-03 08:01:29",
-      "album": {
         "name": "Hustle",
         "url": "https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH"
       },
@@ -863,30 +887,6 @@
       "duration_ms": 189038,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
-    },
-    {
-      "added_at": "2023-03-03 08:01:29",
-      "album": {
-        "name": "Picanto",
-        "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
-      },
-      "artists": [
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "ECko Miles",
-          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
-        }
-      ],
-      "duration_ms": 184077,
-      "name": "Picanto",
-      "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
     },
     {
       "added_at": "2023-03-03 08:01:29",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-03-03 08:01:29",
       "album": {
-        "name": "Pray 2 The East",
-        "url": "https://open.spotify.com/album/6oOKILSxYzQ3xmk7QDncIR"
-      },
-      "artists": [
-        {
-          "name": "M Huncho",
-          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Pray 2 The East (feat. BNXN fka Buju)",
-      "url": "https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg"
-    },
-    {
-      "added_at": "2023-03-03 08:01:29",
-      "album": {
         "name": "Ivyson Army Tour Mixtape",
         "url": "https://open.spotify.com/album/1aVDTp3dj2thrSRcXyTVlA"
       },
@@ -1251,22 +1231,42 @@
     {
       "added_at": "2023-03-03 08:01:29",
       "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+        "name": "Pray 2 The East",
+        "url": "https://open.spotify.com/album/6oOKILSxYzQ3xmk7QDncIR"
       },
       "artists": [
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Pray 2 The East (feat. BNXN fka Buju)",
+      "url": "https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg"
+    },
+    {
+      "added_at": "2023-03-03 08:01:29",
+      "album": {
+        "name": "PARA",
+        "url": "https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc"
+      },
+      "artists": [
+        {
+          "name": "Kid MARLEY",
+          "url": "https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg"
         },
         {
           "name": "Odumodublvck",
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+      "duration_ms": 178775,
+      "name": "PARA",
+      "url": "https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3"
     }
   ],
   "unique_name": "Hype List",

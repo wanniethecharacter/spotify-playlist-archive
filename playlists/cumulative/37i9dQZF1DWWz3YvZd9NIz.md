@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-101 songs - 5 hr 10 min
+102 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Forever Young](https://open.spotify.com/track/6mbT6kXc8kN2mC1PaM4wKv) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Forever Young](https://open.spotify.com/album/64HbV2QY0xeUBhVRBd6Yhu) | 3:21 | 2022-12-05 |  |
 | [Gimme Bass](https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Gimme Bass](https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays) | 2:44 | 2022-12-05 |  |
 | [Halo](https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Halo](https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X) | 2:50 | 2023-02-09 |  |
-| [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/track/4SNTRZEd437z47y4mL9vKi) | [Hard But Crazy](https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/album/6I2xwqoSru4cd1YYV3LU3L) | 2:45 | 2022-12-05 |  |
+| [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/track/4SNTRZEd437z47y4mL9vKi) | [Hard But Crazy](https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/album/6I2xwqoSru4cd1YYV3LU3L) | 2:45 | 2022-12-05 | 2023-03-16 |
 | [He's a Pirate](https://open.spotify.com/track/1rSENjsUV5v8OiRrjxTyhX) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [He's a Pirate](https://open.spotify.com/album/3GPUFw0s4ng41t0YRxiI36) | 3:14 | 2023-02-09 |  |
 | [Heaven \- DJ Isaac Remix](https://open.spotify.com/track/6If6tXpbwYs5zBop1AqfwG) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg), [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq) | [Heaven \(Remixes\)](https://open.spotify.com/album/7FamurxHc0oaPYDoQ6F3jF) | 3:18 | 2022-12-05 |  |
 | [Hijo De La Luna](https://open.spotify.com/track/3d8mrYLI17XeqylHPPvHGx) | [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Steve Modana](https://open.spotify.com/artist/2RibwN2CQvXRHdfxap3KWh), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk) | [Hijo De La Luna](https://open.spotify.com/album/4D8hX9ItzQ9ITgCRCSbRdo) | 3:34 | 2023-01-26 | 2023-02-28 |
@@ -79,6 +79,7 @@
 | [One Kiss \(Hardstyle\)](https://open.spotify.com/track/2sNrZEAGLRQ7iDtXf5WsuV) | [crypvolk](https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS) | [One Kiss \(Hardstyle\)](https://open.spotify.com/album/1mMXaL9ODZKbtfy0T5KlHl) | 2:45 | 2023-02-09 |  |
 | [Only Girl \- Hardstyle Remix](https://open.spotify.com/track/1Yoxdq3J7CxsaLPAynnZde) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [Only Girl \(Hardstyle Remix\)](https://open.spotify.com/album/4ycaH6mCx8CPIY3xXxjYi9) | 2:07 | 2022-12-05 |  |
 | [Outside \(Hardstyle Remix\)](https://open.spotify.com/track/5idLCQX198buvDTviDEPP2) | [Yohan Gerber](https://open.spotify.com/artist/0KxXlISC2jglmPDAGGBlra), [ATHYN](https://open.spotify.com/artist/41esbIbuaddLTrWceKGbf1), [Elise Lieberth](https://open.spotify.com/artist/42hdUVfhzUs7dZWafzvJ7e) | [Outside \(Hardstyle Remix\)](https://open.spotify.com/album/3npYJDvpWgrXks0LmNWZQt) | 2:49 | 2023-01-26 | 2023-02-03 |
+| [Outside \- Hardstyle Remix](https://open.spotify.com/track/0lKFwVERbOAEjst5CfH7tb) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [Outside \(Hardstyle Remix\)](https://open.spotify.com/album/1KHgzKZGHatLlCtlQnI0y7) | 2:37 | 2023-03-09 |  |
 | [Paradise](https://open.spotify.com/track/3fdK0eZWK2iNOdigAxvDGr) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Paradise](https://open.spotify.com/album/65ZzjaYCQC51PxGo0anzme) | 3:14 | 2022-12-05 |  |
 | [PART OF ME HARDSTYLE](https://open.spotify.com/track/19gnl7xN5xAEwDquLNKl76) | [SICK LEGEND](https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl) | [PART OF ME HARDSTYLE](https://open.spotify.com/album/6KS8tHskcAf9btEHwGlFhg) | 2:11 | 2023-01-31 |  |
 | [Pianoman \(Hardstyle Remix\)](https://open.spotify.com/track/3HipQ7QxF3QD4uqvGnl1p3) | [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [De Sfeermakers](https://open.spotify.com/artist/4ziSTKIdIX5tP8y0EZ4LLA) | [Pianoman \(Hardstyle Remix\)](https://open.spotify.com/album/7IAIcE7jVRC1enFK7f6Um4) | 3:18 | 2022-12-22 | 2023-02-10 |

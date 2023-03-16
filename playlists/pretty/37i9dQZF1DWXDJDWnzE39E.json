@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: BABYMETAL",
-  "num_followers": 597174,
+  "num_followers": 597597,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5NDU1NCwwMDAwMDAwMGU5M2I2ZDEwZTViZDlhZDE2ZDM1YTYwZDA0YWQyOWU1",
+  "snapshot_id": "MTY3Nzc5NDU1NCwwMDAwMDAwMGMyMzlmNDI0OTA1MzNiZjJiZWYyZjE1MWIzZThhNGE5",
   "tracks": [
     {
       "added_at": "2022-11-18 01:31:53",
@@ -356,9 +356,25 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 219280,
-      "name": "Secret Garden",
-      "url": "https://open.spotify.com/track/39sAePHCDbaZlpLow8lRp4"
+      "duration_ms": 226186,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/2rFaJ6NRIRWn335tQr8lWD"
+    },
+    {
+      "added_at": "2023-03-02 22:02:34",
+      "album": {
+        "name": "You're Not Gone, You're Just Dead!",
+        "url": "https://open.spotify.com/album/3w8fUu7HiL0TZH36GcB5hc"
+      },
+      "artists": [
+        {
+          "name": "VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        }
+      ],
+      "duration_ms": 175229,
+      "name": "You're Not Gone, You're Just Dead!",
+      "url": "https://open.spotify.com/track/3IT2AP0SuXSBliYDiwCrK1"
     },
     {
       "added_at": "2023-02-10 15:44:35",
@@ -413,22 +429,6 @@
       "url": "https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9"
     },
     {
-      "added_at": "2023-03-02 22:02:34",
-      "album": {
-        "name": "You're Not Gone, You're Just Dead!",
-        "url": "https://open.spotify.com/album/3w8fUu7HiL0TZH36GcB5hc"
-      },
-      "artists": [
-        {
-          "name": "VIRA",
-          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
-        }
-      ],
-      "duration_ms": 175229,
-      "name": "You're Not Gone, You're Just Dead!",
-      "url": "https://open.spotify.com/track/3IT2AP0SuXSBliYDiwCrK1"
-    },
-    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "HUMAN. :II: NATURE.",
@@ -479,18 +479,18 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Sad Girl Mixtape",
-        "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
       },
       "artists": [
         {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
         }
       ],
-      "duration_ms": 155342,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
+      "duration_ms": 225692,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -504,25 +504,25 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 226186,
-      "name": "Hurt You",
-      "url": "https://open.spotify.com/track/2rFaJ6NRIRWn335tQr8lWD"
+      "duration_ms": 219280,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/39sAePHCDbaZlpLow8lRp4"
     },
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
+        "name": "Sad Girl Mixtape",
+        "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
       },
       "artists": [
         {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
         }
       ],
-      "duration_ms": 225692,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
+      "duration_ms": 155342,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -555,22 +555,6 @@
       "duration_ms": 127383,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 243783,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -621,22 +605,6 @@
       "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
     },
     {
-      "added_at": "2023-03-02 22:02:34",
-      "album": {
-        "name": "BEAVER CAGE",
-        "url": "https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 218487,
-      "name": "BEAVER CAGE",
-      "url": "https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0"
-    },
-    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "weapon",
@@ -653,20 +621,20 @@
       "url": "https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD"
     },
     {
-      "added_at": "2022-11-18 01:31:53",
+      "added_at": "2023-03-02 22:02:34",
       "album": {
-        "name": "Handshake with Hell",
-        "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
+        "name": "BEAVER CAGE",
+        "url": "https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z"
       },
       "artists": [
         {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
         }
       ],
-      "duration_ms": 338960,
-      "name": "Handshake with Hell",
-      "url": "https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ"
+      "duration_ms": 218487,
+      "name": "BEAVER CAGE",
+      "url": "https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -685,20 +653,36 @@
       "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
     },
     {
-      "added_at": "2023-02-03 00:00:00",
+      "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Off With Your Head",
-        "url": "https://open.spotify.com/album/36BR0I2BVvsXsIl0pF4fQ5"
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
       },
       "artists": [
         {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
         }
       ],
-      "duration_ms": 132391,
-      "name": "Off With Your Head",
-      "url": "https://open.spotify.com/track/0rHCGInwbNkiZk7Etet5KK"
+      "duration_ms": 243783,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Handshake with Hell",
+        "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 338960,
+      "name": "Handshake with Hell",
+      "url": "https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -715,6 +699,22 @@
       "duration_ms": 245470,
       "name": "Better Without You",
       "url": "https://open.spotify.com/track/2Mall0tN73JmkmihTZPlVt"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "Off With Your Head",
+        "url": "https://open.spotify.com/album/36BR0I2BVvsXsIl0pF4fQ5"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 132391,
+      "name": "Off With Your Head",
+      "url": "https://open.spotify.com/track/0rHCGInwbNkiZk7Etet5KK"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -799,6 +799,26 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        },
+        {
+          "name": "Will King",
+          "url": "https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt"
+        }
+      ],
+      "duration_ms": 192919,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
         "name": "Forsaken (The Aftermath)",
         "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 188388,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        },
-        {
-          "name": "Will King",
-          "url": "https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt"
-        }
-      ],
-      "duration_ms": 192919,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Cover You",
-        "url": "https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3"
-      },
-      "artists": [
-        {
-          "name": "Kelsy Karter & The Heroines",
-          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
-        }
-      ],
-      "duration_ms": 181853,
-      "name": "Cover You",
-      "url": "https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Hallelujah [Feat. Charlotte Sands] (Charlotte Sands Version)",
         "url": "https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
+        "name": "Cover You",
+        "url": "https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3"
+      },
+      "artists": [
+        {
+          "name": "Kelsy Karter & The Heroines",
+          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
+        }
+      ],
+      "duration_ms": 181853,
+      "name": "Cover You",
+      "url": "https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
         "name": "Salma Hayek",
         "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "I Don't Know You",
-        "url": "https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT"
-      },
-      "artists": [
-        {
-          "name": "ODC",
-          "url": "https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj"
-        }
-      ],
-      "duration_ms": 221987,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/1ayc9mNFWGuzcVgL0o3Zd2"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Mr. Magic",
         "url": "https://open.spotify.com/album/0YyqEjOMn7E0hhSgIrhl1A"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 264219,
       "name": "Mr. Magic",
       "url": "https://open.spotify.com/track/0VwhP56nyBybH9WhLhMPrG"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT"
+      },
+      "artists": [
+        {
+          "name": "ODC",
+          "url": "https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj"
+        }
+      ],
+      "duration_ms": 221987,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/1ayc9mNFWGuzcVgL0o3Zd2"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Cure 4 Psycho",
-        "url": "https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 157749,
-      "name": "Cure 4 Psycho",
-      "url": "https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Who Are The Girls?",
         "url": "https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 201013,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Cure 4 Psycho",
+        "url": "https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 157749,
+      "name": "Cure 4 Psycho",
+      "url": "https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob"
     },
     {
       "added_at": "2022-11-18 01:31:53",

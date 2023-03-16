@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-157 songs - 14 hr 37 min
+158 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Battle Belongs](https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Battle Belongs](https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0) | 4:47 | 2022-11-04 | 2022-11-13 |
 | [Battle Belongs](https://open.spotify.com/track/1KYw86zGpAE1Cvl734nlrT) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:47 | 2022-09-30 | 2023-02-04 |
 | [Bondade de Deus](https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade de Deus](https://open.spotify.com/album/5EVe9B2vKWnDOOnHV6Qklx) | 6:15 | 2022-09-09 |  |
+| [Bondade De Deus](https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9) | [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F) | [Bondade De Deus](https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4) | 4:55 | 2023-03-11 |  |
 | [Broken Vessels \(Amazing Grace\) \- Live](https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 9:28 | 2022-09-09 |  |
 | [Caminho no Deserto](https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Caminho no Deserto](https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62) | 6:49 | 2022-09-09 |  |
 | [Cicatrizes](https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:20 | 2022-12-09 |  |
@@ -40,7 +41,7 @@
 | [Deus Emanuel](https://open.spotify.com/track/03SWHCfQMEKBcTd6E6jvgP) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Deus Emanuel](https://open.spotify.com/album/5yZ3LemPIfc59PbOqv0Gq4) | 5:16 | 2022-09-09 | 2022-10-02 |
 | [Deus Faz Além \- Ao Vivo](https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Deus Faz Além \(Ao Vivo\)](https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B) | 4:50 | 2022-09-09 | 2023-02-25 |
 | [Deus Proverá](https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Deus Proverá](https://open.spotify.com/album/2ev97m3xXsyHzGiEH7iNiN) | 5:58 | 2022-09-09 |  |
-| [Deus Vai Fazer \(feat\. Damaris Brandão\)](https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Damaris Brandão](https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:35 | 2023-02-17 |  |
+| [Deus Vai Fazer \(feat\. Damaris Brandão\)](https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Damaris Brandão](https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:35 | 2023-02-17 | 2023-03-16 |
 | [Deus é Deus](https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Nada Além da Graça](https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV) | 4:31 | 2022-09-09 |  |
 | [E Se](https://open.spotify.com/track/0kNqAibbxuqj6HGiYEUnTV) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [E Se](https://open.spotify.com/album/3c4c9eWtYgfXzFo2WlUx1q) | 4:57 | 2023-02-03 |  |
 | [Ele Não Desiste de Você](https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X) | [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Ele Não Desiste de Você](https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW) | 4:50 | 2022-09-09 |  |

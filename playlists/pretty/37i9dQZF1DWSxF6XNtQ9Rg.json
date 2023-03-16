@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 167937,
+  "num_followers": 168110,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5NDA2NywwMDAwMDAwMDc3ZjAyYzJlZGExMzM4M2NmMjkwNTZlMDhjYmViYjU3",
+  "snapshot_id": "MTY3ODA5NDA2NywwMDAwMDAwMGQ2YzE0OTBjMTdjZjA4OWJjMTlkMmY2NmZkN2M3Y2Mw",
   "tracks": [
     {
       "added_at": "2023-03-06 09:09:52",
@@ -331,30 +331,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
-        "url": "https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 237701,
-      "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "M' Manc (con Geolier & Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm"
       },
@@ -375,6 +351,30 @@
       "duration_ms": 180000,
       "name": "M' Manc (con Geolier & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
+        "url": "https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 237701,
+      "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
+        "name": "Fenice",
+        "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
+      },
+      "artists": [
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Chic",
+      "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
         "name": "Cancelo",
         "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 170018,
       "name": "KUMITE",
       "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
-        "name": "Fenice",
-        "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
-      },
-      "artists": [
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "Chic",
-      "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Bottiglie Priv\u00e8",
-        "url": "https://open.spotify.com/album/0vu1M0rGdZ7yR34KwyEmrj"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 189867,
-      "name": "Bottiglie Priv\u00e8",
-      "url": "https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "Kepler",
         "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+        "name": "Bottiglie Priv\u00e8",
+        "url": "https://open.spotify.com/album/0vu1M0rGdZ7yR34KwyEmrj"
       },
       "artists": [
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 231920,
-      "name": "90MIN",
-      "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
+      "duration_ms": 189867,
+      "name": "Bottiglie Priv\u00e8",
+      "url": "https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1191,6 +1175,22 @@
       "duration_ms": 177036,
       "name": "HO PAURA DI USCIRE 2 - prod. Mace",
       "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "90MIN",
+      "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "MOLOTOV",
-        "url": "https://open.spotify.com/album/0CX9SGqogc6UNWCe0tG3Hu"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 160204,
-      "name": "MOLOTOV",
-      "url": "https://open.spotify.com/track/788C9y2A5GSzMZ3uRYStBl"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "23 6451",
         "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 161266,
       "name": "fuck 3x",
       "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "MOLOTOV",
+        "url": "https://open.spotify.com/album/0CX9SGqogc6UNWCe0tG3Hu"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 160204,
+      "name": "MOLOTOV",
+      "url": "https://open.spotify.com/track/788C9y2A5GSzMZ3uRYStBl"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Bellaria",
-        "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
-      },
-      "artists": [
-        {
-          "name": "Vegas Jones",
-          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
-        }
-      ],
-      "duration_ms": 211518,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 205266,
       "name": "LUNEDI'",
       "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "Bellaria",
+        "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
+      },
+      "artists": [
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        }
+      ],
+      "duration_ms": 211518,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Niente da perdere",
-        "url": "https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca"
+        "name": "Album",
+        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
       },
       "artists": [
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
         }
       ],
-      "duration_ms": 166214,
-      "name": "Niente da perdere",
-      "url": "https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5"
+      "duration_ms": 184413,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Malammore",
-        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
+        "name": "Niente da perdere",
+        "url": "https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 218695,
-      "name": "Che Dio Mi Benedica",
-      "url": "https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d"
+      "duration_ms": 166214,
+      "name": "Niente da perdere",
+      "url": "https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1571,34 +1571,18 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Album",
-        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
+        "name": "Malammore",
+        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
       },
       "artists": [
         {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 184413,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 200214,
-      "name": "BRAVI A CADERE - I polmoni",
-      "url": "https://open.spotify.com/track/3me7fQdjgO8NHscb3xPaBa"
+      "duration_ms": 218695,
+      "name": "Che Dio Mi Benedica",
+      "url": "https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1619,6 +1603,38 @@
       "duration_ms": 205125,
       "name": "Veleno 6",
       "url": "https://open.spotify.com/track/7GfXjqXD9aBvDoBdZ7EwPH"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 200214,
+      "name": "BRAVI A CADERE - I polmoni",
+      "url": "https://open.spotify.com/track/3me7fQdjgO8NHscb3xPaBa"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "Lunga Vita a Sto",
+        "url": "https://open.spotify.com/album/4yx0csnN5jtVjPXwHTI626"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 209571,
+      "name": "Dende",
+      "url": "https://open.spotify.com/track/2JeocKJi1eXYfLYxN4sdxJ"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1719,6 +1735,22 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
+        "name": "FSK TRAPSHIT REVENGE",
+        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
+      },
+      "artists": [
+        {
+          "name": "FSK SATELLITE",
+          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "ANSIA NO",
+      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
         "name": "LA CANZONE NOSTRA \u27c1 (con BLANCO & Salmo)",
         "url": "https://open.spotify.com/album/2w5HWooasQeHJC4lYspeG3"
       },
@@ -1743,18 +1775,22 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Lunga Vita a Sto",
-        "url": "https://open.spotify.com/album/4yx0csnN5jtVjPXwHTI626"
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/5b64UDoCcx1v1MSeAAz5We"
       },
       "artists": [
         {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 209571,
-      "name": "Dende",
-      "url": "https://open.spotify.com/track/2JeocKJi1eXYfLYxN4sdxJ"
+      "duration_ms": 184304,
+      "name": "Centro (feat. Coez)",
+      "url": "https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1775,42 +1811,6 @@
       "duration_ms": 232412,
       "name": "Nulla Accade",
       "url": "https://open.spotify.com/track/6uqeN1m6DXG0yOQ4WMNndB"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
-        "name": "FSK TRAPSHIT REVENGE",
-        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
-      },
-      "artists": [
-        {
-          "name": "FSK SATELLITE",
-          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "ANSIA NO",
-      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/5b64UDoCcx1v1MSeAAz5We"
-      },
-      "artists": [
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        },
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 184304,
-      "name": "Centro (feat. Coez)",
-      "url": "https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "GASOLINA",
-        "url": "https://open.spotify.com/album/3ZBJbeVGumukG3EFsUN8ch"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "GASOLINA",
-      "url": "https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "Ossigeno - EP",
         "url": "https://open.spotify.com/album/0eAgD8ueJfUud98yLZ612P"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 186066,
       "name": "Solletico (feat. Tedua & The Night Skinny)",
       "url": "https://open.spotify.com/track/6gan8nbS78t2sUy0M9UpAX"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "GASOLINA",
+        "url": "https://open.spotify.com/album/3ZBJbeVGumukG3EFsUN8ch"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "GASOLINA",
+      "url": "https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn"
     },
     {
       "added_at": "2023-03-06 09:09:52",

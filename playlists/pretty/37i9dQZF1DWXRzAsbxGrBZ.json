@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 9779,
+  "num_followers": 9903,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDVkMzMwNzdiZTA3YzVmZDM5N2U0YmJjNjc3NDQ5NzUy",
+  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDdjYzU1YjQ1YzA3MzNkNGEyYmY3MGM4OWE0YmQ5NzY0",
   "tracks": [
     {
       "added_at": "2022-09-14 09:57:38",
@@ -57,30 +57,6 @@
       "url": "https://open.spotify.com/track/0OM8CxsdhxnRidlrc1Z1nM"
     },
     {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Angikaze",
-        "url": "https://open.spotify.com/album/24jSGmLZMp4TVNnD8GSDtE"
-      },
-      "artists": [
-        {
-          "name": "Russell Zuma",
-          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
-        },
-        {
-          "name": "CocoSA",
-          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
-        },
-        {
-          "name": "George Lesley",
-          "url": "https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL"
-        }
-      ],
-      "duration_ms": 403803,
-      "name": "Angikaze",
-      "url": "https://open.spotify.com/track/1n2LjzjCZPYx78wdxLHvH9"
-    },
-    {
       "added_at": "2022-09-14 09:57:38",
       "album": {
         "name": "Sweet Nothings",
@@ -103,6 +79,30 @@
       "duration_ms": 273684,
       "name": "Sweet Nothings - Original Mix",
       "url": "https://open.spotify.com/track/1kwnjlPHIkwfFUFXUJcmj3"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "Angikaze",
+        "url": "https://open.spotify.com/album/24jSGmLZMp4TVNnD8GSDtE"
+      },
+      "artists": [
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+        },
+        {
+          "name": "CocoSA",
+          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
+        },
+        {
+          "name": "George Lesley",
+          "url": "https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL"
+        }
+      ],
+      "duration_ms": 403803,
+      "name": "Angikaze",
+      "url": "https://open.spotify.com/track/1n2LjzjCZPYx78wdxLHvH9"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -143,6 +143,26 @@
       "duration_ms": 375120,
       "name": "S'khanyisele",
       "url": "https://open.spotify.com/track/45B0hJinafl61IjK5WOqFA"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "This Must Be Deep",
+        "url": "https://open.spotify.com/album/21VsxLl65DU4n6GfbVL3xE"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        },
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "duration_ms": 393647,
+      "name": "This Must Be Deep - Original Mix",
+      "url": "https://open.spotify.com/track/3olGCkuKopIHUxulYAVPJN"
     },
     {
       "added_at": "2022-11-17 00:58:03",
@@ -197,24 +217,20 @@
       "url": "https://open.spotify.com/track/2URYteekU6AYCIuEYxHJXk"
     },
     {
-      "added_at": "2022-09-29 21:59:00",
+      "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "This Must Be Deep",
-        "url": "https://open.spotify.com/album/21VsxLl65DU4n6GfbVL3xE"
+        "name": "False Facade",
+        "url": "https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs"
       },
       "artists": [
         {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
-        },
-        {
-          "name": "Gil Scott-Heron",
-          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+          "name": "DRMZ",
+          "url": "https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ"
         }
       ],
-      "duration_ms": 393647,
-      "name": "This Must Be Deep - Original Mix",
-      "url": "https://open.spotify.com/track/3olGCkuKopIHUxulYAVPJN"
+      "duration_ms": 416688,
+      "name": "False Facade",
+      "url": "https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -239,22 +255,6 @@
       "duration_ms": 407142,
       "name": "Woza Moya",
       "url": "https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "False Facade",
-        "url": "https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs"
-      },
-      "artists": [
-        {
-          "name": "DRMZ",
-          "url": "https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ"
-        }
-      ],
-      "duration_ms": 416688,
-      "name": "False Facade",
-      "url": "https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -393,6 +393,26 @@
       "url": "https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra"
     },
     {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Next Generation",
+        "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
+      },
+      "artists": [
+        {
+          "name": "Alexsir",
+          "url": "https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV"
+        },
+        {
+          "name": "Trust SA",
+          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
+        }
+      ],
+      "duration_ms": 342887,
+      "name": "Monomotapa",
+      "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
+    },
+    {
       "added_at": "2022-09-14 09:57:38",
       "album": {
         "name": "Another Mile EP",
@@ -415,26 +435,6 @@
       "duration_ms": 434877,
       "name": "Makhenikha",
       "url": "https://open.spotify.com/track/3ynnErvgu27QSAuRIqoXYm"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Next Generation",
-        "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
-      },
-      "artists": [
-        {
-          "name": "Alexsir",
-          "url": "https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV"
-        },
-        {
-          "name": "Trust SA",
-          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
-        }
-      ],
-      "duration_ms": 342887,
-      "name": "Monomotapa",
-      "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -807,22 +807,34 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Multiverse Theory",
-        "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
+        "name": "BAUHAUS",
+        "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
       },
       "artists": [
         {
-          "name": "Devine Maestro",
-          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
-        },
-        {
-          "name": "Ottis Blake",
-          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
+          "name": "TimAdeep",
+          "url": "https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq"
         }
       ],
-      "duration_ms": 374257,
-      "name": "Multiverse Theory",
-      "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
+      "duration_ms": 482979,
+      "name": "BAUHAUS",
+      "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "A (Ray)",
+        "url": "https://open.spotify.com/album/7wZwrvSUnOoUMKtGwYxqNM"
+      },
+      "artists": [
+        {
+          "name": "Slotta",
+          "url": "https://open.spotify.com/artist/41FafHCI5NnEUw25GAd4MZ"
+        }
+      ],
+      "duration_ms": 424810,
+      "name": "On It",
+      "url": "https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -849,36 +861,24 @@
       "url": "https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "A (Ray)",
-        "url": "https://open.spotify.com/album/7wZwrvSUnOoUMKtGwYxqNM"
-      },
-      "artists": [
-        {
-          "name": "Slotta",
-          "url": "https://open.spotify.com/artist/41FafHCI5NnEUw25GAd4MZ"
-        }
-      ],
-      "duration_ms": 424810,
-      "name": "On It",
-      "url": "https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN"
-    },
-    {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "BAUHAUS",
-        "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
+        "name": "Multiverse Theory",
+        "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
       },
       "artists": [
         {
-          "name": "TimAdeep",
-          "url": "https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq"
+          "name": "Devine Maestro",
+          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
+        },
+        {
+          "name": "Ottis Blake",
+          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
         }
       ],
-      "duration_ms": 482979,
-      "name": "BAUHAUS",
-      "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
+      "duration_ms": 374257,
+      "name": "Multiverse Theory",
+      "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Ivar the Boneless",
-        "url": "https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I"
+        "name": "Dafrotone",
+        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
       },
       "artists": [
         {
-          "name": "Gigg Cosco",
-          "url": "https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o"
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
         }
       ],
-      "duration_ms": 404480,
-      "name": "Ivar the Boneless",
-      "url": "https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm"
+      "duration_ms": 453453,
+      "name": "Four Lessons",
+      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -953,24 +953,20 @@
       "url": "https://open.spotify.com/track/3rpMcYjuP9GZ1Ijoau4iUS"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
+      "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Necessary",
-        "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
+        "name": "Ivar the Boneless",
+        "url": "https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I"
       },
       "artists": [
         {
-          "name": "Dearson",
-          "url": "https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2"
-        },
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+          "name": "Gigg Cosco",
+          "url": "https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o"
         }
       ],
-      "duration_ms": 395709,
-      "name": "Love I Know",
-      "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
+      "duration_ms": 404480,
+      "name": "Ivar the Boneless",
+      "url": "https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -989,20 +985,24 @@
       "url": "https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
+      "added_at": "2022-11-10 21:59:00",
       "album": {
-        "name": "Dafrotone",
-        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
+        "name": "Necessary",
+        "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
       },
       "artists": [
         {
-          "name": "Dafro",
-          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+          "name": "Dearson",
+          "url": "https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2"
+        },
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
         }
       ],
-      "duration_ms": 453453,
-      "name": "Four Lessons",
-      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
+      "duration_ms": 395709,
+      "name": "Love I Know",
+      "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
     }
   ],
   "unique_name": "Deep House Session",

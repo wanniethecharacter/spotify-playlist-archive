@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Seether
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,765 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,126 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 80 | [Poor Aileen](https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:27 |
 | 81 | [The Otherside](https://open.spotify.com/track/2HLaosNtdbGMZ1pmOBwFeS) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Polyester Zeal](https://open.spotify.com/album/10EVrtkAgTTc7rE61zk8nw) | 3:36 |
 | 82 | [Ashtray](https://open.spotify.com/track/1AmVWLPhCqTMt4y5t0cB8T) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 2:56 |
-| 83 | [Starseed](https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Naveed](https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS) | 4:04 |
-| 84 | [Caught In The Rain](https://open.spotify.com/track/1aWjCUq4KU7wCdQ2AuGeB7) | [Revis](https://open.spotify.com/artist/4e27lOSzk1nvSxpw2BrrwT) | [Places For Breathing](https://open.spotify.com/album/5IuW2X71vJlkLVua4Fd2wX) | 3:30 |
+| 83 | [Caught In The Rain](https://open.spotify.com/track/1aWjCUq4KU7wCdQ2AuGeB7) | [Revis](https://open.spotify.com/artist/4e27lOSzk1nvSxpw2BrrwT) | [Places For Breathing](https://open.spotify.com/album/5IuW2X71vJlkLVua4Fd2wX) | 3:30 |
+| 84 | [Starseed](https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Naveed](https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS) | 4:04 |
 | 85 | [Rapture](https://open.spotify.com/track/00WXjbcR195RztyuAQ90ub) | [Hurt](https://open.spotify.com/artist/3jnoH2xrhvxUgeN2rrudHL) | [Vol\. 1](https://open.spotify.com/album/2P5omMI0SDu3lWiSenca1h) | 5:40 |
 | 86 | [Welcome To The Fold](https://open.spotify.com/track/0oPcNTwHKpYnDZfkcdOsiA) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 7:40 |
 | 87 | [Flowers On A Grave](https://open.spotify.com/track/4TcYGnt7qcBuDoGTWHJ36E) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Kingdom](https://open.spotify.com/album/1IduB3mfHISAtpV1zQHpef) | 3:45 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 92 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
 | 93 | [So Far so Good](https://open.spotify.com/track/2RDfjb9H56uk2NPgzcgMyn) | [Thornley](https://open.spotify.com/artist/2GuMOJNCLkYdDGfgbJMP3v) | [Come Again](https://open.spotify.com/album/3rwSoS50vbg8oiz5YxbW09) | 3:21 |
 | 94 | [Life In A Jar](https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:42 |
-| 95 | [Bulletproof Skin](https://open.spotify.com/track/1E5ftzZvJLOICYQ0oYDHID) | [Institute](https://open.spotify.com/artist/5dw20y4c03uTJPC7rKoDtS) | [Distort Yourself](https://open.spotify.com/album/5oKTgRe1bSLIkZ39pwHqrj) | 4:25 |
-| 96 | [Stoned, Alone](https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:09 |
+| 95 | [Stoned, Alone](https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:09 |
+| 96 | [Bulletproof Skin](https://open.spotify.com/track/1E5ftzZvJLOICYQ0oYDHID) | [Institute](https://open.spotify.com/artist/5dw20y4c03uTJPC7rKoDtS) | [Distort Yourself](https://open.spotify.com/album/5oKTgRe1bSLIkZ39pwHqrj) | 4:25 |
 | 97 | [No One](https://open.spotify.com/track/5Z5k7MQotAckv0S3ZA9dXa) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [13 Ways To Bleed Onstage](https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn) | 3:17 |
 | 98 | [Not An Addict](https://open.spotify.com/track/38TozZBUSqO5HA4ya6OxZr) | [K's Choice](https://open.spotify.com/artist/1lO13Grp3I1AsIbcACRWvv) | [10: 1993\-2003 \- Ten Years of K's Choice](https://open.spotify.com/album/7u5VdkpJuSXEWxNq4PdXJ2) | 4:48 |
 | 99 | [So Happy](https://open.spotify.com/track/796KVmeIoTOek76YwNduEL) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Scars & Souvenirs \(Special Edition\)](https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B) | 4:11 |
 | 100 | [Don't Wake Me](https://open.spotify.com/track/13heJXQpJsfROWJpNR22e0) | [Aranda](https://open.spotify.com/artist/6l0DPGloCYFvs6dM7Y8Wmw) | [Not The Same](https://open.spotify.com/album/5IUoKMmB607UsJmfzKhAhh) | 3:27 |
 
-Snapshot ID: `MTY3MjgyMjYzNSwwMDAwMDAwMDcxYjgyNmZiNGRlODcxNzZmZGQxMDVjZjRjMTAxNWFl`
+Snapshot ID: `MTY3MjgyMjYzNSwwMDAwMDAwMDcxZDNlOTcwNDVkMzFjNzY0YjQzZDBhZWNkOGVmZmMx`

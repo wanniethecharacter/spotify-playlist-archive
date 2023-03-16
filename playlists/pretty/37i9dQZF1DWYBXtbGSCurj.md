@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Raffa Moreira
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,668 likes - 76 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,775 likes - 76 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 18 | [Solitude](https://open.spotify.com/track/26PTgHGUM16hMn5DEBQN35) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Solitude](https://open.spotify.com/album/5UNjBdAcjXZT5hIiC4kR55) | 2:35 |
 | 19 | [Melhor que Ontem](https://open.spotify.com/track/39rFM2G0sk5w8YpbYdGwZ8) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo) | [Melhor que Ontem](https://open.spotify.com/album/1UVgxlfIcYs8Yd9yru4RwY) | 3:03 |
 | 20 | [Beyoncé](https://open.spotify.com/track/27fr7JT1zjPnBAIjJwm2z3) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF), [ouhthisone](https://open.spotify.com/artist/3pSokpYFNNTAbzPzixownM), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Essa é a Vida de um Corredor](https://open.spotify.com/album/7bBlOZxxwCMSMpFngmSIPO) | 2:17 |
-| 21 | [Vitória Dobrada](https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Mozin](https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Vitória Dobrada](https://open.spotify.com/album/68ZbRbgtvH2JBiqC5nCx6f) | 2:34 |
+| 21 | [Vitória Dobrada](https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Mozin](https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Vitória Dobrada](https://open.spotify.com/album/68ZbRbgtvH2JBiqC5nCx6f) | 2:34 |
 | 22 | [Dolce](https://open.spotify.com/track/5pzkXOVH7FgEDu6RuqngQL) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Romano](https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6) | [INEFÁVEL](https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X) | 2:16 |
 | 23 | [Tiro no Escuro](https://open.spotify.com/track/3qiTn3yOHSPm2YKZILI4b9) | [G.AZINN](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Tiro no Escuro](https://open.spotify.com/album/2RmGn8Jvc2eOK7RO6Vn9g8) | 2:42 |
 | 24 | [X1](https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:08 |

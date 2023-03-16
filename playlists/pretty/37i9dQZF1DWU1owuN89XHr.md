@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,518 likes - 99 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,570 likes - 99 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 8 | [Yolanda](https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Yo Me Quedo](https://open.spotify.com/album/3tOrqsV4WmxXbI57j3RHvU) | 4:38 |
 | 9 | [A la Orilla de la Chimenea](https://open.spotify.com/track/6NQvRUIZZ2z5EUaFd9OloQ) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Fisica Y Quimica](https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC) | 4:08 |
 | 10 | [Me Hice Una Promesa](https://open.spotify.com/track/4Yv9a9mYYPI4MKELXF5BLd) | [Fato](https://open.spotify.com/artist/0U00G7l8bOOiI8NwNN8dqq) | [Mis Otros Yo](https://open.spotify.com/album/0k4rvGoxyV0esVswNRzL0j) | 3:59 |
-| 11 | [Antes](https://open.spotify.com/track/565MagsPGofHeTxiH678pW) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 3:40 |
+| 11 | [Brazos de Sol](https://open.spotify.com/track/60swUBt5uEqO1ix3kCQa7e) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Caín](https://open.spotify.com/album/2jgeDWVTL7oog1cn4QmWNM) | 3:50 |
 | 12 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 |
 | 13 | [Óleo de Mujer Con Sombrero](https://open.spotify.com/track/1w6mcMacExya7bvbElMuar) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 2:24 |
-| 14 | [Brazos de Sol](https://open.spotify.com/track/60swUBt5uEqO1ix3kCQa7e) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Caín](https://open.spotify.com/album/2jgeDWVTL7oog1cn4QmWNM) | 3:50 |
+| 14 | [Antes](https://open.spotify.com/track/565MagsPGofHeTxiH678pW) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 3:40 |
 | 15 | [Destino](https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Destino](https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g) | 3:25 |
 | 16 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 |
 | 17 | [Lo Niego Todo](https://open.spotify.com/track/6oV8HazS5rJB3jU3oPhYep) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Niego Todo](https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp) | 4:41 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 85 | [Para una Imaginaria María del Carmen](https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE) | [Noel Nicola](https://open.spotify.com/artist/5Moq2OEsJWSgfZgcqtNJzR), [Santiago Feliú](https://open.spotify.com/artist/31AxFspaes7Am7i1byB9ns) | [Colección Nos Queda Su Canción, Vol\. 8: Entre Otros](https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR) | 3:26 |
 | 86 | [Estás Aquí \(feat\. Tania Libertad & Armando Manzanero\)](https://open.spotify.com/track/7yFZQU08FsmAQl5iDOkr9i) | [Beatriz Gutiérrez Müller](https://open.spotify.com/artist/2GTKkzcRGQXRQJLDFmnfrt), [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT), [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Estás Aquí \(feat\. Tania Libertad & Armando Manzanero\)](https://open.spotify.com/album/6GhAIUmsWHKihwzCfo1c0U) | 3:26 |
 | 87 | [Todos los ojos te miran \(feat\. Chico Buarque\)](https://open.spotify.com/track/1sWWb3JaGaoHGYoAs6ZAgu) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 4:13 |
-| 88 | [La Flor Y El Abejorro](https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [La Flor Y El Abejorro](https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6) | 4:09 |
-| 89 | [Dentro de Mi](https://open.spotify.com/track/2qWT4vvbFcgsjWSmbMY4qX) | [Enrique Quezadas](https://open.spotify.com/artist/1MkyRRV3u7M1vb7LfkWiUP) | [Dentro de Mi](https://open.spotify.com/album/2j6jUidNIwLsbsZQVbf2Tw) | 4:55 |
+| 88 | [Dentro de Mi](https://open.spotify.com/track/2qWT4vvbFcgsjWSmbMY4qX) | [Enrique Quezadas](https://open.spotify.com/artist/1MkyRRV3u7M1vb7LfkWiUP) | [Dentro de Mi](https://open.spotify.com/album/2j6jUidNIwLsbsZQVbf2Tw) | 4:55 |
+| 89 | [La Flor Y El Abejorro](https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [La Flor Y El Abejorro](https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6) | 4:09 |
 | 90 | [Norte](https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo) | [Héctor Filio](https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj) | [Norte](https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk) | 4:40 |
 | 91 | [Su Nombre Es Pueblo](https://open.spotify.com/track/64MUU7LMzHHiPW39fKbq5D) | [Sara González](https://open.spotify.com/artist/7a3lOYCTYfMaiFmINk1V0R) | [Evolucion](https://open.spotify.com/album/69VTRNYmqgcKvHCZXvwkoW) | 4:41 |
 | 92 | [Sembrando Amor](https://open.spotify.com/track/1rtRqBUB5RnafVaRml1SP3) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Vagamundo](https://open.spotify.com/album/7DlAbZHP5l7efGJF97KfeS) | 4:30 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 98 | [Viene la Cosa](https://open.spotify.com/track/6ICAdGrduZHsR9ZIfx9CCw) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Viene la Cosa](https://open.spotify.com/album/6PREdFoN9vmyzU3CpdAts3) | 3:51 |
 | 99 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 |
 
-Snapshot ID: `MTY2MDg3NTIzOSwwMDAwMDAwMDRmYWZiNzAwOWZjNjAxNWJkYzQ0ZTVlYzM0Y2UwOGEz`
+Snapshot ID: `MTY2MDg3NTIzOSwwMDAwMDAwMGI5NGZiMzNmODU4YWViMWQ2ZTVkN2ViZGI5OTQxOTlm`

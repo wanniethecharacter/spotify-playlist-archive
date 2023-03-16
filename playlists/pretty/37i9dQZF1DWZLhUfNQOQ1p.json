@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230883,
+  "num_followers": 230895,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDBhNzNkMTEwOGRjMDg0MGYzMDAzOTIxYmRmN2ZmZGE4",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDQ3YWYyOTY1MGQ2NTFmYzg3YzRjM2JhZDkzNjg5ZWI0",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -135,18 +135,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "On The Rhode",
-        "url": "https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6"
+        "name": "Montrose Ave",
+        "url": "https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5"
       },
       "artists": [
         {
-          "name": "Milton Keys",
-          "url": "https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h"
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
         }
       ],
-      "duration_ms": 227681,
-      "name": "On The Rhode",
-      "url": "https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn"
+      "duration_ms": 173320,
+      "name": "Montrose Ave",
+      "url": "https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -167,18 +167,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Montrose Ave",
-        "url": "https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5"
+        "name": "On The Rhode",
+        "url": "https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6"
       },
       "artists": [
         {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+          "name": "Milton Keys",
+          "url": "https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h"
         }
       ],
-      "duration_ms": 173320,
-      "name": "Montrose Ave",
-      "url": "https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC"
+      "duration_ms": 227681,
+      "name": "On The Rhode",
+      "url": "https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -635,26 +635,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Love Me (Don't Worry)",
-        "url": "https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        },
-        {
-          "name": "Tullio",
-          "url": "https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Love Me (Don't Worry)",
-      "url": "https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 200590,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Love Me (Don't Worry)",
+        "url": "https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "Tullio",
+          "url": "https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Love Me (Don't Worry)",
+      "url": "https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -839,22 +839,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Purple Summer",
-        "url": "https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7"
-      },
-      "artists": [
-        {
-          "name": "Harvio",
-          "url": "https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx"
-        }
-      ],
-      "duration_ms": 232468,
-      "name": "Kiwi",
-      "url": "https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "One Last Time",
         "url": "https://open.spotify.com/album/4gXAEC2yDOCulIZd2myBCf"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 150014,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/7rGi9l1iyEE86wOaSnBRNE"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Purple Summer",
+        "url": "https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7"
+      },
+      "artists": [
+        {
+          "name": "Harvio",
+          "url": "https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx"
+        }
+      ],
+      "duration_ms": 232468,
+      "name": "Kiwi",
+      "url": "https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -939,38 +939,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI"
-      },
-      "artists": [
-        {
-          "name": "Julia Bergwall",
-          "url": "https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD"
-        }
-      ],
-      "duration_ms": 192472,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Esmeralda",
-        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
-      },
-      "artists": [
-        {
-          "name": "Samba Twins",
-          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
-        }
-      ],
-      "duration_ms": 234510,
-      "name": "Esmeralda",
-      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Sunrise To Sunset",
         "url": "https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd"
       },
@@ -991,6 +959,38 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
+      },
+      "artists": [
+        {
+          "name": "Samba Twins",
+          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
+        }
+      ],
+      "duration_ms": 234510,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI"
+      },
+      "artists": [
+        {
+          "name": "Julia Bergwall",
+          "url": "https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD"
+        }
+      ],
+      "duration_ms": 192472,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT"
       },
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Don't Speak",
-        "url": "https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD"
+        "name": "Fugue State",
+        "url": "https://open.spotify.com/album/6u4X16JVGz3WBj2x4t6rjg"
       },
       "artists": [
         {
-          "name": "PANG!",
-          "url": "https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3"
+          "name": "Maiwan",
+          "url": "https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9"
+      "duration_ms": 228055,
+      "name": "Trembling",
+      "url": "https://open.spotify.com/track/4lgaqqxbWLnc32Iy6gBjyd"
     }
   ],
   "unique_name": "Aperitivo Time",

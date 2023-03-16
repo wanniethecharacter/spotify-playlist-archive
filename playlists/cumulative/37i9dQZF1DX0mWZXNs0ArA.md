@@ -4,7 +4,7 @@
 
 > 150%
 
-176 songs - 7 hr 36 min
+177 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [KERAUNOS KILLER \- Speed Up](https://open.spotify.com/track/5eWhCWydXXHguwz33H7SA1) | [4WHEEL](https://open.spotify.com/artist/40Teyg4qSzR04DzHpPP0o6) | [KERAUNOS KILLER \(Speed Up\)](https://open.spotify.com/album/2Fo4LNB3FGC6D0efPS5P0R) | 1:20 | 2022-06-09 |  |
 | [Kill Bill \- Sped Up Version](https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill](https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7) | 2:17 | 2023-01-13 |  |
 | [Left and Right \(Charlie Puth\) \[feat\. Jung Kook of BTS\] \- Sped Up Version](https://open.spotify.com/track/4qY6XV17tyJdpAgo9JoCLA) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Left and Right \(Charlie Puth\) \[feat\. Jung Kook of BTS\] \[Sped Up Version\]](https://open.spotify.com/album/55rl4IbGHVR8AaT2j0FL5r) | 2:15 | 2022-07-18 | 2022-12-14 |
-| [Let Go \- Nightcore](https://open.spotify.com/track/7fSBFSmBydU310MCzCuwdu) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9) | [Let Go \(Sped Up\)](https://open.spotify.com/album/5Xqfm7qzUCzBX7UuuwbnW9) | 3:06 | 2023-02-16 |  |
+| [Let Go \- Nightcore](https://open.spotify.com/track/4zkvoh7CyWhE8Lzs99PzJl) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9) | [Let Go](https://open.spotify.com/album/5AuVW8ypGpOguNJ3KdyqD9) | 3:06 | 2023-02-16 |  |
+| [Let Go \- Nightcore](https://open.spotify.com/track/7fSBFSmBydU310MCzCuwdu) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9) | [Let Go \(Sped Up\)](https://open.spotify.com/album/5Xqfm7qzUCzBX7UuuwbnW9) | 3:06 | 2023-02-16 | 2023-03-16 |
 | [Lights \- Sped Up Version](https://open.spotify.com/track/4TZ2Ub8bZh4LTs06eANDXa) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Lights \(Sped Up Version\)](https://open.spotify.com/album/3UE88cPSfoh6NTK5xhBGtR) | 3:10 | 2022-07-01 |  |
 | [LIMBO \- Sped Up Version](https://open.spotify.com/track/1KV4uK3MAneG77PM2bJhqs) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [LIMBO \(Sped Up Version\)](https://open.spotify.com/album/5gKGT4zR71qZ5ylVvWjzNB) | 3:06 | 2023-02-24 |  |
 | [Line Without a Hook \- sped up](https://open.spotify.com/track/6IbdSpBOeQn8vRBsq1eGUQ) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:23 | 2022-12-16 | 2023-01-28 |

@@ -2007,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "I Was Not There",
+        "url": "https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O"
+      },
+      "artists": [
+        {
+          "name": "The Antlers",
+          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347963,
+      "name": "I Was Not There",
+      "url": "https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk"
+    },
+    {
+      "album": {
         "name": "Icicle",
         "url": "https://open.spotify.com/album/4LCWkPFhiOwI1JrIm7A3fc"
       },
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 140000,
       "name": "Leaves and Light",
       "url": "https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC"
@@ -4861,6 +4879,24 @@
     },
     {
       "album": {
+        "name": "The Grants",
+        "url": "https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295201,
+      "name": "The Grants",
+      "url": "https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze"
+    },
+    {
+      "album": {
         "name": "The moon, The dawn",
         "url": "https://open.spotify.com/album/0RcrfUSIfcG3qyCGawSd03"
       },
@@ -4956,7 +4992,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 189166,
       "name": "TO BE LOVED",
       "url": "https://open.spotify.com/track/2CUR2LpKhtKTa9RlDhVi2q"

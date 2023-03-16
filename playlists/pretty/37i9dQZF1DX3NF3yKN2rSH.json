@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53007,
+  "num_followers": 53005,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5OTQ1NCwwMDAwMDAwMDllMmQ5YWVkOTMwZWE1ZWY1N2ZhOTVhNzFiMGExZTky",
+  "snapshot_id": "MTY3NjY5OTQ1NCwwMDAwMDAwMGJiNDU1ZDY3ZDcxN2NmYjUzNDIyNDIzZTRlM2VjMDFl",
   "tracks": [
     {
       "added_at": "2023-02-18 05:50:54",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "One Lord, One Faith, One Baptism",
-        "url": "https://open.spotify.com/album/1zKoUbxaJwiHOUkWwPM3pb"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        },
-        {
-          "name": "Marvis Staples",
-          "url": "https://open.spotify.com/artist/2Mihm7BTA7LR57k8BVBehH"
-        }
-      ],
-      "duration_ms": 368333,
-      "name": "Oh Happy Day - Live at New Bethel Baptist Church, Detroit, MI - July 1987",
-      "url": "https://open.spotify.com/track/7xaEfxxPbV1GlxNpCoDA11"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
         "name": "Rock Of Ages (Live)",
         "url": "https://open.spotify.com/album/2ZVALp4oOugoRpRjLLAV7S"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 113013,
       "name": "The Blood Will Never Lose Its Power - Live",
       "url": "https://open.spotify.com/track/3Mzi4unhw86nn0zKPJe3Dl"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
+        "name": "One Lord, One Faith, One Baptism",
+        "url": "https://open.spotify.com/album/1zKoUbxaJwiHOUkWwPM3pb"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        },
+        {
+          "name": "Marvis Staples",
+          "url": "https://open.spotify.com/artist/2Mihm7BTA7LR57k8BVBehH"
+        }
+      ],
+      "duration_ms": 368333,
+      "name": "Oh Happy Day - Live at New Bethel Baptist Church, Detroit, MI - July 1987",
+      "url": "https://open.spotify.com/track/7xaEfxxPbV1GlxNpCoDA11"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
+        "name": "Declarations",
+        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "duration_ms": 373986,
+      "name": "Jesus I Love You",
+      "url": "https://open.spotify.com/track/09AmIgDsJsjWSKJHebJrZg"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
-        "name": "Declarations",
-        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
-        }
-      ],
-      "duration_ms": 373986,
-      "name": "Jesus I Love You",
-      "url": "https://open.spotify.com/track/09AmIgDsJsjWSKJHebJrZg"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t"
-      },
-      "artists": [
-        {
-          "name": "The Winans",
-          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
-        }
-      ],
-      "duration_ms": 297040,
-      "name": "Redeemed",
-      "url": "https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
         "name": "Introducing Perfected Praise",
         "url": "https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 371493,
       "name": "Worthy Is The Lamb Slain",
       "url": "https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t"
+      },
+      "artists": [
+        {
+          "name": "The Winans",
+          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
+        }
+      ],
+      "duration_ms": 297040,
+      "name": "Redeemed",
+      "url": "https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Classic Gold: We're Waiting",
-        "url": "https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt"
-      },
-      "artists": [
-        {
-          "name": "Sandra Crouch",
-          "url": "https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Nothing But the Blood v1.1",
-      "url": "https://open.spotify.com/track/7EozkjVGGgfKvsShP3p5vz"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
         "name": "He Lives",
         "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 457000,
       "name": "He Lives",
       "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
+        "name": "Classic Gold: We're Waiting",
+        "url": "https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt"
+      },
+      "artists": [
+        {
+          "name": "Sandra Crouch",
+          "url": "https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Nothing But the Blood v1.1",
+      "url": "https://open.spotify.com/track/7EozkjVGGgfKvsShP3p5vz"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Vickie Winans: Greatest Hits",
-        "url": "https://open.spotify.com/album/5tZW4VvxZM4hOX7YuDLwHI"
+        "name": "Motown Gospel: 20 Years/20 Hits",
+        "url": "https://open.spotify.com/album/368XwqLQDiFFC57FAKFKcG"
       },
       "artists": [
         {
-          "name": "Vickie Winans",
-          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
+          "name": "Darwin Hobbs",
+          "url": "https://open.spotify.com/artist/6zhrnjTFJFS6bWzFtRm7aH"
         }
       ],
-      "duration_ms": 421946,
-      "name": "Oh What Love",
-      "url": "https://open.spotify.com/track/0B4E7Hgzh4IESmZPgSaiLw"
+      "duration_ms": 245301,
+      "name": "Glorify Him",
+      "url": "https://open.spotify.com/track/4jDdPGYvKht4WP69F1DPlF"
     }
   ],
   "unique_name": "Easter Gospel",

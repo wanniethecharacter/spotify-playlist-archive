@@ -4189,6 +4189,24 @@
     },
     {
       "album": {
+        "name": "Fiume",
+        "url": "https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140124,
+      "name": "Fiume",
+      "url": "https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA"
+    },
+    {
+      "album": {
         "name": "Flashing lights",
         "url": "https://open.spotify.com/album/6fFieao3USpz413NdKe9Or"
       },
@@ -8630,7 +8648,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 215500,
       "name": "My Mind Made Up",
       "url": "https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO"
@@ -11330,7 +11348,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 201074,
       "name": "Seconda parte",
       "url": "https://open.spotify.com/track/7mHt21QVehLVUZxDAJC9qJ"
@@ -13566,7 +13584,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 145263,
       "name": "Tiny Ballerina",
       "url": "https://open.spotify.com/track/6VRfUvTQZGK8C3lkHwXJzl"

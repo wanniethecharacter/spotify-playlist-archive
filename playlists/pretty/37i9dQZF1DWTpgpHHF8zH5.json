@@ -1,12 +1,12 @@
 {
   "description": "Musica per sorridere, darti la carica e affrontare la giornata!",
-  "num_followers": 323480,
+  "num_followers": 323511,
   "original_name": "Operazione Buonumore!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU5NTc3MSwwMDAwMDAwMGY1M2Y3MmNkNTEyNWMwMDYyM2M4ZjBmNGFlYmJkOGE2",
+  "snapshot_id": "MTY3NzU5NTc3MSwwMDAwMDAwMDZmNGMwYWE2ZjkyY2JjYjE3OGI4M2ZkYTlhYWU5NWQx",
   "tracks": [
     {
       "added_at": "2023-02-17 14:22:04",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-02-17 14:22:04",
       "album": {
-        "name": "Don\u2019t Wake Me Up",
-        "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 188894,
-      "name": "Don\u2019t Wake Me Up",
-      "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
-    },
-    {
-      "added_at": "2023-02-17 14:22:04",
-      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/0kCeC3O3QGbCYDJGCGUIce"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 164490,
       "name": "Dive",
       "url": "https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd"
+    },
+    {
+      "added_at": "2023-02-17 14:22:04",
+      "album": {
+        "name": "Don\u2019t Wake Me Up",
+        "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 188894,
+      "name": "Don\u2019t Wake Me Up",
+      "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
     },
     {
       "added_at": "2023-02-17 14:22:04",
@@ -875,6 +875,26 @@
     {
       "added_at": "2023-02-17 14:22:04",
       "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v"
+    },
+    {
+      "added_at": "2023-02-17 14:22:04",
+      "album": {
         "name": "Cover Me In Sunshine",
         "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
       },
@@ -911,42 +931,18 @@
     {
       "added_at": "2023-02-17 14:22:04",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg"
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
       "artists": [
         {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v"
-    },
-    {
-      "added_at": "2023-02-17 14:22:04",
-      "album": {
-        "name": "Dancing Feet (feat. DNCE)",
-        "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 215203,
-      "name": "Dancing Feet (feat. DNCE)",
-      "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2023-02-17 14:22:04",
@@ -967,18 +963,22 @@
     {
       "added_at": "2023-02-17 14:22:04",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+        "name": "Dancing Feet (feat. DNCE)",
+        "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
         }
       ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+      "duration_ms": 215203,
+      "name": "Dancing Feet (feat. DNCE)",
+      "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
     },
     {
       "added_at": "2023-02-17 14:22:04",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-02-17 14:22:04",
       "album": {
-        "name": "Ghost of You",
-        "url": "https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI"
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
       },
       "artists": [
         {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
         }
       ],
-      "duration_ms": 158063,
-      "name": "Ghost of You",
-      "url": "https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh"
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2023-02-17 14:22:04",
@@ -1135,6 +1135,22 @@
       "duration_ms": 165600,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/2Zw2XPLkBPGGN9uZpZT2r0"
+    },
+    {
+      "added_at": "2023-02-17 14:22:04",
+      "album": {
+        "name": "What A Man Gotta Do",
+        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 180644,
+      "name": "What A Man Gotta Do",
+      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
     },
     {
       "added_at": "2023-02-17 14:22:04",
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2023-02-17 14:22:04",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
-    },
-    {
-      "added_at": "2023-02-17 14:22:04",
-      "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 141971,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
-    },
-    {
-      "added_at": "2023-02-17 14:22:04",
-      "album": {
-        "name": "What A Man Gotta Do",
-        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 180644,
-      "name": "What A Man Gotta Do",
-      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
     },
     {
       "added_at": "2023-02-17 14:22:04",
@@ -1243,22 +1227,6 @@
     {
       "added_at": "2023-02-17 14:22:04",
       "album": {
-        "name": "live. laugh. cry",
-        "url": "https://open.spotify.com/album/48qPWuZEfqbinvMRdfBKON"
-      },
-      "artists": [
-        {
-          "name": "Lenny",
-          "url": "https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "live. laugh. cry",
-      "url": "https://open.spotify.com/track/6f7mhbSq9pW2jzoVWgphh5"
-    },
-    {
-      "added_at": "2023-02-17 14:22:04",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -1271,6 +1239,22 @@
       "duration_ms": 251840,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "added_at": "2023-02-17 14:22:04",
+      "album": {
+        "name": "live. laugh. cry",
+        "url": "https://open.spotify.com/album/48qPWuZEfqbinvMRdfBKON"
+      },
+      "artists": [
+        {
+          "name": "Lenny",
+          "url": "https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "live. laugh. cry",
+      "url": "https://open.spotify.com/track/6f7mhbSq9pW2jzoVWgphh5"
     },
     {
       "added_at": "2023-02-17 14:22:04",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2023-02-17 14:22:04",
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 186514,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
+    },
+    {
+      "added_at": "2023-02-17 14:22:04",
+      "album": {
         "name": "For Broken Ears",
         "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-02-17 14:22:04",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
+        "name": "Ghost of You",
+        "url": "https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
         }
       ],
-      "duration_ms": 186514,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
+      "duration_ms": 158063,
+      "name": "Ghost of You",
+      "url": "https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh"
     },
     {
       "added_at": "2023-02-17 14:22:04",
@@ -1415,38 +1415,6 @@
     {
       "added_at": "2023-02-17 14:22:04",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 194275,
-      "name": "Dance All Over Me",
-      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
-    },
-    {
-      "added_at": "2023-02-17 14:22:04",
-      "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/7hFHwRgJchIyvc9M7n3C89"
-      },
-      "artists": [
-        {
-          "name": "H\u0113ir",
-          "url": "https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW"
-        }
-      ],
-      "duration_ms": 238165,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/3xRnqDj1IhwZhsnrjXPOKk"
-    },
-    {
-      "added_at": "2023-02-17 14:22:04",
-      "album": {
         "name": "Tick Tock (feat. 24kGoldn)",
         "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
       },
@@ -1471,22 +1439,34 @@
     {
       "added_at": "2023-02-17 14:22:04",
       "album": {
-        "name": "Lasting Lover",
-        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/7hFHwRgJchIyvc9M7n3C89"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "H\u0113ir",
+          "url": "https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW"
         }
       ],
-      "duration_ms": 218358,
-      "name": "Lasting Lover",
-      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
+      "duration_ms": 238165,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/3xRnqDj1IhwZhsnrjXPOKk"
+    },
+    {
+      "added_at": "2023-02-17 14:22:04",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 194275,
+      "name": "Dance All Over Me",
+      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
     },
     {
       "added_at": "2023-02-17 14:22:04",
@@ -1507,6 +1487,26 @@
     {
       "added_at": "2023-02-17 14:22:04",
       "album": {
+        "name": "Lasting Lover",
+        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 218358,
+      "name": "Lasting Lover",
+      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
+    },
+    {
+      "added_at": "2023-02-17 14:22:04",
+      "album": {
         "name": "Pretty Girl Era",
         "url": "https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 155571,
       "name": "Pretty Girl Era",
       "url": "https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM"
+    },
+    {
+      "added_at": "2023-02-17 14:22:04",
+      "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Almost (Sweet Music)",
+      "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
     },
     {
       "added_at": "2023-02-17 14:22:04",
@@ -1543,22 +1559,6 @@
       "duration_ms": 150560,
       "name": "I Just Called",
       "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"
-    },
-    {
-      "added_at": "2023-02-17 14:22:04",
-      "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Almost (Sweet Music)",
-      "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
     },
     {
       "added_at": "2023-02-17 14:22:04",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2023-02-17 14:22:04",
       "album": {
-        "name": "You for Me",
-        "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 175435,
-      "name": "You for Me",
-      "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
-    },
-    {
-      "added_at": "2023-02-17 14:22:04",
-      "album": {
         "name": "Sun Will Shine",
         "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
       },
@@ -1687,18 +1667,42 @@
     {
       "added_at": "2023-02-17 14:22:04",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+        "name": "You for Me",
+        "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 222044,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D"
+      "duration_ms": 175435,
+      "name": "You for Me",
+      "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
+    },
+    {
+      "added_at": "2023-03-16 01:06:07",
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "duration_ms": 139422,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
     }
   ],
   "unique_name": "Operazione Buonumore!",

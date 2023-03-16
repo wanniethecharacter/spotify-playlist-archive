@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-272 songs - 17 hr 0 min
+274 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Como Te Lo Digo](https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 2:32 | 2022-07-05 | 2022-07-29 |
 | [Como Una Novela](https://open.spotify.com/track/4KQ8pDFCIgWpT7TY1Uf8TN) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Íconos 25 Éxitos](https://open.spotify.com/album/1VGK7K0RrIVCoTvrtupb71) | 3:44 | 2022-07-05 | 2022-07-21 |
 | [Con la Misma Moneda](https://open.spotify.com/track/0ncWedWocNTyuIdoRyjNuR) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/3eXVFIPI0rkXYaLg68wwm7) | 4:26 | 2022-07-05 | 2022-07-29 |
-| [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 | 2022-08-12 |  |
+| [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 | 2022-08-12 | 2023-03-16 |
 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 | 2022-07-05 | 2022-07-23 |
 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 | 2022-07-05 |  |
 | [Cuando quieras](https://open.spotify.com/track/6lEk7bnyxoABOownxhgi6O) | [Guachupé](https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K) | [La triste realidad](https://open.spotify.com/album/4t80y5mnOIGldbjMqDxfrN) | 3:53 | 2022-07-05 | 2022-07-22 |
@@ -173,7 +173,7 @@
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/3mXLgWxNIbEFXWPppGjc6a) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No me Arrepiento de Este Amor](https://open.spotify.com/album/3Y572iPz6e7ddpowsAffn2) | 3:47 | 2022-07-05 | 2022-07-23 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 | 2023-02-10 |  |
 | [No Me Lo Creo](https://open.spotify.com/track/1y5ASkTQugJGPghwyJMEiS) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Como la Gente](https://open.spotify.com/album/4X0Zg0oFkXXqlbSqv4lCX4) | 4:45 | 2022-07-05 | 2022-07-29 |
-| [No Me Vuelvo A Enamorar](https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Con La Cumbia En La Sangre](https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp) | 2:51 | 2022-07-05 |  |
+| [No Me Vuelvo A Enamorar](https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Con La Cumbia En La Sangre](https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp) | 2:51 | 2022-07-05 | 2023-03-16 |
 | [No Podre Olvidarme](https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv) | 3:15 | 2022-09-09 |  |
 | [No Podré Olvidarte](https://open.spotify.com/track/4z6kdL1fD52SlRKNKZA1iX) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color de tu Corazón](https://open.spotify.com/album/1e5EdsdbKNMXUABtXSrD98) | 3:15 | 2022-07-05 | 2022-07-29 |
 | [No Se](https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [No Se](https://open.spotify.com/album/6NJlOO58BXDL9pDfc4kuqb) | 2:40 | 2022-07-05 |  |
@@ -189,6 +189,7 @@
 | [Ojos Azules](https://open.spotify.com/track/0IFkjFf4Sy9WrJGGx0fPcx) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM), [Mariano Martinez](https://open.spotify.com/artist/1CL1NnuyndaL52YgyPVL73) | [Ojos Azules](https://open.spotify.com/album/2xEDKkkxTCOOxpMBJDdtKf) | 3:20 | 2022-07-05 | 2022-07-20 |
 | [Olvidala \- Acústico](https://open.spotify.com/track/5SZ0c97z9IMsOK7DNRb0wU) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Olvidala \(Acústico\)](https://open.spotify.com/album/5OPH0yu43rBlCeSMiSSXLz) | 4:53 | 2022-07-05 | 2022-07-28 |
 | [Olvídala](https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Voló La Paloma/Un Toque Diferente](https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK) | 4:50 | 2022-07-05 | 2023-03-12 |
+| [Olvídala](https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Voló la Paloma](https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03) | 4:50 | 2023-02-10 |  |
 | [Onda Free](https://open.spotify.com/track/2bU0djUCBF7dQl9fbRVHTW) | [Los Verduleros](https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3) | [Greatest Hits](https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt) | 4:27 | 2022-07-05 | 2022-07-24 |
 | [Otra Como Tú](https://open.spotify.com/track/67ghG6n5zTVWoL77V37lCf) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 4:18 | 2022-07-05 | 2022-07-23 |
 | [Otra Noche](https://open.spotify.com/track/2nwHN5TM4OBdrwCUSx0wnE) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/2b4wYjErjhZ0U05XpOnsoC) | 3:18 | 2022-07-05 | 2022-07-29 |
@@ -253,6 +254,7 @@
 | [Tomando Alcohol](https://open.spotify.com/track/0Qs8MDrbTbf8nQERrBxl3U) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:19 | 2022-10-28 |  |
 | [Tonta](https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [25 Exitos Vol\. 1 \(USA\)](https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ) | 3:10 | 2022-07-05 |  |
 | [Tramposa Y Mentirosa](https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 3:32 | 2022-07-05 | 2023-03-13 |
+| [Tramposa y Mentirosa](https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 3:32 | 2023-02-10 |  |
 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren\. Llegó la Cumbia](https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA) | 3:46 | 2022-07-05 |  |
 | [Tusa](https://open.spotify.com/track/5BMaLGInRPhdskYN7jPm4e) | [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np) | [Tusa](https://open.spotify.com/album/7s6JReSxW4a4Cm6qcyJUTA) | 2:12 | 2022-07-05 | 2022-07-20 |
 | [Tú Eres La Razón \- Electrocumbia Remake](https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Tú Eres La Razón \(Electrocumbia Remake\)](https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w) | 3:15 | 2022-07-05 | 2022-07-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 24874,
+  "num_followers": 24895,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ1MzA1NCwwMDAwMDAwMGQ3NmYyMjJkMjVhM2MyOGQ4MTI5YmUzMDNkNzMyYTM0",
+  "snapshot_id": "MTY3ODQ1MzA1NCwwMDAwMDAwMDQ5NWFmZjE5MzM5NmU2ODU2ZTAwMDY3YmI4NTg2OWUx",
   "tracks": [
     {
       "added_at": "2023-03-03 08:19:37",
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
     },
     {
-      "added_at": "2023-03-15 01:08:29",
+      "added_at": "2023-03-16 01:47:59",
       "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/50Fnn6VgRmPXcCKKBFUxm0"
     },
     {
-      "added_at": "2023-03-15 01:08:29",
+      "added_at": "2023-03-16 01:47:59",
       "album": {
         "name": "Oluchi",
         "url": "https://open.spotify.com/album/391gOMyDsty5F8zBLjdTgb"
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-03-03 08:19:37",
       "album": {
-        "name": "Loaded",
-        "url": "https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155789,
-      "name": "Loaded",
-      "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
-    },
-    {
-      "added_at": "2023-03-03 08:19:37",
-      "album": {
         "name": "More Love, Less Ego",
         "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
       },
@@ -573,7 +553,27 @@
       "url": "https://open.spotify.com/track/0Z5HVNSXGXHf7MDb0zJHVW"
     },
     {
-      "added_at": "2023-03-15 01:08:29",
+      "added_at": "2023-03-03 08:19:37",
+      "album": {
+        "name": "Loaded",
+        "url": "https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "Loaded",
+      "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
+    },
+    {
+      "added_at": "2023-03-16 01:47:59",
       "album": {
         "name": "bo card (things i need)",
         "url": "https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY"
@@ -1039,6 +1039,42 @@
     {
       "added_at": "2023-03-03 08:19:37",
       "album": {
+        "name": "Big Flexa",
+        "url": "https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3"
+      },
+      "artists": [
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "C'buda M",
+          "url": "https://open.spotify.com/artist/3rdDFMUUzxsQODbgrY6mCf"
+        },
+        {
+          "name": "Alfa Kat",
+          "url": "https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup"
+        },
+        {
+          "name": "Banaba Des",
+          "url": "https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn"
+        },
+        {
+          "name": "Sdida",
+          "url": "https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB"
+        },
+        {
+          "name": "Man T",
+          "url": "https://open.spotify.com/artist/5syvopnKgETMISE53XS578"
+        }
+      ],
+      "duration_ms": 327079,
+      "name": "Big Flexa",
+      "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
+    },
+    {
+      "added_at": "2023-03-03 08:19:37",
+      "album": {
         "name": "Abracadabra (Remix)",
         "url": "https://open.spotify.com/album/6YMeH1rG1CtkXvv9zKI7f3"
       },
@@ -1083,38 +1119,18 @@
     {
       "added_at": "2023-03-03 08:19:37",
       "album": {
-        "name": "Big Flexa",
-        "url": "https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3"
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/2es5R7Gz861GtXSChRu6JG"
       },
       "artists": [
         {
-          "name": "Costa Titch",
-          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
-        },
-        {
-          "name": "C'buda M",
-          "url": "https://open.spotify.com/artist/3rdDFMUUzxsQODbgrY6mCf"
-        },
-        {
-          "name": "Alfa Kat",
-          "url": "https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup"
-        },
-        {
-          "name": "Banaba Des",
-          "url": "https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn"
-        },
-        {
-          "name": "Sdida",
-          "url": "https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB"
-        },
-        {
-          "name": "Man T",
-          "url": "https://open.spotify.com/artist/5syvopnKgETMISE53XS578"
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
         }
       ],
-      "duration_ms": 327079,
-      "name": "Big Flexa",
-      "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
+      "duration_ms": 162720,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/6ZZgjRB0CXBsKGxpJIXYFD"
     },
     {
       "added_at": "2023-03-03 08:19:37",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2023-03-03 08:19:37",
       "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/2es5R7Gz861GtXSChRu6JG"
-      },
-      "artists": [
-        {
-          "name": "Kel-P",
-          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
-        }
-      ],
-      "duration_ms": 162720,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/6ZZgjRB0CXBsKGxpJIXYFD"
-    },
-    {
-      "added_at": "2023-03-03 08:19:37",
-      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
       },
@@ -1167,30 +1167,6 @@
       "duration_ms": 143452,
       "name": "Personal",
       "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
-    },
-    {
-      "added_at": "2023-03-03 08:19:37",
-      "album": {
-        "name": "Patek",
-        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "DJ Tarico",
-          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
-        }
-      ],
-      "duration_ms": 218230,
-      "name": "Patek",
-      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
     },
     {
       "added_at": "2023-03-03 08:19:37",
@@ -1271,6 +1247,22 @@
     {
       "added_at": "2023-03-03 08:19:37",
       "album": {
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 206775,
+      "name": "Snapchat",
+      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
+    },
+    {
+      "added_at": "2023-03-03 08:19:37",
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"
       },
@@ -1291,18 +1283,26 @@
     {
       "added_at": "2023-03-03 08:19:37",
       "album": {
-        "name": "The Second Wave",
-        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
+        "name": "Patek",
+        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
         }
       ],
-      "duration_ms": 206775,
-      "name": "Snapchat",
-      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
+      "duration_ms": 218230,
+      "name": "Patek",
+      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
     },
     {
       "added_at": "2023-03-03 08:19:37",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-03-03 08:19:37",
       "album": {
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "added_at": "2023-03-03 08:19:37",
+      "album": {
         "name": "Champion Sound",
         "url": "https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 237876,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
-    },
-    {
-      "added_at": "2023-03-03 08:19:37",
-      "album": {
-        "name": "Legalize",
-        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Legalize",
-      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
     },
     {
       "added_at": "2023-03-03 08:19:37",

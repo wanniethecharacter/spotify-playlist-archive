@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,209 likes - 67 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,223 likes - 67 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 45 | [Elvira \(feat\. The Oak Ridge Boys\) \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/4XmLGH5lm3ofjbtZTI5dAm) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Spotify Singles](https://open.spotify.com/album/3G8anIKFdjaKHRGKUWESgY) | 3:33 |
 | 46 | [Any Ol' Barstool \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ANqk7eCLJ5FqjHiL1ln9e) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm) | 3:20 |
 | 47 | [Blue Tacoma](https://open.spotify.com/track/4lUOnbLKhGz4ugezX8oUjl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Spotify Singles](https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx) | 3:22 |
-| 48 | [Burn Out \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:04 |
-| 49 | [Miss Me More \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:13 |
+| 48 | [Miss Me More \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:13 |
+| 49 | [Burn Out \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:04 |
 | 50 | [Unforgettable \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/24VXXFM4abj8UwTNEIIL8L) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 2:38 |
 | 51 | [Green Eyes \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:38 |
 | 52 | [Better Place \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/61YvXZaJ3r5P0ZLSmSjQjU) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:15 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 66 | [Shitty Golfer \(Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/track/3moAWjoAN1vphfLnoBHdsO) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Spotify Singles](https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM) | 2:14 |
 | 67 | [Long Live Love \- Recorded at Spotify Studios Nyc](https://open.spotify.com/track/3vVhMYRIZmeuPyhIsd1up8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Spotify Singles](https://open.spotify.com/album/6d9KkEhEx8QsRmJ1zlOHMn) | 3:17 |
 
-Snapshot ID: `MTY3MzQ3NzEwMCwwMDAwMDAwMGM4N2M3NjYxNzg1NjNhNTRiZDcxZWI5ODRmYjIyNjcx`
+Snapshot ID: `MTY3MzQ3NzEwMCwwMDAwMDAwMGU2YWNiZTUxOTViZWY5YzE0NmRiZmFhMGM1NDFmZGY2`

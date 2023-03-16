@@ -784,7 +784,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 266760,
       "name": "Con la Misma Moneda",
       "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
@@ -3154,7 +3154,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 171333,
       "name": "No Me Vuelvo A Enamorar",
       "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
@@ -3456,6 +3456,24 @@
       "duration_ms": 290120,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd"
+    },
+    {
+      "album": {
+        "name": "Vol\u00f3 la Paloma",
+        "url": "https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290120,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW"
     },
     {
       "album": {
@@ -4656,6 +4674,24 @@
       "duration_ms": 212400,
       "name": "Tramposa Y Mentirosa",
       "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
+    },
+    {
+      "album": {
+        "name": "Un Homenaje al Cielo",
+        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212533,
+      "name": "Tramposa y Mentirosa",
+      "url": "https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf"
     },
     {
       "album": {

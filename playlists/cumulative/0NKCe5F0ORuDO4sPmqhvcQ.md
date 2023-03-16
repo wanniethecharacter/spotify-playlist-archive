@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-414 songs - 23 hr 13 min
+417 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [I'm a Moth!!](https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [I'm a Moth!!](https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a) | 2:06 | 2022-02-15 | 2022-03-31 |
 | [I'm With The DJ](https://open.spotify.com/track/6glWuI8u4DdoIkNIwhyk2N) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [I'm With The DJ](https://open.spotify.com/album/4QjPl6fliUZnwvGsWuMnXb) | 3:32 | 2022-07-28 | 2022-11-12 |
 | [icarus](https://open.spotify.com/track/5L1eW2bt7pDbjhNLKWKom2) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 1:56 | 2022-01-31 | 2022-03-31 |
+| [In My Room \(feat\. SHELLS\)](https://open.spotify.com/track/1P5MpILPf5pgEmsZzqEVoy) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [In My Room \(feat\. SHELLS\)](https://open.spotify.com/album/7E4VRFdU8aKvZ7qVY8ekrM) | 2:25 | 2023-03-15 |  |
 | [In Your Eyes](https://open.spotify.com/track/4LZtJRxcce5RPdSNmfa9AT) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [In Your Eyes](https://open.spotify.com/album/0O24SqzRbDIS8W4xqwHrG4) | 3:12 | 2022-06-25 | 2022-07-16 |
 | [IN YOUR EYES 「瞳の中で」](https://open.spotify.com/track/1VviocEvd6zv4xudscXgcj) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC), [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [CAGE SCRIPT](https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx) | 4:15 | 2022-12-10 | 2023-01-30 |
 | [Incorrect](https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill EP](https://open.spotify.com/album/4kvK5arUig0hxgylXxdKR8) | 2:54 | 2022-03-11 | 2022-03-31 |
@@ -210,6 +211,7 @@
 | [Kiss Me Like I'm Drowning](https://open.spotify.com/track/73TbW1t3SnlbFGTX12ISrx) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Kiss Me Like I'm Drowning](https://open.spotify.com/album/31CUujJDdh2LSbFcyKA93w) | 3:42 | 2022-06-24 | 2023-01-20 |
 | [Kissing Other Boys](https://open.spotify.com/track/35Z1Hr2141V2DLUNtXY3mv) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Kissing Other Boys](https://open.spotify.com/album/5Cj01td2Mh5mgkKNMUXVcP) | 3:03 | 2022-01-18 | 2022-02-05 |
 | [Left Behind](https://open.spotify.com/track/3NQOEIsyMlYGgy0i1pbxlL) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Left Behind](https://open.spotify.com/album/3ahJz8yBkI9eUcKun7MDel) | 4:24 | 2022-09-16 |  |
+| [LEFT TO RIGHT \- JADED Remix](https://open.spotify.com/track/6SejpzU5kr4Jlw2iZyBRwq) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [LEFT TO RIGHT \(JADED Remix\)](https://open.spotify.com/album/0o1mk3UOSifeAFi46JdHL6) | 2:56 | 2023-03-15 |  |
 | [Lest I Forget](https://open.spotify.com/track/36TSK3QjHHJOcjMEFdtTqw) | [Simon Cress](https://open.spotify.com/artist/1bI3fRB0jBmdtVI5yxUqW1) | [Bloom](https://open.spotify.com/album/6mclW6BfNuFLYWsPceVL3t) | 4:32 | 2021-08-27 | 2022-01-08 |
 | [Let Go](https://open.spotify.com/track/4oZnV1W54b1TIn96i0KIwV) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Let Go](https://open.spotify.com/album/2itVxfPOWQrHr2X27J4ZhG) | 2:06 | 2022-11-03 |  |
 | [Let You Go](https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Go](https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ) | 3:21 | 2022-12-06 | 2023-01-30 |
@@ -418,6 +420,7 @@
 | [Worth My Time](https://open.spotify.com/track/2HBtlBkPLCvb35jcmuTUZF) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Clearer Now EP](https://open.spotify.com/album/62jgddV1RnTux5oI7uzuSU) | 4:20 | 2022-03-11 | 2022-03-31 |
 | [You](https://open.spotify.com/track/2jn2xXESbqEL8HAfNN9VH8) | [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh) | [You Stay High](https://open.spotify.com/album/7nB5MqLrLkwjmf8fhfmcAN) | 2:48 | 2023-02-23 |  |
 | [You](https://open.spotify.com/track/7mGMjDKyFiEvBReptdRyeG) | [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh) | [You](https://open.spotify.com/album/5QQq7rHmsOgNnFvWYpslmW) | 2:48 | 2023-01-12 | 2023-01-30 |
+| [YOU AND ME](https://open.spotify.com/track/1VyRpTEE3InYTwUGcjsHJm) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [YOU AND ME](https://open.spotify.com/album/1ltwxGR8bbmlFMprZmF9pH) | 3:40 | 2023-03-15 |  |
 | [Younger \- BARDZ Remix](https://open.spotify.com/track/4RkEXZ8eXEYHzoGuZIOohL) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab), [BARDZ](https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk) | [Younger \(The Remixes\)](https://open.spotify.com/album/2R5F1MQ1GZk1GFUHB3mLVI) | 3:22 | 2021-12-01 | 2022-02-05 |
 | [Younger \- Blookah Remix](https://open.spotify.com/track/5bROtKOIFUxZkma5LeFbXa) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab), [Blookah](https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR) | [Younger \(The Remixes\)](https://open.spotify.com/album/2R5F1MQ1GZk1GFUHB3mLVI) | 3:15 | 2021-12-01 | 2022-02-05 |
 | [Younger \- Hahlweg Remix](https://open.spotify.com/track/4V5rzxrs7YZgcayPycwUto) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab), [Hahlweg](https://open.spotify.com/artist/6rTFfPwNNFIpBOdBShd47e) | [Younger \(The Remixes\)](https://open.spotify.com/album/2R5F1MQ1GZk1GFUHB3mLVI) | 4:19 | 2021-12-01 | 2022-02-05 |

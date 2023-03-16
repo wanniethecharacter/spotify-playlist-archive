@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,855 likes - 86 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,964 likes - 86 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 48 | [Mirage](https://open.spotify.com/track/5ZaN7x40jUmJlTWQVgnzSs) | [Chilo Escobedo](https://open.spotify.com/artist/6wzFcjyElCAGACqdXiBwlx) | [Su Vos Y Sus Canciones](https://open.spotify.com/album/1p5W2mXrX033Bms0H5Jy3f) | 2:38 |
 | 49 | [Unwind Yourself](https://open.spotify.com/track/0h7pMUK2EKEj7E4gGvhDO5) | [Marva Whitney](https://open.spotify.com/artist/691nF1fI0SKCfsIypzFr7h) | [It's My Thing](https://open.spotify.com/album/5DRDGz9y5gyLgd0S8gI0aO) | 2:50 |
 | 50 | [I Was Made For Lovin' You](https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:31 |
-| 51 | [Major Tom \- Coming Home](https://open.spotify.com/track/709ffFK4o4MtG1NKoLvOma) | [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [The Different Story \(World Of Lust And Crime\)](https://open.spotify.com/album/4YHQCvzRhFPYki87AK5Pdg) | 5:01 |
+| 51 | [Major Tom \(Coming Home\)](https://open.spotify.com/track/709ffFK4o4MtG1NKoLvOma) | [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [The Different Story \(World Of Lust And Crime\)](https://open.spotify.com/album/4YHQCvzRhFPYki87AK5Pdg) | 5:01 |
 | 52 | [He Can't Love You](https://open.spotify.com/track/1ieNiEe17fvlHnqalSoKZB) | [Joe Hunter](https://open.spotify.com/artist/2pSgCWyN14Fl8zfCybIbkr), [Four Holidays](https://open.spotify.com/artist/0W87O5rwe9qdB7k3LieHgZ) | [The Hawk](https://open.spotify.com/album/6t08qdgCTaJV5CfUsTIuS4) | 2:15 |
 | 53 | [Twistin' the Night Away](https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away](https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY) | 2:39 |
 | 54 | [Bad Guy](https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Bad Guy](https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx) | 2:37 |

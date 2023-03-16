@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? Cover: CRAVITY\(크래비티\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? Cover: XODIAC \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-418 songs - 23 hr 42 min
+420 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [BUT YOU](https://open.spotify.com/track/7IqYkjcFnqKPmwg6lWxXYv) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm) | 3:32 | 2022-07-27 | 2022-08-19 |
 | [BYE BYE BYE](https://open.spotify.com/track/69Nn4yZnYo1nw4mfQvNbfU) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [IDENTITY : Action](https://open.spotify.com/album/7nvcGJpVJBTOtYKGTEtCmr) | 3:25 | 2022-01-17 | 2022-07-12 |
 | [Call My Name](https://open.spotify.com/track/4oiItSewsjWXE8uDFYMAua) | [BLACK6IX](https://open.spotify.com/artist/5W5dowztOO3kw9A5zpyjOO) | [Nice To Meet You](https://open.spotify.com/album/2CISWZe4O7VeAyGCIbyh12) | 3:16 | 2022-03-22 | 2022-04-17 |
+| [CALLING](https://open.spotify.com/track/5NibycDD14103N4SpuTSe6) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [CALLING](https://open.spotify.com/album/5iDRA7S5w068WynMraKeL5) | 3:17 | 2023-03-15 |  |
 | [Can't You See Me?](https://open.spotify.com/track/2qI0Uchpdc2RkzuhbRnnZ8) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora) | 3:21 | 2021-12-08 | 2022-07-15 |
 | [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 | 2022-12-21 |  |
 | [Candy Sugar Pop](https://open.spotify.com/track/767gRjedAWnbUer6ARRS8d) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Drive to the Starry Road](https://open.spotify.com/album/5yFMVUSwNR0qAtEW78nDj0) | 2:49 | 2022-05-17 | 2022-06-09 |
@@ -305,7 +306,7 @@
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-01-26 |  |
 | [Popping](https://open.spotify.com/track/4QZKSPPgyfNLR9UkMx0158) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SUMMER POPUP ALBUM \[POPPING\]](https://open.spotify.com/album/0JRycz0jI4Rh02dRl6aGF6) | 3:24 | 2022-04-04 | 2022-04-07 |
 | [Punch](https://open.spotify.com/track/7LXW05QcQi9ri7ZBYqGhPJ) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round – The 2nd Album Repackage](https://open.spotify.com/album/0DPNn9SKfwd7rJiiJFLwee) | 3:24 | 2022-03-22 | 2022-04-07 |
-| [Puzzle](https://open.spotify.com/track/5QYXBAiagfRIwzlouAnJXQ) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE PIECE OF9](https://open.spotify.com/album/5SPtURpxbD8ZCIKRpjQWpo) | 3:36 | 2023-01-09 |  |
+| [Puzzle](https://open.spotify.com/track/5QYXBAiagfRIwzlouAnJXQ) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE PIECE OF9](https://open.spotify.com/album/5SPtURpxbD8ZCIKRpjQWpo) | 3:36 | 2023-01-09 | 2023-03-16 |
 | [Ra Pam Pam](https://open.spotify.com/track/7aJSEhH3kzrcr4g0uGXUC7) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [Golden Child 2nd Album \[Game Changer\]](https://open.spotify.com/album/4PTy3b8H1Blt625KhFa9QU) | 3:31 | 2022-03-30 | 2022-07-28 |
 | [Rain To Be](https://open.spotify.com/track/3JUy6uHdxEGf5cqk7IxDrE) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Planet Nine : Alter Ego](https://open.spotify.com/album/4vGyxBRf0DK6Jhq0DyL87O) | 3:15 | 2022-01-27 | 2022-06-21 |
 | [RE=LOAD](https://open.spotify.com/track/7xbF0zvvjJ4oT4HvcYi85k) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [JUST BEGUN](https://open.spotify.com/album/0uF2qZ5B62L4ZlfLkAXhd1) | 3:18 | 2022-04-15 | 2022-05-12 |
@@ -322,6 +323,7 @@
 | [ROAR](https://open.spotify.com/track/7yP9oxhtOozkCptLHJoq3l) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 8th MINI ALBUM \[BE AWAKE\]](https://open.spotify.com/album/1rxSHvDHLjLdz7x8G4Ssy5) | 3:40 | 2023-02-20 |  |
 | [Rock Paper Scissors](https://open.spotify.com/track/2CBxNlZM8H88AKLDQPX07q) | [M.O.N.T](https://open.spotify.com/artist/205HvlOEb4EZFrBHXv8kLZ) | [AWESOME UP!](https://open.spotify.com/album/0I9uhsE8bSIEU3Jf2PeDDP) | 3:10 | 2022-03-22 | 2022-04-14 |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-08 |  |
+| [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 | 2023-03-15 |  |
 | [RPM](https://open.spotify.com/track/7b8ZfUQRsc5ebULhUgCyck) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [RPM](https://open.spotify.com/album/3QljHmM1wr3KJ4fLEWFOHx) | 3:21 | 2022-03-22 | 2022-04-08 |
 | [Run Away](https://open.spotify.com/track/4ex5C1JRiY8mVyXCr4ei5T) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [DEAR\. N9NE](https://open.spotify.com/album/3mCKknvSxoGVEv3cE4iqwy) | 3:08 | 2022-03-30 | 2022-04-17 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-10 |  |
@@ -336,7 +338,7 @@
 | [seOul drift](https://open.spotify.com/track/5NX9t5Oe3Cqywu1Gwq6OmJ) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [seOul cOllectiOn](https://open.spotify.com/album/5eeMvNkW3nD4gbWLuDQGk5) | 3:21 | 2023-03-03 | 2023-03-07 |
 | [Shangri\-La](https://open.spotify.com/track/5VPPpHQRRGXGhQpYZvj0rD) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [Eau De Vixx](https://open.spotify.com/album/3NdoYD1cAxSr6cjh99yrGz) | 3:22 | 2022-01-17 | 2022-04-16 |
 | [SHE BAD](https://open.spotify.com/track/7k1YG4KliiXCVawNyvwT7X) | [MYTEEN](https://open.spotify.com/artist/0Jy5VMwm7X25fOaYh0PyXK) | [F;UZZLE](https://open.spotify.com/album/65Bt7vUBjsEpWv11eNMol5) | 3:27 | 2022-03-31 | 2022-04-20 |
-| [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 | 2022-01-03 |  |
+| [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 | 2022-01-03 | 2023-03-16 |
 | [Shoot Me](https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 2:55 | 2021-12-08 | 2022-06-07 |
 | [Shoot Out](https://open.spotify.com/track/55Md5fnLfCpXzUATASy6Rk) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.1 Are You There?](https://open.spotify.com/album/1mJf2cC6TfClR8cICGZP7I) | 3:27 | 2022-03-22 | 2022-03-30 |
 | [SHOWTIME](https://open.spotify.com/track/4Be93e6twHWrwOyEN5b2P4) | [SPECTRUM](https://open.spotify.com/artist/738AtLtkMcNmQrk64Pxl7Q) | [0325](https://open.spotify.com/album/4PY1YdBuIRARRLkXj2V6xQ) | 3:25 | 2022-03-22 | 2022-03-31 |

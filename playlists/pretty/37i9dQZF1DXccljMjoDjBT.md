@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s\. Cover: REO Speedwagon
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,959 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,232 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 55 | [Lonely Is the Night](https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Hearts In Motion](https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J) | 4:09 |
 | 56 | [Toy Soldiers](https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx) | [Martika](https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k) | [Martika \(Expanded Edition\)](https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy) | 4:47 |
 | 57 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
-| 58 | [Sara](https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:52 |
-| 59 | [Hard Habit to Break \- 2006 Remaster](https://open.spotify.com/track/3Tows9RnoAq9CmMJaII2cO) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded & Remastered\)](https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR) | 4:43 |
+| 58 | [Hard Habit to Break \- 2006 Remaster](https://open.spotify.com/track/3Tows9RnoAq9CmMJaII2cO) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded & Remastered\)](https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR) | 4:43 |
+| 59 | [Sara](https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:52 |
 | 60 | [New York Minute](https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 6:35 |
 | 61 | [Althea \- 2013 Remaster](https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Go to Heaven](https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT) | 6:52 |
 | 62 | [In My Dreams](https://open.spotify.com/track/5ZeKZBB57EnctaXih6hJvE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Life As We Know It](https://open.spotify.com/album/5Yd9XNS5qG8edw1eBNHdok) | 4:30 |
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 67 | [Kyrie](https://open.spotify.com/track/5K3Q1gue9nWLLwh6bYQFoB) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [Welcome To The Real World](https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl) | 4:25 |
 | 68 | [The Heart Of The Matter](https://open.spotify.com/track/7jZ4UZAmg006Qx3rVuF7JI) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 5:22 |
 | 69 | [I've Been In Love Before](https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 5:08 |
-| 70 | [Leather and Lace \- 2016 Remaster](https://open.spotify.com/track/7kXM2obnaUVl014k00cdhF) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 3:45 |
-| 71 | [A Face In The Crowd](https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 3:59 |
+| 70 | [A Face In The Crowd](https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 3:59 |
+| 71 | [Leather and Lace \- 2016 Remaster](https://open.spotify.com/track/7kXM2obnaUVl014k00cdhF) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 3:45 |
 | 72 | [The Living Years](https://open.spotify.com/track/7tJnjRY2js0yXtNUWE4fgF) | [Mike + The Mechanics](https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD) | [Living Years](https://open.spotify.com/album/0d8h3wYNXHFKVeIedrehrs) | 5:30 |
 | 73 | [Angelia](https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 5:17 |
-| 74 | [The Best Of Times](https://open.spotify.com/track/7GRUpcvSQM9HrnC2CjYPG4) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Paradise Theatre](https://open.spotify.com/album/6PhLTeuN0G894bdSBTCwUF) | 4:17 |
-| 75 | [Shame On The Moon](https://open.spotify.com/track/1Gxaks4MTbjMCAQ20rx4Iy) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [The Distance](https://open.spotify.com/album/0uaavZx8ako3Kb6GFpb1G1) | 4:55 |
+| 74 | [Shame On The Moon](https://open.spotify.com/track/1Gxaks4MTbjMCAQ20rx4Iy) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [The Distance](https://open.spotify.com/album/0uaavZx8ako3Kb6GFpb1G1) | 4:55 |
+| 75 | [The Best Of Times](https://open.spotify.com/track/7GRUpcvSQM9HrnC2CjYPG4) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Paradise Theatre](https://open.spotify.com/album/6PhLTeuN0G894bdSBTCwUF) | 4:17 |
 | 76 | [Romeo and Juliet](https://open.spotify.com/track/57MflfPN3ObQQAQtPUp0WF) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Making Movies](https://open.spotify.com/album/7yTjsInNdNQJAlXAboi1nh) | 6:01 |
 | 77 | [Key Largo](https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD) | [Bertie Higgins](https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq) | [The Essential Playlist](https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq) | 3:18 |
 | 78 | [Will You Still Love Me? \- Alternate](https://open.spotify.com/track/0Wv3aY6gApoT3oKBYIqvXb) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 18 \(Expanded Edition\)](https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE) | 4:13 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 80 | [You Belong To The City](https://open.spotify.com/track/0b8eSsBka9epA2J0wnPMax) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [Above The Clouds \- The Collection \(Deluxe\)](https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ) | 5:52 |
 | 81 | [Hold On To The Nights](https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Richard Marx](https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ) | 5:16 |
 | 82 | [99](https://open.spotify.com/track/2R3E4xKmy7lyieBKONkIMT) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Hydra](https://open.spotify.com/album/3dPZH0a4kjtjq6Hm53BS9S) | 5:16 |
-| 83 | [No More Lonely Nights \(Ballad\) \- Remastered 1993](https://open.spotify.com/track/3CCBwpqjdar1PG6HHulmD0) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Give My Regards To Broad Street](https://open.spotify.com/album/2AtvtW3U8dv9C61S88M2w8) | 5:12 |
-| 84 | [Love Song](https://open.spotify.com/track/73jxc8OqPUqXEzsRnCgw8M) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Time's Makin' Changes: The Best Of Tesla](https://open.spotify.com/album/2FJ0CYfIvogvi1gV6dH8Gl) | 5:21 |
-| 85 | [Like A Rock](https://open.spotify.com/track/5Jno63iv0mzu5OZ28asYbE) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Like A Rock](https://open.spotify.com/album/5zkrBl6rudGLk8YhscRbjl) | 5:55 |
+| 83 | [Like A Rock](https://open.spotify.com/track/5Jno63iv0mzu5OZ28asYbE) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Like A Rock](https://open.spotify.com/album/5zkrBl6rudGLk8YhscRbjl) | 5:55 |
+| 84 | [No More Lonely Nights \(Ballad\) \- Remastered 1993](https://open.spotify.com/track/3CCBwpqjdar1PG6HHulmD0) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Give My Regards To Broad Street](https://open.spotify.com/album/2AtvtW3U8dv9C61S88M2w8) | 5:12 |
+| 85 | [Love Song](https://open.spotify.com/track/73jxc8OqPUqXEzsRnCgw8M) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Time's Makin' Changes: The Best Of Tesla](https://open.spotify.com/album/2FJ0CYfIvogvi1gV6dH8Gl) | 5:21 |
 | 86 | [All I Need Is a Miracle](https://open.spotify.com/track/1VKXBgsRK7lWDSVbfANlf3) | [Mike + The Mechanics](https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD) | [Mike + The Mechanics](https://open.spotify.com/album/7pXUIU9n8JXEbQS95sodGr) | 4:12 |
 | 87 | [Sister Christian](https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Boogie Nights / Music From The Original Motion Picture](https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U) | 5:00 |
 | 88 | [In Too Deep \- 2007 Remaster](https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 5:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 99 | [Don't Want To Wait Anymore](https://open.spotify.com/track/5rJTpBaGWvTaszsNDpAsG5) | [The Tubes](https://open.spotify.com/artist/7zfhej6FnVXN9LIXs6dcoK) | [The Completion Backward Principle](https://open.spotify.com/album/3YVb9ns1i0WdzF1cdnLYWi) | 4:18 |
 | 100 | [I Should Have Known Better](https://open.spotify.com/track/06Q8OSgrnDx0NNDf0oeOtd) | [Jim Diamond](https://open.spotify.com/artist/4MC3knlcFjcW7nt2hdn4Dk) | [The Best 80s Love Songs Album In The World...Ever!](https://open.spotify.com/album/7zNZ7yIrl8riW5m4FXiedC) | 3:38 |
 
-Snapshot ID: `MTY3NDA4MDMyNCwwMDAwMDAwMDJmMTg5YmRjN2UzODFiNTZkNjEyMGYzNGE4NGI5MTQ3`
+Snapshot ID: `MTY3NDA4MDMyNCwwMDAwMDAwMDg1MWEzNzQ3MjJmNjkxZjg4Zjg4NzNjMDc4YTIwNDc4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,078 likes - 132 songs - 7 hr 37 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,074 likes - 135 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,5 +140,8 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 130 | [Falling In Love](https://open.spotify.com/track/1qkGT5wBhfWwbbHtkm2GMZ) | [Modapit](https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb) | [Falling In Love](https://open.spotify.com/album/4RM7dK7ScgLW1UG1k8kInQ) | 3:25 |
 | 131 | [Capsize \(feat\. Sarah de Warren\)](https://open.spotify.com/track/6FxILeOa0DIDHq5oD05zpI) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [HER](https://open.spotify.com/album/00YaZIXwhtyUVAQW1XSNZH) | 2:53 |
 | 132 | [Embrace Chaos](https://open.spotify.com/track/5Zt8IFYVXIR9KkRtZBXL10) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [The Valentine Effect](https://open.spotify.com/album/2emMBLs21dHIsQzGTt85Vk) | 2:35 |
+| 133 | [LEFT TO RIGHT \- JADED Remix](https://open.spotify.com/track/6SejpzU5kr4Jlw2iZyBRwq) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [LEFT TO RIGHT \(JADED Remix\)](https://open.spotify.com/album/0o1mk3UOSifeAFi46JdHL6) | 2:56 |
+| 134 | [YOU AND ME](https://open.spotify.com/track/1VyRpTEE3InYTwUGcjsHJm) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [YOU AND ME](https://open.spotify.com/album/1ltwxGR8bbmlFMprZmF9pH) | 3:40 |
+| 135 | [In My Room \(feat\. SHELLS\)](https://open.spotify.com/track/1P5MpILPf5pgEmsZzqEVoy) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [In My Room \(feat\. SHELLS\)](https://open.spotify.com/album/7E4VRFdU8aKvZ7qVY8ekrM) | 2:25 |
 
-Snapshot ID: `MTAyNDIsOGFhOTQwZTVhYjY3YTVhYjMzZTFiZDNmZjNhMWE2YWNkZTdlMmMzMg==`
+Snapshot ID: `MTAyNDUsMTJjMWVjNmU4OTIzNGVhY2MxZTI5Y2ZhMWNlNTA5NjdhZjgzOTlkNg==`

@@ -4,14 +4,15 @@
 
 > Emerging Chicago\-based producer & DJ <a href="spotify:artist:184mGxeseZkY2w05Nr4Tui">kryptogram</a> shares his impressive cratedigging skills in his mix.
 
-19 songs - 1 hr 4 min
+20 songs - 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Afro Galactic Jazz \- Mixed](https://open.spotify.com/track/6XOGd4OZv8sXZeKJ4n5Evs) | [Soul Groove \(UK\)](https://open.spotify.com/artist/1gzS3GxhP1GtkceSAwPhmU) | [Afro Galactic Jazz \(Mixed\)](https://open.spotify.com/album/3OBaTzjBcwmQqlB7hR9jsF) | 2:58 | 2022-08-10 |  |
 | [algorhythm \- Mixed](https://open.spotify.com/track/2bFbSBcvR1ycedaP3FLVzi) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [algorhythm \(Mixed\)](https://open.spotify.com/album/0geGcpnYYkNCDqXqWsHeeN) | 3:39 | 2022-08-10 |  |
-| [All I Want \- Edit](https://open.spotify.com/track/2OW3gzlWWNloHuFSXV9xWH) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Keep On Swindling Pt\. 1](https://open.spotify.com/album/1rHuPlFH9A5f1NPgQc6o3Y) | 3:56 | 2022-08-10 |  |
+| [All I Want \- Edit](https://open.spotify.com/track/2OW3gzlWWNloHuFSXV9xWH) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Keep On Swindling Pt\. 1](https://open.spotify.com/album/1rHuPlFH9A5f1NPgQc6o3Y) | 3:56 | 2022-08-10 | 2023-03-16 |
 | [All I Want \- Edit \- Mixed](https://open.spotify.com/track/4bo7RLjvC09maS5O1J8stg) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [All I Want \- Edit \(Mixed\)](https://open.spotify.com/album/3Bv124T2V6OFgvcjQ83MyS) | 4:05 | 2022-08-10 | 2023-03-15 |
+| [All I Want \- Edit \- Mixed](https://open.spotify.com/track/57wUyIzHQlBgvoMpdKxegh) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [All I Want \- Edit \(Mixed\)](https://open.spotify.com/album/0QL1lXLXS0nD9SBJfpzRo9) | 4:05 | 2023-03-15 |  |
 | [Deep Moods \- Original Mix \- Mixed](https://open.spotify.com/track/3Mx7V6TNN6GyfukoEUqquJ) | [Gregory Dub](https://open.spotify.com/artist/08mR64360nL2ckNJVkrHQp) | [Deep Moods \- Original Mix \(Mixed\)](https://open.spotify.com/album/3kSg9J3l1OyBikGPMO9fPG) | 2:03 | 2022-08-10 |  |
 | [Drums \- Mixed](https://open.spotify.com/track/55ayPw4UKzGxXatsYou0sM) | [Daniel Leseman](https://open.spotify.com/artist/4WZShqApYAzPMveH0q8uwM) | [Drums \(Mixed\)](https://open.spotify.com/album/3OQu66vRV11YBNJmM0joRz) | 4:39 | 2022-08-10 |  |
 | [Feels \- LK Remix \- Mixed](https://open.spotify.com/track/7suDoCQ3mpDNTGMbgd3Nql) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p), [LK](https://open.spotify.com/artist/0mFx031364dlAxvLgcL0Si) | [Feels \- LK Remix \(Mixed\)](https://open.spotify.com/album/7BDXndlro1ggJaOBEfHyK2) | 2:34 | 2022-08-10 |  |

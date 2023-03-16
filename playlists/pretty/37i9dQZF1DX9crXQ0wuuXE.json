@@ -1,12 +1,12 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 599514,
+  "num_followers": 599591,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzA0MjE5MCwwMDAwMDAwMDg3Y2Y0ZTI5MGY2MzQwZmEzNGZkZDdkZGYxZmZmODll",
+  "snapshot_id": "MTY0NzA0MjE5MCwwMDAwMDAwMGIzNjk5NDlkMWU3MmQ4YWMwYWJkNGRhYzkwNzQyOWQ0",
   "tracks": [
     {
       "added_at": "2022-03-11 23:43:10",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Little Neon Limelight",
-        "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 239881,
-      "name": "Sedona",
-      "url": "https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Lonesome Dreams (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 284146,
       "name": "Ends of the Earth",
       "url": "https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Little Neon Limelight",
+        "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 239881,
+      "name": "Sedona",
+      "url": "https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -751,18 +751,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Half The City",
-        "url": "https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS"
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
       "artists": [
         {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 171266,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276"
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -783,18 +783,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+        "name": "Half The City",
+        "url": "https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
+      "duration_ms": 171266,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Bahamas Is Afie",
-        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 157040,
-      "name": "Stronger Than That",
-      "url": "https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 240146,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Bahamas Is Afie",
+        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 157040,
+      "name": "Stronger Than That",
+      "url": "https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "After Rain",
         "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 198653,
       "name": "Until You",
       "url": "https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 254205,
+      "name": "White Blank Page",
+      "url": "https://open.spotify.com/track/6oxnUh5HybZDk6VNGzvw2j"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
         "name": "Feathers & Fishhooks",
         "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 196173,
       "name": "Turntable",
       "url": "https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 254205,
-      "name": "White Blank Page",
-      "url": "https://open.spotify.com/track/6oxnUh5HybZDk6VNGzvw2j"
     },
     {
       "added_at": "2022-03-11 23:43:10",

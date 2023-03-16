@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Lovefool",
+        "url": "https://open.spotify.com/album/0DeLusvmxOjBZqBjSU15yN"
+      },
+      "artists": [
+        {
+          "name": "Juan Yarin",
+          "url": "https://open.spotify.com/artist/0cPgP2pYS8lmkzxiJc0hO7"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417410,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/1UjbMmN5yti1uyZQCuhaBI"
+    },
+    {
+      "album": {
         "name": "Vuelo Nocturno",
         "url": "https://open.spotify.com/album/256r81ENnMGjkDukVfuEUP"
       },
@@ -1580,6 +1598,32 @@
       "duration_ms": 456744,
       "name": "This Must Be Home",
       "url": "https://open.spotify.com/track/0yFXCZj2fun1EMDI59bXCz"
+    },
+    {
+      "album": {
+        "name": "Through Your Love (feat. Mr.id & Kawtar Sadik)",
+        "url": "https://open.spotify.com/album/47LbnqAz2CQ7fJ4NtBDvv7"
+      },
+      "artists": [
+        {
+          "name": "Kaz James",
+          "url": "https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA"
+        },
+        {
+          "name": "Kawtar Sadik",
+          "url": "https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb"
+        },
+        {
+          "name": "Mr.id",
+          "url": "https://open.spotify.com/artist/6OEYeOGJNuHVhukFpLY49F"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441318,
+      "name": "Through Your Love (feat. Mr.id & Kawtar Sadik) - Extended Mix",
+      "url": "https://open.spotify.com/track/1QDTajtWBca20z4NQmACKy"
     },
     {
       "album": {

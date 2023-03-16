@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 101831,
+  "num_followers": 101816,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTgwMDY5MywwMDAwMDAwMGM1MjcxNjc3YmNhNzg2OTJiMDAyMGYyNWU2OWVhOWZh",
+  "snapshot_id": "MTY3MTgwMDY5MywwMDAwMDAwMDExOTY4ZWE1Y2YwODc2OGMwNDNlMTMyZmQwZTUzOTEx",
   "tracks": [
     {
       "added_at": "2022-12-23 13:04:53",
@@ -131,18 +131,18 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+        "name": "The Definitive Vince Guaraldi",
+        "url": "https://open.spotify.com/album/1sn69oro0vmwuAu1iwCu7d"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Vince Guaraldi",
+          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
         }
       ],
-      "duration_ms": 205320,
-      "name": "Christmas Is Coming",
-      "url": "https://open.spotify.com/track/69hH2X1SjculOZEOahrWQQ"
+      "duration_ms": 144373,
+      "name": "Skating",
+      "url": "https://open.spotify.com/track/1rGZUPEI3iq6HYmI0V6a98"
     },
     {
       "added_at": "2022-12-23 13:04:53",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
-        "name": "The Definitive Vince Guaraldi",
-        "url": "https://open.spotify.com/album/1sn69oro0vmwuAu1iwCu7d"
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi",
-          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 144373,
-      "name": "Skating",
-      "url": "https://open.spotify.com/track/1rGZUPEI3iq6HYmI0V6a98"
+      "duration_ms": 205320,
+      "name": "Christmas Is Coming",
+      "url": "https://open.spotify.com/track/69hH2X1SjculOZEOahrWQQ"
     },
     {
       "added_at": "2022-12-23 13:04:53",

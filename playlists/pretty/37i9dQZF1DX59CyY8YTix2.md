@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: ヤユヨ
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,369 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,416 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 8 | [さよならを言えたかな](https://open.spotify.com/track/4VP5WUKSbviGuoLy6c46Ea) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [さよならを言えたかな](https://open.spotify.com/album/0JcjkBE4V8o679zLmzfJdf) | 3:14 |
 | 9 | [rose \- feat\. Vaundy](https://open.spotify.com/track/72DWkd9AazMHYDafzpq4XF) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mixtape](https://open.spotify.com/album/3kbR4fhps595HxImAmVHvY) | 3:07 |
 | 10 | [Subway Station Revelation](https://open.spotify.com/track/64QIWtRAivYJpEiikswr7K) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Subway Station Revelation](https://open.spotify.com/album/3xGvbbfdc5oiEKlzh4co04) | 4:14 |
-| 11 | [少年](https://open.spotify.com/track/1kMlMvY21mWORqvrEVVnPX) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [少年](https://open.spotify.com/album/3HghVTA1RhGHzVmvIcri32) | 3:54 |
-| 12 | [Leap](https://open.spotify.com/track/3hrZ10jvm7019DdwZLxmCU) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/2RPT4dc1XDtfpyALnf0yq7) | 4:06 |
+| 11 | [Boys](https://open.spotify.com/track/2JFnPK8zBNEQ1c7Z1XOk9P) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [Boys](https://open.spotify.com/album/0qLkcCZm48PFDPLU4ZzGAX) | 3:54 |
+| 12 | [Leap](https://open.spotify.com/track/5UvLomZ74b75rzQmYVkhG7) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/7HYIajVHlesffzuOM67G6Q) | 4:06 |
 | 13 | [96](https://open.spotify.com/track/3DFTBYmTBM0hju2dFDVNG7) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [96](https://open.spotify.com/album/7byqPEkAGlMsKCsnwL9K1g) | 3:07 |
-| 14 | [Line of sight](https://open.spotify.com/track/4tUFxXSNCayPjtYoF3kI7T) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/7CUgVbMeNO27pF1kFDm5yV) | 3:33 |
+| 14 | [Line of sight](https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/0jhtODRQmtW7lvT9Ika34U) | 3:33 |
 | 15 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 |
 | 16 | [Kodoku](https://open.spotify.com/track/74dY9HrENvoHvb1xLxyVqo) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [Now I'm 19](https://open.spotify.com/album/5lDYiJtHTX3jsHR7rMJCpX) | 2:59 |
 | 17 | [narashite \- Audiotree Live Version](https://open.spotify.com/track/71fkJnR1lE164GspbrcFUA) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [HARU NEMURI on Audiotree Live](https://open.spotify.com/album/4VJQdztVh2Pkt6nOt7h1D3) | 3:17 |
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 29 | [Don!!](https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ) | 3:48 |
 | 30 | [眠れない夜を君に](https://open.spotify.com/track/1ftEhiwyfsGsdYHyKxUj2f) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [眠れない夜を君に](https://open.spotify.com/album/7rrFcw6k2bhPTVkhswjxTk) | 4:04 |
 | 31 | [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 |
-| 32 | [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 |
+| 32 | [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 |
 | 33 | [sekaiwotorikaeshiteokure](https://open.spotify.com/track/0WWcJVmz8Yj5hOwJkyycxo) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [harutosyura](https://open.spotify.com/album/6or18qH3INbHS0kyALV2HL) | 4:19 |
 | 34 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 |
-| 35 | [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 |
+| 35 | [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 |
 | 36 | [Divine Attack \- Shingeki \-](https://open.spotify.com/track/0uOtodY9htazL9wojWhKhQ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Divine Attack \- Shingeki \-](https://open.spotify.com/album/6QZX14rv2DloXGEXcYMmSR) | 3:38 |
 | 37 | [daylight](https://open.spotify.com/track/1ZLhrGdOM1UXRZFFK1U1Mf) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [daylight](https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA) | 4:03 |
 | 38 | [生活](https://open.spotify.com/track/1TAF4rJSiwHVCw7usEp7ae) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [生活](https://open.spotify.com/album/4z9GVOoie1BZseiBIXKbnc) | 4:39 |
 | 39 | [Memorable](https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Memorable](https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o) | 3:13 |
-| 40 | [空蒼いまま](https://open.spotify.com/track/67dcfh84CB6AoYHMJbmraB) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [空蒼いまま](https://open.spotify.com/album/07MGDYIEIH5d7lPWuUyHmR) | 4:41 |
-| 41 | [ZUTTO](https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [ZUTTO](https://open.spotify.com/album/0f4VLaIDcIdG74d3P1rQth) | 4:19 |
-| 42 | [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 |
-| 43 | [油](https://open.spotify.com/track/1ldQWi4dvIiV8ostfEo8vS) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [油](https://open.spotify.com/album/04KuLUg49thH8DEsSkelsB) | 3:11 |
-| 44 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 |
+| 40 | [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 |
+| 41 | [空蒼いまま](https://open.spotify.com/track/67dcfh84CB6AoYHMJbmraB) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [空蒼いまま](https://open.spotify.com/album/07MGDYIEIH5d7lPWuUyHmR) | 4:41 |
+| 42 | [ZUTTO](https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [ZUTTO](https://open.spotify.com/album/0f4VLaIDcIdG74d3P1rQth) | 4:19 |
+| 43 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 |
+| 44 | [油](https://open.spotify.com/track/1ldQWi4dvIiV8ostfEo8vS) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [油](https://open.spotify.com/album/04KuLUg49thH8DEsSkelsB) | 3:11 |
 | 45 | [風になれ \(cover ver.\)](https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [風になれ \(cover ver.\)](https://open.spotify.com/album/76uNTXz2UEwwkdNMfGs8Py) | 3:06 |
 | 46 | [夢をみせて](https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [夢をみせて](https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm) | 5:24 |
 | 47 | [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 |
-| 48 | [雪冴ゆる](https://open.spotify.com/track/1DgAZpPIhvajIJhztp4fFx) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [雪冴ゆる](https://open.spotify.com/album/3TJcG4XO36lO41bWnPp0L8) | 4:00 |
-| 49 | [Futaba](https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:37 |
-| 50 | [私生活 \- 新訳版](https://open.spotify.com/track/0VNPsx1SsHyJCyvNwSYTHo) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [私生活 \(新訳版\)](https://open.spotify.com/album/2SOjoKF4ZeCGlEYU9osbWA) | 3:38 |
+| 48 | [Futaba](https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:37 |
+| 49 | [私生活 \- 新訳版](https://open.spotify.com/track/0VNPsx1SsHyJCyvNwSYTHo) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [私生活 \(新訳版\)](https://open.spotify.com/album/2SOjoKF4ZeCGlEYU9osbWA) | 3:38 |
+| 50 | [\#アチョイ](https://open.spotify.com/track/03dVX9GKHBfgxXU74YONPf) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [不出来](https://open.spotify.com/album/0jUAT2Y1TzQf6ScjVJFKQy) | 3:10 |
 
-Snapshot ID: `MTY3ODgxNjIyMSwwMDAwMDAwMDlmOGM0NmY3NDc4ZjIzY2JkODI2YWVlNjg2ZmM4YzBk`
+Snapshot ID: `MTY3ODgxNjIyMSwwMDAwMDAwMDkyOGZiNTY2Y2ZlNWM0ZGJlMGJjMTZjY2M4ODA4ZWEx`

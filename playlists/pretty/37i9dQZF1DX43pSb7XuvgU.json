@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 96814,
+  "num_followers": 96929,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDM0ZWI1MmQzYjc4N2M5ZjY3ZTYyZDhiN2E3NDI1YjZj",
+  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDI5YWFlYmUzOTkxYzM5ZGQ2ZTYxOWE0ZTVkNWU3N2Vk",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -455,22 +455,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Reflexiones",
         "url": "https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 190706,
       "name": "Ser\u00e9",
       "url": "https://open.spotify.com/track/0obZNcrCzraxd9HtiGmlhj"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 312066,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/2zrXo3DZdEgp317Hfj2g08"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Con Tu Amor",
         "url": "https://open.spotify.com/album/5QQBnJ6jJF0hwQ7KrMJs4X"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 249546,
       "name": "Con Tu Amor",
       "url": "https://open.spotify.com/track/4cusMbDIB1bt7Z3F8YXxXX"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 312066,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/2zrXo3DZdEgp317Hfj2g08"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Juan Gabriel - 40 Aniversario",
-        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "Buenos D\u00edas Se\u00f1or Sol",
-      "url": "https://open.spotify.com/track/4AMwNq3toJIDjeCLhnK8DL"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Todo",
         "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 217160,
       "name": "Isi",
       "url": "https://open.spotify.com/track/7lmrAz5HtInzClDe8MXWw1"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Juan Gabriel - 40 Aniversario",
+        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "Buenos D\u00edas Se\u00f1or Sol",
+      "url": "https://open.spotify.com/track/4AMwNq3toJIDjeCLhnK8DL"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Cosas De Enamorados",
-        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Cosas de Enamorados",
-      "url": "https://open.spotify.com/track/0am5jWvHPdiOggYsAvpTvY"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
         "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 209186,
       "name": "Siempre Estoy Pensando en Ti (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
       "url": "https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Cosas De Enamorados",
+        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Cosas de Enamorados",
+      "url": "https://open.spotify.com/track/0am5jWvHPdiOggYsAvpTvY"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "El Mexico Que Se Nos Fue",
+        "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 277120,
+      "name": "El M\u00e9xico Que Se Nos Fue",
+      "url": "https://open.spotify.com/track/0pgLQNQUeji7Dc7SASQaIW"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "40 Y 20",
         "url": "https://open.spotify.com/album/72HLf3LP783UMuU1zQ6XgL"
       },
@@ -1819,26 +1835,6 @@
       "duration_ms": 262240,
       "name": "Eso Nom\u00e1s",
       "url": "https://open.spotify.com/track/7EmvOxDhWWlxIktbT4Yhgo"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Los D\u00fao",
-        "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/7qCBdX4MbIaNlpqcKL2WSe"
     }
   ],
   "unique_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",

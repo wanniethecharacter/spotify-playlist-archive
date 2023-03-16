@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-519 songs - 22 hr 16 min
+520 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Blund](https://open.spotify.com/track/0duYOyKFVmUrJpDhmKaIyW) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Blund](https://open.spotify.com/album/5v1lS8JfFsyrxPCbTbVchK) | 2:46 | 2022-06-07 |  |
 | [Bon Vivant](https://open.spotify.com/track/4hyGf01l6PHL2npEnRNplP) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Bon Vivant](https://open.spotify.com/album/41POWCKe9ZWZ1CeUEwWE0z) | 2:44 | 2022-06-07 | 2022-09-24 |
 | [Bona Fide](https://open.spotify.com/track/5tmfNqexinEYSER5rcjSCj) | [Elder Lockhart](https://open.spotify.com/artist/4E0ctBJaB32wQSdYHmIsxU) | [Bona Fide](https://open.spotify.com/album/4uz8Erfhog9XEXZmNCNG0y) | 2:09 | 2022-06-07 | 2022-09-24 |
-| [Boulangerie](https://open.spotify.com/track/2r91I9ptlPt7l5AesfBngD) | [Sebastian Henson](https://open.spotify.com/artist/2R3cJyoHQFK2fiXvH6k1q1) | [Afterglow](https://open.spotify.com/album/0jSbpFdSEs1ZvWUIB38RsJ) | 2:47 | 2022-06-07 | 2023-03-11 |
+| [Boulangerie](https://open.spotify.com/track/2r91I9ptlPt7l5AesfBngD) | [Sebastian Henson](https://open.spotify.com/artist/2R3cJyoHQFK2fiXvH6k1q1) | [Afterglow](https://open.spotify.com/album/0jSbpFdSEs1ZvWUIB38RsJ) | 2:47 | 2022-06-07 |  |
 | [Bridge to Nowhere](https://open.spotify.com/track/1A6rVJJddqf7ct6FnK6cHE) | [Novum Cordis](https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d) | [Bridge to Nowhere](https://open.spotify.com/album/75eFUsF34geJ4j4CiPD5Jt) | 2:51 | 2022-06-07 | 2022-09-24 |
 | [Broken River](https://open.spotify.com/track/2sxEgzrFsAjBq0Yf3PBIfI) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [The Great Migration](https://open.spotify.com/album/0fqDjNTc077SL0JcMAjKvF) | 2:55 | 2022-06-07 |  |
 | [Bulles à facettes](https://open.spotify.com/track/6cPE6jra0BmU8kLzgeUZbb) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Bulles à facettes](https://open.spotify.com/album/3bvtiUyD3XAR3lL04QKuib) | 3:13 | 2022-06-07 | 2022-07-20 |
@@ -143,6 +143,7 @@
 | [Fin de l'été](https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6) | [Falerina Paquet](https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B) | [Fin de l'été](https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42) | 1:53 | 2022-06-07 | 2023-01-16 |
 | [Fine](https://open.spotify.com/track/2jv5hratv7APL7BbvAKpI7) | [Kristian Kamp](https://open.spotify.com/artist/2RojpFYmQCs2e8SNQAXah2) | [Fine](https://open.spotify.com/album/4FrtT3wUV6uJuUNVl9ep2V) | 2:51 | 2022-06-07 |  |
 | [Firmamentum Mysteria](https://open.spotify.com/track/42X3YAIxpCHm6YbNbvdMxO) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Firmamentum Mysteria](https://open.spotify.com/album/0wlyujvSVRp3g03vVoWPRt) | 2:42 | 2022-06-07 |  |
+| [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 | 2023-03-16 |  |
 | [Flashing lights](https://open.spotify.com/track/3jbaWxRwhXCZmvpPWHIKe3) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Flashing lights](https://open.spotify.com/album/6fFieao3USpz413NdKe9Or) | 3:27 | 2022-06-07 |  |
 | [Fleurs Séchées](https://open.spotify.com/track/70oTgyGPmB9ZtU2lrjbZfj) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Fleurs Séchées](https://open.spotify.com/album/7LeBN7j9XjqfRoxtUKIvV2) | 2:06 | 2022-06-07 |  |
 | [Floating](https://open.spotify.com/track/1fcPVf8Rqckxy4wxC4vYoz) | [Way Beyond](https://open.spotify.com/artist/7qZK8mnemfBOD9VVjRxB1Z) | [Floating](https://open.spotify.com/album/0zB9fYEcH3zXLvL2Wporwa) | 1:57 | 2022-06-07 |  |
@@ -219,7 +220,7 @@
 | [Les Combes\-58](https://open.spotify.com/track/3luC1osD9bTIdiv77Z8ebS) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Les Combes\-58](https://open.spotify.com/album/1t983gN7i0JitSK1BmsWAZ) | 3:24 | 2022-06-07 |  |
 | [Les passions](https://open.spotify.com/track/5eVSECRwlo8dpiAVWZImDs) | [Gianfranco Abate](https://open.spotify.com/artist/0LY1eNeWoYUJ9kwockmS2t) | [Les passions](https://open.spotify.com/album/1kLAGCQCV2Zn75wEKDl9eh) | 2:34 | 2022-06-07 |  |
 | [Letter Of Fervid](https://open.spotify.com/track/6Zn3YUW28L4M2Smxz7tyIB) | [Sula Black](https://open.spotify.com/artist/2uzZ9S1yshc7xkAzbga5X0) | [Letter Of Fervid](https://open.spotify.com/album/7erSjN1YTxq2JTs8w90lGg) | 3:08 | 2022-06-07 |  |
-| [Life Goes On](https://open.spotify.com/track/2Ndf7eHaRMAdd2d84phJLS) | [Jacob Trautner](https://open.spotify.com/artist/3Ebs2p58ggIPTmK0tCthW9) | [Life Goes On](https://open.spotify.com/album/7JW1NaSKBP7t1o0DroYfoX) | 2:49 | 2022-06-07 |  |
+| [Life Goes On](https://open.spotify.com/track/2Ndf7eHaRMAdd2d84phJLS) | [Jacob Trautner](https://open.spotify.com/artist/3Ebs2p58ggIPTmK0tCthW9) | [Life Goes On](https://open.spotify.com/album/7JW1NaSKBP7t1o0DroYfoX) | 2:49 | 2022-06-07 | 2023-03-16 |
 | [Ligare Arcum](https://open.spotify.com/track/2SQnm2Hx9VCWopW6LMCD3N) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Ligare Arcum](https://open.spotify.com/album/5QuBJQRifMGPN3rf2OU7gj) | 3:04 | 2022-06-07 | 2022-09-24 |
 | [Lily Dale](https://open.spotify.com/track/09KXk7YdZT8b2ibsnjnFbC) | [Leroy Rossetti](https://open.spotify.com/artist/2Mg0NVHUCDibNRrdZmlagN) | [Lily Dale](https://open.spotify.com/album/3mJIHjvCHHhYBhmjlJFcxU) | 1:39 | 2022-06-07 | 2022-09-24 |
 | [Lira](https://open.spotify.com/track/6qXXV5IzR4C1qUkkZFeTJ6) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Elegía de la Juventud](https://open.spotify.com/album/1pcymuDxT29Yg9a9Uy1IMT) | 3:07 | 2022-09-14 |  |
@@ -250,7 +251,7 @@
 | [Mer Noire](https://open.spotify.com/track/5iLMqDI5mRCdK2VSIQYf59) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Mer Noire](https://open.spotify.com/album/7MFZbvPUX7G99LPMnyWZ4X) | 2:26 | 2022-06-07 |  |
 | [Metanoia](https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Metanoia](https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl) | 2:21 | 2022-12-22 |  |
 | [Minute By Minute](https://open.spotify.com/track/5FeKYp26uQ93jj361VH7mr) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Final Feliz](https://open.spotify.com/album/6h74nF5jtOcrYaJwc7YDat) | 3:08 | 2022-06-07 | 2022-09-24 |
-| [Mirror Image](https://open.spotify.com/track/6yPemeVzF0Ew5oYNxOYoqI) | [Kelli Carswell](https://open.spotify.com/artist/1EYt9z9E0wab4f22IvFAJ4) | [Mirror Image](https://open.spotify.com/album/0aaLes9e9gY3KQ6LZwDmNJ) | 2:12 | 2022-06-07 | 2023-01-06 |
+| [Mirror Image](https://open.spotify.com/track/6yPemeVzF0Ew5oYNxOYoqI) | [Kelli Carswell](https://open.spotify.com/artist/1EYt9z9E0wab4f22IvFAJ4) | [Mirror Image](https://open.spotify.com/album/0aaLes9e9gY3KQ6LZwDmNJ) | 2:12 | 2022-06-07 |  |
 | [Mitternacht](https://open.spotify.com/track/61LRf67gHGilGO4DbIecZz) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Mitternacht](https://open.spotify.com/album/0LZwgyNIT6ZFHBSUGwAz39) | 2:35 | 2022-12-22 |  |
 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 | 2022-06-07 |  |
 | [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 | 2022-06-07 | 2022-09-15 |
@@ -307,7 +308,7 @@
 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 | 2022-06-07 | 2022-07-20 |
 | [Placid](https://open.spotify.com/track/1u3h3PCvrzTSCSPhCiQH3Q) | [Anoire](https://open.spotify.com/artist/3g7pYrMzsYgKrNPyMKNf7K) | [Placid](https://open.spotify.com/album/3W1xO9Ba7QCJ8vXCsaoE63) | 2:32 | 2022-06-07 |  |
 | [Plum Coulee](https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [Plum Coulee](https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT) | 2:53 | 2022-07-19 |  |
-| [Pointed Leaves](https://open.spotify.com/track/31u3s9hi7vrqm40Kh49j32) | [Bryan Zingerman](https://open.spotify.com/artist/3ba6Q8CQ6ENhKkyqtGnZlL) | [Four Waltz](https://open.spotify.com/album/64Xrn4iTMDdgRgUKBuO3Pc) | 2:46 | 2022-06-07 |  |
+| [Pointed Leaves](https://open.spotify.com/track/31u3s9hi7vrqm40Kh49j32) | [Bryan Zingerman](https://open.spotify.com/artist/3ba6Q8CQ6ENhKkyqtGnZlL) | [Four Waltz](https://open.spotify.com/album/64Xrn4iTMDdgRgUKBuO3Pc) | 2:46 | 2022-06-07 | 2023-03-16 |
 | [Pourquoi](https://open.spotify.com/track/23DPhQu9w09Vc4PkAd3zv2) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Pourquoi](https://open.spotify.com/album/1OWuvV6W1ajl6Lp0Lncp4Z) | 2:58 | 2022-06-07 |  |
 | [Presque l'amour](https://open.spotify.com/track/03VbBcRhqaoH04MMlxlGIC) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Presque l'amour](https://open.spotify.com/album/6enrbOB2poCkylWRXhrp7r) | 2:22 | 2022-06-07 |  |
 | [Primrose Hill](https://open.spotify.com/track/1at46An3uytKsd32hqQkpw) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Primrose Hill](https://open.spotify.com/album/7HfmF0KuzcMYURt7mhN1sa) | 2:52 | 2022-06-07 |  |
@@ -495,7 +496,7 @@
 | [Volga](https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Volga](https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF) | 2:49 | 2022-06-07 |  |
 | [Voyage mélatonine](https://open.spotify.com/track/1qzF59VZ86OUV11slBwY7J) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Voyage mélatonine](https://open.spotify.com/album/29ZPBMyCGtYyqXEwiqHj6t) | 2:10 | 2022-06-07 |  |
 | [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 | 2022-06-07 |  |
-| [Waiting](https://open.spotify.com/track/6bt1Qb3CCzQkXkXu3FzEeX) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Waiting](https://open.spotify.com/album/5z2LHBhaATswQNRQWioTXJ) | 2:44 | 2022-06-07 |  |
+| [Waiting](https://open.spotify.com/track/6bt1Qb3CCzQkXkXu3FzEeX) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Waiting](https://open.spotify.com/album/5z2LHBhaATswQNRQWioTXJ) | 2:44 | 2022-06-07 | 2023-03-16 |
 | [Walking home](https://open.spotify.com/track/73tOHXLo3XDQgdGo9leE5J) | [Kelli Carswell](https://open.spotify.com/artist/1EYt9z9E0wab4f22IvFAJ4) | [Walking home](https://open.spotify.com/album/005YMfiHDbwZi6p1hvPhLI) | 2:52 | 2022-06-07 | 2022-09-24 |
 | [Waltz For Nala](https://open.spotify.com/track/3NJ3rJfgSHeRqM9Fz12lLJ) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Waltz For Nala](https://open.spotify.com/album/0MMm9VMrSYTvSFyyrwD9yQ) | 2:17 | 2022-06-07 |  |
 | [Watch You Bloom](https://open.spotify.com/track/2IYeOycaLzFrJsNcQwzp3u) | [September Meredyth](https://open.spotify.com/artist/1fFlzIR8vrvwW9wEvqoY7P) | [Watch You Bloom](https://open.spotify.com/album/4kc486Ylcc44GiOkDto5QR) | 2:01 | 2022-06-07 |  |

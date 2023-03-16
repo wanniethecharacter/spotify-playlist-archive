@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 
 > Deathcore Playlist
 
-[HftzStya](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 17 likes - 220 songs - 15 hr 20 min
+[HftzStya](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 17 likes - 230 songs - 15 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,5 +228,15 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 | 218 | [Lunacrium Thepsis](https://open.spotify.com/track/1Rnm9Ez0pGB3LUsb7EytYR) | [The Dark Alamorte](https://open.spotify.com/artist/3Sr4CCs7XORgQd5x28Zntg) | [Lunacrium Thepsis](https://open.spotify.com/album/5urPuNrw50fMxUg1fabgcZ) | 10:17 |
 | 219 | [Disillusion](https://open.spotify.com/track/6Ro0sXjcnLlYBTuDoXlK1R) | [The Archaic Epidemic](https://open.spotify.com/artist/5g1ErYWibd11yq9eJkL38l), [Tom Barber](https://open.spotify.com/artist/5pKCK59BB5ydgvNGVcNBxJ), [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Disillusion](https://open.spotify.com/album/7iHTkaKBogN6w0GSxcBNK9) | 4:42 |
 | 220 | [WRATH](https://open.spotify.com/track/47AQtMIaZJiomXdsSMrVX6) | [Belvebuth](https://open.spotify.com/artist/2H3hi7f2IAPcxLYlAlH88M) | [WRATH](https://open.spotify.com/album/6MOh1Bdq6iEDST8IwNcRg0) | 5:10 |
+| 221 | [Shvpeshift](https://open.spotify.com/track/3JDIKULbELYjE2asNZ0lyl) | [Snake Father](https://open.spotify.com/artist/6FZ2uzntEihvFpuxVv7i8r) | [Pathways of Corruption](https://open.spotify.com/album/5FqME6TvHugQNsrTYQvE03) | 5:00 |
+| 222 | [The Age Of Retribution](https://open.spotify.com/track/7glKDqyB2UzoVxaLbuMecH) | [Marina](https://open.spotify.com/artist/5uHdXtqI5H3T17ovMtkqWs) | [The Age Of Retribution](https://open.spotify.com/album/1PF0EZ7ybb93sr1HpmGm6P) | 2:56 |
+| 223 | [Ov Fire and Sulphur](https://open.spotify.com/track/5l9EHkZKRjARvZ5WDFuSID) | [To Obey a Tyrant](https://open.spotify.com/artist/1s1OmCqLXfLqrRhc6evxtl), [Dan Tucker of Crown Magnetar](https://open.spotify.com/artist/5G99p7ce6nEdG5wzajCeWN) | [Ov Fire and Sulphur](https://open.spotify.com/album/75lYvKbe2qsNCSAZM4KDV9) | 5:55 |
+| 224 | [Autophagia](https://open.spotify.com/track/5uB202EdBAq3iX9zv1QfLo) | [Xenobiotic](https://open.spotify.com/artist/2u1BlwLG9qYtUH6KU6xiNJ) | [Autophagia](https://open.spotify.com/album/5UcNqAy5k9pO1w0At6AN27) | 3:47 |
+| 225 | [BAD BLOOD II](https://open.spotify.com/track/6aXRrRHk2pb3DxnZ4PXTAS) | [Reminitions](https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB), [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [BAD BLOOD II](https://open.spotify.com/album/7rzwS69sMa2e9MmMJ0TV12) | 4:05 |
+| 226 | [Bleed Or Believe](https://open.spotify.com/track/6n51TISVIwlNyLyb7RYjwV) | [Raise the Death Toll](https://open.spotify.com/artist/2MxIHokKnCTGMYDHqwpgyv), [Jai Benoit of Golgothan](https://open.spotify.com/artist/636GS0r5hnL64Z6N8PGwQd) | [Bleed Or Believe](https://open.spotify.com/album/13BRID57L4cLgqWoueiOF6) | 4:04 |
+| 227 | [Divine Apostasy](https://open.spotify.com/track/16MJbjMJA8IfMKMP40YoSc) | [SIX ATL](https://open.spotify.com/artist/3XdzHDdX4jNQa2uxoJr2rK) | [Divine Apostasy](https://open.spotify.com/album/5Tj05hhRkoa9gfqIRQ8a1k) | 3:10 |
+| 228 | [Universe 25](https://open.spotify.com/track/7a7QHfoJjh6RiIgUfN50Lc) | [SURGEON](https://open.spotify.com/artist/2dFTnRb7enPY78wtu7wvSQ) | [Universe 25](https://open.spotify.com/album/6OcdlM15fgxe415rtHkYYy) | 4:03 |
+| 229 | [B.H.C.F.H.C.](https://open.spotify.com/track/7wLejPhqqbTHjOuf98I5YH) | [SURGEON](https://open.spotify.com/artist/2dFTnRb7enPY78wtu7wvSQ) | [B.H.C.F.H.C.](https://open.spotify.com/album/63Pp7bEkfFdNitCHHxohGV) | 3:51 |
+| 230 | [Sandevistan](https://open.spotify.com/track/2QnppOn5W5eJwRxlBXO71C) | [Spire of Lazarus](https://open.spotify.com/artist/2siG2lB8W9OCBXyd4ebEM6) | [Sandevistan](https://open.spotify.com/album/3p3SvPRcoNqlZtWmjmNtzc) | 2:51 |
 
 Snapshot ID: `MzM3LDBjY2FlZjcyZDYzMjkyNGQ1YmMzZjBjNWQ1ZDgxOWU4MGIyMjU3NGE=`

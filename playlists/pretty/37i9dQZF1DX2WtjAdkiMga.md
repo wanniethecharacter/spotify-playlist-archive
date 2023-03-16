@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,952 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,025 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 | 10 | [Under the Mango Tree](https://open.spotify.com/track/33KChiNPI0s6An3lRKjcQV) | [Erika Stevenson](https://open.spotify.com/artist/3qqiQwpDv5suNnRA8lCMAE) | [Under the Mango Tree](https://open.spotify.com/album/0oBtirMIo2gIJiK2m6zyHj) | 2:08 |
 | 11 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 |
 | 12 | [A Good Day](https://open.spotify.com/track/4CKFgo4cHetK6zsBywwBIx) | [Mrs Lawson](https://open.spotify.com/artist/6GRdbp1aBLfEJCgNcdGKLM) | [A Good Day](https://open.spotify.com/album/4h73tz90SvA4W9P2EydSOt) | 2:28 |
-| 13 | [Alice In Wonderland](https://open.spotify.com/track/4mJzer8K8AT67EkD3VLTGE) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [Alice In Wonderland](https://open.spotify.com/album/2fHP1WQbizUKTyMoNDRPrV) | 2:04 |
-| 14 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 |
-| 15 | [Row Row Row Your Boat](https://open.spotify.com/track/4fPF9NifzPVlYgxAmeEaHF) | [Phoenix Hills](https://open.spotify.com/artist/4OPRPc19uzfOuVUb2Y9njY) | [Row Row Row Your Boat](https://open.spotify.com/album/4cy0SpuvUs2Hg1OMVfWO0N) | 2:22 |
-| 16 | [Skating in Central Park](https://open.spotify.com/track/2IEI5ZjAIWvxw3rSJYXFxC) | [Sasha Gardner](https://open.spotify.com/artist/1v6vfNoFtjrE3iAgvJKMa7) | [Skating in Central Park](https://open.spotify.com/album/0Xg1W14PbDaBMGZwdzqBvf) | 2:36 |
+| 13 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 |
+| 14 | [Row Row Row Your Boat](https://open.spotify.com/track/4fPF9NifzPVlYgxAmeEaHF) | [Phoenix Hills](https://open.spotify.com/artist/4OPRPc19uzfOuVUb2Y9njY) | [Row Row Row Your Boat](https://open.spotify.com/album/4cy0SpuvUs2Hg1OMVfWO0N) | 2:22 |
+| 15 | [Skating in Central Park](https://open.spotify.com/track/2IEI5ZjAIWvxw3rSJYXFxC) | [Sasha Gardner](https://open.spotify.com/artist/1v6vfNoFtjrE3iAgvJKMa7) | [Skating in Central Park](https://open.spotify.com/album/0Xg1W14PbDaBMGZwdzqBvf) | 2:36 |
+| 16 | [Alice In Wonderland](https://open.spotify.com/track/4mJzer8K8AT67EkD3VLTGE) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [Alice In Wonderland](https://open.spotify.com/album/2fHP1WQbizUKTyMoNDRPrV) | 2:04 |
 | 17 | [My One and Only Love](https://open.spotify.com/track/6UFErRwNsXFmbZYnOdBLQb) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [My One and Only Love](https://open.spotify.com/album/10MOshcK6sWbLtlG9hQqMt) | 3:14 |
 | 18 | [The Very Thought of You](https://open.spotify.com/track/1lObGlX2OlCzecsMJW9LPd) | [Susan Sunnemo](https://open.spotify.com/artist/1ZyaRKG1kRNm8pILCfWMz7) | [The Very Thought of You](https://open.spotify.com/album/5TFDnrSIUBg4JWl3gkKrY7) | 3:32 |
 | 19 | [Mary Had a Little Lamb](https://open.spotify.com/track/3NpjpqDMXGWnELu2sCrkc2) | [Isa Hopkins](https://open.spotify.com/artist/7qXmB3myPVahbop7iJTgoz) | [Mary Had a Little Lamb](https://open.spotify.com/album/6eD3IBFS08wBGKU0urZKdD) | 2:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 | 79 | [Why try to change me now](https://open.spotify.com/track/6eGpLVtbSxsiOLXT47AcIe) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Why try to change me now](https://open.spotify.com/album/5uCLR0oUrQISjDJpZyqvpi) | 5:19 |
 | 80 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 |
 
-Snapshot ID: `MTY3ODI4MzEyOSwwMDAwMDAwMDcxMjNkZmNjNmUxY2U2MjI0NmIyOTM0OTBmZDBmZjQz`
+Snapshot ID: `MTY3ODg3MDE5MCwwMDAwMDAwMGI2YTM2YTU2M2YxOTI0YzQ0MWNhYzI5NDE1ZDMxZWU3`

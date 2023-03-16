@@ -122,7 +122,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 223399,
       "name": "Ae Watan (Male)",
       "url": "https://open.spotify.com/track/4wNLPh3T8dxrJwC32MzIUd"
@@ -200,6 +200,32 @@
       "duration_ms": 289012,
       "name": "Baatein Ye Kabhi Na (From \"Khamoshiyan\") - Male",
       "url": "https://open.spotify.com/track/6CV2iSJV2W6yAITDxSSes3"
+    },
+    {
+      "album": {
+        "name": "Bairiya",
+        "url": "https://open.spotify.com/album/0qDJp6YQp1s0C5kWoJrpKC"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263424,
+      "name": "Bairiya",
+      "url": "https://open.spotify.com/track/5oDqm3nmB6euAtKnDH8cQD"
     },
     {
       "album": {
@@ -1582,7 +1608,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 261439,
       "name": "Shaayraana",
       "url": "https://open.spotify.com/track/0072MKNpMeJNx8aRfTNfQW"
@@ -1604,7 +1630,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 261439,
       "name": "Shaayraana",
       "url": "https://open.spotify.com/track/2UGhg8kZPwn9Aofl1083N4"

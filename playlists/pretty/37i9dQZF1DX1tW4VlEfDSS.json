@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 339042,
+  "num_followers": 339087,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMGE5YzliMDQ5ODllM2QyNmFmYjE4ZGU5MjMzYTIwODc0",
+  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDkxYWEzYjE2NzAzNGI4MzI0OWE2YTBkYWVkNGVjZDc5",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -515,26 +515,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "I Miss Having Someone To Talk To",
-        "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
-        }
-      ],
-      "duration_ms": 223742,
-      "name": "I Miss Having Someone To Talk To",
-      "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Love Will Set U Free",
         "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 354365,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "I Miss Having Someone To Talk To",
+        "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "duration_ms": 223742,
+      "name": "I Miss Having Someone To Talk To",
+      "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
+        "name": "Bourgie Bourgie",
+        "url": "https://open.spotify.com/album/6Gg2rwi5mAlzx1ws0Woxga"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 392812,
+      "name": "Bourgie Bourgie",
+      "url": "https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
         "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 265570,
       "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "Bourgie Bourgie",
-        "url": "https://open.spotify.com/album/6Gg2rwi5mAlzx1ws0Woxga"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 392812,
-      "name": "Bourgie Bourgie",
-      "url": "https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Voodoo Babe",
-        "url": "https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL"
-      },
-      "artists": [
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 249002,
-      "name": "Voodoo Babe",
-      "url": "https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Everything Happens for a Reason",
         "url": "https://open.spotify.com/album/1tKDdlmv0HPOEcwN3j7dmP"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 189000,
       "name": "Everything Happens for a Reason",
       "url": "https://open.spotify.com/track/24XXMhcnFDkF7c1PAvt42b"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Voodoo Babe",
+        "url": "https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 249002,
+      "name": "Voodoo Babe",
+      "url": "https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Say Mama",
-        "url": "https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU"
-      },
-      "artists": [
-        {
-          "name": "Alex Preston",
-          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Say Mama",
-      "url": "https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Love the Way (Happiness)",
         "url": "https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
+        "name": "Say Mama",
+        "url": "https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU"
+      },
+      "artists": [
+        {
+          "name": "Alex Preston",
+          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Say Mama",
+      "url": "https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
         "name": "Disco Hearts",
         "url": "https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ"
-      },
-      "artists": [
-        {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
-        }
-      ],
-      "duration_ms": 212313,
-      "name": "Riviera",
-      "url": "https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Rescue Me",
         "url": "https://open.spotify.com/album/6ltVvOxJSn1nAkeViLkOlo"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 147970,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/4Np57R3dz1W2A9WBbwuHpY"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        }
+      ],
+      "duration_ms": 212313,
+      "name": "Riviera",
+      "url": "https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -939,42 +939,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Second Chance (feat. Kimberly Davis)",
-        "url": "https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        },
-        {
-          "name": "Kimberly Davis",
-          "url": "https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ"
-        }
-      ],
-      "duration_ms": 204132,
-      "name": "Second Chance (feat. Kimberly Davis)",
-      "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "31 Minutes of Relaxing ASMR",
-        "url": "https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 275131,
-      "name": "Chilli Heatwave",
-      "url": "https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Someday (Harris & Hurr Remix)",
         "url": "https://open.spotify.com/album/0WIYfupY0GUkK0fdoDw89S"
       },
@@ -999,6 +963,42 @@
       "duration_ms": 220213,
       "name": "Someday - Harris & Hurr Remix",
       "url": "https://open.spotify.com/track/0ad5utq7FrurJIMujXWBwy"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "31 Minutes of Relaxing ASMR",
+        "url": "https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 275131,
+      "name": "Chilli Heatwave",
+      "url": "https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Second Chance (feat. Kimberly Davis)",
+        "url": "https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        },
+        {
+          "name": "Kimberly Davis",
+          "url": "https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ"
+        }
+      ],
+      "duration_ms": 204132,
+      "name": "Second Chance (feat. Kimberly Davis)",
+      "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL"
-      },
-      "artists": [
-        {
-          "name": "Friend Within",
-          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
-        }
-      ],
-      "duration_ms": 182950,
-      "name": "Ghetto Rock",
-      "url": "https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/2wONkDvCwXWSIw4SGz36pZ"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 165000,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL"
+      },
+      "artists": [
+        {
+          "name": "Friend Within",
+          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
+        }
+      ],
+      "duration_ms": 182950,
+      "name": "Ghetto Rock",
+      "url": "https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8"
     }
   ],
   "unique_name": "Groove Theory",

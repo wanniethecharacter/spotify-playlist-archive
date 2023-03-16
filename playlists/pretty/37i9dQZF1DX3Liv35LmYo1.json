@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 102876,
+  "num_followers": 102907,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc2MjAwMCwwMDAwMDAwMDcxYWVkNDAzYmM5NmYwMWJlM2IyNTYwOTBmZmRjYWVk",
+  "snapshot_id": "MTY3Nzc2MjAwMCwwMDAwMDAwMDRmNmQ0YzA3ZWYyYWZmYmI1NzExZDY5ODU0ZWIzMDhk",
   "tracks": [
     {
       "added_at": "2023-02-09 13:00:00",
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG"
     },
     {
-      "added_at": "2023-03-15 01:07:59",
+      "added_at": "2023-03-16 01:31:05",
       "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF"
     },
     {
-      "added_at": "2023-03-15 01:07:59",
+      "added_at": "2023-03-16 01:31:05",
       "album": {
         "name": "Don\u2019t Get Too Close",
         "url": "https://open.spotify.com/album/7y03BXt9jGpDHvQ01knCXE"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
     },
     {
-      "added_at": "2023-03-15 01:07:59",
+      "added_at": "2023-03-16 01:31:05",
       "album": {
         "name": "MY DEAR",
         "url": "https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1"
@@ -463,6 +463,26 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "duration_ms": 218308,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "Heirloom",
         "url": "https://open.spotify.com/album/29rHqyYnfNh28uhELamXiN"
       },
@@ -493,27 +513,7 @@
       "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
     },
     {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        },
-        {
-          "name": "Ouri",
-          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
-        }
-      ],
-      "duration_ms": 218308,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
-    },
-    {
-      "added_at": "2023-03-15 01:07:59",
+      "added_at": "2023-03-16 01:31:05",
       "album": {
         "name": "Mike (desert island duvet)",
         "url": "https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa"
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "TIOLI",
         "url": "https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 278561,
       "name": "TIOLI",
       "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -713,7 +713,23 @@
       "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
     },
     {
-      "added_at": "2023-03-15 01:07:59",
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Moonbaton Vol. 1",
+        "url": "https://open.spotify.com/album/3T5s9mE6LhH5KR5AlZAId8"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        }
+      ],
+      "duration_ms": 142852,
+      "name": "Flauta Magica",
+      "url": "https://open.spotify.com/track/4SZskM7pn7z0gAL7onqeI7"
+    },
+    {
+      "added_at": "2023-03-16 01:31:05",
       "album": {
         "name": "Cellular",
         "url": "https://open.spotify.com/album/7bIMKKz8nkjnlBJa2ti4GP"
@@ -735,22 +751,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Moonbaton Vol. 1",
-        "url": "https://open.spotify.com/album/3T5s9mE6LhH5KR5AlZAId8"
-      },
-      "artists": [
-        {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
-        }
-      ],
-      "duration_ms": 142852,
-      "name": "Flauta Magica",
-      "url": "https://open.spotify.com/track/4SZskM7pn7z0gAL7onqeI7"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Cherry",
         "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
       },
@@ -763,26 +763,6 @@
       "duration_ms": 213441,
       "name": "Clavicle",
       "url": "https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Closure (feat. Helena)",
-        "url": "https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM"
-      },
-      "artists": [
-        {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
-        },
-        {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/42pHOvO9x3ksAKvIaYlkSm"
-        }
-      ],
-      "duration_ms": 270536,
-      "name": "Closure (feat. Helena)",
-      "url": "https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -815,6 +795,26 @@
       "duration_ms": 492316,
       "name": "Someone Close",
       "url": "https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Closure (feat. Helena)",
+        "url": "https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        },
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/42pHOvO9x3ksAKvIaYlkSm"
+        }
+      ],
+      "duration_ms": 270536,
+      "name": "Closure (feat. Helena)",
+      "url": "https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
+        "name": "The Corner",
+        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
       },
       "artists": [
         {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
         }
       ],
-      "duration_ms": 498001,
-      "name": "Inperspect",
-      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
+      "duration_ms": 220653,
+      "name": "The Corner",
+      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "The Corner",
-        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
       },
       "artists": [
         {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
         }
       ],
-      "duration_ms": 220653,
-      "name": "The Corner",
-      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
+      "duration_ms": 498001,
+      "name": "Inperspect",
+      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "Jewels from the Sun EP",
+        "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 290847,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "Happiness, Guaranteed",
         "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Jewels from the Sun EP",
-        "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        }
-      ],
-      "duration_ms": 290847,
-      "name": "The Antidote",
-      "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/6nxJBK0M3lFEoFq1aPYshe"
       },
@@ -1043,26 +1043,6 @@
       "duration_ms": 298285,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa"
-    },
-    {
-      "added_at": "2023-03-15 01:07:59",
-      "album": {
-        "name": "Have You Felt Lately? (Brijean Remix)",
-        "url": "https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Have You Felt Lately? - Brijean Remix",
-      "url": "https://open.spotify.com/track/0wR3uEmtFQLqNVkXbB219d"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1097,6 +1077,26 @@
       "url": "https://open.spotify.com/track/3aCHltJ5vsCJI94VxpWhf2"
     },
     {
+      "added_at": "2023-03-16 01:31:05",
+      "album": {
+        "name": "Have You Felt Lately? (Brijean Remix)",
+        "url": "https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Have You Felt Lately? - Brijean Remix",
+      "url": "https://open.spotify.com/track/0wR3uEmtFQLqNVkXbB219d"
+    },
+    {
       "added_at": "2023-02-09 13:00:00",
       "album": {
         "name": "R\u00caVES",
@@ -1111,6 +1111,22 @@
       "duration_ms": 268872,
       "name": "R\u00caVES",
       "url": "https://open.spotify.com/track/5bju4Ul1M7JFdGd8PdixSP"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Boo's Mood",
+        "url": "https://open.spotify.com/album/37XnGed9rFSMci9ljdWSOQ"
+      },
+      "artists": [
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        }
+      ],
+      "duration_ms": 263348,
+      "name": "Boo's Mood",
+      "url": "https://open.spotify.com/track/3NpY3kZ5NDJVZZDjzAlBaz"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1143,22 +1159,6 @@
       "duration_ms": 261874,
       "name": "Komodo",
       "url": "https://open.spotify.com/track/5OH67rxvZ9KHFInp9t4XjW"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Boo's Mood",
-        "url": "https://open.spotify.com/album/37XnGed9rFSMci9ljdWSOQ"
-      },
-      "artists": [
-        {
-          "name": "Bella Boo",
-          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
-        }
-      ],
-      "duration_ms": 263348,
-      "name": "Boo's Mood",
-      "url": "https://open.spotify.com/track/3NpY3kZ5NDJVZZDjzAlBaz"
     },
     {
       "added_at": "2023-02-09 13:00:00",

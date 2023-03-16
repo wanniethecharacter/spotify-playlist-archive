@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 33778,
+  "num_followers": 33906,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMDQ2OGI1ZjcxODY1ODI5YjdhM2MyMTc2OGNjMmRkYjNh",
+  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMDYyYzFhNGVhZWI1NzRjNmQ0ZGU3ZTM0NzQ1YTA1N2Y2",
   "tracks": [
     {
       "added_at": "2022-11-29 16:59:10",
@@ -375,26 +375,18 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "food house",
-        "url": "https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr"
+        "name": "things with wings",
+        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
       },
       "artists": [
         {
-          "name": "food house",
-          "url": "https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g"
-        },
-        {
-          "name": "Gupi",
-          "url": "https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx"
-        },
-        {
-          "name": "Fraxiom",
-          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
         }
       ],
-      "duration_ms": 247917,
-      "name": "mos thoser",
-      "url": "https://open.spotify.com/track/6nEDYdxD1YEWnXdbWxT6U8"
+      "duration_ms": 108363,
+      "name": "cheap liquor",
+      "url": "https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -439,18 +431,26 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "things with wings",
-        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
+        "name": "food house",
+        "url": "https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr"
       },
       "artists": [
         {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+          "name": "food house",
+          "url": "https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g"
+        },
+        {
+          "name": "Gupi",
+          "url": "https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx"
+        },
+        {
+          "name": "Fraxiom",
+          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
         }
       ],
-      "duration_ms": 108363,
-      "name": "cheap liquor",
-      "url": "https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY"
+      "duration_ms": 247917,
+      "name": "mos thoser",
+      "url": "https://open.spotify.com/track/6nEDYdxD1YEWnXdbWxT6U8"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
+        "name": "things with wings",
+        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 175360,
+      "name": "victim",
+      "url": "https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
         "name": "fishmonger",
         "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
       },
@@ -499,6 +515,38 @@
       "duration_ms": 199796,
       "name": "Spoiled little brat",
       "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 222493,
+      "name": "rosier/punk2",
+      "url": "https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "I Don't Want That Many Friends in the First Place",
+        "url": "https://open.spotify.com/album/2ka4LLM77O00KdcLNxLgui"
+      },
+      "artists": [
+        {
+          "name": "richiequinn",
+          "url": "https://open.spotify.com/artist/1qc4Ie27sWHNYeFgAkvwjd"
+        }
+      ],
+      "duration_ms": 109091,
+      "name": "I Don't Want That Many Friends in the First Place",
+      "url": "https://open.spotify.com/track/490OK7QdkPnqAxOCUI2iHF"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -519,18 +567,26 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+        "name": "1000 gecs",
+        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
       "artists": [
         {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
         }
       ],
-      "duration_ms": 222493,
-      "name": "rosier/punk2",
-      "url": "https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK"
+      "duration_ms": 143663,
+      "name": "ringtone",
+      "url": "https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -571,30 +627,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "1000 gecs",
-        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 143663,
-      "name": "ringtone",
-      "url": "https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "greenhouse",
         "url": "https://open.spotify.com/album/3w3uOLOz8fvnHGLBrDLwFj"
       },
@@ -607,38 +639,6 @@
       "duration_ms": 158096,
       "name": "glittr",
       "url": "https://open.spotify.com/track/5HqYfq9MfZAyP7RgPeA0vi"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "things with wings",
-        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 175360,
-      "name": "victim",
-      "url": "https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "I Don't Want That Many Friends in the First Place",
-        "url": "https://open.spotify.com/album/2ka4LLM77O00KdcLNxLgui"
-      },
-      "artists": [
-        {
-          "name": "richiequinn",
-          "url": "https://open.spotify.com/artist/1qc4Ie27sWHNYeFgAkvwjd"
-        }
-      ],
-      "duration_ms": 109091,
-      "name": "I Don't Want That Many Friends in the First Place",
-      "url": "https://open.spotify.com/track/490OK7QdkPnqAxOCUI2iHF"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -823,30 +823,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "Good Luck (Deluxe)",
-        "url": "https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM"
-      },
-      "artists": [
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        },
-        {
-          "name": "Mechatok",
-          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 120754,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "Cake Pop 2",
         "url": "https://open.spotify.com/album/03hIzrguBWOYV7Osb3FGU8"
       },
@@ -871,6 +847,30 @@
       "duration_ms": 146946,
       "name": "Black Rum",
       "url": "https://open.spotify.com/track/5sX8XyI1pdReiCbSpOjCaf"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "Good Luck (Deluxe)",
+        "url": "https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        },
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 120754,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr"
     },
     {
       "added_at": "2022-11-29 16:59:10",

@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: The Panhandlers",
-  "num_followers": 401051,
+  "num_followers": 401132,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGM3Y2UzY2IzMTY5MzgxYTI4M2RkYjU5OTdkMWZmMjgz",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDI0ZWM1ODAwODAyNDQ0MWZhYzU3MWEyODVlYWUzNDBj",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Highway Boys",
-        "url": "https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 220035,
-      "name": "Highway Boys",
-      "url": "https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "West Texas Weather",
         "url": "https://open.spotify.com/album/1tUtPFJsbs48xPkgfjsWsP"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 187669,
       "name": "West Texas Weather",
       "url": "https://open.spotify.com/track/1eXFUXzL0maY3l9frWfnhE"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Highway Boys",
+        "url": "https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 220035,
+      "name": "Highway Boys",
+      "url": "https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "'21",
-        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 204040,
-      "name": "Highways",
-      "url": "https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Speed",
         "url": "https://open.spotify.com/album/2hdi5HXVz9vF7b7gUXJ3E4"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 270022,
       "name": "Speed",
       "url": "https://open.spotify.com/track/60BoWg2kyax4s2Pyjgaqsi"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "'21",
+        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 204040,
+      "name": "Highways",
+      "url": "https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Different Now",
-        "url": "https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7"
-      },
-      "artists": [
-        {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
-        }
-      ],
-      "duration_ms": 189009,
-      "name": "Different Now",
-      "url": "https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 174453,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Different Now",
+        "url": "https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7"
+      },
+      "artists": [
+        {
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+        }
+      ],
+      "duration_ms": 189009,
+      "name": "Different Now",
+      "url": "https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "FREE",
-        "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
-      },
-      "artists": [
-        {
-          "name": "Chad Cooke Band",
-          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
-        }
-      ],
-      "duration_ms": 224894,
-      "name": "I Just Want You",
-      "url": "https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "She Goes Home (Dirty Breakup Song)",
         "url": "https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 199666,
       "name": "She Goes Home (Dirty Breakup Song)",
       "url": "https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
+      },
+      "artists": [
+        {
+          "name": "Chad Cooke Band",
+          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
+        }
+      ],
+      "duration_ms": 224894,
+      "name": "I Just Want You",
+      "url": "https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1219,14 +1219,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "West Texas Is The Best Texas",
-        "url": "https://open.spotify.com/album/5kQXCdeqBeYd08wVaZBv75"
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
       "artists": [
         {
-          "name": "The Panhandlers",
-          "url": "https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8"
-        },
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Josh Abbott Band and Friends, Vol. 1",
+        "url": "https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl"
+      },
+      "artists": [
         {
           "name": "Josh Abbott Band",
           "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
@@ -1234,35 +1246,11 @@
         {
           "name": "Flatland Cavalry",
           "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        },
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        },
-        {
-          "name": "John Baumann",
-          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
         }
       ],
-      "duration_ms": 223013,
-      "name": "West Texas Is The Best Texas",
-      "url": "https://open.spotify.com/track/1wPryUZlSKbRzmNgWozq1P"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Haunted House",
-        "url": "https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 272666,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX"
+      "duration_ms": 279115,
+      "name": "Don't It Make You Wanna Dance?",
+      "url": "https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1283,18 +1271,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+        "name": "Haunted House",
+        "url": "https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+      "duration_ms": 272666,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1331,10 +1319,14 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Josh Abbott Band and Friends, Vol. 1",
-        "url": "https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl"
+        "name": "West Texas Is The Best Texas",
+        "url": "https://open.spotify.com/album/5kQXCdeqBeYd08wVaZBv75"
       },
       "artists": [
+        {
+          "name": "The Panhandlers",
+          "url": "https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8"
+        },
         {
           "name": "Josh Abbott Band",
           "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
@@ -1342,11 +1334,19 @@
         {
           "name": "Flatland Cavalry",
           "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        },
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        },
+        {
+          "name": "John Baumann",
+          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
         }
       ],
-      "duration_ms": 279115,
-      "name": "Don't It Make You Wanna Dance?",
-      "url": "https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC"
+      "duration_ms": 223013,
+      "name": "West Texas Is The Best Texas",
+      "url": "https://open.spotify.com/track/1wPryUZlSKbRzmNgWozq1P"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Easy as Hello",
-        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 279796,
-      "name": "Easy as Hello",
-      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Die Runnin'",
         "url": "https://open.spotify.com/album/6cB7PMBtBbBERIL8Aru4S5"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "One Two Step Away",
-        "url": "https://open.spotify.com/album/75M65qiiyw2tCGDIij7kZs"
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
       "artists": [
         {
-          "name": "David Adam Byrnes",
-          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
         }
       ],
-      "duration_ms": 194028,
-      "name": "One Two Step Away",
-      "url": "https://open.spotify.com/track/6MzgcxRl6y4x11DMg8K750"
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1671,6 +1655,22 @@
       "duration_ms": 189657,
       "name": "Cowboys Don't Cry",
       "url": "https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "One Two Step Away",
+        "url": "https://open.spotify.com/album/75M65qiiyw2tCGDIij7kZs"
+      },
+      "artists": [
+        {
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+        }
+      ],
+      "duration_ms": 194028,
+      "name": "One Two Step Away",
+      "url": "https://open.spotify.com/track/6MzgcxRl6y4x11DMg8K750"
     },
     {
       "added_at": "2023-03-10 05:00:00",

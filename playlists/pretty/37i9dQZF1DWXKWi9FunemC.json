@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 195202,
+  "num_followers": 195444,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMDA5MmJkODYwZmNjZTljY2MwNjc1ZjY2MjMyNTUxNjIx",
+  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMGE5M2NiODg5OWZjODQxMWEwNWUwNzI3ZmU4YjZlMjA1",
   "tracks": [
     {
       "added_at": "2020-08-31 15:19:19",
@@ -311,22 +311,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Peopled with Dreams",
-        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 237113,
-      "name": "Pilgrim",
-      "url": "https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Now More Than Ever",
         "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 280413,
       "name": "Take This",
       "url": "https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Peopled with Dreams",
+        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 237113,
+      "name": "Pilgrim",
+      "url": "https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -819,22 +819,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Love Is",
-        "url": "https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX"
-      },
-      "artists": [
-        {
-          "name": "Allan McKinlay",
-          "url": "https://open.spotify.com/artist/4zMVfhykoerNdhxVnJauFf"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/08XZufZzE2JDLQj9TEwur3"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/4vuVg0LWXyaxdtBusihvr3"
       },
@@ -851,18 +835,34 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
+        "name": "Love Is",
+        "url": "https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX"
       },
       "artists": [
         {
-          "name": "Grant Leslie",
-          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
+          "name": "Allan McKinlay",
+          "url": "https://open.spotify.com/artist/4zMVfhykoerNdhxVnJauFf"
         }
       ],
-      "duration_ms": 277565,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
+      "duration_ms": 282000,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/08XZufZzE2JDLQj9TEwur3"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Find My Home",
+        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
+      },
+      "artists": [
+        {
+          "name": "Shiny Penny",
+          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Find My Home",
+      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -883,18 +883,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Find My Home",
-        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
       },
       "artists": [
         {
-          "name": "Shiny Penny",
-          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
+          "name": "Grant Leslie",
+          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
         }
       ],
-      "duration_ms": 260173,
-      "name": "Find My Home",
-      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
+      "duration_ms": 277565,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Suddenly (Or the Nuclear Sunburst of the Truth Revealed)",
-        "url": "https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 240946,
-      "name": "This Wild Earth",
-      "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Heavenly Father",
         "url": "https://open.spotify.com/album/3pm0gWNx9jOhrcjYmQgw6h"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 374117,
       "name": "Heavenly Father",
       "url": "https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Suddenly (Or the Nuclear Sunburst of the Truth Revealed)",
+        "url": "https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 240946,
+      "name": "This Wild Earth",
+      "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1167,38 +1167,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "I Will Sing",
-        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
-      },
-      "artists": [
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        }
-      ],
-      "duration_ms": 254488,
-      "name": "I Will Sing",
-      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Praise You In This Storm (New York Sessions)",
-        "url": "https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 354407,
-      "name": "Praise You In This Storm - New York Sessions",
-      "url": "https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Now I See",
         "url": "https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3"
       },
@@ -1219,6 +1187,38 @@
       "duration_ms": 243653,
       "name": "Now I See",
       "url": "https://open.spotify.com/track/66SLmhCxmoFG8DUgBFv572"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Praise You In This Storm (New York Sessions)",
+        "url": "https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 354407,
+      "name": "Praise You In This Storm - New York Sessions",
+      "url": "https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "I Will Sing",
+        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 254488,
+      "name": "I Will Sing",
+      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1303,18 +1303,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Ashes to Skies",
-        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
+        "name": "Up Again (Acoustic Mix)",
+        "url": "https://open.spotify.com/album/6bxngQfzDAqyDJfjD7ynEq"
       },
       "artists": [
         {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        },
+        {
+          "name": "Love & The Outcome",
+          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
         }
       ],
-      "duration_ms": 274546,
-      "name": "Ashes to Skies",
-      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
+      "duration_ms": 213360,
+      "name": "Up Again (Acoustic Mix)",
+      "url": "https://open.spotify.com/track/0P7JFcfRbg69vyuVkMIori"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1335,22 +1339,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Up Again (Acoustic Mix)",
-        "url": "https://open.spotify.com/album/6bxngQfzDAqyDJfjD7ynEq"
+        "name": "Ashes to Skies",
+        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
       },
       "artists": [
         {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        },
-        {
-          "name": "Love & The Outcome",
-          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
         }
       ],
-      "duration_ms": 213360,
-      "name": "Up Again (Acoustic Mix)",
-      "url": "https://open.spotify.com/track/0P7JFcfRbg69vyuVkMIori"
+      "duration_ms": 274546,
+      "name": "Ashes to Skies",
+      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
+      },
+      "artists": [
+        {
+          "name": "Bryan McCleery",
+          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
+        }
+      ],
+      "duration_ms": 235056,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Home (GCM Sinai Sessions) [feat. Jonathan Ogden]",
         "url": "https://open.spotify.com/album/4iwQhf1wykHLNxnTJ9aQfi"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 250750,
       "name": "Home (GCM Sinai Sessions) [feat. Jonathan Ogden]",
       "url": "https://open.spotify.com/track/6LwwzwWaRfRkDjFAIUxtCS"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Worth The Wait",
-        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
-      },
-      "artists": [
-        {
-          "name": "Bryan McCleery",
-          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
-        }
-      ],
-      "duration_ms": 235056,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Wrong",
-        "url": "https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85"
-      },
-      "artists": [
-        {
-          "name": "Jordan Brown",
-          "url": "https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN"
-        }
-      ],
-      "duration_ms": 301658,
-      "name": "Wrong",
-      "url": "https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Just As I Am (Nothing to Prove)",
         "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 316946,
       "name": "Just As I Am (Nothing to Prove)",
       "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Wrong",
+        "url": "https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85"
+      },
+      "artists": [
+        {
+          "name": "Jordan Brown",
+          "url": "https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN"
+        }
+      ],
+      "duration_ms": 301658,
+      "name": "Wrong",
+      "url": "https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Old Soul",
-        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
-      },
-      "artists": [
-        {
-          "name": "Finding Favour",
-          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
-        }
-      ],
-      "duration_ms": 221684,
-      "name": "Old Soul",
-      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/2KA8x4fFCG9HGhmFszrorh"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 437188,
       "name": "More Than Anything",
       "url": "https://open.spotify.com/track/7i0MfRdyGrNddq0H1dqSHR"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Old Soul",
+        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
+      },
+      "artists": [
+        {
+          "name": "Finding Favour",
+          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
+        }
+      ],
+      "duration_ms": 221684,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
     },
     {
       "added_at": "2020-08-31 15:19:19",

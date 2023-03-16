@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 59917,
+  "num_followers": 60000,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMDNjYmFlMTU4MDdlNmI0MDkzNjA1MTAxMTdlMDNhZWI4",
+  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMGJjOTIyM2ViNmQ0ZGRmODYwNTNmNjA4ZjcyYmUwMmU0",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "In The Right Place",
-        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Right Place Wrong Time",
-      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Trouble Is...",
         "url": "https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 333733,
       "name": "Blue on Black",
       "url": "https://open.spotify.com/track/7GRq9NUgqhxPGUUksX02fk"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "In The Right Place",
+        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Right Place Wrong Time",
+      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -319,26 +319,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Bluesbreakers",
-        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
-      },
-      "artists": [
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 212600,
-      "name": "All Your Love - Stereo",
-      "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Feels Like Rain",
         "url": "https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 275266,
       "name": "Feels Like Rain (feat. Bonnie Raitt)",
       "url": "https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Bluesbreakers",
+        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 212600,
+      "name": "All Your Love - Stereo",
+      "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -443,6 +443,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Bo Diddley",
+        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Lie To Me",
         "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
       },
@@ -475,18 +491,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Bo Diddley",
-        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
+        "name": "In Step",
+        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
       },
       "artists": [
         {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 164546,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
+      "duration_ms": 143226,
+      "name": "The House Is Rockin'",
+      "url": "https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -503,22 +519,6 @@
       "duration_ms": 192200,
       "name": "Love Me Like a Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "In Step",
-        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 143226,
-      "name": "The House Is Rockin'",
-      "url": "https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -651,6 +651,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 240986,
+      "name": "Cold Shot",
+      "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 486773,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/3BF9J3DjZuNKcfiAwkTsWK"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Couldn't Stand The Weather (Legacy Edition)",
-        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 240986,
-      "name": "Cold Shot",
-      "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -731,6 +731,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Riding with the King",
         "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "The Bright Lights EP",
-        "url": "https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Don't Owe You a Thang",
-      "url": "https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Run Home Slow",
@@ -859,6 +843,22 @@
       "duration_ms": 187973,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "The Bright Lights EP",
+        "url": "https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Don't Owe You a Thang",
+      "url": "https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 248035,
       "name": "Outside Of This Town",
       "url": "https://open.spotify.com/track/1huWqmpiYksaPppQHLDhZP"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Up and Rolling",
-        "url": "https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        }
-      ],
-      "duration_ms": 303920,
-      "name": "Up and Rolling",
-      "url": "https://open.spotify.com/track/1Wg6dLYXgqxs0YtQS6ifco"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Suitcase",
@@ -975,6 +959,22 @@
       "duration_ms": 256493,
       "name": "Life Is Beautiful",
       "url": "https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Up and Rolling",
+        "url": "https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "duration_ms": 303920,
+      "name": "Up and Rolling",
+      "url": "https://open.spotify.com/track/1Wg6dLYXgqxs0YtQS6ifco"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Play Loud",
-        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
-      },
-      "artists": [
-        {
-          "name": "The Record Company",
-          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Two Bugs and a Roach",
@@ -1187,6 +1171,22 @@
       "duration_ms": 316666,
       "name": "You Don't Want Me",
       "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Play Loud",
+        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
+      },
+      "artists": [
+        {
+          "name": "The Record Company",
+          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl"
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
       },
       "artists": [
         {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
         }
       ],
-      "duration_ms": 201586,
-      "name": "Preachin' Blues",
-      "url": "https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW"
+      "duration_ms": 319253,
+      "name": "Bulletproof - Tangle Eye Mix",
+      "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl"
       },
       "artists": [
         {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 319253,
-      "name": "Bulletproof - Tangle Eye Mix",
-      "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
+      "duration_ms": 201586,
+      "name": "Preachin' Blues",
+      "url": "https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Keb' Mo'",
-        "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "Am I Wrong",
-      "url": "https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Strange Pleasure",
         "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 260733,
       "name": "Don't Cha Know",
       "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Keb' Mo'",
+        "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 138533,
+      "name": "Am I Wrong",
+      "url": "https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke"
     },
     {
       "added_at": "2021-03-03 17:28:10",

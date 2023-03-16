@@ -4,7 +4,7 @@
 
 > These country songs know exactly how you feel.
 
-160 songs - 9 hr 27 min
+161 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Hurricane](https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:42 | 2021-12-03 |  |
 | [I Can't \(feat\. Old Dominion\)](https://open.spotify.com/track/2YoOaGlM2zGpYBanN3AxrV) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Supernova \(Deluxe\)](https://open.spotify.com/album/7EVVjcblXEwmzOUFSIdExn) | 3:30 | 2021-12-03 | 2022-08-10 |
 | [I Could Use a Love Song](https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:16 | 2021-12-03 |  |
-| [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 | 2023-01-27 |  |
+| [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 | 2023-01-27 | 2023-03-16 |
 | [I Drive Your Truck](https://open.spotify.com/track/6aPc6SSWgTsiXrrUpJCPlj) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:54 | 2021-12-03 |  |
 | [I Fall To Pieces \- Single Version](https://open.spotify.com/track/1xyBQeZBGAlUFkY8blLpUz) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Sweet Dreams: Her Complete Decca Masters \(1960\-1963\)](https://open.spotify.com/album/42ClQwOX06MiqvPJ97yoNC) | 2:47 | 2022-04-01 | 2022-04-21 |
 | [I Fall To Pieces \- Single Version](https://open.spotify.com/track/6zFsz86nAj5gcvzyVqNL3k) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:51 | 2022-07-25 | 2023-01-28 |
@@ -123,6 +123,7 @@
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-07-24 |  |
 | [Something People Say](https://open.spotify.com/track/4TZHMBkIq4HXHYJJrJz2D7) | [Rachel Wammack](https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR) | [Something People Say](https://open.spotify.com/album/2194CQY1cmamzG8LS9CRbR) | 3:42 | 2021-12-03 | 2023-01-28 |
 | [Somewhere With You](https://open.spotify.com/track/3pkzJjJXfdDjhpXx639MIH) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:03 | 2022-04-01 |  |
+| [Songs We Used To Sing](https://open.spotify.com/track/0EAzZ4aKlERuRmAYIXcRX6) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Songs We Used To Sing](https://open.spotify.com/album/4RGZ7oHIaT5gc1pz7X3xdj) | 3:05 | 2023-03-15 |  |
 | [Stay](https://open.spotify.com/track/0jn2XqaHliEpWd04ZykIHy) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [Enjoy The Ride](https://open.spotify.com/album/6CtZVmlfVS5SSUBHnjgFKG) | 4:44 | 2021-12-03 |  |
 | [Still Getting Drunk](https://open.spotify.com/track/2FbK8N71b9gnznnr0cJVNM) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [12 of 12](https://open.spotify.com/album/6IyDO3AsbFVIiUhFsymVTb) | 3:03 | 2021-12-03 | 2022-07-21 |
 | [Strawberry Wine](https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:51 | 2021-12-03 |  |

@@ -4,7 +4,7 @@
 
 > soundtracking your ex calling/nothing's working/existential crisis
 
-182 songs - 10 hr 19 min
+183 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,8 +99,9 @@
 | [I miss you, I’m sorry](https://open.spotify.com/track/1tF7RL54zjHSy0N2qEQLDY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [I miss you, I’m sorry](https://open.spotify.com/album/0JYxafLuoAFXB2CZ9JVI2k) | 2:47 | 2022-05-25 | 2022-07-29 |
 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2022-05-31 |  |
 | [I Never Learn](https://open.spotify.com/track/5XlnAIPiOSEODsogL9Doxz) | [Ai Bendr](https://open.spotify.com/artist/0Ari1vZqizhkV9Pa1uC8oE) | [I Never Learn](https://open.spotify.com/album/3AUVlIKnnnWZAcqzxTKx4G) | 3:17 | 2022-05-31 | 2022-07-18 |
-| [I Think I Like When It Rains](https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3DRdTebuRYHafp1XJKJ0g2) | 4:38 | 2022-09-22 |  |
+| [I Think I Like When It Rains](https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3DRdTebuRYHafp1XJKJ0g2) | 4:38 | 2022-09-22 | 2023-03-16 |
 | [I Think I Like When It Rains](https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3kWPtRY5FCFhjDFTMNdvP3) | 4:38 | 2022-05-27 | 2023-03-02 |
+| [I Think I Like When It Rains \(Tik Tok Edit\) \- Remix](https://open.spotify.com/track/0eng9xR6sdmwYLkkEjsjFq) | [Green Neon DJ](https://open.spotify.com/artist/6CnsxWcIeS3Q3MNQSJ59M4) | [I Think I Like When It Rains \(Tik Tok Edit\) \[Remix\]](https://open.spotify.com/album/0123CbCiDs2kirZxMHr63u) | 4:41 | 2022-09-22 |  |
 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2022-05-31 |  |
 | [idfc](https://open.spotify.com/track/3SErMoIKdRELto2OspGs5L) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [dead](https://open.spotify.com/album/5cEJ9XTxsUKterwl1nAm2I) | 3:27 | 2022-05-27 | 2022-09-10 |
 | [If We Make It Through December](https://open.spotify.com/track/3a3q9YsTkgrG7dBF2ZdZfn) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/7xoBevaHIAcXvYiLdqhQMC) | 2:59 | 2022-05-25 | 2022-07-19 |
@@ -124,7 +125,7 @@
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2022-05-31 | 2022-09-10 |
 | [Maybe](https://open.spotify.com/track/2WharvxRQJWtEF8dcf7qkz) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Maybe](https://open.spotify.com/album/2XtDVJNzLpqWD1KpzgePzb) | 3:00 | 2022-05-25 | 2022-07-29 |
 | [Mean It](https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mean It](https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl) | 2:51 | 2022-05-31 | 2022-07-15 |
-| [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-05-25 |  |
+| [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-05-25 | 2023-03-16 |
 | [MERCEDES](https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [MERCEDES](https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT) | 3:53 | 2022-05-25 | 2022-09-10 |
 | [Motion Sickness](https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:49 | 2022-05-25 |  |
 | [mutt](https://open.spotify.com/track/44Q2fSohgPmMQsNm0sec1P) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [mutt](https://open.spotify.com/album/2iErg9h34FvtYdPZanxwcR) | 2:49 | 2022-05-25 | 2022-07-27 |
@@ -167,7 +168,7 @@
 | [The Subway Song](https://open.spotify.com/track/2ynBghJiu4H9qGoXhuFS8x) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/7Elzjq7bh1Q4Y4Ko8zqADS) | 4:01 | 2022-05-25 | 2022-07-29 |
 | [The Subway Song](https://open.spotify.com/track/3hzboXFECi8z5437v7wAWr) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/1GVapAXmeqaW9wUkp7rWt6) | 4:01 | 2022-05-31 |  |
 | [through the looking glass](https://open.spotify.com/track/5gNFiKtsghTvymDRaaPL0J) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [THIS IS NOT WHAT IT LOOKS LIKE!](https://open.spotify.com/album/2jGyX0p346kDwHvVqanE8W) | 3:28 | 2022-05-27 | 2022-07-28 |
-| [Time Machine](https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:23 | 2022-05-25 | 2022-11-21 |
+| [Time Machine](https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:23 | 2022-05-25 |  |
 | [Tinder Song](https://open.spotify.com/track/1JHOy566xSKwNPqaB9AF2i) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [Tinder Song](https://open.spotify.com/album/5WiUuc6jcsA4oWvT1wLk3h) | 2:00 | 2022-05-31 | 2022-07-12 |
 | [Tommy](https://open.spotify.com/track/7w76n5UvwlGrjZsgFm8ZYl) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Tommy](https://open.spotify.com/album/5BjjgpESJZDI1ievIXFVsu) | 3:33 | 2022-05-25 | 2022-07-26 |
 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 | 2022-05-31 |  |

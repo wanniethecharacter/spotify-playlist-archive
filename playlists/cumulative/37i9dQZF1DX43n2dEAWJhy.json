@@ -464,7 +464,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 155224,
       "name": "The King Is Dead",
       "url": "https://open.spotify.com/track/0IFeuYP7vTwdEQf3ye0kqb"
@@ -490,6 +490,28 @@
       "duration_ms": 150000,
       "name": "The King Is Dead - Mixed",
       "url": "https://open.spotify.com/track/4vH5mVsSZc5otEjvs8fH4N"
+    },
+    {
+      "album": {
+        "name": "The King Is Dead (Mixed)",
+        "url": "https://open.spotify.com/album/1GkUONN23gyEjpajGpRLx6"
+      },
+      "artists": [
+        {
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "The King Is Dead - Mixed",
+      "url": "https://open.spotify.com/track/4vNtcfFYV8jNgIjHuYKO3a"
     },
     {
       "album": {

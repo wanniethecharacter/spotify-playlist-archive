@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 41020,
+  "num_followers": 41109,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMDJlZTdhODlkMWIxMGRjYzNiOGQxYmMzOGFhMTViZWQw",
+  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMDgyZTg2OTIzYzQ0ODQxMDJmMDY1NzM3ZTllMzAwYjJh",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -559,18 +559,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+        "name": "Young Chasers (Deluxe)",
+        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
       },
       "artists": [
         {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
         }
       ],
-      "duration_ms": 176186,
-      "name": "Special Affair",
-      "url": "https://open.spotify.com/track/3NWTRZ0A8xKlBP1qgNftql"
+      "duration_ms": 192120,
+      "name": "T-Shirt Weather",
+      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -591,34 +591,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Young Chasers (Deluxe)",
-        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
       "artists": [
         {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
         }
       ],
-      "duration_ms": 192120,
-      "name": "T-Shirt Weather",
-      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "iii",
-        "url": "https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Genghis Khan",
-      "url": "https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f"
+      "duration_ms": 176186,
+      "name": "Special Affair",
+      "url": "https://open.spotify.com/track/3NWTRZ0A8xKlBP1qgNftql"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -635,6 +619,22 @@
       "duration_ms": 233000,
       "name": "Keep On Loving You",
       "url": "https://open.spotify.com/track/6dYcUcj1TyZZES5ivtjLdk"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "iii",
+        "url": "https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Genghis Khan",
+      "url": "https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -735,6 +735,38 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 214174,
+      "name": "All We Do",
+      "url": "https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/5MdPMGnu8UZlDrrF0nQEKL"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/4eVNSHRazoHgfYGv3AYFyZ"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Kids In Love",
         "url": "https://open.spotify.com/album/4M2p2BIRHIeBu8Ew9IBQ0s"
       },
@@ -763,38 +795,6 @@
       "duration_ms": 209557,
       "name": "Greek Tragedy",
       "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/5MdPMGnu8UZlDrrF0nQEKL"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/4eVNSHRazoHgfYGv3AYFyZ"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Oh Wonder",
-        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 214174,
-      "name": "All We Do",
-      "url": "https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -883,6 +883,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "White Blood",
+      "url": "https://open.spotify.com/track/3sZfQB5uYTJmA4QnB8dv7P"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 224373,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/62ZXL1CWLJDiDWUZUhfLfU"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Sound & Color (Deluxe)",
-        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Sound & Color",
-      "url": "https://open.spotify.com/track/26HaY4D7AV0gVxmkz11bIz"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -931,6 +931,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Sound & Color (Deluxe)",
+        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Sound & Color",
+      "url": "https://open.spotify.com/track/26HaY4D7AV0gVxmkz11bIz"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "I Love You, Honeybear",
         "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 170826,
       "name": "Chateau Lobby #4 (in C for Two Virgins)",
       "url": "https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Oh Wonder",
-        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "White Blood",
-      "url": "https://open.spotify.com/track/3sZfQB5uYTJmA4QnB8dv7P"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Sound & Color (Deluxe)",
-        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 268853,
-      "name": "This Feeling",
-      "url": "https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Yours, Dreamily,",
-        "url": "https://open.spotify.com/album/7GcnWeopUkyCwFFEt6RrsA"
+        "name": "Sound & Color (Deluxe)",
+        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
       },
       "artists": [
         {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 235320,
-      "name": "Put a Flower in Your Pocket",
-      "url": "https://open.spotify.com/track/7BaDRi8gmRnOducT6KaOfc"
+      "duration_ms": 268853,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Yours, Dreamily,",
+        "url": "https://open.spotify.com/album/7GcnWeopUkyCwFFEt6RrsA"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 235320,
+      "name": "Put a Flower in Your Pocket",
+      "url": "https://open.spotify.com/track/7BaDRi8gmRnOducT6KaOfc"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "How Big, How Blue, How Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 234526,
       "name": "Ship To Wreck",
       "url": "https://open.spotify.com/track/20NEld0MhrR4Zpgrf9brq8"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Sound & Color (Deluxe)",
-        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 232530,
-      "name": "Don't Wanna Fight",
-      "url": "https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Sound & Color (Deluxe)",
+        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 232530,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Treasure - EP",
         "url": "https://open.spotify.com/album/0pMPk0E9YCgU1PzxDViKf5"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "BANNERS",
-        "url": "https://open.spotify.com/album/3jA8ouJG0XT2E9uoEzh0j7"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Shine A Light",
-      "url": "https://open.spotify.com/track/2nZco160YsPJdiTPq396aq"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Christine and the Queens",
         "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 233247,
       "name": "Tilted",
       "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "BANNERS",
+        "url": "https://open.spotify.com/album/3jA8ouJG0XT2E9uoEzh0j7"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Shine A Light",
+      "url": "https://open.spotify.com/track/2nZco160YsPJdiTPq396aq"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/203jJuBzKwSKkm88Rxnm0t"
+        "name": "Every Open Eye",
+        "url": "https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM"
       },
       "artists": [
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
         }
       ],
-      "duration_ms": 227368,
-      "name": "Painting Greys",
-      "url": "https://open.spotify.com/track/4YPR1YdTdvDUvuQxURHbjk"
+      "duration_ms": 237480,
+      "name": "Leave a Trace",
+      "url": "https://open.spotify.com/track/5HTBPhN9b2GMp5YXAGV6lT"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1451,6 +1451,22 @@
       "duration_ms": 231467,
       "name": "Hurt Me",
       "url": "https://open.spotify.com/track/7fApw5FcXz2wAEMaIwT52E"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/203jJuBzKwSKkm88Rxnm0t"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "Painting Greys",
+      "url": "https://open.spotify.com/track/4YPR1YdTdvDUvuQxURHbjk"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1499,22 +1515,6 @@
       "duration_ms": 258860,
       "name": "Hollow Moon (Bad Wolf)",
       "url": "https://open.spotify.com/track/7cfr3F2jpzjwqL6ZhGfjtH"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Every Open Eye",
-        "url": "https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Leave a Trace",
-      "url": "https://open.spotify.com/track/5HTBPhN9b2GMp5YXAGV6lT"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Why Make Sense? (Definitive Version)",
-        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
       "artists": [
         {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 329169,
-      "name": "Huarache Lights",
-      "url": "https://open.spotify.com/track/24OUTJgZif1CA1nemnDgXn"
+      "duration_ms": 321133,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/5ORY1GDl3lpEDyU1CzSq26"
     }
   ],
   "unique_name": "Best of Indie 2015",

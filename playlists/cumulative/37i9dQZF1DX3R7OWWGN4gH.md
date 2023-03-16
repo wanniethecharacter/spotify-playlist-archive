@@ -4,7 +4,7 @@
 
 > Lately I've been dressing for revenge
 
-245 songs - 13 hr 30 min
+246 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Mad Hatter](https://open.spotify.com/track/5gWtkdgdyt5bZt9i6n3Kqd) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:21 | 2022-01-27 |  |
 | [Maneater](https://open.spotify.com/track/1M9uq2yCiOhsO6BFozo2OE) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/1E7rOrC4uJb0YHyGJ6YOlC) | 4:18 | 2022-01-27 | 2022-07-19 |
 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 | 2022-01-27 |  |
+| [Me and the Devil](https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Sugarbread](https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa) | 3:05 | 2023-03-15 |  |
 | [Meant to be Yours](https://open.spotify.com/track/6zQPRiKYLdpAIn5HDtzDYc) | [Jamie Muscato](https://open.spotify.com/artist/5uJiTfwUrMiaGG1PwuKCp3), [Original West End Cast of Heathers](https://open.spotify.com/artist/4WK6ZRLcS2beZfrDoNvjK7) | [Heathers the Musical \(Original West End Cast Recording\)](https://open.spotify.com/album/6r3jhI1kXM7NkEDowpkxOU) | 3:30 | 2022-02-23 | 2022-07-29 |
 | [Meant to Be Yours](https://open.spotify.com/track/6YYeBYEpkiR84eCDNPBDoF) | [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn), [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Michelle Duffy](https://open.spotify.com/artist/4KyX6IwYaHVTz4KSHtMJw0) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:25 | 2022-02-18 | 2022-02-26 |
 | [Mentally Cheating](https://open.spotify.com/track/23CMRsLRGVCDwCzDtYMq6p) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Mentally Cheating](https://open.spotify.com/album/1q5UUWraL06jPz0jbVBP1M) | 3:00 | 2022-07-18 | 2023-02-15 |
@@ -176,7 +177,7 @@
 | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8) | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD) | 3:00 | 2022-01-27 |  |
 | [Playground \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5YTUCHSwfwJ4oHFDjFgpEe) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:50 | 2022-04-15 | 2022-07-29 |
 | [Poor Unfortunate Souls](https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2) | [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 4:51 | 2022-01-27 | 2022-04-21 |
-| [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 | 2022-01-27 |  |
+| [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 | 2022-01-27 | 2023-03-16 |
 | [Pretty Pills for Broken Hearts](https://open.spotify.com/track/3yOn32qFv4qlVjhCEvjHrv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Pretty Pills for Broken Hearts](https://open.spotify.com/album/3nCNqsMDqxkcXpNuEamhUA) | 2:55 | 2022-03-28 | 2022-07-29 |
 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2022-01-27 |  |
 | [Purge The Poison](https://open.spotify.com/track/1sy0mqUBREJx0A89UsIkIl) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Purge The Poison](https://open.spotify.com/album/4l15cBxcsMtKozzTLPsXnc) | 3:16 | 2022-04-14 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 134050,
+  "num_followers": 134109,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGQ4NDMzNWE5NThiNjQwZjljNTQ1MWU3YzgwOTY5ZWNh",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDM0MTRiZDY5ZDZmZGIwNmFjZDZlZGEwZmUwYzk5Yzhj",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Pearls to Swine",
-        "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu"
       },
       "artists": [
         {
-          "name": "Adam Torres",
-          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
+          "name": "Wolf People",
+          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
         }
       ],
-      "duration_ms": 360946,
-      "name": "Juniper Arms",
-      "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
+      "duration_ms": 418146,
+      "name": "Kingfisher",
+      "url": "https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -763,34 +763,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu"
+        "name": "Pearls to Swine",
+        "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
       },
       "artists": [
         {
-          "name": "Wolf People",
-          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
+          "name": "Adam Torres",
+          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
         }
       ],
-      "duration_ms": 418146,
-      "name": "Kingfisher",
-      "url": "https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "ism",
-        "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
-      },
-      "artists": [
-        {
-          "name": "Steelism",
-          "url": "https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "Eno Nothing",
-      "url": "https://open.spotify.com/track/3ty4wwRjK57Mfdbf5xTqUA"
+      "duration_ms": 360946,
+      "name": "Juniper Arms",
+      "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -823,6 +807,22 @@
       "duration_ms": 261986,
       "name": "It Came to Me",
       "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "ism",
+        "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
+      },
+      "artists": [
+        {
+          "name": "Steelism",
+          "url": "https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "Eno Nothing",
+      "url": "https://open.spotify.com/track/3ty4wwRjK57Mfdbf5xTqUA"
     },
     {
       "added_at": "2022-07-22 04:00:00",

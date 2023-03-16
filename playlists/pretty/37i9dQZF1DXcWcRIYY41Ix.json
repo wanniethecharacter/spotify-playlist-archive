@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alex Ferreira.",
-  "num_followers": 106125,
+  "num_followers": 106193,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDI2ZDhkM2RkZDkyMTA0YWE5ZTFhMmFmZjEyMWYxOGNi",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDE1ZGNiNWQ1MDgyNmY4NDBmOWYwZGZkMDE0YjFmY2Y4",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6"
-      },
-      "artists": [
-        {
-          "name": "Dom La Nena",
-          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 163426,
-      "name": "Qui\u00e9n Podr\u00e1 Saberlo",
-      "url": "https://open.spotify.com/track/03WjjqJEvGGBH13LAhf6kE"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Camino Que Pasa",
         "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 180157,
       "name": "Camino Que Pasa",
       "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6"
+      },
+      "artists": [
+        {
+          "name": "Dom La Nena",
+          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 163426,
+      "name": "Qui\u00e9n Podr\u00e1 Saberlo",
+      "url": "https://open.spotify.com/track/03WjjqJEvGGBH13LAhf6kE"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "COMO LA PIEL",
         "url": "https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 275751,
       "name": "Quien lo dir\u00eda",
       "url": "https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Las Dos Caras del Hilo",
-        "url": "https://open.spotify.com/album/5PmHupdoqQsSbbnvIIN7JD"
+        "name": "Como diciembre a enero",
+        "url": "https://open.spotify.com/album/7qnIiF3WKa6eTdUvodZLzt"
       },
       "artists": [
         {
-          "name": "T\u00e9Canela",
-          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
+          "name": "Mercedes Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
         }
       ],
-      "duration_ms": 214405,
-      "name": "Tu Ciudad",
-      "url": "https://open.spotify.com/track/67Z5GMzR0MjCJ5sLtxZjHb"
+      "duration_ms": 170990,
+      "name": "Como diciembre a enero",
+      "url": "https://open.spotify.com/track/10gN65ff59oz7Sxa1PNDHF"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Como diciembre a enero",
-        "url": "https://open.spotify.com/album/7qnIiF3WKa6eTdUvodZLzt"
+        "name": "Las Dos Caras del Hilo",
+        "url": "https://open.spotify.com/album/5PmHupdoqQsSbbnvIIN7JD"
       },
       "artists": [
         {
-          "name": "Mercedes Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
+          "name": "T\u00e9Canela",
+          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
         }
       ],
-      "duration_ms": 170990,
-      "name": "Como diciembre a enero",
-      "url": "https://open.spotify.com/track/10gN65ff59oz7Sxa1PNDHF"
+      "duration_ms": 214405,
+      "name": "Tu Ciudad",
+      "url": "https://open.spotify.com/track/67Z5GMzR0MjCJ5sLtxZjHb"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        },
-        {
-          "name": "Ernesto Snajer",
-          "url": "https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao"
-        }
-      ],
-      "duration_ms": 181798,
-      "name": "El Tiempo Est\u00e1 Despu\u00e9s",
-      "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Dividido",
         "url": "https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 341037,
       "name": "Al o\u00edrla cantar",
       "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        },
+        {
+          "name": "Ernesto Snajer",
+          "url": "https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao"
+        }
+      ],
+      "duration_ms": 181798,
+      "name": "El Tiempo Est\u00e1 Despu\u00e9s",
+      "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Algo Ritmos",
-        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 236361,
-      "name": "Solo Le Dije",
-      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 198293,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Algo Ritmos",
+        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 236361,
+      "name": "Solo Le Dije",
+      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Sin Remitente",
-        "url": "https://open.spotify.com/album/2TQrSBphFOeDoJNmpXf3Ho"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Balbis",
-          "url": "https://open.spotify.com/artist/7HubTnEWI11WfxULdbqvti"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "Canci\u00f3n Con Vos",
-      "url": "https://open.spotify.com/track/1n8gAVu2tbxH116K126H9c"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 204746,
       "name": "Carta",
       "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Sin Remitente",
+        "url": "https://open.spotify.com/album/2TQrSBphFOeDoJNmpXf3Ho"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Balbis",
+          "url": "https://open.spotify.com/artist/7HubTnEWI11WfxULdbqvti"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Canci\u00f3n Con Vos",
+      "url": "https://open.spotify.com/track/1n8gAVu2tbxH116K126H9c"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) [Live on Pardelion Music]",
         "url": "https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af"
       },
@@ -1223,38 +1239,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+        "name": "El Perro Feroz",
+        "url": "https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0"
       },
       "artists": [
         {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Impulso",
-        "url": "https://open.spotify.com/album/1szqXDTyWrUkOhHUrOwy71"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
         },
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 180853,
-      "name": "Impulso",
-      "url": "https://open.spotify.com/track/5uaNuyJkZ9jKvpopPQLbT3"
+      "duration_ms": 140928,
+      "name": "Diente de Le\u00f3n",
+      "url": "https://open.spotify.com/track/2Ha5vGs7uWxVhHx3O8xdNe"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1279,22 +1279,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "El Perro Feroz",
-        "url": "https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0"
+        "name": "Impulso",
+        "url": "https://open.spotify.com/album/1szqXDTyWrUkOhHUrOwy71"
       },
       "artists": [
         {
-          "name": "Anthony Escand\u00f3n",
-          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
         },
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
         }
       ],
-      "duration_ms": 140928,
-      "name": "Diente de Le\u00f3n",
-      "url": "https://open.spotify.com/track/2Ha5vGs7uWxVhHx3O8xdNe"
+      "duration_ms": 180853,
+      "name": "Impulso",
+      "url": "https://open.spotify.com/track/5uaNuyJkZ9jKvpopPQLbT3"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/2LOiM1ZumqvUE6Imy2AdwT"
+      },
+      "artists": [
+        {
+          "name": "Elena Gadel",
+          "url": "https://open.spotify.com/artist/1xRDIbNubdwQ6WGevJWCHO"
+        }
+      ],
+      "duration_ms": 276386,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/7yRhEZ11EWwbHwIUQmxT49"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Mundo Nuevo",
         "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
       },
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/2LOiM1ZumqvUE6Imy2AdwT"
-      },
-      "artists": [
-        {
-          "name": "Elena Gadel",
-          "url": "https://open.spotify.com/artist/1xRDIbNubdwQ6WGevJWCHO"
-        }
-      ],
-      "duration_ms": 276386,
-      "name": "Lobo",
-      "url": "https://open.spotify.com/track/7yRhEZ11EWwbHwIUQmxT49"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Laura Itandehui",
         "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
@@ -1539,6 +1539,22 @@
       "duration_ms": 290250,
       "name": "Tratar\u00e9",
       "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "No me pidas que no sea un inconsciente",
+        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        }
+      ],
+      "duration_ms": 133859,
+      "name": "No me pidas que no sea un inconsciente",
+      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1579,26 +1595,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "La Sangre del Mundo",
-        "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        },
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Coplas (feat. Perot\u00e1 Ching\u00f3)",
-      "url": "https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
       },
@@ -1615,18 +1611,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "No me pidas que no sea un inconsciente",
-        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
+        "name": "La Sangre del Mundo",
+        "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
       },
       "artists": [
         {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        },
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 133859,
-      "name": "No me pidas que no sea un inconsciente",
-      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
+      "duration_ms": 264160,
+      "name": "Coplas (feat. Perot\u00e1 Ching\u00f3)",
+      "url": "https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1683,26 +1683,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/5DSlYtdAQ7x3KxldkrAwBg"
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM"
       },
       "artists": [
         {
-          "name": "IRIA M",
-          "url": "https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa"
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
         },
         {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/4HWvloZKsYg0HmsnFMkeNO"
-        },
-        {
-          "name": "Factoria Chakataga",
-          "url": "https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl"
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
         }
       ],
-      "duration_ms": 146731,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/7wKz16Le77RMTt0eOGPp0v"
+      "duration_ms": 203636,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1763,6 +1759,30 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/5DSlYtdAQ7x3KxldkrAwBg"
+      },
+      "artists": [
+        {
+          "name": "IRIA M",
+          "url": "https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa"
+        },
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/4HWvloZKsYg0HmsnFMkeNO"
+        },
+        {
+          "name": "Factoria Chakataga",
+          "url": "https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl"
+        }
+      ],
+      "duration_ms": 146731,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/7wKz16Le77RMTt0eOGPp0v"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Imaginar",
         "url": "https://open.spotify.com/album/458jUi8UaIvuFrCg9B2ArI"
       },
@@ -1795,22 +1815,6 @@
       "duration_ms": 279333,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "Una Fecha En El Calendario",
-      "url": "https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO"
     }
   ],
   "unique_name": "Cancionistas",

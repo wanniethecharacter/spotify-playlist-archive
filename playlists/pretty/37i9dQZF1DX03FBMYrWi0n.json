@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle - avec Le Couleur, Gab Bouchard, blesse et bien plus.",
-  "num_followers": 869,
+  "num_followers": 880,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMGJmYjRkODcxMjE5ZTRlYzQ0MWJlYThmNmM0YjgxYWE2",
+  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDkzZGNmZGYxMTFmNDE0OTUwNTUzYmUwMjUzYTczMzNm",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "\u200emile \u200eend",
+        "url": "https://open.spotify.com/album/1BzvJjxfU31LFay7pcJJsL"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "\u200emile \u200eend",
+      "url": "https://open.spotify.com/track/1KxxA8990AfM6Fy6OdY9VU"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Portraits de famine",
         "url": "https://open.spotify.com/album/6INsKgWoaYYDHCbHOR4BZz"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "\u200emile \u200eend",
-        "url": "https://open.spotify.com/album/1BzvJjxfU31LFay7pcJJsL"
+        "name": "Supermercado",
+        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
       },
       "artists": [
         {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
         }
       ],
-      "duration_ms": 192000,
-      "name": "\u200emile \u200eend",
-      "url": "https://open.spotify.com/track/1KxxA8990AfM6Fy6OdY9VU"
+      "duration_ms": 242800,
+      "name": "Le grand \u00e9cart",
+      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -459,22 +475,6 @@
       "duration_ms": 189712,
       "name": "DIMANCHE SOIR",
       "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Supermercado",
-        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
-      },
-      "artists": [
-        {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
-        }
-      ],
-      "duration_ms": 242800,
-      "name": "Le grand \u00e9cart",
-      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/4TLtqGfe71qF4fY5n83JgE"
-      },
-      "artists": [
-        {
-          "name": "SUUNS",
-          "url": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
-        }
-      ],
-      "duration_ms": 239951,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/7JjHkIW5WcA68HTYu3K75b"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "We Are Sunshine",
         "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 195000,
       "name": "The Rabbit Song",
       "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/4TLtqGfe71qF4fY5n83JgE"
+      },
+      "artists": [
+        {
+          "name": "SUUNS",
+          "url": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
+        }
+      ],
+      "duration_ms": 239951,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/7JjHkIW5WcA68HTYu3K75b"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "The Witness",
-        "url": "https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl"
-      },
-      "artists": [
-        {
-          "name": "SUUNS",
-          "url": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
-        }
-      ],
-      "duration_ms": 249072,
-      "name": "Witness Protection",
-      "url": "https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Disruption",
         "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
       },
@@ -787,6 +771,38 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "The Witness",
+        "url": "https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl"
+      },
+      "artists": [
+        {
+          "name": "SUUNS",
+          "url": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
+        }
+      ],
+      "duration_ms": 249072,
+      "name": "Witness Protection",
+      "url": "https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Fleur de l'\u00c2ge",
+        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
+      },
+      "artists": [
+        {
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        }
+      ],
+      "duration_ms": 202996,
+      "name": "Shoegaze",
+      "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Piscine hors terre",
         "url": "https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 156933,
       "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
       "url": "https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Fleur de l'\u00c2ge",
-        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 202996,
-      "name": "Shoegaze",
-      "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Premier juin",
         "url": "https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 268426,
       "name": "Ma\u00efa",
       "url": "https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
+      },
+      "artists": [
+        {
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Et Hop",
-        "url": "https://open.spotify.com/album/5aVvhOTAFcdh4QxQs4aF0Z"
-      },
-      "artists": [
-        {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
-        }
-      ],
-      "duration_ms": 194239,
-      "name": "Et Hop",
-      "url": "https://open.spotify.com/track/6BxyLvcmA4us1mKVtZ8P09"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "O\u00f9 nos corps s'en vont mourir",
         "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 177413,
       "name": "Amy",
       "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Et Hop",
+        "url": "https://open.spotify.com/album/5aVvhOTAFcdh4QxQs4aF0Z"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "duration_ms": 194239,
+      "name": "Et Hop",
+      "url": "https://open.spotify.com/track/6BxyLvcmA4us1mKVtZ8P09"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Choses Sauvages II",
-        "url": "https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt"
-      },
-      "artists": [
-        {
-          "name": "Choses Sauvages",
-          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Chambre d'\u00e9cho",
-      "url": "https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 131015,
       "name": "Shine",
       "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Choses Sauvages II",
+        "url": "https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt"
+      },
+      "artists": [
+        {
+          "name": "Choses Sauvages",
+          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Chambre d'\u00e9cho",
+      "url": "https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Ta yeule, toute va ben",
-        "url": "https://open.spotify.com/album/7czM4O7ElmQ8WOCrav1Vxf"
-      },
-      "artists": [
-        {
-          "name": "FUUDGE",
-          "url": "https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi"
-        }
-      ],
-      "duration_ms": 144906,
-      "name": "Ta yeule, toute va ben",
-      "url": "https://open.spotify.com/track/2WSaDhLKwesu1YFWdFoB5u"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Totalement Sublime",
         "url": "https://open.spotify.com/album/6MQXmQjOXqN47I1y3172Td"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 243950,
       "name": "OMG (oiseau)",
       "url": "https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Ta yeule, toute va ben",
+        "url": "https://open.spotify.com/album/7czM4O7ElmQ8WOCrav1Vxf"
+      },
+      "artists": [
+        {
+          "name": "FUUDGE",
+          "url": "https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi"
+        }
+      ],
+      "duration_ms": 144906,
+      "name": "Ta yeule, toute va ben",
+      "url": "https://open.spotify.com/track/2WSaDhLKwesu1YFWdFoB5u"
     }
   ],
   "unique_name": "ALT_QC",

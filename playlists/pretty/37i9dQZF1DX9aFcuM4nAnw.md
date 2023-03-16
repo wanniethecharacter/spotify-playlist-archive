@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,498 likes - 75 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,503 likes - 75 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 55 | [Babel](https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7) | [The Word as Power](https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy) | 10:01 |
 | 56 | [Vortex](https://open.spotify.com/track/5cE9YBCzeAC91L9bq7sAfi) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes](https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9) | 4:44 |
 | 57 | [Under the Midnight Sun](https://open.spotify.com/track/3OqqbGF64e51ooNpMAF9i5) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/2vGukamccOX7WCqir66kWT) | 3:42 |
-| 58 | [The Moment Before You Fall Asleep](https://open.spotify.com/track/7AwHujsWTO74KJ6yDbQQbk) | [ALLSEITS](https://open.spotify.com/artist/3KEZRlZ6GtlMcK6ICypOAD) | [Cycles "Cyclic Law's 10th Year Anniversary Label Sampler"](https://open.spotify.com/album/6aPaiQi44SS1IPE6bU5dLp) | 8:28 |
-| 59 | [The Ruins And The Serene](https://open.spotify.com/track/4VjOSSo1o605t3tYZNFgs3) | [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [Asleep And Well Hidden](https://open.spotify.com/album/1LUPlzy1smiOY2YFEA04AZ) | 7:10 |
+| 58 | [The Ruins And The Serene](https://open.spotify.com/track/4VjOSSo1o605t3tYZNFgs3) | [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [Asleep And Well Hidden](https://open.spotify.com/album/1LUPlzy1smiOY2YFEA04AZ) | 7:10 |
+| 59 | [The Moment Before You Fall Asleep](https://open.spotify.com/track/7AwHujsWTO74KJ6yDbQQbk) | [ALLSEITS](https://open.spotify.com/artist/3KEZRlZ6GtlMcK6ICypOAD) | [Cycles "Cyclic Law's 10th Year Anniversary Label Sampler"](https://open.spotify.com/album/6aPaiQi44SS1IPE6bU5dLp) | 8:28 |
 | 60 | [What the Earth Bore](https://open.spotify.com/track/4vfQOjhjyywh8OJQOAeGXD) | [Apocryphos](https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP), [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ), [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr) | [Echo](https://open.spotify.com/album/1LN7F08ntBaf1E63RlSmpT) | 4:44 |
 | 61 | [The Willows](https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Willows](https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU) | 4:43 |
 | 62 | [Aesthetic](https://open.spotify.com/track/3ATbLqkrK5N5rKKQLW9WfE) | [Enmarta](https://open.spotify.com/artist/06w0fwBJQtrtvs5iU9UVqs) | [Sea of Black](https://open.spotify.com/album/01pQ8hR7osCIMZ7nXKTcid) | 6:26 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 65 | [Anthropic Uncreation](https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP) | [Vestigial](https://open.spotify.com/artist/6NgdG349NLTViR0NJqGGRV) | [Translucent Communion](https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl) | 5:16 |
 | 66 | [Dance of the Mince Pie Martians](https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF) | [The Night Monitor](https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm) | [Perception Report 2](https://open.spotify.com/album/4HRx2jXRLDMwaGQ5OgtIat) | 4:14 |
 | 67 | [Interior Synthesis of Polarity](https://open.spotify.com/track/1rDKcl40U9HOF6VFQoSwqU) | [Inade](https://open.spotify.com/artist/4pFSQZfXbBzabeOT7necWo) | [Delineation.Metamorphosis.Permanence.](https://open.spotify.com/album/64vjzqH3ZpsUvO8dZ9NZyr) | 5:10 |
-| 68 | [Loneliness](https://open.spotify.com/track/2ttcbHh6jc3fil4h9BIs7A) | [New Risen Throne](https://open.spotify.com/artist/2PBztP9oVOgzWXiIrXONKi) | [Loneliness of Hidden Structures](https://open.spotify.com/album/5zmFF4XK5jiz9i8yNvMyiS) | 9:14 |
-| 69 | [Teresa, Lark of Ascension](https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Berberian Sound Studio](https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C) | 3:37 |
+| 68 | [Teresa, Lark of Ascension](https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Berberian Sound Studio](https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C) | 3:37 |
+| 69 | [Loneliness](https://open.spotify.com/track/2ttcbHh6jc3fil4h9BIs7A) | [New Risen Throne](https://open.spotify.com/artist/2PBztP9oVOgzWXiIrXONKi) | [Loneliness of Hidden Structures](https://open.spotify.com/album/5zmFF4XK5jiz9i8yNvMyiS) | 9:14 |
 | 70 | [Vocerah](https://open.spotify.com/track/0MkIIsZx4D5fKp0pMZOEQr) | [Treha Sektori](https://open.spotify.com/artist/4JuuDx7VBaILvOOnTiWEDh) | [Endessiah](https://open.spotify.com/album/2CJSxFuH7DhuiWweDbwBQH) | 6:06 |
 | 71 | [Bathyscaphe](https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I) | [Germind](https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh) | [Bathyscaphe](https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp) | 3:12 |
 | 72 | [The Magi](https://open.spotify.com/track/1Ma5XYumHN0yAp5yzaWReq) | [Council of Nine](https://open.spotify.com/artist/3m9vrJ0nacuuhkK5tvqInR) | [Dakhma](https://open.spotify.com/album/2ySAn302IJRRc3PJpkuRfM) | 10:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 74 | [Ambulance Chase](https://open.spotify.com/track/7mOxAfHsYo0SsmPhVKEWVD) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Annihilation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG) | 2:58 |
 | 75 | [Sticks and Stones](https://open.spotify.com/track/2B0IVAINVS2tD7m1P2dZPx) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 4:02 |
 
-Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMGYwZTBiZjU0YjZmYzgzM2IzMDFmNmExNjg1YzBmZjJl`
+Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMDhmZTc0M2ZmNzQzODc5OGM2ODJhZmQ5ZDE0OGZiNTk1`

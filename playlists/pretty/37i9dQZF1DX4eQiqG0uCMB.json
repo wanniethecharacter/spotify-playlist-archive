@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 16340,
+  "num_followers": 16384,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ1MzA5NywwMDAwMDAwMDYwN2Q1MzlkMTNlN2YxNWQyYzIxMDliYTBlMzBlZmZk",
+  "snapshot_id": "MTY3ODQ1MzA5NywwMDAwMDAwMDc1ZWUyODc0Y2E2NDMxOGQxZTM0MTA3YjIyN2ZiYWEy",
   "tracks": [
     {
       "added_at": "2023-03-03 08:21:05",
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-03-03 08:21:05",
       "album": {
-        "name": "Afro Pop, Vol. 1",
-        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+        "name": "Jolie",
+        "url": "https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 186299,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
+      "duration_ms": 209235,
+      "name": "Jolie",
+      "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
     },
     {
       "added_at": "2023-03-03 08:21:05",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-03-03 08:21:05",
       "album": {
-        "name": "Jolie",
-        "url": "https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ"
+        "name": "Afro Pop, Vol. 1",
+        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 209235,
-      "name": "Jolie",
-      "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
+      "duration_ms": 186299,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
     },
     {
       "added_at": "2023-03-03 08:21:05",
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0"
     },
     {
-      "added_at": "2023-03-15 01:05:51",
+      "added_at": "2023-03-16 00:54:15",
       "album": {
         "name": "2 Bad",
         "url": "https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ"
@@ -499,22 +499,18 @@
     {
       "added_at": "2023-03-03 08:21:05",
       "album": {
-        "name": "THENIGHTISYOUNG.",
-        "url": "https://open.spotify.com/album/4np0ohQb06VAAitOpk3Rt4"
+        "name": "Earth Song",
+        "url": "https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP"
       },
       "artists": [
         {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
         }
       ],
-      "duration_ms": 254315,
-      "name": "Wait For You (feat. Oxlade)",
-      "url": "https://open.spotify.com/track/1OgoSHtTZyMJt3ns3e5Lui"
+      "duration_ms": 183536,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy"
     },
     {
       "added_at": "2023-03-03 08:21:05",
@@ -539,18 +535,22 @@
     {
       "added_at": "2023-03-03 08:21:05",
       "album": {
-        "name": "Earth Song",
-        "url": "https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP"
+        "name": "THENIGHTISYOUNG.",
+        "url": "https://open.spotify.com/album/4np0ohQb06VAAitOpk3Rt4"
       },
       "artists": [
         {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 183536,
-      "name": "Earth Song",
-      "url": "https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy"
+      "duration_ms": 254315,
+      "name": "Wait For You (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/1OgoSHtTZyMJt3ns3e5Lui"
     },
     {
       "added_at": "2023-03-03 08:21:05",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-03-03 08:21:05",
       "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+        "name": "In My Mind - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 203026,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
+      "duration_ms": 136800,
+      "name": "In My Mind - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
     },
     {
       "added_at": "2023-03-03 08:21:05",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-03-03 08:21:05",
       "album": {
-        "name": "In My Mind - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
       "artists": [
         {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 136800,
-      "name": "In My Mind - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
+      "duration_ms": 203026,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
     },
     {
       "added_at": "2023-03-03 08:21:05",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-03-03 08:21:05",
       "album": {
-        "name": "Eye to Eye",
-        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
+        "name": "WITH YOU",
+        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
       },
       "artists": [
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 156771,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
+      "duration_ms": 192475,
+      "name": "WITH YOU",
+      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
     },
     {
       "added_at": "2023-03-03 08:21:05",

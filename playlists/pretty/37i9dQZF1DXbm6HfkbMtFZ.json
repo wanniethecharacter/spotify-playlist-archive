@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 653340,
+  "num_followers": 653500,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NjIxOSwwMDAwMDAwMGQwMjM2Y2ZmYjc2OGY4OGM4YjI4NDJjNTM0YWZiYzRi",
+  "snapshot_id": "MTY3ODQ4NjIxOSwwMDAwMDAwMGFhMzUyZWEzNmZhNDBiMDA2OTlmN2IxZTlmMjg0Nzli",
   "tracks": [
     {
       "added_at": "2023-02-10 03:21:22",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
     },
     {
-      "added_at": "2023-03-15 00:50:20",
+      "added_at": "2023-03-16 01:02:05",
       "album": {
         "name": "Cari\u00f1o",
         "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
         "name": "Asc. Scorpio",
         "url": "https://open.spotify.com/album/7JU9R2cwpftETvz94nhUfR"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 166601,
       "name": "Asc. Scorpio",
       "url": "https://open.spotify.com/track/3Af0Uw9IfaJzb6ZBi2Jdl6"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Silk Degrees",
-        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 315640,
-      "name": "Lowdown",
-      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -269,7 +253,23 @@
       "url": "https://open.spotify.com/track/6lrQo6KAYvb92MGk6ZuZlt"
     },
     {
-      "added_at": "2023-03-15 00:50:20",
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "Silk Degrees",
+        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 315640,
+      "name": "Lowdown",
+      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
+    },
+    {
+      "added_at": "2023-03-16 01:02:05",
       "album": {
         "name": "From 2 to 3",
         "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
+        "name": "Coney Island Baby",
+        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 159093,
+      "name": "Charley's Girl",
+      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -607,18 +623,18 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Coney Island Baby",
-        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
       },
       "artists": [
         {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
         }
       ],
-      "duration_ms": 159093,
-      "name": "Charley's Girl",
-      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
+      "duration_ms": 210726,
+      "name": "If Not for You - 2014 Remaster",
+      "url": "https://open.spotify.com/track/5zUP3RRw1vmZAsswtE3GrP"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -655,22 +671,6 @@
       "duration_ms": 163306,
       "name": "Long Distance Love",
       "url": "https://open.spotify.com/track/64lIUwQx1vwo4PIrS5jYb1"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 210726,
-      "name": "If Not for You - 2014 Remaster",
-      "url": "https://open.spotify.com/track/5zUP3RRw1vmZAsswtE3GrP"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Spooky (Single Version)",
-      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 195080,
       "name": "Something New",
       "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Spooky (Single Version)",
+      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Rhymes & Reasons",
-        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "Bitter with the Sweet",
-      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
         "name": "Ga Ga Ga Ga Ga (2017 Remaster)",
         "url": "https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 216720,
       "name": "Don't You Evah",
       "url": "https://open.spotify.com/track/3UytFqZuZwJFsTPti5gcPB"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "Rhymes & Reasons",
+        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "Bitter with the Sweet",
+      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Just Like You Used To",
-        "url": "https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q"
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
       "artists": [
         {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 188155,
-      "name": "Just Like You Used To",
-      "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
+      "duration_ms": 221600,
+      "name": "On + Off",
+      "url": "https://open.spotify.com/track/2kvwSbG26eHKUJdvH7DiR2"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+        "name": "Just Like You Used To",
+        "url": "https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 221600,
-      "name": "On + Off",
-      "url": "https://open.spotify.com/track/2kvwSbG26eHKUJdvH7DiR2"
+      "duration_ms": 188155,
+      "name": "Just Like You Used To",
+      "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "You're so Fine",
-        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
-      },
-      "artists": [
-        {
-          "name": "Papa Bear & His Cubs",
-          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "You're so Fine",
-      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
         "name": "The Information",
         "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 199426,
       "name": "Think I'm In Love",
       "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "You're so Fine",
+        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
+      },
+      "artists": [
+        {
+          "name": "Papa Bear & His Cubs",
+          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "You're so Fine",
+      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "You and Me and Everything",
-        "url": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
-      },
-      "artists": [
-        {
-          "name": "T\u014dth",
-          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "duration_ms": 216901,
-      "name": "I Might Be",
-      "url": "https://open.spotify.com/track/5uKH4nY6ALq8jGNZ0BYlBH"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
         "name": "Get On The Otherside",
         "url": "https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 229080,
       "name": "The Otherside",
       "url": "https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "You and Me and Everything",
+        "url": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
+      },
+      "artists": [
+        {
+          "name": "T\u014dth",
+          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "duration_ms": 216901,
+      "name": "I Might Be",
+      "url": "https://open.spotify.com/track/5uKH4nY6ALq8jGNZ0BYlBH"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Origin",
-        "url": "https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy"
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0J3nz9lYQ4LjfKkfyAy0VB"
       },
       "artists": [
         {
-          "name": "Vanilla",
-          "url": "https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn"
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
         }
       ],
-      "duration_ms": 239952,
-      "name": "Swept Away",
-      "url": "https://open.spotify.com/track/06YoxtZayqXJsMgRSB2X6G"
+      "duration_ms": 202253,
+      "name": "Time Was",
+      "url": "https://open.spotify.com/track/1lLQtlPli8kTLJsTrcnRuQ"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "The Emitt Rhodes Recordings (1969-1973)",
-        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy"
       },
       "artists": [
         {
-          "name": "Emitt Rhodes",
-          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
+          "name": "Vanilla",
+          "url": "https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn"
         }
       ],
-      "duration_ms": 146680,
-      "name": "Somebody Made For Me",
-      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
+      "duration_ms": 239952,
+      "name": "Swept Away",
+      "url": "https://open.spotify.com/track/06YoxtZayqXJsMgRSB2X6G"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0J3nz9lYQ4LjfKkfyAy0VB"
-      },
-      "artists": [
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Time Was",
-      "url": "https://open.spotify.com/track/1lLQtlPli8kTLJsTrcnRuQ"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Make You",
-        "url": "https://open.spotify.com/album/2R3BPuzo1srqdas4Y60gL7"
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
       },
       "artists": [
         {
-          "name": "Famous Yesterday",
-          "url": "https://open.spotify.com/artist/6SQu8AZw8mjUFT6GFxBJ7h"
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
         }
       ],
-      "duration_ms": 170165,
-      "name": "Make You",
-      "url": "https://open.spotify.com/track/7DXQPLHpsoSkDCOmw6jdyf"
+      "duration_ms": 146680,
+      "name": "Somebody Made For Me",
+      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1431,6 +1415,22 @@
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "Make You",
+        "url": "https://open.spotify.com/album/2R3BPuzo1srqdas4Y60gL7"
+      },
+      "artists": [
+        {
+          "name": "Famous Yesterday",
+          "url": "https://open.spotify.com/artist/6SQu8AZw8mjUFT6GFxBJ7h"
+        }
+      ],
+      "duration_ms": 170165,
+      "name": "Make You",
+      "url": "https://open.spotify.com/track/7DXQPLHpsoSkDCOmw6jdyf"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
-      },
-      "artists": [
-        {
-          "name": "Neal Francis",
-          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
-        }
-      ],
-      "duration_ms": 390200,
-      "name": "Changes, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
         "name": "Loving In Stereo",
         "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 194373,
       "name": "Goodbye My Love",
       "url": "https://open.spotify.com/track/0O5H4Mg0iOhvRYsYMCZ07D"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
+      },
+      "artists": [
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "duration_ms": 390200,
+      "name": "Changes, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
+        "name": "Rock Your Baby",
+        "url": "https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "You Can Have It All",
+      "url": "https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/4Hm7KHdv1q1T8hDiMbKJqS"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 234746,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/60q1qCrbsMcz1Dj0mBTjhH"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
-        "name": "Rock Your Baby",
-        "url": "https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM"
-      },
-      "artists": [
-        {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "You Can Have It All",
-      "url": "https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
+        "name": "Boys, B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U"
+      },
+      "artists": [
+        {
+          "name": "Spang Sisters",
+          "url": "https://open.spotify.com/artist/55LV0taR11yxOICTZORibT"
+        }
+      ],
+      "duration_ms": 156788,
+      "name": "King Prawn The 1st",
+      "url": "https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
         "name": "The Atlantic Ocean",
         "url": "https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO"
       },
@@ -1871,18 +1887,18 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "I Want To See The Bright Lights Tonight",
-        "url": "https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt"
+        "name": "Life and Life Only",
+        "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
       },
       "artists": [
         {
-          "name": "Richard & Linda Thompson",
-          "url": "https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5"
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
         }
       ],
-      "duration_ms": 189586,
-      "name": "I Want To See The Bright Lights Tonight",
-      "url": "https://open.spotify.com/track/3jd3nPQtwKS3HY6A8XpXx5"
+      "duration_ms": 266106,
+      "name": "Go Down River",
+      "url": "https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1903,34 +1919,18 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Boys, B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U"
+        "name": "Try and Love",
+        "url": "https://open.spotify.com/album/27xu9zZKCUm7mCoZlMkQpC"
       },
       "artists": [
         {
-          "name": "Spang Sisters",
-          "url": "https://open.spotify.com/artist/55LV0taR11yxOICTZORibT"
+          "name": "Ofege",
+          "url": "https://open.spotify.com/artist/05LK9pT8ScfWNT0UbDsyqe"
         }
       ],
-      "duration_ms": 156788,
-      "name": "King Prawn The 1st",
-      "url": "https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
-        "name": "Pulse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
-      },
-      "artists": [
-        {
-          "name": "Greg Phillinganes",
-          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
-        }
-      ],
-      "duration_ms": 326613,
-      "name": "Lazy Nina",
-      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
+      "duration_ms": 263338,
+      "name": "It's Not Easy",
+      "url": "https://open.spotify.com/track/1AJpZtYHY7MD21Tkcg9wlE"
     }
   ],
   "unique_name": "Feel Good Dinner",

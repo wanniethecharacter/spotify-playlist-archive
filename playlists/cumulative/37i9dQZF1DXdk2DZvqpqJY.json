@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 203836,
       "name": "Lofi Sauce",
       "url": "https://open.spotify.com/track/3bAUmGi6G9MNWIkTmap9WD"
@@ -3166,6 +3166,28 @@
       "duration_ms": 157230,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/6XSQwisZPSsvumchd6u56q"
+    },
+    {
+      "album": {
+        "name": "Pinecone (feat. Joe Webb)",
+        "url": "https://open.spotify.com/album/1oaKO5r4jqYYlKcudsKegI"
+      },
+      "artists": [
+        {
+          "name": "Chris Hyson",
+          "url": "https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd"
+        },
+        {
+          "name": "Joe Webb",
+          "url": "https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356146,
+      "name": "Pinecone (feat. Joe Webb)",
+      "url": "https://open.spotify.com/track/4VGut8AX4LO2dWv4YbN6VS"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these classic power ballads. Cover: Styx",
-  "num_followers": 1099864,
+  "num_followers": 1100109,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA1Nzk5NSwwMDAwMDAwMGYwMzEwMWE2MGVlMDFiODQ3ZmMxOGQxYTJiODhiMGM0",
+  "snapshot_id": "MTY3NDA1Nzk5NSwwMDAwMDAwMDJmYTI5NzIxYmVjYjA2NjIwODQ3NjMxODI3ZGUyN2E3",
   "tracks": [
     {
       "added_at": "2023-01-18 16:06:35",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Slave to the Grind",
-        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "In a Darkened Room",
-      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
         "name": "Tooth and Nail",
         "url": "https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 262200,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "In a Darkened Room",
+      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
     },
     {
       "added_at": "2023-01-18 16:06:35",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 247466,
-      "name": "Can't Stop Lovin' You",
-      "url": "https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
         "name": "Vixen",
         "url": "https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 265333,
       "name": "Edge Of A Broken Heart",
       "url": "https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 247466,
+      "name": "Can't Stop Lovin' You",
+      "url": "https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe"
     },
     {
       "added_at": "2023-01-18 16:06:35",

@@ -1,12 +1,12 @@
 {
   "description": "No need for a gadget, just play these rock songs to set your pace!",
-  "num_followers": 968409,
+  "num_followers": 968805,
   "original_name": "Running to Rock 170-190 BPM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwOTYwMiwwMDAwMDAwMDA4NTlhNzJkNWEwYjY5NTUwMTc4NDMxYzFkOGM2ZWIw",
+  "snapshot_id": "MTY3NDgwOTYwMiwwMDAwMDAwMDI0NjY0ZmU4NWVmMTZjMDFmNjBiYTliZjQ3MTk0ZTVi",
   "tracks": [
     {
       "added_at": "2023-01-27 08:53:22",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-01-27 08:53:22",
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Dance Macabre",
-      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
-    },
-    {
-      "added_at": "2023-01-27 08:53:22",
-      "album": {
         "name": "Seal The Deal & Let's Boogie",
         "url": "https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 238653,
       "name": "The Devil's Bleeding Crown",
       "url": "https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ"
+    },
+    {
+      "added_at": "2023-01-27 08:53:22",
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Dance Macabre",
+      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
     },
     {
       "added_at": "2023-01-27 08:53:22",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-01-27 08:53:22",
       "album": {
-        "name": "Connect",
-        "url": "https://open.spotify.com/album/6rL7tAqRqT4DL4I1bcADTi"
-      },
-      "artists": [
-        {
-          "name": "Sick Puppies",
-          "url": "https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "Gunfight",
-      "url": "https://open.spotify.com/track/0is4yL58CcQ4Gv4WgTGr9N"
-    },
-    {
-      "added_at": "2023-01-27 08:53:22",
-      "album": {
         "name": "Infest",
         "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 213866,
       "name": "Blood Brothers",
       "url": "https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M"
+    },
+    {
+      "added_at": "2023-01-27 08:53:22",
+      "album": {
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/6rL7tAqRqT4DL4I1bcADTi"
+      },
+      "artists": [
+        {
+          "name": "Sick Puppies",
+          "url": "https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "Gunfight",
+      "url": "https://open.spotify.com/track/0is4yL58CcQ4Gv4WgTGr9N"
     },
     {
       "added_at": "2023-01-27 08:53:22",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-01-27 08:53:22",
       "album": {
-        "name": "Got Your Six (Deluxe)",
-        "url": "https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 187670,
-      "name": "Hell to Pay",
-      "url": "https://open.spotify.com/track/6J97fOUqgVLcb1eg21QXjg"
-    },
-    {
-      "added_at": "2023-01-27 08:53:22",
-      "album": {
         "name": "Blue Collar Revolver",
         "url": "https://open.spotify.com/album/39zrUrsdRQdUlGx3Y9CUaV"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 210200,
       "name": "Watch Me Burn",
       "url": "https://open.spotify.com/track/4Y33fbX6KcOfP0xZhYMwO5"
+    },
+    {
+      "added_at": "2023-01-27 08:53:22",
+      "album": {
+        "name": "Got Your Six (Deluxe)",
+        "url": "https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 187670,
+      "name": "Hell to Pay",
+      "url": "https://open.spotify.com/track/6J97fOUqgVLcb1eg21QXjg"
     },
     {
       "added_at": "2023-01-27 08:53:22",

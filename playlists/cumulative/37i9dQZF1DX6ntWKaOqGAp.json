@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita",
+        "url": "https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "Gominingen,Ore",
+      "url": "https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9"
+    },
+    {
+      "album": {
         "name": "Hard Pool",
         "url": "https://open.spotify.com/album/6iTuwCBoK9AHf5EaOAVDoo"
       },
@@ -1080,10 +1098,28 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 246965,
       "name": "Leap",
       "url": "https://open.spotify.com/track/3hrZ10jvm7019DdwZLxmCU"
+    },
+    {
+      "album": {
+        "name": "Leap",
+        "url": "https://open.spotify.com/album/7HYIajVHlesffzuOM67G6Q"
+      },
+      "artists": [
+        {
+          "name": "Uniolla",
+          "url": "https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246965,
+      "name": "Leap",
+      "url": "https://open.spotify.com/track/5UvLomZ74b75rzQmYVkhG7"
     },
     {
       "album": {
@@ -1232,6 +1268,24 @@
       "duration_ms": 183966,
       "name": "Majogari",
       "url": "https://open.spotify.com/track/7K3I73wneZNLBnlgQiy4MG"
+    },
+    {
+      "album": {
+        "name": "A disease called love",
+        "url": "https://open.spotify.com/album/7ibmp11sVi3XwgkUDL2jUn"
+      },
+      "artists": [
+        {
+          "name": "Mr.\u3075\u3049\u308b\u3066",
+          "url": "https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191400,
+      "name": "malum",
+      "url": "https://open.spotify.com/track/5pcg88evNmLl6qA0wmDRQi"
     },
     {
       "album": {
@@ -2974,7 +3028,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 229173,
       "name": "\u30b4\u30df\u4eba\u9593\u3001\u4ffa",
       "url": "https://open.spotify.com/track/2VU59VkXEBNX4ZZf7SmGAy"
@@ -3436,7 +3490,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 191400,
       "name": "\u30de\u30fc\u30eb\u30e0 -malum-",
       "url": "https://open.spotify.com/track/0PhR2iDSWWu9jJ5tZmBvy1"

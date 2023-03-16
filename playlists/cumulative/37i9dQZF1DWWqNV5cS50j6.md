@@ -4,7 +4,7 @@
 
 > binki makes anti pop
 
-1,292 songs - 2 day 14 hr 19 min
+1,293 songs - 2 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [blue dream](https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [blue dream](https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK) | 3:08 | 2023-01-13 |  |
 | [Blue Sky](https://open.spotify.com/track/1z4dZhAeYPzlz0w0w4hvx6) | [Serena Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Blue Sky](https://open.spotify.com/album/0MO8idJcD9IGSaqT3u20g1) | 3:00 | 2020-10-13\* | 2021-02-27 |
 | [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 | 2021-05-03 | 2023-01-28 |
+| [boi](https://open.spotify.com/track/2M4Ocg9L98EgWv5rWAJe91) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [boi](https://open.spotify.com/album/4u909jrnQBU1LBq7Dyzc96) | 2:43 | 2023-03-15 |  |
 | [BOLD Willow Tree](https://open.spotify.com/track/5rPPJNrsX05TaWrvKPusB2) | [Meech](https://open.spotify.com/artist/6QAA99qGQqfOu3U8mlt32g), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU) | [BOLD Willow Tree](https://open.spotify.com/album/693EHFhJzzw7gQt1qnfQMV) | 3:36 | 2022-06-24 | 2022-11-10 |
 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd) | 2:57 | 2021-01-16 | 2021-10-16 |
 | [Bones](https://open.spotify.com/track/1xt2XZM7DJmzBercZ4Kw6Z) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Bones](https://open.spotify.com/album/0YJS2Jy7Npmvy0kt8WPVIt) | 2:48 | 2021-10-09 | 2022-02-12 |

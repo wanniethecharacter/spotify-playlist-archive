@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-314 songs - 18 hr 7 min
+315 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Não Faz Sentido](https://open.spotify.com/track/71u3cazj6RSbb3i32GIdfn) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [MARO, Vol\. 1](https://open.spotify.com/album/5FHSPkbttU2kA1DaHK5uTX) | 4:17 | 2022-05-14 | 2022-10-28 |
 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 | 2021-12-09 |  |
 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 | 2021-12-09 | 2022-10-28 |
-| [Ojos Noche \(feat\. Carla Morrison\)](https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Ojos Noche \(feat\. Carla Morrison\)](https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV) | 4:14 | 2021-12-09 |  |
+| [Ojos Noche \(feat\. Carla Morrison\)](https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Ojos Noche \(feat\. Carla Morrison\)](https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV) | 4:14 | 2021-12-09 | 2023-03-16 |
 | [Ola Adiós](https://open.spotify.com/track/4Ko9JaLUvf54PmluMaDCqm) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [Ola Adiós](https://open.spotify.com/album/2u4DIClRI7TDUbRY4mDZyr) | 3:03 | 2021-12-09 |  |
 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 | 2021-12-09 | 2022-11-13 |
 | [Otro Lado](https://open.spotify.com/track/5CW1lIQkzMj5SjFZgM40iE) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Otro Lado](https://open.spotify.com/album/4lZqShlTketzCTHWnUMX1K) | 3:57 | 2021-12-09 |  |
@@ -244,6 +244,7 @@
 | [Por Verte Llegar](https://open.spotify.com/track/6p6kREqbuJLlZiv86td57b) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Todo Da Vueltas](https://open.spotify.com/album/3japeSKHpX7ialXmToKWhX) | 3:32 | 2021-12-09 | 2022-07-29 |
 | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt) | 2:55 | 2021-12-09 |  |
 | [Péndulo \(feat\. Juan Pablo Vega\)](https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:05 | 2021-12-09 |  |
+| [Que Lindos \- Acústico](https://open.spotify.com/track/5v27oyFLBcK5Sv4hXkyEME) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 | 2023-03-15 |  |
 | [Que Pase El Mundo](https://open.spotify.com/track/3bHk6W0zqo8CxnPVMuMCyb) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Cuando Todo Se Detiene](https://open.spotify.com/album/2a15XHOtyoDeGkjtvnyohq) | 3:33 | 2022-05-14 |  |
 | [Que Pase El Mundo](https://open.spotify.com/track/5s5y1ePaldkSzo4vDeXRkG) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Que Pase El Mundo](https://open.spotify.com/album/091bcMOMnU8MwjwKS92L47) | 3:33 | 2021-12-09 | 2022-07-29 |
 | [Que Sepan Todos](https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc) | [Que Sepan Todos](https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5) | 3:25 | 2021-12-09 | 2022-10-28 |

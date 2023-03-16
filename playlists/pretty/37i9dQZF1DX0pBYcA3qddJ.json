@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 45447,
+  "num_followers": 45484,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgwNjAwMCwwMDAwMDAwMGQxZGI3MTE1OWRjOGM4OWI2Mjk1NzlhOGY1MmIxZmU2",
+  "snapshot_id": "MTY3ODgwNjAwMCwwMDAwMDAwMDlhMGFmYzUzNTAxOTYyY2M0YWI4NTE2MWI4OTg0N2E1",
   "tracks": [
     {
       "added_at": "2023-03-14 15:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
+        "name": "The Grants",
+        "url": "https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA"
       },
       "artists": [
         {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 270918,
-      "name": "Sugar for the Pill",
-      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
+      "duration_ms": 295201,
+      "name": "The Grants",
+      "url": "https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Nature undisclosed",
-        "url": "https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6"
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
       },
       "artists": [
         {
-          "name": "Keiko Ishida",
-          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         }
       ],
-      "duration_ms": 147661,
-      "name": "Nature undisclosed",
-      "url": "https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd"
+      "duration_ms": 270918,
+      "name": "Sugar for the Pill",
+      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -603,22 +603,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Gershwin: Piano Works",
-        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
+        "name": "Nature undisclosed",
+        "url": "https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6"
       },
       "artists": [
         {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+          "name": "Keiko Ishida",
+          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
         }
       ],
-      "duration_ms": 145200,
-      "name": "Song Book: The Man I Love. Slow and in singing style",
-      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
+      "duration_ms": 147661,
+      "name": "Nature undisclosed",
+      "url": "https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -639,18 +635,22 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Idaho Alien",
-        "url": "https://open.spotify.com/album/7734YWKxouZ4bqar1pn8uY"
+        "name": "Gershwin: Piano Works",
+        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
       },
       "artists": [
         {
-          "name": "Youth Lagoon",
-          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
         }
       ],
-      "duration_ms": 203166,
-      "name": "Idaho Alien",
-      "url": "https://open.spotify.com/track/7rFf9Pj2Td5lckif90QQkP"
+      "duration_ms": 145200,
+      "name": "Song Book: The Man I Love. Slow and in singing style",
+      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -675,22 +675,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Bach: Goldberg Variations (Extended Edt.)",
-        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+        "name": "Idaho Alien",
+        "url": "https://open.spotify.com/album/7734YWKxouZ4bqar1pn8uY"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
         }
       ],
-      "duration_ms": 140040,
-      "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
-      "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
+      "duration_ms": 203166,
+      "name": "Idaho Alien",
+      "url": "https://open.spotify.com/track/7rFf9Pj2Td5lckif90QQkP"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -711,6 +707,42 @@
       "duration_ms": 482826,
       "name": "Piano Sonata No. 17 in D Minor, Op. 31 No. 2 \"Tempest\": II. Adagio",
       "url": "https://open.spotify.com/track/26p6uHgec5vDmPM8mur2Dc"
+    },
+    {
+      "added_at": "2023-03-14 15:00:00",
+      "album": {
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 140040,
+      "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
+      "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
+    },
+    {
+      "added_at": "2023-03-14 15:00:00",
+      "album": {
+        "name": "Transcription",
+        "url": "https://open.spotify.com/album/0QrWidFtuVUPvxl2Mq8tqu"
+      },
+      "artists": [
+        {
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Drawing - transcription ver.",
+      "url": "https://open.spotify.com/track/7g2W5rKkGCv1B4FqlXTVNC"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -739,18 +771,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Transcription",
-        "url": "https://open.spotify.com/album/0QrWidFtuVUPvxl2Mq8tqu"
+        "name": "Four Nocturnes",
+        "url": "https://open.spotify.com/album/0aheGuEnQDm2C0f8tm6A3u"
       },
       "artists": [
         {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+          "name": "Ironomi",
+          "url": "https://open.spotify.com/artist/62tSwHM7qLhiSDtVSf51Y5"
         }
       ],
-      "duration_ms": 211746,
-      "name": "Drawing - transcription ver.",
-      "url": "https://open.spotify.com/track/7g2W5rKkGCv1B4FqlXTVNC"
+      "duration_ms": 817000,
+      "name": "tsuru-tsuki",
+      "url": "https://open.spotify.com/track/1Tuq0XiJO21YcG5B9ImhGX"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -771,38 +803,6 @@
       "duration_ms": 297253,
       "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
       "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
-    },
-    {
-      "added_at": "2023-03-14 15:00:00",
-      "album": {
-        "name": "Four Nocturnes",
-        "url": "https://open.spotify.com/album/0aheGuEnQDm2C0f8tm6A3u"
-      },
-      "artists": [
-        {
-          "name": "Ironomi",
-          "url": "https://open.spotify.com/artist/62tSwHM7qLhiSDtVSf51Y5"
-        }
-      ],
-      "duration_ms": 817000,
-      "name": "tsuru-tsuki",
-      "url": "https://open.spotify.com/track/1Tuq0XiJO21YcG5B9ImhGX"
-    },
-    {
-      "added_at": "2023-03-14 15:00:00",
-      "album": {
-        "name": "Be On Your Way",
-        "url": "https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 244772,
-      "name": "Be On Your Way",
-      "url": "https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Blue Stone of Atlas (Piano Solo Version)",
-        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
+        "name": "Be On Your Way",
+        "url": "https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl"
       },
       "artists": [
         {
-          "name": "Hikaru Shirosu",
-          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Blue Stone of Atlas - Piano Solo Version",
-      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
+      "duration_ms": 244772,
+      "name": "Be On Your Way",
+      "url": "https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
+        "name": "Blue Stone of Atlas (Piano Solo Version)",
+        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "Hikaru Shirosu",
+          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
         }
       ],
-      "duration_ms": 171563,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
+      "duration_ms": 158000,
+      "name": "Blue Stone of Atlas - Piano Solo Version",
+      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1"
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
       },
       "artists": [
         {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 267994,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM"
+      "duration_ms": 171563,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "See you Soon",
-        "url": "https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG"
+        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
         }
       ],
-      "duration_ms": 206600,
-      "name": "See you Soon",
-      "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
+      "duration_ms": 101375,
+      "name": "G\u00e9n\u00e9rique de fin",
+      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
+        "name": "Party",
+        "url": "https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1"
       },
       "artists": [
         {
-          "name": "Gabriel Yared",
-          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 101375,
-      "name": "G\u00e9n\u00e9rique de fin",
-      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
+      "duration_ms": 267994,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
+        "name": "See you Soon",
+        "url": "https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Faisal (London Bridge Station)",
-      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+      "duration_ms": 206600,
+      "name": "See you Soon",
+      "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -1167,22 +1167,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "A Night At The Symphony",
-        "url": "https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn"
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Iceland Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 302000,
-      "name": "Let You Break My Heart Again - Live at The Symphony",
-      "url": "https://open.spotify.com/track/2wFGq8rFKLPX0dkAwUwY8s"
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -1207,18 +1203,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+        "name": "Passing",
+        "url": "https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+      "duration_ms": 215013,
+      "name": "Shadow In The Storm",
+      "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -1239,18 +1235,22 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Ascent",
-        "url": "https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj"
+        "name": "A Night At The Symphony",
+        "url": "https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Iceland Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
         }
       ],
-      "duration_ms": 132235,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx"
+      "duration_ms": 302000,
+      "name": "Let You Break My Heart Again - Live at The Symphony",
+      "url": "https://open.spotify.com/track/2wFGq8rFKLPX0dkAwUwY8s"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Japan",
-        "url": "https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q"
+        "name": "Ascent",
+        "url": "https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj"
       },
       "artists": [
         {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 216299,
-      "name": "Japan",
-      "url": "https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k"
+      "duration_ms": 132235,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Just Piano",
-        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
+        "name": "Henry St.",
+        "url": "https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 212158,
-      "name": "Sundays - Just Piano Version",
-      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
+      "duration_ms": 269466,
+      "name": "Henry St.",
+      "url": "https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Passing",
-        "url": "https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG"
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 215013,
-      "name": "Shadow In The Storm",
-      "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 230720,
-      "name": "Bye for now,",
-      "url": "https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk"
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -1483,18 +1483,34 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Walking in The Air",
-        "url": "https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51"
+        "name": "Japan",
+        "url": "https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
         }
       ],
-      "duration_ms": 239250,
-      "name": "Walking in The Air",
-      "url": "https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB"
+      "duration_ms": 216299,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k"
+    },
+    {
+      "added_at": "2023-03-14 15:00:00",
+      "album": {
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "Bye for now,",
+      "url": "https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -1515,34 +1531,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Forbidden Doors",
-        "url": "https://open.spotify.com/album/2HlAQgCP2dsQNdyM35Iihu"
+        "name": "Walking in The Air",
+        "url": "https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51"
       },
       "artists": [
         {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Forbidden Doors",
-      "url": "https://open.spotify.com/track/0WpnfNGEoI2YswrO8LNkQk"
-    },
-    {
-      "added_at": "2023-03-14 15:00:00",
-      "album": {
-        "name": "Henry St.",
-        "url": "https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "Henry St.",
-      "url": "https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI"
+      "duration_ms": 239250,
+      "name": "Walking in The Air",
+      "url": "https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -1559,6 +1559,22 @@
       "duration_ms": 76453,
       "name": "\u6625\u3088\u3001\u6765\u3044",
       "url": "https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX"
+    },
+    {
+      "added_at": "2023-03-14 15:00:00",
+      "album": {
+        "name": "Forbidden Doors",
+        "url": "https://open.spotify.com/album/2HlAQgCP2dsQNdyM35Iihu"
+      },
+      "artists": [
+        {
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Forbidden Doors",
+      "url": "https://open.spotify.com/track/0WpnfNGEoI2YswrO8LNkQk"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Aselestine",
-        "url": "https://open.spotify.com/album/3YO4xzqS7a56VCkqxgsoy2"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "Aselestine",
-      "url": "https://open.spotify.com/track/2M7TQ7SQVGxLhIV43yTN8I"
-    },
-    {
-      "added_at": "2023-03-14 15:00:00",
-      "album": {
         "name": "Glass: Tissue No. 7 (Musical Moments)",
         "url": "https://open.spotify.com/album/6NLMY1DYWgGhKq0c1pjlZs"
       },
@@ -1727,18 +1727,34 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "A Safe Place To Be",
-        "url": "https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq"
+        "name": "Lonely Love Song",
+        "url": "https://open.spotify.com/album/133u1HCKHE50wMw0PrcKFg"
       },
       "artists": [
         {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 199152,
-      "name": "I Wanna See You Smile",
-      "url": "https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G"
+      "duration_ms": 157857,
+      "name": "Lonely Love Song",
+      "url": "https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw"
+    },
+    {
+      "added_at": "2023-03-14 15:00:00",
+      "album": {
+        "name": "Aselestine",
+        "url": "https://open.spotify.com/album/3YO4xzqS7a56VCkqxgsoy2"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "Aselestine",
+      "url": "https://open.spotify.com/track/2M7TQ7SQVGxLhIV43yTN8I"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -1755,6 +1771,22 @@
       "duration_ms": 198971,
       "name": "Haze Garden (Prayer)",
       "url": "https://open.spotify.com/track/4XigfPo7zRs3S3ntut37zd"
+    },
+    {
+      "added_at": "2023-03-14 15:00:00",
+      "album": {
+        "name": "A Safe Place To Be",
+        "url": "https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 199152,
+      "name": "I Wanna See You Smile",
+      "url": "https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -1791,50 +1823,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Lonely Love Song",
-        "url": "https://open.spotify.com/album/133u1HCKHE50wMw0PrcKFg"
+        "name": "I Was Not There",
+        "url": "https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O"
       },
       "artists": [
         {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+          "name": "The Antlers",
+          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
         }
       ],
-      "duration_ms": 157857,
-      "name": "Lonely Love Song",
-      "url": "https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw"
-    },
-    {
-      "added_at": "2023-03-14 15:00:00",
-      "album": {
-        "name": "The Window",
-        "url": "https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu"
-      },
-      "artists": [
-        {
-          "name": "Itoko Toma",
-          "url": "https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Leaves and Light",
-      "url": "https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC"
-    },
-    {
-      "added_at": "2023-03-14 15:00:00",
-      "album": {
-        "name": "TAPE 2/FOMALHAUT",
-        "url": "https://open.spotify.com/album/640PhElbTyg4yZtb5jpWQD"
-      },
-      "artists": [
-        {
-          "name": "BERWYN",
-          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
-        }
-      ],
-      "duration_ms": 189166,
-      "name": "TO BE LOVED",
-      "url": "https://open.spotify.com/track/2CUR2LpKhtKTa9RlDhVi2q"
+      "duration_ms": 347963,
+      "name": "I Was Not There",
+      "url": "https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk"
     }
   ],
   "unique_name": "\u9759\u5bc2\u3068\u9ec4\u660f",

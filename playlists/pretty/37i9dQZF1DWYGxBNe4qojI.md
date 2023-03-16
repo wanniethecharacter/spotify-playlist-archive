@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: 50 Cent
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,274 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,901 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 35 | [Ice Cream \(feat\. Ghostface Killah, Method Man & Cappadonna\)](https://open.spotify.com/track/6SI4JD7iyQ0rrudhCNtMv0) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR) | [Only Built 4 Cuban Linx...](https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8) | 4:13 |
 | 36 | [Whoa!](https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi) | [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49) | [Life Story](https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR) | 3:58 |
 | 37 | [Loungin \(Who Do Ya Luv\) \- Remix](https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 3:49 |
-| 38 | [Dipset Anthem](https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:09 |
-| 39 | [What They Do](https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Illadelph Halflife](https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL) | 5:57 |
+| 38 | [What They Do](https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Illadelph Halflife](https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL) | 5:57 |
+| 39 | [Dipset Anthem](https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:09 |
 | 40 | [N.Y\. State of Mind](https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic XX](https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE) | 4:53 |
 | 41 | [I'll Be There For You/You're All I Need To Get By \- Puff Daddy Mix](https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Tical \(Deluxe Edition\)](https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa) | 5:09 |
 | 42 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 49 | [Renee](https://open.spotify.com/track/71mNLAZsr1frFhpCa3JI8G) | [Lost Boyz](https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5) | [Legal Drug Money](https://open.spotify.com/album/6DciMZgZkLpqsjJUd5XgpF) | 4:53 |
 | 50 | [Woo Hah!! Got You All in Check](https://open.spotify.com/track/09WxJCWFMWAxTHBLLelpDS) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Coming](https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8) | 4:31 |
 
-Snapshot ID: `MTY3NTIxMjkwMSwwMDAwMDAwMDhkMzc4NWQ4Mjk5NjBmMDI3MjkxNjNkYWE1YTg5MmM3`
+Snapshot ID: `MTY3NTIxMjkwMSwwMDAwMDAwMDY2YjQ0ZDM4NWFmOTVkZDBiY2UwYjMzMTNlNmFhODBk`

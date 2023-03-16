@@ -386,7 +386,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 301714,
       "name": "Art & Melody",
       "url": "https://open.spotify.com/track/1CqWQSCoDgbhZnLen3gZhq"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 194347,
       "name": "Come Close",
       "url": "https://open.spotify.com/track/71aoIeMlKuQdrkHljBf0nU"
@@ -2245,6 +2245,28 @@
     },
     {
       "album": {
+        "name": "I Don\u2019t Need You",
+        "url": "https://open.spotify.com/album/5WUX3FmdObKf02SIZDsrWb"
+      },
+      "artists": [
+        {
+          "name": "Meis",
+          "url": "https://open.spotify.com/artist/43dikiYuiEdqTQdPdky6s8"
+        },
+        {
+          "name": "Raz",
+          "url": "https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260510,
+      "name": "I Don\u2019t Need You",
+      "url": "https://open.spotify.com/track/088j3xAwZDQC9mrC3TSRWT"
+    },
+    {
+      "album": {
         "name": "I Want Your Soul",
         "url": "https://open.spotify.com/album/4wXLChVEExhDz4PQ37V8yx"
       },
@@ -2568,7 +2590,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 230736,
       "name": "Locos",
       "url": "https://open.spotify.com/track/6BQnoBulQozQZftBCcQMEw"
@@ -3591,6 +3613,28 @@
     },
     {
       "album": {
+        "name": "Road to You",
+        "url": "https://open.spotify.com/album/40St0blvPq3jpP7j5NSSXX"
+      },
+      "artists": [
+        {
+          "name": "Jacob",
+          "url": "https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN"
+        },
+        {
+          "name": "Psycho Cat",
+          "url": "https://open.spotify.com/artist/6lJSb6YH8I0BxXqaPJ8qdp"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284571,
+      "name": "Road to You",
+      "url": "https://open.spotify.com/track/6UgRQwY5a5cr9utpFKU95K"
+    },
+    {
+      "album": {
         "name": "Sacred Space",
         "url": "https://open.spotify.com/album/1TddewzjqbWzIzJ7jcuZMp"
       },
@@ -4342,10 +4386,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 362608,
       "name": "The Blood - Abraxis Remix",
       "url": "https://open.spotify.com/track/4loaayWo7pIYpXLhbWwqe2"
+    },
+    {
+      "album": {
+        "name": "The Call",
+        "url": "https://open.spotify.com/album/3LHeVMaE1w7GtJFh4bQWm8"
+      },
+      "artists": [
+        {
+          "name": "Mr. Nobody",
+          "url": "https://open.spotify.com/artist/4J6qnj4HFAbciwpszkh8mm"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305142,
+      "name": "The Call",
+      "url": "https://open.spotify.com/track/5OxmiELPa75lgDBN5Kuj09"
     },
     {
       "album": {
@@ -4540,6 +4602,28 @@
       "duration_ms": 308785,
       "name": "Threshold to Eternity",
       "url": "https://open.spotify.com/track/3jwTytbMyU02URPoexfyCy"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/1xhEtEh12T8vfusDExAE0S"
+      },
+      "artists": [
+        {
+          "name": "Cronocops",
+          "url": "https://open.spotify.com/artist/6ZelRAGfyEfgFRt1Vn1UHo"
+        },
+        {
+          "name": "4i20",
+          "url": "https://open.spotify.com/artist/3zlIIVkWyNrNpeN8lO49aH"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366666,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5UxOlpbogH3arMceirus7y"
     },
     {
       "album": {

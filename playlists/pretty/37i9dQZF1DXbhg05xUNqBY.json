@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 289274,
+  "num_followers": 289567,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTc5MTc4MiwwMDAwMDAwMDIxMDQ2NTdlY2VlMmRhMzUxOGIxMmFlZGQzZTVmNzA2",
+  "snapshot_id": "MTY3NTc5MTc4MiwwMDAwMDAwMDJhODA5MWQ5N2QxY2VlMjYyNWRmZDNkMDA1MzRhOTYx",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "When I Say Amen",
-        "url": "https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ"
-      },
-      "artists": [
-        {
-          "name": "Rachel Wammack",
-          "url": "https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "When I Say Amen",
-      "url": "https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 175463,
       "name": "New Day",
       "url": "https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "When I Say Amen",
+        "url": "https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ"
+      },
+      "artists": [
+        {
+          "name": "Rachel Wammack",
+          "url": "https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "When I Say Amen",
+      "url": "https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Can\u2019t Get Enough",
-        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 131174,
-      "name": "Can\u2019t Get Enough",
-      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Whisper (Acoustic Sessions)",
         "url": "https://open.spotify.com/album/3njl0Jd9S5nSGIYJxp5UuT"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 267754,
       "name": "Whisper (Acoustic)",
       "url": "https://open.spotify.com/track/73ZcbnETkq6chgu1RhVULY"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 131174,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
     },
     {
       "added_at": "2023-02-07 17:43:02",

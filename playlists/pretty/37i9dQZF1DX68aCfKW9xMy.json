@@ -1,12 +1,12 @@
 {
   "description": "La casa de los corazones rotos.",
-  "num_followers": 1447865,
+  "num_followers": 1448485,
   "original_name": "Mal de Amores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM5NDUzOCwwMDAwMDAwMGQyNGM0OWMyZTFkNGQ5YzYxYTE1OTZiZjUxZWUwMThi",
+  "snapshot_id": "MTY3NjM5NDUzOCwwMDAwMDAwMDQ5ODU0NDFhZGJjZTRkYzNiYTMwZmZjZjI4ZTg3NjQ4",
   "tracks": [
     {
       "added_at": "2023-02-14 17:08:58",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-02-14 17:08:58",
       "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 224523,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
-    },
-    {
-      "added_at": "2023-02-14 17:08:58",
-      "album": {
         "name": "Solo Me Dejaste",
         "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 186709,
       "name": "Solo Me Dejaste",
       "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
+    },
+    {
+      "added_at": "2023-02-14 17:08:58",
+      "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 224523,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
     },
     {
       "added_at": "2023-02-14 17:08:58",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-02-14 17:08:58",
       "album": {
-        "name": "De Hoy En Adelante, Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "Aqu\u00ed Algo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/7wfzVpDwmkpIlQ35vTl6OG"
-    },
-    {
-      "added_at": "2023-02-14 17:08:58",
-      "album": {
         "name": "Que Bendici\u00f3n",
         "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 176800,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT"
+    },
+    {
+      "added_at": "2023-02-14 17:08:58",
+      "album": {
+        "name": "De Hoy En Adelante, Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 165933,
+      "name": "Aqu\u00ed Algo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/7wfzVpDwmkpIlQ35vTl6OG"
     },
     {
       "added_at": "2023-02-14 17:08:58",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-02-14 17:08:58",
       "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez"
+    },
+    {
+      "added_at": "2023-02-14 17:08:58",
+      "album": {
         "name": "Amanecida Con Todo y Con Todos",
         "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 187280,
       "name": "Y Si Se Quiere Ir",
       "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
-    },
-    {
-      "added_at": "2023-02-14 17:08:58",
-      "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez"
     },
     {
       "added_at": "2023-02-14 17:08:58",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-02-14 17:08:58",
       "album": {
-        "name": "Me Extra\u00f1o",
-        "url": "https://open.spotify.com/album/0fuHe4cJQ677flvGr2QLN1"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 191880,
-      "name": "Me Extra\u00f1o",
-      "url": "https://open.spotify.com/track/49A0SKbXyTUyk5uw8fXzFi"
-    },
-    {
-      "added_at": "2023-02-14 17:08:58",
-      "album": {
         "name": "Chingas A Tu Madre",
         "url": "https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 200488,
       "name": "Si Tu Amor No Vuelve - Live",
       "url": "https://open.spotify.com/track/6xnjB5xkhzYzyrtsUAHHWJ"
+    },
+    {
+      "added_at": "2023-02-14 17:08:58",
+      "album": {
+        "name": "Me Extra\u00f1o",
+        "url": "https://open.spotify.com/album/0fuHe4cJQ677flvGr2QLN1"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 191880,
+      "name": "Me Extra\u00f1o",
+      "url": "https://open.spotify.com/track/49A0SKbXyTUyk5uw8fXzFi"
     },
     {
       "added_at": "2023-02-14 17:08:58",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-02-14 17:08:58",
       "album": {
-        "name": "Con Todas Las Fuerzas",
-        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 225213,
-      "name": "Por Mi No Te Detengas",
-      "url": "https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl"
-    },
-    {
-      "added_at": "2023-02-14 17:08:58",
-      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 178050,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
+    },
+    {
+      "added_at": "2023-02-14 17:08:58",
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "Por Mi No Te Detengas",
+      "url": "https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl"
     },
     {
       "added_at": "2023-02-14 17:08:58",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-02-14 17:08:58",
       "album": {
+        "name": "De Lo Bueno, Lo Mejor",
+        "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "El Bueno y el Malo",
+      "url": "https://open.spotify.com/track/0sGZWfVTPWIv6qbWZZ7cdT"
+    },
+    {
+      "added_at": "2023-02-14 17:08:58",
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 241106,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
-    },
-    {
-      "added_at": "2023-02-14 17:08:58",
-      "album": {
-        "name": "De Lo Bueno, Lo Mejor",
-        "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "El Bueno y el Malo",
-      "url": "https://open.spotify.com/track/0sGZWfVTPWIv6qbWZZ7cdT"
     },
     {
       "added_at": "2023-02-14 17:08:58",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-02-14 17:08:58",
       "album": {
-        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 178378,
-      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
-    },
-    {
-      "added_at": "2023-02-14 17:08:58",
-      "album": {
         "name": "XVII ANIVERSARIO",
         "url": "https://open.spotify.com/album/4cnDNI7pytSivupozFsMi7"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 225217,
       "name": "Dijimos",
       "url": "https://open.spotify.com/track/4IHUyrYKSdwR6qmlhrSKDv"
+    },
+    {
+      "added_at": "2023-02-14 17:08:58",
+      "album": {
+        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 178378,
+      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
     },
     {
       "added_at": "2023-02-14 17:08:58",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2023-02-14 17:08:58",
       "album": {
-        "name": "Dictado (En Vivo)",
-        "url": "https://open.spotify.com/album/54aJmBef4WwpQfDxYNBoJF"
-      },
-      "artists": [
-        {
-          "name": "Dictado",
-          "url": "https://open.spotify.com/artist/63lBUBggyKgjjZHsAxR3Tp"
-        }
-      ],
-      "duration_ms": 202491,
-      "name": "Besos En Guerra",
-      "url": "https://open.spotify.com/track/2jx4sXXb3eFH5NjsWgxm62"
-    },
-    {
-      "added_at": "2023-02-14 17:08:58",
-      "album": {
         "name": "La Otra Cara De La Moneda",
         "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 225826,
       "name": "Comp\u00e1rame",
       "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
+    },
+    {
+      "added_at": "2023-02-14 17:08:58",
+      "album": {
+        "name": "Dictado (En Vivo)",
+        "url": "https://open.spotify.com/album/54aJmBef4WwpQfDxYNBoJF"
+      },
+      "artists": [
+        {
+          "name": "Dictado",
+          "url": "https://open.spotify.com/artist/63lBUBggyKgjjZHsAxR3Tp"
+        }
+      ],
+      "duration_ms": 202491,
+      "name": "Besos En Guerra",
+      "url": "https://open.spotify.com/track/2jx4sXXb3eFH5NjsWgxm62"
     },
     {
       "added_at": "2023-02-14 17:08:58",

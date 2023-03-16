@@ -14029,6 +14029,24 @@
     },
     {
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/0mP4FWMK4wPnA3WCH6VxTz"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133037,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/3AHTWM55Eg8QY3u91VJEzZ"
+    },
+    {
+      "album": {
         "name": "Goodbye Texas",
         "url": "https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3"
       },
@@ -17781,6 +17799,24 @@
     },
     {
       "album": {
+        "name": "If You Were Mine",
+        "url": "https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw"
+      },
+      "artists": [
+        {
+          "name": "MINOVA",
+          "url": "https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218800,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V"
+    },
+    {
+      "album": {
         "name": "Imagine U",
         "url": "https://open.spotify.com/album/2LKCG9YgHEhDeYUP7F6aYo"
       },
@@ -20696,7 +20732,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 223266,
       "name": "Lorelei",
       "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
@@ -30298,7 +30334,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 132957,
       "name": "Slugger",
       "url": "https://open.spotify.com/track/2holnzElUAKzjfQyZ0l9of"
@@ -33106,7 +33142,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 106097,
       "name": "sunset blvd",
       "url": "https://open.spotify.com/track/6GwnFEbZstFLKZq7HCVH8T"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-549 songs - 1 day 9 hr 7 min
+550 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-07-11 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-04 | 2021-05-23 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-05 | 2022-11-20 |
-| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 |  |
+| [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:52 | 2023-03-15 |  |
+| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 | 2023-03-16 |
 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 | 2022-02-15 | 2022-02-27 |
 | [Distance](https://open.spotify.com/track/2rbbJ2xZFJa2DriR5h0TBS) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Distance](https://open.spotify.com/album/6gIbxqYcuc2UVoO8Q75imK) | 3:05 | 2022-07-16 |  |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-20 |  |
@@ -363,7 +364,7 @@
 | [你瞞我瞞](https://open.spotify.com/track/1eId3TVzGrwv73YAWAVQMX) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [Can't Be Half](https://open.spotify.com/album/3VL7eP9OtVVYWHgWLyGQRo) | 3:57 | 2021-03-27\* |  |
 | [你瞞我瞞 \- From THE FIRST TAKE](https://open.spotify.com/track/5w3SN2UjZRuuvPLAisQuaC) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [你瞞我瞞 \- From THE FIRST TAKE](https://open.spotify.com/album/6R3nshWX358S0cbKfS1fmz) | 3:44 | 2023-01-31 | 2023-02-05 |
 | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/track/4I2nZnEp1JZoHO4RB27VTR) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/album/2D3q1OIBnzdntbEsYvF8Of) | 3:29 | 2021-08-01 | 2022-04-30 |
-| [俏郎君](https://open.spotify.com/track/4ckh5VN2HYQ8TzS51Nh7ol) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [The Brightest Darkness](https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8) | 4:40 | 2021-03-27\* | 2023-03-15 |
+| [俏郎君](https://open.spotify.com/track/4ckh5VN2HYQ8TzS51Nh7ol) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [The Brightest Darkness](https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8) | 4:40 | 2021-03-27\* |  |
 | [信之卷](https://open.spotify.com/track/43AAdQfc9dodfuxkcKMZo3) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D) | [信之卷](https://open.spotify.com/album/3RNW4B6DQWb8Bbbq2jCQaP) | 4:34 | 2022-05-15 | 2022-05-29 |
 | [假使世界原來不像你預期](https://open.spotify.com/track/53HxUdYRCRMdzYPG0qhGUP) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [假使世界原來不像你預期](https://open.spotify.com/album/1uIlhInRyOcam9TjlEiGP8) | 4:27 | 2021-03-27\* | 2021-09-04 |
 | [偷情](https://open.spotify.com/track/2E5X5HbBHBUeo2juTSgTMX) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [偷情](https://open.spotify.com/album/2zYf27zQAJY1qgPB5plv19) | 3:48 | 2023-01-20 |  |
@@ -405,7 +406,7 @@
 | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/track/4KJi1DpJcn8sYANFF9qZBa) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/album/6pIDMCqVB0GNi3b8GV3gjZ) | 3:47 | 2022-04-16 | 2022-05-17 |
 | [大正浪漫](https://open.spotify.com/track/3uw93CiI34uZlfk8ywep1e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [大正浪漫](https://open.spotify.com/album/4D1e5OPqOqOWhQhiNleOOl) | 2:48 | 2021-09-17 | 2021-09-26 |
 | [太平道](https://open.spotify.com/track/63Hnm2IiSP9VDzJF2WdzCL) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [太平道](https://open.spotify.com/album/5sWnVGDboOP0pCWDZdzVSn) | 4:39 | 2022-09-03 | 2022-09-15 |
-| [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 | 2021-12-24 |  |
+| [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 | 2021-12-24 | 2023-03-16 |
 | [孤單](https://open.spotify.com/track/78CCQf4q1XDiBxNQCU3Tg4) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [孤單](https://open.spotify.com/album/0Vk2WBEn7dT72mv2s1G9bk) | 2:25 | 2023-01-17 | 2023-01-22 |
 | [孤獨病](https://open.spotify.com/track/5Gi88IBuzFwSTAAcYcqpqL) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [孤獨病](https://open.spotify.com/album/4ALkQyRhvV3yhXg9bfqCmY) | 4:13 | 2022-02-17 |  |
 | [宋代SAD BOY](https://open.spotify.com/track/7uo5PgFlHaRpdigxdzP0i7) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:53 | 2021-09-01 | 2021-09-02 |

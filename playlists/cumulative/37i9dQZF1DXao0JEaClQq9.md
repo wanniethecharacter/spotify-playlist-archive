@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Feist
 
-487 songs - 1 day 6 hr 18 min
+489 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A Comma](https://open.spotify.com/track/4XNA6lxhJgZuampAzUGjUg) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Apparition EP](https://open.spotify.com/album/7FCpNm4l9fNtBeakrvpVf8) | 2:47 | 2021-06-03 | 2022-04-18 |
 | [A New Kind Of Love \- Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [A New Kind Of Love \(Demo\)](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) | 4:19 | 2022-06-03 |  |
 | [A Place To Lie](https://open.spotify.com/track/5KFS9MC8czFqXczPjaOi7R) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [A Place To Lie](https://open.spotify.com/album/4CinlAbdXopU8pbdDjuiqM) | 5:23 | 2023-01-25 |  |
-| [A Quiet Voice](https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [A Quiet Voice](https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt) | 4:42 | 2023-01-27 |  |
+| [A Quiet Voice](https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [A Quiet Voice](https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt) | 4:42 | 2023-01-27 | 2023-03-16 |
 | [Addict](https://open.spotify.com/track/6LEG349yBthHmCjGMfd3g8) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 3:26 | 2021-06-03 | 2022-04-23 |
 | [Adieu](https://open.spotify.com/track/0KesTnAAzyzFj3jNaZ9X6l) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [5am and I Can't Sleep](https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6) | 2:39 | 2022-05-20 | 2022-06-04 |
 | [Afar](https://open.spotify.com/track/3FBt3GWqhqSzkCnzki3uPQ) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Afar](https://open.spotify.com/album/3JHxLksSAKuZzYFhgHHEcB) | 3:35 | 2022-07-15 | 2022-07-23 |
@@ -147,7 +147,7 @@
 | [Energy](https://open.spotify.com/track/11i3GDVb1hGPWrPSoZ5xGf) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Ydegirl](https://open.spotify.com/album/0tDt3NI9DX0ivOd15RljWg) | 4:32 | 2021-10-22 | 2022-01-23 |
 | [Entertnmnt](https://open.spotify.com/track/5aavkoG5D3zRmeLQdHn8cb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Entertnmnt](https://open.spotify.com/album/02fYzuPRdFf1ur1A4ORWgU) | 3:14 | 2021-06-03 | 2022-07-28 |
 | [Even If It Hurts](https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 4:11 | 2021-06-03 | 2022-07-29 |
-| [Evergreen](https://open.spotify.com/track/6YtylNU7D1S5SeO529q2AN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 3:44 | 2021-06-03 |  |
+| [Evergreen](https://open.spotify.com/track/6YtylNU7D1S5SeO529q2AN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 3:44 | 2021-06-03 | 2023-03-16 |
 | [Everything Is Going To Be Alright](https://open.spotify.com/track/1yvtCuX0Zd6b5xs4DWwGon) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Everything Is Going To Be Alright](https://open.spotify.com/album/2tNbPHuZTwMTQqUrGwESGm) | 3:50 | 2022-03-07 | 2022-07-15 |
 | [fall \- A\. G\. Cook remix](https://open.spotify.com/track/44dDBvATJffxnqvdMNsfDQ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [fall / galore \(A\. G\. Cook remixes\)](https://open.spotify.com/album/1Wf9pKZst7slr7Xpbf2oui) | 2:37 | 2021-06-03 | 2022-06-04 |
 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2022-07-22 |  |
@@ -230,6 +230,7 @@
 | [ilomilo](https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:36 | 2021-06-03 |  |
 | [In A Good Way](https://open.spotify.com/track/2KTIvRAAihIGm8FyhEKdxp) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [In A Good Way](https://open.spotify.com/album/3oRqV2J2IuvZYm51BTKnb5) | 3:43 | 2021-06-03 | 2022-07-26 |
 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 | 2021-06-03 | 2022-10-15 |
+| [In My Head](https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [In My Head](https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv) | 3:34 | 2023-03-15 |  |
 | [insecure](https://open.spotify.com/track/45kycPq8eq0O4KDpxzxoQj) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [insecure](https://open.spotify.com/album/4wC9uXVAFz5m6dgC2dUJjp) | 3:06 | 2022-01-28 | 2022-04-22 |
 | [Insomnia](https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Insomnia](https://open.spotify.com/album/61OCdmC6ntHNsoSckGbAkF) | 4:52 | 2022-05-20 | 2022-07-26 |
 | [Is It Cold In The Water?](https://open.spotify.com/track/292h0AOEEmddv9wIWnrDl4) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:32 | 2021-10-08 | 2022-05-20 |
@@ -308,6 +309,7 @@
 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 | 2021-06-03 | 2022-04-20 |
 | [No Shadow](https://open.spotify.com/track/6KyccUT8S3KMRh5wt4CN2n) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Skin 2 Skin](https://open.spotify.com/album/0mclvOXYO7qb7jefYYdZLr) | 3:18 | 2021-09-24 | 2022-04-19 |
 | [Note To Self \(feat\. Empress Of\)](https://open.spotify.com/track/3dBgEBXZvYLshrZ0ATB7fT) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/0elpfsW5SObWj2BmXLpOwo) | 2:17 | 2021-06-03 | 2022-07-29 |
+| [Nothing's Free](https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Nothing's Free](https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ) | 4:38 | 2023-03-14 |  |
 | [Nothing’s Special](https://open.spotify.com/track/2EsL4kfdrEZJTKRFhuMDbY) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Nothing's Special](https://open.spotify.com/album/2xBvgd6MJXlo98bWrxQRKk) | 3:33 | 2021-06-11 | 2022-04-22 |
 | [Nude](https://open.spotify.com/track/35YyxFpE0ZTOoqFx5bADW8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 4:15 | 2022-06-03 |  |
 | [O Superman](https://open.spotify.com/track/421Gp1eSmOIcD6alTWowFR) | [Laurie Anderson](https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G) | [Big Science](https://open.spotify.com/album/5nfdstl6JxGrDQtm1B2LnZ) | 8:25 | 2021-10-08 | 2022-04-21 |

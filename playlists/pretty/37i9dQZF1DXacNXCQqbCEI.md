@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,165 likes - 60 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,241 likes - 60 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 15 | [Cariñito](https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cariñito](https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ) | 3:41 |
 | 16 | [Jardines](https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED) | 4:46 |
 | 17 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 |
-| 18 | [Quema](https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH) | 3:26 |
-| 19 | [Sakoneta](https://open.spotify.com/track/3rTdacXE78kylGPegwCc3B) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA) | [Ostriconi](https://open.spotify.com/album/3SMp3cqUcv5x0GtKVyMAxd) | 4:45 |
+| 18 | [Sakoneta](https://open.spotify.com/track/3rTdacXE78kylGPegwCc3B) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA) | [Ostriconi](https://open.spotify.com/album/3SMp3cqUcv5x0GtKVyMAxd) | 4:45 |
+| 19 | [Quema](https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH) | 3:26 |
 | 20 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 |
 | 21 | [Chapinero](https://open.spotify.com/track/004JVePzMr05q3vP462QPa) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Bennu](https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo) | 3:42 |
 | 22 | [Serpiente Dorada](https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Serpiente Dorada](https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst) | 3:09 |
 | 23 | [Ghost Dance](https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA) | 3:38 |
 | 24 | [Mojanda \(feat\. Wabi Sabi\)](https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH) | [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx), [Wabi Sabi](https://open.spotify.com/artist/4kpCSlKMJJ2JGnzuqnc3HS) | [Tranquillitas](https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o) | 6:13 |
 | 25 | [1542](https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Xaxoeira](https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi) | 5:47 |
-| 26 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 |
-| 27 | [Nevar](https://open.spotify.com/track/2EEkGybjOcVfAZfceU8HD3) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Didacte](https://open.spotify.com/artist/4gJkcE85yauN8vUrt8bIFT) | [Ramas](https://open.spotify.com/album/2s61LZqkxTwh3PNMxO6mYX) | 6:40 |
+| 26 | [Nevar](https://open.spotify.com/track/2EEkGybjOcVfAZfceU8HD3) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Didacte](https://open.spotify.com/artist/4gJkcE85yauN8vUrt8bIFT) | [Ramas](https://open.spotify.com/album/2s61LZqkxTwh3PNMxO6mYX) | 6:40 |
+| 27 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 |
 | 28 | [Sonic Forest \(Déjame Respirar\)](https://open.spotify.com/track/6hreQzJujmQLr88N0fTLO3) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Sonic Forest](https://open.spotify.com/album/0ImFvq53ujOAdclMey4dd6) | 2:49 |
 | 29 | [Solitario](https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Balnear](https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO) | 3:33 |
 | 30 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 44 | [Pua](https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Semillero](https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4) | 5:48 |
 | 45 | [Presagio](https://open.spotify.com/track/3Fstql1zF6ZsU1sOWBbfQK) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW) | 4:33 |
 | 46 | [Paso Por El Fuego](https://open.spotify.com/track/3309nFqWGA4rnzfjqrQYzX) | [Di Laif](https://open.spotify.com/artist/5KEmdf3GZJMTtVb74Klhy1), [Mafé Tula](https://open.spotify.com/artist/25YPY0NKDJMmhXXPKzb4OP) | [Shika Shika Presents Eco](https://open.spotify.com/album/0GuwihkO3wZHLIc9C7qAlx) | 5:32 |
-| 47 | [Tarpuricusum Sarata \- Captain Planet Remix](https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Luzmila Carpio Remixed \(Luzmila Carpio Meets ZZK\)](https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj) | 4:20 |
-| 48 | [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 |
-| 49 | [Pájaro](https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Pájaro](https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP) | 3:42 |
+| 47 | [Pájaro](https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Pájaro](https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP) | 3:42 |
+| 48 | [Tarpuricusum Sarata \- Captain Planet Remix](https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Luzmila Carpio Remixed \(Luzmila Carpio Meets ZZK\)](https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj) | 4:20 |
+| 49 | [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 |
 | 50 | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ) | 4:41 |
 | 51 | [Tú Me Llevas](https://open.spotify.com/track/10OxrfJXZjNcWlbqvmxYs5) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/1rR3l0T9K43s6FDWYyLCtG) | 4:23 |
 | 52 | [Agujeros Blancos](https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41) | [De Aquí Hasta Aquí](https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3) | 2:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 59 | [Mano de Fatima](https://open.spotify.com/track/45bZeDQK1sPbSu8xgSvs8R) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/2U4iGHChiMfFxlOtePA1Yt) | 3:55 |
 | 60 | [Underwater Temples of Mahabalipuram](https://open.spotify.com/track/3qebe3F4sfNJLxbUBlMJnQ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Underwater Temples of Mahabalipuram](https://open.spotify.com/album/1R1mrvSewIDG7aiLvrAKuN) | 2:30 |
 
-Snapshot ID: `MTY3NjQ3MTQyNiwwMDAwMDAwMGU2NTlhMGQ0OWY5ZjQ0MDYyYjc4ZDEzNGE1Njk2M2Zi`
+Snapshot ID: `MTY3NjQ3MTQyNiwwMDAwMDAwMDU3NmExODBmYmQwMGE0ZTFiMzA1NzIzMjNkYTI1NzM3`

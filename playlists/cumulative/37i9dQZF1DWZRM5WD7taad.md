@@ -2,7 +2,7 @@
 
 ### [Femcees](https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad)
 
-> Mujeres raperas rompiéndola en toda Latinoamérica\. Ms Ambar, Masta Quba y Delfina Dib en portada.
+> Mujeres raperas rompiéndola en toda Latinoamérica\. Young Miko en portada.
 
 158 songs - 8 hr 16 min
 

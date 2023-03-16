@@ -1276,10 +1276,28 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 180052,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/3oTX2EzDpxeSLnRmZaZ9mZ"
+    },
+    {
+      "album": {
+        "name": "Psychocandy",
+        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181746,
+      "name": "Just Like Honey",
+      "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
     },
     {
       "album": {

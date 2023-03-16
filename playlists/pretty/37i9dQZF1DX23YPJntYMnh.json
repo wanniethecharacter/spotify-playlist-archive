@@ -1,12 +1,12 @@
 {
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
-  "num_followers": 458999,
+  "num_followers": 459030,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMDZkMjQ5MmNhNGE1NTAyNDhlNTQyYzk5ODkyYWFkMjFk",
+  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMGJjYjdiNzU2M2RkZjg5NjUyNDI0ZjZiZmE3OTUyYWI0",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Back from the Living",
-        "url": "https://open.spotify.com/album/6J5Lg92qtxOwyrLrn1Zqfv"
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
       },
       "artists": [
         {
-          "name": "Stevie Salas",
-          "url": "https://open.spotify.com/artist/6fb78HXq6cKqNjjwZP9dax"
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 241240,
-      "name": "Tell Your Story Walkin'",
-      "url": "https://open.spotify.com/track/2gBnKiNNXCIDLfqVptT6v6"
+      "duration_ms": 181133,
+      "name": "Idiots Rule",
+      "url": "https://open.spotify.com/track/51Nh6X9tfaBLQF3YyK6s2A"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Nothing's Shocking",
-        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+        "name": "Back from the Living",
+        "url": "https://open.spotify.com/album/6J5Lg92qtxOwyrLrn1Zqfv"
       },
       "artists": [
         {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+          "name": "Stevie Salas",
+          "url": "https://open.spotify.com/artist/6fb78HXq6cKqNjjwZP9dax"
         }
       ],
-      "duration_ms": 181133,
-      "name": "Idiots Rule",
-      "url": "https://open.spotify.com/track/51Nh6X9tfaBLQF3YyK6s2A"
+      "duration_ms": 241240,
+      "name": "Tell Your Story Walkin'",
+      "url": "https://open.spotify.com/track/2gBnKiNNXCIDLfqVptT6v6"
     },
     {
       "added_at": "2022-02-04 05:02:00",

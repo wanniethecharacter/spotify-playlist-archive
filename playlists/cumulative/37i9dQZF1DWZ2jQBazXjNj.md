@@ -4,7 +4,7 @@
 
 > Corridos + Perreo para las bichotas y buchonas 🔥
 
-260 songs - 14 hr 10 min
+261 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [La Loto](https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [La Loto](https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y) | 3:10 | 2022-08-04 |  |
 | [La Luz](https://open.spotify.com/track/5zj8WNkBrEzlI5FKeYV4ol) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Luz](https://open.spotify.com/album/68JMNFwtqRgtdY4ufFG8EE) | 3:36 | 2022-06-14 | 2022-08-05 |
 | [La Mamá de la Mamá](https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [La Mamá de la Mamá](https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7) | 3:39 | 2022-06-14 | 2022-08-05 |
-| [La Mb](https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Mb](https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl) | 3:23 | 2022-08-04 |  |
+| [La Mb](https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Mb](https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl) | 3:23 | 2022-08-04 | 2023-03-16 |
 | [La Muchacha del Salado "la Nicholette" \- En Vivo](https://open.spotify.com/track/1CIm69POXMEVdDhT1tmE2I) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras de Servando, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/4qJsTs0meLzRDbZNIGd5dX) | 2:44 | 2022-08-04 |  |
 | [LA PERRIE](https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:25 | 2022-08-04 |  |
 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 | 2022-08-04 |  |
@@ -222,6 +222,7 @@
 | [Sensacion Del Bloque](https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Reggaeton Rulers: Los Que Ponen](https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da) | 3:02 | 2022-06-14 | 2022-08-05 |
 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 | 2022-08-04 |  |
 | [Serafín Zambada](https://open.spotify.com/track/2Qh9GkEx3EnFd7v8QzaFjW) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafín Zambada](https://open.spotify.com/album/6vHtXla1mECDpZS3ONUwvf) | 2:08 | 2022-08-04 | 2023-03-06 |
+| [Serafín Zambada](https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA) | 2:08 | 2023-02-24 |  |
 | [Sexy Movimiento](https://open.spotify.com/track/1Kgyx7NLtzsa3gWV1efGHu) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Wisin Vs Yandel "Los Extraterrestres"](https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh) | 3:29 | 2022-08-04 |  |
 | [Señor Miedo](https://open.spotify.com/track/1FnswOpXkrROzW2mFCF1BE) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Señor Miedo](https://open.spotify.com/album/7prCMJKiHc8r3WOS82bZVJ) | 2:52 | 2022-08-04 |  |
 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 | 2022-08-04 |  |

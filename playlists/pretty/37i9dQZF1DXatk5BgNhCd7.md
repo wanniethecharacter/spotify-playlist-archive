@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Los Ángeles Azules, Cazzu, Santa Fe Klan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,103 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,148 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 20 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 |
 | 21 | [Mi Gran Dolor](https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Mi Gran Dolor](https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y) | 4:14 |
 | 22 | [Gauchito Gil](https://open.spotify.com/track/1InhW18GG1U0aGpxVNo5Oq) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Gauchito Gil](https://open.spotify.com/album/4FCJM2t9lb5NUW7Q1kTkPP) | 3:57 |
-| 23 | [Pobre Corazón](https://open.spotify.com/track/1gpayq8BQ8Z1AZSCHUeZOC) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/7etJSMrQrbEnZ79YApS8DC) | [Pobre Corazón](https://open.spotify.com/album/1IV4edNM4eYtHUOieGtIj9) | 3:18 |
+| 23 | [Pobre Corazón](https://open.spotify.com/track/1gpayq8BQ8Z1AZSCHUeZOC) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón](https://open.spotify.com/album/1IV4edNM4eYtHUOieGtIj9) | 3:18 |
 | 24 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
 | 25 | [Latidos](https://open.spotify.com/track/2WFrChyI5KlmxunG45Sqws) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Latidos](https://open.spotify.com/album/307d2X9AdbxbyFd008xmn7) | 3:01 |
 | 26 | [Si Esta Casa Hablara](https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Si Esta Casa Hablara](https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP) | 3:20 |

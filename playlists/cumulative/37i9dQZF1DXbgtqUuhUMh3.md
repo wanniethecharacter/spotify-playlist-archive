@@ -4,14 +4,14 @@
 
 > Listen to Arab women, at full volume\. Cover: Oumaima Taleb
 
-415 songs - 1 day 0 hr 19 min
+416 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["هذا الحلو "الدبكة هي الچوبي](https://open.spotify.com/track/47DMM1KiRfrqHw3YS7a9Dq) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | ["هذا الحلو "الدبكة هي الچوبي](https://open.spotify.com/album/6Jxuxu3edECF9htilsdN3h) | 3:55 | 2022-11-15 |  |
 | [100 Marra](https://open.spotify.com/track/3EyINOzArWZExhx4Pro7ip) | [Reem Soliman](https://open.spotify.com/artist/2TalKIo6VXqeqei5Pw5qUR) | [100 Marra](https://open.spotify.com/album/09PDu4TjYVTeuCL4E94fH7) | 3:02 | 2021-12-23 | 2022-02-28 |
 | [111](https://open.spotify.com/track/3awqYya8UX0SwGL6bnuLdL) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/2hntq8BeyRXcd87uEmxaqD) | 3:50 | 2022-03-03 | 2022-07-26 |
-| [111](https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU) | 3:50 | 2022-07-21 |  |
+| [111](https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU) | 3:50 | 2022-07-21 | 2023-03-16 |
 | [3 Sneen](https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [3 Sneen](https://open.spotify.com/album/6IOqUxSF8Il0r0aXFTt4rt) | 3:01 | 2021-12-23 | 2022-03-02 |
 | [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 | 2023-03-08 |  |
 | [3amlt 5er](https://open.spotify.com/track/7zEyLmurfWk1i1MGrnOtH8) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [3amlt 5er](https://open.spotify.com/album/2906UsdxF63k38NfKXMnjA) | 3:55 | 2023-03-02 |  |
@@ -349,7 +349,7 @@
 | [الغربة](https://open.spotify.com/track/7HLtsXWAIbj4bvSzCh22Z2) | [جميلة سعد](https://open.spotify.com/artist/31zyGXZDfPNOIQks6nG7Ac) | [الغربة](https://open.spotify.com/album/1VsOrYmrP0gy0Qh9KZJNze) | 3:47 | 2021-12-23 | 2022-03-02 |
 | [الوردة البيضا](https://open.spotify.com/track/506DZmhqvdH9574i9S5g5x) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Elwarda Elbaida](https://open.spotify.com/album/2QsEDwrvsdqTbHXfOmdkGO) | 3:57 | 2022-07-20 |  |
 | [الورود](https://open.spotify.com/track/0yLiUX7xOAqQ4qOaE5zwyV) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [الورود](https://open.spotify.com/album/5lHlJTXmNbWAnk8D9kqDgO) | 2:22 | 2023-02-23 | 2023-03-01 |
-| [الورود](https://open.spotify.com/track/4stva5wFGdHPxaWPEk1zHS) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [ELWOROUD](https://open.spotify.com/album/0i3CGbhBMbx72GSv4vLZnR) | 2:22 | 2023-03-11 |  |
+| [الورود](https://open.spotify.com/track/4stva5wFGdHPxaWPEk1zHS) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [ELWOROUD](https://open.spotify.com/album/0i3CGbhBMbx72GSv4vLZnR) | 2:22 | 2023-03-10 |  |
 | [اليوم](https://open.spotify.com/track/4BAg4WEstxMdukjJxcUVIk) | [Hala Al Kaseer](https://open.spotify.com/artist/3RvJqoswzwh53Dme2rHbFv), [حنين القصير](https://open.spotify.com/artist/0qAKVWCWxB3MmJ6y5IzFmf), [نور](https://open.spotify.com/artist/0uJxZVYzK0eBXissPQ4o8F) | [اليوم \- Single](https://open.spotify.com/album/5dm60WYUjCvx0QBHIrgAfP) | 3:05 | 2021-12-23 | 2022-02-28 |
 | [امشي بدلع](https://open.spotify.com/track/1HPF3InztTmXGe2QeDnUAv) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [امشي بدلع](https://open.spotify.com/album/5ncFtjqyg2hY9Lzv9ktlrp) | 3:04 | 2022-03-01 | 2022-07-28 |
 | [انا احتاجك](https://open.spotify.com/track/04ZQgZa1PEItKpLsiQLLK4) | [Ohoud](https://open.spotify.com/artist/0LmXtrPxFrkkfMUATjnvat) | [انا احتاجك \- Single](https://open.spotify.com/album/6vYI45ZLaLjrnq9aFGNL3o) | 3:34 | 2021-12-23 | 2022-03-02 |
@@ -417,6 +417,7 @@
 | [واجهني](https://open.spotify.com/track/7asTmSESqhuj3HdgR6rQwk) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k) | [قلبي فين](https://open.spotify.com/album/3la6nheI10U25uw7auvl4h) | 3:15 | 2023-02-23 | 2023-03-01 |
 | [وذا مارحت](https://open.spotify.com/track/0yBbI752cyXl1lioeMrn1v) | [ضحى ذاكر](https://open.spotify.com/artist/2YscB4ch7eFXGvGiv6uSV5) | [واذا مارحت \- Single](https://open.spotify.com/album/0rga8umlOMLhiJ6deifelZ) | 2:47 | 2021-12-23 | 2022-03-02 |
 | [ولو](https://open.spotify.com/track/4YkNQggwRFNWBxCOrNf7nj) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [ولو](https://open.spotify.com/album/44ixYLqJfjnmY5UKLOpbgf) | 2:58 | 2022-03-01 | 2023-01-19 |
+| [يا بنتي](https://open.spotify.com/track/10QCLEQ4Lmo2vIB25DvU8L) | [Mai Selim](https://open.spotify.com/artist/19SEEQWYMtQ1spkni19CCu) | [يا بنتي](https://open.spotify.com/album/40YSCvlRc50vEqpQzqiIN8) | 3:15 | 2023-03-16 |  |
 | [يا صبر الليل](https://open.spotify.com/track/4HUyAHEUantmDNuAl6puVy) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [يا صبر الليل](https://open.spotify.com/album/1eJTKJZZ8DwHTS2bB9aphX) | 4:22 | 2022-03-01 | 2023-02-12 |
 | [يا طير السنونو](https://open.spotify.com/track/7uJYDaD71XHFUCcm3CDOZV) | [Rola Azar](https://open.spotify.com/artist/17WvUHY56BGNm6i6uTqyj1) | [يا طير السنونو](https://open.spotify.com/album/6y4JKfeGDumM3k7OVgoYST) | 1:52 | 2021-12-23 | 2022-03-02 |
 | [يا متيم](https://open.spotify.com/track/7w7GSGMmMGFJa7jIXOkTXz) | [مروة سالم](https://open.spotify.com/artist/5T8HcA0hsPwLvdejz6NKJj) | [يا متيم \- Single](https://open.spotify.com/album/7dwA6hXAiRBvPG11tyAdwM) | 4:34 | 2021-12-30 | 2022-03-02 |

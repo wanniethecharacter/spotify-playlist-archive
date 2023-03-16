@@ -4,7 +4,7 @@
 
 > Maks: "Oké jij wilt vies nou ik zal je wat vertellen\. Zij heeft dyscalculie dus is niet zo goed in tellen."
 
-80 songs - 3 hr 57 min
+81 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB), [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5y16jXfwpM8ZrZ2nnNRVlP) | 2:42 | 2023-02-23 |  |
 | [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 | 2023-02-23 |  |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-02-23 | 2023-03-02 |
+| [Kill Bill \- Sped Up Version](https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill](https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7) | 2:17 | 2023-03-15 |  |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-23 |  |
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2023-02-23 |  |
 | [Love Song](https://open.spotify.com/track/65PPYvLLxqXwYEIdpW8fy6) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Love Song](https://open.spotify.com/album/5gSWvabgQgkAa7whhV3jA7) | 3:01 | 2023-02-23 |  |
@@ -67,7 +68,7 @@
 | [Pacman](https://open.spotify.com/track/4joVpbCQJpocvyp9cbD8lf) | [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV), [Stepz](https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P) | [Pacman](https://open.spotify.com/album/58cgGThT5NejuPh4ERwq6x) | 2:02 | 2023-02-23 | 2023-03-08 |
 | [Pagodão do Birimbola \(Tchubirabirom\)](https://open.spotify.com/track/24llggQslFoCamLMIg3Jka) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2) | [Pagodão do Birimbola \(Tchubirabirom\)](https://open.spotify.com/album/2VQvcst1qXdFNY3HwfCM5H) | 2:05 | 2023-02-23 |  |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-02-23 |  |
-| [Parado no Bailão](https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt) | [Parado no Bailão](https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa) | 2:51 | 2023-02-23 |  |
+| [Parado no Bailão](https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt) | [Parado no Bailão](https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa) | 2:51 | 2023-02-23 | 2023-03-16 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-02-23 |  |
 | [POV](https://open.spotify.com/track/3gUyWMxsnhrEwPhQjL2W0L) | [Smitmeister](https://open.spotify.com/artist/6kVigSLG1yYraRqimn7EJY), [La June](https://open.spotify.com/artist/3hHBl5FjVlul5vOJ8cj72f), [SK Ontspannen](https://open.spotify.com/artist/0YSfcFH1WHuxlThNLippr0), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [POV](https://open.spotify.com/album/6h9E9C3gGVt3kumf0YH2G1) | 1:52 | 2023-02-23 | 2023-03-04 |
 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \- Durdenhauer Edit](https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo) | [Durdenhauer](https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \[Durdenhauer Edit\]](https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu) | 2:43 | 2023-02-23 |  |

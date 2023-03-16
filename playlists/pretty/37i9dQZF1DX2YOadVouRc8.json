@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 11164,
+  "num_followers": 11173,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgwNjI4MiwwMDAwMDAwMDc0ZTA0MDM3YzA5ZmM3NTA3NjhjMWFhNzU0YmEzZDU0",
+  "snapshot_id": "MTY3ODgwNjI4MiwwMDAwMDAwMGY5Y2RmZTdlNDA4ODI0Y2RhNjNjYWM3NzFiYjcxNTI2",
   "tracks": [
     {
       "added_at": "2023-03-10 11:08:54",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-03-10 11:08:54",
       "album": {
+        "name": "2 Bad",
+        "url": "https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "2 Bad",
+      "url": "https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R"
+    },
+    {
+      "added_at": "2023-03-10 11:08:54",
+      "album": {
         "name": "A Night In Cocody",
         "url": "https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2023-03-10 11:08:54",
       "album": {
-        "name": "2 Bad",
-        "url": "https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "2 Bad",
-      "url": "https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R"
-    },
-    {
-      "added_at": "2023-03-10 11:08:54",
-      "album": {
         "name": "Magixx",
         "url": "https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD"
       },
@@ -723,26 +723,6 @@
       "duration_ms": 205714,
       "name": "Love Don't Cost A Dime",
       "url": "https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7"
-    },
-    {
-      "added_at": "2023-03-10 11:08:54",
-      "album": {
-        "name": "CLOUD 9",
-        "url": "https://open.spotify.com/album/7Jk4YjRuYlomAcJ9ELgZDx"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 188823,
-      "name": "CLOUD 9",
-      "url": "https://open.spotify.com/track/6NPGARxLviKCfERFuSMiaO"
     },
     {
       "added_at": "2023-03-10 11:08:54",
@@ -767,6 +747,26 @@
     {
       "added_at": "2023-03-10 11:08:54",
       "album": {
+        "name": "CLOUD 9",
+        "url": "https://open.spotify.com/album/7Jk4YjRuYlomAcJ9ELgZDx"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 188823,
+      "name": "CLOUD 9",
+      "url": "https://open.spotify.com/track/6NPGARxLviKCfERFuSMiaO"
+    },
+    {
+      "added_at": "2023-03-10 11:08:54",
+      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
       },
@@ -779,6 +779,30 @@
       "duration_ms": 208692,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
+    },
+    {
+      "added_at": "2023-03-10 11:08:54",
+      "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Afro Nation",
+          "url": "https://open.spotify.com/artist/54okxCS1Qi7TsWHymlwdYy"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Your Love (Mogbe)",
+      "url": "https://open.spotify.com/track/6WDgwgR3fAu9UfLXz1iHCz"
     },
     {
       "added_at": "2023-03-10 11:08:54",
@@ -855,30 +879,6 @@
       "duration_ms": 258577,
       "name": "Osondu",
       "url": "https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx"
-    },
-    {
-      "added_at": "2023-03-10 11:08:54",
-      "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Afro Nation",
-          "url": "https://open.spotify.com/artist/54okxCS1Qi7TsWHymlwdYy"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Your Love (Mogbe)",
-      "url": "https://open.spotify.com/track/6WDgwgR3fAu9UfLXz1iHCz"
     },
     {
       "added_at": "2023-03-10 11:08:54",
@@ -1023,6 +1023,30 @@
     {
       "added_at": "2023-03-10 11:08:54",
       "album": {
+        "name": "Stuck (Your Heart)",
+        "url": "https://open.spotify.com/album/6DUNvxsja1HRJWSTdaoK5O"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Mayten",
+          "url": "https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        }
+      ],
+      "duration_ms": 250488,
+      "name": "Stuck (Your Heart)",
+      "url": "https://open.spotify.com/track/6v1MYdTTNt0mJNZ6NEDnQ6"
+    },
+    {
+      "added_at": "2023-03-10 11:08:54",
+      "album": {
         "name": "Fight For You",
         "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
       },
@@ -1155,6 +1179,22 @@
     {
       "added_at": "2023-03-10 11:08:54",
       "album": {
+        "name": "That's Alright",
+        "url": "https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "duration_ms": 232021,
+      "name": "That's Alright",
+      "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
+    },
+    {
+      "added_at": "2023-03-10 11:08:54",
+      "album": {
         "name": "Trobul",
         "url": "https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS"
       },
@@ -1175,22 +1215,6 @@
     {
       "added_at": "2023-03-10 11:08:54",
       "album": {
-        "name": "That's Alright",
-        "url": "https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 232021,
-      "name": "That's Alright",
-      "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
-    },
-    {
-      "added_at": "2023-03-10 11:08:54",
-      "album": {
         "name": "Crayons",
         "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
       },
@@ -1203,30 +1227,6 @@
       "duration_ms": 143527,
       "name": "Crayons",
       "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
-    },
-    {
-      "added_at": "2023-03-10 11:08:54",
-      "album": {
-        "name": "Stuck (Your Heart)",
-        "url": "https://open.spotify.com/album/6DUNvxsja1HRJWSTdaoK5O"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Mayten",
-          "url": "https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K"
-        },
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        }
-      ],
-      "duration_ms": 250488,
-      "name": "Stuck (Your Heart)",
-      "url": "https://open.spotify.com/track/6v1MYdTTNt0mJNZ6NEDnQ6"
     },
     {
       "added_at": "2023-03-10 11:08:54",
@@ -1395,42 +1395,34 @@
     {
       "added_at": "2023-03-10 11:08:54",
       "album": {
-        "name": "Spring to Summer",
-        "url": "https://open.spotify.com/album/3mmkqM9wHBmzD2A4UtzDuo"
+        "name": "Somali Rose",
+        "url": "https://open.spotify.com/album/5oveeChuYpFJLYUCpHK4Lu"
       },
       "artists": [
         {
-          "name": "Mopao Mumu",
-          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
-        },
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+          "name": "Ria Boss",
+          "url": "https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q"
         }
       ],
-      "duration_ms": 254326,
-      "name": "Suga Candy",
-      "url": "https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8"
+      "duration_ms": 259673,
+      "name": "Somali Rose",
+      "url": "https://open.spotify.com/track/51ZoO8zHtauv6VJvszPdM0"
     },
     {
       "added_at": "2023-03-10 11:08:54",
       "album": {
-        "name": "R-/LBT",
-        "url": "https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc"
+        "name": "Brunch",
+        "url": "https://open.spotify.com/album/2cQ86acGp5LQatlnXdrDec"
       },
       "artists": [
         {
-          "name": "OSO",
-          "url": "https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2"
-        },
-        {
-          "name": "Riunga",
-          "url": "https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN"
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
         }
       ],
-      "duration_ms": 230808,
-      "name": "Lights Down Low",
-      "url": "https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE"
+      "duration_ms": 181333,
+      "name": "Brunch",
+      "url": "https://open.spotify.com/track/2uka2kAlD8m3yUXT0iZKv6"
     },
     {
       "added_at": "2023-03-10 11:08:54",
@@ -1451,18 +1443,22 @@
     {
       "added_at": "2023-03-10 11:08:54",
       "album": {
-        "name": "Somali Rose",
-        "url": "https://open.spotify.com/album/5oveeChuYpFJLYUCpHK4Lu"
+        "name": "Spring to Summer",
+        "url": "https://open.spotify.com/album/3mmkqM9wHBmzD2A4UtzDuo"
       },
       "artists": [
         {
-          "name": "Ria Boss",
-          "url": "https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q"
+          "name": "Mopao Mumu",
+          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
+        },
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
         }
       ],
-      "duration_ms": 259673,
-      "name": "Somali Rose",
-      "url": "https://open.spotify.com/track/51ZoO8zHtauv6VJvszPdM0"
+      "duration_ms": 254326,
+      "name": "Suga Candy",
+      "url": "https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8"
     }
   ],
   "unique_name": "Chill Bops",

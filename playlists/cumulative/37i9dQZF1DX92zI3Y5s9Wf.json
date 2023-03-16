@@ -20,10 +20,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 226000,
       "name": "Amani - Mixed",
       "url": "https://open.spotify.com/track/0O8ug6Qn3SUcaiE6KuHaP5"
+    },
+    {
+      "album": {
+        "name": "Amani (Mixed)",
+        "url": "https://open.spotify.com/album/5NN5jGEB7OpQn5hsoNU2W4"
+      },
+      "artists": [
+        {
+          "name": "Jargen",
+          "url": "https://open.spotify.com/artist/7eNmYIb1F1EUjKBc4UIJBl"
+        },
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Amani - Mixed",
+      "url": "https://open.spotify.com/track/5nXYqDz9wS9qR5o9mAvKlV"
     },
     {
       "album": {
@@ -158,7 +180,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 171473,
       "name": "Haus",
       "url": "https://open.spotify.com/track/27Llu0CjjPMUF4bGLXJ7n6"
@@ -198,6 +220,24 @@
       "duration_ms": 167000,
       "name": "Haus - Mixed",
       "url": "https://open.spotify.com/track/6Te0wpoDi7GoqhrxYV8N8x"
+    },
+    {
+      "album": {
+        "name": "Haus (Mixed)",
+        "url": "https://open.spotify.com/album/7e2Zsz3ufmhzQ04YQI7Qfd"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Haus - Mixed",
+      "url": "https://open.spotify.com/track/6mrHWM42ssae2u0tkPjl9z"
     },
     {
       "album": {
@@ -300,10 +340,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 162000,
       "name": "Hypnotized - Mixed",
       "url": "https://open.spotify.com/track/17FhxnRQl2F94EkmMNVbts"
+    },
+    {
+      "album": {
+        "name": "Hypnotized (Mixed)",
+        "url": "https://open.spotify.com/album/0UYYue24CyTAkQhqeoW6fW"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Hypnotized - Mixed",
+      "url": "https://open.spotify.com/track/5Ma4OVPTq7iRGU2CvZJu8w"
     },
     {
       "album": {

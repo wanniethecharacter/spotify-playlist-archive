@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Bruses en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,919 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,994 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 26 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 |
 | 27 | [Días De Fuego](https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Días De Fuego](https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX) | 3:05 |
 | 28 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
-| 29 | [Mismo Amor](https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mismo Amor](https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv) | 3:18 |
-| 30 | [Almas Rotas](https://open.spotify.com/track/3tCD9o5wDyg8yrH7MspqkW) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Almas Rotas](https://open.spotify.com/album/4ksTEssdxEf4aOBy7o4Ifz) | 3:45 |
+| 29 | [Almas Rotas](https://open.spotify.com/track/3tCD9o5wDyg8yrH7MspqkW) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Almas Rotas](https://open.spotify.com/album/4ksTEssdxEf4aOBy7o4Ifz) | 3:45 |
+| 30 | [Mismo Amor](https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mismo Amor](https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv) | 3:18 |
 | 31 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 |
 | 32 | [Su Majestad La Eternidad](https://open.spotify.com/track/1nHE5HxALJUAPaFPn9CSpU) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Amantes \- Su Majestad La Eternidad](https://open.spotify.com/album/7HvthDR7lGp5JNua540inw) | 3:50 |
 | 33 | [Brújula](https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Brújula](https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz) | 4:12 |
-| 34 | [Trinchera](https://open.spotify.com/track/5gGQIro4l0L55dfk85WxUP) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera \- Single](https://open.spotify.com/album/7e6wpR5m0K1S3cWkDGQEBm) | 3:20 |
+| 34 | [AAAAAA](https://open.spotify.com/track/2eFWliYRleozZ8w8JRm5FP) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/6vR3IjKZz96v4RXVdcN39q) | 3:10 |
 | 35 | [Globos](https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 4:20 |
-| 36 | [AAAAAA](https://open.spotify.com/track/2eFWliYRleozZ8w8JRm5FP) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/6vR3IjKZz96v4RXVdcN39q) | 3:10 |
+| 36 | [Trinchera](https://open.spotify.com/track/5gGQIro4l0L55dfk85WxUP) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera \- Single](https://open.spotify.com/album/7e6wpR5m0K1S3cWkDGQEBm) | 3:20 |
 | 37 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
 | 38 | [Náufrago](https://open.spotify.com/track/2tDP8CLX7r9DhSYwGhVkRs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Náufrago](https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK) | 4:10 |
 | 39 | [El Accidente](https://open.spotify.com/track/0wchDmvHOahKI191E7X448) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [El Accidente](https://open.spotify.com/album/3tBnzfpisn2oyDgD1TPxjB) | 4:05 |
@@ -54,15 +54,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 44 | [Galáctica](https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Galáctica](https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m) | 3:27 |
 | 45 | [Pasiflorine](https://open.spotify.com/track/2dGLgeorhk8f54PSm9xPLH) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Borregos En La Niebla](https://open.spotify.com/album/4dRYCUjEYplBppMnnITj2I) | 4:09 |
 | 46 | [Nube Fantasma](https://open.spotify.com/track/0n3GD03oX8uFTknufKX8SZ) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Generación Inmediata](https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB) | 3:44 |
-| 47 | [Como Tú \(Magic Music Box\)](https://open.spotify.com/track/0GWkuPr946cYbOMRkrbw4e) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Rock en español](https://open.spotify.com/album/3bmuv7OI4asKzdF3T4zWsx) | 3:52 |
-| 48 | [Punk](https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Punk](https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP) | 3:13 |
-| 49 | [Escúpeme En La Cara](https://open.spotify.com/track/3Wsvw8v3czfWGliziA9BCI) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Escúpeme En La Cara](https://open.spotify.com/album/02hnUWAP3zAetHmbm5q2gf) | 3:21 |
+| 47 | [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 |
+| 48 | [Como Tú \(Magic Music Box\)](https://open.spotify.com/track/0GWkuPr946cYbOMRkrbw4e) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Rock en español](https://open.spotify.com/album/3bmuv7OI4asKzdF3T4zWsx) | 3:52 |
+| 49 | [Punk](https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Punk](https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP) | 3:13 |
 | 50 | [Inevitable](https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Inevitable](https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa) | 3:24 |
 | 51 | [SKR](https://open.spotify.com/track/02jY4Umvqc6JdcjdsYxEEQ) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 5:11 |
 | 52 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 |
 | 53 | [De la Orquídea y la Avispa](https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [De la Orquídea y la Avispa](https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d) | 6:47 |
-| 54 | [HASTA SIEMPRE](https://open.spotify.com/track/6ApstFWbxEDlv05dvr89xQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [HASTA SIEMPRE](https://open.spotify.com/album/7DjQIfGX1CY1we4iaGJg0l) | 3:08 |
-| 55 | [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 |
+| 54 | [Escúpeme En La Cara](https://open.spotify.com/track/3Wsvw8v3czfWGliziA9BCI) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Escúpeme En La Cara](https://open.spotify.com/album/02hnUWAP3zAetHmbm5q2gf) | 3:21 |
+| 55 | [HASTA SIEMPRE](https://open.spotify.com/track/6ApstFWbxEDlv05dvr89xQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [HASTA SIEMPRE](https://open.spotify.com/album/7DjQIfGX1CY1we4iaGJg0l) | 3:08 |
 | 56 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 |
 | 57 | [Mejor Que Nadie](https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Mejor Que Nadie](https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE) | 4:40 |
 | 58 | [Contracorriente](https://open.spotify.com/track/1axnVawuhNUMKKfW7Q2mSP) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Contracorriente](https://open.spotify.com/album/4ZuzyEmpRBxC35VT3if8wg) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 74 | [Corre Amor](https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:14 |
 | 75 | [Trataré](https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Trataré](https://open.spotify.com/album/2Wmq4uZPKAUNFgi25xofCI) | 4:07 |
 
-Snapshot ID: `MTY3ODQ2MDYwMywwMDAwMDAwMDBlMWE3NzFhMzE0OTU3ODYzOTY1NWFmOTlmMzYzMmE4`
+Snapshot ID: `MTY3ODQ2MDYwMywwMDAwMDAwMDhiNmNmNmM0ZTA2YWI2ZmZiZTQzNjg1MjQ1ODNkNzQ5`

@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 162845,
+  "num_followers": 162933,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTkzMzUzMiwwMDAwMDAwMDhhOGI3NDU5MTdhNzUyNzdkOWZkMmVkNDMyYjFjYzM5",
+  "snapshot_id": "MTY3NTkzMzUzMiwwMDAwMDAwMDU5MDE5OTVmMTU4ODU2Yjc4MzUyZGM1MzQ4ZmM5NWM3",
   "tracks": [
     {
       "added_at": "2022-07-29 13:33:43",
@@ -551,26 +551,30 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Bizet: Carmen Suites 1 & 2; L'Arl\u00e9sienne Suites 1 & 2",
-        "url": "https://open.spotify.com/album/3MHXMoe8tGfheDCfH6lUFn"
+        "name": "Ravel: Orchestral Works, Vol. 3 \u2013 Orchestrations",
+        "url": "https://open.spotify.com/album/4z9LfgCWY61TwlGfTpclne"
       },
       "artists": [
         {
-          "name": "Georges Bizet",
-          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+          "name": "Modest Mussorgsky",
+          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
         },
         {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Charles Dutoit",
-          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Leonard Slatkin",
+          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
         }
       ],
-      "duration_ms": 155826,
-      "name": "Carmen Suite No. 1: Intermezzo",
-      "url": "https://open.spotify.com/track/7bf93oDYxqU36lyBhEa3mB"
+      "duration_ms": 55213,
+      "name": "Pictures at an Exhibition (Orch. M. Ravel): Promenade",
+      "url": "https://open.spotify.com/track/4JrrAz6CdcawJthf1LdCbE"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -603,30 +607,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Ravel: Orchestral Works, Vol. 3 \u2013 Orchestrations",
-        "url": "https://open.spotify.com/album/4z9LfgCWY61TwlGfTpclne"
+        "name": "Bizet: Carmen Suites 1 & 2; L'Arl\u00e9sienne Suites 1 & 2",
+        "url": "https://open.spotify.com/album/3MHXMoe8tGfheDCfH6lUFn"
       },
       "artists": [
         {
-          "name": "Modest Mussorgsky",
-          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
         },
         {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
         },
         {
-          "name": "Orchestre National De Lyon",
-          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
-        },
-        {
-          "name": "Leonard Slatkin",
-          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+          "name": "Charles Dutoit",
+          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
         }
       ],
-      "duration_ms": 55213,
-      "name": "Pictures at an Exhibition (Orch. M. Ravel): Promenade",
-      "url": "https://open.spotify.com/track/4JrrAz6CdcawJthf1LdCbE"
+      "duration_ms": 155826,
+      "name": "Carmen Suite No. 1: Intermezzo",
+      "url": "https://open.spotify.com/track/7bf93oDYxqU36lyBhEa3mB"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -679,30 +679,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Lake Reflections - Music for Flute & Harp",
-        "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
-      },
-      "artists": [
-        {
-          "name": "Fanny Mendelssohn",
-          "url": "https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi"
-        },
-        {
-          "name": "Eva Oertle",
-          "url": "https://open.spotify.com/artist/11wpb7qpcwo3yLUuQfBsh6"
-        },
-        {
-          "name": "Consuelo Giulianelli",
-          "url": "https://open.spotify.com/artist/4nLTgq8xHMMq7LkcPYCzn6"
-        }
-      ],
-      "duration_ms": 150413,
-      "name": "Schwanenlied",
-      "url": "https://open.spotify.com/track/58I1vBvQyCzucuxkMl9Pwc"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Fantasia on Greensleeves",
         "url": "https://open.spotify.com/album/59u2LsQ4yVeArge5V4Y7pV"
       },
@@ -727,6 +703,30 @@
       "duration_ms": 144266,
       "name": "Capriol Suite: 5. Pied-en- l'air",
       "url": "https://open.spotify.com/track/5JUZN3APQOGsw7LJZYEjmU"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Lake Reflections - Music for Flute & Harp",
+        "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
+      },
+      "artists": [
+        {
+          "name": "Fanny Mendelssohn",
+          "url": "https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi"
+        },
+        {
+          "name": "Eva Oertle",
+          "url": "https://open.spotify.com/artist/11wpb7qpcwo3yLUuQfBsh6"
+        },
+        {
+          "name": "Consuelo Giulianelli",
+          "url": "https://open.spotify.com/artist/4nLTgq8xHMMq7LkcPYCzn6"
+        }
+      ],
+      "duration_ms": 150413,
+      "name": "Schwanenlied",
+      "url": "https://open.spotify.com/track/58I1vBvQyCzucuxkMl9Pwc"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -891,26 +891,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Are You Still Somewhere?",
-        "url": "https://open.spotify.com/album/36xU7Hq8G8QbsRrl59TyxD"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Lavinia Meijer",
-          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Saman",
-      "url": "https://open.spotify.com/track/0ZZR7yshyNORje3HH1yxUX"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
         "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
       },
@@ -931,8 +911,8 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Kissin Plays Liszt",
-        "url": "https://open.spotify.com/album/3iN0jN2bjNrr6nLDS7ZAEE"
+        "name": "Liszt Complete Piano Music, Vol. 6: Complete Song Transcriptions of Chopin, Mendelssohn and Robert & Clara Schumann",
+        "url": "https://open.spotify.com/album/4ajLFz7v94SsoNAPY5zCMF"
       },
       "artists": [
         {
@@ -940,13 +920,33 @@
           "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
         },
         {
-          "name": "Evgeny Kissin",
-          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+          "name": "Joseph Banowetz",
+          "url": "https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo"
         }
       ],
-      "duration_ms": 375920,
-      "name": "St\u00e4ndchen (From Schwanengesang, D957)",
-      "url": "https://open.spotify.com/track/1Fye8VOMOlXxtBo02TpNWD"
+      "duration_ms": 199066,
+      "name": "Mendelssohns Lieder, S. 547: Auf Flugeln des Gesanges (from Op. 34, No. 2)",
+      "url": "https://open.spotify.com/track/3Mb9IoWbfxU27yEdxAUEDp"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Are You Still Somewhere?",
+        "url": "https://open.spotify.com/album/36xU7Hq8G8QbsRrl59TyxD"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Saman",
+      "url": "https://open.spotify.com/track/0ZZR7yshyNORje3HH1yxUX"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1011,6 +1011,26 @@
       "duration_ms": 98320,
       "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
       "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Kissin Plays Liszt",
+        "url": "https://open.spotify.com/album/3iN0jN2bjNrr6nLDS7ZAEE"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "duration_ms": 375920,
+      "name": "St\u00e4ndchen (From Schwanengesang, D957)",
+      "url": "https://open.spotify.com/track/1Fye8VOMOlXxtBo02TpNWD"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1107,26 +1127,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Liszt Complete Piano Music, Vol. 6: Complete Song Transcriptions of Chopin, Mendelssohn and Robert & Clara Schumann",
-        "url": "https://open.spotify.com/album/4ajLFz7v94SsoNAPY5zCMF"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Joseph Banowetz",
-          "url": "https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo"
-        }
-      ],
-      "duration_ms": 199066,
-      "name": "Mendelssohns Lieder, S. 547: Auf Flugeln des Gesanges (from Op. 34, No. 2)",
-      "url": "https://open.spotify.com/track/3Mb9IoWbfxU27yEdxAUEDp"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Bach, J.S.: French Suites Nos. 1-6/Italian Concerto etc.",
         "url": "https://open.spotify.com/album/4L2s1hLPrtrpYFeJ9Kws6R"
       },
@@ -1211,34 +1211,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Zolt\u00e1n Kocsis: A Tribute",
-        "url": "https://open.spotify.com/album/7BgQdVLNI9mmO5P1ijJ5wT"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Zolt\u00e1n Kocsis",
-          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
-        },
-        {
-          "name": "Liszt Ferenc Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/6QZkgt4JiF3RQcvxggrMxr"
-        },
-        {
-          "name": "J\u00e1nos Rolla",
-          "url": "https://open.spotify.com/artist/0idaRQS8I2GsqPSPA5z5Mn"
-        }
-      ],
-      "duration_ms": 361493,
-      "name": "Piano Concerto No. 6 in B-Flat Major, K. 238: II. Andante un poco adagio",
-      "url": "https://open.spotify.com/track/0Bg70fyCFqNJpERbu9UaxJ"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Ravel: Complete Music for Piano Solo/Piano Concertos",
         "url": "https://open.spotify.com/album/1fey9cYZHl1RsMMZci7GOw"
       },
@@ -1279,22 +1251,30 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Mendelssohn",
-        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
+        "name": "Zolt\u00e1n Kocsis: A Tribute",
+        "url": "https://open.spotify.com/album/7BgQdVLNI9mmO5P1ijJ5wT"
       },
       "artists": [
         {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
-          "name": "Philippe Cassard",
-          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        },
+        {
+          "name": "Liszt Ferenc Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/6QZkgt4JiF3RQcvxggrMxr"
+        },
+        {
+          "name": "J\u00e1nos Rolla",
+          "url": "https://open.spotify.com/artist/0idaRQS8I2GsqPSPA5z5Mn"
         }
       ],
-      "duration_ms": 169653,
-      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
-      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
+      "duration_ms": 361493,
+      "name": "Piano Concerto No. 6 in B-Flat Major, K. 238: II. Andante un poco adagio",
+      "url": "https://open.spotify.com/track/0Bg70fyCFqNJpERbu9UaxJ"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1315,6 +1295,26 @@
       "duration_ms": 294120,
       "name": "Andante spiniato in G: Allegro maestoso",
       "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Mendelssohn",
+        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Philippe Cassard",
+          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
+        }
+      ],
+      "duration_ms": 169653,
+      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
+      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
     }
   ],
   "unique_name": "Creative Focus",

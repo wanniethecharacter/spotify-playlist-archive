@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:0SdOBSTmq4qpS3Qxb6NvDn">Guinevere</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,639 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,648 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

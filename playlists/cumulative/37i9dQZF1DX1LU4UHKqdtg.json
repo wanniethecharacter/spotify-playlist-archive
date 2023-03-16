@@ -3463,6 +3463,24 @@
     },
     {
       "album": {
+        "name": "HANA MICHI",
+        "url": "https://open.spotify.com/album/4rHAamZcFkv1pnv2FHKua4"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Joong",
+          "url": "https://open.spotify.com/artist/0rB9P2J3OkobNezpTBcXqE"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224533,
+      "name": "HANA MICHI",
+      "url": "https://open.spotify.com/track/6Ype063HsGKF7AholzHRFh"
+    },
+    {
+      "album": {
         "name": "Happy Death Day",
         "url": "https://open.spotify.com/album/3sQhbas4eoH7l38Uy0ZJ3z"
       },
@@ -9656,7 +9674,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 224533,
       "name": "\u82b1\u8def",
       "url": "https://open.spotify.com/track/0B2xB2XuQlN7jMpbsDHYUb"

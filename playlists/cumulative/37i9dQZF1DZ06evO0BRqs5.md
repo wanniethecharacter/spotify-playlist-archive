@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 | 2022-12-29 |  |
 | [AURORA](https://open.spotify.com/track/1j8GsYtk19jz7rtGdKuFYM) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:20 | 2022-06-09 |  |
-| [Brainwash](https://open.spotify.com/track/07n5LpytLdZuKDAurEo1wp) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [IGNITE](https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB) | 3:18 | 2022-06-09 |  |
+| [Brainwash](https://open.spotify.com/track/07n5LpytLdZuKDAurEo1wp) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [IGNITE](https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB) | 3:18 | 2022-06-09 | 2023-03-16 |
 | [CaCO](https://open.spotify.com/track/0E5vf3YTVdn7sbaNkdSJae) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 5:11 | 2022-08-23 |  |
 | [CaCO \-Instrumental](https://open.spotify.com/track/58H90Fan0uwDxquVbZ6yFK) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 5:10 | 2022-08-27 | 2022-10-13 |
 | [Campanula](https://open.spotify.com/track/4fygeSa7eyfrKHSvaX9yn3) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [KALEIDOSCOPE](https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh) | 3:29 | 2023-01-19 |  |
@@ -86,7 +86,7 @@
 | [螺旋世界](https://open.spotify.com/track/1Cp6p7em95MNYmuJBI9MNn) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:19 | 2022-06-09 | 2022-10-16 |
 | [近未来交響曲](https://open.spotify.com/track/4hMcTL6kTCzIgmOxQJlqoz) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:30 | 2022-06-09 | 2023-01-05 |
 | [閃光前夜](https://open.spotify.com/track/7AQCebDj1ewxC6NUuW4Mbe) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 5:11 | 2022-08-19 | 2022-08-21 |
-| [青の世界](https://open.spotify.com/track/7LWlnwNCg5OtJynBCSqxzG) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 6:00 | 2022-06-09 | 2023-03-12 |
+| [青の世界](https://open.spotify.com/track/7LWlnwNCg5OtJynBCSqxzG) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 6:00 | 2022-06-09 |  |
 | [鼓動](https://open.spotify.com/track/6QDyiZyiQjRL02PIiJo2bq) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [鼓動](https://open.spotify.com/album/3ScfmGFBtfyu9Gsj3yWDU3) | 4:03 | 2022-06-09 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

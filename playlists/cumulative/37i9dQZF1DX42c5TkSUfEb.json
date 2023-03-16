@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 259592,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib"
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 238640,
       "name": "lovers\u2019 carvings",
       "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
@@ -1654,6 +1654,24 @@
       "duration_ms": 225106,
       "name": "New Soul",
       "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
+    },
+    {
+      "album": {
+        "name": "Nothing's Free",
+        "url": "https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278760,
+      "name": "Nothing's Free",
+      "url": "https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS"
     },
     {
       "album": {
@@ -1946,6 +1964,36 @@
       "duration_ms": 260120,
       "name": "Soon We'll Be Found",
       "url": "https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D"
+    },
+    {
+      "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212467,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "album": {

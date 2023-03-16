@@ -3889,6 +3889,24 @@
     },
     {
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353946,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
+    },
+    {
+      "album": {
         "name": "Nothing Feels Right (feat. Zakk Wylde)",
         "url": "https://open.spotify.com/album/5FRTz5iys7bz1F2yzn9Lm5"
       },

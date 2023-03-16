@@ -808,7 +808,7 @@
     {
       "album": {
         "name": "GOOD POP",
-        "url": "https://open.spotify.com/album/274STo9jEPj9iIsUgYqZNP"
+        "url": "https://open.spotify.com/album/0UZTyHGT18tMmP9fILvWpe"
       },
       "artists": [
         {
@@ -823,6 +823,28 @@
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 120000,
+      "name": "blanc benzo",
+      "url": "https://open.spotify.com/track/1ARas8gp7xDd2lG0sZDBSO"
+    },
+    {
+      "album": {
+        "name": "GOOD POP",
+        "url": "https://open.spotify.com/album/274STo9jEPj9iIsUgYqZNP"
+      },
+      "artists": [
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        },
+        {
+          "name": "Peterparker69",
+          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-16",
       "duration_ms": 120000,
       "name": "blanc benzo",
       "url": "https://open.spotify.com/track/2xcwcf2g0iOV0FmCfwRimB"
@@ -6338,6 +6360,36 @@
     {
       "album": {
         "name": "098RADIO vol.1 Hosted by Awich",
+        "url": "https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "Tsubaki",
+          "url": "https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx"
+        },
+        {
+          "name": "OZworld",
+          "url": "https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO"
+        },
+        {
+          "name": "CHICO CARLITO",
+          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289846,
+      "name": "RASEN in OKINAWA",
+      "url": "https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2"
+    },
+    {
+      "album": {
+        "name": "098RADIO vol.1 Hosted by Awich",
         "url": "https://open.spotify.com/album/3pI2uSbHBV35jRs5QsZyEs"
       },
       "artists": [
@@ -6360,7 +6412,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 289846,
       "name": "RASEN in OKINAWA",
       "url": "https://open.spotify.com/track/7d5uA21GZEzdlnyP251Ou0"
@@ -7272,7 +7324,7 @@
     {
       "album": {
         "name": "HUES",
-        "url": "https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh"
+        "url": "https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo"
       },
       "artists": [
         {
@@ -7283,6 +7335,24 @@
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 172455,
+      "name": "SORA",
+      "url": "https://open.spotify.com/track/3dGWJ8UlemnEV4WycKW3hd"
+    },
+    {
+      "album": {
+        "name": "HUES",
+        "url": "https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-16",
       "duration_ms": 172455,
       "name": "SORA",
       "url": "https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL"

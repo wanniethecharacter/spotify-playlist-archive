@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,863 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,141 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 38 | [The Girl Who Fell From The Sky \(Laputa\)](https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Ghibli, Anime & Chill](https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK) | 1:31 |
 | 39 | [虹](https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS) | [Masaki Suda](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [虹](https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi) | 4:18 |
 | 40 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 |
-| 41 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 |
-| 42 | [The World's Continuation](https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:47 |
+| 41 | [The World's Continuation](https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:47 |
+| 42 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 |
 | 43 | [ひこうき雲](https://open.spotify.com/track/2YyxBmzk2l7NzyBakN3TdM) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ひこうき雲](https://open.spotify.com/album/2Apn7plsxGOwwD7anbcAOS) | 3:26 |
 | 44 | [イザベラの唄](https://open.spotify.com/track/6qzTbAFDX82BxJIBbdKPH8) | [小畑貴裕](https://open.spotify.com/artist/1ts9YsGOQHW0vzUrhG4ZpH) | [約束のネバーランド Season1 Original Soundtrack](https://open.spotify.com/album/6yN3OuEpq0YkHK21VDQJKb) | 2:29 |
 | 45 | [Howl's Moving Castle Theme](https://open.spotify.com/track/3Hc7Su1AVaynKEkwSZopbN) | [Kyle Landry](https://open.spotify.com/artist/0HSGaSAaBPZJq4lisoWA59) | [Howl's Moving Castle Theme](https://open.spotify.com/album/5DcmQCG3tFLsZTISzdgQWw) | 5:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 49 | [Always with Me](https://open.spotify.com/track/0FJL3Dwu8oUpwDb80qNdvP) | [Yumi Kimura](https://open.spotify.com/artist/6GwGjApO5BIdafJUMazVN3) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:35 |
 | 50 | [君の知らない物語](https://open.spotify.com/track/434YBNY61Y9sqBSp7OINBa) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [Today Is A Beautiful Day](https://open.spotify.com/album/48KseHW22uKEJjgTKZCtk7) | 5:39 |
 
-Snapshot ID: `MTY3ODgxMjExOCwwMDAwMDAwMGQ5MjYxN2JhMjRkY2UwZTY3OWJlOTc2MmFkMGUzMjA0`
+Snapshot ID: `MTY3ODgxMjExOCwwMDAwMDAwMDM0ZjRjYjFhMTk5ZDU1ZDhlODZjODk0MzYwNjZlNjE3`

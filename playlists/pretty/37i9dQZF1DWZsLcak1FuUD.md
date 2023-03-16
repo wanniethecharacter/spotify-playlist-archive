@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,013 likes - 55 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,031 likes - 55 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 29 | [Post\-Crucifixion](https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Lo Mejor de Pescado Rabioso](https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw) | 3:46 |
 | 30 | [Casa Con Diez Pinos](https://open.spotify.com/track/2Ras7UcXvzenVmkyVMibdh) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 4:14 |
 | 31 | [En el país de la libertad](https://open.spotify.com/track/1oiMVZp0WcRmsxdfHdoRwb) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/61O3RcbSiFklK1N9SC5LCd) | 3:13 |
-| 32 | [Canto, desde el fondo de las ruinas](https://open.spotify.com/track/0bVpPI7PzrScltqKCm5DKp) | [Aquelarre](https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc) | [Aquelarre](https://open.spotify.com/album/21k9Lf53dN3pCJ8JZsk81p) | 4:00 |
-| 33 | [Mañana por la Noche](https://open.spotify.com/track/6gWplVwr7ta6vpp2DSCo96) | [Color Humano](https://open.spotify.com/artist/6AETRCQep85mUtIlX7BaFV) | [Color Humano](https://open.spotify.com/album/0iEUyTKuM2Nhi3ehAbwYmH) | 2:52 |
+| 32 | [Mañana por la Noche](https://open.spotify.com/track/6gWplVwr7ta6vpp2DSCo96) | [Color Humano](https://open.spotify.com/artist/6AETRCQep85mUtIlX7BaFV) | [Color Humano](https://open.spotify.com/album/0iEUyTKuM2Nhi3ehAbwYmH) | 2:52 |
+| 33 | [Canto, desde el fondo de las ruinas](https://open.spotify.com/track/0bVpPI7PzrScltqKCm5DKp) | [Aquelarre](https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc) | [Aquelarre](https://open.spotify.com/album/21k9Lf53dN3pCJ8JZsk81p) | 4:00 |
 | 34 | [Blues de Dana](https://open.spotify.com/track/32Du6z7oXiowmiZCPpnLj5) | [Arco Iris](https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW) | [Arco Iris \- Cronología I](https://open.spotify.com/album/1vNUHRvUEXMmcjAzFW4b5m) | 5:47 |
 | 35 | [Donde Va la Gente Cuando Llueve](https://open.spotify.com/track/2JjB7P18oOeqpWKGsUGINy) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [Yo Vivo en Esta Ciudad](https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i) | 4:44 |
 | 36 | [No Pibe](https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 3:50 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 38 | [Mi Cuarto](https://open.spotify.com/track/1eD4rXi4Orx0b3k5an1LBL) | [Vivencia](https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY) | [Mi Cuarto](https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6) | 3:35 |
 | 39 | [Sueltate Rock And Roll](https://open.spotify.com/track/1HbLdtZvbp8JRVAJhlktfK) | [Polifemo](https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO) | [Serie De Oro](https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE) | 3:33 |
 | 40 | [La mamá de Jimmy \- Leí](https://open.spotify.com/track/34MKQgDEwYzDer6VZKIGhZ) | [Porsuigieco](https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG) | [PorSuiGieco](https://open.spotify.com/album/7ug5TR3GSr8nmDWLaOQ93r) | 3:39 |
-| 41 | [Avellaneda Blues](https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 5:33 |
-| 42 | [Violencia En El Parque](https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S) | [Aquelarre](https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc) | [Otras Pistas](https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV) | 5:22 |
+| 41 | [Violencia En El Parque](https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S) | [Aquelarre](https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc) | [Otras Pistas](https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV) | 5:22 |
+| 42 | [Avellaneda Blues](https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 5:33 |
 | 43 | [Los Juguetes Y Los Niños](https://open.spotify.com/track/3xNyKcQM5nMB3gY6XDvYpF) | [Vivencia](https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY) | [Mi Cuarto](https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6) | 3:57 |
 | 44 | [Hoy Te Queremos Cantar](https://open.spotify.com/track/6O036ngVof8dIfCILsJkVv) | [Alma Y Vida](https://open.spotify.com/artist/6Qv7PzO62iPNtE9jNTPGDG) | [Alma y Vida, Vol\. 2](https://open.spotify.com/album/7MHEzCpcFrBeVBaqzM6cSl) | 2:45 |
 | 45 | [Apocalipsis](https://open.spotify.com/track/1BOrWWE3wANOCYFn6p2Z9Y) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6) | 4:47 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 54 | [La Casa De La Mente](https://open.spotify.com/track/4o4LVmNCWYAisLF8j9yc69) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Crisálida](https://open.spotify.com/album/373aJj6wGlb49JD46Qhh7Q) | 6:55 |
 | 55 | [En El Hospicio](https://open.spotify.com/track/6NZ2OTfVCJ9rf6hm6tpJxh) | [Pastoral](https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud) | [Oro](https://open.spotify.com/album/67TJF7Es43tCAfZtWv5kiq) | 3:37 |
 
-Snapshot ID: `MTU4MjczNDMyMiwwMDAwMDAwMGEyMjMxN2UyMmJhZmJhMTFkMzI3M2ZhYTcwYWIwMTE4`
+Snapshot ID: `MTU4MjczNDMyMiwwMDAwMDAwMDU2MzJiODY0OGIxZDg1YTcxMmQxNDFjZGI4MGM4ZDlj`

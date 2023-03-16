@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Michael Ray
 
-296 songs - 18 hr 25 min
+297 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Five O'Clock World](https://open.spotify.com/track/1zO50Yb6j9DaNiGQewJAq7) | [Hal Ketchum](https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7) | [Past The Point Of Rescue](https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE) | 3:04 | 2021-12-10 | 2022-07-28 |
 | [Flower Shops](https://open.spotify.com/track/5H51cBWdVVStrUl5ymGeqa) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Flower Shops](https://open.spotify.com/album/6a0snbHrAHLQXNHiAnmmAW) | 3:34 | 2022-04-08 | 2022-10-07 |
 | [Flowers \- Country Version](https://open.spotify.com/track/0QaCLt0Zgkuadn0seBouFh) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Flowers \(Country Version\)](https://open.spotify.com/album/5v4cqsC4ClbfO04ZeJLJhF) | 3:18 | 2023-02-17 |  |
-| [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 | 2021-12-10 |  |
+| [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 | 2021-12-10 | 2023-03-16 |
 | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH) | 4:09 | 2021-12-10 |  |
 | [Footloose](https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Footloose](https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN) | 3:38 | 2022-03-25 |  |
 | [For the Last Time](https://open.spotify.com/track/5raZrp6kafrmhNuYMGcUoM) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Let's Be Frank](https://open.spotify.com/album/62pT5GFAvi6n5RYrb7Yhkt) | 3:51 | 2021-12-10 | 2022-07-29 |
@@ -302,6 +302,7 @@
 | [You Don't Even Know Who I Am](https://open.spotify.com/track/5eDb0GoBFMwSiXvgnoKNfe) | [Jeremy McComb](https://open.spotify.com/artist/6HEo4zLRyevlX8TikDTH1Q), [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [Frontier Rock](https://open.spotify.com/album/2QZ0mHcbHZolwkaHYIA9fI) | 3:49 | 2022-01-21 | 2022-04-13 |
 | [You Shook Me All Night Long](https://open.spotify.com/track/2Zut1sAjKHrw1CfgKR22dN) | [Big & Rich](https://open.spotify.com/artist/0oBEeN6BCxEgMogzThqrPf) | [Between Raising Hell and Amazing Grace](https://open.spotify.com/album/3BMoczHwMLU0UA7MRmECfE) | 2:43 | 2022-03-25 | 2022-04-18 |
 | [You're Still the One](https://open.spotify.com/track/0x5LOBSGVRXtZWeGeaMQFK) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Pickaxe](https://open.spotify.com/album/21veZBfGnyYnvn5LXWFkMS) | 3:29 | 2022-09-23 | 2023-03-02 |
+| [You're Still the One](https://open.spotify.com/track/1Lmtr7tJasX392hKpbHPx1) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 3:29 | 2023-03-10 |  |
 | [Young Dumb & Broke \(Stripped\)](https://open.spotify.com/track/0cBjARqDzROgtgo99Ppi5q) | [Matt Austin](https://open.spotify.com/artist/4x6n7QYlPdUoaf7gwaqNq5) | [Young Dumb & Broke \(Stripped\)](https://open.spotify.com/album/77rlszvmPmrGtt1DCWJYd6) | 3:07 | 2022-03-25 | 2022-04-21 |
 | [Your Body Is a Wonderland](https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [David Ryan](https://open.spotify.com/artist/14BqDDTDZgUk7ue2rmlkLX) | [Your Body Is a Wonderland](https://open.spotify.com/album/27P5OkGiawj435vcXE0zwM) | 3:37 | 2021-12-10 |  |
 

@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-169 songs - 9 hr 36 min
+170 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [What Is Loving Anymore](https://open.spotify.com/track/7EDn43QGnpy5wTMeHUWnRu) | [Fiona Harte](https://open.spotify.com/artist/5MhqWAoMsPoYzCaFEf6mYs) | [What Is Loving Anymore](https://open.spotify.com/album/1Kgwc9tNKoFL8UkXE2ZEKV) | 2:59 | 2022-04-08 | 2022-07-02 |
 | [Whole Heart](https://open.spotify.com/track/0Vdkp4wpZjRGRrRXFdv50x) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Whole Heart](https://open.spotify.com/album/6DAN3bsYPQ18kT30KozGlJ) | 3:19 | 2022-04-08 | 2022-07-29 |
 | [Whole Heart](https://open.spotify.com/track/2sf9ZR3NgbcMG7izW5db8p) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Whole Heart](https://open.spotify.com/album/3BrID6twdD05At80AAVwYc) | 3:19 | 2022-07-01 | 2023-01-14 |
-| [You're A Mystery](https://open.spotify.com/track/3ytfjqpqNhTdFbNt4uZ6Au) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [You're A Mystery](https://open.spotify.com/album/6NakoaoQkDEhDrCRwxJzgn) | 3:13 | 2022-04-08 |  |
+| [You're A Mystery](https://open.spotify.com/track/3ytfjqpqNhTdFbNt4uZ6Au) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [You're A Mystery](https://open.spotify.com/album/6NakoaoQkDEhDrCRwxJzgn) | 3:13 | 2022-04-08 | 2023-03-16 |
+| [You're A Mystery](https://open.spotify.com/track/5m3n8JK40XBTIQYyHfrhPu) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [You're A Mystery](https://open.spotify.com/album/38dcanpHYVXTl79HTimr0w) | 3:13 | 2023-02-24 |  |
 
 \*This playlist was first scraped on 2022-05-14. Prior content cannot be recovered.

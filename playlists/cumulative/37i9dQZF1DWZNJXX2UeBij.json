@@ -344,7 +344,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 315013,
       "name": "Ajj Din Chadheya",
       "url": "https://open.spotify.com/track/7N30pzJGFwnYU8iuzxWS7l"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 247346,
       "name": "Give Me Some Sunshine",
       "url": "https://open.spotify.com/track/4gBQbegBZlPhMgaWVzCCY5"
@@ -3090,6 +3090,28 @@
       "duration_ms": 321240,
       "name": "Kal Ho Naa Ho",
       "url": "https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I"
+    },
+    {
+      "album": {
+        "name": "Main Prem Ki Diwani Hoon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12Qb6lCglQjhh84nhYMX5r"
+      },
+      "artists": [
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361866,
+      "name": "Kasam Ki Kasam",
+      "url": "https://open.spotify.com/track/5lnzvisYIu98qS3aO8e7bS"
     },
     {
       "album": {
@@ -4645,6 +4667,28 @@
     },
     {
       "album": {
+        "name": "Deewane (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/50tadpkRQz0u6kGmGtngf4"
+      },
+      "artists": [
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377226,
+      "name": "Qayamat",
+      "url": "https://open.spotify.com/track/31grulk7jiqH0lsDlEbYXK"
+    },
+    {
+      "album": {
         "name": "Lagaan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1emmJiAJRnSYETup4o1UsM"
       },
@@ -4782,7 +4826,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 321240,
       "name": "Saaki",
       "url": "https://open.spotify.com/track/3zEkqnyPzhHBuHCeoWLYjQ"
@@ -4870,6 +4914,24 @@
       "duration_ms": 221893,
       "name": "Sajna Ji Vaari Vaari",
       "url": "https://open.spotify.com/track/66wEHvHkE7iz73PEob4Y98"
+    },
+    {
+      "album": {
+        "name": "Chameli",
+        "url": "https://open.spotify.com/album/2KM6alMpwGJCiVnDNE6Z8C"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239373,
+      "name": "Sajna Ve Sajna",
+      "url": "https://open.spotify.com/track/1WL9fq1sjsbyEEuHxBOvS9"
     },
     {
       "album": {

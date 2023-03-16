@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-862 songs - 1 day 23 hr 31 min
+863 songs - 1 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Dreams \(feat\. Lanie Gardner\)](https://open.spotify.com/track/5ovAmYzYLeEmOX6P3bmlzV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Dreams \(feat\. Lanie Gardner\)](https://open.spotify.com/album/4gj29oc0vz1qPuosvrkt8B) | 3:24 | 2020-12-12 | 2021-12-11 |
 | [Drift](https://open.spotify.com/track/14xRN4tmWY5ZY7bTNmMUos) | [Tom Staar](https://open.spotify.com/artist/0iSYvHKAdhWVdZkS1PYK3u) | [Drift](https://open.spotify.com/album/4MvenhaAUAj7sl0dNs5C9Z) | 3:27 | 2020-05-22\* | 2021-05-28 |
 | [Drinkee \- Vintage Culture & John Summit Remix](https://open.spotify.com/track/68raS6F0ad2Iilql3yYeCt) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Drinkee \(Vintage Culture & John Summit Remix\)](https://open.spotify.com/album/3SJnS1rKgzb1tgi7oCkf5F) | 3:25 | 2021-08-10 | 2022-12-15 |
+| [Drinks on MI](https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:41 | 2023-03-03 |  |
 | [Driver Seat](https://open.spotify.com/track/4suOHUdKByW9TMWodgwBKo) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Driver Seat](https://open.spotify.com/album/2jhH69NOhQ7yZEtBgxANsj) | 2:24 | 2021-04-24 | 2022-05-22 |
 | [Drop It \(feat\. LUISAH\)](https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Drop It \(feat\. LUISAH\)](https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM) | 2:05 | 2021-02-10 | 2022-06-16 |
 | [Drop The Pressure](https://open.spotify.com/track/0QZdbOtajbimysXPJDkU3H) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Drop The Pressure](https://open.spotify.com/album/1TKqMj1Tu9D7GlrD30qPtP) | 3:00 | 2022-04-29 | 2022-05-14 |
@@ -614,7 +615,7 @@
 | [Promises](https://open.spotify.com/track/50YQaQXog18lS11wGCl77u) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Promises](https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG) | 3:21 | 2021-10-18 | 2022-01-29 |
 | [Psycho Killer](https://open.spotify.com/track/6HhiSk9HZR0C3IktOI9mzy) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Psycho Killer](https://open.spotify.com/album/724uBeFYTVq2EwgSWqZ7qD) | 2:20 | 2020-12-27 | 2021-10-12 |
 | [Pump It Up](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/3D8C4a5lYbpEu5bPQmOpJj) | 2:30 | 2020-05-22\* | 2022-04-18 |
-| [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 | 2022-07-29 |  |
+| [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 | 2022-07-29 | 2023-03-16 |
 | [Pump the Brakes](https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Pump the Brakes](https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5) | 3:40 | 2021-05-11 | 2022-04-20 |
 | [Pump The Brakes \(LP Giobbi Remix\)](https://open.spotify.com/track/7cfmACXiAe7dDcEI10DGcR) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Pump The Brakes \(LP Giobbi Remix\)](https://open.spotify.com/album/3EdG1l0ZdwNKiAzoyLlhx6) | 4:39 | 2022-07-14 | 2022-07-29 |
 | [Pump the Brakes \- LP Giobbi Remix](https://open.spotify.com/track/0EjVfH9vZo9BjVLK698Mxl) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Pump the Brakes \(LP Giobbi Remix\)](https://open.spotify.com/album/79LkvaX65Uz1IWG0aar5ve) | 4:39 | 2021-10-10 | 2022-07-30 |

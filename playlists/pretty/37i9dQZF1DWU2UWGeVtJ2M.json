@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 143940,
+  "num_followers": 144006,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODY3OTQ4MSwwMDAwMDAwMGI0Mzk4YjM1MDdiMmNhODZlOTFjMmVlMmY4ODg2NDMx",
+  "snapshot_id": "MTY3ODY3OTQ4MSwwMDAwMDAwMDdmMTRlYzk2NjI0ZDk1YTYzMzU5YzkwNWJhOGUwYjI3",
   "tracks": [
     {
       "added_at": "2023-03-06 04:00:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-03-06 04:00:00",
       "album": {
-        "name": "When It's All Said And Done... Take Time",
-        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 127807,
-      "name": "All To Me",
-      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
-    },
-    {
-      "added_at": "2023-03-06 04:00:00",
-      "album": {
         "name": "always",
         "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 227031,
       "name": "drunk",
       "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
+    },
+    {
+      "added_at": "2023-03-06 04:00:00",
+      "album": {
+        "name": "When It's All Said And Done... Take Time",
+        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 127807,
+      "name": "All To Me",
+      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
     },
     {
       "added_at": "2023-03-06 04:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-03-06 04:00:00",
       "album": {
-        "name": "The Slow Rush B-Sides & Remixes",
-        "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 238320,
-      "name": "The Boat I Row",
-      "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
-    },
-    {
-      "added_at": "2023-03-06 04:00:00",
-      "album": {
         "name": "The Mannequin Song",
         "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 164197,
       "name": "The Mannequin Song",
       "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
+    },
+    {
+      "added_at": "2023-03-06 04:00:00",
+      "album": {
+        "name": "The Slow Rush B-Sides & Remixes",
+        "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 238320,
+      "name": "The Boat I Row",
+      "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
     },
     {
       "added_at": "2023-03-06 04:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-03-06 04:00:00",
       "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 181140,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
-    },
-    {
-      "added_at": "2023-03-06 04:00:00",
-      "album": {
         "name": "Wish I Was Better",
         "url": "https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 140571,
       "name": "Wish I Was Better",
       "url": "https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj"
+    },
+    {
+      "added_at": "2023-03-06 04:00:00",
+      "album": {
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 181140,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
     },
     {
       "added_at": "2023-03-06 04:00:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-03-06 04:00:00",
       "album": {
-        "name": "Feels (feat. Khalid)",
-        "url": "https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz"
-      },
-      "artists": [
-        {
-          "name": "WATTS",
-          "url": "https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 221974,
-      "name": "Feels (feat. Khalid)",
-      "url": "https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG"
-    },
-    {
-      "added_at": "2023-03-06 04:00:00",
-      "album": {
         "name": "Breakup Season",
         "url": "https://open.spotify.com/album/0WsZKzfU4cICg8uDILDqIY"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 192750,
       "name": "Breakup Season",
       "url": "https://open.spotify.com/track/7xPOV2FPzi7zaYBZnQytOW"
+    },
+    {
+      "added_at": "2023-03-06 04:00:00",
+      "album": {
+        "name": "Feels (feat. Khalid)",
+        "url": "https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz"
+      },
+      "artists": [
+        {
+          "name": "WATTS",
+          "url": "https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 221974,
+      "name": "Feels (feat. Khalid)",
+      "url": "https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG"
     },
     {
       "added_at": "2023-03-06 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-03-06 04:00:00",
       "album": {
-        "name": "Amniotic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 274138,
-      "name": "Outgrown",
-      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
-    },
-    {
-      "added_at": "2023-03-06 04:00:00",
-      "album": {
         "name": "Love Me / Love Me Not",
         "url": "https://open.spotify.com/album/0fwZXPXf41aF6H0CN3UtXV"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 228389,
       "name": "Feels So Good \u25d1",
       "url": "https://open.spotify.com/track/0NdAh5vk2C5hVNy54043lj"
+    },
+    {
+      "added_at": "2023-03-06 04:00:00",
+      "album": {
+        "name": "Amniotic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 274138,
+      "name": "Outgrown",
+      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
     },
     {
       "added_at": "2023-03-06 04:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-03-06 04:00:00",
       "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 163146,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ"
+    },
+    {
+      "added_at": "2023-03-06 04:00:00",
+      "album": {
         "name": "Wave002",
         "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
       },
@@ -1303,6 +1319,22 @@
     {
       "added_at": "2023-03-06 04:00:00",
       "album": {
+        "name": "at least i look cool",
+        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 171695,
+      "name": "at least i look cool",
+      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
+    },
+    {
+      "added_at": "2023-03-06 04:00:00",
+      "album": {
         "name": "Light (with BENEE)",
         "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
       },
@@ -1323,34 +1355,18 @@
     {
       "added_at": "2023-03-06 04:00:00",
       "album": {
-        "name": "at least i look cool",
-        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
+        "name": "The Juice: Vol. I",
+        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
       },
       "artists": [
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
         }
       ],
-      "duration_ms": 171695,
-      "name": "at least i look cool",
-      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
-    },
-    {
-      "added_at": "2023-03-06 04:00:00",
-      "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 163146,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ"
+      "duration_ms": 199040,
+      "name": "Built That Way",
+      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
     },
     {
       "added_at": "2023-03-06 04:00:00",
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2023-03-06 04:00:00",
       "album": {
-        "name": "The Juice: Vol. I",
-        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL"
       },
       "artists": [
         {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 199040,
-      "name": "Built That Way",
-      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
+      "duration_ms": 199680,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
     },
     {
       "added_at": "2023-03-06 04:00:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 175500,
       "name": "Slowing Down",
       "url": "https://open.spotify.com/track/3oGvRB0MAfPseLw39gVzGg"
-    },
-    {
-      "added_at": "2023-03-06 04:00:00",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
     },
     {
       "added_at": "2023-03-06 04:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-03-06 04:00:00",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
-      },
-      "artists": [
-        {
-          "name": "Sade Susanto",
-          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
-        }
-      ],
-      "duration_ms": 158675,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
-    },
-    {
-      "added_at": "2023-03-06 04:00:00",
-      "album": {
         "name": "Soft Sounds from Another Planet",
         "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 177206,
       "name": "Till Death",
       "url": "https://open.spotify.com/track/3wJVQr9ZfLZfcj19aIfjub"
+    },
+    {
+      "added_at": "2023-03-06 04:00:00",
+      "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
+      },
+      "artists": [
+        {
+          "name": "Sade Susanto",
+          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
+        }
+      ],
+      "duration_ms": 158675,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
     },
     {
       "added_at": "2023-03-06 04:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-03-06 04:00:00",
       "album": {
-        "name": "Y1",
-        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Pantone 17 13 30",
-      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
-    },
-    {
-      "added_at": "2023-03-06 04:00:00",
-      "album": {
         "name": "Gone 2 Long",
         "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 195013,
       "name": "Gone 2 Long",
       "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
+    },
+    {
+      "added_at": "2023-03-06 04:00:00",
+      "album": {
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Pantone 17 13 30",
+      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
       "added_at": "2023-03-06 04:00:00",

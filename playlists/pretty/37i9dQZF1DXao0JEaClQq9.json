@@ -1,12 +1,12 @@
 {
   "description": "if it feels ethereal, it's here. cover: Feist ",
-  "num_followers": 1600530,
+  "num_followers": 1600564,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgyODIyMywwMDAwMDAwMGE5MWM1YzdlNjc3NTRhODRhNzU3NjQ5NDIzY2NiYjg1",
+  "snapshot_id": "MTY3ODkwMTkwMSwwMDAwMDAwMGFiMjU4MDFjNmZjYzRiYzVlNzhlNmFmZTI5ZmIwZmMw",
   "tracks": [
     {
       "added_at": "2023-03-14 21:10:23",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-03-14 21:10:23",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
-    },
-    {
-      "added_at": "2023-03-14 21:10:23",
-      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 255386,
       "name": "Nude",
       "url": "https://open.spotify.com/track/35YyxFpE0ZTOoqFx5bADW8"
+    },
+    {
+      "added_at": "2023-03-14 21:10:23",
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
       "added_at": "2023-03-14 21:10:23",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-03-14 21:10:23",
       "album": {
-        "name": "Inbred",
-        "url": "https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 204317,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5"
-    },
-    {
-      "added_at": "2023-03-14 21:10:23",
-      "album": {
         "name": "Cool It Down",
         "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 160226,
       "name": "Con La Brisa - Film Version",
       "url": "https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG"
+    },
+    {
+      "added_at": "2023-03-14 21:10:23",
+      "album": {
+        "name": "Inbred",
+        "url": "https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 204317,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5"
     },
     {
       "added_at": "2023-03-14 21:10:23",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-03-14 21:10:23",
       "album": {
-        "name": "Coexist",
-        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
-    },
-    {
-      "added_at": "2023-03-14 21:10:23",
-      "album": {
         "name": "Instrumental Relics",
         "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+    },
+    {
+      "added_at": "2023-03-14 21:10:23",
+      "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
     },
     {
       "added_at": "2023-03-14 21:10:23",
@@ -723,6 +723,22 @@
       "duration_ms": 352178,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
+    },
+    {
+      "added_at": "2023-03-15 17:38:21",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv"
+      },
+      "artists": [
+        {
+          "name": "Peter Manos",
+          "url": "https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP"
     },
     {
       "added_at": "2023-03-14 21:10:23",
@@ -779,22 +795,6 @@
     {
       "added_at": "2023-03-14 21:10:23",
       "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Butterfly Net",
-      "url": "https://open.spotify.com/track/3JYayrgDyMYVrpMdcn5HxF"
-    },
-    {
-      "added_at": "2023-03-14 21:10:23",
-      "album": {
         "name": "Unbothered",
         "url": "https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 124954,
       "name": "Unbothered",
       "url": "https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW"
+    },
+    {
+      "added_at": "2023-03-14 21:10:23",
+      "album": {
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Butterfly Net",
+      "url": "https://open.spotify.com/track/3JYayrgDyMYVrpMdcn5HxF"
     },
     {
       "added_at": "2023-03-14 21:10:23",
@@ -971,6 +987,22 @@
     {
       "added_at": "2023-03-14 21:10:23",
       "album": {
+        "name": "TO FEEL ALIVE EP",
+        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "i want war (BUT I NEED PEACE)",
+      "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
+    },
+    {
+      "added_at": "2023-03-14 21:10:23",
+      "album": {
         "name": "Guilty Conscience (Tame Impala Remix)",
         "url": "https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW"
       },
@@ -1007,22 +1039,6 @@
       "duration_ms": 136477,
       "name": "FORWARD",
       "url": "https://open.spotify.com/track/0lFotZWVqwgQOh779DKet5"
-    },
-    {
-      "added_at": "2023-03-14 21:10:23",
-      "album": {
-        "name": "TO FEEL ALIVE EP",
-        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "i want war (BUT I NEED PEACE)",
-      "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
     },
     {
       "added_at": "2023-03-14 21:10:23",
@@ -1123,38 +1139,6 @@
     {
       "added_at": "2023-03-14 21:10:23",
       "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 305506,
-      "name": "Kerosene!",
-      "url": "https://open.spotify.com/track/2OoKzfr7RB5o9cxHArUoIS"
-    },
-    {
-      "added_at": "2023-03-14 21:10:23",
-      "album": {
-        "name": "Really Hot",
-        "url": "https://open.spotify.com/album/6pAwmI6U6Lmt6RqXjelRYx"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 106994,
-      "name": "Babyyy",
-      "url": "https://open.spotify.com/track/6lMxGGVsO1JAdzk0z6Q3Rh"
-    },
-    {
-      "added_at": "2023-03-14 21:10:23",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 220316,
       "name": "Paprika",
       "url": "https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3"
+    },
+    {
+      "added_at": "2023-03-14 21:10:23",
+      "album": {
+        "name": "Heaven To A Tortured Mind",
+        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 305506,
+      "name": "Kerosene!",
+      "url": "https://open.spotify.com/track/2OoKzfr7RB5o9cxHArUoIS"
     },
     {
       "added_at": "2023-03-14 21:10:23",
@@ -1199,6 +1199,38 @@
       "duration_ms": 414466,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
+    },
+    {
+      "added_at": "2023-03-14 21:10:23",
+      "album": {
+        "name": "Really Hot",
+        "url": "https://open.spotify.com/album/6pAwmI6U6Lmt6RqXjelRYx"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 106994,
+      "name": "Babyyy",
+      "url": "https://open.spotify.com/track/6lMxGGVsO1JAdzk0z6Q3Rh"
+    },
+    {
+      "added_at": "2023-03-14 21:10:23",
+      "album": {
+        "name": "Nothing's Free",
+        "url": "https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 278760,
+      "name": "Nothing's Free",
+      "url": "https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS"
     },
     {
       "added_at": "2023-03-14 21:10:23",
@@ -1247,38 +1279,6 @@
       "duration_ms": 259466,
       "name": "meta angel",
       "url": "https://open.spotify.com/track/6EeuY84I1Q3UJvpPN6iSzw"
-    },
-    {
-      "added_at": "2023-03-14 21:10:23",
-      "album": {
-        "name": "Dreaming of David",
-        "url": "https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 224347,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6YtylNU7D1S5SeO529q2AN"
-    },
-    {
-      "added_at": "2023-03-14 21:10:23",
-      "album": {
-        "name": "A Quiet Voice",
-        "url": "https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 282812,
-      "name": "A Quiet Voice",
-      "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
     }
   ],
   "unique_name": "Ethereal",

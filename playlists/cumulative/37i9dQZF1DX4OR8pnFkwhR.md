@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ヤングスキニー / <br/>Early Noise Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-727 songs - 1 day 20 hr 58 min
+730 songs - 1 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Change](https://open.spotify.com/track/2FM1aNnqVfUsBkyTcxQmVm) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Change](https://open.spotify.com/album/7ybRhDFyFV9bRXMIGW6wbl) | 3:24 | 2022-08-02 | 2022-10-19 |
 | [Change the world](https://open.spotify.com/track/7vDP2DuhXm3n3JKxkxc5mm) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Change the world](https://open.spotify.com/album/3t37vMsrMBeVUrdoqSyCib) | 2:57 | 2022-02-17 | 2022-03-09 |
 | [Cheers](https://open.spotify.com/track/1BjNUu608nOEvEtMETFnlB) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [Cheers](https://open.spotify.com/album/2o9dAH1dNC3UD1gbIr8RN5) | 3:52 | 2022-05-31 | 2022-07-13 |
+| [Chiisana Kaiju](https://open.spotify.com/track/4bnNLpqdv1N5SjtWzmLhL7) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [Kazemachi Toppu Club\-EP](https://open.spotify.com/album/7yr0HcSzr5QYJ57Z9FuUJU) | 3:03 | 2023-03-14 |  |
 | [chord](https://open.spotify.com/track/1XyBpaXQaxWZeOqBCmi72A) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [chord](https://open.spotify.com/album/55bJN6zduydHGYN0IT1srE) | 3:36 | 2022-11-29 | 2023-01-13 |
 | [CHRISTMAS AFTERNOON](https://open.spotify.com/track/62o7GbKYuWcNnEE7rjtnzu) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [With Regard to Christmas](https://open.spotify.com/album/72Ch3T83gNhJV2NEhJ6dkP) | 4:42 | 2022-11-29 | 2023-01-13 |
 | [Cinderella](https://open.spotify.com/track/3X5C1Q3V5dIsIKq2Duj0PK) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Cinderella](https://open.spotify.com/album/5OSFxPHnLpbNav9WmFU9VK) | 4:35 | 2023-01-12 |  |
@@ -150,6 +151,7 @@
 | [girl](https://open.spotify.com/track/3mqeR1acQPMzeX9n3zPoh6) | [suya suya junction](https://open.spotify.com/artist/1yXOe73eSiTukW4jCKpgMh) | [girl](https://open.spotify.com/album/1sug5oEX1Zf92dHGoUY9e5) | 4:12 | 2022-06-21 | 2022-07-13 |
 | [Girl](https://open.spotify.com/track/1TVuQ54AaNhpE7QmBakvtp) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Girl](https://open.spotify.com/album/4es0Pxx1C9K59o1HPmp0JU) | 3:42 | 2022-08-30 | 2022-10-12 |
 | [GLOW](https://open.spotify.com/track/1rq0GSfAOKZQX6PpkOcQGF) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [GLOW](https://open.spotify.com/album/6Oiw07ZgO01snzERxSWwRk) | 3:00 | 2022-08-09 | 2022-08-31 |
+| [Gominingen,Ore](https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:49 | 2023-03-14 |  |
 | [grape](https://open.spotify.com/track/6bTSDWIS079RHdEDyEJLu4) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [grape](https://open.spotify.com/album/3VMiI7wrgHC906WnFlsCmM) | 2:54 | 2022-11-29 | 2023-01-13 |
 | [Hallelujah](https://open.spotify.com/track/2uLw6i7dKRhGXwXlDNvFEc) | [Leonald](https://open.spotify.com/artist/0NRTDdR3mqDDtBI9rN8rHN) | [Hallelujah](https://open.spotify.com/album/2TcXSPvKL3QQg2wptUVf8h) | 3:16 | 2022-11-29 | 2022-12-28 |
 | [hanauta](https://open.spotify.com/track/4jup6UZ6V2MJ94Ji0AB7hk) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x) | [23=](https://open.spotify.com/album/4ZD1VhC0IGaLac9meKgNii) | 2:54 | 2023-02-23 |  |
@@ -352,7 +354,8 @@
 | [SOMETHING](https://open.spotify.com/track/0YUWGLoMy9Uc2W0HiBHtmp) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [Welcome to our 1st EP](https://open.spotify.com/album/65z861iUxO3B5gmr57bco5) | 3:18 | 2023-02-01 |  |
 | [Something's Wrong](https://open.spotify.com/track/0gewynQBTwzAgSS6vLWcFZ) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Something's Wrong \-EP\-](https://open.spotify.com/album/6o4aoOi9IcKNgSUBy1mJAQ) | 3:28 | 2022-12-20 | 2023-02-22 |
 | [Something's Wrong](https://open.spotify.com/track/6AXsqlJW6QxA4rt4zmx5LH) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Something's Wrong \-EP\-](https://open.spotify.com/album/66ygCCt3KocnFaSjaEkrau) | 3:28 | 2022-12-20 | 2022-12-22 |
-| [SORA](https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh) | 2:52 | 2023-03-14 |  |
+| [SORA](https://open.spotify.com/track/3dGWJ8UlemnEV4WycKW3hd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 2:52 | 2023-03-14 |  |
+| [SORA](https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh) | 2:52 | 2023-03-14 | 2023-03-16 |
 | [Soup](https://open.spotify.com/track/6UHbnHQHQcFlhtEVwOVVQT) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Soup](https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX) | 3:30 | 2023-02-23 |  |
 | [SPACESHIP](https://open.spotify.com/track/1pV9OnvnLtLyy4EFSUdM2d) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Talking Box \(Dirty Pop Remix\) / SPACESHIP](https://open.spotify.com/album/0cQWPaUqLIG3bj44qArE7q) | 4:02 | 2022-03-31 | 2022-05-11 |
 | [Sparklers](https://open.spotify.com/track/2sPrM5v1J4JoCCvMlfyxxV) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Sparklers](https://open.spotify.com/album/0TLkKfHSdOBXXK4kFKfL3v) | 3:22 | 2022-10-25 | 2023-01-13 |
@@ -508,7 +511,7 @@
 | [ケダモノのフレンズ](https://open.spotify.com/track/6WUytTGUVFHTVGOqty1UPs) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [odds and ends](https://open.spotify.com/album/4T0USknu2Yz9mhoB6enHH0) | 3:37 | 2022-02-27 | 2022-04-20 |
 | [ゲームオーバー](https://open.spotify.com/track/6Ht0WEBCr04XNgqz6cEsTk) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ゲームオーバー](https://open.spotify.com/album/0IcKWBOYdCBqlVVa9756Px) | 3:19 | 2022-11-01 | 2022-11-03 |
 | [コズミック](https://open.spotify.com/track/2wIGnFXppV7dbp8I1bmA9B) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [コズミック](https://open.spotify.com/album/5XhlBoKq69TkOtXF8uN6CA) | 2:38 | 2022-08-16 | 2022-09-30 |
-| [ゴミ人間、俺](https://open.spotify.com/track/2VU59VkXEBNX4ZZf7SmGAy) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:49 | 2023-03-14 |  |
+| [ゴミ人間、俺](https://open.spotify.com/track/2VU59VkXEBNX4ZZf7SmGAy) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:49 | 2023-03-14 | 2023-03-16 |
 | [サマーブルーム](https://open.spotify.com/track/6b7PLhYnmxUXZepngv875O) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [サマーブルーム](https://open.spotify.com/album/07dE5hGDY5YzyC8OonL8Il) | 4:33 | 2022-07-05 | 2022-07-27 |
 | [シット・バイアス・ミュージック](https://open.spotify.com/track/1ztIyUs89PLJv0NQH8eb5m) | [ポンツクピーヤ](https://open.spotify.com/artist/0j56Vr9S3Iq3Inp8pLX02Q) | [19歳/シット・バイアス・ミュージック](https://open.spotify.com/album/5Sntp3QM3VhnDAJDD56eki) | 4:30 | 2023-02-01 | 2023-02-08 |
 | [シトラス](https://open.spotify.com/track/3E7EqKi9z8dRoWUame2a88) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [シトラス](https://open.spotify.com/album/7w8SJy9LxvERNlDtuFulId) | 3:10 | 2022-02-17 | 2022-03-09 |
@@ -614,7 +617,7 @@
 | [好きなものは手のひらの中](https://open.spotify.com/track/3FrwPF0EFJFLE9yVprrbd5) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [好きなものは手のひらの中](https://open.spotify.com/album/1rCQBrvCaa54giOkANP59K) | 2:54 | 2023-02-01 | 2023-03-01 |
 | [嫌でもね](https://open.spotify.com/track/0vMirJzqc32hw8gzMISrga) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [嫌でもね](https://open.spotify.com/album/0ENL0kl70GDim5FzZk9vQj) | 3:06 | 2022-04-28 | 2022-05-18 |
 | [宝道〜たからのみち〜](https://open.spotify.com/track/66rbjh986YzlZLi5NK3ALl) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [宝道\~たからのみち\~](https://open.spotify.com/album/5a1KXmIYIC8rlfrxEnVNgn) | 3:11 | 2022-02-17 | 2022-03-09 |
-| [小さな怪獣](https://open.spotify.com/track/5UHvtWIBduWHyvMu8uU32S) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [風街突風倶楽部\-EP](https://open.spotify.com/album/4KufIw40yi95QMckwUEwaW) | 3:03 | 2023-03-14 |  |
+| [小さな怪獣](https://open.spotify.com/track/5UHvtWIBduWHyvMu8uU32S) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [風街突風倶楽部\-EP](https://open.spotify.com/album/4KufIw40yi95QMckwUEwaW) | 3:03 | 2023-03-14 | 2023-03-16 |
 | [尖らない大人になっても](https://open.spotify.com/track/5OIyAKeaSqDbasnsNaW8Vw) | [お米の佃煮](https://open.spotify.com/artist/0IKXfS7YyjHhnEsC46yue2) | [しゃけふれーく](https://open.spotify.com/album/4myRDlTsc3ar3SkGwci2fH) | 4:37 | 2023-02-14 | 2023-03-01 |
 | [差し色](https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [差し色](https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W) | 3:03 | 2022-04-14 | 2022-07-29 |
 | [帰り路](https://open.spotify.com/track/3E3NsTYYRQqHYauCm7qExn) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [i's](https://open.spotify.com/album/00X0ZVNwkI9SQRvM7Ek500) | 3:23 | 2022-02-24 | 2022-05-27 |

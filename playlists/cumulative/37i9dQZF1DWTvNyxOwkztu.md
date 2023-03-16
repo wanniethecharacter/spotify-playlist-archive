@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-241 songs - 13 hr 25 min
+243 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,9 +69,10 @@
 | [Don't Worry](https://open.spotify.com/track/1a6r66Fc1mvkgQ4A2XP5Mk) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Don't Worry](https://open.spotify.com/album/3GJxRhegDoOkFd727RlTS1) | 2:24 | 2022-05-20 |  |
 | [Don’t Worry](https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Don’t Worry](https://open.spotify.com/album/2UZuAyYd1pTF1puvlQ2W4c) | 4:36 | 2021-12-09 | 2023-02-18 |
 | [Doubts](https://open.spotify.com/track/10Iafk2IS4TyUsfP4C4kPE) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Down Here with You](https://open.spotify.com/album/6WqF77ilKp8ui2RlGIYmAp) | 3:15 | 2021-12-09 | 2022-02-27 |
-| [dustland](https://open.spotify.com/track/27H4C3bLGGAIm5vSXDosVy) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [dustland](https://open.spotify.com/album/2fFsnUpoimIqQSeaBPGTC2) | 2:41 | 2022-02-26 |  |
+| [dustland](https://open.spotify.com/track/27H4C3bLGGAIm5vSXDosVy) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [dustland](https://open.spotify.com/album/2fFsnUpoimIqQSeaBPGTC2) | 2:41 | 2022-02-26 | 2023-03-16 |
 | [FADED](https://open.spotify.com/track/5gWCNZX5T9aNKOagwUMNQQ) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [OASIS \(Prelude\)](https://open.spotify.com/album/41YLj80mj5GEaNkZnNLpYx) | 3:36 | 2022-03-25 | 2022-04-17 |
 | [Fall In Love](https://open.spotify.com/track/2nJ2lKCSKBUjqrEUlTyi9c) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA), [Harry Cho](https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q) | [Fall In Love](https://open.spotify.com/album/5BVxHRFGDTzrpeer3z5BHP) | 2:55 | 2022-03-11 | 2023-03-06 |
+| [Fall In Love](https://open.spotify.com/track/7mFoG00rX2eKIxlR8vrw3u) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA), [Harry Cho](https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q) | [Fall In Love](https://open.spotify.com/album/4FbR2nqgnUqfLrZsLVkoe0) | 2:55 | 2023-02-17 |  |
 | [Feel Good](https://open.spotify.com/track/3BOcy4WD4qgILGC3D9SyUH) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Feel Good](https://open.spotify.com/album/4O2cQ8Oz8v2TMm7kGXlHfy) | 3:50 | 2021-12-09 |  |
 | [Five Points](https://open.spotify.com/track/1gJZCp9PiRv0oyzmiomMlo) | [Lo & Fozzi](https://open.spotify.com/artist/70Q05jq5O6Y1hKiB8QxjjW) | [Five Points](https://open.spotify.com/album/2YQst9sLvIkUD9ti0UWAp6) | 3:14 | 2021-12-09 | 2022-07-28 |
 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 | 2021-12-09 |  |
@@ -136,7 +137,7 @@
 | [mojito](https://open.spotify.com/track/54JmK6z8m7jM2oaDlq7flm) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [mojito](https://open.spotify.com/album/3PK9VIEk2Ni3TB2R7bc3JS) | 2:15 | 2022-05-20 | 2022-07-27 |
 | [Moments of Clarity](https://open.spotify.com/track/4cL7JffDg7AHPOBTzKeN7R) | [Gallway Flex](https://open.spotify.com/artist/6DZylFpDS9LLQYsGRUpa9t) | [Moments of Clarity](https://open.spotify.com/album/0ZkvxP4rlPTtTEhmaFEiqs) | 3:13 | 2021-12-09 | 2022-09-13 |
 | [Monument](https://open.spotify.com/track/7iomG5R5mlZ9AxIVPHfh9M) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Monument](https://open.spotify.com/album/4zL5cKO8A0NhNiBwCaxKFh) | 2:54 | 2023-01-13 |  |
-| [Morning Workout](https://open.spotify.com/track/4ZWO4l9zqiT7S35qjvusjE) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Morning Workout](https://open.spotify.com/album/1rkT9Y5aXjnyBW44DhAh2L) | 2:42 | 2022-01-21 |  |
+| [Morning Workout](https://open.spotify.com/track/4ZWO4l9zqiT7S35qjvusjE) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Morning Workout](https://open.spotify.com/album/1rkT9Y5aXjnyBW44DhAh2L) | 2:42 | 2022-01-21 | 2023-03-16 |
 | [Motion](https://open.spotify.com/track/5eJ9Y5N3Lgedolcw6g1zJd) | [Ambyion](https://open.spotify.com/artist/1OX2MZhepUtYnq7FCGMVj5) | [Motion](https://open.spotify.com/album/2P9fBxIqlvZmTztyhPaNTD) | 3:41 | 2021-12-09 | 2022-07-29 |
 | [Mount Fuji](https://open.spotify.com/track/3xV6mTlSsIinmU8Xi77qUo) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Mount Fuji](https://open.spotify.com/album/6Ctl2NttXC4T9Ty4EVpg5k) | 2:41 | 2021-12-09 | 2023-01-14 |
 | [Mukiwa](https://open.spotify.com/track/1Cq1IvarVqiQ3bU7TYhdsd) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Mukiwa](https://open.spotify.com/album/1bcZrChvD2hTnjERAZUgOo) | 4:18 | 2021-12-09 |  |
@@ -159,6 +160,7 @@
 | [Portimao](https://open.spotify.com/track/5ABEwAmOIvGgTWQtBvmGHQ) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [Portimao](https://open.spotify.com/album/4xERM1hwtquFCNTuw4e1zE) | 3:26 | 2021-12-09 | 2022-05-18 |
 | [Push](https://open.spotify.com/track/1i5lXpzjo8qBAVRvEoBl7Z) | [Grennels](https://open.spotify.com/artist/0qbTETuJCrGSTL7EKVWIH5) | [Push](https://open.spotify.com/album/3qjxhwOM5CJJ83VVlwe2cv) | 5:35 | 2021-12-09 | 2022-05-21 |
 | [Rain in the Moat](https://open.spotify.com/track/6mxSKjZQXaC3nTpqQJTAv8) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Rain in the Moat](https://open.spotify.com/album/1n711WPVKs4V76KjxxVwSN) | 2:39 | 2022-03-25 | 2022-04-21 |
+| [Ray of Light](https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Ray of Light](https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE) | 3:48 | 2023-02-17 |  |
 | [Readings](https://open.spotify.com/track/6JMYFarzbRvp8J7YnGdbsP) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Readings](https://open.spotify.com/album/6n1vtw8Wjkec1HUpcyYckb) | 2:16 | 2023-02-17 |  |
 | [RELAX \(Late Night\)](https://open.spotify.com/track/37H1s2CbDWICwprjFFofO3) | [NINA](https://open.spotify.com/artist/0ssy2SRz3rHuTgb41Q7c2d) | [RELAX \(Late Night\)](https://open.spotify.com/album/3P7r3HKBrh7KowhBTAYtDj) | 2:51 | 2022-03-25 | 2022-07-27 |
 | [Remember](https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH) | [Hocus Faux](https://open.spotify.com/artist/0ADrSx3KCkJ9AKDYYi3OBp) | [Remember](https://open.spotify.com/album/5wJNNjEBRNwGtY6LJqHEAt) | 3:33 | 2021-12-09 | 2023-02-01 |

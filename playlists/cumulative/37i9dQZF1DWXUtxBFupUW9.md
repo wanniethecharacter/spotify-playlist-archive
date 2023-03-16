@@ -4,7 +4,7 @@
 
 > Exercise together with uplifting soul music.
 
-151 songs - 7 hr 47 min
+152 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Gotta Hold On To This Feeling](https://open.spotify.com/track/2dlVeyhP1kM1xdfJGN6gpG) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [20th Century Masters: The Millennium Collection: Best of Jr\. Walker & The All Stars](https://open.spotify.com/album/3MkkgBqBgeQfJjftZMtF4y) | 3:34 | 2021-12-20 | 2022-07-27 |
 | [Groove Me](https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [King Floyd](https://open.spotify.com/album/6r1VSCkbZaVj6FUhbh3aFQ) | 3:03 | 2022-05-12 |  |
 | [Groove Me](https://open.spotify.com/track/6Ev3WGbBVBiftMGcBV5Bhg) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [Choice Cuts](https://open.spotify.com/album/7Ezb6ruoLgHkUnDTPwo39u) | 3:04 | 2021-12-20 | 2022-07-29 |
-| [Hard to Handle](https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Soul Manifesto: 1964\-1970](https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ) | 2:21 | 2021-12-20 |  |
+| [Hard to Handle](https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Soul Manifesto: 1964\-1970](https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ) | 2:21 | 2021-12-20 | 2023-03-16 |
 | [Harlem Shuffle](https://open.spotify.com/track/32CMlKiHOj3BCLpxBqxkn8) | [Bob & Earl](https://open.spotify.com/artist/2gOghlWpnfwGGip7S1cMuq) | [Island Life: 50 Years of Island Records](https://open.spotify.com/album/4noQW7rdnUCJxHl6NLKdLS) | 2:48 | 2022-03-24 | 2022-04-17 |
 | [Hold Me](https://open.spotify.com/track/3Rhfga08pNnhLMQVb2nRXp) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 3:07 | 2022-03-24 | 2022-07-25 |
 | [Hold Me](https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:07 | 2022-08-12 | 2022-11-13 |
@@ -113,6 +113,7 @@
 | [September](https://open.spotify.com/track/5nNmj1cLH3r4aA4XDJ2bgY) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Eternal Dance](https://open.spotify.com/album/6UixeNUSjrBnxeYV0ZuGHR) | 3:34 | 2021-12-20 | 2022-07-27 |
 | [September](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:35 | 2022-05-12 | 2023-03-13 |
 | [September](https://open.spotify.com/track/2fckeyAojYpJ9xGSrGa94g) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Clive Davis: The Soundtrack of Our Lives](https://open.spotify.com/album/13VY4UMIBiyl1IHbodEDYE) | 3:35 | 2022-08-12 | 2022-11-14 |
+| [September](https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September \(sped up + slowed\)](https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI) | 3:36 | 2023-02-21 |  |
 | [Shake \- 2008 Remaster](https://open.spotify.com/track/6RkyopJ2y0DnoIrq57zrap) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Otis Blue: Otis Redding Sings Soul \(Collector's Edition\)](https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz) | 2:41 | 2022-03-24 | 2022-04-19 |
 | [Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:56 | 2023-02-21 |  |
 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 2:41 | 2021-12-20 |  |

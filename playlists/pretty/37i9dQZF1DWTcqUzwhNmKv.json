@@ -1,12 +1,12 @@
 {
   "description": "Underoath on top of the biggest Metal playlist!",
-  "num_followers": 1388157,
+  "num_followers": 1388478,
   "original_name": "Kickass Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGY5OTQ0ZTRiNjNlM2M2YTJhYzQ5Njk1ZmQ3MGE0YTJh",
+  "snapshot_id": "MTY3ODg5MzU1NywwMDAwMDAwMDM1YTEzODZhZGRmNTU0ZGExMTI1ZDBmMTlkYjQ5MGQ2",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 230002,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO"
+    },
+    {
+      "added_at": "2023-03-15 15:19:17",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 353946,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
     },
     {
       "added_at": "2023-03-10 05:00:00",

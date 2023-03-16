@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "La Arrolladora Banda el Limon vs Banda San Jose de Mesillas",
+        "url": "https://open.spotify.com/album/4DAfsg5bYdzEZqKP2YnYiJ"
+      },
+      "artists": [
+        {
+          "name": "Banda San Jose De Mesillas",
+          "url": "https://open.spotify.com/artist/3YGCC3e19tclOUN2vLq78o"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204146,
+      "name": "Como la Palma de Mi Mano",
+      "url": "https://open.spotify.com/track/29Lzwd3TKWi5Amhg8FKJJL"
+    },
+    {
+      "album": {
         "name": "Como la Palma de Mi Mano",
         "url": "https://open.spotify.com/album/28vSVtTtCew6DDn8ZXkxVx"
       },
@@ -504,7 +522,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 204203,
       "name": "Como la Palma de Mi Mano",
       "url": "https://open.spotify.com/track/7eqsKO7D6dEyKZapyvTz0h"

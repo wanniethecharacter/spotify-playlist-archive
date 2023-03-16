@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-202 songs - 17 hr 53 min
+203 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 | 2022-01-21 |  |
 | [Floor Position](https://open.spotify.com/track/0vYvVrMjN1gzzAxqobT6i1) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [Everything is Already There](https://open.spotify.com/album/1he2AlYOWu58VJxZQPzdJK) | 2:56 | 2022-01-21 |  |
 | [Frozen Plains](https://open.spotify.com/track/3czI9Tjuim4boa9KwizjvQ) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Baba Gnohm](https://open.spotify.com/artist/2emlnsOgKrMMwXqpgpBMLF) | [Frozen Plains](https://open.spotify.com/album/6NP6uRqDzvNfSmJZi4uqx7) | 5:38 | 2023-01-27 |  |
+| [Full Av Tomhet](https://open.spotify.com/track/0tOAVxzcetDy2wzrJ0Hmk8) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Bansull](https://open.spotify.com/album/1HhptIM5EglrNcLOtaZXRj) | 3:24 | 2023-03-10 |  |
 | [Fundament \(Part 1\)](https://open.spotify.com/track/0NWuVsxbGEwS4qCiicGxBs) | [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Plasmafuse](https://open.spotify.com/artist/6iYdmg7rSNUKQabi5wzRtN) | [Mörkrets Narr](https://open.spotify.com/album/2VqFfX6U0xOW0Ad58xyfV9) | 7:40 | 2022-01-21 |  |
 | [Future Memory](https://open.spotify.com/track/5kiPu9EFwEhzzClpoEtRfQ) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Only Love From Now On](https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL) | 5:02 | 2022-03-25 | 2023-03-06 |
 | [Für Alina](https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Alexander Malter](https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH) | [Arvo Pärt: Alina](https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE) | 10:47 | 2022-07-22 |  |
@@ -122,7 +123,7 @@
 | [Norduris](https://open.spotify.com/track/4yrVOvpavSaPoD3MRRvx19) | [Wayai](https://open.spotify.com/artist/0xhgrV69CjEHK5pyK1iMAJ), [Johan Famaey](https://open.spotify.com/artist/3AxGH0DTPTiF54fxkXyjXV) | [Norduris](https://open.spotify.com/album/0ZE5abEJEESte7CMbOdnNR) | 4:11 | 2022-02-04 |  |
 | [North](https://open.spotify.com/track/2YaxyF5xjcqFTgUb62sEPa) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 3:17 | 2022-01-21 |  |
 | [Northern Light](https://open.spotify.com/track/3sxJ6w5OL3fdu1vxRhlrCR) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 2:32 | 2022-01-21 | 2022-07-29 |
-| [Northern Spirit](https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Northern Spirit](https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL) | 4:06 | 2022-01-28 |  |
+| [Northern Spirit](https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Northern Spirit](https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL) | 4:06 | 2022-01-28 | 2023-03-16 |
 | [notes of a crocodile](https://open.spotify.com/track/7DgYQpSRq8oKdstt80n0A4) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [fragments](https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx) | 1:29 | 2022-01-21 |  |
 | [Nuuk \(Air\)](https://open.spotify.com/track/2w9LpnDMhMxbeVkvZgFcoK) | [Thomas Köner](https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v) | [Nuuk](https://open.spotify.com/album/039YorrtuXDmdZHXhryqJc) | 4:50 | 2022-01-21 | 2022-10-08 |
 | [Of Becoming and Dying](https://open.spotify.com/track/3gxKrtlTm56lMm8Ng2vS02) | [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Subaerial](https://open.spotify.com/album/3rCc5K1LiTTrlWN3YxFwaM) | 3:47 | 2022-01-21 | 2023-02-01 |
@@ -187,7 +188,7 @@
 | [Time Dilation](https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf) | [Fredrik Jonasson](https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd) | [Aether](https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0) | 4:20 | 2022-02-18 |  |
 | [Toimetonna](https://open.spotify.com/track/5XVbQfGCe3tYYZruCFXlUq) | [För Alltid](https://open.spotify.com/artist/5aPyGWlpqRG3hlsbTDgPPu) | [Toimetonna](https://open.spotify.com/album/33f4xR6aZb6Z4Hl0xKLJlI) | 3:08 | 2022-01-28 |  |
 | [Torrek](https://open.spotify.com/track/5wiNhkUEe7imXJiwPQAuIe) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Saman](https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk) | 2:19 | 2022-03-25 |  |
-| [Transcend](https://open.spotify.com/track/2M0EmEypUn9U1YHgNocVGi) | [Respira](https://open.spotify.com/artist/6u9COHFMoQroLZ3tfh9s7e), [Atmøsphäre](https://open.spotify.com/artist/4aGsKbTLPMWGYvIPWiqPhj) | [Transcend](https://open.spotify.com/album/38Sxp6afQ9t8zLWarjfWJ5) | 7:37 | 2022-02-11 |  |
+| [Transcend](https://open.spotify.com/track/2M0EmEypUn9U1YHgNocVGi) | [Respira](https://open.spotify.com/artist/6u9COHFMoQroLZ3tfh9s7e), [Atmøsphäre](https://open.spotify.com/artist/4aGsKbTLPMWGYvIPWiqPhj) | [Transcend](https://open.spotify.com/album/38Sxp6afQ9t8zLWarjfWJ5) | 7:37 | 2022-02-11 | 2023-03-16 |
 | [Transience](https://open.spotify.com/track/54gc7VvU6js8KUWaSOYzFR) | [David Granström](https://open.spotify.com/artist/3XzW3dOgb3xTbi1GlstjWV) | [Empty Room](https://open.spotify.com/album/3mxilQQIyEb5YU8HVmATcH) | 4:45 | 2022-01-21 |  |
 | [Trees](https://open.spotify.com/track/0Q2ZAzvitoJyxvPfPt2Dz8) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Reflection Of Light](https://open.spotify.com/album/2AjKlK9aWlC2DAZydHWfHO) | 2:33 | 2022-01-21 |  |
 | [Tårlös sorg](https://open.spotify.com/track/2CqZDbBIDZ6mfEBU68gw5f) | [Isorinne](https://open.spotify.com/artist/60vRsBhM3tcwfKTkEUBAIc) | [Stumhetens toner](https://open.spotify.com/album/3sCyd3rTOvCmHUBAqt6cfd) | 5:04 | 2022-01-21 |  |
@@ -201,7 +202,7 @@
 | [Vi är överallt](https://open.spotify.com/track/1IMyiFwhS3ZIinvYEp2ivG) | [Orphan Ann](https://open.spotify.com/artist/633FjCdzULVbn0CjE820vK) | [The Practice Of Surrender](https://open.spotify.com/album/5UprmCqRU9acn6C6oITQhL) | 5:00 | 2022-01-21 |  |
 | [Vilja](https://open.spotify.com/track/32CngTyROmI3rQzQly467Z) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Minnesmärke](https://open.spotify.com/album/2xqi6xom8eHt1GyEbidRm1) | 19:08 | 2022-01-21 | 2022-07-29 |
 | [Vow](https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX) | [TDSOM](https://open.spotify.com/artist/3DPfgW4qhyNleslbUz2Efn) | [Vow](https://open.spotify.com/album/3o9XrLC64TF8IjbyuSbmNy) | 3:56 | 2022-03-25 |  |
-| [Wasa Stone Trio](https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G) | [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [Celeste](https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY) | 2:15 | 2022-01-21 | 2023-03-13 |
+| [Wasa Stone Trio](https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G) | [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [Celeste](https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY) | 2:15 | 2022-01-21 |  |
 | [Waves \- Oliver Doerell & Helga Raimondi Rework](https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves \(Oliver Doerell & Helga Raimondi Rework\)](https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB) | 5:14 | 2022-01-28 |  |
 | [Where Lonely Embers Glow](https://open.spotify.com/track/2wnL9GReYcMbMA29ILdhdS) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Memento](https://open.spotify.com/album/1ZbO6GlyoIo9nXdHe7dPZH) | 6:51 | 2022-04-01 |  |
 | [Wingbeats Source III: Piano and Wings](https://open.spotify.com/track/1nxNCdh7SLOxFny6EmmzL3) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Wingbeats](https://open.spotify.com/album/1daolYgECDn9hgAKsWuX2n) | 2:36 | 2022-07-22 |  |

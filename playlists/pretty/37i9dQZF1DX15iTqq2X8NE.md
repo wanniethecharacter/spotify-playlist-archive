@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.<br/>Cover: Soulja
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,770 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,776 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 12 | [Warm Pants](https://open.spotify.com/track/11ZY9wPKm72osWrXBPYoSc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Warm Pants](https://open.spotify.com/album/7Aa1y7FVfTeMlcToaq2HoN) | 5:14 |
 | 13 | [Argos Farfish](https://open.spotify.com/track/7fbZ2g3WSY3a5N0503u0f5) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King Of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG) | 4:38 |
 | 14 | [Fawda \| فوضي](https://open.spotify.com/track/09anZUksJfj5f1BbphM5lV) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [Dj Reo](https://open.spotify.com/artist/2wNCR677docA3slrerB4Bl) | [Fawda \| فوضي](https://open.spotify.com/album/3nvEPbZmYCfINY95gXb5xr) | 4:15 |
-| 15 | [Agricultural Revolution](https://open.spotify.com/track/2zKv5S3cllj2aGXZbX4N9V) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs) | 5:07 |
-| 16 | [Bouquets \(Freestyle\)](https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv) | [G\-SALIH](https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6) | [Bouquets \(Freestyle\)](https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq) | 3:12 |
+| 15 | [Bouquets \(Freestyle\)](https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv) | [G\-SALIH](https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6) | [Bouquets \(Freestyle\)](https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq) | 3:12 |
+| 16 | [Agricultural Revolution](https://open.spotify.com/track/2zKv5S3cllj2aGXZbX4N9V) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs) | 5:07 |
 | 17 | [Habibi Taal](https://open.spotify.com/track/2bmyNjROIwUSHSzBzjzX1l) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Silt](https://open.spotify.com/album/0g2aAVujd0puM9wGzW9T8Y) | 3:18 |
 | 18 | [MaMuhim](https://open.spotify.com/track/7fUlWvzlUIr3ijziHXtnlM) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [MaMuhim](https://open.spotify.com/album/2Dc6X5SdB6Bl5dCaGAAve1) | 3:43 |
 | 19 | [pretty kitten](https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [pretty kitten](https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm) | 2:22 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 25 | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W), [Sheme](https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD) | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz) | 3:26 |
 | 26 | [Azara Alhai](https://open.spotify.com/track/2bUEt4DCNb6idQ84isIpo3) | [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls) | [Sudaniyat](https://open.spotify.com/album/4qKyrkwm1F2CvDUx6OGAw5) | 6:27 |
 | 27 | [Habsha \(feat\. Flippter\)](https://open.spotify.com/track/0KwGwfSkznhVw7t00qQ8Nl) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Habsha \(feat\. Flippter\)](https://open.spotify.com/album/6opmw3CpoDjwblauYVcuBY) | 2:25 |
-| 28 | [Cabana](https://open.spotify.com/track/5KpdhAgDR2JCY8xu11RLTg) | [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Cabana](https://open.spotify.com/album/5RbpvPnE2WOPoxX065eXYl) | 2:57 |
-| 29 | [23](https://open.spotify.com/track/1V49aRvUw5mTcXkfacnauF) | [Shmakh](https://open.spotify.com/artist/53pO4D72QLnq1hKfR90iX5) | [23](https://open.spotify.com/album/6sNXpHky9jR10fStq9E6vP) | 2:27 |
+| 28 | [23](https://open.spotify.com/track/1V49aRvUw5mTcXkfacnauF) | [Shmakh](https://open.spotify.com/artist/53pO4D72QLnq1hKfR90iX5) | [23](https://open.spotify.com/album/6sNXpHky9jR10fStq9E6vP) | 2:27 |
+| 29 | [Cabana](https://open.spotify.com/track/5KpdhAgDR2JCY8xu11RLTg) | [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Cabana](https://open.spotify.com/album/5RbpvPnE2WOPoxX065eXYl) | 2:57 |
 | 30 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 |
 | 31 | [Matalib](https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib](https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx) | 4:48 |
 | 32 | [عمل فني](https://open.spotify.com/track/19pRKlcApnYlaRmffunH6j) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Mshakil](https://open.spotify.com/artist/7rEHTsxNUpE6DSntwxhAqL) | [عمل فني](https://open.spotify.com/album/3AsxD44bLyQxefLvLj3cy0) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 49 | [Farasha فراشة](https://open.spotify.com/track/4F731VYNl7sOZ3dwdZZsTV) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS), [Sufyvn](https://open.spotify.com/artist/5uO9QrR5mvPdJ7uPIESbr6), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Farasha فراشة](https://open.spotify.com/album/2SgBBbEiX68bS67DbqFJZG) | 3:52 |
 | 50 | [Silsila](https://open.spotify.com/track/5KTy5Suuea5uBUID1pwKU5) | [ElKhaleefa](https://open.spotify.com/artist/3tREMnMFWzcm8nzHIPXnBG) | [Silsila](https://open.spotify.com/album/1P1feiWIo2Mtl6HGDS0Gqz) | 3:45 |
 
-Snapshot ID: `MTY3ODczMTY4MCwwMDAwMDAwMDA3N2RkNjhhY2I1YWE4YjI0YzJhNjBhNmRlOWFjOTdi`
+Snapshot ID: `MTY3ODczMTY4MCwwMDAwMDAwMDA3MmU5MjRiNmI1Y2RmOWJkMWNkODM0MGM0YmE2OTQx`

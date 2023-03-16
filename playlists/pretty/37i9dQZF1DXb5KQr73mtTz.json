@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 9169,
+  "num_followers": 9180,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU3OTI1MywwMDAwMDAwMDVjODcyYWY4ZjQxYmQ3OWY2ZWJkMTljODEwNTAwNzNm",
+  "snapshot_id": "MTY3NzU3OTI1MywwMDAwMDAwMGYwZmNiYzgyNTNlZjY3MDRhZGUxMGViMTVhNjE1NTM1",
   "tracks": [
     {
       "added_at": "2023-02-28 10:14:13",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "My Liberation Notes OST Part 11",
-        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 259056,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
         "name": "\ub85c\ubd07\uc774 \uc544\ub2c8\uc57c, Pt. 3 Original Television Soundtrack",
         "url": "https://open.spotify.com/album/5ElDHNX2Jpo6vwkFKhSQCF"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 302852,
       "name": "\ub9c8\uc74c\uc758 \ub9d0",
       "url": "https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH"
+    },
+    {
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
+        "name": "My Liberation Notes OST Part 11",
+        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 259056,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Again, goodbye (YAOKI Project part.2)",
-        "url": "https://open.spotify.com/album/2GcLzQ6EGtG6ssDLR3UbUZ"
-      },
-      "artists": [
-        {
-          "name": "Yang Yoseob",
-          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
-        }
-      ],
-      "duration_ms": 261146,
-      "name": "Again, goodbye",
-      "url": "https://open.spotify.com/track/20sEI5enxxStjRnoKxJTA0"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
         "name": "If You Wish Upon Me OST Part.1",
         "url": "https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 219413,
       "name": "LONER",
       "url": "https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn"
+    },
+    {
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
+        "name": "Again, goodbye (YAOKI Project part.2)",
+        "url": "https://open.spotify.com/album/2GcLzQ6EGtG6ssDLR3UbUZ"
+      },
+      "artists": [
+        {
+          "name": "Yang Yoseob",
+          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
+        }
+      ],
+      "duration_ms": 261146,
+      "name": "Again, goodbye",
+      "url": "https://open.spotify.com/track/20sEI5enxxStjRnoKxJTA0"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
         "name": "Strangers Again, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6N8MuFv8LwKBQ3dIDqqdoa"
       },
@@ -763,8 +747,24 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "The last stop of our pain",
-        "url": "https://open.spotify.com/album/1738g3cEdlEp8BantdCSOC"
+        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
+    },
+    {
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
       },
       "artists": [
         {
@@ -772,25 +772,25 @@
           "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
         }
       ],
-      "duration_ms": 252000,
-      "name": "The last stop of our pain",
-      "url": "https://open.spotify.com/track/6RIWij0YRX8zZJ9pv9CTbS"
+      "duration_ms": 282118,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
     },
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "You Are The Sea (CURTAIN CALL OST Part.4)",
-        "url": "https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw"
+        "name": "Emptiness in Memory",
+        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
       },
       "artists": [
         {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
         }
       ],
-      "duration_ms": 246106,
-      "name": "You Are The Sea",
-      "url": "https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv"
+      "duration_ms": 278454,
+      "name": "Emptiness in Memory",
+      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Emptiness in Memory",
-        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
+        "name": "You Are The Sea (CURTAIN CALL OST Part.4)",
+        "url": "https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw"
       },
       "artists": [
         {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
         }
       ],
-      "duration_ms": 278454,
-      "name": "Emptiness in Memory",
-      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
+      "duration_ms": 246106,
+      "name": "You Are The Sea",
+      "url": "https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",

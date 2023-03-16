@@ -719,6 +719,28 @@
     },
     {
       "album": {
+        "name": "TRE",
+        "url": "https://open.spotify.com/album/6KgWi7Dq7eGztZzC9ExYmn"
+      },
+      "artists": [
+        {
+          "name": "LE CARIE",
+          "url": "https://open.spotify.com/artist/2A8udj5MEQyHsfVJjXmukj"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184164,
+      "name": "BUGIARDO",
+      "url": "https://open.spotify.com/track/6laV1EFz9b6fbs0NJ4nc92"
+    },
+    {
+      "album": {
         "name": "Buio",
         "url": "https://open.spotify.com/album/3LwsCmNWnnlwQm5TAMFzaW"
       },

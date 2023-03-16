@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvdcM9QUiSL.md) - [plain]
 
 > Feel the vibe\. Feel the pressure\. And dance to a mix curated by <a href="spotify:artist:7DhdJhd6DrxeJlUajwttd1">Martin Ikin</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,452 likes - 13 songs - 59 min 57 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,453 likes - 14 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvdcM9QUiSL.md) - [plain]
 | 5 | [You \- Extended Dub Mix \- Mixed](https://open.spotify.com/track/3giUF0FVpI0u4Xvdofkkkb) | [Chenai](https://open.spotify.com/artist/1OIiJfaxjDFfRRZG061t3w), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [You \- Extended Dub Mix \(Mixed\)](https://open.spotify.com/album/3V9ejsDIn7Vc0DSo4c5vYZ) | 5:08 |
 | 6 | [How We Do \- Mixed](https://open.spotify.com/track/57VMv2FXJhIgtcAsPqTAWs) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [How We Do \(Mixed\)](https://open.spotify.com/album/31XXHmGIDXAXP6h6wNxcJZ) | 2:48 |
 | 7 | [Devoted \(feat\. Byron Stingily\) \- Mixed](https://open.spotify.com/track/7CJfV8ytT86MnqBq4QNKle) | [Byron Stingily](https://open.spotify.com/artist/3EoFVszwsvsw0Cr7b4ncaD), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Devoted \(feat\. Byron Stingily\) \[Mixed\]](https://open.spotify.com/album/28y1fO6I0LAPOx5wqVIwYp) | 4:46 |
-| 8 | [Locco \- Mixed](https://open.spotify.com/track/2JrWvGyKrwJRIKeE7SAdeh) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Locco \(Mixed\)](https://open.spotify.com/album/5K25uw8cr8ggshtlfUKBQ1) | 4:33 |
-| 9 | [Tidy Up \- Extended Mix \- Mixed](https://open.spotify.com/track/3QQABIppzlxV23h0yvi63N) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x), [Juliet Sikora](https://open.spotify.com/artist/27dP6YOr1pGNXLpHRLjvYx) | [Tidy Up \- Extended Mix \(Mixed\)](https://open.spotify.com/album/0uVdl1dKAcDAPQagZ25mVM) | 5:14 |
-| 10 | [What I Need \- Mixed](https://open.spotify.com/track/6eQOiLhqKXqFEDgQs3LmYz) | [Lekota](https://open.spotify.com/artist/4DXQ3UFHciEdLjwwJe3gEU), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [What I Need \(Mixed\)](https://open.spotify.com/album/4SbqHjEEHXYseqcU46eJuf) | 3:20 |
-| 11 | [Back In Time \- Mixed](https://open.spotify.com/track/0UlQtmoRhU6b3SXXH9mXT7) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Back In Time \(Mixed\)](https://open.spotify.com/album/5jsFGdVoTgqpDpkkXtTEk7) | 4:47 |
-| 12 | [Sometimes \- Mixed](https://open.spotify.com/track/0xVcWX7uPc9EPiqGNvpaB2) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Sometimes \(Mixed\)](https://open.spotify.com/album/4F2f0xbm442BR46u41EakB) | 4:00 |
-| 13 | [Riser \- Mixed](https://open.spotify.com/track/4In3OThxYpi8XBGutltMWI) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Riser \(Mixed\)](https://open.spotify.com/album/5yImYEowF3HPlY4PTsxDLK) | 5:21 |
+| 8 | [Locco \- Mixed](https://open.spotify.com/track/3fAHqzKqMor06KW7sLq090) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Locco \(Mixed\)](https://open.spotify.com/album/1UlCEh0dPMrhTL2W4wIqht) | 4:33 |
+| 9 | [Locco \- Mixed](https://open.spotify.com/track/3fAHqzKqMor06KW7sLq090) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Locco \(Mixed\)](https://open.spotify.com/album/1UlCEh0dPMrhTL2W4wIqht) | 4:33 |
+| 10 | [Tidy Up \- Extended Mix \- Mixed](https://open.spotify.com/track/3QQABIppzlxV23h0yvi63N) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x), [Juliet Sikora](https://open.spotify.com/artist/27dP6YOr1pGNXLpHRLjvYx) | [Tidy Up \- Extended Mix \(Mixed\)](https://open.spotify.com/album/0uVdl1dKAcDAPQagZ25mVM) | 5:14 |
+| 11 | [What I Need \- Mixed](https://open.spotify.com/track/6eQOiLhqKXqFEDgQs3LmYz) | [Lekota](https://open.spotify.com/artist/4DXQ3UFHciEdLjwwJe3gEU), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [What I Need \(Mixed\)](https://open.spotify.com/album/4SbqHjEEHXYseqcU46eJuf) | 3:20 |
+| 12 | [Back In Time \- Mixed](https://open.spotify.com/track/0UlQtmoRhU6b3SXXH9mXT7) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Back In Time \(Mixed\)](https://open.spotify.com/album/5jsFGdVoTgqpDpkkXtTEk7) | 4:47 |
+| 13 | [Sometimes \- Mixed](https://open.spotify.com/track/0xVcWX7uPc9EPiqGNvpaB2) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Sometimes \(Mixed\)](https://open.spotify.com/album/4F2f0xbm442BR46u41EakB) | 4:00 |
+| 14 | [Riser \- Mixed](https://open.spotify.com/track/4In3OThxYpi8XBGutltMWI) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Riser \(Mixed\)](https://open.spotify.com/album/5yImYEowF3HPlY4PTsxDLK) | 5:21 |
 
-Snapshot ID: `MTY0NzI4NTMyNiwwMDAwMDAwMGZhM2NhM2Y1YzczMDMzYmE2NGViZWQ1ZGU4ODJhMDk5`
+Snapshot ID: `MTY3ODg1NDEyOSwwMDAwMDAwMGUwZmFjNzVkZWU3NjVkMGNlMmExYzcyNWRlMzNhZWNh`

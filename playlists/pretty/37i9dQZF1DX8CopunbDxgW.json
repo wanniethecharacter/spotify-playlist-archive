@@ -1,15 +1,15 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: The Blaze",
-  "num_followers": 838234,
+  "num_followers": 838541,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ2MjA5MiwwMDAwMDAwMDg2YjRhMDY2NGRjZGY2Zjc4YjhmYzc3OTg5M2EyNjBh",
+  "snapshot_id": "MTY3ODQ2MjA5MiwwMDAwMDAwMDhmZGFmZWQ1MDBkMmYwMWU0NDFjZTIxZDM1ODc3ZDIw",
   "tracks": [
     {
-      "added_at": "2023-03-15 00:51:44",
+      "added_at": "2023-03-16 01:43:12",
       "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
     },
     {
-      "added_at": "2023-03-15 00:51:44",
+      "added_at": "2023-03-16 01:43:12",
       "album": {
         "name": "Assumptions (Kaytranada Edit)",
         "url": "https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
     },
     {
-      "added_at": "2023-03-15 00:51:44",
+      "added_at": "2023-03-16 01:43:12",
       "album": {
         "name": "CooCool",
         "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
     },
     {
-      "added_at": "2023-03-15 00:51:44",
+      "added_at": "2023-03-16 01:43:12",
       "album": {
         "name": "Sunrise Bang Ur Head Against Tha Wall",
         "url": "https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/22quZFeltYbo325rn3ktTe"
     },
     {
-      "added_at": "2023-03-15 00:51:44",
+      "added_at": "2023-03-16 01:43:12",
       "album": {
         "name": "Gabo's Last Resort / Hyakutake",
         "url": "https://open.spotify.com/album/2kIkz3jqtubvlQcnppphvV"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
     },
     {
-      "added_at": "2023-03-15 00:51:44",
+      "added_at": "2023-03-16 01:43:12",
       "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
@@ -343,38 +343,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Quiver",
-        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
-      },
-      "artists": [
-        {
-          "name": "SILK",
-          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
-        }
-      ],
-      "duration_ms": 181459,
-      "name": "Quiver",
-      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
-    },
-    {
-      "added_at": "2023-03-15 00:51:44",
-      "album": {
-        "name": "Low Lights and Throwback Tunes",
-        "url": "https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF"
-      },
-      "artists": [
-        {
-          "name": "common goldfish",
-          "url": "https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F"
-        }
-      ],
-      "duration_ms": 247949,
-      "name": "Low Lights and Throwback Tunes",
-      "url": "https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Picture in my mind",
         "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
       },
@@ -393,6 +361,22 @@
       "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
     },
     {
+      "added_at": "2023-03-16 01:43:12",
+      "album": {
+        "name": "Low Lights and Throwback Tunes",
+        "url": "https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF"
+      },
+      "artists": [
+        {
+          "name": "common goldfish",
+          "url": "https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F"
+        }
+      ],
+      "duration_ms": 247949,
+      "name": "Low Lights and Throwback Tunes",
+      "url": "https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM"
+    },
+    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "Discovery",
@@ -407,6 +391,22 @@
       "duration_ms": 301373,
       "name": "Digital Love",
       "url": "https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Quiver",
+        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "duration_ms": 181459,
+      "name": "Quiver",
+      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 195370,
+      "name": "Be Sweet",
+      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Free Yourself",
         "url": "https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 256898,
       "name": "Water",
       "url": "https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 195370,
-      "name": "Be Sweet",
-      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Cool It Down",
-        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "EXCEPTIONAL",
         "url": "https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 225368,
       "name": "3AM",
       "url": "https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "DREAMER",
-        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 339013,
-      "name": "DREAMER",
-      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -723,6 +707,22 @@
       "duration_ms": 234700,
       "name": "Little Bit (feat. Autoerotique) - Remix",
       "url": "https://open.spotify.com/track/4dVejqq0Jn4pSyD7WcQ0nw"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "DREAMER",
+        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 339013,
+      "name": "DREAMER",
+      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "CLASH",
-        "url": "https://open.spotify.com/album/3teqPCjiUVKdmTONZZrrcv"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "CLASH - Edit",
-      "url": "https://open.spotify.com/track/4IPATLSUoEdsmqwxwNjr4g"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "LET\u2019S DO IT AGAIN",
         "url": "https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 225494,
       "name": "LET\u2019S DO IT AGAIN - Radio Edit",
       "url": "https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "CLASH",
+        "url": "https://open.spotify.com/album/3teqPCjiUVKdmTONZZrrcv"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "CLASH - Edit",
+      "url": "https://open.spotify.com/track/4IPATLSUoEdsmqwxwNjr4g"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -981,20 +981,20 @@
       "url": "https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
+        "name": "Circle Back Around",
+        "url": "https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33"
       },
       "artists": [
         {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
         }
       ],
-      "duration_ms": 224760,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
+      "duration_ms": 195408,
+      "name": "Circle Back Around",
+      "url": "https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1011,6 +1011,22 @@
       "duration_ms": 224133,
       "name": "Right on time",
       "url": "https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Circle Back Around",
-        "url": "https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33"
+        "name": "Sunsleeper",
+        "url": "https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M"
       },
       "artists": [
         {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 195408,
-      "name": "Circle Back Around",
-      "url": "https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB"
+      "duration_ms": 220744,
+      "name": "Sunsleeper",
+      "url": "https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1063,22 +1079,6 @@
       "duration_ms": 248811,
       "name": "Slugger 1.4 [2014 Export.WAV]",
       "url": "https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Sunsleeper",
-        "url": "https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 220744,
-      "name": "Sunsleeper",
-      "url": "https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Call On Me (with Tove Lo)",
-        "url": "https://open.spotify.com/album/4f2spuorkr4IOoI5AXCzLi"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 196314,
-      "name": "Call On Me (with Tove Lo)",
-      "url": "https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Differences",
         "url": "https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy"
       },
@@ -1159,22 +1139,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Wait For It",
-        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        }
-      ],
-      "duration_ms": 239668,
-      "name": "Wait For It",
-      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Like The Old Days",
         "url": "https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3"
       },
@@ -1191,18 +1155,38 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Surfing in Iceland",
-        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
+        "name": "Call On Me (with Tove Lo)",
+        "url": "https://open.spotify.com/album/4f2spuorkr4IOoI5AXCzLi"
       },
       "artists": [
         {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Surfing in Iceland",
-      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
+      "duration_ms": 196314,
+      "name": "Call On Me (with Tove Lo)",
+      "url": "https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Wait For It",
+        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "duration_ms": 239668,
+      "name": "Wait For It",
+      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1223,6 +1207,22 @@
       "duration_ms": 119877,
       "name": "Hypnotized (with skaiwater)",
       "url": "https://open.spotify.com/track/1QwoK3ypxUCpvyBqAkpFrn"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Surfing in Iceland",
+        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Surfing in Iceland",
+      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Love Letter (feat. The Knocks)",
         "url": "https://open.spotify.com/album/1MYXb16TpRvNZiLmscSGDk"
       },
@@ -1405,24 +1425,20 @@
       "url": "https://open.spotify.com/track/26wuBc04catG1QQyYupr35"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-03-16 01:43:12",
       "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
+        "name": "headstrong gunner",
+        "url": "https://open.spotify.com/album/2F4tvdjZIfNQhQUh2iCgjt"
       },
       "artists": [
         {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
         }
       ],
-      "duration_ms": 199440,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
+      "duration_ms": 115651,
+      "name": "headstrong gunner",
+      "url": "https://open.spotify.com/track/3X0r6QZjpgWyMbyCBCvBX0"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1497,6 +1513,30 @@
       "url": "https://open.spotify.com/track/6MnmCvMN8VXzCC39Bgw0Gk"
     },
     {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "AudioLust & HigherLove",
+        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 310340,
+      "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
+      "url": "https://open.spotify.com/track/2TfHuXx68GAVR71kUQttvJ"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Wide Awake (feat. Charlie Houston)",
@@ -1531,30 +1571,6 @@
       "duration_ms": 303124,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "AudioLust & HigherLove",
-        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 310340,
-      "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
-      "url": "https://open.spotify.com/track/2TfHuXx68GAVR71kUQttvJ"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1611,6 +1627,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 274423,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
       },
@@ -1623,6 +1655,22 @@
       "duration_ms": 149840,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Love Brand New",
+        "url": "https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 198480,
+      "name": "Love Brand New",
+      "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1647,38 +1695,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 274423,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Love Brand New",
-        "url": "https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "Love Brand New",
-      "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "WATER. (feat. Bryce Vine)",
         "url": "https://open.spotify.com/album/6rin0eQVQWe4kAA7tCLmyX"
       },
@@ -1697,24 +1713,24 @@
       "url": "https://open.spotify.com/track/57Zhe3iZ0PGDXm5qpeoXIh"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-03-03 18:55:26",
       "album": {
-        "name": "Must Be Love (feat. Electric Fields)",
-        "url": "https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo"
+        "name": "Lavender Haze (Remixes)",
+        "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
       },
       "artists": [
         {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Electric Fields",
-          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 270145,
-      "name": "Must Be Love (feat. Electric Fields)",
-      "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
+      "duration_ms": 235932,
+      "name": "Lavender Haze - Jungle Remix",
+      "url": "https://open.spotify.com/track/0ThxqUZ9PwS6n0UT5i1XH6"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1739,6 +1755,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Must Be Love (feat. Electric Fields)",
+        "url": "https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "Electric Fields",
+          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
+        }
+      ],
+      "duration_ms": 270145,
+      "name": "Must Be Love (feat. Electric Fields)",
+      "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "DREAM SOUP",
         "url": "https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP"
       },
@@ -1751,42 +1787,6 @@
       "duration_ms": 206370,
       "name": "Human Shape",
       "url": "https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR"
-    },
-    {
-      "added_at": "2023-03-03 21:59:48",
-      "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/0mP4FWMK4wPnA3WCH6VxTz"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 133037,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/3AHTWM55Eg8QY3u91VJEzZ"
-    },
-    {
-      "added_at": "2023-03-03 18:55:26",
-      "album": {
-        "name": "Lavender Haze (Remixes)",
-        "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 235932,
-      "name": "Lavender Haze - Jungle Remix",
-      "url": "https://open.spotify.com/track/0ThxqUZ9PwS6n0UT5i1XH6"
     }
   ],
   "unique_name": "metropolis",

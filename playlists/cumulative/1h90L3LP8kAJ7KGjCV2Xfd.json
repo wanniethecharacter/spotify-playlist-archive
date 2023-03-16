@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2 Dumb Kids",
+        "url": "https://open.spotify.com/album/2rvUElOjzUMKDVkAFVGR3v"
+      },
+      "artists": [
+        {
+          "name": "Levent Geiger",
+          "url": "https://open.spotify.com/artist/7JSBgXyCDzX24iZCHJofIG"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "2 Dumb Kids",
+      "url": "https://open.spotify.com/track/75bs250qy6CzGEDxExe3sP"
+    },
+    {
+      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -1290,7 +1308,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 173267,
       "name": "Get On My Love",
       "url": "https://open.spotify.com/track/60REZmVNnLB2846rcsEoJJ"
@@ -2354,7 +2372,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 172480,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
@@ -2746,7 +2764,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 160733,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
@@ -3428,7 +3446,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 120308,
       "name": "this is what falling in love feels like",
       "url": "https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx"
@@ -3922,6 +3940,24 @@
       "duration_ms": 238573,
       "name": "Young and Stupid",
       "url": "https://open.spotify.com/track/07Eq4v5xtaWJ8l4X2qzSiB"
+    },
+    {
+      "album": {
+        "name": "Young, Dumb, Stupid",
+        "url": "https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190786,
+      "name": "Young, Dumb, Stupid",
+      "url": "https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn"
     },
     {
       "album": {

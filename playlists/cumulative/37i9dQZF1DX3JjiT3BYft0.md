@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-324 songs - 23 hr 38 min
+325 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [CORUSCATE \-DNA\-](https://open.spotify.com/track/6bT17LxgJvBKniLcfokwti) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [CORUSCATE \-DNA\-](https://open.spotify.com/album/71lKytpdWRtMFdbPXZeHNB) | 4:46 | 2022-05-17 | 2022-07-29 |
 | [CORUSCATE \-DNA\-](https://open.spotify.com/track/626g1z5FryZH84PZ4wsWhi) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [CORUSCATE \-DNA\-](https://open.spotify.com/album/28Yc97TtKFFu7UGsPKnZCq) | 4:47 | 2022-09-20 | 2022-10-04 |
 | [Daylight](https://open.spotify.com/track/13YeYqLtmg4R2fNNVb3Jc0) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight](https://open.spotify.com/album/0eFR8VfRxxb8NxnZVn8HM0) | 5:50 | 2022-06-23 | 2022-10-02 |
-| [Daylight \-デイライト\-](https://open.spotify.com/track/3Be9EL2AESBwcB6ZUYKwys) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight \-デイライト\-](https://open.spotify.com/album/2Djt9daRmOJ1MTliK7X0Gn) | 5:50 | 2022-09-20 |  |
+| [Daylight \-デイライト\-](https://open.spotify.com/track/3Be9EL2AESBwcB6ZUYKwys) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight \-デイライト\-](https://open.spotify.com/album/2Djt9daRmOJ1MTliK7X0Gn) | 5:50 | 2022-09-20 | 2023-03-16 |
+| [Daylight \-デイライト\-](https://open.spotify.com/track/7Ld7ylkV7WdTviE5w3XAv9) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 5:50 | 2023-03-14 |  |
 | [Daylight \-デイライト\-](https://open.spotify.com/track/7lbb1e459rAhDVp0EjLokE) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight \-デイライト\-](https://open.spotify.com/album/4cfIgVvrx4fzEx8LHNyhY9) | 5:50 | 2022-05-17 | 2022-07-17 |
 | [Doki\-Doki Sing Out!](https://open.spotify.com/track/07Px1iST5Djx5zpnpG8f5B) | [戸山香澄\(CAST:愛美\)](https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir) | [Doki\-Doki Sing Out!](https://open.spotify.com/album/7C7Kxyra0SlTUPtcO6k1tW) | 4:09 | 2022-06-23 | 2022-09-30 |
 | [Domination to world](https://open.spotify.com/track/7MNuNoni9UY2Aw366p2QxT) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Domination to world](https://open.spotify.com/album/1aUP0huYCBSU0OPAkThfud) | 4:17 | 2022-05-17 | 2022-07-28 |
@@ -277,7 +278,7 @@
 | [パスパレボリューションず☆](https://open.spotify.com/track/1tbvfEpi0yla17GpT7ySq7) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [しゅわりん☆どり〜みん](https://open.spotify.com/album/2aHho1PWjQPTISk5rQH702) | 3:50 | 2022-05-17 | 2022-06-14 |
 | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/track/6fPkczUh0DSxfwxAz9WgOW) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/album/6ySP0mPO2c9WiCBDUkoREy) | 4:18 | 2022-05-17 | 2022-07-29 |
 | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/track/3wQLAbD6vZqRM1RjCKgDVd) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/album/1LohNjqaHsQkrLcNZJJjCN) | 4:19 | 2022-09-20 |  |
-| [ブルームブルーム](https://open.spotify.com/track/15FyEraTym0lgCFREa8VaU) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ブルームブルーム](https://open.spotify.com/album/4xkv0qao5AVfWmeiIF6Zqk) | 4:36 | 2022-09-20 | 2023-03-15 |
+| [ブルームブルーム](https://open.spotify.com/track/15FyEraTym0lgCFREa8VaU) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ブルームブルーム](https://open.spotify.com/album/4xkv0qao5AVfWmeiIF6Zqk) | 4:36 | 2022-09-20 |  |
 | [ブルームブルーム](https://open.spotify.com/track/2SQBhJuIsest3tA1PEC1vT) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ブルームブルーム](https://open.spotify.com/album/4bDKZvWxDa4b2U5f6HxkqD) | 4:36 | 2022-05-17 | 2022-07-29 |
 | [プライド革命](https://open.spotify.com/track/3MHOAHO1m0njLBWMp9lFwg) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 3:58 | 2022-05-17 | 2022-07-29 |
 | [ミライトレイン](https://open.spotify.com/track/68NLAMcxHcRkBWxPgadrqC) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5TLIFj3J5Ro4mlbb2l8a91) | 5:55 | 2022-05-17 | 2022-07-26 |
@@ -305,7 +306,7 @@
 | [天下トーイツA to Z☆](https://open.spotify.com/track/5ok9My7hwKepg4oFta8P0o) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB) | 3:38 | 2022-09-20 |  |
 | [天下卜ーイツA to Z☆](https://open.spotify.com/track/5ZasKT10YVbrMx5CIyPwZp) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/40dDOmQivDb9fIraBn82i5) | 3:38 | 2022-06-23 | 2022-10-02 |
 | [天下卜ーイツA to Z☆](https://open.spotify.com/track/42hnGkRABK2E8HsgUPAMQk) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [天下卜ーイツA to Z☆](https://open.spotify.com/album/3EPw6jwPxa1xZuRABvNQTg) | 3:39 | 2022-05-17 | 2022-07-28 |
-| [寄る辺のSunny, Sunny](https://open.spotify.com/track/0PUwA4Cjz4LE5rUzCqQPpJ) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [寄る辺のSunny, Sunny](https://open.spotify.com/album/6VWXDvHRhzJ5ylROdK18W2) | 3:35 | 2023-03-14 |  |
+| [寄る辺のSunny, Sunny](https://open.spotify.com/track/0PUwA4Cjz4LE5rUzCqQPpJ) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [寄る辺のSunny, Sunny](https://open.spotify.com/album/6VWXDvHRhzJ5ylROdK18W2) | 3:35 | 2023-03-14 | 2023-03-16 |
 | [最高\(さあ行こう\)!](https://open.spotify.com/track/2SrYQHwBT8mQI7uVOLIUhp) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [二重の虹\(ダブル レインボウ\)/最高\(さあ行こう\)!](https://open.spotify.com/album/0Gx04Qm99qA17JAPscYy4s) | 3:48 | 2022-05-17 | 2022-07-15 |
 | [残酷な天使のテーゼ](https://open.spotify.com/track/2mEX3FAVxS2fIcAxnrzqfm) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 4:21 | 2022-05-17 | 2022-07-29 |
 | [激動](https://open.spotify.com/track/5ocLAN2ZYl38qGKbGVWHEw) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 5:33 | 2022-05-17 | 2022-07-27 |

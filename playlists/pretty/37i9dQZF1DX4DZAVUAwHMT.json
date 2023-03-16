@@ -1,13 +1,29 @@
 {
-  "description": "The UK's biggest rock playlist. Cover: The Hunna",
-  "num_followers": 587998,
+  "description": "The UK's biggest rock playlist. Cover: Nothing But Thieves",
+  "num_followers": 587971,
   "original_name": "The Rock List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwNjQwMCwwMDAwMDAwMGIxZDY2NGU2OGRlY2I1ODcyOTE0OGZmNTkzN2JjMjM1",
+  "snapshot_id": "MTY3ODkxNDQ4NiwwMDAwMDAwMDk0ZjU1MzYzZTEyMjA4NTQ1MGFhNGE1ZjE1NjIyMGUy",
   "tracks": [
+    {
+      "added_at": "2023-03-15 21:08:06",
+      "album": {
+        "name": "Welcome to the DCC",
+        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 198798,
+      "name": "Welcome to the DCC",
+      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
+    },
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {

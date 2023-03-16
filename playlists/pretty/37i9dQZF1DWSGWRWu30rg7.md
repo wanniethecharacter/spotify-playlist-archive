@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Odelia Sabrina
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,753 likes - 57 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,755 likes - 57 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

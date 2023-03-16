@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: Third Eye Blind.",
-  "num_followers": 1223576,
+  "num_followers": 1223829,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3NzEwNCwwMDAwMDAwMDczNjEwYmI2YThjZDgyMzdkNGRhOGI2YTVjZmE2MTli",
+  "snapshot_id": "MTY3NDA3NzEwNCwwMDAwMDAwMDExMjBkMDA0ZmY0NmE0YjU0ZWQwYTRhOTU0NjI1MWJm",
   "tracks": [
     {
       "added_at": "2023-01-18 21:25:04",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "To Be With You - 2021 Remastered",
-      "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 214400,
       "name": "Friday I'm in Love",
       "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "To Be With You - 2021 Remastered",
+      "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 239640,
-      "name": "You Learn - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Zooropa",
         "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 298426,
       "name": "Stay (Faraway, So Close!)",
       "url": "https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 239640,
+      "name": "You Learn - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Feeling Strangely Fine (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6KaEKR4KsmFWVrb0ktQo2T"
-      },
-      "artists": [
-        {
-          "name": "Semisonic",
-          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
-        }
-      ],
-      "duration_ms": 279813,
-      "name": "Secret Smile",
-      "url": "https://open.spotify.com/track/1OhctVvuAU8kVCtzDWsCTj"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Pet Your Friends",
         "url": "https://open.spotify.com/album/2h1bf0d6LNtyoEugJYLFdy"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 291906,
       "name": "Counting Blue Cars (Tell Me Your Thoughts On God)",
       "url": "https://open.spotify.com/track/6B618H5CuCdEzcVs0NKTlt"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Feeling Strangely Fine (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6KaEKR4KsmFWVrb0ktQo2T"
+      },
+      "artists": [
+        {
+          "name": "Semisonic",
+          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
+        }
+      ],
+      "duration_ms": 279813,
+      "name": "Secret Smile",
+      "url": "https://open.spotify.com/track/1OhctVvuAU8kVCtzDWsCTj"
     },
     {
       "added_at": "2023-01-18 21:25:04",

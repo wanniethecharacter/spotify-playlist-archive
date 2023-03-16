@@ -4,7 +4,7 @@
 
 > Because we all deserve great pop love songs in one playlist.
 
-422 songs - 1 day 0 hr 27 min
+423 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,8 @@
 | [This Town \- Live, 1 Mic 1 Take](https://open.spotify.com/track/3CP0bFXt7o0onWXVcfbghq) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [This Town \(Live, 1 Mic 1 Take\)](https://open.spotify.com/album/5mbLMpOWR3ErKfLtf20LA6) | 3:41 | 2019-07-29\* | 2019-08-09 |
 | [Those Nights](https://open.spotify.com/track/6qQiQjP0oGnsG3Xa1sSuiJ) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Those Nights](https://open.spotify.com/album/4ecLVSfuJzyTFAAAW5k62J) | 4:29 | 2019-08-05 | 2019-08-09 |
 | [To Be Alone With You](https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:48 | 2019-07-30 | 2019-11-09 |
-| [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2021-11-08 |  |
+| [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2022-12-08 |  |
+| [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2021-11-08 | 2023-03-16 |
 | [Too Good At Goodbyes](https://open.spotify.com/track/7oAraczbemGSNWqnbkU87R) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes](https://open.spotify.com/album/6D5ic12r3twNk7EjwEYFIP) | 3:21 | 2019-08-05 | 2022-07-29 |
 | [Too Late For Love](https://open.spotify.com/track/6Jf8Y84YSdqeJfEPDJFEZu) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Too Late For Love](https://open.spotify.com/album/3WLTXGZP6Wfqp7KiMIXTcq) | 2:58 | 2019-07-30 | 2019-08-09 |
 | [Too Much To Ask](https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:43 | 2021-11-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Akrilla, SOULFIA",
-  "num_followers": 63026,
+  "num_followers": 63033,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ2NTU1NywwMDAwMDAwMDkxZTNmMTNmZGFkMTI4ZGMxZWUxODUzMGY0NDQ1MzJj",
+  "snapshot_id": "MTY3ODQ2NTU1NywwMDAwMDAwMGFiOWU5NTA0Y2QxMDZmNzE0NTdmOTc1YTQ4MWVkMzdm",
   "tracks": [
     {
       "added_at": "2023-03-10 16:25:57",
@@ -415,6 +415,26 @@
     {
       "added_at": "2023-03-10 16:25:57",
       "album": {
+        "name": "Un Poquito",
+        "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166050,
+      "name": "Un Poquito",
+      "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
+    },
+    {
+      "added_at": "2023-03-10 16:25:57",
+      "album": {
         "name": "Un Viaje",
         "url": "https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 285746,
       "name": "Un Viaje",
       "url": "https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y"
-    },
-    {
-      "added_at": "2023-03-10 16:25:57",
-      "album": {
-        "name": "Un Poquito",
-        "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 166050,
-      "name": "Un Poquito",
-      "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
     },
     {
       "added_at": "2023-03-10 16:25:57",
@@ -491,6 +491,30 @@
     {
       "added_at": "2023-03-10 16:25:57",
       "album": {
+        "name": "Mi Fanatica",
+        "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "duration_ms": 223283,
+      "name": "Mi Fanatica",
+      "url": "https://open.spotify.com/track/4M3UPGNere257tK0Qguga2"
+    },
+    {
+      "added_at": "2023-03-10 16:25:57",
+      "album": {
         "name": "YO SE QUE TU (feat. Rusherking)",
         "url": "https://open.spotify.com/album/48FoiMxQVsy2fwZlDobT7y"
       },
@@ -515,30 +539,6 @@
       "duration_ms": 193043,
       "name": "YO SE QUE TU (feat. Rusherking)",
       "url": "https://open.spotify.com/track/4M4DTyLupKvbJKlE4I4EYq"
-    },
-    {
-      "added_at": "2023-03-10 16:25:57",
-      "album": {
-        "name": "Mi Fanatica",
-        "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Bayriton",
-          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
-        },
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        }
-      ],
-      "duration_ms": 223283,
-      "name": "Mi Fanatica",
-      "url": "https://open.spotify.com/track/4M3UPGNere257tK0Qguga2"
     },
     {
       "added_at": "2023-03-10 16:25:57",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-03-10 16:25:57",
       "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/28NfWdCACj7M0DpWgxz3FI"
-      },
-      "artists": [
-        {
-          "name": "ONIX",
-          "url": "https://open.spotify.com/artist/0YMk9b6Lijw7f6PVUknCKn"
-        },
-        {
-          "name": "castleurbano",
-          "url": "https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/003CpLpVCGuyfZe4dLB1No"
-    },
-    {
-      "added_at": "2023-03-10 16:25:57",
-      "album": {
         "name": "Pa\u00b4 Mi Casa",
         "url": "https://open.spotify.com/album/2YzcyoOMf38T98oHrSosU2"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 241693,
       "name": "Pa\u00b4 Mi Casa",
       "url": "https://open.spotify.com/track/0JT2Dre9yTRQmetBwpKuvG"
+    },
+    {
+      "added_at": "2023-03-10 16:25:57",
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/28NfWdCACj7M0DpWgxz3FI"
+      },
+      "artists": [
+        {
+          "name": "ONIX",
+          "url": "https://open.spotify.com/artist/0YMk9b6Lijw7f6PVUknCKn"
+        },
+        {
+          "name": "castleurbano",
+          "url": "https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/003CpLpVCGuyfZe4dLB1No"
     },
     {
       "added_at": "2023-03-10 16:25:57",
@@ -919,6 +919,26 @@
     {
       "added_at": "2023-03-10 16:25:57",
       "album": {
+        "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
+        "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
+      },
+      "artists": [
+        {
+          "name": "OMGisNEFF",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        },
+        {
+          "name": "SokeThugPro",
+          "url": "https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
+      "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
+    },
+    {
+      "added_at": "2023-03-10 16:25:57",
+      "album": {
         "name": "Pal' Otro A\u00f1o",
         "url": "https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9"
       },
@@ -955,46 +975,6 @@
     {
       "added_at": "2023-03-10 16:25:57",
       "album": {
-        "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
-        "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
-      },
-      "artists": [
-        {
-          "name": "OMGisNEFF",
-          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
-        },
-        {
-          "name": "SokeThugPro",
-          "url": "https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
-      "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
-    },
-    {
-      "added_at": "2023-03-10 16:25:57",
-      "album": {
-        "name": "T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
-      },
-      "artists": [
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
-    },
-    {
-      "added_at": "2023-03-10 16:25:57",
-      "album": {
         "name": "HOR\u00d3SCOPO",
         "url": "https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS"
       },
@@ -1019,18 +999,22 @@
     {
       "added_at": "2023-03-10 16:25:57",
       "album": {
-        "name": "Qu\u00e9 Rico Repetirlo",
-        "url": "https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI"
+        "name": "T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
       },
       "artists": [
         {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
         }
       ],
-      "duration_ms": 186840,
-      "name": "Qu\u00e9 Rico Repetirlo",
-      "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
+      "duration_ms": 242373,
+      "name": "T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
     },
     {
       "added_at": "2023-03-10 16:25:57",
@@ -1047,6 +1031,22 @@
       "duration_ms": 158000,
       "name": "Me Juquie",
       "url": "https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn"
+    },
+    {
+      "added_at": "2023-03-10 16:25:57",
+      "album": {
+        "name": "Qu\u00e9 Rico Repetirlo",
+        "url": "https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Qu\u00e9 Rico Repetirlo",
+      "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
     },
     {
       "added_at": "2023-03-10 16:25:57",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-03-10 16:25:57",
       "album": {
-        "name": "Que Pvter\u00eda",
-        "url": "https://open.spotify.com/album/2azP4Xmddy56fIbFoHrAAu"
-      },
-      "artists": [
-        {
-          "name": "West Blanco",
-          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
-        }
-      ],
-      "duration_ms": 143266,
-      "name": "Que Pvter\u00eda",
-      "url": "https://open.spotify.com/track/1Cu2XVeJznrcbS2r6iOLNZ"
-    },
-    {
-      "added_at": "2023-03-10 16:25:57",
-      "album": {
         "name": "X Ti Lo Digo",
         "url": "https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 191323,
       "name": "X Ti Lo Digo",
       "url": "https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe"
+    },
+    {
+      "added_at": "2023-03-10 16:25:57",
+      "album": {
+        "name": "Que Pvter\u00eda",
+        "url": "https://open.spotify.com/album/2azP4Xmddy56fIbFoHrAAu"
+      },
+      "artists": [
+        {
+          "name": "West Blanco",
+          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+        }
+      ],
+      "duration_ms": 143266,
+      "name": "Que Pvter\u00eda",
+      "url": "https://open.spotify.com/track/1Cu2XVeJznrcbS2r6iOLNZ"
     },
     {
       "added_at": "2023-03-10 16:25:57",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-03-10 16:25:57",
       "album": {
+        "name": "Guilla",
+        "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "Guilla",
+      "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
+    },
+    {
+      "added_at": "2023-03-10 16:25:57",
+      "album": {
         "name": "N\u00facleo",
         "url": "https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 197312,
       "name": "Codigo Secreto",
       "url": "https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1"
-    },
-    {
-      "added_at": "2023-03-10 16:25:57",
-      "album": {
-        "name": "Guilla",
-        "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
-      },
-      "artists": [
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "Guilla",
-      "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
     },
     {
       "added_at": "2023-03-10 16:25:57",

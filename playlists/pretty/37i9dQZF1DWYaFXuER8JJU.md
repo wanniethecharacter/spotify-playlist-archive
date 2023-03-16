@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del norteño en vivo\. Remmy Valenzuela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,259 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,323 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 | 69 | [Rinconcito En El Cielo](https://open.spotify.com/track/2d5QYDvueydmhQPJSD3BzY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 4:27 |
 | 70 | [Un Desengaño \- En Vivo](https://open.spotify.com/track/1PBhvzxmdxxoRdI99PFSC0) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [En Vivo Desde la Fogata](https://open.spotify.com/album/3xDPeYuM5SmhtNKTlkEHAk) | 3:20 |
 | 71 | [Prenda Querida \- En Vivo](https://open.spotify.com/track/4S5jpsXo0KGT73gMqGEWzy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:28 |
-| 72 | [La Pasadita \- En Vivo](https://open.spotify.com/track/5drGB8Ndu2UNBzx6lxssKF) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [En Vivo F.P.](https://open.spotify.com/album/4KidE7Z3S1i4ZuTPHJyblk) | 3:34 |
+| 72 | [Mi Ranchito Querido \- En Vivo](https://open.spotify.com/track/3vibRA79JnuCOLyQXBsWXX) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [En Vivo F.P.](https://open.spotify.com/album/4KidE7Z3S1i4ZuTPHJyblk) | 3:56 |
 | 73 | [Vida Ventajosa \- En Vivo](https://open.spotify.com/track/0l4zWludXr8sxHlYtleBV9) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Recordando los Inicios \(En Vivo\)](https://open.spotify.com/album/1h5zAN0B3z5IUnaXFg6H6B) | 2:57 |
 | 74 | [Simplemente Gracias \- En Vivo](https://open.spotify.com/track/7kTbcfiAVDGv2VBxddSrEf) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:37 |
-| 75 | [Mi Ranchito Querido \- En Vivo](https://open.spotify.com/track/3vibRA79JnuCOLyQXBsWXX) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [En Vivo F.P.](https://open.spotify.com/album/4KidE7Z3S1i4ZuTPHJyblk) | 3:56 |
+| 75 | [La Pasadita \- En Vivo](https://open.spotify.com/track/5drGB8Ndu2UNBzx6lxssKF) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [En Vivo F.P.](https://open.spotify.com/album/4KidE7Z3S1i4ZuTPHJyblk) | 3:34 |
 
-Snapshot ID: `MTY3NDA4NzUyNCwwMDAwMDAwMGQ3MTMyZjA2MTM4ZmJlYWVhMjU4ZmU0ZDJmNzQ2Yjg1`
+Snapshot ID: `MTY3NDA4NzUyNCwwMDAwMDAwMGZhZmVmYjdkOGU0YjJhMWVkZGEwMTgxODFiM2VhNGVj`

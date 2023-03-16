@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best Latin Indie tracks right now, featuring maye.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,975 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,007 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 45 | [Match](https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Match](https://open.spotify.com/album/3kx5G9S55HO7FRFOK3rJ79) | 3:25 |
 | 46 | [un poco más](https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:18 |
 | 47 | [Perreo Bonito](https://open.spotify.com/track/1JiXHnf0TqWFuKiFeGChHz) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Perreo Bonito](https://open.spotify.com/album/0HCSF1DdzkwdJjhIyB026B) | 3:07 |
-| 48 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 |
-| 49 | [SUBCONSCIENTE](https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:38 |
+| 48 | [SUBCONSCIENTE](https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:38 |
+| 49 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 |
 | 50 | [FRESH](https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [MIMO](https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21) | 2:31 |
 | 51 | [Golden Mirror](https://open.spotify.com/track/3rySmg1BCN3yA4FcqVvSIX) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [It Was a Home](https://open.spotify.com/album/03ik0WUdejkxQy4Jc4iexg) | 3:44 |
 | 52 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 69 | [DARK CLOUDS](https://open.spotify.com/track/2DR4WqM6nPQu9WYZkfA3h4) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [DARK CLOUDS](https://open.spotify.com/album/24TvL2gRe3EGpHOQ36fjWz) | 3:08 |
 | 70 | [Yo Creo en el Amor](https://open.spotify.com/track/7dZ72UcLeePwDC56oMzEtz) | [REIIINA](https://open.spotify.com/artist/5rMLCHF00RKiN5BQxjUBLT) | [Yo Creo en el Amor](https://open.spotify.com/album/5aazCzx0PIyWPw1DfoUPQQ) | 2:51 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGUxNTY2OTU2NWZkMmIyMDc0ODY4YmNkNGMxYTk1MjMx`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGVhMDQ5ZWIwZDY4ZGRlNGRlMzk3ZGQxMzY5NWFkNzk1`

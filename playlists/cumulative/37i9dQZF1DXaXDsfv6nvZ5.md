@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-190 songs - 12 hr 2 min
+191 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Can I Call You Rose?](https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:10 | 2022-08-26 |  |
 | [Can We Be Friends?](https://open.spotify.com/track/0dQ5ByUHcI2ngYfUhCqNLP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Can We Be Friends?](https://open.spotify.com/album/5HqBHeAw3CNbWqu4U3aw6o) | 2:56 | 2021-12-03 | 2022-07-29 |
 | [Can We Be Friends?](https://open.spotify.com/track/0dSUVLUIEtbKdbpq39qPI8) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:56 | 2022-03-11 | 2022-08-27 |
+| [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 | 2023-03-10 |  |
 | [Close Your Eyes](https://open.spotify.com/track/20LWQNq7yaMPDhkZsRCoMk) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Dream Awake](https://open.spotify.com/album/0dwlqqTeFovdI0oMN4dfYQ) | 3:23 | 2022-03-11 | 2022-09-10 |
 | [Coastin' \[Feat\. Lalah Hathaway\]](https://open.spotify.com/track/5vsi5OWrEj1J3MFzKD5GTJ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Coastin'](https://open.spotify.com/album/5yoCMolsZFuzsrWK8LAKin) | 3:40 | 2022-09-09 | 2022-10-20 |
 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2021-12-03 |  |
@@ -67,7 +68,7 @@
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2022-11-11 |  |
 | [Foolish](https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5) | [Natanya Popoola](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Foolish](https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH) | 3:48 | 2022-09-09 | 2022-11-19 |
 | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld) | 5:17 | 2021-12-03 |  |
-| [FOREVER](https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [FOREVER](https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1) | 4:00 | 2022-11-18 |  |
+| [FOREVER](https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [FOREVER](https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1) | 4:00 | 2022-11-18 | 2023-03-16 |
 | [Forgive Them \- Live](https://open.spotify.com/track/52sbd2ZlFF3PLm0wO3EFL6) | [Good Compenny](https://open.spotify.com/artist/4FKlCbh9ZcLpAstEEVsUR1), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Forgive Them \(Live\)](https://open.spotify.com/album/01HrHhWzdHjnhHzX57HUTa) | 4:03 | 2023-02-03 |  |
 | [Fragile](https://open.spotify.com/track/5nwDAjkr2u2iVvjdeLockj) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Fragile](https://open.spotify.com/album/05D1HS6QdWPPZCuIDGeRhO) | 4:02 | 2021-12-03 | 2022-07-20 |
 | [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 | 2022-10-14 |  |

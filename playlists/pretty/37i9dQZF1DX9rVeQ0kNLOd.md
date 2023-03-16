@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,924 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,932 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 9 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 |
 | 10 | [前夜](https://open.spotify.com/track/57M5gx8YCxENPqSgNFoi8c) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [余白にいたら、](https://open.spotify.com/album/7FRSMhZwqwmU1kmmqyljCW) | 2:49 |
 | 11 | [カタコト](https://open.spotify.com/track/1uYDXSXxBBZSNUs2dfbTxT) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [カタコト](https://open.spotify.com/album/0YhpfFtWqIZxnHLgnURBA7) | 2:38 |
-| 12 | [SORA](https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh) | 2:52 |
+| 12 | [SORA](https://open.spotify.com/track/3dGWJ8UlemnEV4WycKW3hd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 2:52 |
 | 13 | [Like No One's Done](https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Like No One's Done](https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ) | 3:55 |
 | 14 | [Conflict](https://open.spotify.com/track/6riC3JbelswTdXrOyuREzM) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Conflict](https://open.spotify.com/album/2nQEY7KQXip32OrIyOGJc4) | 2:47 |
 | 15 | [Mermaid](https://open.spotify.com/track/5KpPfyynOV0kCOaHXd5eeb) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw) | [Mermaid](https://open.spotify.com/album/5bmgJcXApczi08TVQGNR8F) | 2:54 |
 | 16 | [Wonderland](https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shade](https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB) | 3:44 |
-| 17 | [美談](https://open.spotify.com/track/4CjfEPZ9S0Rh8sZXqVL45Y) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 4:50 |
+| 17 | [Bidan](https://open.spotify.com/track/0fJ3AlXNydfMNIBA5OuqiI) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 4:50 |
 | 18 | [鯨の子](https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [鯨の子](https://open.spotify.com/album/72OedMUACIRxK4gVHnPgKB) | 4:13 |
 | 19 | [Memories](https://open.spotify.com/track/726gUResvdS7FXReBGl16R) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [Memories](https://open.spotify.com/album/5lCAfl4vZl0hmZbaLHhRlM) | 3:38 |
 | 20 | [Have a nice day](https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Have a nice day](https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l) | 2:55 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 42 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 |
 | 43 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 |
 | 44 | [Limbo](https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Limbo](https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1) | 3:15 |
-| 45 | [夢で逢えたら](https://open.spotify.com/track/3dTszgeHELrjirdYr5cjr1) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [夢で逢えたら](https://open.spotify.com/album/1ULNF5G2B4FJFqPuOJiaCy) | 4:05 |
-| 46 | [Flower](https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [20 \(Complete Mixtape\)](https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD) | 3:28 |
+| 45 | [Flower](https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [20 \(Complete Mixtape\)](https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD) | 3:28 |
+| 46 | [夢で逢えたら](https://open.spotify.com/track/3dTszgeHELrjirdYr5cjr1) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [夢で逢えたら](https://open.spotify.com/album/1ULNF5G2B4FJFqPuOJiaCy) | 4:05 |
 | 47 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 |
 | 48 | [タイムマシーン](https://open.spotify.com/track/6VVdhvbvGJZdm8f2f6ZKYo) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [TIME LEAP](https://open.spotify.com/album/1LSdYXveZ1weRohT3cAW9B) | 3:52 |
-| 49 | [Suisei × Konyawa Boogie Back nice vocal meets Yuri on ICE](https://open.spotify.com/track/7oXFJ9YPy0KXKA4IhrCDXG) | [Minami](https://open.spotify.com/artist/5vzP98uJshmJE7tpNwYIgX), [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [Suisei × Konyawa Boogie Back nice vocal meets Yuri on ICE](https://open.spotify.com/album/2rQT69zCV0SKyFZ0YoMkpR) | 3:56 |
+| 49 | [Neon wo Keshite](https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [The Youth Night](https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp) | 3:23 |
 | 50 | [something](https://open.spotify.com/track/0rL3ksbcpreSl6lMDPMqZ3) | [Aco Kawai](https://open.spotify.com/artist/10xDsE7RRrKil5bVXk2hsJ) | [something](https://open.spotify.com/album/2ctyx8VCJH5qJOACnsr9fl) | 4:02 |
 
-Snapshot ID: `MTY3ODc1MjAyMywwMDAwMDAwMDRhYjkzYTA2ODRlMWE2YWJkNDQ0MWU1ZDc1YmViM2Q1`
+Snapshot ID: `MTY3ODc1MjAyMywwMDAwMDAwMDcwZmM1OGRlNDgzODRjMDY3MzU5NjE3OTg4OWM1YjRh`

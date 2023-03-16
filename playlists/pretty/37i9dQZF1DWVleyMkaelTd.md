@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,781 likes - 111 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,901 likes - 110 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 5 | [River of Dreams](https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 3:03 |
 | 6 | [I Left My Heart in San Francisco](https://open.spotify.com/track/6p2Qx196CPwdcxKE7eweKi) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [I Left My Heart in San Francisco](https://open.spotify.com/album/6ZagCmpNLdmAjSxVOmjLot) | 3:43 |
 | 7 | [Cosme Velho](https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [Cosme Velho](https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0) | 2:53 |
-| 8 | [Nana](https://open.spotify.com/track/7hZgnIYynYjpYPQ5lcvUXm) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Nana](https://open.spotify.com/album/7JXX0EsuHWnOweuAmeb484) | 4:33 |
-| 9 | [Vespertine](https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34) | [Hiro Suzuki](https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth) | [Vespertine](https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR) | 7:00 |
-| 10 | [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 |
-| 11 | [Woodblock Print](https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Green Grapes](https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ) | 3:44 |
-| 12 | [O Qué e Amar](https://open.spotify.com/track/23yWKIqw0l0oYRYWE2wJpe) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [O Qué e Amar](https://open.spotify.com/album/5aQw0jC4z1hDAqlb5Tcngu) | 2:53 |
+| 8 | [Vespertine](https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34) | [Hiro Suzuki](https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth) | [Vespertine](https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR) | 7:00 |
+| 9 | [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 |
+| 10 | [Woodblock Print](https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Green Grapes](https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ) | 3:44 |
+| 11 | [O Qué e Amar](https://open.spotify.com/track/23yWKIqw0l0oYRYWE2wJpe) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [O Qué e Amar](https://open.spotify.com/album/5aQw0jC4z1hDAqlb5Tcngu) | 2:53 |
+| 12 | [Nana](https://open.spotify.com/track/7hZgnIYynYjpYPQ5lcvUXm) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Nana](https://open.spotify.com/album/7JXX0EsuHWnOweuAmeb484) | 4:33 |
 | 13 | [Águas Do Passado](https://open.spotify.com/track/6ulw6HXEydYkLMsVGmXJ5w) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Águas Do Passado](https://open.spotify.com/album/62Xpg12xzDi7g9q7Hyf0zp) | 2:22 |
 | 14 | [Pão de Açúcar](https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [Pão de Açúcar](https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM) | 3:42 |
 | 15 | [North Carolina](https://open.spotify.com/track/6EmTdoIgJe8PygIqxJ48iu) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [North Carolina](https://open.spotify.com/album/5CSBOCtfPDZdagmDqyvb81) | 2:54 |
@@ -68,14 +68,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 58 | [Um Dia No Mar](https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Um Dia No Mar](https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U) | 2:41 |
 | 59 | [Bela Moça](https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 3:16 |
 | 60 | [Wave](https://open.spotify.com/track/36kfJw6wpEm34AcTrOQqpn) | [Quarteto ilha grande](https://open.spotify.com/artist/4FUgUq2s87clLndwIIqcO3) | [Once I Loved](https://open.spotify.com/album/4FX2RCNuuxdLzMiN1CtOxi) | 5:11 |
-| 61 | [Drive\-Through Dinner](https://open.spotify.com/track/6xUyKTOx2LBGTlWz6Ndlvs) | [Magnus Ringblom](https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb) | [Blue Night Bossa](https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7) | 3:24 |
-| 62 | [Light Dance](https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Light Dance](https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ) | 3:39 |
-| 63 | [Falando de Amor](https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe) | [Rosa Collins](https://open.spotify.com/artist/3ODYl7kPOjcfxnnjHz2zLe) | [Falando de Amor](https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y) | 4:16 |
-| 64 | [Song for My Father](https://open.spotify.com/track/6m4SAo4N6YGD5JJCLFoPDU) | [Sydney Taylor Band](https://open.spotify.com/artist/2M3GH9JFk7Z62j2XarUJ1g) | [Killer Joe](https://open.spotify.com/album/27bI53AGLeovNbXmBzUnN2) | 3:42 |
-| 65 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO) | 3:25 |
-| 66 | [O Sabor Mais Doce](https://open.spotify.com/track/0hWp43PwXj9zQl6ZZDFYRm) | [Jeferson Rios](https://open.spotify.com/artist/4PswPp5S57DQ5RJ39Y5Fj6) | [O Sabor Mais Doce](https://open.spotify.com/album/1sdxkpmLhPsz8JI1dunCFo) | 3:03 |
-| 67 | [Triste](https://open.spotify.com/track/6PNnw3AFDCwNV6uDcNjnQ4) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Triste](https://open.spotify.com/album/1cWLEhykpxcgb1QABboKt1) | 3:12 |
-| 68 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 |
+| 61 | [Light Dance](https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Light Dance](https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ) | 3:39 |
+| 62 | [Falando de Amor](https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe) | [Rosa Collins](https://open.spotify.com/artist/3ODYl7kPOjcfxnnjHz2zLe) | [Falando de Amor](https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y) | 4:16 |
+| 63 | [Song for My Father](https://open.spotify.com/track/6m4SAo4N6YGD5JJCLFoPDU) | [Sydney Taylor Band](https://open.spotify.com/artist/2M3GH9JFk7Z62j2XarUJ1g) | [Killer Joe](https://open.spotify.com/album/27bI53AGLeovNbXmBzUnN2) | 3:42 |
+| 64 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO) | 3:25 |
+| 65 | [O Sabor Mais Doce](https://open.spotify.com/track/0hWp43PwXj9zQl6ZZDFYRm) | [Jeferson Rios](https://open.spotify.com/artist/4PswPp5S57DQ5RJ39Y5Fj6) | [O Sabor Mais Doce](https://open.spotify.com/album/1sdxkpmLhPsz8JI1dunCFo) | 3:03 |
+| 66 | [Triste](https://open.spotify.com/track/6PNnw3AFDCwNV6uDcNjnQ4) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Triste](https://open.spotify.com/album/1cWLEhykpxcgb1QABboKt1) | 3:12 |
+| 67 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 |
+| 68 | [Drive\-Through Dinner](https://open.spotify.com/track/6xUyKTOx2LBGTlWz6Ndlvs) | [Magnus Ringblom](https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb) | [Blue Night Bossa](https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7) | 3:24 |
 | 69 | [Calmaria](https://open.spotify.com/track/15FJtMcEK4SoZC1mVxuQ55) | [Newton Bossa Trio](https://open.spotify.com/artist/6IjGZqlalneM5p6nkHsKCX) | [Calmaria](https://open.spotify.com/album/10buLmtbI3B527DorE20FJ) | 5:22 |
 | 70 | [Ceora](https://open.spotify.com/track/44PaZQ3GpcmSaxyaxXmSM9) | [Soho Quartet](https://open.spotify.com/artist/3aTm2ir7MmRflowueIXZqA) | [Moontrane](https://open.spotify.com/album/33qv9JCJspR9SXs9nUqClp) | 2:26 |
 | 71 | [Ataraxia](https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Ataraxia](https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk) | 3:03 |
@@ -115,9 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 105 | [Desafinado](https://open.spotify.com/track/5WhNEjI1UPLRFk3AP3uF3f) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [One For Roy](https://open.spotify.com/album/78OzDMPIdZQrYb5lnRLby2) | 3:47 |
 | 106 | [Little Sunflower](https://open.spotify.com/track/6EBzxEkM0l4UkRBhqj3JWn) | [Mitchell Jackson Quartet](https://open.spotify.com/artist/6zV8mNPXyQHoNMxGxlcQXF) | [Soul Eyes](https://open.spotify.com/album/6Y1sADHp2yDRkT6iCPKYTG) | 4:23 |
 | 107 | [Sonhar Acordado](https://open.spotify.com/track/19mMhSofoLJlqIEDy46fZ2) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 4:37 |
-| 108 | [Estate](https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 7:22 |
-| 109 | [A Paz](https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA) | [Luiz Lucas](https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p) | [Anos Dourados](https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx) | 5:33 |
-| 110 | [Bésame Mucho](https://open.spotify.com/track/7Kh9w5XOJqykS2IpTdZC8X) | [Cristiana Cunha](https://open.spotify.com/artist/3W5iyQ6JGJHqSgNtq86GrT) | [Bésame Mucho](https://open.spotify.com/album/0XpWh98WxM7rtw67TfHh38) | 3:26 |
-| 111 | [Só Tinha de Ser com Você](https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806) | [Joao Silva Oliveira](https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq) | [Só Tinha de Ser com Você](https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n) | 3:58 |
+| 108 | [A Paz](https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA) | [Luiz Lucas](https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p) | [Anos Dourados](https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx) | 5:33 |
+| 109 | [Bésame Mucho](https://open.spotify.com/track/7Kh9w5XOJqykS2IpTdZC8X) | [Cristiana Cunha](https://open.spotify.com/artist/3W5iyQ6JGJHqSgNtq86GrT) | [Bésame Mucho](https://open.spotify.com/album/0XpWh98WxM7rtw67TfHh38) | 3:26 |
+| 110 | [Só Tinha de Ser com Você](https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806) | [Joao Silva Oliveira](https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq) | [Só Tinha de Ser com Você](https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n) | 3:58 |
 
-Snapshot ID: `MTY3ODI4MzUxOCwwMDAwMDAwMGE3ZWNhMjRkYjUzNjc4YzMzMmIzYzY2YWYwNDkyODUz`
+Snapshot ID: `MTY3ODg3MTcyMywwMDAwMDAwMDY5OWY1OGI0MWQ0Mzc5M2E2YTA1YzEzNTA3NjM0YmE1`

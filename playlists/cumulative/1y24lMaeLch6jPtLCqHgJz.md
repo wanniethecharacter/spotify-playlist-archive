@@ -4,7 +4,7 @@
 
 > The biggest Progressive House anthems of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-124 songs - 6 hr 29 min
+125 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Memories](https://open.spotify.com/track/2c2Nne1QtjxR8sIc6ShuAV) | [AN3M](https://open.spotify.com/artist/5kpb3keizgJ6qq8QkPIBHv), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Memories](https://open.spotify.com/album/0SCtOAO2qV1sAA0AFy46G2) | 3:13 | 2022-07-29 |  |
 | [Memory](https://open.spotify.com/track/3mZ9iEe21mY35SIRm6D3gP) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [Memory](https://open.spotify.com/album/2FukjkZdxYfvZUDBkFymVh) | 2:42 | 2022-07-29 | 2022-10-15 |
 | [Monster](https://open.spotify.com/track/7KKKa4Y1x32MIGeb3MA34K) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [Monster](https://open.spotify.com/album/1tInUyai2CNWOmuVFqdSRY) | 3:27 | 2022-07-29 |  |
+| [Need You Now](https://open.spotify.com/track/5xFmdyGJaxOaK9zIMCFYl2) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [SGNLS](https://open.spotify.com/artist/6EcB0bwiONGgJhKRNLqXh7) | [Revealed Recordings presents Miami Sampler 2023](https://open.spotify.com/album/23tQ9GxlcWr3DNz9lLCMBt) | 3:25 | 2023-03-15 |  |
 | [Neon Skies \(Forever\)](https://open.spotify.com/track/6HKiW0mzPPVsvwAEgaAbgK) | [Roy Orion](https://open.spotify.com/artist/5vDWsMvaFghBZj9e6y8qSk), [Riley James](https://open.spotify.com/artist/5jRgxHYG8ayHyuBTSQjiGg), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Neon Skies \(Forever\)](https://open.spotify.com/album/2FE1akqpewaVzs7gTAAH6s) | 3:28 | 2022-07-29 |  |
 | [Never Let Me Go](https://open.spotify.com/track/3wQiNI1ueKtYh1dHtnJdRF) | [Trevor Omoto](https://open.spotify.com/artist/4pPAzgTbXAwdRjMokhcwtx), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Never Let Me Go](https://open.spotify.com/album/5in7Q79BZCxGCd1zAuwFBR) | 3:09 | 2022-07-29 | 2022-12-10 |
 | [Nobody](https://open.spotify.com/track/12XrVYZxVnT1sn7tsAGxI8) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Jac & Harri](https://open.spotify.com/artist/3o2JkvV32a6n4Xwf585pmT), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Nobody](https://open.spotify.com/album/4MVzhwSuAdAFCVfDXds5ra) | 3:03 | 2022-07-29 |  |

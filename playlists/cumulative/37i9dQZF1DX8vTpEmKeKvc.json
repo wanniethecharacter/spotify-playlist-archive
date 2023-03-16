@@ -1939,6 +1939,32 @@
     },
     {
       "album": {
+        "name": "Puta Rara, Puta Dominicana",
+        "url": "https://open.spotify.com/album/2xqmPcHXQztVVlb3hoFRmB"
+      },
+      "artists": [
+        {
+          "name": "MC Menor MT",
+          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
+        },
+        {
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        },
+        {
+          "name": "marceu inovadora",
+          "url": "https://open.spotify.com/artist/2LfXtJH9QZUqz0mawPsBY7"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140643,
+      "name": "Puta Rara, Puta Dominicana",
+      "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
+    },
+    {
+      "album": {
         "name": "Que a Pasao",
         "url": "https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo"
       },

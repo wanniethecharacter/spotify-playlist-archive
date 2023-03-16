@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 8923,
+  "num_followers": 8930,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGYxYmI2NDU0ZDUxYzFhMzQzMWI4NTU0MWFlOTBjODU5",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDljM2MxN2MzM2Q4YjQxMDhhYWM0OWJiYmM3Mzk4NDMz",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Brik Pan Brik",
+        "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 160724,
+      "name": "Brik Pan Brik",
+      "url": "https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Parts Of The Puzzle",
         "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
       },
@@ -143,18 +159,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Brik Pan Brik",
-        "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
+        "name": "Gyal You a Party Animal",
+        "url": "https://open.spotify.com/album/0AuidICCpJQTwjMajndF4h"
       },
       "artists": [
         {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
         }
       ],
-      "duration_ms": 160724,
-      "name": "Brik Pan Brik",
-      "url": "https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG"
+      "duration_ms": 214455,
+      "name": "Gyal You a Party Animal",
+      "url": "https://open.spotify.com/track/6bOLRTULQUiXeVnxOIPZVA"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -179,22 +195,6 @@
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Gyal You a Party Animal",
-        "url": "https://open.spotify.com/album/0AuidICCpJQTwjMajndF4h"
-      },
-      "artists": [
-        {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        }
-      ],
-      "duration_ms": 214455,
-      "name": "Gyal You a Party Animal",
-      "url": "https://open.spotify.com/track/6bOLRTULQUiXeVnxOIPZVA"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Tic It & Tac It",
-        "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
-      },
-      "artists": [
-        {
-          "name": "BoBo",
-          "url": "https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK"
-        }
-      ],
-      "duration_ms": 123500,
-      "name": "Tic It & Tac It",
-      "url": "https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Demon Girl",
         "url": "https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 202422,
       "name": "Demon Girl",
       "url": "https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Tic It & Tac It",
+        "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
+      },
+      "artists": [
+        {
+          "name": "BoBo",
+          "url": "https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK"
+        }
+      ],
+      "duration_ms": 123500,
+      "name": "Tic It & Tac It",
+      "url": "https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -747,6 +747,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Knock About Riddim",
+        "url": "https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw"
+      },
+      "artists": [
+        {
+          "name": "System32",
+          "url": "https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20"
+        },
+        {
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "We Outside",
+      "url": "https://open.spotify.com/track/2tQ4YMW7iOA6pbA4Zb87sT"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Conch Shell",
         "url": "https://open.spotify.com/album/2HAyottRa9yxUIiZXx2xLQ"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 192198,
       "name": "Conch Shell",
       "url": "https://open.spotify.com/track/6NVR4oBAlPuuvpsYSZcyJF"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Knock About Riddim",
-        "url": "https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw"
-      },
-      "artists": [
-        {
-          "name": "System32",
-          "url": "https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20"
-        },
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "We Outside",
-      "url": "https://open.spotify.com/track/2tQ4YMW7iOA6pbA4Zb87sT"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Rats Hole Riddim",
+        "url": "https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl"
+      },
+      "artists": [
+        {
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Stink Behavior",
         "url": "https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 211022,
       "name": "Stink Behavior",
       "url": "https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Rats Hole Riddim",
-        "url": "https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl"
-      },
-      "artists": [
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Bus a Wine",
-        "url": "https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        },
-        {
-          "name": "Fay-Ann Lyons",
-          "url": "https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Bus a Wine",
-      "url": "https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Jollof Rice Riddim",
         "url": "https://open.spotify.com/album/4twnYdvTuLBX29k0AImPAB"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 181805,
       "name": "Wuk",
       "url": "https://open.spotify.com/track/5e9KCW4doT8xvliiDO8urK"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Bus a Wine",
+        "url": "https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        },
+        {
+          "name": "Fay-Ann Lyons",
+          "url": "https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "Bus a Wine",
+      "url": "https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Toatin Riddim",
-        "url": "https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv"
-      },
-      "artists": [
-        {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
-        },
-        {
-          "name": "Team Foxx",
-          "url": "https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM"
-        }
-      ],
-      "duration_ms": 151588,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/0MaI2ZRUC1atONjvt5Jr6T"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Sick Jab Riddim (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 135941,
       "name": "The People Man (T.P.M.)",
       "url": "https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Toatin Riddim",
+        "url": "https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        },
+        {
+          "name": "Team Foxx",
+          "url": "https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM"
+        }
+      ],
+      "duration_ms": 151588,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/0MaI2ZRUC1atONjvt5Jr6T"
     }
   ],
   "unique_name": "Soca Bashment",

@@ -21677,6 +21677,24 @@
     },
     {
       "album": {
+        "name": "Safe to Say",
+        "url": "https://open.spotify.com/album/0eVMPMPls6MrxEMJksMrus"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211226,
+      "name": "Safe to Say",
+      "url": "https://open.spotify.com/track/4znoyzzTFrgw6Pb6kIyVpI"
+    },
+    {
+      "album": {
         "name": "Salir",
         "url": "https://open.spotify.com/album/3yTS8NyDJBjuyM5WtLX6Nl"
       },
@@ -22526,7 +22544,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 217258,
       "name": "SHOULD I BE OK?",
       "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
@@ -25265,6 +25283,24 @@
     },
     {
       "album": {
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165317,
+      "name": "T.M.I",
+      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
+    },
+    {
+      "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
@@ -26870,7 +26906,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 160613,
       "name": "Trophy",
       "url": "https://open.spotify.com/track/40VBfrp9qMTMcFYpYUMj9p"

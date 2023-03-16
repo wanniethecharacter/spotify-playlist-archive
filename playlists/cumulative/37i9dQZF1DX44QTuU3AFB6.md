@@ -4,7 +4,7 @@
 
 > ¡Rolas pa' sacar las chelas y el tequila!
 
-446 songs - 1 day 0 hr 1 min
+447 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,8 @@
 | [Que Te Arde](https://open.spotify.com/track/6ixdsAs9IVKnbl87a7ibJ9) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp), [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [Que Te Arde](https://open.spotify.com/album/0ACkGvgwh78OmMjGgn0GfW) | 3:03 | 2022-05-20 | 2022-08-06 |
 | [Que Te Ruegue Quien Te Quiera](https://open.spotify.com/track/6CMUbdue9apkMR5RvIuA3H) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:05 | 2022-05-20 | 2022-08-06 |
 | [Que Te Ruegue Quien Te Quiera](https://open.spotify.com/track/4AooK5Hh8OZkZ1XjvVGuTY) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Por Ti](https://open.spotify.com/album/0oCg05h5zGhBR6G1iF6VsZ) | 3:06 | 2022-05-20 | 2022-10-15 |
-| [Que Te Vaya Bien](https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Que Te Vaya Bien](https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW) | 2:31 | 2022-10-21 |  |
+| [Que Te Vaya Bien](https://open.spotify.com/track/5Ei8EK2uXNkqqVSe2QYsFp) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:31 | 2023-01-27 |  |
+| [Que Te Vaya Bien](https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Que Te Vaya Bien](https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW) | 2:31 | 2022-10-21 | 2023-03-16 |
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2022-12-31 |  |
 | [Quedate Conmigo Esta Noche](https://open.spotify.com/track/694CyIR0ghq9USCLU4F6sc) | [Chuy Vega](https://open.spotify.com/artist/3hjrGFp8ocEsDoHgkzAd4A) | [Puras de Juan Gabriel, vol\. 2](https://open.spotify.com/album/3vPgQxFr1vdoiKIdbtg911) | 3:32 | 2022-10-14 | 2022-10-22 |
 | [Quien Aguanta a Quien \- En Vivo](https://open.spotify.com/track/3Ib4I963Dqa9dsjIIyjlBh) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Quien Aguanta A Quien \(En Vivo\)](https://open.spotify.com/album/18Jt1UywJ5ouJ7RUbvkSAS) | 2:54 | 2022-05-20 | 2022-08-06 |

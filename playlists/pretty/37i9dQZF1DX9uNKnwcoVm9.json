@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 217202,
+  "num_followers": 217363,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDgyNWU4ZDQ3MTliZjNkN2RlYTBkM2YwNjM2OTIzMTkw",
+  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDBjMTE5MmI3OTA4MmRhNWYwNjA5YWUzZGM4ZTBlNzlk",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -147,22 +147,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Gente Comun Sue\u00f1os Extraordinarios",
-        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 302471,
-      "name": "Creere",
-      "url": "https://open.spotify.com/track/2ORT42xQNKCKIEzIIqxbEv"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Listo Para Nuestro Encuentro",
         "url": "https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 204493,
       "name": "El Padre Que Siempre So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Gente Comun Sue\u00f1os Extraordinarios",
+        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 302471,
+      "name": "Creere",
+      "url": "https://open.spotify.com/track/2ORT42xQNKCKIEzIIqxbEv"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -555,18 +555,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Irreversible",
-        "url": "https://open.spotify.com/album/1swzvWIqMQtG6Z0HA8KoYV"
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S"
       },
       "artists": [
         {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
         }
       ],
-      "duration_ms": 260363,
-      "name": "No Crezcas Mas",
-      "url": "https://open.spotify.com/track/1RsBgR6T1Put9AD0qPl3Cm"
+      "duration_ms": 330973,
+      "name": "Soy Un Altar",
+      "url": "https://open.spotify.com/track/0b8Sxqx5Lt8mgU4xPsm7Hr"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S"
-      },
-      "artists": [
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 330973,
-      "name": "Soy Un Altar",
-      "url": "https://open.spotify.com/track/0b8Sxqx5Lt8mgU4xPsm7Hr"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Jes\u00fas Mi Fiel Amigo (En Vivo)",
         "url": "https://open.spotify.com/album/1Gfe5J0a7yrs4FsDtuAiQA"
       },
@@ -675,8 +659,24 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Eres Todopoderoso",
-        "url": "https://open.spotify.com/album/6ykvhppb9hjACDxW3pVgMD"
+        "name": "Irreversible",
+        "url": "https://open.spotify.com/album/1swzvWIqMQtG6Z0HA8KoYV"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 260363,
+      "name": "No Crezcas Mas",
+      "url": "https://open.spotify.com/track/1RsBgR6T1Put9AD0qPl3Cm"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Devoci\u00f3n",
+        "url": "https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
-      "duration_ms": 258716,
-      "name": "El Se\u00f1or es mi pastor",
-      "url": "https://open.spotify.com/track/49PeNHITwNkd2gIP4zMOoQ"
+      "duration_ms": 296546,
+      "name": "Bendito Jesus",
+      "url": "https://open.spotify.com/track/2RW5lhGNfI0dKwVrx446iT"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -723,22 +723,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Santo Es El Se\u00f1or",
-        "url": "https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS"
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S"
       },
       "artists": [
         {
-          "name": "Palabra en Acci\u00f3n",
-          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
-        },
-        {
-          "name": "Juan Carlos Alvarado",
-          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
         }
       ],
-      "duration_ms": 305040,
-      "name": "Yo Quiero Estar Donde Tu Est\u00e1s",
-      "url": "https://open.spotify.com/track/4yHpEcaH1WLJ2e6MlMXZXd"
+      "duration_ms": 319920,
+      "name": "Vengo A Adorarte",
+      "url": "https://open.spotify.com/track/0c7KZFqrJwvIlaVtmTsJh3"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -759,18 +755,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S"
+        "name": "Santo Es El Se\u00f1or",
+        "url": "https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS"
       },
       "artists": [
         {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+          "name": "Palabra en Acci\u00f3n",
+          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
+        },
+        {
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
         }
       ],
-      "duration_ms": 319920,
-      "name": "Vengo A Adorarte",
-      "url": "https://open.spotify.com/track/0c7KZFqrJwvIlaVtmTsJh3"
+      "duration_ms": 305040,
+      "name": "Yo Quiero Estar Donde Tu Est\u00e1s",
+      "url": "https://open.spotify.com/track/4yHpEcaH1WLJ2e6MlMXZXd"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -843,8 +843,8 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Devoci\u00f3n",
-        "url": "https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk"
+        "name": "Eres Todopoderoso",
+        "url": "https://open.spotify.com/album/6ykvhppb9hjACDxW3pVgMD"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
-      "duration_ms": 296546,
-      "name": "Bendito Jesus",
-      "url": "https://open.spotify.com/track/2RW5lhGNfI0dKwVrx446iT"
+      "duration_ms": 258716,
+      "name": "El Se\u00f1or es mi pastor",
+      "url": "https://open.spotify.com/track/49PeNHITwNkd2gIP4zMOoQ"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -875,26 +875,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Glorificad a Jehov\u00e1",
-        "url": "https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd"
-      },
-      "artists": [
-        {
-          "name": "Palabra en Acci\u00f3n",
-          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
-        },
-        {
-          "name": "Juan Carlos Alvarado",
-          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "Como Hizo David",
-      "url": "https://open.spotify.com/track/75IhuMXXHxnSCnaWKwPjSQ"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/4YXb45eHQPeutBVlzBKWfI"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 385733,
       "name": "\u00bfA Qui\u00e9n Ir\u00e9?",
       "url": "https://open.spotify.com/track/2n3PEgcF39O9S5z6gR0175"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Glorificad a Jehov\u00e1",
+        "url": "https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd"
+      },
+      "artists": [
+        {
+          "name": "Palabra en Acci\u00f3n",
+          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
+        },
+        {
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "Como Hizo David",
+      "url": "https://open.spotify.com/track/75IhuMXXHxnSCnaWKwPjSQ"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2dwTkrBFDyCq2uOCN7wg2E"
-      },
-      "artists": [
-        {
-          "name": "Shammai",
-          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
-        }
-      ],
-      "duration_ms": 244545,
-      "name": "Tu Corazo\u0301n",
-      "url": "https://open.spotify.com/track/214zEfKabCRcGKrMuQZRTi"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Por Fin en Casa",
         "url": "https://open.spotify.com/album/3ZkKbtlC0p5L6vgStrdRsq"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Cree Solamente",
-        "url": "https://open.spotify.com/album/3vHjJkngHJKd3bZjjIn6IZ"
+        "name": "Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2dwTkrBFDyCq2uOCN7wg2E"
       },
       "artists": [
         {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+          "name": "Shammai",
+          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
         }
       ],
-      "duration_ms": 278500,
-      "name": "Cree Solamente",
-      "url": "https://open.spotify.com/track/4G33FeKB2sM4W9bC4bSii4"
+      "duration_ms": 244545,
+      "name": "Tu Corazo\u0301n",
+      "url": "https://open.spotify.com/track/214zEfKabCRcGKrMuQZRTi"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1635,6 +1619,22 @@
       "duration_ms": 234057,
       "name": "Parece un Sueno",
       "url": "https://open.spotify.com/track/7LYLheF1lgAicmSeugSFR7"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Cree Solamente",
+        "url": "https://open.spotify.com/album/3vHjJkngHJKd3bZjjIn6IZ"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        }
+      ],
+      "duration_ms": 278500,
+      "name": "Cree Solamente",
+      "url": "https://open.spotify.com/track/4G33FeKB2sM4W9bC4bSii4"
     },
     {
       "added_at": "2020-11-24 13:23:38",

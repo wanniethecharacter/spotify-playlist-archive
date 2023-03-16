@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 30004,
+  "num_followers": 30032,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwMjgwMCwwMDAwMDAwMDY3OWY3MmRiZDZjMmE0ODdlZGVjMTA0NGFiNTBlZTk4",
+  "snapshot_id": "MTY3ODQwMjgwMCwwMDAwMDAwMDAzZjU5YWFiYzM0NjYwY2Q4Njc1YzlkZWVmN2RhMTFm",
   "tracks": [
     {
       "added_at": "2023-03-09 23:00:00",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "LIFTED",
         "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 183460,
       "name": "Lights Go Down (with SIDEPIECE)",
       "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Someday (Latroit Edition)",
         "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
       },
@@ -595,18 +611,18 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Drift",
-        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
       },
       "artists": [
         {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+          "name": "Cookie Crumble",
+          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
         }
       ],
-      "duration_ms": 164516,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
+      "duration_ms": 175169,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -631,22 +647,6 @@
       "duration_ms": 152903,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
-      },
-      "artists": [
-        {
-          "name": "Cookie Crumble",
-          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
-        }
-      ],
-      "duration_ms": 175169,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -691,6 +691,42 @@
       "duration_ms": 202501,
       "name": "Waves (feat. Grace Tither)",
       "url": "https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Lightning To Strike",
+        "url": "https://open.spotify.com/album/5ziGWAOle0QNNJw1iQRWgJ"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 178721,
+      "name": "Lightning To Strike",
+      "url": "https://open.spotify.com/track/2MAjcMaiYJdwFT3oAYLo03"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -815,26 +851,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Lightning To Strike",
-        "url": "https://open.spotify.com/album/5ziGWAOle0QNNJw1iQRWgJ"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 178721,
-      "name": "Lightning To Strike",
-      "url": "https://open.spotify.com/track/2MAjcMaiYJdwFT3oAYLo03"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "In The Sun",
         "url": "https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 152000,
       "name": "In The Sun",
       "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -883,30 +883,6 @@
       "duration_ms": 132927,
       "name": "I Blame You",
       "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 127021,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -967,18 +943,26 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
       },
       "artists": [
         {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Light A Fire",
-      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
+      "duration_ms": 127021,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Light A Fire",
+      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 136800,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "What You Do to Me",
-        "url": "https://open.spotify.com/album/2XtqLhPvm9V8V8l7U399Z1"
-      },
-      "artists": [
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 164388,
-      "name": "What You Do to Me",
-      "url": "https://open.spotify.com/track/1LXP8KNXO6PYx9HePA1JQW"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "What You Do to Me",
+        "url": "https://open.spotify.com/album/2XtqLhPvm9V8V8l7U399Z1"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 164388,
+      "name": "What You Do to Me",
+      "url": "https://open.spotify.com/track/1LXP8KNXO6PYx9HePA1JQW"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr"
-      },
-      "artists": [
-        {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
-        }
-      ],
-      "duration_ms": 180967,
-      "name": "Down To Earth",
-      "url": "https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Escaping",
         "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 164000,
       "name": "Escaping",
       "url": "https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr"
+      },
+      "artists": [
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        }
+      ],
+      "duration_ms": 180967,
+      "name": "Down To Earth",
+      "url": "https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
+      },
+      "artists": [
+        {
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 167380,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Blindly [Thom Merlin Remix]",
         "url": "https://open.spotify.com/album/1xJv5nuu2wpxNZReOAuzuJ"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 182839,
       "name": "Blindly [Thom Merlin Remix]",
       "url": "https://open.spotify.com/track/6l6viiPh9iUZbXuprWe0Dt"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
-      },
-      "artists": [
-        {
-          "name": "MNI",
-          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
-        },
-        {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
-        }
-      ],
-      "duration_ms": 167380,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Motorcycle",
-        "url": "https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri"
-      },
-      "artists": [
-        {
-          "name": "UOAK",
-          "url": "https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Motorcycle",
-      "url": "https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 184000,
       "name": "Floating",
       "url": "https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Motorcycle",
+        "url": "https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri"
+      },
+      "artists": [
+        {
+          "name": "UOAK",
+          "url": "https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Motorcycle",
+      "url": "https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Feelings After Dark (feat. NISHA)",
         "url": "https://open.spotify.com/album/2BuyHgSr8yy1LHEJCdMcBd"
       },
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Come Along",
         "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 164304,
       "name": "Come Along",
       "url": "https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "See You On The Other Side",
+        "url": "https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 241061,
+      "name": "See You On The Other Side",
+      "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "See You On The Other Side",
-        "url": "https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 241061,
-      "name": "See You On The Other Side",
-      "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 171944,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Winter's Going",
-        "url": "https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3"
-      },
-      "artists": [
-        {
-          "name": "Flantier",
-          "url": "https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96"
-        }
-      ],
-      "duration_ms": 200981,
-      "name": "Winter's Going",
-      "url": "https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1591,6 +1575,22 @@
       "duration_ms": 126147,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Winter's Going",
+        "url": "https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3"
+      },
+      "artists": [
+        {
+          "name": "Flantier",
+          "url": "https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96"
+        }
+      ],
+      "duration_ms": 200981,
+      "name": "Winter's Going",
+      "url": "https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O"
     }
   ],
   "unique_name": "Dance Chill",

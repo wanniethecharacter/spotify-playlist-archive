@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-287 songs - 18 hr 50 min
+288 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,12 +43,13 @@
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-06-29 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/2aROA14wjchRPpxJMrhzKm) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Songs: The Art of the Trio, Vol\. 3](https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9) | 5:58 | 2022-06-29 | 2023-02-20 |
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-17 |  |
-| [Birds Down South](https://open.spotify.com/track/6wBo7Hme7JU3OCULiY72I6) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Birds Down South](https://open.spotify.com/album/0c6rJQwZVkO76WQIatE63W) | 2:54 | 2022-06-29 |  |
+| [Birds Down South](https://open.spotify.com/track/6wBo7Hme7JU3OCULiY72I6) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Birds Down South](https://open.spotify.com/album/0c6rJQwZVkO76WQIatE63W) | 2:54 | 2022-06-29 | 2023-03-16 |
 | [Blue Eyes Crying In The Rain](https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Blue Eyes Crying In The Rain](https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq) | 4:12 | 2022-12-23 |  |
 | [Blue Moon](https://open.spotify.com/track/1SJEahRau4sLSZlPDl2bnr) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [Blue Moon](https://open.spotify.com/album/50uJ5kjLlvCA5PlUTiUEir) | 4:34 | 2022-06-29 | 2023-01-22 |
 | [Blue Moon](https://open.spotify.com/track/5HP9LwDRT5FGOokrN1HnZ3) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Blue Moon](https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth) | 3:18 | 2023-01-19 |  |
 | [Body & Soul](https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Body & Soul](https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2) | 4:44 | 2022-06-29 | 2023-02-13 |
 | [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-08-17 |  |
+| [Bullock's Oriole](https://open.spotify.com/track/7fHjVyteq1A6TOfjqdxvrE) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Bullock's Oriole](https://open.spotify.com/album/2G1MAcTtq1SPOIZ3smus78) | 3:39 | 2023-03-09 |  |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2022-06-29 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/0qii8PVr6wKDNVbRM1ak1E) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Can't Help Falling in Love](https://open.spotify.com/album/5vBVsRAD5ySVpuIB4cZ3WB) | 3:10 | 2022-06-29 | 2023-01-22 |
 | [Can't Help Loving That Man](https://open.spotify.com/track/7xTuJi4PK5ujPuf0g19oII) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Can't Help Loving That Man](https://open.spotify.com/album/463eGmDEvjmNiQKuyHPa9U) | 4:29 | 2023-01-26 |  |

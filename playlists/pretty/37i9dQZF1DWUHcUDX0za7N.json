@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=j11QL6MsRaSneLxTbjw4Eg\" > Zlatan </a> ",
-  "num_followers": 16490,
+  "num_followers": 16523,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ0ODQ2MSwwMDAwMDAwMGY2MjVmYjQ0MDIzZTU5ZTBmZTc1NTEyNGJmNzE5ZjE5",
+  "snapshot_id": "MTY3ODQ0ODQ2MSwwMDAwMDAwMGNkMmM2YTA0MTNjNWVmNThhOGRjMzEzNjcyOGJkNGFl",
   "tracks": [
     {
       "added_at": "2023-03-03 08:06:50",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
     },
     {
-      "added_at": "2023-03-15 00:37:59",
+      "added_at": "2023-03-16 01:07:14",
       "album": {
         "name": "Omo Ologo",
         "url": "https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj"
@@ -615,22 +615,18 @@
     {
       "added_at": "2023-03-03 08:06:50",
       "album": {
-        "name": "Vawulence",
-        "url": "https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq"
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
       },
       "artists": [
         {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "BackRoad Gee",
-          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 190714,
-      "name": "Vawulence",
-      "url": "https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T"
+      "duration_ms": 134728,
+      "name": "Bad Since '97",
+      "url": "https://open.spotify.com/track/5t5oLw5209yleTnJSqM097"
     },
     {
       "added_at": "2023-03-03 08:06:50",
@@ -651,18 +647,22 @@
     {
       "added_at": "2023-03-03 08:06:50",
       "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+        "name": "Vawulence",
+        "url": "https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq"
       },
       "artists": [
         {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
         }
       ],
-      "duration_ms": 134728,
-      "name": "Bad Since '97",
-      "url": "https://open.spotify.com/track/5t5oLw5209yleTnJSqM097"
+      "duration_ms": 190714,
+      "name": "Vawulence",
+      "url": "https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T"
     },
     {
       "added_at": "2023-03-03 08:06:50",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-03-03 08:06:50",
       "album": {
+        "name": "Vigilante Bop",
+        "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
+      },
+      "artists": [
+        {
+          "name": "Alpha Ojini",
+          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
+        },
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 180950,
+      "name": "Vigilante Bop",
+      "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
+    },
+    {
+      "added_at": "2023-03-03 08:06:50",
+      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 168247,
       "name": "Awolowo",
       "url": "https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg"
-    },
-    {
-      "added_at": "2023-03-03 08:06:50",
-      "album": {
-        "name": "Vigilante Bop",
-        "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
-      },
-      "artists": [
-        {
-          "name": "Alpha Ojini",
-          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
-        },
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 180950,
-      "name": "Vigilante Bop",
-      "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
     },
     {
       "added_at": "2023-03-03 08:06:50",
@@ -1345,7 +1345,7 @@
       "url": "https://open.spotify.com/track/54Bvt0UE6yMPQBWb2TYSKc"
     },
     {
-      "added_at": "2023-03-15 00:37:59",
+      "added_at": "2023-03-16 01:07:14",
       "album": {
         "name": "New Wave",
         "url": "https://open.spotify.com/album/716KuiFuvH1gsBkE7j1J1I"

@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 175609,
       "name": "Fammi sapere",
       "url": "https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ"
@@ -2710,6 +2710,24 @@
       "duration_ms": 169753,
       "name": "Magari Vivi",
       "url": "https://open.spotify.com/track/0yPWp3eBcoREfTTU4U1QwC"
+    },
+    {
+      "album": {
+        "name": "Magari Vivi",
+        "url": "https://open.spotify.com/album/1F9xKBAzp8KOGupd0ARFpq"
+      },
+      "artists": [
+        {
+          "name": "Romina Falconi",
+          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169753,
+      "name": "Magari Vivi",
+      "url": "https://open.spotify.com/track/2VywcqDZs2jKbBj6xKQEI2"
     },
     {
       "album": {

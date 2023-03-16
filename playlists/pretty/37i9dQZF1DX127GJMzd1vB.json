@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De amor y desamor! Las canciones que no pueden faltar a la hora de llevar gallo.",
-  "num_followers": 50704,
+  "num_followers": 50755,
   "original_name": "La Serenata",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjg3MjA3NSwwMDAwMDAwMGY0Y2RkNTQ4YzcxOWYzNDAyMjhkZmIyYjJjYjZhNjc0",
+  "snapshot_id": "MTY3Mjg3MjA3NSwwMDAwMDAwMDI2ZTA1OGU1ZjM3ZTUzMmMyOWJiOTJiMTUwMWU3ZGJh",
   "tracks": [
     {
       "added_at": "2023-01-04 22:41:14",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
     },
     {
-      "added_at": "2023-01-04 22:41:14",
-      "album": {
-        "name": "Ni Lo Intentes",
-        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 237640,
-      "name": "Terrenal",
-      "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
-    },
-    {
       "added_at": "2021-12-29 23:46:57",
       "album": {
         "name": "Bonita",
@@ -375,6 +359,22 @@
       "duration_ms": 201168,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5jZ4F989lTH5jcFxT6ccbP"
+    },
+    {
+      "added_at": "2023-01-04 22:41:14",
+      "album": {
+        "name": "Ni Lo Intentes",
+        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 237640,
+      "name": "Terrenal",
+      "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
     },
     {
       "added_at": "2023-01-04 22:41:14",
@@ -723,6 +723,22 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
+        "name": "El Concierto",
+        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "Si Nos Dejan - En Vivo",
+      "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 174400,
       "name": "Esa Pared (feat. Vicente Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/2h9MKyF7PmWr99TeuoI8Xt"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "Si Nos Dejan - En Vivo",
-      "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
     },
     {
       "added_at": "2021-12-29 23:46:57",

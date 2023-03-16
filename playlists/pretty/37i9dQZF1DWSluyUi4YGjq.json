@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. julie on cover!",
-  "num_followers": 42304,
+  "num_followers": 42816,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODc0NjIxMSwwMDAwMDAwMDllODk4NTI0MmM2OWRjZDYwZDIzYTZhZDE0ZTNkNjA3",
+  "snapshot_id": "MTY3ODc0NjIxMSwwMDAwMDAwMDg3Yzk5MzdmNGIwOWVlNWM1MDM1MmNhNjc4ODA5ZDBl",
   "tracks": [
     {
       "added_at": "2023-01-12 03:08:14",
@@ -91,18 +91,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Bedroom",
-        "url": "https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS"
+        "name": "Oshin",
+        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
       },
       "artists": [
         {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 226594,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz"
+      "duration_ms": 222973,
+      "name": "Doused",
+      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
     },
     {
       "added_at": "2023-03-13 22:23:31",
@@ -123,18 +123,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Oshin",
-        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
+        "name": "Bedroom",
+        "url": "https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
         }
       ],
-      "duration_ms": 222973,
-      "name": "Doused",
-      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
+      "duration_ms": 226594,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz"
     },
     {
       "added_at": "2023-03-13 22:23:31",
@@ -201,6 +201,22 @@
       "url": "https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU"
     },
     {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Lovers From The Past",
+        "url": "https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "Lovers From The Past",
+      "url": "https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr"
+    },
+    {
       "added_at": "2022-09-29 00:07:21",
       "album": {
         "name": "Blue Rev",
@@ -217,22 +233,6 @@
       "url": "https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
-      "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 171563,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Is the Is Are",
@@ -247,6 +247,22 @@
       "duration_ms": 226999,
       "name": "Under the Sun",
       "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
+    },
+    {
+      "added_at": "2023-02-27 23:19:06",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 171563,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -311,22 +327,6 @@
       "duration_ms": 208450,
       "name": "For the Kill",
       "url": "https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Lovers From The Past",
-        "url": "https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY"
-      },
-      "artists": [
-        {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "Lovers From The Past",
-      "url": "https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -841,20 +841,20 @@
       "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Urban Twilight (Remaster)",
-        "url": "https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI"
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
       },
       "artists": [
         {
-          "name": "Oeil",
-          "url": "https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7"
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
         }
       ],
-      "duration_ms": 230197,
-      "name": "Strawberry Cream",
-      "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
+      "duration_ms": 211319,
+      "name": "Press",
+      "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -873,20 +873,20 @@
       "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-12-15 18:01:43",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
+        "name": "Urban Twilight (Remaster)",
+        "url": "https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI"
       },
       "artists": [
         {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+          "name": "Oeil",
+          "url": "https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7"
         }
       ],
-      "duration_ms": 211319,
-      "name": "Press",
-      "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
+      "duration_ms": 230197,
+      "name": "Strawberry Cream",
+      "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -1017,6 +1017,26 @@
       "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
     },
     {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "Blush Response & Warm",
+        "url": "https://open.spotify.com/album/4jfSogLkLLatu35KGy4lTn"
+      },
+      "artists": [
+        {
+          "name": "Blush Response",
+          "url": "https://open.spotify.com/artist/3Mpl6q5GdubLhAFQsHLKGj"
+        },
+        {
+          "name": "Warm",
+          "url": "https://open.spotify.com/artist/7G1o6riAKqUeL8Z7FF9J6I"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "OUTLAW69",
+      "url": "https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ"
+    },
+    {
       "added_at": "2021-12-08 15:59:07",
       "album": {
         "name": "Death Spells",
@@ -1049,22 +1069,6 @@
       "url": "https://open.spotify.com/track/4vjA0e8i58eJbsa67MuIlt"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
-      "album": {
-        "name": "It's Just A Bit Of Blood",
-        "url": "https://open.spotify.com/album/12DSMvIltoBDrMGwFgDLgn"
-      },
-      "artists": [
-        {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
-        }
-      ],
-      "duration_ms": 286520,
-      "name": "It's Just A Bit Of Blood",
-      "url": "https://open.spotify.com/track/2lToI26o842YtPLOQHPM7r"
-    },
-    {
       "added_at": "2022-09-21 00:43:29",
       "album": {
         "name": "The world within our bedrooms",
@@ -1081,24 +1085,20 @@
       "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
+      "added_at": "2023-02-27 23:19:06",
       "album": {
-        "name": "Blush Response & Warm",
-        "url": "https://open.spotify.com/album/4jfSogLkLLatu35KGy4lTn"
+        "name": "It's Just A Bit Of Blood",
+        "url": "https://open.spotify.com/album/12DSMvIltoBDrMGwFgDLgn"
       },
       "artists": [
         {
-          "name": "Blush Response",
-          "url": "https://open.spotify.com/artist/3Mpl6q5GdubLhAFQsHLKGj"
-        },
-        {
-          "name": "Warm",
-          "url": "https://open.spotify.com/artist/7G1o6riAKqUeL8Z7FF9J6I"
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
         }
       ],
-      "duration_ms": 236000,
-      "name": "OUTLAW69",
-      "url": "https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ"
+      "duration_ms": 286520,
+      "name": "It's Just A Bit Of Blood",
+      "url": "https://open.spotify.com/track/2lToI26o842YtPLOQHPM7r"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -1117,20 +1117,20 @@
       "url": "https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-02-09 20:06:26",
       "album": {
-        "name": "Lesser Matters",
-        "url": "https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV"
+        "name": "Here at All",
+        "url": "https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU"
       },
       "artists": [
         {
-          "name": "The Radio Dept.",
-          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
         }
       ],
-      "duration_ms": 293160,
-      "name": "Keen on Boys",
-      "url": "https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc"
+      "duration_ms": 234706,
+      "name": "In Your Way",
+      "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1149,20 +1149,20 @@
       "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Here at All",
-        "url": "https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU"
+        "name": "Lesser Matters",
+        "url": "https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV"
       },
       "artists": [
         {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+          "name": "The Radio Dept.",
+          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
         }
       ],
-      "duration_ms": 234706,
-      "name": "In Your Way",
-      "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
+      "duration_ms": 293160,
+      "name": "Keen on Boys",
+      "url": "https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -1181,44 +1181,36 @@
       "url": "https://open.spotify.com/track/4saJggfntxQyb3Ro8mk03U"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Clinging to the Ground",
-        "url": "https://open.spotify.com/album/08BiEP4rj0gHNLmm5epckO"
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/3HvASlOR1hZ7IFnvFECDBS"
       },
       "artists": [
         {
-          "name": "Cathedral Bells",
-          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
-        },
-        {
-          "name": "Rew",
-          "url": "https://open.spotify.com/artist/0pKGL4bTFl7l7fac3x7PoT"
+          "name": "Pasteboard",
+          "url": "https://open.spotify.com/artist/46ie4kSykhGZ214qwxJ4y9"
         }
       ],
-      "duration_ms": 239500,
-      "name": "Clinging to the Ground",
-      "url": "https://open.spotify.com/track/4o0nUiJQ1o8iW2fuz8l1Ys"
+      "duration_ms": 190000,
+      "name": "Breakbeats",
+      "url": "https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Cabin Fever",
-        "url": "https://open.spotify.com/album/7EVs3WnBcbuCpe72Ac93Ty"
+        "name": "Citrus",
+        "url": "https://open.spotify.com/album/3i8QvhKyRoIQmkyACiHsye"
       },
       "artists": [
         {
-          "name": "Juice Jackal",
-          "url": "https://open.spotify.com/artist/707dnhK9JFj9zyJvEhY761"
-        },
-        {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+          "name": "Asobi Seksu",
+          "url": "https://open.spotify.com/artist/7vXdfh8G9fJVGvfUSkqf62"
         }
       ],
-      "duration_ms": 186613,
-      "name": "Cabin Fever",
-      "url": "https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7"
+      "duration_ms": 257173,
+      "name": "Thursday",
+      "url": "https://open.spotify.com/track/3DiCOFDPnyUIU03qdmURN0"
     }
   ],
   "unique_name": "Shoegaze Now",

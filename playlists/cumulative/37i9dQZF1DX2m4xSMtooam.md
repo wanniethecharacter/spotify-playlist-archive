@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-201 songs - 12 hr 54 min
+202 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Só Tinha De Ser Com Voce \(Com Tom\)](https://open.spotify.com/track/33NLorbVmhAZ0nmgOhWFbY) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Os Sonhos Mais Lindos](https://open.spotify.com/album/5tfZHb7o4EzwPl7w0nMoR0) | 3:45 | 2022-11-10 | 2022-11-12 |
 | [Só Tinha De Ser Com Você](https://open.spotify.com/track/2MTrACUycdhqhQ9dYpxWJb) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) | 3:49 | 2022-05-13 | 2022-07-29 |
 | [Só Tinha De Ser Com Você](https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:53 | 2022-06-28 |  |
-| [Só Tinha de Ser Com Você](https://open.spotify.com/track/1U2yKTVqJASLKLSCzrwxi7) | [Quarteto Jobim\-Morelenbaum](https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL) | [Quarteto Jobim Morelenbaum](https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY) | 3:53 | 2022-05-13 |  |
+| [Só Tinha de Ser Com Você](https://open.spotify.com/track/1U2yKTVqJASLKLSCzrwxi7) | [Quarteto Jobim\-Morelenbaum](https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL) | [Quarteto Jobim Morelenbaum](https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY) | 3:53 | 2022-05-13 | 2023-03-16 |
 | [Take Five \- Studio Rio Version](https://open.spotify.com/track/1C7Gw28QPWVc7ssGlfUpsO) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj), [Studio Rio](https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3) | [Studio Rio Presents: The Brazil Connection](https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw) | 2:54 | 2022-05-13 | 2023-01-13 |
 | [Teleco\-Teco](https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa) | [Paula Morelenbaum](https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN) | [Telecoteco](https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb) | 3:38 | 2022-05-13 | 2023-01-14 |
 | [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 | 2022-06-28 |  |
@@ -190,6 +190,7 @@
 | [Triste](https://open.spotify.com/track/0PHGV9pWYv91WCeCXhdWye) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 2:42 | 2022-05-13 |  |
 | [Unhappy Remark \(Palpite Infeliz\)](https://open.spotify.com/track/0dfj6j9cYQYGmZej4WvMHL) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/0u32q4Evsx4fHtpkUUwodh) | 3:55 | 2022-05-13 | 2022-07-29 |
 | [Valle, M / Valle, P: So nice](https://open.spotify.com/track/4evGIySLSVBJD90LrDkTcO) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [Paulo Valle](https://open.spotify.com/artist/3aFqquhdDAG1uNtkTVdNKI), [Quatuor Ébène](https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Philippe Faurie](https://open.spotify.com/artist/4lA949N00pkYsq3xsvCd5f), [Richard Héry](https://open.spotify.com/artist/5fIfXCE9bblEKjtyo40NEm), [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Brazil](https://open.spotify.com/album/4ZfijPsvkBtwZWiGScdvOs) | 4:24 | 2022-05-13 |  |
+| [Vespertine](https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34) | [Hiro Suzuki](https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth) | [Vespertine](https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR) | 7:00 | 2023-03-15 |  |
 | [Vivendo](https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9) | [Moreno Jazz Band](https://open.spotify.com/artist/51dajqv8SXCyNO6L6rAxxr) | [Vivendo](https://open.spotify.com/album/65VTQBcky8wU4eYYYXYlRl) | 3:19 | 2022-11-11 |  |
 | [Voce Vai Ver](https://open.spotify.com/track/6TYGxl1FiKz2R9BosMN4WM) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 4:52 | 2022-05-13 | 2022-08-19 |
 | [Você E Eu](https://open.spotify.com/track/1HelEYnBkNyyd6PDSkx7sQ) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS) | [Pure Bossa Nova](https://open.spotify.com/album/3XTOfPQyZpHtHRYkNWGfxn) | 1:00 | 2022-06-10 | 2022-07-28 |

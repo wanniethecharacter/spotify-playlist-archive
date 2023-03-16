@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-590 songs - 1 day 9 hr 32 min
+591 songs - 1 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-25 | 2022-08-30 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:34 | 2022-11-21 | 2022-11-23 |
 | [Leilet El Omr](https://open.spotify.com/track/0pAURGTZvKbI1NlpHyTk0o) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Leilet El Omr](https://open.spotify.com/album/0NnIrYnPUcdOfZqAH5ONCw) | 3:22 | 2021-10-07 | 2021-10-19 |
+| [LELLY YAH](https://open.spotify.com/track/1SSymcmcSI1oYQtwOA8mOJ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [LELLY YAH](https://open.spotify.com/album/3zxpokbqTOtT3pry7cNhSK) | 3:09 | 2023-03-15 |  |
 | [Less Than Zero](https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:31 | 2022-01-08 | 2022-01-28 |
 | [Lessa Bahinlha](https://open.spotify.com/track/5Hto3NaFsv1or3zn3GdfY3) | [Ramy Essam](https://open.spotify.com/artist/7axpCYU6YisPgZQXYzNzis) | [Lessa Bahinlha](https://open.spotify.com/album/428C46dH0EBtXIbzpeLSGO) | 3:27 | 2022-04-17 | 2022-04-30 |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2021-04-17 | 2021-08-13 |
@@ -503,7 +504,7 @@
 | [الباشا](https://open.spotify.com/track/1qh5fjEI0AwX2QikxLwZLi) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [الباشا](https://open.spotify.com/album/5f8WADVIGDIr3nrlVATVJl) | 2:44 | 2022-05-03 | 2022-05-05 |
 | [البخت](https://open.spotify.com/track/5CeSq5JBv2wCeIHZA0PLtT) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/2QYOx6iuRhBUDiLQ262eGw) | 3:26 | 2022-03-09 | 2022-04-03 |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-02-27 |  |
-| [البوصلة ضاعت](https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [البوصلة ضاعت](https://open.spotify.com/album/17E04dwaT5vHAHsuviwYPB) | 3:29 | 2021-05-18 |  |
+| [البوصلة ضاعت](https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [البوصلة ضاعت](https://open.spotify.com/album/17E04dwaT5vHAHsuviwYPB) | 3:29 | 2021-05-18 | 2023-03-16 |
 | [السر](https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Seif](https://open.spotify.com/artist/5pEMAuF7RVXLCCiIkqVC0q) | [السر](https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW) | 4:32 | 2022-08-25 | 2022-10-31 |
 | [العمر راح جمايل](https://open.spotify.com/track/2tDHfhOcCyIlT2cMc2MbLs) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Abdelsalam](https://open.spotify.com/artist/1RYiKhiu6grbHvPZIuO18y), [Shalsha](https://open.spotify.com/artist/7JvNUhrLYfqBSIPfa5N12E) | [العمر راح جمايل](https://open.spotify.com/album/4t5IE26L1Y0HcP0SMBoDti) | 2:53 | 2023-02-13 | 2023-02-15 |
 | [الغسالة](https://open.spotify.com/track/7JAPo0o6KfpKdZiGLoRCNh) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [الغسالة](https://open.spotify.com/album/5EZeKNiANiLwqcOEYnxSoD) | 2:51 | 2021-03-27\* | 2022-03-07 |

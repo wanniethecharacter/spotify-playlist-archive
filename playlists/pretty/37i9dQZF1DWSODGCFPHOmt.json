@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica navide\u00f1a para las fiestas decembrinas. Foto: Nuevo Elemento\n",
-  "num_followers": 8828,
+  "num_followers": 8829,
   "original_name": "La Posada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNDUzMiwwMDAwMDAwMGU2NDBhM2Y3NzI2MTUyZDg4ZmE2YTAyMTNkYmQyZTQ2",
+  "snapshot_id": "MTY3MTczNDUzMiwwMDAwMDAwMGIxMzhlYTA2NDQ0MmI4ODkxOWE0YWM3YzkwNGQ5NDUz",
   "tracks": [
     {
       "added_at": "2022-12-22 18:42:12",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Navidad Con Angela (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/602qxwQA6vuw9d8ukke3XX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 176025,
-      "name": "Los Peces en el R\u00edo - Edici\u00f3n Especial",
-      "url": "https://open.spotify.com/track/1dWFzTAoqgvCxFQoE4bhom"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "Se Acerca Navidad",
         "url": "https://open.spotify.com/album/2QiB21MebHavoBRcGnGJeF"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 182598,
       "name": "Se Acerca Navidad",
       "url": "https://open.spotify.com/track/4oIOVr3cyCifzh2JjZz7ij"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Navidad Con Angela (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/602qxwQA6vuw9d8ukke3XX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 176025,
+      "name": "Los Peces en el R\u00edo - Edici\u00f3n Especial",
+      "url": "https://open.spotify.com/track/1dWFzTAoqgvCxFQoE4bhom"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Navidad Rock",
-        "url": "https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 127373,
-      "name": "Navidad Rock",
-      "url": "https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "Un Diciembre Diferente",
         "url": "https://open.spotify.com/album/7q079isg5qDwqZmk6ZvHym"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 202970,
       "name": "Un Diciembre Diferente",
       "url": "https://open.spotify.com/track/3mACvGTK4JB371p4fkBtdU"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Navidad Rock",
+        "url": "https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 127373,
+      "name": "Navidad Rock",
+      "url": "https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -939,42 +939,18 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "La \u00faltima canci\u00f3n",
-        "url": "https://open.spotify.com/album/1dn55Gp93D5VmsFCeEJ279"
+        "name": "Tristes Navidades",
+        "url": "https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc"
       },
       "artists": [
         {
-          "name": "Amalia Mendoza",
-          "url": "https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC"
-        },
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        },
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 156499,
-      "name": "Amarga navidad (Ranchera)",
-      "url": "https://open.spotify.com/track/0OrGmIMphBPEGj786A1RVO"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
-        "name": "Navidad Con Angela (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/602qxwQA6vuw9d8ukke3XX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 196524,
-      "name": "El Ni\u00f1o del Tambor - Edici\u00f3n Especial",
-      "url": "https://open.spotify.com/track/1C0Uip3Flj5zCvpUeKcLmF"
+      "duration_ms": 239547,
+      "name": "Tristes Navidades",
+      "url": "https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -995,34 +971,42 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Tristes Navidades",
-        "url": "https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc"
+        "name": "Navidad Con Angela (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/602qxwQA6vuw9d8ukke3XX"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 239547,
-      "name": "Tristes Navidades",
-      "url": "https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN"
+      "duration_ms": 196524,
+      "name": "El Ni\u00f1o del Tambor - Edici\u00f3n Especial",
+      "url": "https://open.spotify.com/track/1C0Uip3Flj5zCvpUeKcLmF"
     },
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Alrededor del \u00c1rbol de Navidad",
-        "url": "https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m"
+        "name": "La \u00faltima canci\u00f3n",
+        "url": "https://open.spotify.com/album/1dn55Gp93D5VmsFCeEJ279"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Amalia Mendoza",
+          "url": "https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC"
+        },
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        },
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 124533,
-      "name": "Alrededor del A\u0301rbol de Navidad",
-      "url": "https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk"
+      "duration_ms": 156499,
+      "name": "Amarga navidad (Ranchera)",
+      "url": "https://open.spotify.com/track/0OrGmIMphBPEGj786A1RVO"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1063,34 +1047,18 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Navidad Sin Ti",
-        "url": "https://open.spotify.com/album/6rXlCEugrnZmmfz3lbFNut"
+        "name": "Alrededor del \u00c1rbol de Navidad",
+        "url": "https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 225930,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/1Ha7nokU33XTvjzGtrU7Hy"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
-        "name": "Ya Viene Nochebuena",
-        "url": "https://open.spotify.com/album/7mQ9Rtxz3EdY7sghH66OR3"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 196527,
-      "name": "Ya Viene Nochebuena",
-      "url": "https://open.spotify.com/track/6VxuFIWWqa9Z2TGgFFgMB7"
+      "duration_ms": 124533,
+      "name": "Alrededor del A\u0301rbol de Navidad",
+      "url": "https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1111,6 +1079,22 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
+        "name": "Navidad Sin Ti",
+        "url": "https://open.spotify.com/album/6rXlCEugrnZmmfz3lbFNut"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 225930,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/1Ha7nokU33XTvjzGtrU7Hy"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
         "name": "Navidad Adictiva",
         "url": "https://open.spotify.com/album/4OK1cq5KoIDnw2w8lcOsNA"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 211293,
       "name": "Todo Lo Que Quiero Es a Ti",
       "url": "https://open.spotify.com/track/266VR3x043LPRwwuBaVIGS"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Ya Viene Nochebuena",
+        "url": "https://open.spotify.com/album/7mQ9Rtxz3EdY7sghH66OR3"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 196527,
+      "name": "Ya Viene Nochebuena",
+      "url": "https://open.spotify.com/track/6VxuFIWWqa9Z2TGgFFgMB7"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Contigo En Navidad",
-        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 240906,
-      "name": "En Esta Navidad",
-      "url": "https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO"
+      "duration_ms": 253000,
+      "name": "Oye Santa Claus",
+      "url": "https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
+        "name": "Contigo En Navidad",
+        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "En Esta Navidad",
+      "url": "https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
         "name": "Eterna Navidad Celebremos",
         "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
       },
@@ -1203,30 +1219,6 @@
       "duration_ms": 143160,
       "name": "Rodolfo El Reno",
       "url": "https://open.spotify.com/track/2b0z6YJpVcRBkrjQec1tJt"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
-        "name": "El Burrito Sabanero",
-        "url": "https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        },
-        {
-          "name": "Iskander",
-          "url": "https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p"
-        },
-        {
-          "name": "San Juan",
-          "url": "https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq"
-        }
-      ],
-      "duration_ms": 231916,
-      "name": "El Burrito Sabanero",
-      "url": "https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1287,6 +1279,30 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
+        "name": "El Burrito Sabanero",
+        "url": "https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        },
+        {
+          "name": "Iskander",
+          "url": "https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p"
+        },
+        {
+          "name": "San Juan",
+          "url": "https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq"
+        }
+      ],
+      "duration_ms": 231916,
+      "name": "El Burrito Sabanero",
+      "url": "https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
         "name": "Navidad Fiesta Universal",
         "url": "https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 181026,
       "name": "En Esta Navidad",
       "url": "https://open.spotify.com/track/7ofILMyGT68odr4rGQR1aP"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
-        "name": "En Esta Navidad",
-        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Oye Santa Claus",
-      "url": "https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Navidad, Feel The Magic",
-        "url": "https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 165773,
-      "name": "Navidad, Feel The Magic",
-      "url": "https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "Contigo En Navidad",
         "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 218000,
       "name": "Dame Un Beso En Noche Buena",
       "url": "https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Navidad, Feel The Magic",
+        "url": "https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "Navidad, Feel The Magic",
+      "url": "https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy"
     }
   ],
   "unique_name": "La Posada",

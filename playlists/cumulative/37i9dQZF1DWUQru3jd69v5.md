@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Fata in cover.
 
-458 songs - 19 hr 56 min
+459 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Click](https://open.spotify.com/track/4RXh5hSHOujWqnbYNcqL4m) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH), [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Click](https://open.spotify.com/album/4sqgiuAro7E7ULVcZd1UnR) | 2:51 | 2022-06-23 | 2022-09-30 |
 | [COCCO \(feat\. Touchè, 8blevrai\)](https://open.spotify.com/track/0dal7CKBaE8gFFKAz5OpKj) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [DJUNGLE UNCHAINED](https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO) | 3:15 | 2022-12-15 |  |
 | [COCOCHANEL](https://open.spotify.com/track/6wDwxm0gHrcyCWvJ3Fb4WQ) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Wairaki](https://open.spotify.com/artist/7IB3VckCEheDZlvQxCDLvr) | [COCOCHANEL](https://open.spotify.com/album/5UeF1dnrz8PClXmAzD7KE4) | 2:56 | 2022-06-09 | 2022-07-16 |
-| [COLLANE](https://open.spotify.com/track/0fSpIhDmGgXIWYkaaNsw0t) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [COLLANE](https://open.spotify.com/album/1P8Xp6rAlMzJGYGhdNKzjl) | 2:33 | 2023-02-02 |  |
+| [COLLANE](https://open.spotify.com/track/0fSpIhDmGgXIWYkaaNsw0t) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [COLLANE](https://open.spotify.com/album/1P8Xp6rAlMzJGYGhdNKzjl) | 2:33 | 2023-02-02 | 2023-03-16 |
 | [Come Mai](https://open.spotify.com/track/4KJCIFLJoAdl3SDLUEclIR) | [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5) | [Come Mai](https://open.spotify.com/album/7Gvadg1kPZmybKgSZVqhmd) | 3:26 | 2022-10-27 | 2022-11-11 |
 | [Comment tu t'appelles](https://open.spotify.com/track/1OGvG0XEf41AxsgGF68lV3) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Comment tu t'appelles](https://open.spotify.com/album/63mSwU47Exb3aBPtqqNbUk) | 3:17 | 2022-05-10 | 2022-06-17 |
 | [Con Te](https://open.spotify.com/track/0d3X6EsJll4q4rmMdDRtvf) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1) | [Con Te](https://open.spotify.com/album/6yRcSRnjcoc9kSvWEmkR2i) | 2:17 | 2023-01-26 |  |
@@ -196,6 +196,7 @@
 | [GORILLA\#1](https://open.spotify.com/track/0sTkGlYMa1y4jeD1y5yRu4) | [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3) | [GORILLA\#1](https://open.spotify.com/album/1nsRK8s3uXIw0dNGN3rWAF) | 2:38 | 2022-05-10 | 2022-06-23 |
 | [GRA](https://open.spotify.com/track/4VRirVonlTpWDjIZBwqALo) | [Depha Beat](https://open.spotify.com/artist/6bwVTFdmpdNygRD0jMUQGm), [Security](https://open.spotify.com/artist/7MKJc8WAYeq779QzmWPzlw), [Sosa Priority](https://open.spotify.com/artist/0gDbGOh9itthM6koQpDLoc), [Kira](https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC) | [GRA](https://open.spotify.com/album/0EPDrZtlH0TSj42kpu7Tnx) | 2:51 | 2022-09-29 | 2022-10-14 |
 | [GRAMMELOT](https://open.spotify.com/track/545TC3eBWOStLmvbF48dGZ) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [GRAMMELOT](https://open.spotify.com/album/7gsX8aKhYjccPaGyN4XqOm) | 1:36 | 2022-05-10 | 2022-05-13 |
+| [GTA](https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Ghettosuperstar](https://open.spotify.com/album/4EjqOuqjcPm50M6cMZwGYN) | 2:37 | 2023-03-15 |  |
 | [Guérrilla](https://open.spotify.com/track/5NUTv7iUQY77PyEqyqlgRw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Guérrilla](https://open.spotify.com/album/5OWqkBgQPvdll9AmXdjrBe) | 2:25 | 2022-05-10 | 2022-09-30 |
 | [HALO MONSIEUR](https://open.spotify.com/track/6K2rrsC179D8tIDJIlws9t) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [HALO MONSIEUR](https://open.spotify.com/album/04Qyq05nMkhB62qURUJk4j) | 3:01 | 2023-01-12 | 2023-02-10 |
 | [Hammamet \(feat\. Security & Kira\)](https://open.spotify.com/track/7ic3NIBsDDRrlH9uAzUYOH) | [Manali](https://open.spotify.com/artist/0aH4uMOQMV806IsaRf4nLh), [Depha Beat](https://open.spotify.com/artist/6bwVTFdmpdNygRD0jMUQGm), [Security](https://open.spotify.com/artist/7MKJc8WAYeq779QzmWPzlw), [Kira](https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC) | [Marchingegno](https://open.spotify.com/album/17FGUh4lQoa0Z4vx0aLXBX) | 2:09 | 2022-12-15 | 2023-01-18 |

@@ -4,7 +4,7 @@
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-246 songs - 15 hr 33 min
+247 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Life Of Leisure](https://open.spotify.com/track/0P88cwiU0x8rrYudwmO3Pj) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Excursions](https://open.spotify.com/album/39AhUDFW2KH9RHZWGuMdwo) | 2:48 | 2022-02-17 |  |
 | [limonene](https://open.spotify.com/track/3Apg6aI4J5OxeiF032ttYY) | [Jfab](https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW) | [limonene](https://open.spotify.com/album/6SSMQdids0Iixj0xzSFFrJ) | 2:56 | 2022-05-13 |  |
 | [Lockdown Drive](https://open.spotify.com/track/1OMr7DcjwxiqbyMclrScD1) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Jazzbois Goes Blunt II](https://open.spotify.com/album/0O3bdEWuD0AFkstEtfQOF3) | 5:20 | 2022-02-17 |  |
-| [Lofi Sauce](https://open.spotify.com/track/3bAUmGi6G9MNWIkTmap9WD) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Lofi Sauce](https://open.spotify.com/album/5Ea0SCW5c3zEukb5nKMp6p) | 3:23 | 2022-06-02 |  |
+| [Lofi Sauce](https://open.spotify.com/track/3bAUmGi6G9MNWIkTmap9WD) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Lofi Sauce](https://open.spotify.com/album/5Ea0SCW5c3zEukb5nKMp6p) | 3:23 | 2022-06-02 | 2023-03-16 |
 | [Look Up](https://open.spotify.com/track/5OkkZtwYmuSLbAFxcqolw3) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Look Up](https://open.spotify.com/album/6y4VhfTSv5cVpJHobgYybd) | 5:34 | 2022-04-22 |  |
 | [Magnificent Moon](https://open.spotify.com/track/5WR54xSw59vPETCbTxp0td) | [Lucien Johnson](https://open.spotify.com/artist/3FRhEis2dHgap01tvdthBV) | [Wax /// Wane](https://open.spotify.com/album/3swLRGtEULofJUboHcsYyf) | 6:10 | 2022-04-22 | 2022-06-03 |
 | [Mars Walk](https://open.spotify.com/track/0xAh6kOHUk9mWKNEH60aut) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Mars Walk](https://open.spotify.com/album/1mwBt9QErZLgnSVNfbfTdm) | 4:03 | 2022-02-17 | 2022-04-29 |
@@ -160,6 +160,7 @@
 | [P64 By My Side](https://open.spotify.com/track/2Fv3OV4gjNh5EhCJH8gbrO) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [P64 By My Side](https://open.spotify.com/album/7wMUCUUAuP9EY4QaeRNqBI) | 4:11 | 2022-02-17 | 2022-04-29 |
 | [Pan’s Dance](https://open.spotify.com/track/16s2buIEfxT0y8X4yMbebk) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Dance Ancestral](https://open.spotify.com/album/20BoLUZgIPSXtK4m5jE64n) | 4:34 | 2022-04-07 | 2022-06-03 |
 | [Paradox](https://open.spotify.com/track/6XSQwisZPSsvumchd6u56q) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [Paradox](https://open.spotify.com/album/5mbJr9jfnfqPN8Vf9OKsIY) | 2:37 | 2022-04-22 | 2022-06-03 |
+| [Pinecone \(feat\. Joe Webb\)](https://open.spotify.com/track/4VGut8AX4LO2dWv4YbN6VS) | [Chris Hyson](https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd), [Joe Webb](https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6) | [Pinecone \(feat\. Joe Webb\)](https://open.spotify.com/album/1oaKO5r4jqYYlKcudsKegI) | 5:56 | 2023-03-09 |  |
 | [Plage des Casernes](https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Plage des Casernes](https://open.spotify.com/album/3CbjF8Luwm8Xe7v33DwfdX) | 2:16 | 2022-05-05 |  |
 | [Planet Caravan](https://open.spotify.com/track/0T6fOzhQyVLJuEZXDcsapd) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [THE ESSENCE OF SOIL](https://open.spotify.com/album/4Opp41fuz6nGHzGojaMImc) | 6:54 | 2022-04-22 | 2022-05-03 |
 | [Plus 100](https://open.spotify.com/track/09NjmJF5aZi2bJRhdr1fUr) | [Vooo](https://open.spotify.com/artist/3vHTWo80WtxaxoYy36oZXF) | [Plus 100](https://open.spotify.com/album/0ECy4AGJcScaPoCUFQEHxu) | 2:44 | 2022-06-02 | 2023-02-16 |

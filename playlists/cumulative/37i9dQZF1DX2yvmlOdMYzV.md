@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-329 songs - 18 hr 30 min
+330 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [I Wonder Why](https://open.spotify.com/track/2HpDcssMlgQXfmAUYhePIP) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [I Wonder Why](https://open.spotify.com/album/1N7U7alOZtbA2m3AyAPEXf) | 3:48 | 2021-12-15 | 2022-10-13 |
 | [I Wonder Why](https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [I Wonder Why](https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD) | 3:48 | 2022-10-14 |  |
 | [I'll Be Loving You](https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [I'll Be Loving You](https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV) | 4:06 | 2021-12-15 |  |
-| [I'll make it better](https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [I'll make it better](https://open.spotify.com/album/6r8krYPEnO2XgQG98rXAuK) | 1:15 | 2023-03-10 |  |
+| [I'll make it better](https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [I'll make it better](https://open.spotify.com/album/6r8krYPEnO2XgQG98rXAuK) | 1:15 | 2023-03-10 | 2023-03-16 |
 | [I'm a Rock](https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc) | 3:24 | 2022-06-30 | 2023-03-11 |
 | [I'm a Rock](https://open.spotify.com/track/4hpmG15B0IJcB88PgrHu1U) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/3AYbVMgPfYy8JcnTkHzktt) | 3:24 | 2021-12-15 | 2022-07-29 |
 | [I'm Thru](https://open.spotify.com/track/25AA0A6Qvq9leS9zyeWbln) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [I'm Thru](https://open.spotify.com/album/2R1NiiIPRBp4Jou2BGS0Mu) | 3:11 | 2021-12-15 | 2022-11-09 |
@@ -154,6 +154,7 @@
 | [Intense](https://open.spotify.com/track/5UGuFkPQl7p6dmhZuPPaT9) | [Cero Ismael](https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo) | [Blue Man](https://open.spotify.com/album/3CP4mtGs1g4EuhVaaHtFnE) | 2:21 | 2021-12-15 | 2022-07-29 |
 | [Is It Any Wonder?](https://open.spotify.com/track/5dnvWWkwwFJoDDc0QoSbvf) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E) | 4:36 | 2021-12-15 | 2022-07-28 |
 | [Is It Any Wonder?](https://open.spotify.com/track/6kle4XS7gyiUIb0tmsyCf4) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 4:36 | 2022-06-30 |  |
+| [It's You](https://open.spotify.com/track/5mMjaAT0B4Q3p2ToSeTVi7) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ) | [PHILEO Deluxe](https://open.spotify.com/album/1k6aTE36jvyDr7QJLtgwKM) | 3:02 | 2023-03-10 |  |
 | [Jealous](https://open.spotify.com/track/0MuyhT3nN12w71WurEWSTN) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Jealous](https://open.spotify.com/album/5LTnPoGjyuWwLwOcLJzFL3) | 2:08 | 2021-12-15 | 2022-07-17 |
 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 | 2022-06-30 | 2023-03-14 |
 | [Juno](https://open.spotify.com/track/6OpU3cvY19M2hFxTbLKy5L) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Honeybloom](https://open.spotify.com/album/6CwBR2GHX84xyA8T95HTM3) | 3:51 | 2021-12-15 | 2022-04-04 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-1,264 songs - 2 day 19 hr 37 min
+1,265 songs - 2 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-28 |  |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-03-08 | 2022-04-06 |
 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 | 2022-05-25 | 2022-06-11 |
-| [Brazilian Phonk Mano](https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [lucaf.](https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Brazilian Phonk Mano](https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj) | 1:24 | 2023-02-23 |  |
+| [Brazilian Phonk Mano](https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [lucaf.](https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Brazilian Phonk Mano](https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj) | 1:24 | 2023-02-23 | 2023-03-16 |
 | [Break a Broken Heart](https://open.spotify.com/track/14zhInsTWoJtAZg3C8v6Ct) | [SaraLisa](https://open.spotify.com/artist/7eja1JGjGOnfAH2If6nDZI) | [Break a Broken Heart](https://open.spotify.com/album/6rOzUFVIoSfDnjP601e6mx) | 2:54 | 2022-10-09 | 2022-10-19 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-07-19 | 2022-07-27 |
 | [BREAK MY SOUL](https://open.spotify.com/track/40KCN2nYImUounlfO5Cdzn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV) | 4:38 | 2022-07-30 | 2022-08-02 |
@@ -195,6 +195,7 @@
 | [Chokehold](https://open.spotify.com/track/7rHbwSOzT6z2D26oMQk9xG) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Chokehold](https://open.spotify.com/album/64BnMxajs1n8fk0DuNPjuP) | 5:04 | 2023-01-31 | 2023-02-03 |
 | [Chop \(Nouvelle École\)](https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Chop \(Nouvelle École\)](https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U) | 3:15 | 2022-07-19 | 2022-08-03 |
 | [Chrissy, Wake Up](https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV) | [The Gregory Brothers](https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew) | [Chrissy, Wake Up](https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb) | 1:05 | 2022-07-19 | 2022-08-18 |
+| [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2023-03-15 |  |
 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 | 2022-04-26 | 2022-05-25 |
 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 | 2022-03-08 | 2022-03-22 |
 | [Clandestina \- Original mix](https://open.spotify.com/track/1gjpFamOXZXegiU038AZxI) | [Salvatores](https://open.spotify.com/artist/6gVK2giRvViRNsvP76DL5u) | [Clandestina](https://open.spotify.com/album/2XNNaihXW2NgngJ0sEoLMS) | 2:26 | 2023-01-17 | 2023-01-19 |

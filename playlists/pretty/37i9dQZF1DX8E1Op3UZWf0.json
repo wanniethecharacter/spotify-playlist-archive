@@ -1,12 +1,12 @@
 {
   "description": "Start the day with a morning run together with these easy and joyful tracks.",
-  "num_followers": 229615,
+  "num_followers": 229694,
   "original_name": "Morning Run ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY3OTc4MCwwMDAwMDAwMDBkN2M1ZjFlOGQ1ODIwNThlYTVlN2FjMzZiYzk2MmEw",
+  "snapshot_id": "MTY3NzY3OTc4MCwwMDAwMDAwMGNiZDVhNzhiYjg0YjY1ZmI3NGIyYzNmNTEyZTEyY2E4",
   "tracks": [
     {
       "added_at": "2023-01-03 14:46:25",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-01-03 14:46:25",
       "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 200853,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/6wmAHw1szh5RCKSRjiXhPe"
-    },
-    {
-      "added_at": "2023-01-03 14:46:25",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2023-01-03 14:46:25",
       "album": {
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 200853,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/6wmAHw1szh5RCKSRjiXhPe"
+    },
+    {
+      "added_at": "2023-01-03 14:46:25",
+      "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
       },
@@ -639,6 +639,26 @@
       "duration_ms": 198160,
       "name": "breathin",
       "url": "https://open.spotify.com/track/4OafepJy2teCjYJbvFE60J"
+    },
+    {
+      "added_at": "2023-01-03 14:46:25",
+      "album": {
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 219946,
+      "name": "I Don't Care (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9"
     },
     {
       "added_at": "2023-01-03 14:46:25",
@@ -671,26 +691,6 @@
       "duration_ms": 219466,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo"
-    },
-    {
-      "added_at": "2023-01-03 14:46:25",
-      "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 219946,
-      "name": "I Don't Care (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9"
     },
     {
       "added_at": "2023-01-03 14:46:25",

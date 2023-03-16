@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 59,
+  "num_followers": 61,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5NDQ3NiwwMDAwMDAwMDk2Yzk1YTE0MGI3MjQyZTc4M2ZkNGY4NjI1MTJkZTc4",
+  "snapshot_id": "MTY3ODA5NDQ3NiwwMDAwMDAwMDE0ZGUwMzk3NGVjYzkzMDhhNDEyZjc5NGM4OWFmMjg0",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -127,6 +127,26 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "duration_ms": 139422,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
         "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 211428,
       "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
       "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
-        }
-      ],
-      "duration_ms": 139422,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Have You Never Been Mellow",
+        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "duration_ms": 147742,
+      "name": "Have You Never Been Mellow",
+      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/1BYf5JhXGSUuhj5MX5dhVM"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 174146,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/4FQRmLtmbTjjGseIqbpBLR"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Have You Never Been Mellow",
-        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
-      },
-      "artists": [
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        }
-      ],
-      "duration_ms": 147742,
-      "name": "Have You Never Been Mellow",
-      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1663,22 +1663,26 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Bass Goes Down",
-        "url": "https://open.spotify.com/album/5HQkMx3unrkhwyB3qJvG1p"
+        "name": "I'm Just Feelin' (Du Du Du)",
+        "url": "https://open.spotify.com/album/2BHIfUecDNOWvsfZODiIJr"
       },
       "artists": [
         {
-          "name": "MOLOW",
-          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         },
         {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         }
       ],
-      "duration_ms": 144449,
-      "name": "Bass Goes Down",
-      "url": "https://open.spotify.com/track/1Y6H3XEqOSTrqKFissnVGd"
+      "duration_ms": 171427,
+      "name": "I'm Just Feelin' (Du Du Du) - MOTi Remix",
+      "url": "https://open.spotify.com/track/2Pgm12sMZieZZHw7G3MU9H"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1703,26 +1707,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "I'm Just Feelin' (Du Du Du)",
-        "url": "https://open.spotify.com/album/2BHIfUecDNOWvsfZODiIJr"
+        "name": "Bass Goes Down",
+        "url": "https://open.spotify.com/album/5HQkMx3unrkhwyB3qJvG1p"
       },
       "artists": [
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "MOLOW",
+          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
         },
         {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
         }
       ],
-      "duration_ms": 171427,
-      "name": "I'm Just Feelin' (Du Du Du) - MOTi Remix",
-      "url": "https://open.spotify.com/track/2Pgm12sMZieZZHw7G3MU9H"
+      "duration_ms": 144449,
+      "name": "Bass Goes Down",
+      "url": "https://open.spotify.com/track/1Y6H3XEqOSTrqKFissnVGd"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/7tHNPG8gM6Hg1rqrZh8JIU"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        },
-        {
-          "name": "Until Dawn",
-          "url": "https://open.spotify.com/artist/49hK2KdkC23KHY83DwIfS2"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "Fingers Crossed - Until Dawn Remix",
-      "url": "https://open.spotify.com/track/0wF0hlNRpDDonJsYfZT9sI"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Million Ways (Remixes)",
         "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 142120,
       "name": "Million Ways - Steve Void Remix",
       "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/7tHNPG8gM6Hg1rqrZh8JIU"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        },
+        {
+          "name": "Until Dawn",
+          "url": "https://open.spotify.com/artist/49hK2KdkC23KHY83DwIfS2"
+        }
+      ],
+      "duration_ms": 203040,
+      "name": "Fingers Crossed - Until Dawn Remix",
+      "url": "https://open.spotify.com/track/0wF0hlNRpDDonJsYfZT9sI"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1999,6 +1999,26 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Chains (with Project 46)",
+        "url": "https://open.spotify.com/album/6kkx5LkX5fb4C1Jr3Vo6iO"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Project 46",
+          "url": "https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ"
+        }
+      ],
+      "duration_ms": 223041,
+      "name": "Chains (with Project 46)",
+      "url": "https://open.spotify.com/track/7IcfnHpe6bvwdUmBIFpKSU"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Bad Trip (feat. \u00d8ZMA)",
         "url": "https://open.spotify.com/album/3rBKAB5nPTdETBLpoFq3fr"
       },
@@ -2019,26 +2039,6 @@
       "duration_ms": 190497,
       "name": "Bad Trip (feat. \u00d8ZMA)",
       "url": "https://open.spotify.com/track/5cVy2DttzbtldeYPPmsUr6"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Chains (with Project 46)",
-        "url": "https://open.spotify.com/album/6kkx5LkX5fb4C1Jr3Vo6iO"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Project 46",
-          "url": "https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ"
-        }
-      ],
-      "duration_ms": 223041,
-      "name": "Chains (with Project 46)",
-      "url": "https://open.spotify.com/track/7IcfnHpe6bvwdUmBIFpKSU"
     },
     {
       "added_at": "2023-02-23 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2010s. Cover: Keane",
-  "num_followers": 78965,
+  "num_followers": 79067,
   "original_name": "10s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ2MDEzNCwwMDAwMDAwMGFiNWRlNDgwZGQ2NGI2N2E5MGEwNDQ2ZjI3MDJjYTk3",
+  "snapshot_id": "MTY3MzQ2MDEzNCwwMDAwMDAwMDRhM2NjMDFmMTBmYzM0YWVjNmNhMDY1NGZjNGU3NDNi",
   "tracks": [
     {
       "added_at": "2023-01-11 18:02:14",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 231118,
-      "name": "Under Your Scars",
-      "url": "https://open.spotify.com/track/60SjEdocmsrAk4hQUu7qZi"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "The Balcony",
         "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 138154,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/4hEhOvEz9tulJQXZ7hiqkz"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 231118,
+      "name": "Under Your Scars",
+      "url": "https://open.spotify.com/track/60SjEdocmsrAk4hQUu7qZi"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "Automobile",
-      "url": "https://open.spotify.com/track/1bloF1LHgUVvPJLxrzxgu7"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Zombie EP",
         "url": "https://open.spotify.com/album/6bE4sIZ6patKzzy8qV5lOV"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 259253,
       "name": "Zombie (Acoustic)",
       "url": "https://open.spotify.com/track/4Y2bR875LdPq9JILrY2FSw"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "Automobile",
+      "url": "https://open.spotify.com/track/1bloF1LHgUVvPJLxrzxgu7"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Miracle Pill",
-        "url": "https://open.spotify.com/album/79gY3R2V5HcDbnrMp6wuVP"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 174373,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/2rF2dht1UkYFPpJ73w0AU6"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 238973,
       "name": "If You Ever Want To Be In Love",
       "url": "https://open.spotify.com/track/0UGRfHjN5t2qRMgfTpYnd3"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "Miracle Pill",
+        "url": "https://open.spotify.com/album/79gY3R2V5HcDbnrMp6wuVP"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 174373,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/2rF2dht1UkYFPpJ73w0AU6"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Little Boy",
-      "url": "https://open.spotify.com/track/1vkdwNTgBAzWFApCVYX9ER"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Heart Vs. Mind",
         "url": "https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 207066,
       "name": "My Heart I Surrender",
       "url": "https://open.spotify.com/track/2tXtxbJra1MIJxkWrD1xTd"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Little Boy",
+      "url": "https://open.spotify.com/track/1vkdwNTgBAzWFApCVYX9ER"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "Landlady",
-      "url": "https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Smoke + Mirrors (Deluxe)",
         "url": "https://open.spotify.com/album/6ecx4OFG0nlUMqAi9OXQER"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 217973,
       "name": "Second Chances",
       "url": "https://open.spotify.com/track/6FQcdl2PzmsoXRF3F1flZ5"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "Landlady",
+      "url": "https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO"
     },
     {
       "added_at": "2023-01-11 18:02:14",

@@ -1,33 +1,13 @@
 {
   "description": "All the <a href=\"spotify:genre:edm_dance\">big ones</a> with Skrillex",
-  "num_followers": 3728558,
+  "num_followers": 3728925,
   "original_name": "Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGM1ZjYxOGQ3MmQxMGMyMzYxYTRkM2UzNmNiMDU3YzA1",
+  "snapshot_id": "MTY3ODg5NDU2MSwwMDAwMDAwMDI0NmQyOTNjNzVhNDExODk0ZjUzNmM5MTExODNkM2Qy",
   "tracks": [
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Underground Ft. High Tara",
-        "url": "https://open.spotify.com/album/6bHLcabZtowoaPveCk6ujJ"
-      },
-      "artists": [
-        {
-          "name": "An-Ten-Nae",
-          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
-        },
-        {
-          "name": "High Tara",
-          "url": "https://open.spotify.com/artist/3AY3TKMf77gAK03Y2yPlOI"
-        }
-      ],
-      "duration_ms": 197768,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/7u8p3u6rE0zwWOHVQbpfdq"
-    },
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {

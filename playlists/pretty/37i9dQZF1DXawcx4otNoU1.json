@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 474299,
+  "num_followers": 474501,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEwNDc4MCwwMDAwMDAwMDBlMjc0YmU0YjY0NmY5NTMwZTg1Yzc2Y2Y1NGU2NWYw",
+  "snapshot_id": "MTY3ODEwNDc4MCwwMDAwMDAwMGVlOWMxODQ5YTk2MzA4NWY1NGUzMzc4M2JhZjgzZDVm",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Come Away With Me",
-      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "No Angel",
         "url": "https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 218360,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Halcyon Nights",
+        "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "How Long Will I Love You",
+      "url": "https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 193146,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Halcyon Nights",
-        "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "How Long Will I Love You",
-      "url": "https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Freya Ridings",
-        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 225853,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 253208,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Freya Ridings",
+        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 225853,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Edges Run",
+        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "People Change",
+      "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Tyler Shaw",
         "url": "https://open.spotify.com/album/36Tel8kJ51tu7M65yWywbP"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 245722,
       "name": "Bad Intentions",
       "url": "https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Edges Run",
-        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "People Change",
-      "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1329,7 +1329,7 @@
       "url": "https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8"
     },
     {
-      "added_at": "2023-03-15 01:11:44",
+      "added_at": "2023-03-16 01:50:29",
       "album": {
         "name": "Peak (Fed Up)",
         "url": "https://open.spotify.com/album/0bXAy3LZaokYu7txrbmScK"
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 207164,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/1A85fOmviQuGgkF6Lww6Nd"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Surround Me - EP",
         "url": "https://open.spotify.com/album/3m61NACPLHynQ8JHZpPXd4"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 246053,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "All the Lost Souls",
         "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 209680,
       "name": "1973 - Acoustic",
       "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 246053,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1528,7 +1544,7 @@
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "The Thrill Of It All (Special Edition)",
-        "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
+        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
       "artists": [
         {
@@ -1536,9 +1552,9 @@
           "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 207164,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/6hPFEpT7bVguj9aCFLOmiz"
+      "duration_ms": 187156,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/3zesxb7sOGbeSwUrzLUP0f"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1591,6 +1607,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Can You Take It",
+        "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
+      },
+      "artists": [
+        {
+          "name": "A\u00e1yanna",
+          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
+        }
+      ],
+      "duration_ms": 181783,
+      "name": "Can You Take It",
+      "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Last One",
         "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
       },
@@ -1607,22 +1639,6 @@
       "duration_ms": 181823,
       "name": "Last One",
       "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Can You Take It",
-        "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
-      },
-      "artists": [
-        {
-          "name": "A\u00e1yanna",
-          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
-        }
-      ],
-      "duration_ms": 181783,
-      "name": "Can You Take It",
-      "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1675,18 +1691,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "The Thrill Of It All (Special Edition)",
-        "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
+        "name": "isaac gracie (extended edition)",
+        "url": "https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "isaac gracie",
+          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
         }
       ],
-      "duration_ms": 187156,
-      "name": "Palace",
-      "url": "https://open.spotify.com/track/5UFvcTCbp9P057YbRNsJ3U"
+      "duration_ms": 343249,
+      "name": "reverie",
+      "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1707,22 +1723,6 @@
       "duration_ms": 141757,
       "name": "Honey (with Muni Long)",
       "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "isaac gracie (extended edition)",
-        "url": "https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD"
-      },
-      "artists": [
-        {
-          "name": "isaac gracie",
-          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
-        }
-      ],
-      "duration_ms": 343249,
-      "name": "reverie",
-      "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2097,22 +2097,6 @@
       "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
     },
     {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "May I Have This Dance",
-        "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
-      },
-      "artists": [
-        {
-          "name": "Meadowlark",
-          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
-        }
-      ],
-      "duration_ms": 211316,
-      "name": "May I Have This Dance",
-      "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
-    },
-    {
       "added_at": "2023-02-13 10:37:00",
       "album": {
         "name": "No Longer in the Suburbs",
@@ -2127,6 +2111,22 @@
       "duration_ms": 189651,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/1ih7dEWtBbKpIrNo38Hcbn"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "May I Have This Dance",
+        "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
+      },
+      "artists": [
+        {
+          "name": "Meadowlark",
+          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
+        }
+      ],
+      "duration_ms": 211316,
+      "name": "May I Have This Dance",
+      "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Glasshouse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Kaleidoscope Evening",
         "url": "https://open.spotify.com/album/5am09sLNv7qC5QfPLC0KPG"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 163866,
       "name": "Kaleidoscope Evening",
       "url": "https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Glasshouse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
     },
     {
       "added_at": "2023-02-10 11:00:00",

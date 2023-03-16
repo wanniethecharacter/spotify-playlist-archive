@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 175733,
+  "num_followers": 175795,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDM5N2U1YjdiY2M4MTgzODc1YzYzYjMxNWNhZWQ1Nzcy",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDBiNTRjMmI5MjQ3ZTg5N2E5ZmFjZmFmNzZiMWZlMTJh",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Black Market",
-        "url": "https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd"
-      },
-      "artists": [
-        {
-          "name": "Weather Report",
-          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
-        }
-      ],
-      "duration_ms": 390640,
-      "name": "Black Market",
-      "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Romantic Warrior",
         "url": "https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 313866,
       "name": "Medieval Overture - Instrumental",
       "url": "https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Black Market",
+        "url": "https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd"
+      },
+      "artists": [
+        {
+          "name": "Weather Report",
+          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+        }
+      ],
+      "duration_ms": 390640,
+      "name": "Black Market",
+      "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
     },
     {
       "added_at": "2021-06-25 04:02:00",
@@ -457,38 +457,6 @@
       "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "The Brecker Bros",
-        "url": "https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ"
-      },
-      "artists": [
-        {
-          "name": "The Brecker Brothers",
-          "url": "https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l"
-        }
-      ],
-      "duration_ms": 350506,
-      "name": "Some Skunk Funk",
-      "url": "https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "The Rhinebeck Sessions",
-        "url": "https://open.spotify.com/album/3I3BsFSfYcBdS2Zls13Drq"
-      },
-      "artists": [
-        {
-          "name": "Spyro Gyra",
-          "url": "https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD"
-        }
-      ],
-      "duration_ms": 445013,
-      "name": "Sorbet",
-      "url": "https://open.spotify.com/track/450Rj9Nifq5Kq8Y6JQue6Z"
-    },
-    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Empire Central",
@@ -505,20 +473,20 @@
       "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
+      "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "The Antidote Is in the Poison",
-        "url": "https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj"
+        "name": "The Brecker Bros",
+        "url": "https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ"
       },
       "artists": [
         {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+          "name": "The Brecker Brothers",
+          "url": "https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l"
         }
       ],
-      "duration_ms": 352692,
-      "name": "The Antidote Is in the Poison",
-      "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
+      "duration_ms": 350506,
+      "name": "Some Skunk Funk",
+      "url": "https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -543,6 +511,38 @@
       "duration_ms": 207625,
       "name": "U.T.F.F.",
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "The Rhinebeck Sessions",
+        "url": "https://open.spotify.com/album/3I3BsFSfYcBdS2Zls13Drq"
+      },
+      "artists": [
+        {
+          "name": "Spyro Gyra",
+          "url": "https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD"
+        }
+      ],
+      "duration_ms": 445013,
+      "name": "Sorbet",
+      "url": "https://open.spotify.com/track/450Rj9Nifq5Kq8Y6JQue6Z"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "The Antidote Is in the Poison",
+        "url": "https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 352692,
+      "name": "The Antidote Is in the Poison",
+      "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -841,30 +841,6 @@
       "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
     },
     {
-      "added_at": "2021-05-07 04:01:00",
-      "album": {
-        "name": "One More !!?!??",
-        "url": "https://open.spotify.com/album/394rQAMc6iNZIzLyelepRf"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Fiset",
-          "url": "https://open.spotify.com/artist/07icU8dCi2MTeBGuvN8NyL"
-        },
-        {
-          "name": "Larnell Lewis",
-          "url": "https://open.spotify.com/artist/1hBRkKV5vncXd6W1KRJ87U"
-        },
-        {
-          "name": "Jordan Rudess",
-          "url": "https://open.spotify.com/artist/7gCuEDDLkP88rX2pk2XaZV"
-        }
-      ],
-      "duration_ms": 248174,
-      "name": "One More !!?!??",
-      "url": "https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT"
-    },
-    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Morse Code",
@@ -905,6 +881,30 @@
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
     },
     {
+      "added_at": "2021-05-07 04:01:00",
+      "album": {
+        "name": "One More !!?!??",
+        "url": "https://open.spotify.com/album/394rQAMc6iNZIzLyelepRf"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Fiset",
+          "url": "https://open.spotify.com/artist/07icU8dCi2MTeBGuvN8NyL"
+        },
+        {
+          "name": "Larnell Lewis",
+          "url": "https://open.spotify.com/artist/1hBRkKV5vncXd6W1KRJ87U"
+        },
+        {
+          "name": "Jordan Rudess",
+          "url": "https://open.spotify.com/artist/7gCuEDDLkP88rX2pk2XaZV"
+        }
+      ],
+      "duration_ms": 248174,
+      "name": "One More !!?!??",
+      "url": "https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT"
+    },
+    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Visions of the Emerald Beyond",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "In These Times",
-        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 185191,
-      "name": "Seventh String",
-      "url": "https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Shapeless",
@@ -951,6 +935,22 @@
       "duration_ms": 348733,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "In These Times",
+        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 185191,
+      "name": "Seventh String",
+      "url": "https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "The Bass-ic Collection",
-        "url": "https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM"
-      },
-      "artists": [
-        {
-          "name": "Stanley Clarke",
-          "url": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
-        }
-      ],
-      "duration_ms": 469333,
-      "name": "School Days",
-      "url": "https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb"
-    },
-    {
       "added_at": "2022-02-11 19:11:35",
       "album": {
         "name": "Pursuit of Ends",
@@ -1083,6 +1067,22 @@
       "duration_ms": 282066,
       "name": "All Roads Lead To Los Angeles",
       "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "The Bass-ic Collection",
+        "url": "https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM"
+      },
+      "artists": [
+        {
+          "name": "Stanley Clarke",
+          "url": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
+        }
+      ],
+      "duration_ms": 469333,
+      "name": "School Days",
+      "url": "https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1197,38 +1197,6 @@
       "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Dahaga",
-        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
-      },
-      "artists": [
-        {
-          "name": "Erwin Gutawa",
-          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
-        }
-      ],
-      "duration_ms": 289500,
-      "name": "Dahaga",
-      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "A Present For The Future",
-        "url": "https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5"
-      },
-      "artists": [
-        {
-          "name": "Frank Gambale",
-          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
-        }
-      ],
-      "duration_ms": 551733,
-      "name": "Legends",
-      "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
-    },
-    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Extension",
@@ -1263,18 +1231,34 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Now You See It ... (Now You Don't)",
-        "url": "https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo"
+        "name": "A Present For The Future",
+        "url": "https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5"
       },
       "artists": [
         {
-          "name": "Michael Brecker",
-          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+          "name": "Frank Gambale",
+          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
         }
       ],
-      "duration_ms": 326000,
-      "name": "Escher Sketch (A Tale Of Two Rhythms)",
-      "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
+      "duration_ms": 551733,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Dahaga",
+        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
+      },
+      "artists": [
+        {
+          "name": "Erwin Gutawa",
+          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
+        }
+      ],
+      "duration_ms": 289500,
+      "name": "Dahaga",
+      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1291,6 +1275,22 @@
       "duration_ms": 235106,
       "name": "Gimme 5",
       "url": "https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Now You See It ... (Now You Don't)",
+        "url": "https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo"
+      },
+      "artists": [
+        {
+          "name": "Michael Brecker",
+          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Escher Sketch (A Tale Of Two Rhythms)",
+      "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1421,22 +1421,6 @@
       "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
     },
     {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Liberation Time",
-        "url": "https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9"
-      },
-      "artists": [
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
-        }
-      ],
-      "duration_ms": 321693,
-      "name": "As the Spirit Sings",
-      "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
-    },
-    {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "Catch me if you can!",
@@ -1465,20 +1449,36 @@
       "url": "https://open.spotify.com/track/2sdQsMO4eC2Onw3WOOPp6n"
     },
     {
-      "added_at": "2022-02-11 19:09:35",
+      "added_at": "2021-07-16 04:01:00",
       "album": {
-        "name": "The Description Is Not The Described",
-        "url": "https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc"
+        "name": "Liberation Time",
+        "url": "https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9"
       },
       "artists": [
         {
-          "name": "Nathaniel Cross",
-          "url": "https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t"
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
         }
       ],
-      "duration_ms": 433160,
-      "name": "Goodbye for Now",
-      "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
+      "duration_ms": 321693,
+      "name": "As the Spirit Sings",
+      "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
+    },
+    {
+      "added_at": "2022-04-08 04:02:00",
+      "album": {
+        "name": "Free Colors",
+        "url": "https://open.spotify.com/album/5To6BwgtYKNgZnODcbexMa"
+      },
+      "artists": [
+        {
+          "name": "Tomohiro Maeda",
+          "url": "https://open.spotify.com/artist/4UQJP3QYMukd9eUqKuRn0N"
+        }
+      ],
+      "duration_ms": 251216,
+      "name": "Savannah",
+      "url": "https://open.spotify.com/track/771NJupMr1OXtQ76umdJCZ"
     }
   ],
   "unique_name": "Fusion Fest",

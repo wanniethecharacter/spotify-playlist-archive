@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Ne Obliviscaris
 
-607 songs - 2 day 4 hr 23 min
+608 songs - 2 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,7 +450,7 @@
 | [Someone to Save](https://open.spotify.com/track/6Cw3VE70ZMl67ysl48iVpM) | [Structural Disorder](https://open.spotify.com/artist/41lNpo0jwQzTVITCpZXzTH) | [Distance](https://open.spotify.com/album/62VUTy5iov3GKWhaO0WT7a) | 8:53 | 2021-12-17 | 2022-01-25 |
 | [Sorceress](https://open.spotify.com/track/2GBAebLEPMbZ00bFZCA0s6) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Sorceress](https://open.spotify.com/album/0pD9QGJjubOlnjMUHYM7OM) | 5:49 | 2021-12-17 | 2022-07-29 |
 | [Sorceress](https://open.spotify.com/track/5mY8mY7DSfuqVbY2psq3Cg) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Sorceress](https://open.spotify.com/album/2GNdgq3pIVLYZoNK4wJtCP) | 5:49 | 2022-07-08 | 2022-09-03 |
-| [Spaced Out \- alternative version](https://open.spotify.com/track/0DJCA40g0wlTfcnp8dcAx3) | [Arjen Anthony Lucassen's Star One](https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi) | [Space Metal \(Re\-issue 2022\)](https://open.spotify.com/album/6jd9WnGmEEmZvBciRy387Y) | 4:55 | 2022-03-11 |  |
+| [Spaced Out \- alternative version](https://open.spotify.com/track/0DJCA40g0wlTfcnp8dcAx3) | [Arjen Anthony Lucassen's Star One](https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi) | [Space Metal \(Re\-issue 2022\)](https://open.spotify.com/album/6jd9WnGmEEmZvBciRy387Y) | 4:55 | 2022-03-11 | 2023-03-16 |
 | [Spectre At The Feast](https://open.spotify.com/track/0w12uUjKKiSYhR1gKXpnHp) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Spectre At The Feast](https://open.spotify.com/album/1Px3a4tbFV1DUZJg6LfoML) | 4:18 | 2021-12-17 | 2022-09-03 |
 | [Spherical Horizon](https://open.spotify.com/track/6qGmditKb6K7nhhEtBtCwe) | [Confusing Paradise](https://open.spotify.com/artist/0oGmw2T01mqZSJbFQcigp0) | [Qualia](https://open.spotify.com/album/7IhpuuIj0guMsU6hiFNj3R) | 4:50 | 2021-12-17 | 2022-07-26 |
 | [Springfield](https://open.spotify.com/track/614xdvVqOIRY6KFCkQlVOB) | [Anathema](https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX) | [The Optimist](https://open.spotify.com/album/2pmuzXGYLCNysBat1Txe3W) | 5:49 | 2021-12-17 | 2022-01-29 |
@@ -466,6 +466,7 @@
 | [String Theory](https://open.spotify.com/track/6KKw70o8ZTy8LVltAyUwGw) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [String Theory](https://open.spotify.com/album/2VbMfWccghg85IgMXkaPiv) | 4:56 | 2021-12-17 | 2022-09-03 |
 | [Stuck](https://open.spotify.com/track/74vy9v25MuoqNVBdAjGwJC) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Malina](https://open.spotify.com/album/0DvboP39IwpnJU9QrKIpDW) | 6:48 | 2021-12-17 | 2022-09-03 |
 | [Such a Shame](https://open.spotify.com/track/31ecPwecmstplaiMrDUpPs) | [Kôôver](https://open.spotify.com/artist/7Hr5q9aRiMPF8C3VxS3UKa) | [Metal Covers, Vol\. 1](https://open.spotify.com/album/6AJ0wg09tASuePn8zKV8nP) | 4:13 | 2022-04-01 | 2023-02-25 |
+| [Such a Shame](https://open.spotify.com/track/6PGYsAkiIEJvF2w5f964ZB) | [Kôôver](https://open.spotify.com/artist/7Hr5q9aRiMPF8C3VxS3UKa) | [Power](https://open.spotify.com/album/2W3YX45J3X9L0JZvVIVhpU) | 4:13 | 2023-02-24 |  |
 | [Sundowner](https://open.spotify.com/track/3xktHOVxDZqnfzd5J7YqmA) | [Four Stroke Baron](https://open.spotify.com/artist/091cSUyhQCRgJreqXy17m5) | [Sundowner](https://open.spotify.com/album/5AG9QH3YQSsr2lNO0tYiTK) | 4:22 | 2021-12-17 | 2022-07-28 |
 | [Sunshine Dust](https://open.spotify.com/track/2l7nVNOhkH9GveLLidCP6l) | [Skyharbor](https://open.spotify.com/artist/0YbvZPP1HufDyWIsR0ei6K) | [Sunshine Dust](https://open.spotify.com/album/4VWICVl0jvAPNIN0qePUaO) | 6:19 | 2022-01-14 | 2022-01-17 |
 | [Surrounded \- Live in NYC \- 1993](https://open.spotify.com/track/4gi86wbezjWWY6UcSFHZut) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: Live in NYC \- 1993](https://open.spotify.com/album/02Y334D78pAitL6f5nxgxE) | 5:58 | 2022-03-18 |  |

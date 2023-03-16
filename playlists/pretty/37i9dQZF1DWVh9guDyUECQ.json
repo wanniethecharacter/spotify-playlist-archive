@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 161273,
+  "num_followers": 161357,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMDgzNmE4ZjZkNzUyYzhkNzY2N2U1OWJiZTg3MDdlNzky",
+  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMDE5ZjE3MTU3YzViOWZhODJlYjk2YmI0NWJiMjUxYjFk",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "No, No",
+        "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 176158,
+      "name": "No, No",
+      "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Energ\u00eda (Remix)",
         "url": "https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 266181,
       "name": "Energ\u00eda - Remix",
       "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "No, No",
-        "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 176158,
-      "name": "No, No",
-      "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Pura Alegr\u00eda",
+        "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 186367,
+      "name": "Pura Alegr\u00eda",
+      "url": "https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Ando Buscando",
         "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Pura Alegr\u00eda",
-        "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
+        "name": "Amor C\u00f3smico",
+        "url": "https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U"
       },
       "artists": [
         {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
         }
       ],
-      "duration_ms": 186367,
-      "name": "Pura Alegr\u00eda",
-      "url": "https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7"
+      "duration_ms": 179965,
+      "name": "Amor C\u00f3smico",
+      "url": "https://open.spotify.com/track/3028sySnVGjf0iD5UYf4nv"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1019,22 +1035,6 @@
       "duration_ms": 254000,
       "name": "La M\u00fasica",
       "url": "https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Amor C\u00f3smico",
-        "url": "https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 179965,
-      "name": "Amor C\u00f3smico",
-      "url": "https://open.spotify.com/track/3028sySnVGjf0iD5UYf4nv"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Gu\u00edame",
-        "url": "https://open.spotify.com/album/6OVSRwTmVqFaYZyqsNgklT"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 203790,
-      "name": "Gu\u00edame",
-      "url": "https://open.spotify.com/track/11iSxK5GHFhq2mgKMJStGs"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Futuro Contigo",
         "url": "https://open.spotify.com/album/4F1jlzvEXok5uEPkjorsCe"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "El Dise\u00f1ador",
-        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
+        "name": "Gu\u00edame",
+        "url": "https://open.spotify.com/album/6OVSRwTmVqFaYZyqsNgklT"
       },
       "artists": [
         {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
         }
       ],
-      "duration_ms": 225930,
-      "name": "El Dise\u00f1ador",
-      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
+      "duration_ms": 203790,
+      "name": "Gu\u00edame",
+      "url": "https://open.spotify.com/track/11iSxK5GHFhq2mgKMJStGs"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1211,22 +1195,42 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Por un Momento",
-        "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
+        "name": "Llegaste T\u00fa",
+        "url": "https://open.spotify.com/album/6GBHEIWKGd5YNz3z3wkDKi"
       },
       "artists": [
         {
-          "name": "The cXurch",
-          "url": "https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL"
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
         },
         {
-          "name": "Villanova",
-          "url": "https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu"
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Townix",
+          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
         }
       ],
-      "duration_ms": 211600,
-      "name": "Por un Momento",
-      "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
+      "duration_ms": 241640,
+      "name": "Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "El Dise\u00f1ador",
+        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
+      },
+      "artists": [
+        {
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+        }
+      ],
+      "duration_ms": 225930,
+      "name": "El Dise\u00f1ador",
+      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1275,46 +1279,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Llegaste T\u00fa",
-        "url": "https://open.spotify.com/album/6GBHEIWKGd5YNz3z3wkDKi"
+        "name": "Por un Momento",
+        "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
       },
       "artists": [
         {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+          "name": "The cXurch",
+          "url": "https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL"
         },
         {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "Townix",
-          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
+          "name": "Villanova",
+          "url": "https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu"
         }
       ],
-      "duration_ms": 241640,
-      "name": "Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Hasta La Eternidad",
-        "url": "https://open.spotify.com/album/53dywng9hTIkHvljhNavG2"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        },
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        }
-      ],
-      "duration_ms": 252571,
-      "name": "Hasta La Eternidad",
-      "url": "https://open.spotify.com/track/16oxOGkjLHON4PReY2q44e"
+      "duration_ms": 211600,
+      "name": "Por un Momento",
+      "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1343,26 +1323,42 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
-        "url": "https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy"
+        "name": "Noches Enteras",
+        "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
       },
       "artists": [
         {
-          "name": "Despinal",
-          "url": "https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe"
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
         },
         {
-          "name": "JMV The Producer",
-          "url": "https://open.spotify.com/artist/5cFyv6N31ohxAL5NEbEhHx"
-        },
-        {
-          "name": "Travy Joe",
-          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 185361,
-      "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
-      "url": "https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo"
+      "duration_ms": 231008,
+      "name": "Noches Enteras",
+      "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Hasta La Eternidad",
+        "url": "https://open.spotify.com/album/53dywng9hTIkHvljhNavG2"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        },
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "duration_ms": 252571,
+      "name": "Hasta La Eternidad",
+      "url": "https://open.spotify.com/track/16oxOGkjLHON4PReY2q44e"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1383,22 +1379,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Noches Enteras",
-        "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
+        "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
+        "url": "https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy"
       },
       "artists": [
         {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+          "name": "Despinal",
+          "url": "https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe"
         },
         {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+          "name": "JMV The Producer",
+          "url": "https://open.spotify.com/artist/5cFyv6N31ohxAL5NEbEhHx"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
         }
       ],
-      "duration_ms": 231008,
-      "name": "Noches Enteras",
-      "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
+      "duration_ms": 185361,
+      "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
+      "url": "https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Bueno es Dios",
+        "url": "https://open.spotify.com/album/6td6DYfOLlkA1AhBdwpFJE"
+      },
+      "artists": [
+        {
+          "name": "Yelitza Cintron",
+          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
+        },
+        {
+          "name": "Eliud L'voices",
+          "url": "https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Bueno es Dios",
+      "url": "https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Vine a Salvarte",
         "url": "https://open.spotify.com/album/2gO95dqmltMXpDEGTZdvNu"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 179999,
       "name": "Flavor",
       "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Bueno es Dios",
-        "url": "https://open.spotify.com/album/6td6DYfOLlkA1AhBdwpFJE"
-      },
-      "artists": [
-        {
-          "name": "Yelitza Cintron",
-          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
-        },
-        {
-          "name": "Eliud L'voices",
-          "url": "https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Bueno es Dios",
-      "url": "https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Mi Entrenador",
-        "url": "https://open.spotify.com/album/48uz8wzPvxy3Sea9U7hHhK"
-      },
-      "artists": [
-        {
-          "name": "KEFFA",
-          "url": "https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9"
-        },
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 178466,
-      "name": "Mi Entrenador",
-      "url": "https://open.spotify.com/track/3fBRK9zXvruN6etffZMP31"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt"
       },
@@ -1903,6 +1883,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Mi Entrenador",
+        "url": "https://open.spotify.com/album/48uz8wzPvxy3Sea9U7hHhK"
+      },
+      "artists": [
+        {
+          "name": "KEFFA",
+          "url": "https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9"
+        },
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 178466,
+      "name": "Mi Entrenador",
+      "url": "https://open.spotify.com/track/3fBRK9zXvruN6etffZMP31"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Un Call",
         "url": "https://open.spotify.com/album/41skV30829DyjovTu9BPas"
       },
@@ -1923,30 +1923,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "No Tiene Sentido",
-        "url": "https://open.spotify.com/album/1o7jXsTfe2SrhI4HEPoaKO"
-      },
-      "artists": [
-        {
-          "name": "Esencia Pr",
-          "url": "https://open.spotify.com/artist/5OyUXzH1TSSG8e9ETUMieM"
-        },
-        {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 253388,
-      "name": "No Tiene Sentido",
-      "url": "https://open.spotify.com/track/2jSSGUPLFu6OFlFuTWOLlP"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "M\u00e1s Como T\u00fa \u2013 Remix",
         "url": "https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ"
       },
@@ -1963,6 +1939,26 @@
       "duration_ms": 206230,
       "name": "M\u00e1s Como T\u00fa \u2013 Remix",
       "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Relevantes",
+        "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        },
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        }
+      ],
+      "duration_ms": 210370,
+      "name": "Humillado feat. Onell Diaz",
+      "url": "https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863"
     }
   ],
   "unique_name": "Flow Cristiano",

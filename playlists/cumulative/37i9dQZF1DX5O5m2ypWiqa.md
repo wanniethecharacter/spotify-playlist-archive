@@ -4,7 +4,7 @@
 
 > ¡Y qué retumbe la bandona, pariente! Julión Álvarez y su Norteño Banda en portada.
 
-171 songs - 9 hr 35 min
+172 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Cita con un Invento](https://open.spotify.com/track/773lk88kjUKstndUTL1W7F) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Polo Norte](https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy) | 3:23 | 2021-12-09 |  |
 | [Cita Con Un Invento](https://open.spotify.com/track/2QS1R7HauuK0yxEZkzuZqV) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Más Completa Colección \(Componente 1\)](https://open.spotify.com/album/75m8XGzKJKWr3vmmfiTOyf) | 3:24 | 2021-12-09 | 2022-07-29 |
 | [Como Duele Equivocarse](https://open.spotify.com/track/01Bb7kIu9BRyWE0G5A7AmI) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como Duele Equivocarse](https://open.spotify.com/album/7uPgz1Q8wMcX95PwxUH3tU) | 3:46 | 2022-01-20 | 2022-06-21 |
-| [Como la Palma de Mi Mano](https://open.spotify.com/track/7eqsKO7D6dEyKZapyvTz0h) | [Banda San Jose De Mesillas](https://open.spotify.com/artist/3YGCC3e19tclOUN2vLq78o) | [Como la Palma de Mi Mano](https://open.spotify.com/album/28vSVtTtCew6DDn8ZXkxVx) | 3:24 | 2022-07-18 |  |
+| [Como la Palma de Mi Mano](https://open.spotify.com/track/29Lzwd3TKWi5Amhg8FKJJL) | [Banda San Jose De Mesillas](https://open.spotify.com/artist/3YGCC3e19tclOUN2vLq78o) | [La Arrolladora Banda el Limon vs Banda San Jose de Mesillas](https://open.spotify.com/album/4DAfsg5bYdzEZqKP2YnYiJ) | 3:24 | 2022-07-18 |  |
+| [Como la Palma de Mi Mano](https://open.spotify.com/track/7eqsKO7D6dEyKZapyvTz0h) | [Banda San Jose De Mesillas](https://open.spotify.com/artist/3YGCC3e19tclOUN2vLq78o) | [Como la Palma de Mi Mano](https://open.spotify.com/album/28vSVtTtCew6DDn8ZXkxVx) | 3:24 | 2022-07-18 | 2023-03-16 |
 | [Como Perro Con Rabia](https://open.spotify.com/track/0qgOpzhcWrdDoum24QDW3l) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Las Retro Chingonas: Fiesta Con Sabor A Banda](https://open.spotify.com/album/3Sxh4tY0fxnAwrgICxnjnX) | 3:14 | 2022-07-18 | 2022-11-14 |
 | [Como Perro Con Rabia](https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Rey Del Jaripeo](https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY) | 3:14 | 2022-07-18 |  |
 | [Como Perro Con Rabia](https://open.spotify.com/track/16BvcgxOhZDnHIXl5r8Ihd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Rey Del Jaripeo](https://open.spotify.com/album/0YMffBHath50IgFqdb36LB) | 3:14 | 2022-07-18 | 2022-07-29 |

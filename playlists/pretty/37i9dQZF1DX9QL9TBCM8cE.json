@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 19767,
+  "num_followers": 19792,
   "original_name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIwMTIwMCwwMDAwMDAwMDg1MTBmZTk2ODcxZmVjMDQzYmE1Mjc3NTE2NWRiNTky",
+  "snapshot_id": "MTY3ODIwMTIwMCwwMDAwMDAwMDZhMWY0MDYwOGEyYzk4MmYzMDViNDVhZGFkNDU3ZWQ1",
   "tracks": [
     {
       "added_at": "2023-03-07 15:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 06",
+        "url": "https://open.spotify.com/album/0zgAxjnwrYfek0bxi2aISp"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30c8\u30ec\u30a4\u30e9\u30a4\u30c8",
+          "url": "https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Timeless Shooting Star",
+      "url": "https://open.spotify.com/track/33svvagvZcmKa0GRyo3a4O"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
         "url": "https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 230933,
       "name": "Damascus Cocktail",
       "url": "https://open.spotify.com/track/5XkAwhmHyr3u9mrQEs1HlP"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
-        "url": "https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG"
-      },
-      "artists": [
-        {
-          "name": "\u6d45\u5009 \u900f (CV.\u548c\u4e45\u4e95 \u512a)",
-          "url": "https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu"
-        }
-      ],
-      "duration_ms": 277866,
-      "name": "statice",
-      "url": "https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -683,18 +683,34 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 06",
-        "url": "https://open.spotify.com/album/0zgAxjnwrYfek0bxi2aISp"
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
+        "url": "https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG"
       },
       "artists": [
         {
-          "name": "\u30b9\u30c8\u30ec\u30a4\u30e9\u30a4\u30c8",
-          "url": "https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd"
+          "name": "\u6d45\u5009 \u900f (CV.\u548c\u4e45\u4e95 \u512a)",
+          "url": "https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu"
         }
       ],
-      "duration_ms": 212533,
-      "name": "Timeless Shooting Star",
-      "url": "https://open.spotify.com/track/33svvagvZcmKa0GRyo3a4O"
+      "duration_ms": 277866,
+      "name": "statice",
+      "url": "https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 03 (2023 Ver.)",
+        "url": "https://open.spotify.com/album/40mu9JZOicVhL9fW5xM08E"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
+          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
+        }
+      ],
+      "duration_ms": 244533,
+      "name": "\u7d14\u767d\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4 - 2023 Version",
+      "url": "https://open.spotify.com/track/6xhFbtRCFq4euJUr9Hkx8r"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -731,22 +747,6 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 03 (2023 Ver.)",
-        "url": "https://open.spotify.com/album/40mu9JZOicVhL9fW5xM08E"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
-          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
-        }
-      ],
-      "duration_ms": 244533,
-      "name": "\u7d14\u767d\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4 - 2023 Version",
-      "url": "https://open.spotify.com/track/6xhFbtRCFq4euJUr9Hkx8r"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
         "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
         "url": "https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG"
       },
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 06",
+        "url": "https://open.spotify.com/album/6pgeXOy8vv6LZ4ten6TKKE"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30c8\u30ec\u30a4\u30e9\u30a4\u30c8",
+          "url": "https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "Hide & Attack",
+      "url": "https://open.spotify.com/track/5mX8BzqOQ4u1UwrOCztEIc"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 04 \u5922\u54b2\u304dAfter school",
         "url": "https://open.spotify.com/album/7nbtHmpCxyd61CvO3DstSu"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 291520,
       "name": "\u592a\u967d\u30ad\u30c3\u30b9",
       "url": "https://open.spotify.com/track/7zHBye4FWEI3W6u3rqm39M"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 05",
-        "url": "https://open.spotify.com/album/5TiyTimNcQobXp7T8aT5EH"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2",
-          "url": "https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q"
-        }
-      ],
-      "duration_ms": 267506,
-      "name": "Bloomy!",
-      "url": "https://open.spotify.com/track/45PEMdEs1ohcHoyQ9u7kEf"
     },
     {
       "added_at": "2023-03-07 15:00:00",

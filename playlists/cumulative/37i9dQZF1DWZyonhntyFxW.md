@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري في مكان واحد 😎! غلاف: حُسَين
 
-168 songs - 8 hr 42 min
+169 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Keify Keda](https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Keify Keda](https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq) | 3:13 | 2022-05-10 | 2022-12-27 |
 | [Khamsa](https://open.spotify.com/track/13CV3gU68sljNILYjjaIBR) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Star](https://open.spotify.com/album/7knqeOrwUe1idz6IZoD2hJ) | 2:18 | 2022-09-21 |  |
 | [Law Makonash 7awelna](https://open.spotify.com/track/1KjEG5GBB8aUSkMTwGglWv) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Law Makonash 7awelna](https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7) | 3:06 | 2022-11-07 | 2022-12-27 |
+| [LELLY YAH](https://open.spotify.com/track/1SSymcmcSI1oYQtwOA8mOJ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [LELLY YAH](https://open.spotify.com/album/3zxpokbqTOtT3pry7cNhSK) | 3:09 | 2023-03-15 |  |
 | [LOGAN](https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:06 | 2022-08-23 |  |
 | [LOKLOK](https://open.spotify.com/track/5nXheavFnyhPyQXdO0jL3u) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [Farra](https://open.spotify.com/artist/4jaR2Xjm4FXiPM3JB1l0rT) | [LOKLOK](https://open.spotify.com/album/7rMduOQflk9P9TnxwRjs4X) | 3:39 | 2022-06-28 | 2022-10-14 |
 | [Ma 3aleena](https://open.spotify.com/track/0BZwBHaJKCClcVXIAZA0F5) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Ma 3aleena](https://open.spotify.com/album/6uisIEObaucNxczbcv67wc) | 3:26 | 2022-12-22 | 2023-02-08 |
@@ -106,7 +107,7 @@
 | [No Problema](https://open.spotify.com/track/3ULltzFiFkQO1ojly0zUh3) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [No Problema](https://open.spotify.com/album/1LgemKfJ05vDyUePTOr1gv) | 2:18 | 2022-05-10 | 2023-02-12 |
 | [No Problema](https://open.spotify.com/track/5AjsPhrcGQdRdkqLRalRfw) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [No Problema](https://open.spotify.com/album/3PWZcOc8IeMcCq0tiSqdpZ) | 2:18 | 2023-02-10 | 2023-02-14 |
 | [Oghnya OldSchool Gdeda](https://open.spotify.com/track/5XM88BvsRPBqg5dgCueIT7) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Oghnya OldSchool Gdeda](https://open.spotify.com/album/3AFOSy3rF2dxso0lImNmIu) | 3:30 | 2023-03-06 |  |
-| [OK](https://open.spotify.com/track/6R4KDVj2wQfGWkqmYa9pzh) | [Budgy](https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk), [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [OK](https://open.spotify.com/album/5BVlixDJAb8ud51gE6lSpE) | 2:30 | 2022-12-29 |  |
+| [OK](https://open.spotify.com/track/6R4KDVj2wQfGWkqmYa9pzh) | [Budgy](https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk), [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [OK](https://open.spotify.com/album/5BVlixDJAb8ud51gE6lSpE) | 2:30 | 2022-12-29 | 2023-03-16 |
 | [OPPS](https://open.spotify.com/track/1UTRr55P3GJIk6A9V4p4Ad) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [OPPS](https://open.spotify.com/album/6zc7KGo3ghbc7Mn5WE8ght) | 2:12 | 2023-01-26 |  |
 | [QESA HAZENA](https://open.spotify.com/track/2mBLOKrLsZbVfFKWjKadqe) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 3:07 | 2022-05-10 | 2022-08-24 |
 | [RACORE](https://open.spotify.com/track/3JFB9ZJ8vZrKL8AJiRspLZ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [RACORE](https://open.spotify.com/album/6JDXj7ECAHxWJ3kH3EqJ4q) | 2:56 | 2022-05-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 203858,
+  "num_followers": 204080,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU2NDUxMSwwMDAwMDAwMDczMjQ1NWZkNTlkNTNiNDZhYThjMDAxMWI4MDliYjdh",
+  "snapshot_id": "MTY3NzU2NDUxMSwwMDAwMDAwMDU1OTgyY2JhOTM0ZjA4N2E3ZmExZmQ3MGExMDFlZmM1",
   "tracks": [
     {
       "added_at": "2023-01-03 15:06:17",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Like a Virgin (Reissue)",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
         }
       ],
-      "duration_ms": 218626,
-      "name": "Like a Virgin",
-      "url": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
+      "duration_ms": 220706,
+      "name": "Footloose",
+      "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
-        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+        "name": "Like a Virgin (Reissue)",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
       "artists": [
         {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 220706,
-      "name": "Footloose",
-      "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO"
+      "duration_ms": 218626,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "Got My Mind Set On You",
+      "url": "https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
         "name": "Simple Pleasures",
         "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 329800,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "Got My Mind Set On You",
-      "url": "https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Let's Hear It for the Boy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 262440,
-      "name": "Let's Hear It for the Boy - From \"Footloose\" Original Soundtrack",
-      "url": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Fore!",
         "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 245466,
       "name": "Hip To Be Square",
       "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Let's Hear It for the Boy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 262440,
+      "name": "Let's Hear It for the Boy - From \"Footloose\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "The Final",
-        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 243093,
-      "name": "I'm Your Man",
-      "url": "https://open.spotify.com/track/2gG7E5OZi5D5QLRIctv63z"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Kylie",
         "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 193920,
       "name": "The Loco-Motion",
       "url": "https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "The Final",
+        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 243093,
+      "name": "I'm Your Man",
+      "url": "https://open.spotify.com/track/2gG7E5OZi5D5QLRIctv63z"
     },
     {
       "added_at": "2023-02-28 06:08:31",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
+        "name": "Different Light (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Walk Like an Egyptian",
+      "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
         "name": "World Beat",
         "url": "https://open.spotify.com/album/3RWIENzO8frYhajwCHl7SL"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 244773,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
-        "name": "Different Light (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
-      },
-      "artists": [
-        {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Walk Like an Egyptian",
-      "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
     },
     {
       "added_at": "2023-01-03 15:06:17",

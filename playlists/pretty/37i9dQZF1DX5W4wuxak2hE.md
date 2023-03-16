@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,311 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,371 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 44 | [Making Plans For Nigel](https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Drums And Wires](https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl) | 4:13 |
 | 45 | [Alison](https://open.spotify.com/track/1v98rfd0an913AzHvMNG8a) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:24 |
 | 46 | [She's A Beauty \- Remastered 1991](https://open.spotify.com/track/7HF88mJXq8DpotZohoW2mo) | [The Tubes](https://open.spotify.com/artist/7zfhej6FnVXN9LIXs6dcoK) | [Outside Inside](https://open.spotify.com/album/2WiDQ5arP6dQ5unzoTJ0UH) | 4:00 |
-| 47 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
-| 48 | [Hello It's Me](https://open.spotify.com/track/3gHFKiDanj4d2rqgHlRFFc) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr) | 4:24 |
+| 47 | [Hello It's Me](https://open.spotify.com/track/3gHFKiDanj4d2rqgHlRFFc) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr) | 4:24 |
+| 48 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
 | 49 | [Cruel to Be Kind](https://open.spotify.com/track/7D5ycpIrqwGNTQFKmzhDIg) | [Nick Lowe](https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7) | [Labour of Lust](https://open.spotify.com/album/7c8NVsxXciWMbAMN51GKim) | 3:30 |
 | 50 | [Ah! Leah!](https://open.spotify.com/track/3ifaGhNHnCPQ9zdnOfolcZ) | [Donnie Iris](https://open.spotify.com/artist/4kveDT8ylFciq1mdeYcIvw) | [20th Century Masters: The Millennium Collection: Best of Donnie Iris](https://open.spotify.com/album/5SflwEXSYK6xowXF9SDrkF) | 3:42 |
 
-Snapshot ID: `MTY3NDA3NDQwNSwwMDAwMDAwMDVmZjIxOGM2NDc1NzNmNDZlYTgxM2E3OGY1ZDAzNDdk`
+Snapshot ID: `MTY3NDA3NDQwNSwwMDAwMDAwMDlmYzljZjg3YWQxODE1ZDUyZDM3ZGNmYmVkODYwZDM3`

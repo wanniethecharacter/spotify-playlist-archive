@@ -1513,6 +1513,28 @@
     },
     {
       "album": {
+        "name": "k o : d a",
+        "url": "https://open.spotify.com/album/06UNIbT3ICptJEmbilqSl2"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "Klass (Robot Koch Rework)",
+      "url": "https://open.spotify.com/track/4yvlSGZem0ssbw2zIf6rr6"
+    },
+    {
+      "album": {
         "name": "Klass (Robot Koch Rework)",
         "url": "https://open.spotify.com/album/5NGRqqdsVWcFGZq4GqWytD"
       },
@@ -2650,7 +2672,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 407062,
       "name": "Sea Kaleidoscope",
       "url": "https://open.spotify.com/track/3ARFPSPw3Mhx0Lr0kajzBd"
@@ -3167,6 +3189,28 @@
     },
     {
       "album": {
+        "name": "Tapir",
+        "url": "https://open.spotify.com/album/3GR4fQQerubloHGRzyqrtr"
+      },
+      "artists": [
+        {
+          "name": "Blurstem",
+          "url": "https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn"
+        },
+        {
+          "name": "Andrew Tasselmyer",
+          "url": "https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "Tapir",
+      "url": "https://open.spotify.com/track/20MXBhQSpsngsyWdn7lwjF"
+    },
+    {
+      "album": {
         "name": "The Hope of Better Weather",
         "url": "https://open.spotify.com/album/419TYWSCyXp4Wez6XbdUDo"
       },
@@ -3352,7 +3396,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 168000,
       "name": "Tsukiyo",
       "url": "https://open.spotify.com/track/0LcM0jJCxhAOw8fjLjehes"

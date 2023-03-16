@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,481 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,548 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 150 | [Carried by Invisible Bodies](https://open.spotify.com/track/0V665zKL2u80bgMscupat1) | [Lost Girls](https://open.spotify.com/artist/6Kw9BTxzFraz25S8HCe8pQ), [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7), [Håvard Volden](https://open.spotify.com/artist/5qfLwIMPtIom9LXgMoRcw0) | [Menneskekollektivet](https://open.spotify.com/album/2s78eWRhSxsb7KaEbi4p4Q) | 6:15 |
 | 151 | [Losing Something](https://open.spotify.com/track/5e4afISwKbl2HFNjGIPkaF) | [Lost Girls](https://open.spotify.com/artist/6Kw9BTxzFraz25S8HCe8pQ), [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7), [Håvard Volden](https://open.spotify.com/artist/5qfLwIMPtIom9LXgMoRcw0) | [Menneskekollektivet](https://open.spotify.com/album/2s78eWRhSxsb7KaEbi4p4Q) | 4:16 |
 | 152 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 |
-| 153 | [Faceless](https://open.spotify.com/track/5oSuNG9lPLcsu7OlW45jeV) | [Obsimo](https://open.spotify.com/artist/3zHiZOMFJFL3GjWwsmYEJy) | [Obsidienne](https://open.spotify.com/album/5VgQ8l8YD5LGes6eUpw04w) | 4:03 |
+| 153 | [Faceless](https://open.spotify.com/track/35FXYk8DBNKqcUkeFnFhFf) | [Obsimo](https://open.spotify.com/artist/3zHiZOMFJFL3GjWwsmYEJy) | [Obsidienne](https://open.spotify.com/album/5eaRJz6UKreHULrtaTDmQ7) | 4:03 |
 | 154 | [All In Place](https://open.spotify.com/track/3zUs4BlIIozxQVBjGN1D7P) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [All In Place \(feat\. Bearcubs\)](https://open.spotify.com/album/5DPgB65gzwvsaVrGSIErUp) | 4:03 |
 | 155 | [Arena](https://open.spotify.com/track/6ale6gl5ZL8CkLg6vv6N2X) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [Zeroes QC](https://open.spotify.com/album/4u3DR7kACs2BSegDxoq3GL) | 5:11 |
 | 156 | [Baby Baby Baby](https://open.spotify.com/track/3OdBWz9Vw4hhwSQ8xFiZEO) | [Make The Girl Dance](https://open.spotify.com/artist/1R3C9rNasGbYW0Gtlg1Ye4) | [Everything Is Gonna Be OK In The End](https://open.spotify.com/album/0eSPvfgbg5UdtFyEw9kxcF) | 4:03 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MTY3NjQ4MjgyOCwwMDAwMDAwMGFkNGRkYTc2OTg3NTA3MmVjZGM3NmQwMmVkZTY2YjQx`
+Snapshot ID: `MTY3NjQ4MjgyOCwwMDAwMDAwMDBiYmJjNTQ0YjEyYTkwYTNhZDlkMTM2NDE2ZjUzZGEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Maluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,814 likes - 56 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,830 likes - 56 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 47 | [A Ciegas](https://open.spotify.com/track/1pOpW3GvpGclPBc6HngkMq) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Ciegas](https://open.spotify.com/album/6zUy5POlhAp5xZVqVZQad6) | 2:55 |
 | 48 | [Freestyle Battle](https://open.spotify.com/track/3UHBsNMEmsFDGkFamrPNKa) | [Martha Heredia](https://open.spotify.com/artist/4NVLjSxgnzrCweDkMWUTEv), [MelyMel](https://open.spotify.com/artist/4tM8sp8yDce3Km1pYHQb6Y) | [FreeStyle Battle](https://open.spotify.com/album/5n8ZkO6LW3bxWhtpuYfrR6) | 2:00 |
 | 49 | [NO ME ATRAE](https://open.spotify.com/track/2AvLjHKuiQYgiuJ299t3NP) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [HORA DE IRTE MIXTAPE](https://open.spotify.com/album/5x1j2CtNYKsIsvYvTsyeTX) | 3:07 |
-| 50 | [DINAMITA \- Sped Up Version](https://open.spotify.com/track/0Yg1lqjNYdqERnux50K0zW) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2), [Speed Radio](https://open.spotify.com/artist/33oSsKXosiLMohk3HynnvT) | [DINAMITA \(Sped up Version\)](https://open.spotify.com/album/2T209skehidTDEqRhUPYd1) | 2:27 |
+| 50 | [DINAMITA \- Sped Up Version](https://open.spotify.com/track/0Yg1lqjNYdqERnux50K0zW) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [DINAMITA \(Sped up Version\)](https://open.spotify.com/album/2T209skehidTDEqRhUPYd1) | 2:27 |
 | 51 | [Espiritual](https://open.spotify.com/track/4Kf6y3hJc4XgaO6iwuUsX7) | [ELU](https://open.spotify.com/artist/4C53psmv7ayjtW22NqPCTy), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi) | [Espiritual](https://open.spotify.com/album/1ICv7Sl8jC9rogO6BDrfm0) | 3:02 |
 | 52 | [Isla](https://open.spotify.com/track/4swPh5TSwItemozohe2cO2) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Aurora](https://open.spotify.com/album/60N60tN9VlpH7ai211GRb1) | 2:55 |
 | 53 | [Navego](https://open.spotify.com/track/5ADyMWZM9dBKvRjCrfbu7j) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Kinesis](https://open.spotify.com/album/5NmANPMiXncyAwoNXOW9tK) | 3:19 |

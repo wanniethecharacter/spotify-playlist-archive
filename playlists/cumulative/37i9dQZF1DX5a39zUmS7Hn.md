@@ -4,7 +4,7 @@
 
 > New music and timeless tracks from legends only\. Cover: Depeche Mode
 
-242 songs - 17 hr 21 min
+243 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Motorcycle Emptiness \- Remastered](https://open.spotify.com/track/73kW4XDVEv9Vuv7eVN7BdP) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Generation Terrorists \(Legacy Edition\) \[Remastered\]](https://open.spotify.com/album/5XV63qDoIC1z2Tb0EIMVua) | 6:08 | 2022-04-08 | 2022-07-29 |
 | [Movin' on Up](https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc) | 3:48 | 2022-04-08 | 2022-07-29 |
 | [Mr Haze](https://open.spotify.com/track/6Ae5MCW42CFSdWsHCm3ael) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Mr Haze](https://open.spotify.com/album/3luzmuuF7nGPYL2AquVfYJ) | 3:39 | 2022-04-08 | 2022-07-28 |
+| [My Cosmos Is Mine](https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [My Cosmos Is Mine](https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv) | 5:16 | 2023-03-10 |  |
 | [My Hero](https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:20 | 2022-04-08 |  |
 | [Nature Boy](https://open.spotify.com/track/3SV2yDeosH5WpfE7FvJyTa) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Abattoir Blues / The Lyre of Orpheus](https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM) | 4:54 | 2022-04-08 | 2022-07-29 |
 | [Need a Little Love](https://open.spotify.com/track/6XNSmhOrXmuje5Ee6S5RMM) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Need a Little Love](https://open.spotify.com/album/2RRbhqV4FRFj8j8fQRgJVr) | 3:49 | 2022-04-08 | 2022-07-26 |
@@ -180,7 +181,7 @@
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-07-28 |  |
 | [Rushing Water](https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:17 | 2022-07-28 | 2022-09-09 |
 | [Rushing Water](https://open.spotify.com/track/5WbDz2wejq1YgdwFaJAipD) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Rushing Water](https://open.spotify.com/album/4gqzoPUB5hRX7NC6r1uE5P) | 3:17 | 2022-04-08 | 2022-07-29 |
-| [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-09-09 |  |
+| [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-09-09 | 2023-03-16 |
 | [Satellite of Love](https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:41 | 2022-04-08 | 2022-11-27 |
 | [Say Hi](https://open.spotify.com/track/2ZlkSwGFFuKgbJiiHVAw4j) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Matter of Time / Say Hi](https://open.spotify.com/album/6Z6fyPwQzpp0XO9HvQH1d6) | 2:48 | 2022-05-27 | 2022-07-20 |
 | [Scarlet](https://open.spotify.com/track/3vSXV46H3bSmJHX79NV9Zu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Jimmy Page](https://open.spotify.com/artist/55bGuHb50r5c0PeqqMeNBV) | [Goats Head Soup \(Deluxe\)](https://open.spotify.com/album/5Q7oMv5dx9VinYxveFZNsn) | 3:44 | 2022-04-08 | 2022-07-29 |

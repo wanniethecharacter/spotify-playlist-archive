@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 
 > Enjoy music from "My Hero Academia"! 歴代OP/ED、サントラ曲で辿る<a href="http://heroaca.com/">「僕のヒーローアカデミア」</a>の世界。© 堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,072 likes - 58 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,508 likes - 58 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 |
 | 2 | [キタカゼ](https://open.spotify.com/track/2KiZEAlUsTNSDzihxCRnB6) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [キタカゼ](https://open.spotify.com/album/4necvS3oFQ2YyMxJrGvyjG) | 3:31 |
-| 3 | [The Next Me](https://open.spotify.com/track/7CkwAWQgVabTEMQo9JdXaP) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [「僕のヒーローアカデミア」サウンドトラックセレクション 2021\-2023](https://open.spotify.com/album/3MRlskbgnU3ULFv2fJmKq9) | 2:42 |
+| 3 | [The Next Me](https://open.spotify.com/track/6YplgWCRKfomhLBHOmlCmT) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 2:42 |
 | 4 | [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 |
 | 5 | [SKETCH](https://open.spotify.com/track/1hoeIeIVXV9nDPWL21Nbjj) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [SKETCH](https://open.spotify.com/album/0A1gohH5dOABV1NkjK49dL) | 3:57 |
 | 6 | [Weeee Are Fuxkin Super Hero!!](https://open.spotify.com/track/4fvM3fAOG2BWgicIbVdSdz) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 2:32 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 | 57 | [ロングホープ・フィリア](https://open.spotify.com/track/2tPQxzloliTGZHSnuoblD8) | [Masaki Suda](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [LOVE](https://open.spotify.com/album/6P7vdw5AEZECkX8dwZAt6B) | 4:55 |
 | 58 | [戦闘許可!](https://open.spotify.com/track/6OmhUA5iVoSzbtCNLteTpa) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 2:25 |
 
-Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMDRlOThkN2ZjMTJjYzE5NTZiYmEzZjE0ZjQ1ZWI0Mjhl`
+Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMGI1Njk3OWUzNDM5MzFkZjc5ZGJkZGQ3NGM0Yzc3NWYy`

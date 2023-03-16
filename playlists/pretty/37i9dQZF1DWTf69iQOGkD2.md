@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto:Dois P, Amabbi,  1Kilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,757 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,923 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 5 | [França \(Papasessions\#10\) \[feat\. L7NNON\]](https://open.spotify.com/track/3CVXpU3Vh3wIcyeNvR3xVq) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ), [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [França \(Papasessions\#10\) \[feat\. L7NNON\]](https://open.spotify.com/album/4KoMHdExjgAnPiEk9bthn0) | 4:54 |
 | 6 | [Penelope](https://open.spotify.com/track/66qOxO7krWQpQWZPi1IzQo) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Penelope](https://open.spotify.com/album/71htdEQmQqPoSQwdTR0auD) | 2:51 |
 | 7 | [Tava aqui pensando em nós](https://open.spotify.com/track/4k3ttE8Xpuxq0v0krwgU7x) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Me Espera](https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof) | 3:22 |
-| 8 | [Fim de Semana](https://open.spotify.com/track/4bMFMvGNOGQ5GN91G4vw1K) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Brian Arimura](https://open.spotify.com/artist/3564y3B882wmolbLQVDVzZ) | [Fim de Semana](https://open.spotify.com/album/3QrfrubXNF6xRzCAV6DvB7) | 3:14 |
+| 8 | [Fim de Semana](https://open.spotify.com/track/4bMFMvGNOGQ5GN91G4vw1K) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Brian Arimura](https://open.spotify.com/artist/3564y3B882wmolbLQVDVzZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Fim de Semana](https://open.spotify.com/album/3QrfrubXNF6xRzCAV6DvB7) | 3:14 |
 | 9 | [Docê](https://open.spotify.com/track/7kAMRNiXGz63vG05Lsl8WR) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Docê](https://open.spotify.com/album/2pE3i5zeAV3RCezKx7njJ6) | 2:14 |
 | 10 | [A sós](https://open.spotify.com/track/0GuC7WFhqyg9nd13YkJzfL) | [Nakayy](https://open.spotify.com/artist/7ehVkUgZD7mVWXslCoGes2), [J a u m](https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [A sós](https://open.spotify.com/album/1lGYaIT0EVvbfIl2EFx1C0) | 2:55 |
 | 11 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 |

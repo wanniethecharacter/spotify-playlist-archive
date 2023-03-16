@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 77129,
+  "num_followers": 77167,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEzOTQ5MywwMDAwMDAwMDhkOGFmZWQ4OTM5NzM4ODQyMmQ2ZjcyNTkzOGRlYzcx",
+  "snapshot_id": "MTY3ODEzOTQ5MywwMDAwMDAwMDNmNjQ5OTNhNzM2MDA1Yzg0ZmRiMDg1MDE1OWU3NWJh",
   "tracks": [
     {
       "added_at": "2023-03-06 21:51:33",
@@ -823,22 +823,18 @@
     {
       "added_at": "2023-03-06 21:51:33",
       "album": {
-        "name": "Into The Groove",
-        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
+        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
+        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
       },
       "artists": [
         {
-          "name": "Blake Baxter",
-          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
-        },
-        {
-          "name": "Abe Duque",
-          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
+          "name": "Psyche/BFC",
+          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
         }
       ],
-      "duration_ms": 396190,
-      "name": "Into The Groove - Extended Mix",
-      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
+      "duration_ms": 411999,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
     },
     {
       "added_at": "2023-03-06 21:51:33",
@@ -863,18 +859,22 @@
     {
       "added_at": "2023-03-06 21:51:33",
       "album": {
-        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
-        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
+        "name": "Into The Groove",
+        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
       },
       "artists": [
         {
-          "name": "Psyche/BFC",
-          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
+          "name": "Blake Baxter",
+          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
+        },
+        {
+          "name": "Abe Duque",
+          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
         }
       ],
-      "duration_ms": 411999,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
+      "duration_ms": 396190,
+      "name": "Into The Groove - Extended Mix",
+      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
     }
   ],
   "unique_name": "Detroit Techno",

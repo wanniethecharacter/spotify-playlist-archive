@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1802630,
+  "num_followers": 1802637,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE3Mjc5OSwwMDAwMDAwMDQ4MzU4Mjk5NjdlZTIyYWIwZmIxNWZhM2Y1NjBiMmRm",
+  "snapshot_id": "MTY3NzE3Mjc5OSwwMDAwMDAwMDk4ZjRmYjJkMTkxNzEzYzIwNjMyMDI0YjNmYTdkYzZi",
   "tracks": [
     {
       "added_at": "2023-01-09 17:44:47",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Anti-Hero (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 196473,
-      "name": "Anti-Hero - Acoustic Version",
-      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 219681,
       "name": "Garden Song",
       "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Anti-Hero (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 196473,
+      "name": "Anti-Hero - Acoustic Version",
+      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+        "name": "I Can't Let Go",
+        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 193800,
-      "name": "To the Mountains",
-      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
+      "duration_ms": 193031,
+      "name": "Moves",
+      "url": "https://open.spotify.com/track/6TT7B4MigCJCc0tqKYEpZC"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "I Can't Let Go",
-        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 193031,
-      "name": "Moves",
-      "url": "https://open.spotify.com/track/6TT7B4MigCJCc0tqKYEpZC"
+      "duration_ms": 193800,
+      "name": "To the Mountains",
+      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "River Fools & Mountain Saints",
-        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
-      },
-      "artists": [
-        {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Tom Barrett",
-      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "MONOVISION",
         "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 251933,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "River Fools & Mountain Saints",
+        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Tom Barrett",
+      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Only Time",
-        "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
-      },
-      "artists": [
-        {
-          "name": "Aaron Espe",
-          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "Only Time",
-      "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 255533,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Only Time",
+        "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
+      },
+      "artists": [
+        {
+          "name": "Aaron Espe",
+          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "Only Time",
+      "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "Chlo\u00eb and the Next 20th Century",
         "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 300240,
       "name": "Goodbye Mr. Blue",
       "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "The Breach EP",
         "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 253848,
       "name": "The Breach",
       "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 90227,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "Asphalt Meadows",
         "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 168186,
       "name": "Pepper",
       "url": "https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 90227,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Forever Turned Around",
-        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Valleys (My Love)",
-      "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
+        "name": "Forever Turned Around",
+        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Valleys (My Love)",
+      "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 276826,
       "name": "All The Good Times",
       "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Peace Or Love",
+        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 210377,
+      "name": "Rocky Trail",
+      "url": "https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1107,22 +1123,6 @@
       "duration_ms": 262960,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
-        "name": "Peace Or Love",
-        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 210377,
-      "name": "Rocky Trail",
-      "url": "https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 194053,
-      "name": "October Sky",
-      "url": "https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "The Last Exit",
         "url": "https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 235093,
       "name": "Static",
       "url": "https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 194053,
+      "name": "October Sky",
+      "url": "https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "Cazadera",
-      "url": "https://open.spotify.com/track/5gi3e0vVgX0Jpgnc7fhZCc"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "Flight Risk EP",
         "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 157801,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/6xLf6gcZR4CPXrFrhzqqYu"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "Cazadera",
+      "url": "https://open.spotify.com/track/5gi3e0vVgX0Jpgnc7fhZCc"
     },
     {
       "added_at": "2023-01-09 17:44:47",

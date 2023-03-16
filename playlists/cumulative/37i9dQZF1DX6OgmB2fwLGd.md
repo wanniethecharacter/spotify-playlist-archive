@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Ken Carson
 
-572 songs - 23 hr 34 min
+574 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [BILLIE EILISH.](https://open.spotify.com/track/5eMsJ357tcd0mrGsgBnfSI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Release Round Up Vol.4](https://open.spotify.com/album/5Ke5G7lbi2BCgDc5VLn8Xh) | 1:39 | 2022-06-17 | 2022-11-13 |
 | [BILLIE EILISH.](https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i) | 1:39 | 2022-05-20 | 2022-07-29 |
 | [bitch im joe biden](https://open.spotify.com/track/14hW7QNB7jEQYQVcdN79Xu) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [bitch im joe biden](https://open.spotify.com/album/1Kqk8PBnJOv7FgfCer68nH) | 1:48 | 2021-10-22 | 2022-04-09 |
+| [Blicky](https://open.spotify.com/track/5udNN5hwk870U9dk7a0nHe) | [Fresh X Reckless](https://open.spotify.com/artist/3uB3wq2PdbbQpr3jCsQusC) | [Blicky](https://open.spotify.com/album/7qLHhWcP0GbiVjHXwBuZgH) | 2:11 | 2023-03-15 |  |
 | [bloody mary \(feat\. Ken Car$on\)](https://open.spotify.com/track/5bgHx7A9rlYuOXo5QDerlS) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [The Twin Society](https://open.spotify.com/album/2plgNIBaUWx8Tgog8Y8OwM) | 3:37 | 2022-07-29 | 2022-09-24 |
 | [Blue Bills \(feat\. $NOT & Fenix Flexin\)](https://open.spotify.com/track/2eXuIbuMb70Mixj7oMSJnn) | [DJ Scheme](https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [FAMILY \(Deluxe\)](https://open.spotify.com/album/33O2GXSm43GLTmYQSTxDoL) | 1:40 | 2022-01-26 | 2022-05-21 |
 | [Bluffing](https://open.spotify.com/track/1NNJMmLuZuUvqhaB9PC4tz) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Bluffing](https://open.spotify.com/album/6i7t2CdHTVigw9owQqnN2P) | 2:06 | 2021-12-10 | 2022-02-26 |
@@ -356,6 +357,7 @@
 | [Mr\. Put It On](https://open.spotify.com/track/70EiV32gjM86o0XeTj5nq0) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Mr\. Put It On](https://open.spotify.com/album/1OE9RhxKK7NY2r9vRUP8hg) | 2:47 | 2022-04-20 | 2022-09-17 |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-08-28 | 2023-01-14 |
 | [MURDAMAN!](https://open.spotify.com/track/4Nz9WVrMWeSubvPqLLEdTJ) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [MURDAMAN!](https://open.spotify.com/album/1VuLjemtxOlQmetIZIqd5u) | 2:36 | 2022-03-16 | 2022-08-27 |
+| [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2023-03-15 |  |
 | [My Everything \(Part III\) \(feat\. G Herbo\)](https://open.spotify.com/track/4aGZWvZ5L2MLWC2GjZBps8) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [My Everything \(Part III\) \(feat\. G Herbo\)](https://open.spotify.com/album/5pj2T91lHwn5A3qExRV4l9) | 2:30 | 2021-12-17 | 2022-02-05 |
 | [My Way](https://open.spotify.com/track/3B2bQo24JvhiqrwWI1Q4OW) | [NDO Dee](https://open.spotify.com/artist/3GRdBABrc1l7INMwDldBuQ) | [My Way](https://open.spotify.com/album/06ADyz2v8NMndnRUIYbras) | 1:48 | 2023-02-16 |  |
 | [My World](https://open.spotify.com/track/3GsQiEOwY9i3q9HQZQWxmr) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [My World](https://open.spotify.com/album/55ko7ulwSD2Mvlhe0sy1ay) | 2:57 | 2022-07-01 | 2022-07-23 |

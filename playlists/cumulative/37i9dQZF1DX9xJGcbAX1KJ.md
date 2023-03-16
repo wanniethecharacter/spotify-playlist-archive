@@ -4,7 +4,7 @@
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-303 songs - 18 hr 55 min
+304 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [I Was Made For Loving You / Please Don't Say You Love Me](https://open.spotify.com/track/2pueVOwR0Fp60lssWsr3lT) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I), [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Covers, Vol\. 1](https://open.spotify.com/album/0pFKSvcpPypfbxxTqI77qa) | 2:42 | 2019-02-22 | 2022-06-13 |
 | [I Will](https://open.spotify.com/track/3ei99dge15PXGB99SCSA4y) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Now That I've Found You: A Collection](https://open.spotify.com/album/1yt29znD6KxC2ayfnT1Cqk) | 4:04 | 2019-02-22 | 2022-07-29 |
 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/0b8KcBvQVOYGRQWGaWzyS0) | 3:32 | 2019-02-22 | 2022-07-18 |
-| [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 | 2019-02-22 |  |
+| [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 | 2019-02-22 | 2023-03-16 |
 | [I'm Not the Only One \- Live from Spotify, London](https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Spotify Session](https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz) | 3:15 | 2019-02-22 |  |
 | [I'm on Fire](https://open.spotify.com/track/6EdnX4fu6jAY65VmOHFhOk) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [I'm on Fire](https://open.spotify.com/album/1fwLr1J1BuLKl0gh4jsn7p) | 3:07 | 2019-02-22 | 2022-07-28 |
 | [I'm on Fire](https://open.spotify.com/track/1zQPmA4n3euo6UEV4R4col) | [The DeLorean Sisters](https://open.spotify.com/artist/5ZvTKfngMbuI3sFLv9mdfE) | [The DeLorean Sisters](https://open.spotify.com/album/58d4qk0mMIiWLlIxFAZK0E) | 2:12 | 2019-02-22 | 2022-05-02 |
@@ -207,6 +207,7 @@
 | [Pompeii](https://open.spotify.com/track/7M288uc13UNSvwOSPfuEAL) | [Ark Rhodes](https://open.spotify.com/artist/3FOgrJd8jReZNmJ80a5PvO), [Savannah Outen](https://open.spotify.com/artist/0FcC38n7nTB9YS1xhFOKDX) | [Pompeii](https://open.spotify.com/album/3kJ5JBWRaoOgfz2alG0r5u) | 2:53 | 2019-02-22 | 2022-05-17 |
 | [Pony \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0exKMPo2iind68yWTaHCrr) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Spotify Singles](https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX) | 4:16 | 2019-02-22 | 2022-07-12 |
 | [Prayer in Open D](https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [To Emmylou](https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr) | 2:53 | 2019-02-22 | 2022-07-24 |
+| [Rather Be](https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 4:07 | 2019-02-22 |  |
 | [Re: Stacks](https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ) | [Charlie Simpson](https://open.spotify.com/artist/3CGzpCMqpqHnafmn2PFQd9) | [Little Hands](https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv) | 6:07 | 2019-02-22 | 2022-07-29 |
 | [Right Down The Line](https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [NUDES](https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y) | 3:55 | 2019-02-22 | 2022-07-28 |
 | [Rocket Man](https://open.spotify.com/track/1okfEMGJlkIgguDlkebSKr) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Rocket Man](https://open.spotify.com/album/1HzRK0ZodVtlnZUoYeDENq) | 4:47 | 2019-02-22 | 2022-07-28 |

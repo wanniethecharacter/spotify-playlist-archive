@@ -4,10 +4,11 @@
 
 > Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
 
-3,874 songs - 8 day 10 hr 20 min
+3,874 songs - 8 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/7arNPz9Tj3WNxRdHoGOKCj) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Serial Killer Killer](https://open.spotify.com/album/3y2yJiGb3U9xIj8glIP4iG) | 0:00 | 2023-03-13 |  |
 | [$money Mantra$](https://open.spotify.com/track/6m8ZOpuseZ9y3LeRy4Ytwu) | [Moonlight Scorpio](https://open.spotify.com/artist/4MmceHDNzXjWNr42IFpuJc) | [$money Mantra$](https://open.spotify.com/album/1UXP48DCkbFs2ryDdWigla) | 2:17 | 2021-10-26 | 2021-11-02 |
 | [\(Fuck\) What I Need](https://open.spotify.com/track/2Zx3wGzlKxmnGfBDk9ZImh) | [Diamond White](https://open.spotify.com/artist/0Ns29jDBaYI2wbHvTR1B9j) | [Tomorrow](https://open.spotify.com/album/6mQl2688a2mIS0VD9akzo8) | 3:25 | 2021-07-27 | 2021-08-03 |
 | [\(Love Like a\) Teenager](https://open.spotify.com/track/25oA0HgBRo0zgmgklwVtw2) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX) | [\(Love Like A\) Teenager](https://open.spotify.com/album/3ZQSJ4zSJxc48RdO9FIfBv) | 3:18 | 2021-07-13 | 2021-07-20 |
@@ -2973,7 +2974,6 @@
 | [Sensitive](https://open.spotify.com/track/2zQH8HDTJww0eYqXAAnJys) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Sensitive](https://open.spotify.com/album/4m6TJWcVB64Ja5K5Sz7Urw) | 2:37 | 2022-09-05 | 2022-09-13 |
 | [September \- Barking Owl Session \(Live\)](https://open.spotify.com/track/2cVAii55MfYFykvEcDK5D9) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [September \(Barking Owl Session\) \[Live\]](https://open.spotify.com/album/7MQmY1ppC2gb16iNMg9Fi1) | 4:40 | 2021-12-27 | 2022-01-02 |
 | [SEPULVEDA](https://open.spotify.com/track/00NrMMgFu7OlPwSRYbr97V) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA), [Cami Petyn](https://open.spotify.com/artist/6JqGJJoqtihzki7F0bbc39) | [SEPULVEDA](https://open.spotify.com/album/1TBprdxu1Dg9mhHQI4qVKR) | 3:18 | 2022-10-17 | 2022-10-25 |
-| [Serial Killer Killer](https://open.spotify.com/track/7arNPz9Tj3WNxRdHoGOKCj) | [Annushka](https://open.spotify.com/artist/0wjZpaI3GKiH8S7WDDGu1a) | [Serial Killer Killer](https://open.spotify.com/album/3y2yJiGb3U9xIj8glIP4iG) | 4:24 | 2023-03-13 |  |
 | [Serotonin](https://open.spotify.com/track/0j9LUUzIrHdWPHNsWU1dkf) | [Courtney Govan](https://open.spotify.com/artist/2kG6IPsHwVJ1fR3txhSpKq) | [Serotonin](https://open.spotify.com/album/50wPGiWpNxo3GvcNOb24bN) | 2:54 | 2021-05-25 | 2021-06-01 |
 | [Serotonin](https://open.spotify.com/track/16MneRxNQpHK250NaIo3bg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:02 | 2021-09-28 | 2021-10-05 |
 | [Serotonin Serenade](https://open.spotify.com/track/2Ff6Ghw8TRJGuAbJamtt4X) | [SuperKnova](https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD) | [American Queers](https://open.spotify.com/album/3HAKCGSBK2CdNR94iSKMLS) | 4:22 | 2021-04-26 | 2021-05-03 |

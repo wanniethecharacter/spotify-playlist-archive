@@ -1,15 +1,15 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 162139,
+  "num_followers": 162162,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ2Nzg2MywwMDAwMDAwMDg2ZTA2MTQzNTcyMmU3YWU1YjkzZTAyNWQyZWQ4OTg4",
+  "snapshot_id": "MTY3ODQ2Nzg2MywwMDAwMDAwMDBmNzc5NDRiZDBhZWE5Y2FjMjNmYzIwYTAzNTM4YWQw",
   "tracks": [
     {
-      "added_at": "2023-03-15 01:07:08",
+      "added_at": "2023-03-16 01:11:30",
       "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
     },
     {
-      "added_at": "2023-03-15 01:07:08",
+      "added_at": "2023-03-16 01:11:30",
       "album": {
         "name": "Guaro",
         "url": "https://open.spotify.com/album/1D8eQxCxhoMcNB7XwNl468"
@@ -231,26 +231,6 @@
     {
       "added_at": "2022-09-29 23:33:38",
       "album": {
-        "name": "Los Cachos",
-        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 212304,
-      "name": "Los Cachos",
-      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
-    },
-    {
-      "added_at": "2022-09-29 23:33:38",
-      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 170078,
       "name": "Me Gustas Natural",
       "url": "https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15"
+    },
+    {
+      "added_at": "2022-09-29 23:33:38",
+      "album": {
+        "name": "Los Cachos",
+        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 212304,
+      "name": "Los Cachos",
+      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
     },
     {
       "added_at": "2022-09-29 23:33:38",
@@ -367,26 +367,6 @@
     {
       "added_at": "2022-09-29 23:33:38",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        }
-      ],
-      "duration_ms": 232853,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
-    },
-    {
-      "added_at": "2022-09-29 23:33:38",
-      "album": {
         "name": "Revelaci\u00f3n - EP",
         "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 186087,
       "name": "Baila Conmigo (with Rauw Alejandro)",
       "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
+    },
+    {
+      "added_at": "2022-09-29 23:33:38",
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "duration_ms": 232853,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
     },
     {
       "added_at": "2022-09-29 23:33:38",
@@ -873,38 +873,6 @@
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
     },
     {
-      "added_at": "2022-09-29 23:33:38",
-      "album": {
-        "name": "Sin Novia",
-        "url": "https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "Sin Novia",
-      "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
-    },
-    {
-      "added_at": "2022-09-29 23:33:38",
-      "album": {
-        "name": "Dueles Tan Bien",
-        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Dueles Tan Bien",
-      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
-    },
-    {
       "added_at": "2023-03-03 06:00:00",
       "album": {
         "name": "FLORES",
@@ -923,22 +891,34 @@
     {
       "added_at": "2022-09-29 23:33:38",
       "album": {
-        "name": "Fumando",
-        "url": "https://open.spotify.com/album/26gxlnGOcwQsUheyskEuMV"
+        "name": "Dueles Tan Bien",
+        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 203571,
-      "name": "Fumando",
-      "url": "https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq"
+      "duration_ms": 174000,
+      "name": "Dueles Tan Bien",
+      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
+    },
+    {
+      "added_at": "2022-09-29 23:33:38",
+      "album": {
+        "name": "Sin Novia",
+        "url": "https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "Sin Novia",
+      "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
     },
     {
       "added_at": "2022-09-29 23:33:38",
@@ -959,6 +939,26 @@
       "duration_ms": 228920,
       "name": "Otra Noche Sin Ti",
       "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
+    },
+    {
+      "added_at": "2022-09-29 23:33:38",
+      "album": {
+        "name": "Fumando",
+        "url": "https://open.spotify.com/album/26gxlnGOcwQsUheyskEuMV"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 203571,
+      "name": "Fumando",
+      "url": "https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq"
     },
     {
       "added_at": "2022-09-29 23:33:38",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/54FoR5osiOJtVae7SCdSnq"
     },
     {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
-        "name": "Ozu Vivo (Live)",
-        "url": "https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 187936,
-      "name": "Del Mar - Acustico",
-      "url": "https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa"
-    },
-    {
       "added_at": "2022-09-29 23:33:38",
       "album": {
         "name": "Cardellino",
@@ -1419,6 +1403,22 @@
       "duration_ms": 169776,
       "name": "TOSCANA",
       "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "Ozu Vivo (Live)",
+        "url": "https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 187936,
+      "name": "Del Mar - Acustico",
+      "url": "https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa"
     },
     {
       "added_at": "2022-09-29 23:33:38",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s"
     },
     {
-      "added_at": "2022-12-07 05:02:22",
-      "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "T\u00e9 De Pi\u00f1a",
-      "url": "https://open.spotify.com/track/1oWmADHtpjSRWFGI6OPC67"
-    },
-    {
       "added_at": "2022-09-29 23:33:38",
       "album": {
         "name": "Desamor Feliz (Remix)",
@@ -1493,20 +1477,20 @@
       "url": "https://open.spotify.com/track/4JRDTjUxA2bO4bF3JxOwt2"
     },
     {
-      "added_at": "2022-09-29 23:33:38",
+      "added_at": "2022-12-07 05:02:22",
       "album": {
-        "name": "Carita Bonita",
-        "url": "https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd"
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
       },
       "artists": [
         {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 226981,
-      "name": "Carita Bonita",
-      "url": "https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR"
+      "duration_ms": 142000,
+      "name": "T\u00e9 De Pi\u00f1a",
+      "url": "https://open.spotify.com/track/1oWmADHtpjSRWFGI6OPC67"
     },
     {
       "added_at": "2022-09-29 23:33:38",
@@ -1523,6 +1507,26 @@
       "duration_ms": 199026,
       "name": "Carita Linda",
       "url": "https://open.spotify.com/track/4xWJF4R96jAOpKJ1epgb1V"
+    },
+    {
+      "added_at": "2022-09-29 23:33:38",
+      "album": {
+        "name": "Cu\u00e1ntas veces",
+        "url": "https://open.spotify.com/album/1SkjS616tH0mUti7wGYUGB"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 157594,
+      "name": "Cu\u00e1ntas veces",
+      "url": "https://open.spotify.com/track/0Vd3oU8EfWdZZO1J0W3dBN"
     }
   ],
   "unique_name": "Tranqui",

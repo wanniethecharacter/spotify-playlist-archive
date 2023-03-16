@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: JAWNY",
-  "num_followers": 1704215,
+  "num_followers": 1704206,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDU2YTcyMDJlY2NmZWI5NDE3MmZmMGRmNzU5MWZkOWM1",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGE4NjlmMjU1OGY0YTYyNzY0Yjg4NTIzNDEzNjk5NmJj",
   "tracks": [
     {
       "added_at": "2023-02-24 04:12:15",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-02-24 04:12:15",
       "album": {
-        "name": "internet crush",
-        "url": "https://open.spotify.com/album/5lUP2Yxp4mdf7Dl3GXoB8H"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 202735,
-      "name": "internet crush",
-      "url": "https://open.spotify.com/track/4GISsjjHTA2UyM9DY4DNgY"
-    },
-    {
-      "added_at": "2023-02-24 04:12:15",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 217125,
       "name": "Over",
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
+    },
+    {
+      "added_at": "2023-02-24 04:12:15",
+      "album": {
+        "name": "internet crush",
+        "url": "https://open.spotify.com/album/5lUP2Yxp4mdf7Dl3GXoB8H"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 202735,
+      "name": "internet crush",
+      "url": "https://open.spotify.com/track/4GISsjjHTA2UyM9DY4DNgY"
     },
     {
       "added_at": "2023-02-24 04:12:15",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-02-24 04:12:15",
       "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "duration_ms": 206893,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn"
+    },
+    {
+      "added_at": "2023-02-24 04:12:15",
+      "album": {
         "name": "Lots of Nothing (feat. BENEE)",
         "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 193836,
       "name": "Lots of Nothing (feat. BENEE)",
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
-    },
-    {
-      "added_at": "2023-02-24 04:12:15",
-      "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 206893,
-      "name": "The Fool",
-      "url": "https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn"
     },
     {
       "added_at": "2023-02-24 04:12:15",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-02-24 04:12:15",
       "album": {
-        "name": "late night thoughts",
-        "url": "https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 145275,
-      "name": "late night thoughts",
-      "url": "https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW"
-    },
-    {
-      "added_at": "2023-02-24 04:12:15",
-      "album": {
         "name": "slow down",
         "url": "https://open.spotify.com/album/6esHeLToAEKkGVkjTbmd1i"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 170488,
       "name": "slow down",
       "url": "https://open.spotify.com/track/2IKix80lBA5ppm6096p5U7"
+    },
+    {
+      "added_at": "2023-02-24 04:12:15",
+      "album": {
+        "name": "late night thoughts",
+        "url": "https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 145275,
+      "name": "late night thoughts",
+      "url": "https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW"
     },
     {
       "added_at": "2023-02-24 04:12:15",
@@ -977,20 +977,20 @@
       "url": "https://open.spotify.com/track/5XMiziJ3bT3zHZzzHW2QtP"
     },
     {
-      "added_at": "2023-02-24 04:12:15",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "The Problem Song",
-        "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
+        "name": "Museum",
+        "url": "https://open.spotify.com/album/5IIzBn2NyWLRxDrVQy6L0g"
       },
       "artists": [
         {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
         }
       ],
-      "duration_ms": 157570,
-      "name": "The Problem Song",
-      "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
+      "duration_ms": 215111,
+      "name": "Museum",
+      "url": "https://open.spotify.com/track/6liB5ag2B1cL6KYkWte2cU"
     },
     {
       "added_at": "2023-02-24 04:12:15",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-02-24 04:12:15",
       "album": {
-        "name": "wide eyed",
-        "url": "https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC"
+        "name": "The Problem Song",
+        "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
       },
       "artists": [
         {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
         }
       ],
-      "duration_ms": 214068,
-      "name": "wide eyed",
-      "url": "https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF"
+      "duration_ms": 157570,
+      "name": "The Problem Song",
+      "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
     },
     {
       "added_at": "2023-02-24 04:12:15",
@@ -1041,20 +1041,20 @@
       "url": "https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-02-24 04:12:15",
       "album": {
-        "name": "Museum",
-        "url": "https://open.spotify.com/album/5IIzBn2NyWLRxDrVQy6L0g"
+        "name": "wide eyed",
+        "url": "https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC"
       },
       "artists": [
         {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
         }
       ],
-      "duration_ms": 215111,
-      "name": "Museum",
-      "url": "https://open.spotify.com/track/6liB5ag2B1cL6KYkWte2cU"
+      "duration_ms": 214068,
+      "name": "wide eyed",
+      "url": "https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF"
     },
     {
       "added_at": "2023-02-24 04:12:15",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-02-24 04:12:15",
       "album": {
-        "name": "HATELOVE",
-        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
-      },
-      "artists": [
-        {
-          "name": "Alex Porat",
-          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
-        }
-      ],
-      "duration_ms": 171925,
-      "name": "HATELOVE",
-      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
-    },
-    {
-      "added_at": "2023-02-24 04:12:15",
-      "album": {
         "name": "Making Steak",
         "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 208264,
       "name": "Go Higher",
       "url": "https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj"
+    },
+    {
+      "added_at": "2023-02-24 04:12:15",
+      "album": {
+        "name": "HATELOVE",
+        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
+      },
+      "artists": [
+        {
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
+        }
+      ],
+      "duration_ms": 171925,
+      "name": "HATELOVE",
+      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
     },
     {
       "added_at": "2023-02-24 04:12:15",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-02-24 04:12:15",
       "album": {
+        "name": "liar",
+        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "liar",
+      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
+    },
+    {
+      "added_at": "2023-02-24 04:12:15",
+      "album": {
         "name": "Grocery Store",
         "url": "https://open.spotify.com/album/1eCqGxTppTVL3jtVMzD2Wd"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 134956,
       "name": "Grocery Store",
       "url": "https://open.spotify.com/track/5eGIOMy0V0r7neaaPve2kB"
-    },
-    {
-      "added_at": "2023-02-24 04:12:15",
-      "album": {
-        "name": "Let's Make a Mistake Tonight",
-        "url": "https://open.spotify.com/album/5ZtqvxdR8JObx37QbifQS6"
-      },
-      "artists": [
-        {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Let's Make a Mistake Tonight",
-      "url": "https://open.spotify.com/track/0zmt4wKN8304OeCcmtTd9s"
     }
   ],
   "unique_name": "Indie Pop",

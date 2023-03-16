@@ -1,12 +1,12 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 116821,
+  "num_followers": 116847,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMGM3NjgyZWMzZTA2MDI0ZjkwZGQyODRhOGJhZTIyMmQ1",
+  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMGVkMDc1ZGM3ZWVlNDg2MjA0NmEyOWRlOTk5OTc2YWE5",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-03-28 19:25:04",
       "album": {
-        "name": "Halfbreed",
-        "url": "https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi"
-      },
-      "artists": [
-        {
-          "name": "Keef Hartley Band",
-          "url": "https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2"
-        }
-      ],
-      "duration_ms": 356360,
-      "name": "Leavin' Trunk",
-      "url": "https://open.spotify.com/track/4SoICrZ3Gf9Dlv8XdJ166H"
-    },
-    {
-      "added_at": "2022-03-28 19:25:04",
-      "album": {
         "name": "Quicksilver Messenger Service",
         "url": "https://open.spotify.com/album/2jQEpak8oXYb6dh9sCZqqY"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 403533,
       "name": "Gold And Silver",
       "url": "https://open.spotify.com/track/6qwwAbxSYq9MTEIn0UMFNA"
+    },
+    {
+      "added_at": "2022-03-28 19:25:04",
+      "album": {
+        "name": "Halfbreed",
+        "url": "https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi"
+      },
+      "artists": [
+        {
+          "name": "Keef Hartley Band",
+          "url": "https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2"
+        }
+      ],
+      "duration_ms": 356360,
+      "name": "Leavin' Trunk",
+      "url": "https://open.spotify.com/track/4SoICrZ3Gf9Dlv8XdJ166H"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -285,6 +285,22 @@
       "url": "https://open.spotify.com/track/68dutymBmCsq2jVjPe4Jek"
     },
     {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Psychedelic Drugstore - Remastered",
+        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
+      },
+      "artists": [
+        {
+          "name": "Aguaturbia",
+          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
+        }
+      ],
+      "duration_ms": 635271,
+      "name": "Crimson & Clover",
+      "url": "https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC"
+    },
+    {
       "added_at": "2022-03-28 19:25:04",
       "album": {
         "name": "The Legendary Goldstar Album & Golden Glass",
@@ -335,18 +351,18 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Psychedelic Drugstore - Remastered",
-        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
+        "name": "Psychotic Reaction",
+        "url": "https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA"
       },
       "artists": [
         {
-          "name": "Aguaturbia",
-          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
+          "name": "Count Five",
+          "url": "https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP"
         }
       ],
-      "duration_ms": 635271,
-      "name": "Crimson & Clover",
-      "url": "https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC"
+      "duration_ms": 133133,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -363,22 +379,6 @@
       "duration_ms": 313480,
       "name": "A \"B\" Side",
       "url": "https://open.spotify.com/track/32j6XpAsQ47PFtSyXHTMuI"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Psychotic Reaction",
-        "url": "https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA"
-      },
-      "artists": [
-        {
-          "name": "Count Five",
-          "url": "https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP"
-        }
-      ],
-      "duration_ms": 133133,
-      "name": "The World",
-      "url": "https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -431,6 +431,22 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
+        "name": "Psychedelic Resurrection",
+        "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
+      },
+      "artists": [
+        {
+          "name": "The Blues Magoos",
+          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
+        }
+      ],
+      "duration_ms": 137346,
+      "name": "We Ain't Got Nothin' yet",
+      "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
         "name": "Grace Slick & The Great Society",
         "url": "https://open.spotify.com/album/74cJP3XQnuylRJDguGCRyY"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 392000,
       "name": "Sally Go 'Round the Roses",
       "url": "https://open.spotify.com/track/1w7Gu4ohc5YLkgJMdRwin1"
-    },
-    {
-      "added_at": "2022-03-28 19:25:04",
-      "album": {
-        "name": "Psychedelic Lollipop",
-        "url": "https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX"
-      },
-      "artists": [
-        {
-          "name": "The Blues Magoos",
-          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
-        }
-      ],
-      "duration_ms": 250960,
-      "name": "Sometimes I Think About",
-      "url": "https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -561,10 +561,10 @@
       "url": "https://open.spotify.com/track/2AXigUpz4ycfVS550RH8wI"
     },
     {
-      "added_at": "2018-02-28 19:55:41",
+      "added_at": "2022-03-28 19:25:04",
       "album": {
-        "name": "Psychedelic Resurrection",
-        "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
+        "name": "Psychedelic Lollipop",
+        "url": "https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
         }
       ],
-      "duration_ms": 137346,
-      "name": "We Ain't Got Nothin' yet",
-      "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
+      "duration_ms": 250960,
+      "name": "Sometimes I Think About",
+      "url": "https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -627,22 +627,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Don't Call Us, We'll Call You (Re-Recorded)",
-        "url": "https://open.spotify.com/album/6uQESzHRJ2UBK9EEK5Hvic"
-      },
-      "artists": [
-        {
-          "name": "Sugarloaf",
-          "url": "https://open.spotify.com/artist/1T3RPiMH711kvoXymKUTYH"
-        }
-      ],
-      "duration_ms": 202304,
-      "name": "Don't Call Us, We'll Call You (Re-Recorded / Remastered)",
-      "url": "https://open.spotify.com/track/6Hrik94vQpSpxSjMfFKGfC"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Cauldron",
         "url": "https://open.spotify.com/album/7aDnFNJkraWwSxMNtPLcfz"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 218666,
       "name": "If Not This Time",
       "url": "https://open.spotify.com/track/6PKIEPXO7B1tIH1XMUy3fV"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Don't Call Us, We'll Call You (Re-Recorded)",
+        "url": "https://open.spotify.com/album/6uQESzHRJ2UBK9EEK5Hvic"
+      },
+      "artists": [
+        {
+          "name": "Sugarloaf",
+          "url": "https://open.spotify.com/artist/1T3RPiMH711kvoXymKUTYH"
+        }
+      ],
+      "duration_ms": 202304,
+      "name": "Don't Call Us, We'll Call You (Re-Recorded / Remastered)",
+      "url": "https://open.spotify.com/track/6Hrik94vQpSpxSjMfFKGfC"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -707,22 +707,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Sov Gott Rose-Mari",
-        "url": "https://open.spotify.com/album/4ORvCABBxkkKdYS2TCYIeQ"
-      },
-      "artists": [
-        {
-          "name": "International Harvester",
-          "url": "https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA"
-        }
-      ],
-      "duration_ms": 100253,
-      "name": "It's Only Love",
-      "url": "https://open.spotify.com/track/1rxnKNmNwu6LSEKZ71LFBQ"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Ptoof!",
         "url": "https://open.spotify.com/album/4fWuFitMDgLkzDLIpu8Tzr"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 238320,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/6FNHbGuJ8GkB0bty9Jm3c6"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Sov Gott Rose-Mari",
+        "url": "https://open.spotify.com/album/4ORvCABBxkkKdYS2TCYIeQ"
+      },
+      "artists": [
+        {
+          "name": "International Harvester",
+          "url": "https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA"
+        }
+      ],
+      "duration_ms": 100253,
+      "name": "It's Only Love",
+      "url": "https://open.spotify.com/track/1rxnKNmNwu6LSEKZ71LFBQ"
     },
     {
       "added_at": "2018-02-28 19:55:41",

@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Hozier",
-  "num_followers": 46869,
+  "num_followers": 46928,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgwNjg3NywwMDAwMDAwMGNjMTJiYTk4ZjQxZWM2YzMzOGU4MmFlOGVkN2I4YmNh",
+  "snapshot_id": "MTY3ODgwNjg3NywwMDAwMDAwMGNiZjNiODgyYjk0ZTliZDRkNTI0NzljNjZlODY3NjY0",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "j's lullaby (darlin' i'd wait for you)",
         "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 290132,
       "name": "j's lullaby (darlin' i'd wait for you)",
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 211837,
-      "name": "Best Days",
-      "url": "https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "All I Ever Asked",
         "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 215384,
       "name": "All I Ever Asked",
       "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 211837,
+      "name": "Best Days",
+      "url": "https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Forget I Exist",
-        "url": "https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN"
-      },
-      "artists": [
-        {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Forget I Exist",
-      "url": "https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Sleep Deprivation",
         "url": "https://open.spotify.com/album/59ISpDbHu7goYQimMo9oZp"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 155660,
       "name": "Sleep Deprivation",
       "url": "https://open.spotify.com/track/2A1FGotEDhN5UjBiLsUwnk"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Forget I Exist",
+        "url": "https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Forget I Exist",
+      "url": "https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "The Joy of Music",
         "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 215213,
       "name": "Living My Best Life",
       "url": "https://open.spotify.com/track/0R7EWhquaAICmyE5MZqt3q"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Sapling / Signs Of Life",
         "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 257853,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "14",
+        "url": "https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 141796,
+      "name": "14",
+      "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Songs for the Drunk and Broken Hearted",
         "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 209706,
       "name": "Everything I Know About Love",
       "url": "https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "14",
-        "url": "https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 141796,
-      "name": "14",
-      "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Foreign Sea",
+        "url": "https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 192489,
+      "name": "Far from Home",
+      "url": "https://open.spotify.com/track/74i65cFb7Mfa5VuX0Vho3M"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Foreign Sea",
-        "url": "https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 192489,
-      "name": "Far from Home",
-      "url": "https://open.spotify.com/track/74i65cFb7Mfa5VuX0Vho3M"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "saw ur mom at the grocery store",
+        "url": "https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP"
+      },
+      "artists": [
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "duration_ms": 253968,
+      "name": "saw ur mom at the grocery store",
+      "url": "https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "A Good Love, Pt. 2",
         "url": "https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "saw ur mom at the grocery store",
-        "url": "https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP"
-      },
-      "artists": [
-        {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
-        }
-      ],
-      "duration_ms": 253968,
-      "name": "saw ur mom at the grocery store",
-      "url": "https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe"
       },
@@ -1323,22 +1323,6 @@
       "duration_ms": 220171,
       "name": "Happier Without Me",
       "url": "https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Pink Razor",
-        "url": "https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5"
-      },
-      "artists": [
-        {
-          "name": "Corey Harper",
-          "url": "https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm"
-        }
-      ],
-      "duration_ms": 189254,
-      "name": "Pink Razor",
-      "url": "https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1359,22 +1343,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Masquerades",
-        "url": "https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ"
+        "name": "Pink Razor",
+        "url": "https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5"
       },
       "artists": [
         {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+          "name": "Corey Harper",
+          "url": "https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm"
         }
       ],
-      "duration_ms": 188426,
-      "name": "When You Need It (feat. Wrabel)",
-      "url": "https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg"
+      "duration_ms": 189254,
+      "name": "Pink Razor",
+      "url": "https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1391,6 +1371,26 @@
       "duration_ms": 203966,
       "name": "Head Start",
       "url": "https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Masquerades",
+        "url": "https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "When You Need It (feat. Wrabel)",
+      "url": "https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "With The Band / Bruises & Scratches",
-        "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox"
       },
       "artists": [
         {
-          "name": "Sophie May",
-          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+          "name": "Elliot Greer",
+          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
         }
       ],
-      "duration_ms": 173070,
-      "name": "With The Band",
-      "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
+      "duration_ms": 190216,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1523,6 +1523,22 @@
       "duration_ms": 211733,
       "name": "The Man Who Sees Tomorrow",
       "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "With The Band / Bruises & Scratches",
+        "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "duration_ms": 173070,
+      "name": "With The Band",
+      "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1599,22 +1615,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Note to Self",
-        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
-      },
-      "artists": [
-        {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Take Back Thy Gift",
         "url": "https://open.spotify.com/album/1vXHYnUXAULJdM7TA1LQl9"
       },
@@ -1627,6 +1627,22 @@
       "duration_ms": 193340,
       "name": "Take Back Thy Gift",
       "url": "https://open.spotify.com/track/2vIbOavGv7iID6wZmFqN2k"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Note to Self",
+        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1663,22 +1679,6 @@
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox"
-      },
-      "artists": [
-        {
-          "name": "Elliot Greer",
-          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
-        }
-      ],
-      "duration_ms": 190216,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

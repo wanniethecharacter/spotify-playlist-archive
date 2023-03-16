@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: The Blaze
 
-735 songs - 2 day 0 hr 29 min
+736 songs - 2 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [God Is The Space Between Us](https://open.spotify.com/track/5I73WkfhuOvavHVYk3TGrm) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Taite Imogen](https://open.spotify.com/artist/3mkzFWYCYAGqxo02F1trQL) | [God Is The Space Between Us](https://open.spotify.com/album/0URZfqUQlB4JreGiq1KiK9) | 3:07 | 2022-04-01 | 2022-04-29 |
 | [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 | 2021-09-10 | 2022-10-06 |
 | [Good 2 Yourself](https://open.spotify.com/track/14BJVFg03Ep2iytTOSCEy1) | [Life in Sweatpants](https://open.spotify.com/artist/1gz7b6h7Jmh8Ixn8byJmCQ) | [Good 2 Yourself](https://open.spotify.com/album/3Crx0tSFjXYhJVERZJ5hXl) | 3:50 | 2021-04-20 | 2023-01-07 |
-| [Good Time](https://open.spotify.com/track/3AHTWM55Eg8QY3u91VJEzZ) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Good Time](https://open.spotify.com/album/0mP4FWMK4wPnA3WCH6VxTz) | 2:13 | 2023-03-03 |  |
+| [Good Time](https://open.spotify.com/track/3AHTWM55Eg8QY3u91VJEzZ) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Good Time](https://open.spotify.com/album/0mP4FWMK4wPnA3WCH6VxTz) | 2:13 | 2023-03-03 | 2023-03-16 |
 | [GOOD TIMES](https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME) | 3:01 | 2022-06-03 | 2022-10-13 |
 | [GOOD TIMES](https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te) | 3:01 | 2022-09-09 |  |
 | [Got Me \(feat\. Julia Stone\)](https://open.spotify.com/track/1EBDX2eMMsaUwLjWAde0Cm) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Got Me \(feat\. Julia Stone\)](https://open.spotify.com/album/1qG2RXV02DXzZ4k0i4a69R) | 0:29 | 2021-10-22 | 2022-07-02 |
@@ -273,6 +273,7 @@
 | [HAUNTED](https://open.spotify.com/track/0kWaEuv3fZXOPeBNMG6iGc) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [HAUNTED](https://open.spotify.com/album/02TfV5DbvB82aAL0zVgZGj) | 5:15 | 2021-10-29 | 2022-11-30 |
 | [He Loves Me 2 \- Steve Silk Hurley Original 12 Inch](https://open.spotify.com/track/2iKOc0YdnY4jlJxzZvuFac) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD), [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [He Loves Me 2](https://open.spotify.com/album/5ad7oG1DNSvsVYZSWEIOIt) | 8:42 | 2022-01-28 | 2022-02-12 |
 | [Headlights \(feat\. bülow\)](https://open.spotify.com/track/6szHZTNSEfNOdrTJ2bRPzr) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Headlights / Ford](https://open.spotify.com/album/5VFwZHUlxlIPsqVc82LDIc) | 3:06 | 2021-07-30 | 2022-04-15 |
+| [headstrong gunner](https://open.spotify.com/track/3X0r6QZjpgWyMbyCBCvBX0) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [headstrong gunner](https://open.spotify.com/album/2F4tvdjZIfNQhQUh2iCgjt) | 1:55 | 2023-03-16 |  |
 | [Heavy \(feat\. Your Smith\)](https://open.spotify.com/track/05nKsnLJGrsDwQIXAExTQt) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [Heavy \(feat\. Your Smith\)](https://open.spotify.com/album/0u6nwjlCOZyfeCYuA6BjwA) | 3:22 | 2021-11-05 | 2022-07-29 |
 | [Here I Go Again](https://open.spotify.com/track/2ZYHsRsl1E3FGKaZgTUMF1) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Here I Go Again](https://open.spotify.com/album/1mis4VioqlPLRCaGzEPc3H) | 3:40 | 2021-07-23 | 2022-07-28 |
 | [Hey \(What's Up\)](https://open.spotify.com/track/0ErTmpvhH57ciaHdwYwkTU) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J), [ZULA](https://open.spotify.com/artist/6tWqBIxAeRmld2npkzFZf3) | [Hey \(Whats Up\)](https://open.spotify.com/album/3ka2cx9kj1zfZMyIjeegm0) | 3:20 | 2022-05-06 | 2022-07-29 |

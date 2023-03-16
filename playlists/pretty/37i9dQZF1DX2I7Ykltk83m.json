@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Tommy Lefroy",
-  "num_followers": 324581,
+  "num_followers": 324772,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDk1NDhkZDBkYTIxZDVhNTBhNTc4OWYzYTE3ODY0ZWE5",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDYzZDgxZDFlNDc3OWUxMzJiMGI5NWIxZDFmNDIxOWEz",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Florist",
-        "url": "https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 326156,
-      "name": "Red Bird Pt. 2 (Morning)",
-      "url": "https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Working for the Knife",
         "url": "https://open.spotify.com/album/5z1bA7zhlWlyBgBA2rN4uE"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Two Hands",
-        "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 367093,
-      "name": "Not",
-      "url": "https://open.spotify.com/track/7lrhugjSbiImrNSLIFIq0c"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Thx",
         "url": "https://open.spotify.com/album/2ayYjy02kHqMSMKHXOLRGp"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 162624,
       "name": "Interstate Vision",
       "url": "https://open.spotify.com/track/348FPMPFwLA7ucpCqNXyPl"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Two Hands",
+        "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 367093,
+      "name": "Not",
+      "url": "https://open.spotify.com/track/7lrhugjSbiImrNSLIFIq0c"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "When You Know You Know",
-      "url": "https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 195600,
       "name": "Lilacs",
       "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "When You Know You Know",
+      "url": "https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Any Shape You Take",
         "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "Jupiter 4",
-      "url": "https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "I Don't Know You Like I Used To",
         "url": "https://open.spotify.com/album/5e3OhB22RlQvlupARyzRzK"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 259306,
       "name": "I Don't Know You Like I Used To",
       "url": "https://open.spotify.com/track/7w6jP8Me8FrF4aeOrTiNRl"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 314080,
+      "name": "Jupiter 4",
+      "url": "https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1027,22 +1043,6 @@
       "duration_ms": 245843,
       "name": "Idaho",
       "url": "https://open.spotify.com/track/4FvqAI5GwPspJE3TkMGnEb"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Things Take Time, Take Time",
-        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 168074,
-      "name": "Write A List of Things To Look Forward To",
-      "url": "https://open.spotify.com/track/5MI8umTu0luQ4wQPm87adK"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 174540,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Things Take Time, Take Time",
+        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 168074,
+      "name": "Write A List of Things To Look Forward To",
+      "url": "https://open.spotify.com/track/5MI8umTu0luQ4wQPm87adK"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "New Person, Old Place",
+        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "New Person, Old Place",
+      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Angelica",
         "url": "https://open.spotify.com/album/6yYQhebqDuWF3DmLDO7OeM"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "New Person, Old Place",
-        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
+        "name": "Tell Me What You Want",
+        "url": "https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD"
       },
       "artists": [
         {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
         }
       ],
-      "duration_ms": 246226,
-      "name": "New Person, Old Place",
-      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
+      "duration_ms": 242186,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "The Lamb",
-        "url": "https://open.spotify.com/album/3gu8vRNBovoMdF82JLGvFL"
-      },
-      "artists": [
-        {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
-        }
-      ],
-      "duration_ms": 192550,
-      "name": "Destroyer",
-      "url": "https://open.spotify.com/track/3Lllvxi2oA6DIwy2qhPgQx"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
       },
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "The Lamb",
+        "url": "https://open.spotify.com/album/3gu8vRNBovoMdF82JLGvFL"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 192550,
+      "name": "Destroyer",
+      "url": "https://open.spotify.com/track/3Lllvxi2oA6DIwy2qhPgQx"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "one hand on the steering wheel the other sewing a garden",
         "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 261173,
       "name": "damn",
       "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Tell Me What You Want",
-        "url": "https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 242186,
-      "name": "Tell Me What You Want",
-      "url": "https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 225484,
-      "name": "The Wave",
-      "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk"
       },
@@ -1715,18 +1699,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Vagabon",
-        "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
       "artists": [
         {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
         }
       ],
-      "duration_ms": 272230,
-      "name": "Water Me Down",
-      "url": "https://open.spotify.com/track/1CON7om9HhIyr8cuZ6WmzC"
+      "duration_ms": 225484,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1743,6 +1727,22 @@
       "duration_ms": 186465,
       "name": "Growing Up",
       "url": "https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Vagabon",
+        "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 272230,
+      "name": "Water Me Down",
+      "url": "https://open.spotify.com/track/1CON7om9HhIyr8cuZ6WmzC"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/1MGBuGmrhdzOJtB5AY0Pby"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 187143,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/4E1PeFEoLqqbaeExw4FMed"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Makes Me Sick Makes Me Smile",
         "url": "https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 143493,
       "name": "Make Out",
       "url": "https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Mommy",
-        "url": "https://open.spotify.com/album/1MGBuGmrhdzOJtB5AY0Pby"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 187143,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/4E1PeFEoLqqbaeExw4FMed"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Pompeii",
-        "url": "https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w"
-      },
-      "artists": [
-        {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        }
-      ],
-      "duration_ms": 244576,
-      "name": "Moderation",
-      "url": "https://open.spotify.com/track/0ZnVZan6NgkelQmtZBFNFr"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Off Off On",
         "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 200480,
       "name": "Coming to Get You Nowhere",
       "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Pompeii",
+        "url": "https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w"
+      },
+      "artists": [
+        {
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
+        }
+      ],
+      "duration_ms": 244576,
+      "name": "Moderation",
+      "url": "https://open.spotify.com/track/0ZnVZan6NgkelQmtZBFNFr"
     },
     {
       "added_at": "2023-03-10 05:00:00",

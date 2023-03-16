@@ -1,12 +1,12 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 31381,
+  "num_followers": 31401,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM0NTcyMiwwMDAwMDAwMDA3MGUxOWVhNjE4MjA1YjNhMzA5MWRlMjhiOGY3ZDk4",
+  "snapshot_id": "MTY3NTM0NTcyMiwwMDAwMDAwMGM5MmEyZjI5MjY3MjM2Y2UzNTQ3YjJiNjY1YjE5MjAz",
   "tracks": [
     {
       "added_at": "2023-02-02 13:48:42",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "July Tingly Studio Sounds Special",
-        "url": "https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz"
-      },
-      "artists": [
-        {
-          "name": "DianaDewAsmr",
-          "url": "https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu"
-        }
-      ],
-      "duration_ms": 226968,
-      "name": "Reassuring Whispers Asmr",
-      "url": "https://open.spotify.com/track/48yZMCOxznAnwEuqyiX1Cg"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Super sleepy attention, close positive whispers, inaudible whispers",
         "url": "https://open.spotify.com/album/4IwFZL7tcaocPJlicCyNIH"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 279875,
       "name": "Super sleepy attention, close positive whispers, inaudible whispers Pt.1",
       "url": "https://open.spotify.com/track/0fU7os8IzBtcblVO0YeIsR"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "July Tingly Studio Sounds Special",
+        "url": "https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz"
+      },
+      "artists": [
+        {
+          "name": "DianaDewAsmr",
+          "url": "https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu"
+        }
+      ],
+      "duration_ms": 226968,
+      "name": "Reassuring Whispers Asmr",
+      "url": "https://open.spotify.com/track/48yZMCOxznAnwEuqyiX1Cg"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -155,18 +155,18 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "Insanely Breathy Trigger Words",
-        "url": "https://open.spotify.com/album/0vD19eMiArWFikdxQ6JDBa"
+        "name": "Karuna's Sleep Clinic",
+        "url": "https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W"
       },
       "artists": [
         {
-          "name": "Pelagea ASMR",
-          "url": "https://open.spotify.com/artist/40f0MzS4yBApX9ljSWcZkR"
+          "name": "Karuna Satori ASMR",
+          "url": "https://open.spotify.com/artist/3gK713oCPxcYsIsfAXSpl5"
         }
       ],
-      "duration_ms": 121654,
-      "name": "Nase",
-      "url": "https://open.spotify.com/track/6kWaWKqVpNtvIdHTVY8vA0"
+      "duration_ms": 232571,
+      "name": "Sleep Clinic Part 2",
+      "url": "https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "Karuna's Sleep Clinic",
-        "url": "https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W"
-      },
-      "artists": [
-        {
-          "name": "Karuna Satori ASMR",
-          "url": "https://open.spotify.com/artist/3gK713oCPxcYsIsfAXSpl5"
-        }
-      ],
-      "duration_ms": 232571,
-      "name": "Sleep Clinic Part 2",
-      "url": "https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "ASMR Sleep Relaxation Meditation",
         "url": "https://open.spotify.com/album/2umeKrYETsK1lJA7YBRYLL"
       },
@@ -219,6 +203,22 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
+        "name": "Insanely Breathy Trigger Words",
+        "url": "https://open.spotify.com/album/0vD19eMiArWFikdxQ6JDBa"
+      },
+      "artists": [
+        {
+          "name": "Pelagea ASMR",
+          "url": "https://open.spotify.com/artist/40f0MzS4yBApX9ljSWcZkR"
+        }
+      ],
+      "duration_ms": 121654,
+      "name": "Nase",
+      "url": "https://open.spotify.com/track/6kWaWKqVpNtvIdHTVY8vA0"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
         "name": "Intense Relaxation",
         "url": "https://open.spotify.com/album/5d4TEWC6eJagsEFcOxLaa8"
       },
@@ -231,38 +231,6 @@
       "duration_ms": 447873,
       "name": "Intense Relaxation Pt.2",
       "url": "https://open.spotify.com/track/68NEZB7mPPWZtNhXoGtZ40"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
-        "name": "July Tingly Studio Sounds Special",
-        "url": "https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz"
-      },
-      "artists": [
-        {
-          "name": "DianaDewAsmr",
-          "url": "https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu"
-        }
-      ],
-      "duration_ms": 307488,
-      "name": "Reassuring Whispers 2 Asmr",
-      "url": "https://open.spotify.com/track/3Cid1Ne9qWeFJiU2Z6bhIx"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
-        "name": "ASMR Guided Visualisation for Sleep",
-        "url": "https://open.spotify.com/album/5J0uoLda9QaqqEnUBX6vBK"
-      },
-      "artists": [
-        {
-          "name": "ASMR Blossom",
-          "url": "https://open.spotify.com/artist/6HpWebq041QRizskcykHPH"
-        }
-      ],
-      "duration_ms": 135500,
-      "name": "Guided Visualization for Sleep, Pt. 1",
-      "url": "https://open.spotify.com/track/2iGO8SBiky4hRHVVGB270f"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -299,6 +267,38 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
+        "name": "July Tingly Studio Sounds Special",
+        "url": "https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz"
+      },
+      "artists": [
+        {
+          "name": "DianaDewAsmr",
+          "url": "https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu"
+        }
+      ],
+      "duration_ms": 307488,
+      "name": "Reassuring Whispers 2 Asmr",
+      "url": "https://open.spotify.com/track/3Cid1Ne9qWeFJiU2Z6bhIx"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "ASMR Guided Visualisation for Sleep",
+        "url": "https://open.spotify.com/album/5J0uoLda9QaqqEnUBX6vBK"
+      },
+      "artists": [
+        {
+          "name": "ASMR Blossom",
+          "url": "https://open.spotify.com/artist/6HpWebq041QRizskcykHPH"
+        }
+      ],
+      "duration_ms": 135500,
+      "name": "Guided Visualization for Sleep, Pt. 1",
+      "url": "https://open.spotify.com/track/2iGO8SBiky4hRHVVGB270f"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
         "name": "Sending Tingle Sleep Vibes",
         "url": "https://open.spotify.com/album/0hpRT3bt8D7RYRY3MUrBsw"
       },
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "ASMR Whispers (Binaural)",
-        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
-      },
-      "artists": [
-        {
-          "name": "Mr. Jones ASMR",
-          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
-        }
-      ],
-      "duration_ms": 176039,
-      "name": "Unintelligble Sleep Whisper Sayy Wayy",
-      "url": "https://open.spotify.com/track/6chyCwZ2KhBUqjTUfw0ZHS"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Relaxing You HEAD to TOE",
         "url": "https://open.spotify.com/album/7rR9BrOUJew20POht76Dzg"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 245795,
       "name": "Relaxing You HEAD to TOE Pt.5",
       "url": "https://open.spotify.com/track/6Ult8KyCkQMVqhGWqxjZBy"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "ASMR Whispers (Binaural)",
+        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jones ASMR",
+          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
+        }
+      ],
+      "duration_ms": 176039,
+      "name": "Unintelligble Sleep Whisper Sayy Wayy",
+      "url": "https://open.spotify.com/track/6chyCwZ2KhBUqjTUfw0ZHS"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
+        "name": "ASMR Whispers (Binaural)",
+        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jones ASMR",
+          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
+        }
+      ],
+      "duration_ms": 170035,
+      "name": "Unintelligble Sleep Whisper Breathing Scratching",
+      "url": "https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
         "name": "8D ASMR - Fluffy Mic & Slow Whispering Around Your Head",
         "url": "https://open.spotify.com/album/0v8s8XlzfDFrRpBJGnAiIZ"
       },
@@ -471,6 +487,22 @@
       "duration_ms": 316000,
       "name": "Fluffy Mic & Slow Whispering Around Your Head, Pt. 2",
       "url": "https://open.spotify.com/track/2KUF4YBM0ekcDf6aTsEbq1"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "Anticipatory Ear to Ear Whisepers",
+        "url": "https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL"
+      },
+      "artists": [
+        {
+          "name": "Slight Sounds ASMR",
+          "url": "https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts"
+        }
+      ],
+      "duration_ms": 322455,
+      "name": "Anticipatory Ear to Ear Whispers Pt.1",
+      "url": "https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -491,22 +523,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "ASMR Whispers (Binaural)",
-        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
-      },
-      "artists": [
-        {
-          "name": "Mr. Jones ASMR",
-          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
-        }
-      ],
-      "duration_ms": 170035,
-      "name": "Unintelligble Sleep Whisper Breathing Scratching",
-      "url": "https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Russian Language Revision - Cyrillic Alphabet",
         "url": "https://open.spotify.com/album/2pTKiaP8dOQ11Q8G88JMzh"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 209000,
       "name": "Alphabet Revision, Pt. 1",
       "url": "https://open.spotify.com/track/2MfNCtM55FPi6tYA9uaYfc"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
-        "name": "Anticipatory Ear to Ear Whisepers",
-        "url": "https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL"
-      },
-      "artists": [
-        {
-          "name": "Slight Sounds ASMR",
-          "url": "https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts"
-        }
-      ],
-      "duration_ms": 322455,
-      "name": "Anticipatory Ear to Ear Whispers Pt.1",
-      "url": "https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "Violet is BACK to help you fall sleep",
-        "url": "https://open.spotify.com/album/4mR9iLu5mhOjz7o5diTXEw"
+        "name": "Uplifting Mantras",
+        "url": "https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g"
       },
       "artists": [
         {
-          "name": "RoseASMR",
-          "url": "https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS"
+          "name": "Asmr Brain Tingle",
+          "url": "https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m"
         }
       ],
-      "duration_ms": 277354,
-      "name": "Violet is BACK to help you fall sleep Pt.1",
-      "url": "https://open.spotify.com/track/55jujsnFOGPWk80wicrHsg"
+      "duration_ms": 293571,
+      "name": "Uplifting Mantra Pt One",
+      "url": "https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "Uplifting Mantras",
-        "url": "https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g"
+        "name": "Violet is BACK to help you fall sleep",
+        "url": "https://open.spotify.com/album/4mR9iLu5mhOjz7o5diTXEw"
       },
       "artists": [
         {
-          "name": "Asmr Brain Tingle",
-          "url": "https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m"
+          "name": "RoseASMR",
+          "url": "https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS"
         }
       ],
-      "duration_ms": 293571,
-      "name": "Uplifting Mantra Pt One",
-      "url": "https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l"
+      "duration_ms": 277354,
+      "name": "Violet is BACK to help you fall sleep Pt.1",
+      "url": "https://open.spotify.com/track/55jujsnFOGPWk80wicrHsg"
     },
     {
       "added_at": "2023-02-02 13:48:42",

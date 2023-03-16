@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2000s. Cover: Lifehouse.",
-  "num_followers": 147176,
+  "num_followers": 147431,
   "original_name": "00s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4MDc1OCwwMDAwMDAwMDQxZTdmMDAzZjUzMTJjZWUzZWRmYmNiMDkzMTZhYmY0",
+  "snapshot_id": "MTY3NDA4MDc1OCwwMDAwMDAwMDI0MDQ2MGEzMTc5M2Q1MzlhYzMwNjlkMWE3NGNlNzE0",
   "tracks": [
     {
       "added_at": "2023-01-18 22:25:58",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
-        "name": "Sailing to Philadelphia",
-        "url": "https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63"
+        "name": "3 Doors Down",
+        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
       },
       "artists": [
         {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 329866,
-      "name": "Sailing to Philadelphia",
-      "url": "https://open.spotify.com/track/5dFbGFPR2GkgIPvfnAo3R3"
+      "duration_ms": 224213,
+      "name": "Your Arms Feel Like home",
+      "url": "https://open.spotify.com/track/0SanLvXc3eSY7XqfeMlDOS"
     },
     {
       "added_at": "2023-01-18 22:25:58",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
-        "name": "3 Doors Down",
-        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
+        "name": "Sailing to Philadelphia",
+        "url": "https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63"
       },
       "artists": [
         {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
         }
       ],
-      "duration_ms": 224213,
-      "name": "Your Arms Feel Like home",
-      "url": "https://open.spotify.com/track/0SanLvXc3eSY7XqfeMlDOS"
+      "duration_ms": 329866,
+      "name": "Sailing to Philadelphia",
+      "url": "https://open.spotify.com/track/5dFbGFPR2GkgIPvfnAo3R3"
     },
     {
       "added_at": "2023-01-18 22:25:58",

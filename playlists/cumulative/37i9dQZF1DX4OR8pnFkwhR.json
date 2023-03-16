@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Kazemachi Toppu Club-EP",
+        "url": "https://open.spotify.com/album/7yr0HcSzr5QYJ57Z9FuUJU"
+      },
+      "artists": [
+        {
+          "name": "Bye-Bye-Hand\u306e\u65b9\u7a0b\u5f0f",
+          "url": "https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183160,
+      "name": "Chiisana Kaiju",
+      "url": "https://open.spotify.com/track/4bnNLpqdv1N5SjtWzmLhL7"
+    },
+    {
+      "album": {
         "name": "chord",
         "url": "https://open.spotify.com/album/55bJN6zduydHGYN0IT1srE"
       },
@@ -2674,6 +2692,24 @@
       "duration_ms": 180178,
       "name": "GLOW",
       "url": "https://open.spotify.com/track/1rq0GSfAOKZQX6PpkOcQGF"
+    },
+    {
+      "album": {
+        "name": "Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita",
+        "url": "https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "Gominingen,Ore",
+      "url": "https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9"
     },
     {
       "album": {
@@ -6470,7 +6506,7 @@
     {
       "album": {
         "name": "HUES",
-        "url": "https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh"
+        "url": "https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo"
       },
       "artists": [
         {
@@ -6481,6 +6517,24 @@
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 172455,
+      "name": "SORA",
+      "url": "https://open.spotify.com/track/3dGWJ8UlemnEV4WycKW3hd"
+    },
+    {
+      "album": {
+        "name": "HUES",
+        "url": "https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-16",
       "duration_ms": 172455,
       "name": "SORA",
       "url": "https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL"
@@ -9368,7 +9422,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 229173,
       "name": "\u30b4\u30df\u4eba\u9593\u3001\u4ffa",
       "url": "https://open.spotify.com/track/2VU59VkXEBNX4ZZf7SmGAy"
@@ -11304,7 +11358,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 183160,
       "name": "\u5c0f\u3055\u306a\u602a\u7363",
       "url": "https://open.spotify.com/track/5UHvtWIBduWHyvMu8uU32S"

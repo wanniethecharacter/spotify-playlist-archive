@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-365 songs - 23 hr 5 min
+366 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Above It All](https://open.spotify.com/track/3GYRXFfWTV2U1gIs8yIipx) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Above It All](https://open.spotify.com/album/1W4gkbpOg5Creo0WsUnEF8) | 3:19 | 2022-06-17 |  |
 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 | 2022-01-14 |  |
 | [Afflicted](https://open.spotify.com/track/70AJAYFBkXnrd9mA6qz0wU) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Loose Threads](https://open.spotify.com/album/5rEM2fDMOEBCNjgdgDvvon) | 4:51 | 2021-11-12 | 2022-07-29 |
+| [Agree to Disagree](https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:02 | 2023-02-24 |  |
 | [Agree to Disagree](https://open.spotify.com/track/58Eyr2rZWIYM19qhpals74) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost](https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB) | 3:02 | 2021-11-12 | 2022-06-07 |
 | [All Animal](https://open.spotify.com/track/4PEHqVEh5MPmvdYw1oiIKI) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6) | 3:30 | 2022-11-02 |  |
 | [All Animal](https://open.spotify.com/track/6rUcboqRuVuowjaL5YUNtx) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/7CcfBGRoxEuWkudbhLMr3H) | 3:30 | 2021-11-12 | 2022-07-29 |
@@ -219,7 +220,7 @@
 | [Nemesis](https://open.spotify.com/track/1dVSJUkVNi36hr7VKiCWIt) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL), [Sonny Sandoval](https://open.spotify.com/artist/0aKUHdp1gJhQ6mpZcJLd4L) | [Nemesis](https://open.spotify.com/album/3FdwX7ZZirpfzXPLdKpEYq) | 2:45 | 2022-07-13 | 2022-07-29 |
 | [Nero Forte](https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 5:15 | 2021-11-12 |  |
 | [Never Again](https://open.spotify.com/track/07huQEWGQAe7aJaeR08Cag) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dark Before Dawn](https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR) | 3:43 | 2022-07-13 |  |
-| [New Found](https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 6:36 | 2022-07-13 |  |
+| [New Found](https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 6:36 | 2022-07-13 | 2023-03-16 |
 | [Nightmares Are Dreams Too](https://open.spotify.com/track/7mpQkVZV55bocA712tKkRF) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Nightmares Are Dreams Too](https://open.spotify.com/album/2XfKBvcROTswmgAf86SKUK) | 3:14 | 2021-11-12 | 2022-07-29 |
 | [Nimrod](https://open.spotify.com/track/5cUziBfFGOHrkXFE4qAgKe) | [Nine Shrines](https://open.spotify.com/artist/5LgPoZGQ3w6YmtNLw0BVmL) | [Nimrod](https://open.spotify.com/album/5A0XKABdHLAteEE4rmefsJ) | 3:09 | 2021-11-12 | 2022-07-25 |
 | [No control](https://open.spotify.com/track/0YDbo0oaK5jGW8R9dfJPP1) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [No control](https://open.spotify.com/album/5N8pKJl8RO70CJCXuOJ2W5) | 4:06 | 2022-04-22 | 2022-07-29 |

@@ -2319,6 +2319,28 @@
     },
     {
       "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178274,
+      "name": "Fantasy (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
+    },
+    {
+      "album": {
         "name": "Far Side of the World",
         "url": "https://open.spotify.com/album/4QgzaZ3hmSQlfc6vHo3LK3"
       },
@@ -3622,7 +3644,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 162586,
       "name": "i'm so tired...",
       "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91"

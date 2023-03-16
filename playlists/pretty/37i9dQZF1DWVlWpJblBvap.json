@@ -1,12 +1,12 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw\">Kim Walker-Smith</a>",
-  "num_followers": 476148,
+  "num_followers": 476566,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5MTUxMiwwMDAwMDAwMDcxNWM3ZmRhOGNlYjczNzY3ZmQxY2Q2MzNlOWQ1ZTE4",
+  "snapshot_id": "MTY3NjY5MTUxMiwwMDAwMDAwMGYxMDI0NmNkZDI5ODY3ZDgyYmQwZWNkYmFmMDczYjky",
   "tracks": [
     {
       "added_at": "2021-01-15 06:25:35",
@@ -43,6 +43,22 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 349586,
+      "name": "O Come to the Altar (Live)",
+      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 646239,
       "name": "Promises (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 349586,
-      "name": "O Come to the Altar (Live)",
-      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -215,6 +215,22 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
+        "name": "See A Victory",
+        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 363230,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
         "name": "Starlight (Live)",
         "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 299365,
       "name": "King of My Heart - Live",
       "url": "https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
-        "name": "See A Victory",
-        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 363230,
-      "name": "See A Victory",
-      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -379,26 +379,6 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 452499,
-      "name": "Graves Into Gardens (Live)",
-      "url": "https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
         "name": "We Will Not Be Shaken (Live)",
         "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 373691,
       "name": "No Longer Slaves (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 452499,
+      "name": "Graves Into Gardens (Live)",
+      "url": "https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -527,6 +527,22 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 432052,
+      "name": "RATTLE! (Live)",
+      "url": "https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
         "name": "Victory (Live)",
         "url": "https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 470880,
       "name": "Raise a Hallelujah - Live",
       "url": "https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 432052,
-      "name": "RATTLE! (Live)",
-      "url": "https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -631,18 +631,18 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+        "name": "You Deliver Me",
+        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
         }
       ],
-      "duration_ms": 235226,
-      "name": "Come Alive (Dry Bones)",
-      "url": "https://open.spotify.com/track/0cc2WXV2i8Jl3LhPKlZho1"
+      "duration_ms": 204133,
+      "name": "How Deep The Father's Love For Us",
+      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 499506,
-      "name": "Here as in Heaven",
-      "url": "https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
         "name": "Revival's In The Air (Live)",
         "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
       },
@@ -703,18 +687,34 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "You Deliver Me",
-        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
       },
       "artists": [
         {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 204133,
-      "name": "How Deep The Father's Love For Us",
-      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
+      "duration_ms": 499506,
+      "name": "Here as in Heaven",
+      "url": "https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Come Alive (Dry Bones)",
+      "url": "https://open.spotify.com/track/0cc2WXV2i8Jl3LhPKlZho1"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -791,6 +791,26 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 449253,
+      "name": "Whole Heart (Hold Me Now) - Live",
+      "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
         "name": "Revival's In The Air (Live)",
         "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 211600,
       "name": "Christ In Me",
       "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
-        "name": "People (Live)",
-        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 449253,
-      "name": "Whole Heart (Hold Me Now) - Live",
-      "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -963,26 +963,6 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "You Cannot Be Stopped",
-        "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "You Cannot Be Stopped",
-      "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
         "name": "All Of The Above",
         "url": "https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 330360,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
+        "name": "You Cannot Be Stopped",
+        "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "You Cannot Be Stopped",
+      "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "Death Of Death",
-        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Where The Spirit Of The Lord Is",
-      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
         "name": "In Christ Alone",
         "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 279160,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
+        "name": "Death Of Death",
+        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Where The Spirit Of The Lord Is",
+      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "Alive & Breathing",
-        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 242139,
-      "name": "Alive & Breathing (feat. Elle Limebear)",
-      "url": "https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
         "name": "Fill This Place (Live)",
         "url": "https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 248854,
       "name": "I'm Listening - Radio Version",
       "url": "https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
+        "name": "Alive & Breathing",
+        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 242139,
+      "name": "Alive & Breathing (feat. Elle Limebear)",
+      "url": "https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -1203,18 +1203,26 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "Faithful God",
-        "url": "https://open.spotify.com/album/3DytmYZJbUkgCtRyBtkpf7"
+        "name": "Housefires + Friends (Live)",
+        "url": "https://open.spotify.com/album/0fz0bRd6luFI3J8jqiM5Ma"
       },
       "artists": [
         {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Kirby Kaple",
+          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
         }
       ],
-      "duration_ms": 210013,
-      "name": "Faithful God",
-      "url": "https://open.spotify.com/track/5YcgWiIj7woRmQQMXDjQ7H"
+      "duration_ms": 477513,
+      "name": "Lift You High - Live",
+      "url": "https://open.spotify.com/track/39ssH6XDc7GGq6FDnENkjf"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -1239,26 +1247,18 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "Housefires + Friends (Live)",
-        "url": "https://open.spotify.com/album/0fz0bRd6luFI3J8jqiM5Ma"
+        "name": "Faithful God",
+        "url": "https://open.spotify.com/album/3DytmYZJbUkgCtRyBtkpf7"
       },
       "artists": [
         {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Kirby Kaple",
-          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
         }
       ],
-      "duration_ms": 477513,
-      "name": "Lift You High - Live",
-      "url": "https://open.spotify.com/track/39ssH6XDc7GGq6FDnENkjf"
+      "duration_ms": 210013,
+      "name": "Faithful God",
+      "url": "https://open.spotify.com/track/5YcgWiIj7woRmQQMXDjQ7H"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "Saints and Sinners",
-        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Because He Lives (Amen)",
-      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
         "name": "You Are the Avalanche",
         "url": "https://open.spotify.com/album/21t1ObaaRvRIRRrF1bwlhw"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 295720,
       "name": "King of My Heart",
       "url": "https://open.spotify.com/track/4HBXdr8LXB22UPBi191b6S"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Because He Lives (Amen)",
+      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
     },
     {
       "added_at": "2021-01-15 06:25:35",

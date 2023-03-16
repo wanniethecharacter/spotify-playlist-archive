@@ -4,7 +4,7 @@
 
 > Certi amori bruciano di più\. Cover: Neima Ezza
 
-112 songs - 5 hr 53 min
+114 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Angelina Jolie](https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Angelina Jolie](https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR) | 2:49 | 2022-05-03 |  |
 | [Anime Gemelle](https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Anime Gemelle](https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB) | 2:36 | 2022-05-03 | 2022-05-20 |
 | [Apnea](https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Io In Terra](https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc) | 3:31 | 2022-05-03 |  |
+| [Arai \(feat\. Capo Plaza\)](https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 3:01 | 2023-03-15 |  |
 | [Baby Mama](https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Baby Mama](https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO) | 2:31 | 2022-11-23 |  |
 | [Bang Bang](https://open.spotify.com/track/7kktKNHgINrBczPUGoG38p) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Sfera Ebbasta](https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc) | 2:29 | 2022-05-03 |  |
 | [Barcellona](https://open.spotify.com/track/51zuoAf9f1DNTVmBJHVErg) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 2:56 | 2022-05-03 | 2023-02-02 |
@@ -40,6 +41,7 @@
 | [Cigni](https://open.spotify.com/track/13oN9FI7RngmoUqDJ38FCv) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/2hHDTcf1MzvkDdFm0CEujn) | 2:51 | 2022-05-03 | 2022-05-13 |
 | [COLPA TUA ⫷⫸ \(con VENERUS & GUÈ PEQUENO\)](https://open.spotify.com/track/3ILta8SPlsWdOueRYzc5mL) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [OBE](https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj) | 3:04 | 2022-05-03 | 2023-02-02 |
 | [come t! vorre!](https://open.spotify.com/track/7nLd1J81Y2o5UhUEFUeCsb) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 3:17 | 2022-09-29 | 2022-11-25 |
+| [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 | 2023-03-15 |  |
 | [CRAZY LOVE](https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:12 | 2022-07-28 |  |
 | [CRAZY LOVE](https://open.spotify.com/track/3HYK8FMGNQu1Whl8DdtsRC) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:12 | 2022-05-03 | 2022-07-29 |
 | [CRAZY LOVE](https://open.spotify.com/track/4W56lte2c6osTXc9wk5Mfb) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [IL MEGLIO DI Primavera 2022](https://open.spotify.com/album/42T1GNzRFeKvnYVhLrZodf) | 3:12 | 2022-11-07 | 2022-11-13 |

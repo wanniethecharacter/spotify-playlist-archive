@@ -712,6 +712,24 @@
     {
       "album": {
         "name": "Show Me (Mixed)",
+        "url": "https://open.spotify.com/album/53t6TOMI2nBNWm5ZWQE0Ta"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61000,
+      "name": "Show Me - Mixed",
+      "url": "https://open.spotify.com/track/30Dbe0a7prbgqx9L81bGd3"
+    },
+    {
+      "album": {
+        "name": "Show Me (Mixed)",
         "url": "https://open.spotify.com/album/19B8YfQDH3Z5E8xVUZjpRV"
       },
       "artists": [
@@ -722,7 +740,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 61000,
       "name": "Show Me - Mixed",
       "url": "https://open.spotify.com/track/5gyxiLgdIq2j5ZA1geduRf"

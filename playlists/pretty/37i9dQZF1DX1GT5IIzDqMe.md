@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,129 likes - 50 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,167 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 45 | [Red Room](https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Red Room](https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4) | 6:40 |
 | 46 | [Do It All Night \(C2 Edit\) \- Mixed](https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Detroit Love Vol\. 2 \(DJ Mix\)](https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ) | 5:39 |
 | 47 | [On A Journey](https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [On A Journey](https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412) | 4:31 |
-| 48 | [Into The Groove \- Extended Mix](https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V) | [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h), [Abe Duque](https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp) | [Into The Groove](https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf) | 6:36 |
+| 48 | [Elements](https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U) | 6:51 |
 | 49 | [Savage & Beyond](https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [Heavenly Revisited Album](https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs) | 3:29 |
-| 50 | [Elements](https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U) | 6:51 |
+| 50 | [Into The Groove \- Extended Mix](https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V) | [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h), [Abe Duque](https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp) | [Into The Groove](https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf) | 6:36 |
 
-Snapshot ID: `MTY3ODEzOTQ5MywwMDAwMDAwMDhkOGFmZWQ4OTM5NzM4ODQyMmQ2ZjcyNTkzOGRlYzcx`
+Snapshot ID: `MTY3ODEzOTQ5MywwMDAwMDAwMDNmNjQ5OTNhNzM2MDA1Yzg0ZmRiMDg1MDE1OWU3NWJh`

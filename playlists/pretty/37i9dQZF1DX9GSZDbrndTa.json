@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 78915,
+  "num_followers": 78962,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGE0MWRmM2Y3MDEwMDFiNmFhMGZlZDU2ZmJmOTM2ZDA3",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDM0MjRlOTE4ZGEwYzk4ZDRjNDVhMjk3NzZkYTdhYjFh",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -351,8 +351,8 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn"
+        "name": "The Complete Prestige 10-Inch LP Collection",
+        "url": "https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         }
       ],
-      "duration_ms": 277373,
-      "name": "Raise Four",
-      "url": "https://open.spotify.com/track/5anYdzYJguGLEcbgL6G2Qm"
+      "duration_ms": 459866,
+      "name": "Blue Monk",
+      "url": "https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -435,18 +435,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Freelance Years",
-        "url": "https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x"
+        "name": "Verve Jazz Masters 10: Dizzy Gillespie",
+        "url": "https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
         }
       ],
-      "duration_ms": 546000,
-      "name": "Sonnymoon For Two",
-      "url": "https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy"
+      "duration_ms": 297493,
+      "name": "Birks' Works",
+      "url": "https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -471,8 +471,8 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Complete Prestige 10-Inch LP Collection",
-        "url": "https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC"
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn"
       },
       "artists": [
         {
@@ -480,25 +480,25 @@
           "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         }
       ],
-      "duration_ms": 459866,
-      "name": "Blue Monk",
-      "url": "https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69"
+      "duration_ms": 277373,
+      "name": "Raise Four",
+      "url": "https://open.spotify.com/track/5anYdzYJguGLEcbgL6G2Qm"
     },
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Verve Jazz Masters 10: Dizzy Gillespie",
-        "url": "https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH"
+        "name": "The Freelance Years",
+        "url": "https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 297493,
-      "name": "Birks' Works",
-      "url": "https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa"
+      "duration_ms": 546000,
+      "name": "Sonnymoon For Two",
+      "url": "https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy"
     },
     {
       "added_at": "2020-10-12 18:15:54",

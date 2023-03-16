@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8HCIPoGGKp.md) - [plain]
 
 > Calming green frequencies and nature sounds to help you relax, focus and sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,927 likes - 192 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,414 likes - 192 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8HCIPoGGKp.md) - [plain]
 | 99 | [Green Noise Waves](https://open.spotify.com/track/1KMEedUbEQlZvXtEV8aPu2) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Evergreen Noise](https://open.spotify.com/album/7tmguPwwKGfDqpnaintaTN) | 3:07 |
 | 100 | [Green Noise \- Storm](https://open.spotify.com/track/6fhTgX3uBdB151u1TeCqkP) | [Sonic Focuz](https://open.spotify.com/artist/2kYTPo2RENyX39AVuDCY9j) | [Green Color Noise](https://open.spotify.com/album/5nDkhoqIrNFylLUnkOksE6) | 2:27 |
 | 101 | [Green Noise 436 Hz Bell](https://open.spotify.com/track/4LDDxMhyuYP0Bo0y6puCC1) | [HOLISTIK](https://open.spotify.com/artist/5snzdlYPB9rks7jXF4bxl4) | [Green Noise](https://open.spotify.com/album/5xp7qiBsjDBibBlN0Sel06) | 3:00 |
-| 102 | [Green Noise 2](https://open.spotify.com/track/07bbQD6cvzCaLUJoHhJBZ7) | [Vibe Industry](https://open.spotify.com/artist/7pPIGqagTGdaLhOUxZTyag) | [Crystal Green Dream](https://open.spotify.com/album/2juOEOm48MfX5rbq5Ly9oc) | 1:15 |
+| 102 | [Green Noise Paradise](https://open.spotify.com/track/07bbQD6cvzCaLUJoHhJBZ7) | [Vibe Industry](https://open.spotify.com/artist/7pPIGqagTGdaLhOUxZTyag) | [Crystal Green Dream](https://open.spotify.com/album/2juOEOm48MfX5rbq5Ly9oc) | 1:15 |
 | 103 | [Green Noise Sound Mask](https://open.spotify.com/track/4DemBjpIT8jGyk8XZMILy5) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Green Noise Relaxation](https://open.spotify.com/album/5BUgozIWwXWT7YYNqCkOHd) | 3:24 |
 | 104 | [Green Noise \- Flashflood](https://open.spotify.com/track/6j8T3s2YkLixR1VDOymdF5) | [The BD Noise Maker](https://open.spotify.com/artist/5WPKIg5kP6Ov7DrSGCqj2H) | [Sleep: Green Noise](https://open.spotify.com/album/4fLpY9TFTwoGBbIoDFxEgC) | 2:33 |
 | 105 | [Green Noise \- Water Stream](https://open.spotify.com/track/5ETnzQmZh9BtNANWNnzuhJ) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Green Noise \- Relax & Focus](https://open.spotify.com/album/1B1U1AbYQXjJoTsoRc9ovS) | 2:19 |

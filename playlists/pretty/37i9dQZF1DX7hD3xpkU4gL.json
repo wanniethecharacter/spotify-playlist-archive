@@ -1,12 +1,12 @@
 {
   "description": "Para cantar muy bajito... o a voz en grito.",
-  "num_followers": 88037,
+  "num_followers": 88228,
   "original_name": "Las 100 mejores baladas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYyMTQ0OSwwMDAwMDAwMDZiMjgxZTFmZGM3N2FlYzRjMzY4OGYwMGY0ZTMzNGI5",
+  "snapshot_id": "MTY3MzYyMTQ0OSwwMDAwMDAwMGNiZjM0ZGZkYTU3MGZkOTZjZGI3ODUxY2I2OGUxOGMy",
   "tracks": [
     {
       "added_at": "2023-01-13 14:50:49",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
-    },
-    {
-      "added_at": "2023-01-13 14:50:49",
-      "album": {
         "name": "Ladies And Gentlemen... The Best Of George Michael",
         "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 300106,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2023-01-13 14:50:49",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 187866,
-      "name": "Imagine - Remastered 2010",
-      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
-    },
-    {
-      "added_at": "2023-01-13 14:50:49",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 250693,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "Imagine - Remastered 2010",
+      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
     },
     {
       "added_at": "2023-01-13 14:50:49",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-01-13 14:50:49",
       "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
         "name": "Extreme II - Pornograffitti",
         "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
       "artists": [
         {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
         }
       ],
-      "duration_ms": 236160,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
+      "duration_ms": 209493,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
     },
     {
       "added_at": "2023-01-13 14:50:49",
@@ -623,22 +639,6 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
-    },
-    {
-      "added_at": "2023-01-13 14:50:49",
-      "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
     },
     {
       "added_at": "2023-01-13 14:50:49",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 394400,
-      "name": "Bed Of Roses",
-      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
-    },
-    {
-      "added_at": "2023-01-13 14:50:49",
-      "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 217212,
       "name": "Shallow - Radio Edit",
       "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 394400,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
     },
     {
       "added_at": "2023-01-13 14:50:49",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "Me cuesta tanto olvidarte",
-      "url": "https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8"
-    },
-    {
-      "added_at": "2023-01-13 14:50:49",
-      "album": {
         "name": "A New Flame (Expanded Version)",
         "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 204000,
       "name": "If You Don't Know Me by Now - 2008 Remaster",
       "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 174946,
+      "name": "Me cuesta tanto olvidarte",
+      "url": "https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8"
     },
     {
       "added_at": "2023-01-13 14:50:49",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "The Colour Of My Love",
-        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 342400,
-      "name": "The Power of Love",
-      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
-    },
-    {
-      "added_at": "2023-01-13 14:50:49",
-      "album": {
         "name": "Entre El Agua Y El Fuego",
         "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 248000,
       "name": "\u00bfY c\u00f3mo es \u00e9l?",
       "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "The Colour Of My Love",
+        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 342400,
+      "name": "The Power of Love",
+      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
     },
     {
       "added_at": "2023-01-13 14:50:49",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Say You, Say Me",
-      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
-    },
-    {
-      "added_at": "2023-01-13 14:50:49",
-      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 292760,
       "name": "Te Llor\u00e9 Un R\u00edo",
       "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Say You, Say Me",
+      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
     },
     {
       "added_at": "2023-01-13 14:50:49",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Amar Es Combatir",
-        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "Bendita Tu Luz",
-      "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
-    },
-    {
-      "added_at": "2023-01-13 14:50:49",
-      "album": {
         "name": "Eternelle",
         "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 173866,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Amar Es Combatir",
+        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "Bendita Tu Luz",
+      "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
     },
     {
       "added_at": "2023-01-13 14:50:49",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Take My Breath Away",
-        "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
-      },
-      "artists": [
-        {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
-        }
-      ],
-      "duration_ms": 264213,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
-    },
-    {
-      "added_at": "2023-01-13 14:50:49",
-      "album": {
         "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
         "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 284903,
       "name": "One Moment in Time",
       "url": "https://open.spotify.com/track/5vOGEMTcx7ns5CtQ5y41lo"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "duration_ms": 264213,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
     },
     {
       "added_at": "2023-01-13 14:50:49",

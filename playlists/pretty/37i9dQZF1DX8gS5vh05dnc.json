@@ -1,15 +1,15 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 129835,
+  "num_followers": 129852,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODY3ODg5MywwMDAwMDAwMDY4Mzk5MzkwMGRmZmJiMGI1ZDdjZjNmNWVlZjIwZmEz",
+  "snapshot_id": "MTY3ODY3ODg5MywwMDAwMDAwMDZmZjQzYjk0MzkyODhjOGU5NDc0NDEyNWE5ZmI2NmNi",
   "tracks": [
     {
-      "added_at": "2023-03-15 01:00:35",
+      "added_at": "2023-03-16 01:44:10",
       "album": {
         "name": "The Hard Way",
         "url": "https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
     },
     {
-      "added_at": "2023-03-15 01:00:35",
+      "added_at": "2023-03-16 01:44:10",
       "album": {
         "name": "The Race",
         "url": "https://open.spotify.com/album/4BTzguyoRmiBkf9KYV60Dy"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
     },
     {
-      "added_at": "2023-03-15 01:00:35",
+      "added_at": "2023-03-16 01:44:10",
       "album": {
         "name": "CooCool",
         "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
@@ -535,6 +535,26 @@
     {
       "added_at": "2023-03-06 01:55:44",
       "album": {
+        "name": "Lottery (feat. LU KALA)",
+        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "duration_ms": 186761,
+      "name": "Lottery (feat. LU KALA)",
+      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
+    },
+    {
+      "added_at": "2023-03-06 01:55:44",
+      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -567,26 +587,6 @@
     {
       "added_at": "2023-03-06 01:55:44",
       "album": {
-        "name": "Lottery (feat. LU KALA)",
-        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "LU KALA",
-          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
-        }
-      ],
-      "duration_ms": 186761,
-      "name": "Lottery (feat. LU KALA)",
-      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
-    },
-    {
-      "added_at": "2023-03-06 01:55:44",
-      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe"
       },
@@ -599,6 +599,26 @@
       "duration_ms": 182895,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4"
+    },
+    {
+      "added_at": "2023-03-06 01:55:44",
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 193456,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
     },
     {
       "added_at": "2023-03-06 01:55:44",
@@ -623,26 +643,6 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
-    },
-    {
-      "added_at": "2023-03-06 01:55:44",
-      "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 193456,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
     },
     {
       "added_at": "2023-03-06 01:55:44",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-03-06 01:55:44",
       "album": {
-        "name": "Future Friends",
-        "url": "https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6"
-      },
-      "artists": [
-        {
-          "name": "Superfruit",
-          "url": "https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "GUY.exe",
-      "url": "https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P"
-    },
-    {
-      "added_at": "2023-03-06 01:55:44",
-      "album": {
         "name": "SOUTHSIDE",
         "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 162546,
       "name": "Body Like A Back Road",
       "url": "https://open.spotify.com/track/7FpBQ067pHB67deawpbbcY"
+    },
+    {
+      "added_at": "2023-03-06 01:55:44",
+      "album": {
+        "name": "Future Friends",
+        "url": "https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6"
+      },
+      "artists": [
+        {
+          "name": "Superfruit",
+          "url": "https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "GUY.exe",
+      "url": "https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P"
     },
     {
       "added_at": "2023-03-06 01:55:44",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-03-06 01:55:44",
       "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+        "name": "Bad Liar",
+        "url": "https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 204376,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj"
+      "duration_ms": 214647,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/2fZQIJew3nkNe99s2PKzul"
     },
     {
       "added_at": "2023-03-06 01:55:44",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-03-06 01:55:44",
       "album": {
-        "name": "Bad Liar",
-        "url": "https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr"
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 214647,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/2fZQIJew3nkNe99s2PKzul"
+      "duration_ms": 204376,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj"
     },
     {
       "added_at": "2023-03-06 01:55:44",
@@ -1047,26 +1047,6 @@
       "duration_ms": 226160,
       "name": "Side To Side",
       "url": "https://open.spotify.com/track/43bCmCI0nSgcT7QdMXY6LV"
-    },
-    {
-      "added_at": "2023-03-06 01:55:44",
-      "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "Done for Me (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/1lsBTdE6MGsKeZCD6llNu7"
     },
     {
       "added_at": "2023-03-06 01:55:44",
@@ -1135,26 +1115,6 @@
     {
       "added_at": "2023-03-06 01:55:44",
       "album": {
-        "name": "Free Spirit",
-        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Outta My Head (with John Mayer)",
-      "url": "https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP"
-    },
-    {
-      "added_at": "2023-03-06 01:55:44",
-      "album": {
         "name": "You Know What I Need",
         "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
       },
@@ -1171,6 +1131,46 @@
       "duration_ms": 170000,
       "name": "You Know What I Need",
       "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
+    },
+    {
+      "added_at": "2023-03-06 01:55:44",
+      "album": {
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "Done for Me (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/1lsBTdE6MGsKeZCD6llNu7"
+    },
+    {
+      "added_at": "2023-03-06 01:55:44",
+      "album": {
+        "name": "Free Spirit",
+        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "Outta My Head (with John Mayer)",
+      "url": "https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP"
     },
     {
       "added_at": "2023-03-06 01:55:44",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-03-06 01:55:44",
       "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
+    },
+    {
+      "added_at": "2023-03-06 01:55:44",
+      "album": {
         "name": "The Breaker",
         "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
       },
@@ -1327,30 +1343,6 @@
       "duration_ms": 263120,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
-    },
-    {
-      "added_at": "2023-03-06 01:55:44",
-      "album": {
-        "name": "Big Energy (feat. DJ Khaled) [Remix]",
-        "url": "https://open.spotify.com/album/15HgkUTScUcXAXmEu6lZsv"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 181665,
-      "name": "Big Energy (feat. DJ Khaled) - Remix",
-      "url": "https://open.spotify.com/track/0EJ3Kofm9hYq3hL4VZ881G"
     }
   ],
   "unique_name": "\u6d88\u9664\u58d3\u529b",

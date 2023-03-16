@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI3NzIxMiwwMDAwMDAwMDAwMmExNmI3OWM4N2YyYTBjMDBhMzU3NzUzY2ZhNGVh",
+  "snapshot_id": "MTY0NzI3NzIxMiwwMDAwMDAwMDkxM2Q2MWM4Nzg4MzJjM2I1Y2E0ZjM1ZDFmYzI1ZTNj",
   "tracks": [
     {
       "added_at": "2020-04-22 18:51:32",
@@ -435,38 +435,18 @@
     {
       "added_at": "2020-04-22 18:51:32",
       "album": {
-        "name": "Equestria Girls (Original Motion Picture Soundtrack) [Espa\u00f1ol Version]",
-        "url": "https://open.spotify.com/album/21xLInS9Ywz3oKwWPL7VgQ"
+        "name": "Equestria Girls - EP (Espa\u00f1ol / Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5JJsZFJqyY1t0nJwI6BnQM"
       },
       "artists": [
         {
-          "name": "Twilight Sparkle",
-          "url": "https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac"
-        },
-        {
-          "name": "Apple Jack",
-          "url": "https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT"
-        },
-        {
-          "name": "Rainbow Dash",
-          "url": "https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n"
-        },
-        {
-          "name": "Pinkie Pie",
-          "url": "https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5"
-        },
-        {
-          "name": "Rarity",
-          "url": "https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era"
-        },
-        {
-          "name": "Fluttershy",
-          "url": "https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU"
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
         }
       ],
       "duration_ms": 146195,
-      "name": "A Friend For Life - Spanish",
-      "url": "https://open.spotify.com/track/6yL79T8FDd4YaxwtrudizR"
+      "name": "La Amistad",
+      "url": "https://open.spotify.com/track/5qKp7KpIu23B5AEsw5n4ny"
     },
     {
       "added_at": "2020-04-22 18:51:32",

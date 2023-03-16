@@ -2,7 +2,7 @@
 
 ### [DOPE.](https://open.spotify.com/playlist/37i9dQZF1DWSrdTgewhgZq)
 
-> Only the best Hip\-hop, only non\-stop hits\. Cover: GloRilla
+> Only the best Hip\-hop, only non\-stop hits\. Cover: Conway The Machine & Jae Skeese
 
 154 songs - 8 hr 22 min
 

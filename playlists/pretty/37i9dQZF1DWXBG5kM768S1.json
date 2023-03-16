@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 67119,
+  "num_followers": 67141,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMGQ4ZDAzMTA0M2Q3Yjg1NTlmN2JmZDQ1YjAxMDg4ZTAx",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDdjYzk0N2EwNzYyZjk0NWE1MTM1ZWUxMWI1NTYyNzc4",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
-      },
-      "artists": [
-        {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
-        }
-      ],
-      "duration_ms": 231334,
-      "name": "T\u00e5rnet",
-      "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Varme Ut Av Is",
         "url": "https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 234466,
       "name": "Har En Dr\u00f8m",
       "url": "https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+      },
+      "artists": [
+        {
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        }
+      ],
+      "duration_ms": 231334,
+      "name": "T\u00e5rnet",
+      "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
-      },
-      "artists": [
-        {
-          "name": "Henning Kvitnes",
-          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
-        }
-      ],
-      "duration_ms": 253100,
-      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "P\u00e5 vei",
         "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 279240,
       "name": "P\u00e5 vei",
       "url": "https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
+      },
+      "artists": [
+        {
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
+        }
+      ],
+      "duration_ms": 253100,
+      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Ein kallar det kj\u00e6rleik",
-        "url": "https://open.spotify.com/album/4SN2FWk4dpxqlbjNa47tAh"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 197384,
-      "name": "Ein kallar det kj\u00e6rleik",
-      "url": "https://open.spotify.com/track/5r1saX7FrmteQoWy4EX4ZT"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Ta Meg Med",
         "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 223760,
       "name": "Til deg - Single Version",
       "url": "https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Ein kallar det kj\u00e6rleik",
+        "url": "https://open.spotify.com/album/4SN2FWk4dpxqlbjNa47tAh"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 197384,
+      "name": "Ein kallar det kj\u00e6rleik",
+      "url": "https://open.spotify.com/track/5r1saX7FrmteQoWy4EX4ZT"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
+        "name": "Det jeg vil ha (fra deg)",
+        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
+      },
+      "artists": [
+        {
+          "name": "Frida \u00c5nnevik",
+          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
+        }
+      ],
+      "duration_ms": 203263,
+      "name": "Det jeg vil ha (fra deg)",
+      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
         "name": "Imellom to Evigheter",
         "url": "https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 254680,
       "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
       "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
-        "name": "Det jeg vil ha (fra deg)",
-        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
-      },
-      "artists": [
-        {
-          "name": "Frida \u00c5nnevik",
-          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
-        }
-      ],
-      "duration_ms": 203263,
-      "name": "Det jeg vil ha (fra deg)",
-      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
       "artists": [
         {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
         }
       ],
-      "duration_ms": 266328,
-      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
+      "duration_ms": 258638,
+      "name": "Sommerfuggel I Vinterland",
+      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
     }
   ],
   "unique_name": "Norske viser",

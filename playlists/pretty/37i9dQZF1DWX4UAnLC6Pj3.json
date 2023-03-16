@@ -1,15 +1,15 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Luis \u00c1ngel El Flaco & Josi Cuen en portada.",
-  "num_followers": 1093117,
+  "num_followers": 1093535,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyODAwMCwwMDAwMDAwMDY2NWNkNTBmYjhkNThjNGE1OTMxZWE0NDYwMzhhYTJk",
+  "snapshot_id": "MTY3ODQyODAwMCwwMDAwMDAwMDIyMzllMzYzNzAxMTY4ZjczMTFkMzhhOWViOTU2OWEx",
   "tracks": [
     {
-      "added_at": "2023-03-15 01:08:11",
+      "added_at": "2023-03-16 01:13:56",
       "album": {
         "name": "Prefiero Estar Muerto",
         "url": "https://open.spotify.com/album/6b227pi8A1XHMFZkU4aWyl"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
-      "added_at": "2023-03-15 01:08:11",
+      "added_at": "2023-03-16 01:13:56",
       "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
     },
     {
-      "added_at": "2023-03-15 01:08:11",
+      "added_at": "2023-03-16 01:13:56",
       "album": {
         "name": "Hoy Me Puse A Tomar",
         "url": "https://open.spotify.com/album/7kmd08ir57Dian9BkXRNFf"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
-      "added_at": "2023-03-15 01:08:11",
+      "added_at": "2023-03-16 01:13:56",
       "album": {
         "name": "La Bruja",
         "url": "https://open.spotify.com/album/3ryD37i3Mw2gYL5PJwytTf"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
-      "added_at": "2023-03-15 01:08:11",
+      "added_at": "2023-03-16 01:13:56",
       "album": {
         "name": "XV Aniversario",
         "url": "https://open.spotify.com/album/0ham1Jdp5A6r5issDCJQ3t"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
     },
     {
-      "added_at": "2023-03-15 01:08:11",
+      "added_at": "2023-03-16 01:13:56",
       "album": {
         "name": "Pero Te Vas A Arrepentir",
         "url": "https://open.spotify.com/album/12O8waJUg99SP7cm4km7aW"
@@ -265,22 +265,6 @@
       "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
     },
     {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 151773,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
-    },
-    {
       "added_at": "2023-01-16 19:52:16",
       "album": {
         "name": "Sigan Hablando",
@@ -299,6 +283,22 @@
       "duration_ms": 144640,
       "name": "Me Toc\u00f3 Morir",
       "url": "https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Pong\u00e1monos De Acuerdo",
+      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
         "name": "Partido En Dos",
         "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
       },
@@ -401,22 +417,6 @@
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
-    },
-    {
       "added_at": "2023-02-17 06:00:00",
       "album": {
         "name": "Qu\u00e9 Onda Perdida",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Pong\u00e1monos De Acuerdo",
-      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -517,20 +517,20 @@
       "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
     },
     {
-      "added_at": "2023-01-06 19:31:33",
+      "added_at": "2023-01-27 06:00:00",
       "album": {
-        "name": "141",
-        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
+        "name": "De Hoy En Adelante, Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 175102,
-      "name": "141",
-      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
+      "duration_ms": 165933,
+      "name": "Aqu\u00ed Algo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/7wfzVpDwmkpIlQ35vTl6OG"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -549,20 +549,20 @@
       "url": "https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y"
     },
     {
-      "added_at": "2023-01-27 06:00:00",
+      "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "De Hoy En Adelante, Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
+        "name": "141",
+        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 165933,
-      "name": "Aqu\u00ed Algo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/7wfzVpDwmkpIlQ35vTl6OG"
+      "duration_ms": 175102,
+      "name": "141",
+      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "Fuera de Servicio (En Vivo)",
-        "url": "https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Fuera de Servicio - En Vivo",
-      "url": "https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
         "name": "La Despedida",
         "url": "https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 179821,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "Fuera de Servicio (En Vivo)",
+        "url": "https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Fuera de Servicio - En Vivo",
+      "url": "https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah"
     },
     {
       "added_at": "2023-01-27 06:00:00",
@@ -1157,26 +1157,6 @@
       "url": "https://open.spotify.com/track/065QGFIfARtgUoTeJifVvJ"
     },
     {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "Si Esta Botella Hablara",
-        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 188511,
-      "name": "Si Esta Botella Hablara",
-      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
-    },
-    {
       "added_at": "2023-01-06 19:31:33",
       "album": {
         "name": "Nunca Dudes En Llamarme",
@@ -1195,6 +1175,26 @@
       "duration_ms": 204160,
       "name": "Nunca Dudes En Llamarme",
       "url": "https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Si Esta Botella Hablara",
+        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 188511,
+      "name": "Si Esta Botella Hablara",
+      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
     },
     {
       "added_at": "2023-01-16 19:52:16",
@@ -1229,26 +1229,6 @@
       "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
     },
     {
-      "added_at": "2023-01-13 06:00:00",
-      "album": {
-        "name": "Aplaca Tus Berrinches",
-        "url": "https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Aplaca Tus Berrinches",
-      "url": "https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y"
-    },
-    {
       "added_at": "2023-01-06 19:31:33",
       "album": {
         "name": "Ya Se Fue",
@@ -1267,6 +1247,26 @@
       "duration_ms": 201400,
       "name": "Ya Se Fue",
       "url": "https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr"
+    },
+    {
+      "added_at": "2023-01-13 06:00:00",
+      "album": {
+        "name": "Aplaca Tus Berrinches",
+        "url": "https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Aplaca Tus Berrinches",
+      "url": "https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1299,22 +1299,6 @@
       "duration_ms": 200440,
       "name": "Vamos Bien",
       "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "Prefiero Estar Contigo (Deluxe)",
-        "url": "https://open.spotify.com/album/0RyJXHmyxfV0JlTonmmAyx"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 220746,
-      "name": "Te Va A Ir Bien",
-      "url": "https://open.spotify.com/track/7nHD3IwYISHWeX946ZBUhp"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1353,6 +1337,22 @@
       "url": "https://open.spotify.com/track/2um0106nrjNOayotnhbKMZ"
     },
     {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Prefiero Estar Contigo (Deluxe)",
+        "url": "https://open.spotify.com/album/0RyJXHmyxfV0JlTonmmAyx"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 220746,
+      "name": "Te Va A Ir Bien",
+      "url": "https://open.spotify.com/track/7nHD3IwYISHWeX946ZBUhp"
+    },
+    {
       "added_at": "2023-01-13 06:00:00",
       "album": {
         "name": "Te Quiero Mil",
@@ -1385,22 +1385,6 @@
       "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
-      "added_at": "2023-01-16 19:52:16",
-      "album": {
-        "name": "Para Ti Exclusivo (En Vivo Desde Arandas Jalisco)",
-        "url": "https://open.spotify.com/album/4xZFqokyvpfFKHkHlSeePO"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "De Ti Exclusivo",
-      "url": "https://open.spotify.com/track/404MXA5pRTh93BrxPeGrQp"
-    },
-    {
       "added_at": "2023-01-06 19:31:33",
       "album": {
         "name": "La Patrona",
@@ -1421,6 +1405,38 @@
       "url": "https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T"
     },
     {
+      "added_at": "2023-03-16 01:13:56",
+      "album": {
+        "name": "Gente Corriente",
+        "url": "https://open.spotify.com/album/6pzjO8qClKr8iQ5eDqNZ84"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 133480,
+      "name": "Gente Corriente",
+      "url": "https://open.spotify.com/track/4IwuZ9TArWPahGjIdTqyJw"
+    },
+    {
+      "added_at": "2023-01-16 19:52:16",
+      "album": {
+        "name": "Para Ti Exclusivo (En Vivo Desde Arandas Jalisco)",
+        "url": "https://open.spotify.com/album/4xZFqokyvpfFKHkHlSeePO"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "De Ti Exclusivo",
+      "url": "https://open.spotify.com/track/404MXA5pRTh93BrxPeGrQp"
+    },
+    {
       "added_at": "2023-01-16 19:52:16",
       "album": {
         "name": "24/7 Dolido",
@@ -1435,22 +1451,6 @@
       "duration_ms": 175090,
       "name": "24/7 Dolido",
       "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
-        "name": "Lo Que No Es Pa' Uno",
-        "url": "https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Lo Que No Es Pa' Uno",
-      "url": "https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1483,6 +1483,22 @@
       "duration_ms": 180106,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "Lo Que No Es Pa' Uno",
+        "url": "https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Lo Que No Es Pa' Uno",
+      "url": "https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1585,6 +1601,26 @@
       "url": "https://open.spotify.com/track/2cJFOBctujdzBnCdrxZwWh"
     },
     {
+      "added_at": "2023-01-27 06:00:00",
+      "album": {
+        "name": "El De Los Collares",
+        "url": "https://open.spotify.com/album/0uf8gfJPV37b5LZaQtoQpi"
+      },
+      "artists": [
+        {
+          "name": "Banda Fortuna",
+          "url": "https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY"
+        },
+        {
+          "name": "Los Luna Oficial",
+          "url": "https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC"
+        }
+      ],
+      "duration_ms": 150826,
+      "name": "El De Los Collares",
+      "url": "https://open.spotify.com/track/0eomXwhvCUSFUtgrGzSLSX"
+    },
+    {
       "added_at": "2023-01-06 19:31:33",
       "album": {
         "name": "Se Vale Enamorarse",
@@ -1599,22 +1635,6 @@
       "duration_ms": 176400,
       "name": "Se Vale Enamorarse",
       "url": "https://open.spotify.com/track/6NTXZw3p7QaAVSXKhGxL0z"
-    },
-    {
-      "added_at": "2023-03-15 01:08:11",
-      "album": {
-        "name": "Gente Corriente",
-        "url": "https://open.spotify.com/album/6pzjO8qClKr8iQ5eDqNZ84"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 133480,
-      "name": "Gente Corriente",
-      "url": "https://open.spotify.com/track/4IwuZ9TArWPahGjIdTqyJw"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1657,26 +1677,6 @@
       "url": "https://open.spotify.com/track/0AsxTIT6xA2qjwXc8nqBqF"
     },
     {
-      "added_at": "2023-01-27 06:00:00",
-      "album": {
-        "name": "El De Los Collares",
-        "url": "https://open.spotify.com/album/0uf8gfJPV37b5LZaQtoQpi"
-      },
-      "artists": [
-        {
-          "name": "Banda Fortuna",
-          "url": "https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY"
-        },
-        {
-          "name": "Los Luna Oficial",
-          "url": "https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC"
-        }
-      ],
-      "duration_ms": 150826,
-      "name": "El De Los Collares",
-      "url": "https://open.spotify.com/track/0eomXwhvCUSFUtgrGzSLSX"
-    },
-    {
       "added_at": "2023-01-06 19:31:33",
       "album": {
         "name": "El HT",
@@ -1691,26 +1691,6 @@
       "duration_ms": 150056,
       "name": "El HT",
       "url": "https://open.spotify.com/track/6gFE6Kp7uZE0ZQQCXlcLvK"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "La Contrase\u00f1a De Tu Cuerpo",
-        "url": "https://open.spotify.com/album/1ODDDgLFksy7YfvDvaqAXp"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        },
-        {
-          "name": "Eladio Flores LR",
-          "url": "https://open.spotify.com/artist/79L55hJR2nKHrFkWbJO0RG"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "La Contrase\u00f1a De Tu Cuerpo",
-      "url": "https://open.spotify.com/track/0JGxubIP9h6x5JDYUzyrTH"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1735,6 +1715,22 @@
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 215303,
+      "name": "Sigues Siendo Tu - En vivo",
+      "url": "https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3"
     }
   ],
   "unique_name": "Banda 2023",

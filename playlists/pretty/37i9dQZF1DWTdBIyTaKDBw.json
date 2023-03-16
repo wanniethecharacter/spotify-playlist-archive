@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 43069,
+  "num_followers": 43101,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNDkyOSwwMDAwMDAwMDRkMDEwMjNlM2RmZjIxNDViZGVlMTVmYzVhOGJlZDUx",
+  "snapshot_id": "MTY3NzIzNDkyOSwwMDAwMDAwMDBjMGU4NzMwYmFhYmQyZmM2ODZhMTdjMzY0ZGU2ZjA4",
   "tracks": [
     {
       "added_at": "2023-01-25 08:21:22",
@@ -285,22 +285,6 @@
       "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
     },
     {
-      "added_at": "2023-03-15 01:03:16",
-      "album": {
-        "name": "Snowy Stars",
-        "url": "https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8"
-      },
-      "artists": [
-        {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Snowy Stars",
-      "url": "https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4"
-    },
-    {
       "added_at": "2023-01-25 08:21:22",
       "album": {
         "name": "GOMAK BOYS",
@@ -315,6 +299,22 @@
       "duration_ms": 204120,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
+    },
+    {
+      "added_at": "2023-03-16 01:06:13",
+      "album": {
+        "name": "Snowy Stars",
+        "url": "https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Snowy Stars",
+      "url": "https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "Junggigo Sings Brazil",
-        "url": "https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K"
-      },
-      "artists": [
-        {
-          "name": "Junggigo Trio",
-          "url": "https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL"
-        }
-      ],
-      "duration_ms": 297706,
-      "name": "Fairy Of Shampoo",
-      "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "Friendzone",
         "url": "https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
+        "name": "Junggigo Sings Brazil",
+        "url": "https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K"
+      },
+      "artists": [
+        {
+          "name": "Junggigo Trio",
+          "url": "https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL"
+        }
+      ],
+      "duration_ms": 297706,
+      "name": "Fairy Of Shampoo",
+      "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
         "name": "Spring Is You",
         "url": "https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "Honey jar No.01",
-        "url": "https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t"
-      },
-      "artists": [
-        {
-          "name": "HolyBear",
-          "url": "https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn"
-        }
-      ],
-      "duration_ms": 219205,
-      "name": "Butterfly on my mind",
-      "url": "https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "Seoul Check-in OST Part 6",
         "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 191208,
       "name": "Check-In",
       "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "Honey jar No.01",
+        "url": "https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t"
+      },
+      "artists": [
+        {
+          "name": "HolyBear",
+          "url": "https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn"
+        }
+      ],
+      "duration_ms": 219205,
+      "name": "Butterfly on my mind",
+      "url": "https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "How Is It?",
-        "url": "https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v"
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
       },
       "artists": [
         {
-          "name": "Tarin",
-          "url": "https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO"
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
         }
       ],
-      "duration_ms": 189800,
-      "name": "How Is It?",
-      "url": "https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R"
+      "duration_ms": 205854,
+      "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
+      "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
+        "name": "How Is It?",
+        "url": "https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v"
       },
       "artists": [
         {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+          "name": "Tarin",
+          "url": "https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO"
         }
       ],
-      "duration_ms": 205854,
-      "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
-      "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
+      "duration_ms": 189800,
+      "name": "How Is It?",
+      "url": "https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "No Worries",
-        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
-      },
-      "artists": [
-        {
-          "name": "DAHEE",
-          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
-        }
-      ],
-      "duration_ms": 174856,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "My Journey",
         "url": "https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 203285,
       "name": "My Journey",
       "url": "https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
+      },
+      "artists": [
+        {
+          "name": "DAHEE",
+          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
+        }
+      ],
+      "duration_ms": 174856,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -1151,6 +1151,30 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
+        "name": "Forever yours",
+        "url": "https://open.spotify.com/album/0SmS3QKxpiblknw3DYP3a5"
+      },
+      "artists": [
+        {
+          "name": "Kim Yeon Woo",
+          "url": "https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd"
+        },
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        },
+        {
+          "name": "Yoo Inna",
+          "url": "https://open.spotify.com/artist/6fKnb4HDyGqFaYgSFu5k17"
+        }
+      ],
+      "duration_ms": 190146,
+      "name": "Play the field (With ONEW, Yoo Inna)",
+      "url": "https://open.spotify.com/track/0veTa3D38HyGkz2gFZXAuz"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
         "name": "Rainy Apgujeong",
         "url": "https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV"
       },
@@ -1191,46 +1215,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "\uc232 Forest",
-        "url": "https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
-        }
-      ],
-      "duration_ms": 244363,
-      "name": "Maudie",
-      "url": "https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
-        "name": "Forever yours",
-        "url": "https://open.spotify.com/album/0SmS3QKxpiblknw3DYP3a5"
-      },
-      "artists": [
-        {
-          "name": "Kim Yeon Woo",
-          "url": "https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd"
-        },
-        {
-          "name": "ONEW",
-          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
-        },
-        {
-          "name": "Yoo Inna",
-          "url": "https://open.spotify.com/artist/6fKnb4HDyGqFaYgSFu5k17"
-        }
-      ],
-      "duration_ms": 190146,
-      "name": "Play the field (With ONEW, Yoo Inna)",
-      "url": "https://open.spotify.com/track/0veTa3D38HyGkz2gFZXAuz"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "Leave like this",
         "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
       },
@@ -1251,22 +1235,38 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "ROSE",
-        "url": "https://open.spotify.com/album/26fovYAowQaJmrucMlNztd"
+        "name": "\uc232 Forest",
+        "url": "https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR"
       },
       "artists": [
         {
-          "name": "EDEN",
-          "url": "https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49"
-        },
-        {
-          "name": "SONG JU HEE \uc1a1\uc8fc\ud76c",
-          "url": "https://open.spotify.com/artist/7I028o0Vby3syaeumHkoFU"
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
         }
       ],
-      "duration_ms": 178886,
-      "name": "ROSE",
-      "url": "https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS"
+      "duration_ms": 244363,
+      "name": "Maudie",
+      "url": "https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "Carpet - SM STATION",
+        "url": "https://open.spotify.com/album/0qJSfEpD5X6xVGBUARniTH"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        },
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Carpet",
+      "url": "https://open.spotify.com/track/40LSUaUobukeVXmb3mJ79t"
     }
   ],
   "unique_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",

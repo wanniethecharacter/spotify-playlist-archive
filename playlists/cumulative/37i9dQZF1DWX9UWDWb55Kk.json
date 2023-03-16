@@ -2128,7 +2128,7 @@
     {
       "album": {
         "name": "Obsidienne",
-        "url": "https://open.spotify.com/album/5VgQ8l8YD5LGes6eUpw04w"
+        "url": "https://open.spotify.com/album/5eaRJz6UKreHULrtaTDmQ7"
       },
       "artists": [
         {
@@ -2139,6 +2139,24 @@
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Faceless",
+      "url": "https://open.spotify.com/track/35FXYk8DBNKqcUkeFnFhFf"
+    },
+    {
+      "album": {
+        "name": "Obsidienne",
+        "url": "https://open.spotify.com/album/5VgQ8l8YD5LGes6eUpw04w"
+      },
+      "artists": [
+        {
+          "name": "Obsimo",
+          "url": "https://open.spotify.com/artist/3zHiZOMFJFL3GjWwsmYEJy"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-16",
       "duration_ms": 243000,
       "name": "Faceless",
       "url": "https://open.spotify.com/track/5oSuNG9lPLcsu7OlW45jeV"

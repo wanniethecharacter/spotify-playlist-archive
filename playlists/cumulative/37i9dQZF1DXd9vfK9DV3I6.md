@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-239 songs - 17 hr 41 min
+240 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Alone](https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I), [Elnur Mikayilov](https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi) | [Alone](https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU) | 3:45 | 2020-10-18\* |  |
 | [Amelia](https://open.spotify.com/track/6QFe6vJhkqlHEgejKYc992) | [Efemero](https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D) | [Amelia](https://open.spotify.com/album/5cYxKr8O3AnJs17QeF6M9t) | 3:13 | 2022-09-29 |  |
 | [Amor](https://open.spotify.com/track/6zqQCPgWUqJZSfaAbG6o8p) | [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT), [Umut Kilic](https://open.spotify.com/artist/4LTPqfgIAxjjCcPtszxBiT) | [Amor](https://open.spotify.com/album/2sXEo5lJtkMIFLgyS5Oxwx) | 3:00 | 2021-11-05 | 2022-09-05 |
-| [Anatolian Vibe](https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld) | [Kad1r](https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi), [Bugra Atmaca](https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23) | [Anatolian Vibe](https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK) | 3:07 | 2022-04-15 |  |
+| [Anatolian Vibe](https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld) | [Kad1r](https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi), [Bugra Atmaca](https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23) | [Anatolian Vibe](https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK) | 3:07 | 2022-04-15 | 2023-03-16 |
 | [Angelic](https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC) | [Nick Saley](https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez), [Ikonnya](https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1) | [Angelic](https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3) | 4:29 | 2022-01-03 |  |
 | [Anlar](https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Anlar](https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c) | 7:10 | 2020-10-18\* |  |
 | [Arab Money](https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC) | [Moonlight](https://open.spotify.com/artist/55IUUMbipoSrUwNO9h3vfJ), [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Arab Money](https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5) | 2:16 | 2021-11-14 |  |
@@ -63,6 +63,7 @@
 | [Descalzo](https://open.spotify.com/track/2jcW2YUOaih8Gywf4hgL4b) | [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo), [ARKADYAN](https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI) | [Descalzo](https://open.spotify.com/album/0i1fEBRGPphcPQTCzD3EHb) | 7:27 | 2022-12-05 |  |
 | [Desert Rose](https://open.spotify.com/track/3g1bjrdnhYss63z1V6NRYX) | [Dim Angelo](https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2), [Nikko Sunset](https://open.spotify.com/artist/1JIYn2nzWdIwsys5ZjzUM6), [Maria Zhitnikova](https://open.spotify.com/artist/5LOLOnagiu58TcRs3YEguF) | [Desert Rose](https://open.spotify.com/album/6GqDLlWydXny5lk8E7OpOP) | 2:37 | 2021-10-23 |  |
 | [Desert Rose / aomri](https://open.spotify.com/track/6vTddNBj1hNzLgmw1FewZd) | [Hijazi](https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL) | [Desert Rose / aomri](https://open.spotify.com/album/3T7an9MCrjnU5DdpWdOEtV) | 4:38 | 2022-01-21 | 2022-07-29 |
+| [Destiny](https://open.spotify.com/track/0saYIsX2qEFViag84KF26X) | [Ata Oztuna](https://open.spotify.com/artist/2uhas3Xg5Hy0O5lWb0m2nP), [Elnur Mikayilov](https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi) | [Talk About Us](https://open.spotify.com/album/1lHEakWggs4zrnNNrv6ti0) | 3:16 | 2023-03-15 |  |
 | [Dili Shikaw](https://open.spotify.com/track/2oMcQPOU4EY4eRLc0kiMYo) | [BANA](https://open.spotify.com/artist/7crRAiivSKMEm86Y4ip99L) | [Dili Shikaw](https://open.spotify.com/album/7tBN6Ne3hK5T8LsVHFKEFA) | 3:09 | 2021-03-14 | 2021-05-16 |
 | [Dle Yaman \(116 Deep Mix\)](https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt) | [Hraach](https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO) | [Dle Yaman \(116 Deep Mix\)](https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj) | 7:18 | 2021-02-28 |  |
 | [Dreams](https://open.spotify.com/track/1Gig83Hs2CSExBM38e8YxC) | [Bugra Atmaca](https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23) | [Dreams](https://open.spotify.com/album/0YMBhvo8rwRFmiIzBEDj6m) | 2:49 | 2021-07-08 |  |

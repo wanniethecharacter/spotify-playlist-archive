@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras\. Cover: Nicki Nicole & Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,005,604 likes - 61 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,006,572 likes - 61 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

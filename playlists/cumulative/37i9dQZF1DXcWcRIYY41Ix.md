@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Alex Ferreira.
 
-353 songs - 21 hr 40 min
+354 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Chau, Ya Casi Me Voy](https://open.spotify.com/track/3Ijp0tONaWQgpt1mrfoAZp) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Chau, Ya Casi Me Voy](https://open.spotify.com/album/45Itcv6UAvHKMsecg6EKDd) | 3:30 | 2022-06-03 | 2022-06-05 |
 | [Chavela](https://open.spotify.com/track/0rZrzVHDc6k3EYnAnIhUel) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz) | [Rúbrica X](https://open.spotify.com/album/1NOmwE4eto86tiCnzwoWEq) | 3:05 | 2022-07-22 | 2022-11-12 |
 | [Chiquero](https://open.spotify.com/track/21zM9ws5MnmhXd0YObWzKf) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Chiquero](https://open.spotify.com/album/4d5ehZJs19ElinrhzQfcPY) | 2:46 | 2022-09-23 | 2022-12-13 |
+| [Cielo](https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Cielo](https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM) | 3:23 | 2023-03-10 |  |
 | [Cielo \- Anhelo brújula del destino](https://open.spotify.com/track/2BfqQCKiA6F7l294f64IOY) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [La Sagrada](https://open.spotify.com/album/1xu99byFIkzbPmPDWxYTMc) | 3:47 | 2023-02-03 | 2023-02-25 |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-25 | 2022-05-24 |
 | [Claroscuro](https://open.spotify.com/track/4NsXyQdZ80dXlGwLMyzUEz) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Claroscuro](https://open.spotify.com/album/4RLLGLmJOwqsrq2H4DLUfo) | 4:30 | 2021-12-24 | 2022-12-06 |
@@ -336,7 +337,7 @@
 | [Un Golpe de Suerte](https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Un Golpe de Suerte](https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4) | 4:29 | 2021-12-24 |  |
 | [Un Poquito Así](https://open.spotify.com/track/3O9Ghu3VChNXL5LsrnnaV0) | [Adri Stuven](https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn), [Walki](https://open.spotify.com/artist/0Z62JhOUGFNa5cFs1Fr4O0) | [Métete en Tu Amor](https://open.spotify.com/album/4w8SyxKXxrc86jJs8b8tBm) | 3:20 | 2022-01-14 | 2022-07-25 |
 | [Una Fecha En El Calendario](https://open.spotify.com/track/4SZToPB2zdHUmIASfZFFlI) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Una Fecha En El Calendario](https://open.spotify.com/album/4fn2pYbNE7QD6FoIjWCfOO) | 3:58 | 2021-12-24 | 2022-07-29 |
-| [Una Fecha En El Calendario](https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 3:58 | 2023-03-10 |  |
+| [Una Fecha En El Calendario](https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 3:58 | 2023-03-10 | 2023-03-16 |
 | [Una herida](https://open.spotify.com/track/7CPQMi5mEonIFzo8VtV7cy) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Una herida](https://open.spotify.com/album/0Dydnkcx3W58VZhWnJQJhq) | 3:02 | 2022-09-23 | 2022-10-22 |
 | [Universo](https://open.spotify.com/track/5OyW17JzgrvjAJkycMHAmp) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Universo](https://open.spotify.com/album/6hKxfX97K2i0tmZJETLfFP) | 3:04 | 2021-12-24 | 2022-02-12 |
 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 | 2022-07-22 | 2022-08-26 |

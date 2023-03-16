@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,012 songs - 1 day 22 hr 54 min
+1,014 songs - 1 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A) | 3:56 | 2021-05-09 | 2021-05-23 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-21 | 2022-11-27 |
 | [Mixtape](https://open.spotify.com/track/6SfyzcVxW2P9ieifice761) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [Mixtape](https://open.spotify.com/album/6DxSSb0rVQAFW6F86sC48v) | 1:28 | 2021-08-29 | 2021-08-30 |
-| [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-18 |  |
+| [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-18 | 2023-03-16 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-09-29 | 2021-11-23 |
 | [MONEY FLOW](https://open.spotify.com/track/7DOkGpObmhDr1ehcvN1GkR) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [LIL MORTY 3](https://open.spotify.com/album/2YtMe6ByCgYKIO4uu76xGv) | 2:27 | 2022-12-03 | 2022-12-05 |
 | [MONEYDEALER](https://open.spotify.com/track/3bKGBW6oxVWekfkfZ2BJqw) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [MONEYDEALER](https://open.spotify.com/album/4n9BQVu07XjxoncNbAusUR) | 2:16 | 2021-11-21 | 2021-11-22 |
@@ -567,6 +567,7 @@
 | [Бэлмэйн](https://open.spotify.com/track/1IiTqFqIT8BNUsTcJIwqaH) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 4:41 | 2021-04-29 | 2021-04-30 |
 | [Бібліотека](https://open.spotify.com/track/6ekNzvEmnCPbIdTFjRtw6L) | [Колос](https://open.spotify.com/artist/362iRKPQbIK8S5Eu5rHqtU) | [Kamasutra](https://open.spotify.com/album/2eZfffj22Wsk7zFFkaP2Ld) | 3:05 | 2021-10-09 | 2021-10-30 |
 | [Біля серця](https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Біля серця](https://open.spotify.com/album/5QKwlUsyDw4fJ4c3zTPZPY) | 2:16 | 2022-09-27 |  |
+| [Біля тополі](https://open.spotify.com/track/1NMcQpg1J5RaUxPTLifSnq) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Біля тополі](https://open.spotify.com/album/2MgSHC8yz1vt0ItAdH0tuJ) | 3:29 | 2023-03-15 |  |
 | [Біля тополі](https://open.spotify.com/track/3MqaB8TndvgRZ1QSQXH7J7) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Біля тополі](https://open.spotify.com/album/3ladULEuZfnDeQ43IL3kjy) | 3:29 | 2022-07-23 | 2023-01-29 |
 | [В диапазоне](https://open.spotify.com/track/1cmIuauHOxvxzTCFXFnNRL) | [Pornofilmy](https://open.spotify.com/artist/47jBQjRmURjRn3XfLIaHvV) | [В диапазоне между отчаянием и надеждой](https://open.spotify.com/album/6qOOpX7g5uEw3NhOgmy3iq) | 5:31 | 2022-03-09 | 2022-03-27 |
 | [В Клубе](https://open.spotify.com/track/0GhGWqedLDtuNlNIJIlTC3) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:40 | 2021-08-15 | 2021-08-16 |
@@ -593,6 +594,7 @@
 | [вотсап](https://open.spotify.com/track/7iGdK8FeeKfWiLR3Ax6phw) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [вотсап](https://open.spotify.com/album/7oTooG88uJuwtcRKJhcA7p) | 2:49 | 2023-01-28 | 2023-03-11 |
 | [Вредные привычки](https://open.spotify.com/track/44XUsQdCII984Um9M35zBR) | [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [Вредные привычки](https://open.spotify.com/album/1M1N1hiOarVTmCWvve9LC1) | 2:59 | 2021-08-22 | 2021-08-29 |
 | [Временно](https://open.spotify.com/track/5v5qD89PqSUZ6KmA6yRsDx) | [MiyaGi & Endspiel](https://open.spotify.com/artist/6L5bLEtpxwd0KOdOr3gtW4) | [HATTORI](https://open.spotify.com/album/5AyqSPIOfYqVDIwAOdAPSi) | 3:45 | 2022-10-29 | 2022-11-07 |
+| [Вродлива](https://open.spotify.com/track/714gZqwzaj9MrjyDGPWq1c) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Вродлива](https://open.spotify.com/album/30CrSBR6y6TGFq9WHBHuHI) | 2:30 | 2023-03-15 |  |
 | [Все эти деньги сразу](https://open.spotify.com/track/1H6gLIQOQSPk5RErPxWoKp) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:11 | 2021-08-15 | 2021-08-16 |
 | [Всему Свое Время](https://open.spotify.com/track/30btnOJK5BQKkTgW3NRIdd) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [Million Dollar Depression](https://open.spotify.com/album/6cyFbDC72hy7WWKLoGAQE9) | 2:44 | 2021-03-27\* | 2021-03-27 |
 | [Вставал Падал](https://open.spotify.com/track/7zF1rACW4Ox3ZdgZ0iXm92) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l), [ENTYPE](https://open.spotify.com/artist/7poJQ3wJbSypDJMl8dOsd6) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 2:17 | 2022-10-22 | 2022-10-28 |
@@ -725,7 +727,7 @@
 | [Кукла колдуна](https://open.spotify.com/track/2DYzsMQpO7xOw7b3JwyIWP) | [Korol i Shut](https://open.spotify.com/artist/0qc4X567Fs1DUbQ7bS2XSJ) | [Акустический альбом](https://open.spotify.com/album/56dGVHgkRzOfEmWDA1W0ov) | 3:22 | 2021-03-27\* | 2022-02-08 |
 | [Курить](https://open.spotify.com/track/1hnMLPOqTMV2gurNxOnsjK) | [Jakone](https://open.spotify.com/artist/0Kwx9LPnkelacgHzRI8vxl), [A.V.G](https://open.spotify.com/artist/3a4bEvoyyeZPOLxCkSgPO6), [Итачи](https://open.spotify.com/artist/5rCd3B014Gzgupz7jkjAnG) | [Форс\-мажоры](https://open.spotify.com/album/1BGKIY9CC0LrGsdRwx4pX3) | 2:07 | 2022-07-23 | 2022-09-01 |
 | [КЭН](https://open.spotify.com/track/1ugL6Atu9ZjlANNEAg1vSF) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:28 | 2022-04-30 | 2022-05-03 |
-| [ЛАБИРИНТ](https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [12](https://open.spotify.com/album/12gG6thCtApE8B1nKcowOg) | 2:49 | 2022-02-20 |  |
+| [ЛАБИРИНТ](https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [12](https://open.spotify.com/album/12gG6thCtApE8B1nKcowOg) | 2:49 | 2022-02-20 | 2023-03-16 |
 | [Лавэ \(feat\. ANIKV & БИЛИК\)](https://open.spotify.com/track/5SIWet1hcYBuPd6l36NlZG) | [SALUKI](https://open.spotify.com/artist/07tFgedhta5b5WaF0Yj4bH), [104](https://open.spotify.com/artist/3Th60WEZwIWceINQVE4Ipx), [ANIKV](https://open.spotify.com/artist/4uWhcZCwuPopf6JGvwsN2B), [BILIK](https://open.spotify.com/artist/3A4xVUf4pH2xCtIjctgdFd) | [Лавэ \(feat\. ANIKV & БИЛИК\)](https://open.spotify.com/album/7buTJibChOq9YQAbXQu0Uh) | 2:55 | 2021-04-04 | 2021-04-11 |
 | [Ластівки](https://open.spotify.com/track/489WGIBYPf4nallnJOHpK6) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7) | [Ластівки](https://open.spotify.com/album/3CX7DQUapv7QJm75jjLzpR) | 2:55 | 2022-06-20 | 2022-12-22 |
 | [Лиза](https://open.spotify.com/track/69E0PXED6MvClnqED4d7f5) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 3:00 | 2021-10-20 | 2021-10-23 |

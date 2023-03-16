@@ -169,6 +169,28 @@
     },
     {
       "album": {
+        "name": "Nove Chiamate",
+        "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181668,
+      "name": "Arai (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c"
+    },
+    {
+      "album": {
         "name": "Baby Mama",
         "url": "https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO"
       },
@@ -666,6 +688,24 @@
       "duration_ms": 197786,
       "name": "come t! vorre!",
       "url": "https://open.spotify.com/track/7nLd1J81Y2o5UhUEFUeCsb"
+    },
+    {
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172615,
+      "name": "COME VUOI",
+      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
     },
     {
       "album": {

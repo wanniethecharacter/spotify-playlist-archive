@@ -743,6 +743,28 @@
     },
     {
       "album": {
+        "name": "amazing!",
+        "url": "https://open.spotify.com/album/2bduTBQK9PyT60bdql7FrW"
+      },
+      "artists": [
+        {
+          "name": "OG KEMi",
+          "url": "https://open.spotify.com/artist/5fnqXBFXnpSYgefFL3eGEj"
+        },
+        {
+          "name": "Cal1sto",
+          "url": "https://open.spotify.com/artist/5ByRQoCFwf6cs18yGbEOJC"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "amazing!",
+      "url": "https://open.spotify.com/track/5idzBnebMgiZLgC4ZT64GJ"
+    },
+    {
+      "album": {
         "name": "Chavo's World 2",
         "url": "https://open.spotify.com/album/0xntyinSE3IRByoQDvTve7"
       },
@@ -1096,6 +1118,24 @@
       "duration_ms": 197773,
       "name": "Back to Back",
       "url": "https://open.spotify.com/track/5IvAhpE2N6BAinhPpNpOR7"
+    },
+    {
+      "album": {
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/28LtjBcClHQCVCzAO6uR6H"
+      },
+      "artists": [
+        {
+          "name": "Young Bopete",
+          "url": "https://open.spotify.com/artist/2fqZt9lq08W5OUOcKSSW2R"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168421,
+      "name": "Backend",
+      "url": "https://open.spotify.com/track/2RIZZjL7hmpOxY3glK7ukT"
     },
     {
       "album": {
@@ -3164,7 +3204,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 195242,
       "name": "Dawson's Creek",
       "url": "https://open.spotify.com/track/4J8kPd5rTr6KpcWhPcj3Ij"
@@ -9709,6 +9749,24 @@
     },
     {
       "album": {
+        "name": "Same old",
+        "url": "https://open.spotify.com/album/15CbefjARKuoAi3YIC3mvF"
+      },
+      "artists": [
+        {
+          "name": "Pud",
+          "url": "https://open.spotify.com/artist/19OjCSpqozFnPepvZGtXz0"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198321,
+      "name": "Same Old",
+      "url": "https://open.spotify.com/track/3qS0PDdo6eMMAxrVII18HA"
+    },
+    {
+      "album": {
         "name": "Same One (feat. 1Shot Dealz & Shadow On the Beat)",
         "url": "https://open.spotify.com/album/7LvCfOb2ya6JMu89Vfq3gb"
       },
@@ -10664,6 +10722,28 @@
       "duration_ms": 153769,
       "name": "Still Like Drugs",
       "url": "https://open.spotify.com/track/7KyNKtcXTZgY1WWIyzGRX6"
+    },
+    {
+      "album": {
+        "name": "Still Lookin",
+        "url": "https://open.spotify.com/album/2yJ9rFRvcEZTSizPI1xjDq"
+      },
+      "artists": [
+        {
+          "name": "Matt McGhee",
+          "url": "https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN"
+        },
+        {
+          "name": "dimijay",
+          "url": "https://open.spotify.com/artist/7aOPtUsSYb9okxKPGtgVCk"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101698,
+      "name": "Still Lookin",
+      "url": "https://open.spotify.com/track/6WFoDsJW8mi28u2uuIsdIj"
     },
     {
       "album": {
@@ -11644,6 +11724,24 @@
       "duration_ms": 121546,
       "name": "Trust Nobody",
       "url": "https://open.spotify.com/track/4noNFrvtVXArBkmiXGnUcx"
+    },
+    {
+      "album": {
+        "name": "Trust Pt. 2",
+        "url": "https://open.spotify.com/album/6p9CTSrA3Q0QRupycIYTqj"
+      },
+      "artists": [
+        {
+          "name": "Gic0e",
+          "url": "https://open.spotify.com/artist/7CkRwvPIIL5cDRgpPPLkvF"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232440,
+      "name": "Trust Pt. 2",
+      "url": "https://open.spotify.com/track/3XnXKm3BJIJ4JMS1zGsiiP"
     },
     {
       "album": {

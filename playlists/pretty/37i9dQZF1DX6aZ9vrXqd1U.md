@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,222 likes - 124 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,317 likes - 124 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 5 | [BEYOND THE TIME \(メビウスの宇宙を越えて\)](https://open.spotify.com/track/7i1xVKKkHExSqUO7zhnsOW) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック](https://open.spotify.com/album/0ZfXlmkU5NfEglCCZLpxjx) | 4:51 |
 | 6 | [水の星へ愛をこめて](https://open.spotify.com/track/49dRdtIMmYGAeMr6hcwKyi) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [水の星へ愛をこめて](https://open.spotify.com/album/51sr6QLv4BNQFokua1xFFB) | 3:41 |
 | 7 | [あんなに一緒だったのに](https://open.spotify.com/track/5P97xlvOl6IadKTLVId5ap) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Dream Field](https://open.spotify.com/album/4e57AGxBR7VRGMYZxBmxBH) | 4:49 |
-| 8 | [Line of sight](https://open.spotify.com/track/4tUFxXSNCayPjtYoF3kI7T) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/7CUgVbMeNO27pF1kFDm5yV) | 3:33 |
+| 8 | [Line of sight](https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/0jhtODRQmtW7lvT9Ika34U) | 3:33 |
 | 9 | [Timeless Universe \(feat\. ShishiGami\)](https://open.spotify.com/track/2JmBFM0U6nuW8EQm2lWgaT) | [Powerless](https://open.spotify.com/artist/5utxGGhcP0Xs2NMvLOvXqh), [ShishiGami](https://open.spotify.com/artist/4zOJPXnfVmMPSgBUJHkFwe) | ["SD GUNDAM BATTLE ALLIANCE" Theme Songs](https://open.spotify.com/album/2qHFuoKDyCDX5rAjoWHmjv) | 4:29 |
 | 10 | [Ubugoe](https://open.spotify.com/track/67nn4UD5fNA3mr8x8OC32I) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Ubugoe](https://open.spotify.com/album/6qCvYCgfFoHewD2lhYcjRN) | 6:15 |
 | 11 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 123 | [ビギニング](https://open.spotify.com/track/515LLsIoa7eetaTiFEJSa6) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [ビギニング](https://open.spotify.com/album/4oel0lHGTN643V87ohpAL1) | 3:24 |
 | 124 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/4kPYWusRFCUOrb1Qw7a4KF) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 4:53 |
 
-Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMDczMmM3Nzk2NGI1YjBhODU4ZjFiNjFjZTVhN2E4Zjdl`
+Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMGM3ZTE1OGVlMjVmN2I1NzhjZGU5YTU0NWM4ZGU4MzE5`

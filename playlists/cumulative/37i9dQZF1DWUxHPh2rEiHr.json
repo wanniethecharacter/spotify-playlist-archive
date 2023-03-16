@@ -2706,7 +2706,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 159100,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7"
@@ -2830,7 +2830,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 225947,
       "name": "I Wish you Roses",
       "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
@@ -3803,6 +3803,28 @@
     },
     {
       "album": {
+        "name": "Maan Meri Jaan (Afterlife)",
+        "url": "https://open.spotify.com/album/02K4LsS2gNvzJzdVsrZ6Wc"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186998,
+      "name": "Maan Meri Jaan (Afterlife)",
+      "url": "https://open.spotify.com/track/0NapkeC45rszeuSgbvcjx4"
+    },
+    {
+      "album": {
         "name": "Magical Love",
         "url": "https://open.spotify.com/album/3hqE43sWPNyUZZut3VNgMU"
       },
@@ -4576,6 +4598,32 @@
       "duration_ms": 185612,
       "name": "M\u00edrame (Bilmem mi? Remix)",
       "url": "https://open.spotify.com/track/05vrfZ9MXAnE80Z5NQG6wa"
+    },
+    {
+      "album": {
+        "name": "Naatu Naatu (From \"Rrr\")",
+        "url": "https://open.spotify.com/album/78zqKU9guNUoZFs7mn7TUG"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+        },
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "M. M. Keeravani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214399,
+      "name": "Naatu Naatu (From \"Rrr\")",
+      "url": "https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP"
     },
     {
       "album": {
@@ -7250,6 +7298,28 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193463,
+      "name": "Tormenta (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
     },
     {
       "album": {

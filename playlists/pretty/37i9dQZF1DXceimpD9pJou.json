@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Adoraci\u00f3n La IBI",
-  "num_followers": 120261,
+  "num_followers": 120312,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyODc3NiwwMDAwMDAwMDlkYTQ5NjBlNDc4MzVlNThmOTBkZWVkN2RjNzJjZWJk",
+  "snapshot_id": "MTY3ODQyODc3NiwwMDAwMDAwMGNkZDU5M2RhZWY3OWIyNDE4MmFlNGJlOWVkMmM1Mzdl",
   "tracks": [
     {
       "added_at": "2023-03-10 06:12:56",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
+        "name": "Grasa",
+        "url": "https://open.spotify.com/album/0vrIWNJOBQ3BG7NQblMXOU"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 197015,
+      "name": "Grasa",
+      "url": "https://open.spotify.com/track/5I7mtkXK8m8hJgkbZD9a9C"
+    },
+    {
+      "added_at": "2023-03-10 06:12:56",
+      "album": {
         "name": "Ven (Un Salvador)",
         "url": "https://open.spotify.com/album/2yxOVKnCZeQ9OUHFT0vi9l"
       },
@@ -463,38 +479,18 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Grasa",
-        "url": "https://open.spotify.com/album/0vrIWNJOBQ3BG7NQblMXOU"
+        "name": "Tienes El Control",
+        "url": "https://open.spotify.com/album/11tDPyDgAPcbXKgatSfeTq"
       },
       "artists": [
         {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
         }
       ],
-      "duration_ms": 197015,
-      "name": "Grasa",
-      "url": "https://open.spotify.com/track/5I7mtkXK8m8hJgkbZD9a9C"
-    },
-    {
-      "added_at": "2023-03-10 06:12:56",
-      "album": {
-        "name": "Poema (Remix)",
-        "url": "https://open.spotify.com/album/3dLjaByozvJs91ooszGEEp"
-      },
-      "artists": [
-        {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
-        },
-        {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Poema - Remix",
-      "url": "https://open.spotify.com/track/3CqZiTsF4U6vGQfxPYdn4k"
+      "duration_ms": 303730,
+      "name": "Tienes El Control",
+      "url": "https://open.spotify.com/track/34EJcT1UxyRQj09zsFxmzI"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -571,34 +567,22 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Tienes El Control",
-        "url": "https://open.spotify.com/album/11tDPyDgAPcbXKgatSfeTq"
+        "name": "Poema (Remix)",
+        "url": "https://open.spotify.com/album/3dLjaByozvJs91ooszGEEp"
       },
       "artists": [
         {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 303730,
-      "name": "Tienes El Control",
-      "url": "https://open.spotify.com/track/34EJcT1UxyRQj09zsFxmzI"
-    },
-    {
-      "added_at": "2023-03-10 06:12:56",
-      "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/3xaYRRK82zdZLh5ZhSFqUv"
-      },
-      "artists": [
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        },
         {
-          "name": "Kyrios",
-          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
         }
       ],
-      "duration_ms": 240101,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/2IEzDCoA1SwDfxPmxY7eUV"
+      "duration_ms": 201000,
+      "name": "Poema - Remix",
+      "url": "https://open.spotify.com/track/3CqZiTsF4U6vGQfxPYdn4k"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -623,22 +607,6 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Dicen",
-        "url": "https://open.spotify.com/album/6Iv8lopokHTmTFl3HMXaDJ"
-      },
-      "artists": [
-        {
-          "name": "Rubinsky Rbk",
-          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
-        }
-      ],
-      "duration_ms": 216671,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/5yAuXkVHgcpnmrD4jg9Twf"
-    },
-    {
-      "added_at": "2023-03-10 06:12:56",
-      "album": {
         "name": "Aqu\u00ed Estamos (feat. Ale Fdz)",
         "url": "https://open.spotify.com/album/3GHZ5ZZqdCB0ETjFoIRGej"
       },
@@ -655,6 +623,54 @@
       "duration_ms": 223891,
       "name": "Aqu\u00ed Estamos (feat. Ale Fdz)",
       "url": "https://open.spotify.com/track/7j5fL6VV2bActA6yrszLIq"
+    },
+    {
+      "added_at": "2023-03-10 06:12:56",
+      "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/3xaYRRK82zdZLh5ZhSFqUv"
+      },
+      "artists": [
+        {
+          "name": "Kyrios",
+          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
+        }
+      ],
+      "duration_ms": 240101,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/2IEzDCoA1SwDfxPmxY7eUV"
+    },
+    {
+      "added_at": "2023-03-10 06:12:56",
+      "album": {
+        "name": "Dicen",
+        "url": "https://open.spotify.com/album/6Iv8lopokHTmTFl3HMXaDJ"
+      },
+      "artists": [
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        }
+      ],
+      "duration_ms": 216671,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/5yAuXkVHgcpnmrD4jg9Twf"
+    },
+    {
+      "added_at": "2023-03-10 06:12:56",
+      "album": {
+        "name": "Buena Conducta",
+        "url": "https://open.spotify.com/album/7Kk9Kf9LTNxHafMqol6dqT"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 185052,
+      "name": "Buena Conducta",
+      "url": "https://open.spotify.com/track/62RjENOfCLekJJFYJKx2YA"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -695,18 +711,42 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Buena Conducta",
-        "url": "https://open.spotify.com/album/7Kk9Kf9LTNxHafMqol6dqT"
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/1Fy1zFN4Kgjhc1XsRzxI4p"
       },
       "artists": [
         {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+          "name": "Cindy Barrera",
+          "url": "https://open.spotify.com/artist/6kdT3CTmuUous4XfdFMP4a"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
         }
       ],
-      "duration_ms": 185052,
-      "name": "Buena Conducta",
-      "url": "https://open.spotify.com/track/62RjENOfCLekJJFYJKx2YA"
+      "duration_ms": 193274,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/0oL6iQGjNapmqwRSchl2g5"
+    },
+    {
+      "added_at": "2023-03-10 06:12:56",
+      "album": {
+        "name": "Mi Alma Clama",
+        "url": "https://open.spotify.com/album/5z2pRMl0mN3tQvJsZ1hbrI"
+      },
+      "artists": [
+        {
+          "name": "Free Worship",
+          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
+        },
+        {
+          "name": "Laila Olivera",
+          "url": "https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX"
+        }
+      ],
+      "duration_ms": 498663,
+      "name": "Mi Alma Clama (feat. Laila Olivera)",
+      "url": "https://open.spotify.com/track/47ZJ19AEiODy34xxg8wFmr"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -743,26 +783,6 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Mi Alma Clama",
-        "url": "https://open.spotify.com/album/5z2pRMl0mN3tQvJsZ1hbrI"
-      },
-      "artists": [
-        {
-          "name": "Free Worship",
-          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
-        },
-        {
-          "name": "Laila Olivera",
-          "url": "https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX"
-        }
-      ],
-      "duration_ms": 498663,
-      "name": "Mi Alma Clama (feat. Laila Olivera)",
-      "url": "https://open.spotify.com/track/47ZJ19AEiODy34xxg8wFmr"
-    },
-    {
-      "added_at": "2023-03-10 06:12:56",
-      "album": {
         "name": "Tomarte de la Mano",
         "url": "https://open.spotify.com/album/7sssGhuFAcudjqHI3sUZOn"
       },
@@ -783,6 +803,22 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
+        "name": "Una Canci\u00f3n para la Comuni\u00f3n",
+        "url": "https://open.spotify.com/album/5PRuvarYZNzQzJDlyIfC4N"
+      },
+      "artists": [
+        {
+          "name": "Athenas",
+          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
+        }
+      ],
+      "duration_ms": 285518,
+      "name": "Una Canci\u00f3n para la Comuni\u00f3n",
+      "url": "https://open.spotify.com/track/2EPDHHtdQS1Iz9owtiXdbH"
+    },
+    {
+      "added_at": "2023-03-10 06:12:56",
+      "album": {
         "name": "M\u00fasika",
         "url": "https://open.spotify.com/album/61CNQTOiHdHdQm2usALv5m"
       },
@@ -799,22 +835,6 @@
       "duration_ms": 181200,
       "name": "M\u00fasika",
       "url": "https://open.spotify.com/track/6JpPwFL4nP8Q1gyDh6tu49"
-    },
-    {
-      "added_at": "2023-03-10 06:12:56",
-      "album": {
-        "name": "Una Canci\u00f3n para la Comuni\u00f3n",
-        "url": "https://open.spotify.com/album/5PRuvarYZNzQzJDlyIfC4N"
-      },
-      "artists": [
-        {
-          "name": "Athenas",
-          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
-        }
-      ],
-      "duration_ms": 285518,
-      "name": "Una Canci\u00f3n para la Comuni\u00f3n",
-      "url": "https://open.spotify.com/track/2EPDHHtdQS1Iz9owtiXdbH"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -863,22 +883,18 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/1Fy1zFN4Kgjhc1XsRzxI4p"
+        "name": "Love Shines - EP",
+        "url": "https://open.spotify.com/album/4nPsZ7BBTtYcWw52GmeTRO"
       },
       "artists": [
         {
-          "name": "Cindy Barrera",
-          "url": "https://open.spotify.com/artist/6kdT3CTmuUous4XfdFMP4a"
-        },
-        {
-          "name": "Travy Joe",
-          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
         }
       ],
-      "duration_ms": 193274,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/0oL6iQGjNapmqwRSchl2g5"
+      "duration_ms": 321697,
+      "name": "Brilla Tu Amor",
+      "url": "https://open.spotify.com/track/59huk4RfMDJiRfgYaicID9"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -903,18 +919,22 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Love Shines - EP",
-        "url": "https://open.spotify.com/album/4nPsZ7BBTtYcWw52GmeTRO"
+        "name": "Mi Seguridad",
+        "url": "https://open.spotify.com/album/3CeK4QVcWzmsiv4pl0Q1HQ"
       },
       "artists": [
         {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+          "name": "David Hernandez",
+          "url": "https://open.spotify.com/artist/1sxkwqBNtZurX4SVaNzuzC"
+        },
+        {
+          "name": "Betsy Jo",
+          "url": "https://open.spotify.com/artist/0gvbWmvzv81WUyoIf7O0Yx"
         }
       ],
-      "duration_ms": 321697,
-      "name": "Brilla Tu Amor",
-      "url": "https://open.spotify.com/track/59huk4RfMDJiRfgYaicID9"
+      "duration_ms": 251656,
+      "name": "Mi Seguridad",
+      "url": "https://open.spotify.com/track/6GsllzPhnMYhOihLTxjKYe"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -935,22 +955,18 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Mi Seguridad",
-        "url": "https://open.spotify.com/album/3CeK4QVcWzmsiv4pl0Q1HQ"
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/2EY4pQVYSyIwj2AqDjXMnR"
       },
       "artists": [
         {
-          "name": "David Hernandez",
-          "url": "https://open.spotify.com/artist/1sxkwqBNtZurX4SVaNzuzC"
-        },
-        {
-          "name": "Betsy Jo",
-          "url": "https://open.spotify.com/artist/0gvbWmvzv81WUyoIf7O0Yx"
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
         }
       ],
-      "duration_ms": 251656,
-      "name": "Mi Seguridad",
-      "url": "https://open.spotify.com/track/6GsllzPhnMYhOihLTxjKYe"
+      "duration_ms": 194666,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/3zMUVEga5pGIrSac7wo36B"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/2EY4pQVYSyIwj2AqDjXMnR"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rivers",
-          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Suficiente",
-      "url": "https://open.spotify.com/track/3zMUVEga5pGIrSac7wo36B"
-    },
-    {
-      "added_at": "2023-03-10 06:12:56",
-      "album": {
         "name": "Ven Ahora",
         "url": "https://open.spotify.com/album/0Cck3QwLKHQJKTxRhtUbvH"
       },
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Negocios",
-        "url": "https://open.spotify.com/album/7HfS6VCjYHnIlHbgQHqpeH"
+        "name": "Mundo Pasajero",
+        "url": "https://open.spotify.com/album/25tqNunXByzsMHd8Mwh4U8"
       },
       "artists": [
         {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        },
-        {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
         }
       ],
-      "duration_ms": 200555,
-      "name": "Negocios",
-      "url": "https://open.spotify.com/track/0gFBEuBnpg0Vp2TbtwZQHV"
+      "duration_ms": 228518,
+      "name": "Mundo Pasajero",
+      "url": "https://open.spotify.com/track/3zJTnyzZmKBnOGqcCAaspH"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -1063,22 +1059,6 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Mundo Pasajero",
-        "url": "https://open.spotify.com/album/25tqNunXByzsMHd8Mwh4U8"
-      },
-      "artists": [
-        {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
-        }
-      ],
-      "duration_ms": 228518,
-      "name": "Mundo Pasajero",
-      "url": "https://open.spotify.com/track/3zJTnyzZmKBnOGqcCAaspH"
-    },
-    {
-      "added_at": "2023-03-10 06:12:56",
-      "album": {
         "name": "Tu Voluntad",
         "url": "https://open.spotify.com/album/6tYq7CSAk2XK2N8DA98Dqt"
       },
@@ -1095,18 +1075,38 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "X MI",
-        "url": "https://open.spotify.com/album/6SoLOPqXegU6ji2ICDw9Ms"
+        "name": "Negocios",
+        "url": "https://open.spotify.com/album/7HfS6VCjYHnIlHbgQHqpeH"
       },
       "artists": [
         {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        },
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
         }
       ],
-      "duration_ms": 190102,
-      "name": "X MI",
-      "url": "https://open.spotify.com/track/21raQNud9l04D0OQQdjETd"
+      "duration_ms": 200555,
+      "name": "Negocios",
+      "url": "https://open.spotify.com/track/0gFBEuBnpg0Vp2TbtwZQHV"
+    },
+    {
+      "added_at": "2023-03-10 06:12:56",
+      "album": {
+        "name": "Trozos",
+        "url": "https://open.spotify.com/album/1TyjW4wwPoerm5akNxeUs2"
+      },
+      "artists": [
+        {
+          "name": "Janaimar",
+          "url": "https://open.spotify.com/artist/1PT2963OdpSx6ijMtPG6qV"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Trozos",
+      "url": "https://open.spotify.com/track/2BwzuA3GOvQwSrVJTsxajo"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -1131,6 +1131,38 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
+        "name": "X MI",
+        "url": "https://open.spotify.com/album/6SoLOPqXegU6ji2ICDw9Ms"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 190102,
+      "name": "X MI",
+      "url": "https://open.spotify.com/track/21raQNud9l04D0OQQdjETd"
+    },
+    {
+      "added_at": "2023-03-10 06:12:56",
+      "album": {
+        "name": "Toda Tuya",
+        "url": "https://open.spotify.com/album/6KKUpenyd1dHH5DvmkMz5Z"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9sed",
+          "url": "https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P"
+        }
+      ],
+      "duration_ms": 272699,
+      "name": "Toda Tuya",
+      "url": "https://open.spotify.com/track/5zK75SItxl7ynYsF4O8YPs"
+    },
+    {
+      "added_at": "2023-03-10 06:12:56",
+      "album": {
         "name": "Deseamos M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/3SHnJTEUBSR08cD41jSAv7"
       },
@@ -1151,22 +1183,6 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Trozos",
-        "url": "https://open.spotify.com/album/1TyjW4wwPoerm5akNxeUs2"
-      },
-      "artists": [
-        {
-          "name": "Janaimar",
-          "url": "https://open.spotify.com/artist/1PT2963OdpSx6ijMtPG6qV"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "Trozos",
-      "url": "https://open.spotify.com/track/2BwzuA3GOvQwSrVJTsxajo"
-    },
-    {
-      "added_at": "2023-03-10 06:12:56",
-      "album": {
         "name": "Luz del Mundo",
         "url": "https://open.spotify.com/album/4DMzIfDwDPSgJPPRLiSe6n"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 219343,
       "name": "Luz del Mundo",
       "url": "https://open.spotify.com/track/3fIVtB77BylJ5dADMPhc4E"
-    },
-    {
-      "added_at": "2023-03-10 06:12:56",
-      "album": {
-        "name": "Toda Tuya",
-        "url": "https://open.spotify.com/album/6KKUpenyd1dHH5DvmkMz5Z"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9sed",
-          "url": "https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P"
-        }
-      ],
-      "duration_ms": 272699,
-      "name": "Toda Tuya",
-      "url": "https://open.spotify.com/track/5zK75SItxl7ynYsF4O8YPs"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
+        "name": "De Vuelta En Casa",
+        "url": "https://open.spotify.com/album/2bJxv5zIIeTa5dv3mVZ9ic"
+      },
+      "artists": [
+        {
+          "name": "Samuel Adri\u00e1n",
+          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
+        }
+      ],
+      "duration_ms": 258591,
+      "name": "De Vuelta En Casa",
+      "url": "https://open.spotify.com/track/0sNJ2skUpF9cZ6MChDR4S9"
+    },
+    {
+      "added_at": "2023-03-10 06:12:56",
+      "album": {
         "name": "4to Piso",
         "url": "https://open.spotify.com/album/12nsb6PPKzJVxby4rEajkm"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 168435,
       "name": "Bendecidos",
       "url": "https://open.spotify.com/track/58aAstLswjqY3HAzq7IHyB"
-    },
-    {
-      "added_at": "2023-03-10 06:12:56",
-      "album": {
-        "name": "De Vuelta En Casa",
-        "url": "https://open.spotify.com/album/2bJxv5zIIeTa5dv3mVZ9ic"
-      },
-      "artists": [
-        {
-          "name": "Samuel Adri\u00e1n",
-          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
-        }
-      ],
-      "duration_ms": 258591,
-      "name": "De Vuelta En Casa",
-      "url": "https://open.spotify.com/track/0sNJ2skUpF9cZ6MChDR4S9"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -1331,34 +1331,34 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Somos Luz y Vida",
-        "url": "https://open.spotify.com/album/2eH2ROPLodjaD0vAsFLmBY"
+        "name": "Distinto",
+        "url": "https://open.spotify.com/album/3c0mEx7zeG5CabUNEBksWk"
       },
       "artists": [
         {
-          "name": "Luz y Vida Music",
-          "url": "https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v"
+          "name": "Ismael Telfort",
+          "url": "https://open.spotify.com/artist/3FbP9X2FOcBNsClb8P7jXt"
         }
       ],
-      "duration_ms": 213750,
-      "name": "Somos Luz y Vida",
-      "url": "https://open.spotify.com/track/0u4RzFpzbaKwuFzAPT0Nh1"
+      "duration_ms": 164193,
+      "name": "Distinto",
+      "url": "https://open.spotify.com/track/0gMAK3g7Z5fWGxj5qh5lbB"
     },
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/4OEfWeaFqBoJjKLERuch4p"
+        "name": "Quiero Decirte",
+        "url": "https://open.spotify.com/album/61ijiUnMcunNSs8m6dF8FZ"
       },
       "artists": [
         {
-          "name": "Primera Fe",
-          "url": "https://open.spotify.com/artist/0nKPBGMIpJlCtmIdnh6Wpw"
+          "name": "Josemaria Cardenas",
+          "url": "https://open.spotify.com/artist/7rtsmibdE4JpAVNWZhvPzt"
         }
       ],
-      "duration_ms": 365399,
-      "name": "Oh, Tu Fidelidad / Santo, Santo",
-      "url": "https://open.spotify.com/track/3xN7kIEbHBVnVywFDACZ5A"
+      "duration_ms": 204469,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/4Ow9qbVrQVjtsnKVpAaMkP"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -1391,54 +1391,34 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Quiero Decirte",
-        "url": "https://open.spotify.com/album/61ijiUnMcunNSs8m6dF8FZ"
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/4OEfWeaFqBoJjKLERuch4p"
       },
       "artists": [
         {
-          "name": "Josemaria Cardenas",
-          "url": "https://open.spotify.com/artist/7rtsmibdE4JpAVNWZhvPzt"
+          "name": "Primera Fe",
+          "url": "https://open.spotify.com/artist/0nKPBGMIpJlCtmIdnh6Wpw"
         }
       ],
-      "duration_ms": 204469,
-      "name": "Quiero Decirte",
-      "url": "https://open.spotify.com/track/4Ow9qbVrQVjtsnKVpAaMkP"
+      "duration_ms": 365399,
+      "name": "Oh, Tu Fidelidad / Santo, Santo",
+      "url": "https://open.spotify.com/track/3xN7kIEbHBVnVywFDACZ5A"
     },
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Distinto",
-        "url": "https://open.spotify.com/album/3c0mEx7zeG5CabUNEBksWk"
+        "name": "Somos Luz y Vida",
+        "url": "https://open.spotify.com/album/2eH2ROPLodjaD0vAsFLmBY"
       },
       "artists": [
         {
-          "name": "Ismael Telfort",
-          "url": "https://open.spotify.com/artist/3FbP9X2FOcBNsClb8P7jXt"
+          "name": "Luz y Vida Music",
+          "url": "https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v"
         }
       ],
-      "duration_ms": 164193,
-      "name": "Distinto",
-      "url": "https://open.spotify.com/track/0gMAK3g7Z5fWGxj5qh5lbB"
-    },
-    {
-      "added_at": "2023-03-10 06:12:56",
-      "album": {
-        "name": "Mix Vals",
-        "url": "https://open.spotify.com/album/34ylcMEHRt7r35UAFC9srt"
-      },
-      "artists": [
-        {
-          "name": "Lea Cristina",
-          "url": "https://open.spotify.com/artist/3V0UBqOaCJ2zswNgbhT7Sx"
-        },
-        {
-          "name": "MAYNOR MORALES",
-          "url": "https://open.spotify.com/artist/40DQXauiaNYpGhbjFymaU0"
-        }
-      ],
-      "duration_ms": 378109,
-      "name": "Mix Vals",
-      "url": "https://open.spotify.com/track/6T33OgocPQg4SvFCTeGu7q"
+      "duration_ms": 213750,
+      "name": "Somos Luz y Vida",
+      "url": "https://open.spotify.com/track/0u4RzFpzbaKwuFzAPT0Nh1"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -1483,6 +1463,26 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
+        "name": "Mix Vals",
+        "url": "https://open.spotify.com/album/34ylcMEHRt7r35UAFC9srt"
+      },
+      "artists": [
+        {
+          "name": "Lea Cristina",
+          "url": "https://open.spotify.com/artist/3V0UBqOaCJ2zswNgbhT7Sx"
+        },
+        {
+          "name": "MAYNOR MORALES",
+          "url": "https://open.spotify.com/artist/40DQXauiaNYpGhbjFymaU0"
+        }
+      ],
+      "duration_ms": 378109,
+      "name": "Mix Vals",
+      "url": "https://open.spotify.com/track/6T33OgocPQg4SvFCTeGu7q"
+    },
+    {
+      "added_at": "2023-03-10 06:12:56",
+      "album": {
         "name": "Eso Ya Pas\u00f3",
         "url": "https://open.spotify.com/album/5SA80xwnrUdKBT0lvODuK7"
       },
@@ -1495,26 +1495,6 @@
       "duration_ms": 155040,
       "name": "Eso Ya Pas\u00f3",
       "url": "https://open.spotify.com/track/3qtSrMM0z05JppZcBXJQc2"
-    },
-    {
-      "added_at": "2023-03-10 06:12:56",
-      "album": {
-        "name": "En el Estudio con Jackson Martinez Vol. 6",
-        "url": "https://open.spotify.com/album/0r0eso7YrV5aDLihnoKPoL"
-      },
-      "artists": [
-        {
-          "name": "D-One Music",
-          "url": "https://open.spotify.com/artist/3r05q2979rrzlHZPgAu7y5"
-        },
-        {
-          "name": "Jackson Martinez",
-          "url": "https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx"
-        }
-      ],
-      "duration_ms": 193411,
-      "name": "En el Estudio con Jackson Martinez Vol. 6",
-      "url": "https://open.spotify.com/track/60sjyfweiNx4hnbfMMhnb7"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -1543,6 +1523,26 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
+        "name": "En el Estudio con Jackson Martinez Vol. 6",
+        "url": "https://open.spotify.com/album/0r0eso7YrV5aDLihnoKPoL"
+      },
+      "artists": [
+        {
+          "name": "D-One Music",
+          "url": "https://open.spotify.com/artist/3r05q2979rrzlHZPgAu7y5"
+        },
+        {
+          "name": "Jackson Martinez",
+          "url": "https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx"
+        }
+      ],
+      "duration_ms": 193411,
+      "name": "En el Estudio con Jackson Martinez Vol. 6",
+      "url": "https://open.spotify.com/track/60sjyfweiNx4hnbfMMhnb7"
+    },
+    {
+      "added_at": "2023-03-10 06:12:56",
+      "album": {
         "name": "Quien Me Rescato",
         "url": "https://open.spotify.com/album/6w0Rd0vttpsiQWv4unPabL"
       },
@@ -1563,34 +1563,22 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Buena Vida",
-        "url": "https://open.spotify.com/album/29iJsmE53SGJFhemP8mUOf"
+        "name": "Estoy aqu\u00ed + Espont\u00e1neo",
+        "url": "https://open.spotify.com/album/3WWwx4OXCYJPbIRViWqvBW"
       },
       "artists": [
         {
-          "name": "Ilish",
-          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
-        }
-      ],
-      "duration_ms": 160495,
-      "name": "Buena Vida",
-      "url": "https://open.spotify.com/track/3fuiao6CI71UuBowr8sji1"
-    },
-    {
-      "added_at": "2023-03-10 06:12:56",
-      "album": {
-        "name": "Pegado a Ti",
-        "url": "https://open.spotify.com/album/6n7ure5z64NnsujZPONJEM"
-      },
-      "artists": [
+          "name": "Factor de Cambio",
+          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
+        },
         {
-          "name": "Isaac Rojas",
-          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
+          "name": "Selah Worship",
+          "url": "https://open.spotify.com/artist/5pkxw9IRzdoM4QpxMi1YNA"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Pegado a Ti",
-      "url": "https://open.spotify.com/track/6B1eWxLLflDqqukcvzeGay"
+      "duration_ms": 487272,
+      "name": "Estoy aqu\u00ed + Espont\u00e1neo",
+      "url": "https://open.spotify.com/track/1qfaI8s3IaVYLpC7iSPYzH"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -1623,22 +1611,34 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Dios Te Ama (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4pkFdwL8013B1Ykk0c4shw"
+        "name": "Pegado a Ti",
+        "url": "https://open.spotify.com/album/6n7ure5z64NnsujZPONJEM"
       },
       "artists": [
         {
-          "name": "Itala & Juanjo",
-          "url": "https://open.spotify.com/artist/3sSYhB0dqTSQoe76KnAgvK"
-        },
-        {
-          "name": "Militante Bierd",
-          "url": "https://open.spotify.com/artist/733gVnl0NSCkPdvdGUrH7F"
+          "name": "Isaac Rojas",
+          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
         }
       ],
-      "duration_ms": 222716,
-      "name": "Dios Te Ama - Acoustic Version",
-      "url": "https://open.spotify.com/track/65XAnHr9nX73GhkLSOC2el"
+      "duration_ms": 173000,
+      "name": "Pegado a Ti",
+      "url": "https://open.spotify.com/track/6B1eWxLLflDqqukcvzeGay"
+    },
+    {
+      "added_at": "2023-03-10 06:12:56",
+      "album": {
+        "name": "Buena Vida",
+        "url": "https://open.spotify.com/album/29iJsmE53SGJFhemP8mUOf"
+      },
+      "artists": [
+        {
+          "name": "Ilish",
+          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
+        }
+      ],
+      "duration_ms": 160495,
+      "name": "Buena Vida",
+      "url": "https://open.spotify.com/track/3fuiao6CI71UuBowr8sji1"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
+        "name": "Dios Te Ama (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4pkFdwL8013B1Ykk0c4shw"
+      },
+      "artists": [
+        {
+          "name": "Itala & Juanjo",
+          "url": "https://open.spotify.com/artist/3sSYhB0dqTSQoe76KnAgvK"
+        },
+        {
+          "name": "Militante Bierd",
+          "url": "https://open.spotify.com/artist/733gVnl0NSCkPdvdGUrH7F"
+        }
+      ],
+      "duration_ms": 222716,
+      "name": "Dios Te Ama - Acoustic Version",
+      "url": "https://open.spotify.com/track/65XAnHr9nX73GhkLSOC2el"
+    },
+    {
+      "added_at": "2023-03-10 06:12:56",
+      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/7BMxlJ0U7dlqAOibmuSzH0"
       },
@@ -1679,22 +1699,18 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Estoy aqu\u00ed + Espont\u00e1neo",
-        "url": "https://open.spotify.com/album/3WWwx4OXCYJPbIRViWqvBW"
+        "name": "SIGO EN PIE",
+        "url": "https://open.spotify.com/album/2IK84JtQHLI3KV47FPWpoc"
       },
       "artists": [
         {
-          "name": "Factor de Cambio",
-          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
-        },
-        {
-          "name": "Selah Worship",
-          "url": "https://open.spotify.com/artist/5pkxw9IRzdoM4QpxMi1YNA"
+          "name": "Jess Santana",
+          "url": "https://open.spotify.com/artist/3NmdKlXrC2msjN6e8jz9Y3"
         }
       ],
-      "duration_ms": 487272,
-      "name": "Estoy aqu\u00ed + Espont\u00e1neo",
-      "url": "https://open.spotify.com/track/1qfaI8s3IaVYLpC7iSPYzH"
+      "duration_ms": 186427,
+      "name": "SIGO EN PIE",
+      "url": "https://open.spotify.com/track/0QZFGW1DuIEyMIfYNMCSYq"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -1719,22 +1735,6 @@
       "duration_ms": 159090,
       "name": "Vice City (Matias Ruiz Remix) Ft. Ilish",
       "url": "https://open.spotify.com/track/15ikf8k3MYFeaDph7n23Kh"
-    },
-    {
-      "added_at": "2023-03-10 06:12:56",
-      "album": {
-        "name": "SIGO EN PIE",
-        "url": "https://open.spotify.com/album/2IK84JtQHLI3KV47FPWpoc"
-      },
-      "artists": [
-        {
-          "name": "Jess Santana",
-          "url": "https://open.spotify.com/artist/3NmdKlXrC2msjN6e8jz9Y3"
-        }
-      ],
-      "duration_ms": 186427,
-      "name": "SIGO EN PIE",
-      "url": "https://open.spotify.com/track/0QZFGW1DuIEyMIfYNMCSYq"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
+        "name": "Intensamente",
+        "url": "https://open.spotify.com/album/54pmBnQX73a0R4PvhMFWSS"
+      },
+      "artists": [
+        {
+          "name": "William Perdomo",
+          "url": "https://open.spotify.com/artist/1fLOEKAqZOqA45TR6av0Ex"
+        }
+      ],
+      "duration_ms": 184239,
+      "name": "Intensamente",
+      "url": "https://open.spotify.com/track/6pCRxXEUm7LSihZvG5d2vQ"
+    },
+    {
+      "added_at": "2023-03-10 06:12:56",
+      "album": {
         "name": "Nadie M\u00e1s Que Dios",
         "url": "https://open.spotify.com/album/51prR23sJe8ThnG2VjVb6E"
       },
@@ -1807,22 +1823,6 @@
     {
       "added_at": "2023-03-10 06:12:56",
       "album": {
-        "name": "Intensamente",
-        "url": "https://open.spotify.com/album/54pmBnQX73a0R4PvhMFWSS"
-      },
-      "artists": [
-        {
-          "name": "William Perdomo",
-          "url": "https://open.spotify.com/artist/1fLOEKAqZOqA45TR6av0Ex"
-        }
-      ],
-      "duration_ms": 184239,
-      "name": "Intensamente",
-      "url": "https://open.spotify.com/track/6pCRxXEUm7LSihZvG5d2vQ"
-    },
-    {
-      "added_at": "2023-03-10 06:12:56",
-      "album": {
         "name": "Al \u00fanico Dios",
         "url": "https://open.spotify.com/album/52TNvMWyYySDV4VOKpytIV"
       },
@@ -1835,22 +1835,6 @@
       "duration_ms": 252644,
       "name": "Al \u00fanico Dios",
       "url": "https://open.spotify.com/track/54xxbYbJxbgQpMdrAVDQlt"
-    },
-    {
-      "added_at": "2023-03-10 06:12:56",
-      "album": {
-        "name": "Alfarero",
-        "url": "https://open.spotify.com/album/6b2HwdOqARYnIDErYDC0gj"
-      },
-      "artists": [
-        {
-          "name": "LifeBanda",
-          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Alfarero",
-      "url": "https://open.spotify.com/track/5Nq384il6JsdKVUGez6DF6"
     },
     {
       "added_at": "2023-03-10 06:12:56",
@@ -1871,6 +1855,22 @@
       "duration_ms": 197000,
       "name": "Tu Voz En Mi Oraci\u00f3n",
       "url": "https://open.spotify.com/track/5Y37dbUVl05N48xzZvLVrp"
+    },
+    {
+      "added_at": "2023-03-10 06:12:56",
+      "album": {
+        "name": "Alfarero",
+        "url": "https://open.spotify.com/album/6b2HwdOqARYnIDErYDC0gj"
+      },
+      "artists": [
+        {
+          "name": "LifeBanda",
+          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Alfarero",
+      "url": "https://open.spotify.com/track/5Nq384il6JsdKVUGez6DF6"
     },
     {
       "added_at": "2023-03-10 06:12:56",

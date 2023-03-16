@@ -1,12 +1,12 @@
 {
   "description": "Some of the most influential and innovative voices in hip-hop\u2014yesterday, today, tomorrow. Cover: Doja Cat",
-  "num_followers": 7189,
+  "num_followers": 7345,
   "original_name": "Women of Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM2NzAwMCwwMDAwMDAwMDI0OTc3YmEyOWNlYzI4NzZiYzEyYjBiOGEwOTMwZGZi",
+  "snapshot_id": "MTY3NTM2NzAwMCwwMDAwMDAwMGZkYWQ5YzMwMWQ2NDZmMGU4NjczNGJjMGU5NjBmY2U5",
   "tracks": [
     {
       "added_at": "2022-03-08 20:45:52",
@@ -135,6 +135,22 @@
     {
       "added_at": "2022-03-08 20:45:52",
       "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 223712,
+      "name": "Bodak Yellow",
+      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
+    },
+    {
+      "added_at": "2022-03-08 20:45:52",
+      "album": {
         "name": "Best Friend (feat. Doja Cat)",
         "url": "https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 155883,
       "name": "Best Friend (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y"
-    },
-    {
-      "added_at": "2022-03-08 20:45:52",
-      "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 223712,
-      "name": "Bodak Yellow",
-      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
     },
     {
       "added_at": "2022-03-08 20:45:52",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-03-08 20:45:52",
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 183527,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e"
+    },
+    {
+      "added_at": "2022-03-08 20:45:52",
+      "album": {
         "name": "Pink Friday",
         "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 279306,
       "name": "Moment 4 Life",
       "url": "https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn"
-    },
-    {
-      "added_at": "2022-03-08 20:45:52",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 183527,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e"
     },
     {
       "added_at": "2022-03-08 20:45:52",

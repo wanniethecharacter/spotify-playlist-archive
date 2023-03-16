@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Paula Koops
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,006 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,018 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,16 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 16 | [Cápsula Espacial](https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [Cápsula Espacial](https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr) | 2:36 |
 | 17 | [Porque tú lo sabrías](https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Porque tú lo sabrías](https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0) | 3:11 |
 | 18 | [Desastre de persona](https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Desastre de persona](https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo) | 2:53 |
-| 19 | [qué voy a hacer](https://open.spotify.com/track/0t7Sn2HbOk7inow65D6na5) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [qué voy a hacer](https://open.spotify.com/album/5AXWainYQGafkbtRpzqz1L) | 3:05 |
-| 20 | [por qué vuelvo a quererte?](https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [por qué vuelvo a quererte?](https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL) | 2:46 |
+| 19 | [por qué vuelvo a quererte?](https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [por qué vuelvo a quererte?](https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL) | 2:46 |
+| 20 | [qué voy a hacer](https://open.spotify.com/track/0t7Sn2HbOk7inow65D6na5) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [qué voy a hacer](https://open.spotify.com/album/5AXWainYQGafkbtRpzqz1L) | 3:05 |
 | 21 | [PROGRESO](https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [PROGRESO](https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe) | 3:22 |
 | 22 | [favorita](https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [favorita](https://open.spotify.com/album/1S7trDsVlwschptph947TY) | 2:07 |
 | 23 | [Bloque](https://open.spotify.com/track/0GkTXuoGohIyXLlJXzybet) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Bloque](https://open.spotify.com/album/7g5WUQbHQ8f3A8FV8hXoJ8) | 2:43 |
 | 24 | [En Otro Lugar](https://open.spotify.com/track/4cbYLSExjhetFfq2WHGYhR) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [En Otro Lugar](https://open.spotify.com/album/7yUGYSIUFrE4u335WYpXgx) | 2:58 |
 | 25 | [Barcelona](https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Barcelona](https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3) | 2:59 |
-| 26 | [Veo tan Dentro](https://open.spotify.com/track/0IG1i3O84chtFIQMsKg6TD) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Veo tan Dentro](https://open.spotify.com/album/69MjZjIJ1dmeDF9vjXNtue) | 3:59 |
+| 26 | [Solo me gustas cuando yo te gusto a ti](https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Solo me gustas cuando yo te gusto a ti](https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao) | 3:12 |
 | 27 | [Ansiedad](https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Ansiedad](https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg) | 2:58 |
-| 28 | [Solo me gustas cuando yo te gusto a ti](https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Solo me gustas cuando yo te gusto a ti](https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao) | 3:12 |
+| 28 | [Veo tan Dentro](https://open.spotify.com/track/0IG1i3O84chtFIQMsKg6TD) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Veo tan Dentro](https://open.spotify.com/album/69MjZjIJ1dmeDF9vjXNtue) | 3:59 |
 | 29 | [Indie esperanzador](https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Indie esperanzador](https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc) | 2:50 |
 | 30 | [Del cielo](https://open.spotify.com/track/038sx40baI928rvHqvwlyC) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Del cielo](https://open.spotify.com/album/7B4fVDbdzPEwrpKxG87iRr) | 3:10 |
 | 31 | [la pestaña que soplé](https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [la pestaña que soplé](https://open.spotify.com/album/6amoBQ1iiJHtrnjvwcKG7r) | 2:20 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 35 | [Cosas Que Dijimos De Hacer](https://open.spotify.com/track/4vmRgsol9d9ktaY5aoNFUf) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [Cosas Que Dijimos De Hacer](https://open.spotify.com/album/5iINJtcXFVeqb4FuYl2pXH) | 2:55 |
 | 36 | [Prométeme](https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Prométeme](https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ) | 2:39 |
 | 37 | [chino cada martes](https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [CHINO CADA MARTES](https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ) | 2:43 |
-| 38 | [Como si nada](https://open.spotify.com/track/1fesiEYKhK0Dfe8Rs9NoqK) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Como si nada](https://open.spotify.com/album/5LlZN35h1NTGBUcOvFZXrN) | 3:16 |
+| 38 | [de qué sirve?](https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:47 |
 | 39 | [Egoísta](https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Egoísta](https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu) | 3:19 |
-| 40 | [de qué sirve?](https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:47 |
-| 41 | [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 |
+| 40 | [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 |
+| 41 | [Como si nada](https://open.spotify.com/track/1fesiEYKhK0Dfe8Rs9NoqK) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Como si nada](https://open.spotify.com/album/5LlZN35h1NTGBUcOvFZXrN) | 3:16 |
 | 42 | [La Broma De Mis Sueños](https://open.spotify.com/track/23tC5mpmXpIPCyjYYj6Kew) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [La Broma De Mis Sueños](https://open.spotify.com/album/6pFEEEkmx3obnVvUd1MKPt) | 2:53 |
 | 43 | [Cuchillos](https://open.spotify.com/track/4vEutziRAYewCT97ziq48J) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Cuchillos](https://open.spotify.com/album/2WXVOnXCzcgoCcFQBjTlBX) | 2:42 |
 | 44 | [quien me quiere \(no me quiere contigo\)](https://open.spotify.com/track/5wXsiahlfpyEdY152cbimc) | [INNMIR](https://open.spotify.com/artist/1cJQ1Keojk9HafwW0NGoJn), [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS) | [quien me quiere \(no me quiere contigo\)](https://open.spotify.com/album/3pM1o2Lmf6sKyQCFHqKKyp) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [friki](https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Pavlo Tambien](https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3) | [friki](https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK) | 2:11 |
 | 50 | [Soy Un Desastre](https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr) | [Jara Pol](https://open.spotify.com/artist/1ZIwEYympp5ztnQYDlIxHg) | [Soy Un Desastre](https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp) | 2:54 |
 
-Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMGVhNzhjNzgzYjZiM2IzNThkOTEyZTUwNDZkNTEzOTFj`
+Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMDFmODdhMWZmZGMzMzliZTUxYmU2ZjcyNDhmZWMyM2Y0`

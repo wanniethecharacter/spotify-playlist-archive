@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,269,748 likes - 101 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,384 likes - 101 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 26 | [Jerk \- Sped Up Version](https://open.spotify.com/track/6Vq3tnOG1MlYklLVRpX1D8) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Jerk \(Sped Up Version\)](https://open.spotify.com/album/0ncELoW6dHgDUCc5C8ZuL8) | 1:53 |
 | 27 | [Out thë way \- sped up version](https://open.spotify.com/track/6B5pdKWob9kjr0WpjJkVVD) | [Yeat sped up](https://open.spotify.com/artist/1Bb7MWbSKAtxBl436nDnlS) | [Out thë way \(sped up version\)](https://open.spotify.com/album/1SS5Pz4SRRSiPCOrqjEKSn) | 2:05 |
 | 28 | [Murder In My Mind \- Sped Up](https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind \(Sped Up\)](https://open.spotify.com/album/3f4SEojgnEYtRMUvITNRZQ) | 1:55 |
-| 29 | [Let Go \- Nightcore](https://open.spotify.com/track/7fSBFSmBydU310MCzCuwdu) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9) | [Let Go \(Sped Up\)](https://open.spotify.com/album/5Xqfm7qzUCzBX7UuuwbnW9) | 3:06 |
+| 29 | [Let Go \- Nightcore](https://open.spotify.com/track/4zkvoh7CyWhE8Lzs99PzJl) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9) | [Let Go](https://open.spotify.com/album/5AuVW8ypGpOguNJ3KdyqD9) | 3:06 |
 | 30 | [Shootout \(Sped Up\)](https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout \(Sped Up\)](https://open.spotify.com/album/7Ez9fBTpqn7pTEK09TqMJr) | 4:02 |
 | 31 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 |
 | 32 | [Mr Loverman \- sped up](https://open.spotify.com/track/0f4AETH76pGM7F8XxZUfTx) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 2:55 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 100 | [Can I Call You Tonight? \- sped\-up](https://open.spotify.com/track/24RbayMQzBnvvoYutYnryg) | [DJ Nightshade](https://open.spotify.com/artist/48ETWZKdDpQYa5OgNnNjHq) | [Fuzzybrain \(sped\-up\)](https://open.spotify.com/album/3DDSJ8PNqvNpRF0aFo7rxl) | 3:30 |
 | 101 | [Shame \- Sped Up](https://open.spotify.com/track/0h9GRF6sk6ryhOmqp5V3yh) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer \(Sped Up\)](https://open.spotify.com/album/2vIAupx3DY7BXPCG2WeQHw) | 2:20 |
 
-Snapshot ID: `MTY3ODcyMDYxNSwwMDAwMDAwMGYxMTQ0MTkxMDhkNGJmMGZhNzljMDFiMzZkZjAwNjEx`
+Snapshot ID: `MTY3ODcyMDYxNSwwMDAwMDAwMDVjZDJlZDI0NDU2NzZjOTE4MmM5M2JlYTZlNmRiYjg5`

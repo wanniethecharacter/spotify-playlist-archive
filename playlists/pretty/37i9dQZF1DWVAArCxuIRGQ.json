@@ -1,12 +1,12 @@
 {
   "description": "A sizzling hot soundtrack for your sunshine social.",
-  "num_followers": 575127,
+  "num_followers": 575132,
   "original_name": "Summer BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI5NTM5MCwwMDAwMDAwMDkwNDZjYjQzMWQ2Zjk5NzMwYzM1ZWNiMmE5ZjQwMjc0",
+  "snapshot_id": "MTY1NzI5NTM5MCwwMDAwMDAwMDdiYjEzMTE4NDg5MjI4OThhNGU0MTg3MWE4Yzg3ZTQ0",
   "tracks": [
     {
       "added_at": "2022-07-08 15:49:50",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2022-07-08 15:49:50",
-      "album": {
         "name": "Diana Ross Presents The Jackson 5",
         "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 176333,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+    },
+    {
+      "added_at": "2022-07-08 15:49:50",
+      "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2022-07-08 15:49:50",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
-    },
-    {
-      "added_at": "2022-07-08 15:49:50",
-      "album": {
         "name": "Who Loves You",
         "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 197146,
       "name": "December, 1963 (Oh What a Night!)",
       "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
+    },
+    {
+      "added_at": "2022-07-08 15:49:50",
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
       "added_at": "2022-07-08 15:49:50",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "Innervisions",
-        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Higher Ground",
-      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
-    },
-    {
-      "added_at": "2022-07-08 15:49:50",
-      "album": {
         "name": "The Spice Of Life",
         "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 177226,
       "name": "California Soul",
       "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
+    },
+    {
+      "added_at": "2022-07-08 15:49:50",
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
     },
     {
       "added_at": "2022-07-08 15:49:50",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "Club Tropicana",
-      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
-    },
-    {
-      "added_at": "2022-07-08 15:49:50",
-      "album": {
         "name": "The Specials (Deluxe Version)",
         "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 172920,
       "name": "A Message to You Rudy - 2015 Remaster",
       "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
+    },
+    {
+      "added_at": "2022-07-08 15:49:50",
+      "album": {
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "Club Tropicana",
+      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
     },
     {
       "added_at": "2022-07-08 15:49:50",

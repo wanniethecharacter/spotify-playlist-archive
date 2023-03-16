@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,520 likes - 75 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,759 likes - 75 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 52 | [Fullness](https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Speak Revival](https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V) | 6:07 |
 | 53 | [Unidos Somos Más Fuertes](https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Unidos Somos Más Fuertes](https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8) | 4:16 |
 | 54 | [De Lo Más Profundo](https://open.spotify.com/track/1QNPc8xrzF78nlTFN3TM7T) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/3ZkKbtlC0p5L6vgStrdRsq) | 7:45 |
-| 55 | [En El Mar De Tu Gracia](https://open.spotify.com/track/6TOgfc4JyqJxdGWPb2dG7L) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [A Partir De Hoy](https://open.spotify.com/album/7dmuzxoqS8MCTQATUo3nGN) | 3:33 |
-| 56 | [Cielo \(feat\. Tercer Cielo\)](https://open.spotify.com/track/5RjESspN9YUICZaqtUfFVj) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Nuevo Comienzo](https://open.spotify.com/album/3juDx944BMH0VvgVb33DU9) | 3:50 |
+| 55 | [Cielo \(feat\. Tercer Cielo\)](https://open.spotify.com/track/5RjESspN9YUICZaqtUfFVj) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Nuevo Comienzo](https://open.spotify.com/album/3juDx944BMH0VvgVb33DU9) | 3:50 |
+| 56 | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/album/7h3IsK0imAHm61MGNQle0t) | 5:21 |
 | 57 | [No Cuenten Conmigo](https://open.spotify.com/track/6HAV1VX6u6a3ewmZyUhshw) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 3:49 |
-| 58 | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/album/7h3IsK0imAHm61MGNQle0t) | 5:21 |
+| 58 | [En El Mar De Tu Gracia](https://open.spotify.com/track/6TOgfc4JyqJxdGWPb2dG7L) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [A Partir De Hoy](https://open.spotify.com/album/7dmuzxoqS8MCTQATUo3nGN) | 3:33 |
 | 59 | [Yo Soy Así](https://open.spotify.com/track/7c94XZyfKWQZbkAnPK3FLs) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Más](https://open.spotify.com/album/3RE4acPIRjN24JaowvCKGp) | 3:58 |
 | 60 | [Todo Pasará](https://open.spotify.com/track/79MIBZkxaab6Pqv1Jsb49G) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Abraham Velazquez](https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu) | [Todo Pasará](https://open.spotify.com/album/2qYzPWIFw6k0lix800JNyL) | 3:45 |
 | 61 | [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Sobre Mí](https://open.spotify.com/track/5QINbr4C1Qufiqj0WOGF4V) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Sobre Mi](https://open.spotify.com/album/1CXlie7i26wGMJlpUXh2Pv) | 5:45 |
 | 75 | [Soy Libre](https://open.spotify.com/track/6Ae2dGmkZwXeO3BJEpkKaM) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Vive en Mí](https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x) | 3:30 |
 
-Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMGQ0MzIzMzg5MjI5NWMxY2IwYWYwOTIxYjg4ZDViN2Yz`
+Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMDQ2ZDE1ZTZkMDc2ZGYyYWE2ZjUwZWYzZjBhZmQ5N2M0`

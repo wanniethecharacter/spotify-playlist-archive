@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Periphery
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,197 likes - 56 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,283 likes - 56 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,6 +63,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 53 | [Dying Wish](https://open.spotify.com/track/3Kg5QxG4cITu3z6p4rwmme) | [Haint](https://open.spotify.com/artist/7ehl2qZI2yeqW1eXq4vNLw), [Micu,KOUTA](https://open.spotify.com/artist/7LYxXbmv3WKQLDgxVjErvj) | [Dying Wish](https://open.spotify.com/album/5LKS3cD1YDgfSkU8HMJNjv) | 3:52 |
 | 54 | [Bloodlust](https://open.spotify.com/track/0zo39fOYbK8LqNyLVY14iJ) | [Nepenthes](https://open.spotify.com/artist/42dmpPZe3Q6QAsdpmEn8Us) | [Grand Guignol](https://open.spotify.com/album/3Qv8OOtUXCn0lQ1Y6HbiAH) | 6:48 |
 | 55 | [殺戮ロボット\~SATSURIKU ROBOT\~](https://open.spotify.com/track/5nVAcKQMBdfFuF7pXKHZLJ) | [殺戮ロボット](https://open.spotify.com/artist/6ZUvcVBd5S99sIRXdDtLfJ) | [FIRST CONTACT](https://open.spotify.com/album/2EwEqHwwuws8sopjJx9fUP) | 4:18 |
-| 56 | [Max Pain](https://open.spotify.com/track/3riUvve0yfRBi5VXJZE9UH) | [The Banishment](https://open.spotify.com/artist/2psxmd7FANk7sG8jodoOgr), [Richard Patrick](https://open.spotify.com/artist/0vWrIs2jBCcuQMEW3SvnSH) | [Machine and Bone](https://open.spotify.com/album/0XZyJHuQt1Tr707Mkk8PqW) | 3:48 |
+| 56 | [Max Pain](https://open.spotify.com/track/3riUvve0yfRBi5VXJZE9UH) | [The Banishment](https://open.spotify.com/artist/2NsxL4knxBo92hnxqf8xba), [Richard Patrick](https://open.spotify.com/artist/71wu9QCZsr4T7SthhVRSfH) | [Machine and Bone](https://open.spotify.com/album/0XZyJHuQt1Tr707Mkk8PqW) | 3:48 |
 
 Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDBiNjgwMzFjNTY4YWRkYWI5ZWRkYzViYjFjN2U2NjM4`

@@ -1,15 +1,15 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Eladio Carrion, Future",
-  "num_followers": 361061,
+  "num_followers": 361366,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODcyMDY3NCwwMDAwMDAwMDQ5MWM4MDAxYjI3YjU2NjQ4YWM3ZDI2Yzg2NjU3MTU5",
+  "snapshot_id": "MTY3ODcyMDY3NCwwMDAwMDAwMGU3MTk0NDUwZjA3NjgwNjg3MjBjMDU3NjM3OTVhNmY5",
   "tracks": [
     {
-      "added_at": "2023-03-15 01:00:01",
+      "added_at": "2023-03-16 01:15:31",
       "album": {
         "name": "Mbappe (Remix)",
         "url": "https://open.spotify.com/album/1AJXKqkuN7bzSGBWcpiE2h"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
     },
     {
-      "added_at": "2023-03-15 01:00:01",
+      "added_at": "2023-03-16 01:15:31",
       "album": {
         "name": "Las Bratz (Remix)",
         "url": "https://open.spotify.com/album/6c5uQ7ApweOF7C9mw7Bvge"
@@ -631,30 +631,6 @@
     {
       "added_at": "2023-03-07 14:50:02",
       "album": {
-        "name": "Soltera (Remix)",
-        "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 266086,
-      "name": "Soltera - Remix",
-      "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
-    },
-    {
-      "added_at": "2023-03-07 14:50:02",
-      "album": {
         "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) [Remix]",
         "url": "https://open.spotify.com/album/4BbheII9RPkXhHCae8AoM0"
       },
@@ -699,6 +675,30 @@
       "duration_ms": 483683,
       "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) - Remix",
       "url": "https://open.spotify.com/track/6YNzvCsLwAJ4xZjdK9qk3r"
+    },
+    {
+      "added_at": "2023-03-07 14:50:02",
+      "album": {
+        "name": "Soltera (Remix)",
+        "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 266086,
+      "name": "Soltera - Remix",
+      "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
     },
     {
       "added_at": "2023-03-07 14:50:02",
@@ -1211,6 +1211,30 @@
     {
       "added_at": "2023-03-07 14:50:02",
       "album": {
+        "name": "Ella No Es Tuya (Remix)",
+        "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Ella No Es Tuya - Remix",
+      "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
+    },
+    {
+      "added_at": "2023-03-07 14:50:02",
+      "album": {
         "name": "El Efecto (Remix)",
         "url": "https://open.spotify.com/album/18wfVLHQKF0yXimErnxAfo"
       },
@@ -1243,30 +1267,6 @@
       "duration_ms": 289898,
       "name": "El Efecto - Remix",
       "url": "https://open.spotify.com/track/74j34STf8L6uADnTN69ohv"
-    },
-    {
-      "added_at": "2023-03-07 14:50:02",
-      "album": {
-        "name": "Ella No Es Tuya (Remix)",
-        "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Ella No Es Tuya - Remix",
-      "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
     },
     {
       "added_at": "2023-03-07 14:50:02",
@@ -1487,54 +1487,6 @@
     {
       "added_at": "2023-03-07 14:50:02",
       "album": {
-        "name": "Tattoo (Remix with Camilo)",
-        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Tattoo - Remix with Camilo",
-      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
-    },
-    {
-      "added_at": "2023-03-07 14:50:02",
-      "album": {
-        "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
-        "url": "https://open.spotify.com/album/4PTxbJPI4jj0Kx8hwr1v0T"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 192745,
-      "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
-      "url": "https://open.spotify.com/track/6FuGJB290AQMAHTfjOYVaK"
-    },
-    {
-      "added_at": "2023-03-07 14:50:02",
-      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2"
       },
@@ -1567,6 +1519,54 @@
       "duration_ms": 377580,
       "name": "M\u00edrame - Remix",
       "url": "https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS"
+    },
+    {
+      "added_at": "2023-03-07 14:50:02",
+      "album": {
+        "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
+        "url": "https://open.spotify.com/album/4PTxbJPI4jj0Kx8hwr1v0T"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 192745,
+      "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
+      "url": "https://open.spotify.com/track/6FuGJB290AQMAHTfjOYVaK"
+    },
+    {
+      "added_at": "2023-03-07 14:50:02",
+      "album": {
+        "name": "Tattoo (Remix with Camilo)",
+        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Tattoo - Remix with Camilo",
+      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
     },
     {
       "added_at": "2023-03-07 14:50:02",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2023-03-07 14:50:02",
       "album": {
+        "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
+        "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 192698,
+      "name": "Carita de Inocente (feat. Myke Towers) - Remix",
+      "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
+    },
+    {
+      "added_at": "2023-03-07 14:50:02",
+      "album": {
         "name": "Poblado (Remix)",
         "url": "https://open.spotify.com/album/1avDIEjBJ9ayO1Lj7LxNM7"
       },
@@ -1651,26 +1671,6 @@
     {
       "added_at": "2023-03-07 14:50:02",
       "album": {
-        "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
-        "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 192698,
-      "name": "Carita de Inocente (feat. Myke Towers) - Remix",
-      "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
-    },
-    {
-      "added_at": "2023-03-07 14:50:02",
-      "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
         "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-03-07 14:50:02",
       "album": {
-        "name": "Tigini (Remix)",
-        "url": "https://open.spotify.com/album/0Gb4d09a4fJ9Kndgu8OHKe"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Kikimoteleba",
-          "url": "https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo"
-        }
-      ],
-      "duration_ms": 175555,
-      "name": "Tigini (Remix)",
-      "url": "https://open.spotify.com/track/6stWVqWxtPPednHy1mzoOz"
-    },
-    {
-      "added_at": "2023-03-07 14:50:02",
-      "album": {
         "name": "FUMETEO (Remix)",
         "url": "https://open.spotify.com/album/2RS7DIwtcaoDue6Rcg6PGD"
       },
@@ -1739,6 +1719,50 @@
       "duration_ms": 214880,
       "name": "FUMETEO - Remix",
       "url": "https://open.spotify.com/track/4sIVl8rmGPDemhnod4JID3"
+    },
+    {
+      "added_at": "2023-03-07 14:50:02",
+      "album": {
+        "name": "Tigini (Remix)",
+        "url": "https://open.spotify.com/album/0Gb4d09a4fJ9Kndgu8OHKe"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Kikimoteleba",
+          "url": "https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo"
+        }
+      ],
+      "duration_ms": 175555,
+      "name": "Tigini (Remix)",
+      "url": "https://open.spotify.com/track/6stWVqWxtPPednHy1mzoOz"
+    },
+    {
+      "added_at": "2023-03-07 14:50:02",
+      "album": {
+        "name": "LA TERAPIA REMIX",
+        "url": "https://open.spotify.com/album/6Kppd5kRaSfosl6UFXJqjC"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 249871,
+      "name": "LA TERAPIA REMIX",
+      "url": "https://open.spotify.com/track/52KBZ4VX389Dc9J2gaqmSO"
     },
     {
       "added_at": "2023-03-07 14:50:02",
@@ -1771,30 +1795,6 @@
       "duration_ms": 330477,
       "name": "Ella - Remix",
       "url": "https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs"
-    },
-    {
-      "added_at": "2023-03-07 14:50:02",
-      "album": {
-        "name": "LA TERAPIA REMIX",
-        "url": "https://open.spotify.com/album/6Kppd5kRaSfosl6UFXJqjC"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 249871,
-      "name": "LA TERAPIA REMIX",
-      "url": "https://open.spotify.com/track/52KBZ4VX389Dc9J2gaqmSO"
     },
     {
       "added_at": "2023-03-07 14:50:02",
@@ -1867,6 +1867,30 @@
     {
       "added_at": "2023-03-07 14:50:02",
       "album": {
+        "name": "2:50 Remix",
+        "url": "https://open.spotify.com/album/0hbwAcjGBGP2gutKpQHA8d"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 231708,
+      "name": "2:50 Remix",
+      "url": "https://open.spotify.com/track/74znaWw1hmQBusGPSOuTFy"
+    },
+    {
+      "added_at": "2023-03-07 14:50:02",
+      "album": {
         "name": "Si T\u00fa Te Vas (feat. Yung Beef) [Remix]",
         "url": "https://open.spotify.com/album/06if2TD3XBlZsDAg8OS9ch"
       },
@@ -1891,30 +1915,6 @@
       "duration_ms": 215600,
       "name": "Si T\u00fa Te Vas (feat. Yung Beef) - Remix",
       "url": "https://open.spotify.com/track/5cp1Nx2K3FUWIH6Rzt8u33"
-    },
-    {
-      "added_at": "2023-03-07 14:50:02",
-      "album": {
-        "name": "2:50 Remix",
-        "url": "https://open.spotify.com/album/0hbwAcjGBGP2gutKpQHA8d"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 231708,
-      "name": "2:50 Remix",
-      "url": "https://open.spotify.com/track/74znaWw1hmQBusGPSOuTFy"
     },
     {
       "added_at": "2023-03-07 14:50:02",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2023-03-07 14:50:02",
       "album": {
-        "name": "Tu Gato Bellaco (Remix)",
-        "url": "https://open.spotify.com/album/6JNQ7Gic3xnJI40wG6keLy"
-      },
-      "artists": [
-        {
-          "name": "Milo Mae",
-          "url": "https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP"
-        },
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Tu Gato Bellaco - Remix",
-      "url": "https://open.spotify.com/track/6eB74UiUNkI7JJBhhr3Y6C"
-    },
-    {
-      "added_at": "2023-03-07 14:50:02",
-      "album": {
         "name": "Persia (Remix)",
         "url": "https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W"
       },
@@ -1987,6 +1967,26 @@
       "duration_ms": 250906,
       "name": "Persia - Remix",
       "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
+    },
+    {
+      "added_at": "2023-03-07 14:50:02",
+      "album": {
+        "name": "Tu Gato Bellaco (Remix)",
+        "url": "https://open.spotify.com/album/6JNQ7Gic3xnJI40wG6keLy"
+      },
+      "artists": [
+        {
+          "name": "Milo Mae",
+          "url": "https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP"
+        },
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Tu Gato Bellaco - Remix",
+      "url": "https://open.spotify.com/track/6eB74UiUNkI7JJBhhr3Y6C"
     },
     {
       "added_at": "2023-03-07 14:50:02",
@@ -2027,6 +2027,30 @@
     {
       "added_at": "2023-03-07 14:50:02",
       "album": {
+        "name": "Tra Tra Tra Remix",
+        "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Tra Tra Tra Remix - Remix",
+      "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
+    },
+    {
+      "added_at": "2023-03-07 14:50:02",
+      "album": {
         "name": "Monumento (Remix)",
         "url": "https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D"
       },
@@ -2051,26 +2075,26 @@
     {
       "added_at": "2023-03-07 14:50:02",
       "album": {
-        "name": "Tra Tra Tra Remix",
-        "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
+        "name": "7 L\u00e1grimas (Remix)",
+        "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
       },
       "artists": [
         {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
         },
         {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+          "name": "GARABATTO",
+          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Tra Tra Tra Remix - Remix",
-      "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
+      "duration_ms": 202894,
+      "name": "7 L\u00e1grimas - Remix",
+      "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
     },
     {
       "added_at": "2023-03-07 14:50:02",
@@ -2107,30 +2131,6 @@
       "duration_ms": 324426,
       "name": "Travesuras - Remix",
       "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
-    },
-    {
-      "added_at": "2023-03-07 14:50:02",
-      "album": {
-        "name": "7 L\u00e1grimas (Remix)",
-        "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
-      },
-      "artists": [
-        {
-          "name": "Soge Culebra",
-          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "GARABATTO",
-          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
-        }
-      ],
-      "duration_ms": 202894,
-      "name": "7 L\u00e1grimas - Remix",
-      "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
     },
     {
       "added_at": "2023-03-07 14:50:02",

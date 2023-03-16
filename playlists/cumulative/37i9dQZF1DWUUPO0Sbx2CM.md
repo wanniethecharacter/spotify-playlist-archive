@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-364 songs - 20 hr 12 min
+365 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Keep Me](https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Keep Me](https://open.spotify.com/album/56QvP6bxRamLdPzp1YwL52) | 2:30 | 2023-02-08 |  |
 | [King on the Inside](https://open.spotify.com/track/2NtGEO4J6TpOpXxhxpjQv5) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [King on the Inside](https://open.spotify.com/album/6254xJxjkaP61rmvqhSp2e) | 3:24 | 2021-10-31 | 2022-07-27 |
 | [Kingdom Come](https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Kingdom Come](https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO) | 3:58 | 2021-10-31 | 2023-02-08 |
-| [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 | 2023-02-23 |  |
+| [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 | 2023-02-23 | 2023-03-16 |
 | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF) | 4:21 | 2023-02-08 |  |
 | [L.H.U.Y \(LET HIM USE YA\)](https://open.spotify.com/track/2LMXLQAQZcQehXHApaNrIW) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [L.H.U.Y \(LET HIM USE YA\)](https://open.spotify.com/album/6g6qBfEOlmHFEE2hVJgDfy) | 3:21 | 2021-10-31 | 2023-02-08 |
 | [Lean Back](https://open.spotify.com/track/1QSuiZPdQUpfpM7o8bp754) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Greater is He & Lean Back](https://open.spotify.com/album/2Qw9de5l2J7bmAzLVlicib) | 3:46 | 2021-10-31 | 2023-02-08 |
@@ -295,6 +295,7 @@
 | [Silhouettes](https://open.spotify.com/track/3AoFd9WAOOCjnkXh5PsmYG) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Silhouettes](https://open.spotify.com/album/7BpeLRl1PyJkIjQ8sZ5U9x) | 3:43 | 2021-10-31 | 2023-02-08 |
 | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ) | 2:32 | 2021-10-31 | 2023-02-08 |
 | [SLINGSHOT](https://open.spotify.com/track/1Rk9TO61bMjJFhDD46TOe0) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 3:00 | 2021-10-31 | 2023-02-08 |
+| [Smell The Roses](https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Smell The Roses](https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f) | 4:13 | 2023-03-16 |  |
 | [So Alive](https://open.spotify.com/track/4t3XwK9hpZNRVwUuy3Q2Lw) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [HEATHEN](https://open.spotify.com/album/5yL0xTL7SRjBeK8Yko0wJG) | 3:25 | 2021-10-31 | 2022-07-19 |
 | [Source](https://open.spotify.com/track/5P8f4IKLbTap8ua0DKepcX) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Source](https://open.spotify.com/album/1dqLRB8MrN9zlkSEAhQtIZ) | 3:04 | 2023-02-08 |  |
 | [Spring Theory](https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:41 | 2023-02-08 |  |

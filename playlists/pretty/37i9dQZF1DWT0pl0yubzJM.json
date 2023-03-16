@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 12838,
+  "num_followers": 12843,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NDEwNTY4OCwwMDAwMDAwMDkwMzhhZDVmZjVkOTExY2ZlMzU2NTE5YzlkNWFjMTJl",
+  "snapshot_id": "MTU4NDEwNTY4OCwwMDAwMDAwMDBmNjRmNDk3MTdmYmUwNWFmZTFiOTY2ZmQ1Y2JmMmU5",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
         }
       ],
-      "duration_ms": 199146,
-      "name": "Jubilados Violentos",
-      "url": "https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V"
+      "duration_ms": 178493,
+      "name": "Fabrico Cuero",
+      "url": "https://open.spotify.com/track/6N2wExoJG3MQe331rSTPAT"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
         }
       ],
-      "duration_ms": 178493,
-      "name": "Fabrico Cuero",
-      "url": "https://open.spotify.com/track/6N2wExoJG3MQe331rSTPAT"
+      "duration_ms": 199146,
+      "name": "Jubilados Violentos",
+      "url": "https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "El Avi\u00f3n Ya Se Estrell\u00f3 Y Yo Sigo Volando",
-        "url": "https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB"
-      },
-      "artists": [
-        {
-          "name": "Jaime Sin Tierra",
-          "url": "https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5"
-        }
-      ],
-      "duration_ms": 282600,
-      "name": "Marmota",
-      "url": "https://open.spotify.com/track/60i7zzErAk7saXLo9YVHpL"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Manzana de Metal",
         "url": "https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 263173,
       "name": "Atl\u00e1ntico",
       "url": "https://open.spotify.com/track/7nXLrabjv9W94NyjK8WNga"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "El Avi\u00f3n Ya Se Estrell\u00f3 Y Yo Sigo Volando",
+        "url": "https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB"
+      },
+      "artists": [
+        {
+          "name": "Jaime Sin Tierra",
+          "url": "https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5"
+        }
+      ],
+      "duration_ms": 282600,
+      "name": "Marmota",
+      "url": "https://open.spotify.com/track/60i7zzErAk7saXLo9YVHpL"
     },
     {
       "added_at": "2020-03-13 13:21:28",

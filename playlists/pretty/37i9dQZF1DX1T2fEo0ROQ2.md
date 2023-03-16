@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,724 likes - 302 songs - 15 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,839 likes - 302 songs - 15 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1487639,
+  "num_followers": 1487711,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzYxNzk4MCwwMDAwMDAwMDk0NjU5ZGY4ZWQ1ZjY3ODc0YjkxNDczNWYxYTg3NDI3",
+  "snapshot_id": "MTY3NzYxNzk4MCwwMDAwMDAwMDJkMTRiMzRjMjhlMjJkZjM0NzNlMmI5ZDQ4NjU0MjA2",
   "tracks": [
     {
       "added_at": "2023-02-28 20:59:39",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Wilder Days",
-      "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 188000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Wilder Days",
+      "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Songs for the Drunk and Broken Hearted",
-        "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "MONOVISION",
         "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 214653,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Songs for the Drunk and Broken Hearted",
+        "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 303593,
-      "name": "Broken Horses",
-      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "My Finest Work Yet",
-        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 317413,
-      "name": "Manifest",
-      "url": "https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG"
+      "duration_ms": 303593,
+      "name": "Broken Horses",
+      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -807,6 +791,22 @@
       "duration_ms": 252301,
       "name": "People Need A Melody",
       "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "My Finest Work Yet",
+        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 317413,
+      "name": "Manifest",
+      "url": "https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Call Me in the Afternoon",
-      "url": "https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Call Me in the Afternoon",
+      "url": "https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Sermon on the Rocks",
         "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
       },
@@ -907,22 +907,6 @@
       "duration_ms": 196195,
       "name": "Getting Ready to Get Down",
       "url": "https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "The Pool",
-        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 242562,
-      "name": "The Pool",
-      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -943,18 +927,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
+        "name": "The Pool",
+        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
       },
       "artists": [
         {
-          "name": "Family and Friends",
-          "url": "https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe"
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
         }
       ],
-      "duration_ms": 207519,
-      "name": "Amadeus",
-      "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
+      "duration_ms": 242562,
+      "name": "The Pool",
+      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -975,18 +959,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Family and Friends",
+          "url": "https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe"
         }
       ],
-      "duration_ms": 244960,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+      "duration_ms": 207519,
+      "name": "Amadeus",
+      "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1003,6 +987,22 @@
       "duration_ms": 86831,
       "name": "Full Moon Song",
       "url": "https://open.spotify.com/track/0Kl9ZswPXKQBr8PEQ6V3xc"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Sink In",
-      "url": "https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Twin Forks",
         "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 170962,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
-      },
-      "artists": [
-        {
-          "name": "AVEC",
-          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
-        }
-      ],
-      "duration_ms": 203673,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/6HbXjawbH9bTwsCXAZgpDc"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "En Garde",
         "url": "https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy"
       },
@@ -1163,6 +1147,38 @@
       "duration_ms": 220175,
       "name": "Teenage Drug",
       "url": "https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "As We Ran",
+        "url": "https://open.spotify.com/album/5n3pUUjhGl3ZrKiQeBB7qi"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 200321,
+      "name": "As We Ran",
+      "url": "https://open.spotify.com/track/2VDKSRDTpqWgczc33Lk9h5"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
+      },
+      "artists": [
+        {
+          "name": "AVEC",
+          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
+        }
+      ],
+      "duration_ms": 203673,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6HbXjawbH9bTwsCXAZgpDc"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "As We Ran",
-        "url": "https://open.spotify.com/album/5n3pUUjhGl3ZrKiQeBB7qi"
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
       },
       "artists": [
         {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
         }
       ],
-      "duration_ms": 200321,
-      "name": "As We Ran",
-      "url": "https://open.spotify.com/track/2VDKSRDTpqWgczc33Lk9h5"
+      "duration_ms": 220773,
+      "name": "Never Be Ourselves",
+      "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1287,22 +1303,6 @@
       "duration_ms": 241746,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
-      },
-      "artists": [
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "Never Be Ourselves",
-      "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Lion's Den",
-        "url": "https://open.spotify.com/album/3j3lKIWIoQozFm1UHJ6mUf"
-      },
-      "artists": [
-        {
-          "name": "Little Chief",
-          "url": "https://open.spotify.com/artist/5oYrefc0gr24yRUMCDBZkB"
-        }
-      ],
-      "duration_ms": 296796,
-      "name": "Mountain Song",
-      "url": "https://open.spotify.com/track/2ZsKcXPYFPMF9RIh12XLCh"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 176551,
       "name": "Summertime Mama",
       "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Lion's Den",
+        "url": "https://open.spotify.com/album/3j3lKIWIoQozFm1UHJ6mUf"
+      },
+      "artists": [
+        {
+          "name": "Little Chief",
+          "url": "https://open.spotify.com/artist/5oYrefc0gr24yRUMCDBZkB"
+        }
+      ],
+      "duration_ms": 296796,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2ZsKcXPYFPMF9RIh12XLCh"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Location 13 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
-      },
-      "artists": [
-        {
-          "name": "DISPATCH",
-          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
-        }
-      ],
-      "duration_ms": 255191,
-      "name": "Letter to Lady J",
-      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 235240,
       "name": "Expectations",
       "url": "https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Location 13 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
+      },
+      "artists": [
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "duration_ms": 255191,
+      "name": "Letter to Lady J",
+      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
     },
     {
       "added_at": "2022-10-14 04:00:00",

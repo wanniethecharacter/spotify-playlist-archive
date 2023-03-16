@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 
 > Soft electronic music for your dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,693 likes - 150 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,739 likes - 150 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -157,6 +157,50 @@
     },
     {
       "album": {
+        "name": "Buzz (feat. Badshah)",
+        "url": "https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd"
+      },
+      "artists": [
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193413,
+      "name": "Buzz (feat. Badshah)",
+      "url": "https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd"
+    },
+    {
+      "album": {
+        "name": "Baaghi",
+        "url": "https://open.spotify.com/album/5HSTooggnBDwuJpTRZyfXj"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        },
+        {
+          "name": "Monali Thakur",
+          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261479,
+      "name": "Cham Cham",
+      "url": "https://open.spotify.com/track/6GVv6Zn0zfN36sKDJY1axO"
+    },
+    {
+      "album": {
         "name": "Mission Majnu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/13qVm7FwkSKg3R3r4Ubupv"
       },
@@ -172,7 +216,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 293142,
       "name": "Channa Ve Assi Marjawange",
       "url": "https://open.spotify.com/track/6jDiCCkQondv5cmXgmudjo"
@@ -250,7 +294,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 257440,
       "name": "Chor Bazari",
       "url": "https://open.spotify.com/track/0SxjmKamCaXEBwuQdiMxor"
@@ -272,10 +316,36 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 257440,
       "name": "Chor Bazari (From \"Love Aaj Kal \")",
       "url": "https://open.spotify.com/track/6XE0MxTJdLWEePTCqAw5xr"
+    },
+    {
+      "album": {
+        "name": "Cocktail",
+        "url": "https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui"
+      },
+      "artists": [
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269589,
+      "name": "Daaru Desi (From \"Cocktail\")",
+      "url": "https://open.spotify.com/track/1R7ChEm1x3mGhDWXKnPSXn"
     },
     {
       "album": {
@@ -290,7 +360,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 214196,
       "name": "Daayein Baayein",
       "url": "https://open.spotify.com/track/2f7Rmr904CGu8HRLfakm0Y"
@@ -493,6 +563,28 @@
     },
     {
       "album": {
+        "name": "Genda Phool (feat. Payal Dev)",
+        "url": "https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "Genda Phool (feat. Payal Dev)",
+      "url": "https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf"
+    },
+    {
+      "album": {
         "name": "Ghungroo (From \"War\")",
         "url": "https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ"
       },
@@ -685,6 +777,54 @@
     },
     {
       "album": {
+        "name": "Jaadui (From \"Tu Jhoothi Main Makkaar\")",
+        "url": "https://open.spotify.com/album/5OsAf4SSVDOAxF9FLbp8oF"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222375,
+      "name": "Jaadui (From \"Tu Jhoothi Main Makkaar\")",
+      "url": "https://open.spotify.com/track/4nriYsKSq1VmiamjZOB4Tp"
+    },
+    {
+      "album": {
+        "name": "Jaane Kyun",
+        "url": "https://open.spotify.com/album/35tiVpTGRw9i7dBL9wUZ6J"
+      },
+      "artists": [
+        {
+          "name": "Aditi Singh Sharma",
+          "url": "https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY"
+        },
+        {
+          "name": "Reena Gilbert",
+          "url": "https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139699,
+      "name": "Jaane Kyun",
+      "url": "https://open.spotify.com/track/2XecqQiPVkouS73OYRzDC6"
+    },
+    {
+      "album": {
         "name": "Dostana (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4MzefJUmigFTnjful2wuum"
       },
@@ -847,6 +987,28 @@
     },
     {
       "album": {
+        "name": "Jugnu",
+        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Jugnu",
+      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
+    },
+    {
+      "album": {
         "name": "Kahani (From \"Laal Singh Chaddha\")",
         "url": "https://open.spotify.com/album/5R62UdMrx8tGmDVJragQtq"
       },
@@ -866,7 +1028,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 208539,
       "name": "Kahani (From \"Laal Singh Chaddha\")",
       "url": "https://open.spotify.com/track/7Lcp4QlpR3RDngYejm4fmS"
@@ -992,6 +1154,28 @@
       "duration_ms": 236160,
       "name": "Kya Karoon?",
       "url": "https://open.spotify.com/track/4Yp8zw7b35bheMVTp39o5O"
+    },
+    {
+      "album": {
+        "name": "Street Dancer 3D",
+        "url": "https://open.spotify.com/album/50FHINh9xisewZgfucGbVL"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215368,
+      "name": "Lagdi Lahore Di",
+      "url": "https://open.spotify.com/track/31d3tVd82tx2sjA2VQ3PMZ"
     },
     {
       "album": {
@@ -1156,7 +1340,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 284600,
       "name": "Mahi Ve",
       "url": "https://open.spotify.com/track/4tKCjAC5dojOLYQ1FPdXSI"
@@ -1256,7 +1440,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 255173,
       "name": "Mere Sawaal Ka (From \"Shehzada\")",
       "url": "https://open.spotify.com/track/6ZLgnkQNj1CJldLocXd5Ul"
@@ -1503,6 +1687,28 @@
     },
     {
       "album": {
+        "name": "Pasoori",
+        "url": "https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h"
+      },
+      "artists": [
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        },
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224146,
+      "name": "Pasoori",
+      "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8"
       },
@@ -1642,7 +1848,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 230204,
       "name": "Sage",
       "url": "https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy"
@@ -1966,7 +2172,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 284497,
       "name": "Time Traveller 2",
       "url": "https://open.spotify.com/track/1A773NO838tc7W7vF3f07u"
@@ -2176,7 +2382,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 196043,
       "name": "Vaaste",
       "url": "https://open.spotify.com/track/0mJTAdmY8olbGQjopDYff3"
@@ -2216,7 +2422,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 137610,
       "name": "WISH",
       "url": "https://open.spotify.com/track/3uI3yhLUcAuGkRVQ8MvubB"

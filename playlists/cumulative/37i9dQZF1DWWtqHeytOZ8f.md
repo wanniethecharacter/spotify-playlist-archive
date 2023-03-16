@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-570 songs - 2 day 2 hr 7 min
+571 songs - 2 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [5th Night](https://open.spotify.com/track/7vEkNIl8MnRzugwZyQtSQY) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 3:04 | 2022-03-04 | 2023-01-12 |
 | [77 Million Paintings](https://open.spotify.com/track/2YkMGSJ1NgdPoHu7TsxtGO) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Installations](https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq) | 44:00 | 2021-10-20 | 2022-07-21 |
 | [\[a sea of thoughts behind it\]](https://open.spotify.com/track/60cHXUfIETuSrV1DJ0Mx96) | [William Doyle](https://open.spotify.com/artist/0taCSk8CSQVl8RZhV4tU5N) | [Great Spans of Muddy Time](https://open.spotify.com/album/4DyNsfjvnoGuf3ULUqdWD7) | 3:29 | 2021-10-20 | 2022-07-14 |
-| [A Bright Resemblance \[Abridged\]](https://open.spotify.com/track/0yjPeogfbeSSiMwm85hw2E) | [Light Conductor](https://open.spotify.com/artist/590vdsp0V7yIZNMzdbi2qs) | [A Bright Resemblance \[Abridged\]](https://open.spotify.com/album/1T15Mh3twdV9gUfRJu6IgH) | 7:41 | 2021-10-20 |  |
+| [A Bright Resemblance \[Abridged\]](https://open.spotify.com/track/0yjPeogfbeSSiMwm85hw2E) | [Light Conductor](https://open.spotify.com/artist/590vdsp0V7yIZNMzdbi2qs) | [A Bright Resemblance \[Abridged\]](https://open.spotify.com/album/1T15Mh3twdV9gUfRJu6IgH) | 7:41 | 2021-10-20 | 2023-03-16 |
 | [A Bright Resemblance \[Abridged\]](https://open.spotify.com/track/1rygz23Z4RvxpSyz6ovz0D) | [Light Conductor](https://open.spotify.com/artist/590vdsp0V7yIZNMzdbi2qs) | [A Bright Resemblance \[Abridged\]](https://open.spotify.com/album/2ZxTJ8NvJzp0KC7aPYlPK0) | 7:41 | 2021-10-20 | 2022-07-27 |
 | [A Forest](https://open.spotify.com/track/6MB7zOLjSrtY06e5ykZVGw) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [A Forest](https://open.spotify.com/album/3eUWleWNULYMRFI2noRZnT) | 9:59 | 2021-10-20 |  |
 | [A Gentle Ending](https://open.spotify.com/track/0gGKd4UpVGajKJjLPOLTKI) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Gentle Ending](https://open.spotify.com/album/6seCAHr3iYBt64WjZF5x7I) | 3:05 | 2021-10-20 | 2022-06-10 |
@@ -113,7 +113,7 @@
 | [Circular Wave Forms.](https://open.spotify.com/track/7b6GiDnHmOC18lYhDCUJfj) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Circular Wave Forms.](https://open.spotify.com/album/062LGURSKpRw9BYEpR2Pla) | 3:00 | 2021-10-20 |  |
 | [City Of Red Sand](https://open.spotify.com/track/5pQI4osudR5207IiprBP7J) | [Marc Barreca](https://open.spotify.com/artist/6jpmlBMb9q7F75J0yFxOnh) | [The Empty Bridge](https://open.spotify.com/album/2ZTO0VErlT8DV5HLPdTVS6) | 6:43 | 2021-10-20 | 2022-07-29 |
 | [Closed \- Yosemite Version](https://open.spotify.com/track/0IL5bImk17ZoPquALK3yw1) | [Vivian Koch](https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF) | [Beyond Contact](https://open.spotify.com/album/1pYLmFYO15uH1goGDy4xUn) | 3:52 | 2021-10-20 | 2022-07-29 |
-| [Closed \- Yosemite Version](https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1) | [Vivian Koch](https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF) | [Beyond Contact](https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i) | 3:52 | 2021-10-20 | 2022-12-24 |
+| [Closed \- Yosemite Version](https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1) | [Vivian Koch](https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF) | [Beyond Contact](https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i) | 3:52 | 2021-10-20 |  |
 | [Club Nevermore](https://open.spotify.com/track/0zZrA8XWIMicKJKRs1i7Jj) | [HMOT](https://open.spotify.com/artist/1GebYQXIPHASwumbrmvZ3P), [Anastasia Tolchneva](https://open.spotify.com/artist/0yHdpGP80s4kxqvtCwoiaQ) | [Another Name — Original Motion Picture Soundtrack](https://open.spotify.com/album/09OZw4L2kK2nZxVYTsxoTh) | 3:30 | 2022-02-18 | 2022-07-29 |
 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 | 2022-02-12 |  |
 | [Comfort Content](https://open.spotify.com/track/3XHqKRm7z2nWCSPfOK3IQ2) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [Echo Chamber](https://open.spotify.com/album/13LkT2051XJ4Vem22Mi6xk) | 5:26 | 2022-12-21 | 2023-03-04 |
@@ -190,6 +190,7 @@
 | [False Angel Lullaby](https://open.spotify.com/track/5Q9QWEZCmxTMTC25HrUaEf) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Labyrinth](https://open.spotify.com/album/2uXc2ajokBOxI2FX27icQ9) | 7:24 | 2021-10-20 |  |
 | [Far out](https://open.spotify.com/track/6KsHmpucGHj5rfYcxGQftL) | [Lunar Ship](https://open.spotify.com/artist/2oBpQUmHc0cQX0s1TsGL7U) | [Far out](https://open.spotify.com/album/3xOe5NLs8W2YFLZqAOjlAQ) | 4:02 | 2021-10-20 |  |
 | [Fearless](https://open.spotify.com/track/4Tru6czY37f4dPCRpLrxK3) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Fearless](https://open.spotify.com/album/4Keo1capq90Jwzf1ZsKUdd) | 8:02 | 2021-10-20 | 2022-06-03 |
+| [Fearless](https://open.spotify.com/track/4rAy9yzIm5tmsaTnHeJ892) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 8:02 | 2021-10-20 |  |
 | [Feel First Life](https://open.spotify.com/track/4esxro8J1rbsalCPb0yrgC) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Singularity](https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO) | 5:33 | 2021-10-20 |  |
 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 | 2021-10-20 |  |
 | [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 | 2021-10-20 | 2022-06-22 |
@@ -551,7 +552,7 @@
 | [Uqugella](https://open.spotify.com/track/1GC9GHrhIOKCnPDaSA4a8E) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Binaural Beats for Relaxation](https://open.spotify.com/album/3qxbSBbBsBWpCn7LO5I6TZ) | 3:18 | 2021-10-20 |  |
 | [V10](https://open.spotify.com/track/5YdRmDSQuVYLYM7UI7t2yT) | [ADAM TK](https://open.spotify.com/artist/7hauEwIlR9Ca94YCGOCmP1) | [V10](https://open.spotify.com/album/5lCsk2PbLJc0H2VfDuDODU) | 3:01 | 2021-10-20 | 2022-05-23 |
 | [V4.3 pt\. 2](https://open.spotify.com/track/315NEEn9ZZupYATwDKb88G) | [Luca Yupanqui](https://open.spotify.com/artist/3b6IYA5Lih1o84q7gt6KR3) | [V4.3 pt\. 2](https://open.spotify.com/album/2ATPMcZ2PVf5dGTGKtg4mA) | 4:29 | 2021-10-20 | 2022-07-28 |
-| [Vaporware 05](https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 6:03 | 2021-10-20 |  |
+| [Vaporware 05](https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 6:03 | 2021-10-20 | 2023-03-16 |
 | [Variables \- 1976](https://open.spotify.com/track/0aBe5X0U7ZqNh01Hd4SHbB) | [Chris Carter](https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS) | [Variables \- 1976](https://open.spotify.com/album/3ievgMpSPFMO5uoohGRkP2) | 2:47 | 2021-10-20 | 2022-04-18 |
 | [Variation \#9: Pantelleria](https://open.spotify.com/track/2jlUqwqE1bXbo0Lfd0D8jq) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations For Piano & Tape](https://open.spotify.com/album/6MvIw0T6gV58pmiqxylymi) | 44:37 | 2022-09-26 |  |
 | [Vespera](https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Clara](https://open.spotify.com/album/1QU235rCtednzHCJgperwb) | 6:01 | 2021-10-20 |  |

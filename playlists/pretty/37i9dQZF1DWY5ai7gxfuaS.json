@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 224040,
+  "num_followers": 224311,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMDlhN2U1Yzk2MTk4YzRjYjRkYzljOGQwN2EzNjE1NzA5",
+  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMGRhMmJiMjEzNDk2OTljOWFlOGQ2ZWM3OTYyNDE3YjNi",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Diazepam",
-        "url": "https://open.spotify.com/album/6xHOXbrRQUov5zitOkoSfy"
-      },
-      "artists": [
-        {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
-        }
-      ],
-      "duration_ms": 156195,
-      "name": "Diazepam",
-      "url": "https://open.spotify.com/track/34QE6KRYpX1GCnbhJ4Hqhx"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Intoxicated",
@@ -363,6 +347,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Diazepam",
+        "url": "https://open.spotify.com/album/6xHOXbrRQUov5zitOkoSfy"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 156195,
+      "name": "Diazepam",
+      "url": "https://open.spotify.com/track/34QE6KRYpX1GCnbhJ4Hqhx"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "FAIRY METAL",
         "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-02-09 19:59:28",
       "album": {
-        "name": "Dead World",
-        "url": "https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF"
-      },
-      "artists": [
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        }
-      ],
-      "duration_ms": 241311,
-      "name": "Dead World",
-      "url": "https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS"
-    },
-    {
-      "added_at": "2023-02-09 19:59:28",
-      "album": {
         "name": "I Wish A Bitch Would",
         "url": "https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 206617,
       "name": "I Wish A Bitch Would",
       "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
+    },
+    {
+      "added_at": "2023-02-09 19:59:28",
+      "album": {
+        "name": "Dead World",
+        "url": "https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF"
+      },
+      "artists": [
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        }
+      ],
+      "duration_ms": 241311,
+      "name": "Dead World",
+      "url": "https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/46ZAZCCvb8DKNmQhWu4oEL"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Salma Hayek",
-        "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 219630,
-      "name": "Salma Hayek",
-      "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "ANTAGONIST RETURNS",
@@ -551,6 +535,22 @@
       "duration_ms": 217308,
       "name": "ANTAGONIST RETURNS",
       "url": "https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Salma Hayek",
+        "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 219630,
+      "name": "Salma Hayek",
+      "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "From Voodoo to Zen",
+        "url": "https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8"
+      },
+      "artists": [
+        {
+          "name": "Tides From Nebula",
+          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
+        }
+      ],
+      "duration_ms": 289289,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Moot",
         "url": "https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "From Voodoo to Zen",
-        "url": "https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8"
-      },
-      "artists": [
-        {
-          "name": "Tides From Nebula",
-          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
-        }
-      ],
-      "duration_ms": 289289,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Silver Lake by Esa Holopainen",
         "url": "https://open.spotify.com/album/2zWSbMftaoejsLk66Rzsj4"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
-      },
-      "artists": [
-        {
-          "name": "Love Is Noise",
-          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
-        }
-      ],
-      "duration_ms": 254722,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Heads Off",
         "url": "https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 271943,
       "name": "Heads Off",
       "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "duration_ms": 254722,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -787,22 +787,6 @@
       "duration_ms": 576912,
       "name": "Red River",
       "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Whispers of Your Death",
-        "url": "https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Whispers of Your Death",
-      "url": "https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -843,18 +827,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Soul Revolution",
-        "url": "https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel"
+        "name": "Whispers of Your Death",
+        "url": "https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5"
       },
       "artists": [
         {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
         }
       ],
-      "duration_ms": 214775,
-      "name": "Soul Revolution",
-      "url": "https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP"
+      "duration_ms": 174213,
+      "name": "Whispers of Your Death",
+      "url": "https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -871,6 +855,22 @@
       "duration_ms": 218503,
       "name": "The Future Says Thank You",
       "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Soul Revolution",
+        "url": "https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        }
+      ],
+      "duration_ms": 214775,
+      "name": "Soul Revolution",
+      "url": "https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Kosmik",
-        "url": "https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP"
-      },
-      "artists": [
-        {
-          "name": "Violet Cold",
-          "url": "https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo"
-        }
-      ],
-      "duration_ms": 214250,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Blood Year",
         "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Picasso On The Concrete",
-        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
+        "name": "Kosmik",
+        "url": "https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP"
       },
       "artists": [
         {
-          "name": "Waynewood",
-          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+          "name": "Violet Cold",
+          "url": "https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo"
         }
       ],
-      "duration_ms": 190080,
-      "name": "Picasso On The Concrete",
-      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
+      "duration_ms": 214250,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -983,6 +967,22 @@
       "duration_ms": 249979,
       "name": "Telescope",
       "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Picasso On The Concrete",
+        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
+      },
+      "artists": [
+        {
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Picasso On The Concrete",
+      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Flowers of Evil",
-        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
+        "name": "Camel Dancefloor",
+        "url": "https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn"
       },
       "artists": [
         {
-          "name": "Ulver",
-          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
+          "name": "Igorrr",
+          "url": "https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Russian Doll",
-      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
+      "duration_ms": 193066,
+      "name": "Camel Dancefloor",
+      "url": "https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Camel Dancefloor",
-        "url": "https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn"
+        "name": "Flowers of Evil",
+        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
       },
       "artists": [
         {
-          "name": "Igorrr",
-          "url": "https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9"
+          "name": "Ulver",
+          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
         }
       ],
-      "duration_ms": 193066,
-      "name": "Camel Dancefloor",
-      "url": "https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA"
+      "duration_ms": 235000,
+      "name": "Russian Doll",
+      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "be no one",
-        "url": "https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv"
-      },
-      "artists": [
-        {
-          "name": "Sepha.",
-          "url": "https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA"
-        }
-      ],
-      "duration_ms": 261206,
-      "name": "be no one",
-      "url": "https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Rust on the Gates of Heaven",
         "url": "https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 331015,
       "name": "Shrinking Violet",
       "url": "https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "be no one",
+        "url": "https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv"
+      },
+      "artists": [
+        {
+          "name": "Sepha.",
+          "url": "https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA"
+        }
+      ],
+      "duration_ms": 261206,
+      "name": "be no one",
+      "url": "https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1201,26 +1201,6 @@
       "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
     },
     {
-      "added_at": "2023-02-09 19:59:28",
-      "album": {
-        "name": "REB00T MYSELF (feat. Tired Violence)",
-        "url": "https://open.spotify.com/album/35lOHVwCtYdWpz9TXuyP9b"
-      },
-      "artists": [
-        {
-          "name": "Becko",
-          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
-        },
-        {
-          "name": "Tired Violence",
-          "url": "https://open.spotify.com/artist/0zysEFjcjriHu5pvZkhfYV"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "REB00T MYSELF (feat. Tired Violence)",
-      "url": "https://open.spotify.com/track/0ktDzd32KJcAW4e7bsPmeG"
-    },
-    {
       "added_at": "2022-11-18 01:42:16",
       "album": {
         "name": "Bleed Like You",
@@ -1239,6 +1219,26 @@
       "duration_ms": 297381,
       "name": "Bleed Like You - Merzbow Version",
       "url": "https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2"
+    },
+    {
+      "added_at": "2023-02-09 19:59:28",
+      "album": {
+        "name": "REB00T MYSELF (feat. Tired Violence)",
+        "url": "https://open.spotify.com/album/35lOHVwCtYdWpz9TXuyP9b"
+      },
+      "artists": [
+        {
+          "name": "Becko",
+          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
+        },
+        {
+          "name": "Tired Violence",
+          "url": "https://open.spotify.com/artist/0zysEFjcjriHu5pvZkhfYV"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "REB00T MYSELF (feat. Tired Violence)",
+      "url": "https://open.spotify.com/track/0ktDzd32KJcAW4e7bsPmeG"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Pyroclasts",
-        "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
+        "name": "Providencia",
+        "url": "https://open.spotify.com/album/5hqcP9226vpEkLWr8bzQRL"
       },
       "artists": [
         {
-          "name": "sunn O)))",
-          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
+          "name": "Huszar",
+          "url": "https://open.spotify.com/artist/1l1A8JuXGHt8QY7W37dU9C"
         }
       ],
-      "duration_ms": 656933,
-      "name": "Frost (C)",
-      "url": "https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2"
+      "duration_ms": 444306,
+      "name": "Providencia III - La Flora Que Crece Alrededor de Nuestras Catedrales",
+      "url": "https://open.spotify.com/track/40ka2TBKZf7bPubTAE4xHT"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Providencia",
-        "url": "https://open.spotify.com/album/5hqcP9226vpEkLWr8bzQRL"
+        "name": "Pyroclasts",
+        "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
       },
       "artists": [
         {
-          "name": "Huszar",
-          "url": "https://open.spotify.com/artist/1l1A8JuXGHt8QY7W37dU9C"
+          "name": "sunn O)))",
+          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
         }
       ],
-      "duration_ms": 444306,
-      "name": "Providencia III - La Flora Que Crece Alrededor de Nuestras Catedrales",
-      "url": "https://open.spotify.com/track/40ka2TBKZf7bPubTAE4xHT"
+      "duration_ms": 656933,
+      "name": "Frost (C)",
+      "url": "https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2"
     },
     {
       "added_at": "2022-11-18 01:42:16",

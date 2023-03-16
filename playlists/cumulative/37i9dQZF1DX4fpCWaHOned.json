@@ -498,7 +498,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 155883,
       "name": "Best Friend (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/20BOju91NaEFK5Py4VJ2pp"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 260253,
       "name": "Born This Way",
       "url": "https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 134239,
       "name": "Boss Bitch",
       "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
@@ -4758,6 +4758,24 @@
       "duration_ms": 204400,
       "name": "Most Girls",
       "url": "https://open.spotify.com/track/10GJQkjRJcZhGTLagFOC62"
+    },
+    {
+      "album": {
+        "name": "Takin' It Back (Deluxe)",
+        "url": "https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147481,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb"
     },
     {
       "album": {

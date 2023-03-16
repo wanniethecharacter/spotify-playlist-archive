@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,070 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,086 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 30 | [Who I Smoke](https://open.spotify.com/track/3093lstvMDfRjvimLc6ViU) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe), [FastMoney Goon](https://open.spotify.com/artist/6VdfJb2OJp9dbZz0t5bedv), [Whoppa Wit Da Choppa](https://open.spotify.com/artist/482lFlWgAXTKFGC8C6imWq) | [Life of Betrayal 2x](https://open.spotify.com/album/2T2cnxVLWceuy1QofrVNnn) | 2:14 |
 | 31 | [Ok Ok pt 2](https://open.spotify.com/track/5ad5uryyzVWs95bK3myGkw) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:24 |
 | 32 | [No Time For Sleep \(Freestyle\)](https://open.spotify.com/track/50xlqNticOjNCnR192H1YJ) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [No Time For Sleep \(Freestyle\)](https://open.spotify.com/album/2SUNTv6iT4DwTmrNlqCqmi) | 6:15 |
-| 33 | [Bout A Million \(feat\. 42 Dugg & 21 Savage\)](https://open.spotify.com/track/72ozIjVFHpAnKGcuYpCfb7) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 3:23 |
-| 34 | [Harley Quinn](https://open.spotify.com/track/5yfX9sTYDJ012smTqfoTCj) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Harley Quinn](https://open.spotify.com/album/1YjRDz2mWVadCF8PoGjpNg) | 2:52 |
+| 33 | [Harley Quinn](https://open.spotify.com/track/5yfX9sTYDJ012smTqfoTCj) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Harley Quinn](https://open.spotify.com/album/1YjRDz2mWVadCF8PoGjpNg) | 2:52 |
+| 34 | [Bout A Million \(feat\. 42 Dugg & 21 Savage\)](https://open.spotify.com/track/72ozIjVFHpAnKGcuYpCfb7) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 3:23 |
 | 35 | [GD Anthem](https://open.spotify.com/track/0IAQb5BDqLI5ZlGVDiFArh) | [Rooga](https://open.spotify.com/artist/5zDlgTCrdCh2cFRX7nH8W1) | [GD Anthem](https://open.spotify.com/album/0vEwVgYvI4kNNLsszRi3zo) | 3:10 |
 | 36 | [Steppers](https://open.spotify.com/track/7vNUd8wv8Fo6L1CBxduXxF) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Steppers](https://open.spotify.com/album/1cmIixELcilPw7uQzS8UVD) | 2:30 |
 | 37 | [Dirty K](https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 49 | [Toxic Punk](https://open.spotify.com/track/1kt1zJEovrCGeW4xHvQwaX) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Ain't Scared](https://open.spotify.com/album/1l4iUB8CltYGm1ugBj7DpZ) | 2:03 |
 | 50 | [Senseless](https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Senseless](https://open.spotify.com/album/6AM123Eeb8LiLdz9GUiNJT) | 2:23 |
 
-Snapshot ID: `MTY2NDY0MTAzNywwMDAwMDAwMGQ2MzUzNWUyNDExNWE3MzMxZWNjZWZmZmMwNGJiNTBj`
+Snapshot ID: `MTY2NDY0MTAzNywwMDAwMDAwMGM2NWY3M2JlZWNiYjRlMTM0Zjc3ZDYwMTE1MTVmYWQ0`

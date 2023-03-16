@@ -4,7 +4,7 @@
 
 > Songs of faith, hope, and the greatest of these, love.
 
-138 songs - 8 hr 16 min
+139 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Dancing in the Minefields](https://open.spotify.com/track/0VK6LjfOx37YzDUkLtQS2p) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [Counting Stars](https://open.spotify.com/album/3iq3Gnft3x4hLbejSHAYvJ) | 3:30 | 2020-04-17 |  |
 | [Dancing In The Minefields](https://open.spotify.com/track/1pDYCsbY4NkeQb8AvanZMj) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [Counting Stars](https://open.spotify.com/album/2nrcquoo8aHqdrZyx6kdPb) | 3:30 | 2020-04-17 | 2022-07-29 |
 | [Dancing In The Minefields](https://open.spotify.com/track/4SyGjosRg6d4tvE1EMtqFf) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [Let's Grow Old Together, Love Songs](https://open.spotify.com/album/6JrsogjkEDRI57DojUQxIU) | 3:30 | 2020-04-17 | 2022-11-14 |
+| [Dear Future Husband](https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Dear Future Husband](https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9) | 4:28 | 2023-01-31 |  |
 | [Dear Future Wife \- Acoustic](https://open.spotify.com/track/0RQok78Z58rek1FfvvWmYp) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Dear Future Wife \(Acoustic\)](https://open.spotify.com/album/3yHmNaCf9I1nXTYSdd5WoT) | 2:48 | 2023-01-31 |  |
 | [Dear No One](https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Foreword](https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD) | 3:17 | 2020-04-17 |  |
 | [Don't Deserve You](https://open.spotify.com/track/1TRibL6UoaiU3yEdqCQbgx) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Need You Now](https://open.spotify.com/album/2AwrSABuCbL70654kGQ1so) | 4:11 | 2020-04-17 |  |
@@ -90,7 +91,7 @@
 | [Love in the West](https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Love in the West](https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH) | 2:18 | 2023-01-31 |  |
 | [Love Letter](https://open.spotify.com/track/3vVRe4hWXAhC7Q5NNVvqPc) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Love Letter](https://open.spotify.com/album/3xN0nvkOFcvxlT2LeyxtDd) | 2:59 | 2020-04-17 |  |
 | [Love Me Like I Am](https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Love Me Like I Am](https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR) | 3:04 | 2023-01-31 |  |
-| [Love Somebody](https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [True Beauty](https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re) | 3:48 | 2020-04-17 |  |
+| [Love Somebody](https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [True Beauty](https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re) | 3:48 | 2020-04-17 | 2023-03-16 |
 | [Love Song](https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Love Song](https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9) | 3:34 | 2020-04-17 |  |
 | [Love&Adoration](https://open.spotify.com/track/1QujH597HNGHN6MWIbilTV) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Love&Adoration](https://open.spotify.com/album/2QTtPQmtd0zJ46vKPaT9UQ) | 2:23 | 2023-01-31 |  |
 | [Loving A Person \- Reimagined](https://open.spotify.com/track/1NYmaX6ByXEUdhojO01jMu) | [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7) | [What Makes It Through](https://open.spotify.com/album/4YFHM5vLJLbBFCS0nhC0mi) | 3:57 | 2023-01-31 |  |

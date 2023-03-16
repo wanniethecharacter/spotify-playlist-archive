@@ -1914,6 +1914,32 @@
     {
       "album": {
         "name": "O Poder Dessa Garota",
+        "url": "https://open.spotify.com/album/443D9lOS7CSKSgR0RxaxdV"
+      },
+      "artists": [
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        },
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        },
+        {
+          "name": "dj sv",
+          "url": "https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "O Poder Dessa Garota",
+      "url": "https://open.spotify.com/track/3emWP5AGvDHFAlHlCOPiqT"
+    },
+    {
+      "album": {
+        "name": "O Poder Dessa Garota",
         "url": "https://open.spotify.com/album/3EBubCq7RZgQSzr5LiDaDP"
       },
       "artists": [
@@ -1932,7 +1958,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 136615,
       "name": "O Poder Dessa Garota",
       "url": "https://open.spotify.com/track/4aoZBldNDVYmTwmeoI49ud"
@@ -2506,10 +2532,28 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 161076,
       "name": "Simplesmente Ela",
       "url": "https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u"
+    },
+    {
+      "album": {
+        "name": "Simplesmente Ela",
+        "url": "https://open.spotify.com/album/42UKXbB3K0fJl7THkXPw0w"
+      },
+      "artists": [
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161076,
+      "name": "Simplesmente Ela",
+      "url": "https://open.spotify.com/track/7qaUeAyg0eYYhHDCx58GXa"
     },
     {
       "album": {

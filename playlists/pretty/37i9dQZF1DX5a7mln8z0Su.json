@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5418,
+  "num_followers": 5427,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODUyMjY4NywwMDAwMDAwMGUwNWY2MWE1ZDZiZjcwZGYwYWZkMzU2MjRjN2RkNTc2",
+  "snapshot_id": "MTY3ODUyMjY4NywwMDAwMDAwMDM0NjUyNzY1ZWJmZmNhMWQ1MGUxMjUyMDJkMmNlNDA0",
   "tracks": [
     {
       "added_at": "2023-03-11 08:18:07",
@@ -83,6 +83,22 @@
     {
       "added_at": "2023-03-11 08:18:07",
       "album": {
+        "name": "She lives in Paris",
+        "url": "https://open.spotify.com/album/0tms1uJhwMYwt7e8Zy41j2"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "She lives in Paris",
+      "url": "https://open.spotify.com/track/5PvMK77XUHP4EwdttBNX3o"
+    },
+    {
+      "added_at": "2023-03-11 08:18:07",
+      "album": {
         "name": "Akita",
         "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 224293,
       "name": "Akita (Feat. hartts) (Prod. OBSN)",
       "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
-    },
-    {
-      "added_at": "2023-03-11 08:18:07",
-      "album": {
-        "name": "She lives in Paris",
-        "url": "https://open.spotify.com/album/0tms1uJhwMYwt7e8Zy41j2"
-      },
-      "artists": [
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "She lives in Paris",
-      "url": "https://open.spotify.com/track/5PvMK77XUHP4EwdttBNX3o"
     },
     {
       "added_at": "2023-03-11 08:18:07",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-03-11 08:18:07",
       "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3"
+      },
+      "artists": [
+        {
+          "name": "YURA",
+          "url": "https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6"
+        }
+      ],
+      "duration_ms": 233059,
+      "name": "Pearl",
+      "url": "https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q"
+    },
+    {
+      "added_at": "2023-03-11 08:18:07",
+      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 236703,
       "name": "Tictoc Tictoc Tictoc (with Beenzino)",
       "url": "https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp"
-    },
-    {
-      "added_at": "2023-03-11 08:18:07",
-      "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3"
-      },
-      "artists": [
-        {
-          "name": "YURA",
-          "url": "https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6"
-        }
-      ],
-      "duration_ms": 233059,
-      "name": "Pearl",
-      "url": "https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q"
     },
     {
       "added_at": "2023-03-11 08:18:07",
@@ -399,26 +399,6 @@
     {
       "added_at": "2023-03-11 08:18:07",
       "album": {
-        "name": "Bad words with KozyPop",
-        "url": "https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        },
-        {
-          "name": "Housekeepers",
-          "url": "https://open.spotify.com/artist/59l0058l1cWuL7g6TYxgy1"
-        }
-      ],
-      "duration_ms": 197687,
-      "name": "Bad words",
-      "url": "https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX"
-    },
-    {
-      "added_at": "2023-03-11 08:18:07",
-      "album": {
         "name": "White Snow",
         "url": "https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 184133,
       "name": "White Snow (feat. prettyhappy)",
       "url": "https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6"
+    },
+    {
+      "added_at": "2023-03-11 08:18:07",
+      "album": {
+        "name": "Bad words with KozyPop",
+        "url": "https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        },
+        {
+          "name": "Housekeepers",
+          "url": "https://open.spotify.com/artist/59l0058l1cWuL7g6TYxgy1"
+        }
+      ],
+      "duration_ms": 197687,
+      "name": "Bad words",
+      "url": "https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX"
     },
     {
       "added_at": "2023-03-11 08:18:07",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-03-11 08:18:07",
       "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 191793,
+      "name": "Then",
+      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
+    },
+    {
+      "added_at": "2023-03-11 08:18:07",
+      "album": {
         "name": "kibun (feat. vntermude)",
         "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": "2023-03-11 08:18:07",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 191793,
-      "name": "Then",
-      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
-    },
-    {
-      "added_at": "2023-03-11 08:18:07",
-      "album": {
         "name": "Nonadaptation \ube44\uc801\uc751",
         "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
       },
@@ -695,22 +695,22 @@
     {
       "added_at": "2023-03-11 08:18:07",
       "album": {
-        "name": "Hold tight",
-        "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
+        "name": "Yearbook 2022",
+        "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
       },
       "artists": [
         {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
         },
         {
-          "name": "Jaw",
-          "url": "https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn"
+          "name": "Dawon",
+          "url": "https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa"
         }
       ],
-      "duration_ms": 174975,
-      "name": "Hold tight",
-      "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
+      "duration_ms": 195187,
+      "name": "Not Bad (feat. Dawon)",
+      "url": "https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ"
     },
     {
       "added_at": "2023-03-11 08:18:07",
@@ -731,18 +731,22 @@
     {
       "added_at": "2023-03-11 08:18:07",
       "album": {
-        "name": "#mood",
-        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
+        "name": "Hold tight",
+        "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
       },
       "artists": [
         {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        },
+        {
+          "name": "Jaw",
+          "url": "https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn"
         }
       ],
-      "duration_ms": 181120,
-      "name": "#mood",
-      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
+      "duration_ms": 174975,
+      "name": "Hold tight",
+      "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
     },
     {
       "added_at": "2023-03-11 08:18:07",
@@ -783,54 +787,26 @@
     {
       "added_at": "2023-03-11 08:18:07",
       "album": {
-        "name": "Yearbook 2022",
-        "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
+        "name": "Wouldn't have",
+        "url": "https://open.spotify.com/album/4ZAbnybXbVUIapuv01pCpj"
       },
       "artists": [
         {
-          "name": "015B",
-          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
         },
         {
-          "name": "Dawon",
-          "url": "https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa"
-        }
-      ],
-      "duration_ms": 195187,
-      "name": "Not Bad (feat. Dawon)",
-      "url": "https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ"
-    },
-    {
-      "added_at": "2023-03-11 08:18:07",
-      "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
         }
       ],
-      "duration_ms": 202120,
-      "name": "Love is alone",
-      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
-    },
-    {
-      "added_at": "2023-03-11 08:18:07",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2L572virNeJpe4X8SAVbQ1"
-      },
-      "artists": [
-        {
-          "name": "OoOo",
-          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
-        }
-      ],
-      "duration_ms": 183281,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0tkR9qJXzuUoI9sKW08ZGM"
+      "duration_ms": 240000,
+      "name": "Wouldn't have (Feat. pH-1, Hash Swan)",
+      "url": "https://open.spotify.com/track/0oWzOtLAE3REU8A12VVJbq"
     },
     {
       "added_at": "2023-03-11 08:18:07",
@@ -851,6 +827,54 @@
     {
       "added_at": "2023-03-11 08:18:07",
       "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 202120,
+      "name": "Love is alone",
+      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
+    },
+    {
+      "added_at": "2023-03-11 08:18:07",
+      "album": {
+        "name": "#mood",
+        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "#mood",
+      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
+    },
+    {
+      "added_at": "2023-03-11 08:18:07",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2L572virNeJpe4X8SAVbQ1"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "duration_ms": 183281,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0tkR9qJXzuUoI9sKW08ZGM"
+    },
+    {
+      "added_at": "2023-03-11 08:18:07",
+      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -867,34 +891,18 @@
     {
       "added_at": "2023-03-11 08:18:07",
       "album": {
-        "name": "3 STEPS FORWARD, 2 STEPS BACK",
-        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
+        "name": "Je N\u2032aime Que Toi",
+        "url": "https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX"
       },
       "artists": [
         {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
         }
       ],
-      "duration_ms": 293754,
-      "name": "Thread(1.11)",
-      "url": "https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H"
-    },
-    {
-      "added_at": "2023-03-11 08:18:07",
-      "album": {
-        "name": "BURN-OUT",
-        "url": "https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof"
-      },
-      "artists": [
-        {
-          "name": "FRIDA-ANNE",
-          "url": "https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr"
-        }
-      ],
-      "duration_ms": 156984,
-      "name": "BURN-OUT",
-      "url": "https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1"
+      "duration_ms": 196666,
+      "name": "Je N\u2032aime Que Toi",
+      "url": "https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

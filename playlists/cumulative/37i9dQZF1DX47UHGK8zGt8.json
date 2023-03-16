@@ -2450,7 +2450,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 204007,
       "name": "Outono",
       "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"
@@ -3318,11 +3318,15 @@
         {
           "name": "YOYOTRACKS",
           "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+        },
+        {
+          "name": "UGOTZ",
+          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
         }
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 261256,
       "name": "Verdadeiro Amor - Studio Sessions",
       "url": "https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV"

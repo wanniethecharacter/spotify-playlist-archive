@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 117106,
+  "num_followers": 117188,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODc4ODY0NiwwMDAwMDAwMDJhY2ViMDJlNjBjZGZjMGUwNzE0ZDM3OGI4MTI5NTY5",
+  "snapshot_id": "MTY3ODc4ODY0NiwwMDAwMDAwMGE1NmM1MTE5NDY5YjdhNmQyZDJjMTQ3ODQzZDk2NmFl",
   "tracks": [
     {
       "added_at": "2023-03-14 10:10:46",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-03-14 10:10:46",
       "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "duration_ms": 154650,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe"
+    },
+    {
+      "added_at": "2023-03-14 10:10:46",
+      "album": {
         "name": "Heartbroken 2022",
         "url": "https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 172371,
       "name": "Heartbroken 2022",
       "url": "https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr"
-    },
-    {
-      "added_at": "2023-03-14 10:10:46",
-      "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        }
-      ],
-      "duration_ms": 154650,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe"
     },
     {
       "added_at": "2023-03-14 10:10:46",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-03-14 10:10:46",
       "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        },
-        {
-          "name": "Gracie Van Brunt",
-          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
-        }
-      ],
-      "duration_ms": 215268,
-      "name": "Deep Blue",
-      "url": "https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz"
-    },
-    {
-      "added_at": "2023-03-14 10:10:46",
-      "album": {
         "name": "Drops Remixes",
         "url": "https://open.spotify.com/album/7nomZmjtgRYZzRl5hjHW1Q"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 262628,
       "name": "Drops - Kanine Remix",
       "url": "https://open.spotify.com/track/1KyPT1Fno54CmoGYmwi0Ix"
+    },
+    {
+      "added_at": "2023-03-14 10:10:46",
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Gracie Van Brunt",
+          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+        }
+      ],
+      "duration_ms": 215268,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz"
     },
     {
       "added_at": "2023-03-14 10:10:46",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-03-14 10:10:46",
       "album": {
+        "name": "Don't You Worry About Me",
+        "url": "https://open.spotify.com/album/0he225d6QYERCPgyagltqw"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Don't You Worry About Me",
+      "url": "https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl"
+    },
+    {
+      "added_at": "2023-03-14 10:10:46",
+      "album": {
         "name": "Lively (feat. Jaykae & Blair Muir)",
         "url": "https://open.spotify.com/album/0Z8jfqzvBnUHiSfVBXXniD"
       },
@@ -1083,6 +1099,22 @@
     {
       "added_at": "2023-03-14 10:10:46",
       "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/4oat7EzdqhUxGRKcQpulN3"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 237168,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/5cIhCgoaVhYLWi7Lwm3uhA"
+    },
+    {
+      "added_at": "2023-03-14 10:10:46",
+      "album": {
         "name": "Getting Started (Chase & Status Remix)",
         "url": "https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1"
       },
@@ -1099,38 +1131,6 @@
       "duration_ms": 190344,
       "name": "Getting Started - Chase & Status Remix",
       "url": "https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9"
-    },
-    {
-      "added_at": "2023-03-14 10:10:46",
-      "album": {
-        "name": "Don't You Worry About Me",
-        "url": "https://open.spotify.com/album/0he225d6QYERCPgyagltqw"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Don't You Worry About Me",
-      "url": "https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl"
-    },
-    {
-      "added_at": "2023-03-14 10:10:46",
-      "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/4oat7EzdqhUxGRKcQpulN3"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 237168,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/5cIhCgoaVhYLWi7Lwm3uhA"
     },
     {
       "added_at": "2023-03-14 10:10:46",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2023-03-14 10:10:46",
       "album": {
-        "name": "Polarity (VIP)",
-        "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "Polarity - VIP",
-      "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
-    },
-    {
-      "added_at": "2023-03-14 10:10:46",
-      "album": {
         "name": "Feel So Free Mixtape",
         "url": "https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 219687,
       "name": "It's Just This Thing",
       "url": "https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR"
+    },
+    {
+      "added_at": "2023-03-14 10:10:46",
+      "album": {
+        "name": "Polarity (VIP)",
+        "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "Polarity - VIP",
+      "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
     },
     {
       "added_at": "2023-03-14 10:10:46",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-03-14 10:10:46",
       "album": {
-        "name": "Playing Games",
-        "url": "https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL"
-      },
-      "artists": [
-        {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Playing Games",
-      "url": "https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6"
-    },
-    {
-      "added_at": "2023-03-14 10:10:46",
-      "album": {
         "name": "Mash up the Dance (Kings of the Rollers Remix)",
         "url": "https://open.spotify.com/album/5VQRkU846ddPAvMX8heKxG"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 177882,
       "name": "Mash up the Dance - Kings of the Rollers Remix",
       "url": "https://open.spotify.com/track/3S95GLyxH7gcMjExPVAjxq"
+    },
+    {
+      "added_at": "2023-03-14 10:10:46",
+      "album": {
+        "name": "Playing Games",
+        "url": "https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL"
+      },
+      "artists": [
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Playing Games",
+      "url": "https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6"
     },
     {
       "added_at": "2023-03-14 10:10:46",

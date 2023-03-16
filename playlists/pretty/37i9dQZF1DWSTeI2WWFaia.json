@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Armani Caesar",
-  "num_followers": 1604650,
+  "num_followers": 1604704,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDY5MzY4MGU0NzUwM2U2N2M4ZGRmZDU2NjFiNTFkNjFm",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGM5OTJjNjc3YWY2YWFmZmI3YjBlNjU2NTZmZDA0OTU5",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -64,7 +64,7 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 192946,
+      "duration_ms": 192314,
       "name": "89 Earthquake",
       "url": "https://open.spotify.com/track/60QgT3PndeEDhdteZfqXGv"
     },
@@ -280,7 +280,7 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 180640,
+      "duration_ms": 199498,
       "name": "60 Days",
       "url": "https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI"
     },
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Never Freestyle",
-        "url": "https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH"
-      },
-      "artists": [
-        {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
-        }
-      ],
-      "duration_ms": 266996,
-      "name": "Never Freestyle",
-      "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)",
         "url": "https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Never Freestyle",
+        "url": "https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 266996,
+      "name": "Never Freestyle",
+      "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Gang Signs (feat. ScHoolboy Q)",
         "url": "https://open.spotify.com/album/6djndSUOt3l5SJRc1wHdml"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 166840,
       "name": "Gang Signs (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "I Still Don't Cry",
-        "url": "https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "I Still Don't Cry",
-      "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -591,6 +575,22 @@
       "duration_ms": 181333,
       "name": "Moon Roof",
       "url": "https://open.spotify.com/track/4ViKU2hlW6dOMTJ7yzXTgR"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "I Still Don't Cry",
+        "url": "https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "I Still Don't Cry",
+      "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "I Love You, I Hate You",
-      "url": "https://open.spotify.com/track/6XQPPbvRXZvWSUDag8jyEj"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Church Clothes 4: Dry Clean Only",
         "url": "https://open.spotify.com/album/45xopJH4y7YpIHmogMMLD7"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 180221,
       "name": "Can You Hear Me Now?",
       "url": "https://open.spotify.com/track/7Lg6d8ii0EXRqPLsgVjAaa"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "I Love You, I Hate You",
+      "url": "https://open.spotify.com/track/6XQPPbvRXZvWSUDag8jyEj"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -771,6 +771,22 @@
       "duration_ms": 156972,
       "name": "Ghetto Reporter",
       "url": "https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Spread The Opps",
+        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 181795,
+      "name": "Spread The Opps",
+      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -843,22 +859,6 @@
       "duration_ms": 222776,
       "name": "Gold Rings (feat. Pusha T)",
       "url": "https://open.spotify.com/track/2L5FjwGluXOyaeqn775Va0"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Spread The Opps",
-        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 181795,
-      "name": "Spread The Opps",
-      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
     },
     {
       "added_at": "2023-03-10 05:00:00",

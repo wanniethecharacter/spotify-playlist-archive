@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Snelle op de cover van dé Nederpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,052 likes - 109 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,083 likes - 109 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

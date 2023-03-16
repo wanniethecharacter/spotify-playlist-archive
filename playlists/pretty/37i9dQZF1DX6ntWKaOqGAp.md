@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: フジファブリック & フレデリック
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,267 likes - 90 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,338 likes - 90 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 2 | [D'Addario](https://open.spotify.com/track/5ZOajDfXJV3XIMMW6h4vxd) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [ACTA](https://open.spotify.com/album/3gjpogPcDu12ZDRaDtV5KL) | 4:47 |
 | 3 | [サクラノウタ](https://open.spotify.com/track/4aecodVhhW19bmWjveVgJR) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [サクラノウタ](https://open.spotify.com/album/7vlOaFIqHnABear9d51MNf) | 4:29 |
 | 4 | [そんなbitterな話](https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [そんなbitterな話](https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP) | 4:36 |
-| 5 | [ゴミ人間、俺](https://open.spotify.com/track/2VU59VkXEBNX4ZZf7SmGAy) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:49 |
+| 5 | [Gominingen,Ore](https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:49 |
 | 6 | [Etude of Adolescence](https://open.spotify.com/track/3DvIKEAVYG5oD4PaQC0IRk) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Haruko Nagaya](https://open.spotify.com/artist/5P8drcKYuRizuKKXgUdPO8), [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Etude of Adolescence](https://open.spotify.com/album/3a5OH0xdi3iWVV7a7rXgpR) | 4:33 |
 | 7 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:33 |
 | 8 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 |
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 17 | [浮世パスポート](https://open.spotify.com/track/1OnHUaVxsS67pgXEd9CIXT) | [sumika\[camp session\]](https://open.spotify.com/artist/51BvoK9JjSLdx7JD03flZs) | [Sugar Salt Pepper Green](https://open.spotify.com/album/30lpt4mHSgih8j3eigamS2) | 4:06 |
 | 18 | [嫌嫌](https://open.spotify.com/track/73beY6Yn4Jg0CyfN8txrfz) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [嫌嫌](https://open.spotify.com/album/4Qw1FoecWUEh2PGbKYm7Sd) | 3:41 |
 | 19 | [レイジーモーニング](https://open.spotify.com/track/2Xtz1YnZm5skeyZnG9OrOj) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [レイジーモーニング](https://open.spotify.com/album/74j966Zm6XGHewP3AgGcun) | 2:53 |
-| 20 | [マールム \-malum\-](https://open.spotify.com/track/0PhR2iDSWWu9jJ5tZmBvy1) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [A disease called love](https://open.spotify.com/album/0YSWyHWIrioEnV5YQddyWB) | 3:11 |
+| 20 | [malum](https://open.spotify.com/track/5pcg88evNmLl6qA0wmDRQi) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [A disease called love](https://open.spotify.com/album/7ibmp11sVi3XwgkUDL2jUn) | 3:11 |
 | 21 | [雨恋](https://open.spotify.com/track/4MlANzsK8DFnRrluNf1Swb) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z), [ちとせみな](https://open.spotify.com/artist/7xf6dqV93VlQGpEvih6ode) | [HUG](https://open.spotify.com/album/6MoCJgVVBdnvWEdHPaSd7V) | 4:42 |
 | 22 | [Raided](https://open.spotify.com/track/6T8irfJT4GxqUL1qjB64A5) | [SHE'S](https://open.spotify.com/artist/6TNooB9HDJ9Xs1GFPl2Fiv) | [Raided](https://open.spotify.com/album/4uLoy0KZQyGRqNTEaK3Exy) | 3:13 |
 | 23 | [化け猫](https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/4nDK96OK3zDeE3rZkvG9E7) | 2:47 |
 | 24 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 |
-| 25 | [Leap](https://open.spotify.com/track/3hrZ10jvm7019DdwZLxmCU) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/2RPT4dc1XDtfpyALnf0yq7) | 4:06 |
+| 25 | [Leap](https://open.spotify.com/track/5UvLomZ74b75rzQmYVkhG7) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/7HYIajVHlesffzuOM67G6Q) | 4:06 |
 | 26 | [Ratpark](https://open.spotify.com/track/451krgfVbiNmFxAIXTGQjL) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [Ratpark](https://open.spotify.com/album/3B88ap6PgLfLt41faNFPsN) | 3:32 |
 | 27 | [バイオレンス](https://open.spotify.com/track/68BawnlUojQQqpciOkJwiN) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [十二次元](https://open.spotify.com/album/54OOd6x03hdIYeHWYajNyP) | 3:54 |
 | 28 | [憂い桜](https://open.spotify.com/track/3i1w3l5dnk2sCxVsVHsjuw) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [憂い桜](https://open.spotify.com/album/1YfaIMNRslj7EHBsZw63cz) | 4:35 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 89 | [ハイパーイメージ](https://open.spotify.com/track/5higKPhcN5wzx2IqafqalE) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [ハイパーイメージ](https://open.spotify.com/album/5aIKLPM4ONVaodAX2Dt3Z8) | 2:30 |
 | 90 | [Old Fashioned](https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw), [Peatle](https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp) | [Old Fashioned](https://open.spotify.com/album/3Rv9kwdTjYAdyUsVLz2gZh) | 3:19 |
 
-Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMGU3ZWUxZTQ5MmVlMzY3NzQ0M2YyZjZmNWNjYTI2ZDUx`
+Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMDVhZmJmMDVlN2ExY2I4MmRhNmU5ZGFhYmUyMzAzMzEy`

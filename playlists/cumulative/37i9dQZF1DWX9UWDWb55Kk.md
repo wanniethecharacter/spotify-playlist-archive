@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-351 songs - 22 hr 30 min
+352 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [En el Aire](https://open.spotify.com/track/6HUKvqvzgh1cr83BqlqrzA) | [Vega Almohalla](https://open.spotify.com/artist/5XGMdl7ZEKx6q1WI3i3oWc) | [Amapola](https://open.spotify.com/album/2rRs2vFcgJkKr5nCatnKaR) | 3:06 | 2021-09-01 |  |
 | [Erase](https://open.spotify.com/track/7KlWOmJoyO4436M96CvVwe) | [Kap Bambino](https://open.spotify.com/artist/2EsL7l54h5MZm34uFVsRQi) | [Dust, Fierce, Forever](https://open.spotify.com/album/0RpVFEcebdZqFSCF3KIf0p) | 3:30 | 2022-04-08 |  |
 | [Estrellica](https://open.spotify.com/track/1uFsbYxgTWZZ5QdAEoVRmr) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [Estrellica](https://open.spotify.com/album/3uCeRLWnh6N5J8641dUj89) | 3:25 | 2022-11-24 |  |
-| [Faceless](https://open.spotify.com/track/5oSuNG9lPLcsu7OlW45jeV) | [Obsimo](https://open.spotify.com/artist/3zHiZOMFJFL3GjWwsmYEJy) | [Obsidienne](https://open.spotify.com/album/5VgQ8l8YD5LGes6eUpw04w) | 4:03 | 2022-11-24 |  |
+| [Faceless](https://open.spotify.com/track/35FXYk8DBNKqcUkeFnFhFf) | [Obsimo](https://open.spotify.com/artist/3zHiZOMFJFL3GjWwsmYEJy) | [Obsidienne](https://open.spotify.com/album/5eaRJz6UKreHULrtaTDmQ7) | 4:03 | 2022-11-24 |  |
+| [Faceless](https://open.spotify.com/track/5oSuNG9lPLcsu7OlW45jeV) | [Obsimo](https://open.spotify.com/artist/3zHiZOMFJFL3GjWwsmYEJy) | [Obsidienne](https://open.spotify.com/album/5VgQ8l8YD5LGes6eUpw04w) | 4:03 | 2022-11-24 | 2023-03-16 |
 | [Fading Away](https://open.spotify.com/track/1fsarPmsdYzQuEtgeqLusc) | [Adam Naas](https://open.spotify.com/artist/6UB2gLFLsQHjdKJneXvvEu) | [Adam Naas](https://open.spotify.com/album/28PjCecLIVQ2l2fEMth4LB) | 4:07 | 2021-09-01 |  |
 | [Fantasmas](https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:43 | 2021-09-01 |  |
 | [Feel More / With Less](https://open.spotify.com/track/2zDUCq8qmxMAMoMDH1PZ49) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Liela Moss](https://open.spotify.com/artist/69yCD4Jh0p9vCdm6WbhWx6), [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg), [Philip Sheppard](https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1) | [The Road: Part II / Lost Highway](https://open.spotify.com/album/5HnywhepRUiWBiBqJ7Xs5k) | 6:02 | 2021-09-01 |  |

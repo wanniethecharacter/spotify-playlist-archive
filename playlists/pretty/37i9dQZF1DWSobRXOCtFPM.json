@@ -1,12 +1,12 @@
 {
   "description": "Listen to  <a href=\"spotify:artist:19SmlbABtI4bXz864MLqOS\">Carl Cox</a>' favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 106362,
+  "num_followers": 106422,
   "original_name": "Carl Cox' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ1ODg5MSwwMDAwMDAwMGQ4MTM3NGNkMmU5YWY2ZWU1MWQwZTlmODQ0OWIwYWUy",
+  "snapshot_id": "MTY3ODQ1ODg5MSwwMDAwMDAwMGNmMWUxMWNmOTczZGQyZDEzNDkyM2YyM2Y1M2ZhMDkx",
   "tracks": [
     {
       "added_at": "2023-03-10 14:34:51",
@@ -55,8 +55,8 @@
     {
       "added_at": "2023-03-10 14:34:51",
       "album": {
-        "name": "Hanenda",
-        "url": "https://open.spotify.com/album/6c6wNHBXboXaj2vcURIyLa"
+        "name": "Hanenda - EP",
+        "url": "https://open.spotify.com/album/0wlfopjB4ZSHMriUb4DaCD"
       },
       "artists": [
         {
@@ -69,8 +69,8 @@
         }
       ],
       "duration_ms": 210883,
-      "name": "Hanenda (Will Clarke Remix)",
-      "url": "https://open.spotify.com/track/1htVW56DyJrH2uZMfNCw19"
+      "name": "Hanenda (Will Clarke Remix - Edit)",
+      "url": "https://open.spotify.com/track/6jikiaPQj8g6DRXevBj8jZ"
     },
     {
       "added_at": "2023-03-10 14:34:51",
@@ -139,8 +139,8 @@
     {
       "added_at": "2023-03-10 14:34:51",
       "album": {
-        "name": "Hanenda",
-        "url": "https://open.spotify.com/album/6c6wNHBXboXaj2vcURIyLa"
+        "name": "Hanenda - EP",
+        "url": "https://open.spotify.com/album/0wlfopjB4ZSHMriUb4DaCD"
       },
       "artists": [
         {
@@ -149,8 +149,8 @@
         }
       ],
       "duration_ms": 188160,
-      "name": "Hanenda",
-      "url": "https://open.spotify.com/track/2Eiw18v2R0vACwOFgTSG0w"
+      "name": "Hanenda (Edit)",
+      "url": "https://open.spotify.com/track/67lxN57G1EgiLOf7kjIhcL"
     },
     {
       "added_at": "2023-03-10 14:34:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Marco Mares
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,088 likes - 132 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,096 likes - 132 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

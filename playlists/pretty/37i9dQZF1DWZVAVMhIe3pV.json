@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 288196,
+  "num_followers": 288572,
   "original_name": "Energy Booster: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgyOTI0NSwwMDAwMDAwMDMwZGI3NWZlZTc3NzAzMjU0Njg4NDg4MTUxODYxMGQ5",
+  "snapshot_id": "MTY3ODgyOTI0NSwwMDAwMDAwMDExMmY1N2FhNGJmZWIzMDYzZDc1MDRmMTVjYWI1MGYw",
   "tracks": [
     {
       "added_at": "2023-03-14 21:27:25",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Out Of Our Heads",
-        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "(I Can't Get No) Satisfaction - Mono Version",
-      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 257826,
       "name": "Self Esteem",
       "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "Out Of Our Heads",
+        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 405600,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
         "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
         "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Blood Sugar Sex Magik (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 282906,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -747,22 +763,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Sharp Dressed Man - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "One-X",
         "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 159226,
       "name": "Buddy Holly",
       "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Sharp Dressed Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -827,22 +843,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 405600,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Trash",
-        "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 270080,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 214946,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "Trash",
+        "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 270080,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 317426,
-      "name": "Shoot to Thrill",
-      "url": "https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Everybody Wants",
         "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 187653,
       "name": "Could Have Been Me",
       "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 317426,
+      "name": "Shoot to Thrill",
+      "url": "https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Monkey Wrench",
-      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Infinity On High",
         "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 212040,
       "name": "This Ain't A Scene, It's An Arms Race",
       "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "Monkey Wrench",
+      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Dirt (2022 Remaster)",
-        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 374333,
-      "name": "Rooster (2022 Remaster)",
-      "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Karma and Effect",
         "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 224333,
       "name": "Gold on the Ceiling",
       "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "Dirt (2022 Remaster)",
+        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 374333,
+      "name": "Rooster (2022 Remaster)",
+      "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Sleepwalking",
-        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 187140,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Smashes Thrashes & Hits",
         "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 228560,
       "name": "Detroit Rock City",
       "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 187140,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
     },
     {
       "added_at": "2023-03-14 21:27:25",

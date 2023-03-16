@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 976168,
+  "num_followers": 976430,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODE5NDUxMiwwMDAwMDAwMDhjZTU5MmU0YzJjZWEzNDI3Y2M1YTU0YWZkMzNlMTNm",
+  "snapshot_id": "MTY3ODg2NjcxNiwwMDAwMDAwMDA0MTA2NGNhYWMzNzA2MzBkYTEwOTEwY2Y1MWU2NWNl",
   "tracks": [
     {
       "added_at": "2023-03-07 13:08:31",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "The Genius Of Ray Charles",
-        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7GiFhLj7OY98QpRwmlVUl8"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
         }
       ],
-      "duration_ms": 164666,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
+      "duration_ms": 211586,
+      "name": "In the Mood",
+      "url": "https://open.spotify.com/track/6dZKWYSx5YBIme4SfpIHJ0"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7GiFhLj7OY98QpRwmlVUl8"
+        "name": "The Genius Of Ray Charles",
+        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
       },
       "artists": [
         {
-          "name": "Glenn Miller",
-          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 211586,
-      "name": "In the Mood",
-      "url": "https://open.spotify.com/track/6dZKWYSx5YBIme4SfpIHJ0"
+      "duration_ms": 164666,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "That Face!",
-        "url": "https://open.spotify.com/album/0tTIug98cYd67md0Gtc5Iw"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra Jr.",
-          "url": "https://open.spotify.com/artist/5fElZYhQFp0lEc4FQVcRu1"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "What a Difference a Day Makes",
-      "url": "https://open.spotify.com/track/58NE4gmBGsJtXDFGo176HK"
-    },
-    {
-      "added_at": "2023-03-07 13:08:31",
-      "album": {
         "name": "Harlem On My Mind",
         "url": "https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 292288,
       "name": "Don't Take Your Love From Me",
       "url": "https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p"
+    },
+    {
+      "added_at": "2023-03-07 13:08:31",
+      "album": {
+        "name": "That Face!",
+        "url": "https://open.spotify.com/album/0tTIug98cYd67md0Gtc5Iw"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra Jr.",
+          "url": "https://open.spotify.com/artist/5fElZYhQFp0lEc4FQVcRu1"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "What a Difference a Day Makes",
+      "url": "https://open.spotify.com/track/58NE4gmBGsJtXDFGo176HK"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "Vaughan And Violins",
-        "url": "https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl"
+        "name": "B. G. In Hi Fi",
+        "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
         }
       ],
-      "duration_ms": 182640,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC"
+      "duration_ms": 195533,
+      "name": "Stompin At The Savoy",
+      "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "B. G. In Hi Fi",
-        "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
+        "name": "Vaughan And Violins",
+        "url": "https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl"
       },
       "artists": [
         {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 195533,
-      "name": "Stompin At The Savoy",
-      "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
+      "duration_ms": 182640,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "My One And Only Thrill",
-        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "Baby I'm A Fool",
-      "url": "https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr"
-    },
-    {
-      "added_at": "2023-03-07 13:08:31",
-      "album": {
         "name": "Unforgettable: With Love",
         "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 181093,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6vn1eEGBbV1V4g2KKokQYW"
+    },
+    {
+      "added_at": "2023-03-07 13:08:31",
+      "album": {
+        "name": "My One And Only Thrill",
+        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Baby I'm A Fool",
+      "url": "https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "I Belong To You",
-        "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
-      },
-      "artists": [
-        {
-          "name": "Emilia Mitiku",
-          "url": "https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2"
-        }
-      ],
-      "duration_ms": 196320,
-      "name": "I Belong to You",
-      "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
-    },
-    {
-      "added_at": "2023-03-07 13:08:31",
-      "album": {
         "name": "Jump For Joy",
         "url": "https://open.spotify.com/album/1FfJGpYVPvVx0OEPbMkVqz"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 133813,
       "name": "Ain't We Got Fun",
       "url": "https://open.spotify.com/track/1hqrv4RHtqRres6Szcibvv"
+    },
+    {
+      "added_at": "2023-03-07 13:08:31",
+      "album": {
+        "name": "I Belong To You",
+        "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
+      },
+      "artists": [
+        {
+          "name": "Emilia Mitiku",
+          "url": "https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2"
+        }
+      ],
+      "duration_ms": 196320,
+      "name": "I Belong to You",
+      "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -1127,6 +1127,38 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
+        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
+        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/0uqoRVmmU2WM9iDgQBf23R"
+    },
+    {
+      "added_at": "2023-03-07 13:08:31",
+      "album": {
+        "name": "As Time Goes By...The Great American Songbook: Volume II",
+        "url": "https://open.spotify.com/album/6YTypI5yRIIdixEV25ccgQ"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/1ia5QkdJp7qGwpoaX9Hgmj"
+    },
+    {
+      "added_at": "2023-03-07 13:08:31",
+      "album": {
         "name": "Only Trust Your Heart",
         "url": "https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC"
       },
@@ -1155,54 +1187,6 @@
       "duration_ms": 141640,
       "name": "Sweet Pea",
       "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
-    },
-    {
-      "added_at": "2023-03-07 13:08:31",
-      "album": {
-        "name": "As Time Goes By...The Great American Songbook: Volume II",
-        "url": "https://open.spotify.com/album/6YTypI5yRIIdixEV25ccgQ"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/1ia5QkdJp7qGwpoaX9Hgmj"
-    },
-    {
-      "added_at": "2023-03-07 13:08:31",
-      "album": {
-        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
-        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/0uqoRVmmU2WM9iDgQBf23R"
-    },
-    {
-      "added_at": "2023-03-07 13:08:31",
-      "album": {
-        "name": "Music For Torching",
-        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 243440,
-      "name": "It Had To Be You",
-      "url": "https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
+        "name": "Music For Torching",
+        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 243440,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf"
+    },
+    {
+      "added_at": "2023-03-07 13:08:31",
+      "album": {
         "name": "The Manhattan Transfer",
         "url": "https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx"
       },
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
+        "name": "The Best Of... The Great American Songbook",
+        "url": "https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Someone To Watch Over Me",
+      "url": "https://open.spotify.com/track/1JCfjUbHzl17ngrOEaS1R2"
+    },
+    {
+      "added_at": "2023-03-07 13:08:31",
+      "album": {
         "name": "Amore",
         "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 193386,
       "name": "Can't Take My Eyes Off You",
       "url": "https://open.spotify.com/track/1lLRi0LvCwKaKONxzoeJfj"
-    },
-    {
-      "added_at": "2023-03-07 13:08:31",
-      "album": {
-        "name": "The Best Of... The Great American Songbook",
-        "url": "https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Someone To Watch Over Me",
-      "url": "https://open.spotify.com/track/1JCfjUbHzl17ngrOEaS1R2"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "The Reprise Years",
-        "url": "https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG"
+        "name": "Fly Me To The Moon...The Great American Songbook Volume V",
+        "url": "https://open.spotify.com/album/1Qy7vORyImzsfU89puG4gV"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 185186,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9"
+      "duration_ms": 230466,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0uX23hwTV8jJYbb9Gejg9X"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "Fly Me To The Moon...The Great American Songbook Volume V",
-        "url": "https://open.spotify.com/album/1Qy7vORyImzsfU89puG4gV"
+        "name": "The Reprise Years",
+        "url": "https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 230466,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0uX23hwTV8jJYbb9Gejg9X"
+      "duration_ms": 185186,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "Your Songs",
-        "url": "https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd"
-    },
-    {
-      "added_at": "2023-03-07 13:08:31",
-      "album": {
         "name": "Like Someone In Love",
         "url": "https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 208133,
       "name": "There's A Lull In My Life",
       "url": "https://open.spotify.com/track/4Op0c1VSCGMsGX47Mh8wj8"
+    },
+    {
+      "added_at": "2023-03-07 13:08:31",
+      "album": {
+        "name": "Your Songs",
+        "url": "https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd"
     },
     {
       "added_at": "2023-03-07 13:08:31",

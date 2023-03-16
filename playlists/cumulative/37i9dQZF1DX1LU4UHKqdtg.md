@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Kep1er
 
-519 songs - 1 day 4 hr 39 min
+520 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Hai Cheng](https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Hai Cheng](https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb) | 3:52 | 2022-03-18 | 2022-05-27 |
 | [Hair Cut](https://open.spotify.com/track/4ZYSJfjSuR1XqcUPaTxjuG) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Overload](https://open.spotify.com/album/76XckkqatimbtN2NspL4N5) | 3:25 | 2022-11-10 | 2023-01-18 |
 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2022-12-29 |  |
+| [HANA MICHI](https://open.spotify.com/track/6Ype063HsGKF7AholzHRFh) | [Kim Hyun Joong](https://open.spotify.com/artist/0rB9P2J3OkobNezpTBcXqE) | [HANA MICHI](https://open.spotify.com/album/4rHAamZcFkv1pnv2FHKua4) | 3:44 | 2023-03-14 |  |
 | [Happy Death Day](https://open.spotify.com/track/6IU2u7AKUffdmcbYPK9YR1) | [Xdinary Heroes](https://open.spotify.com/artist/5FgP85u2BR2WFWhMz959es) | [Happy Death Day](https://open.spotify.com/album/3sQhbas4eoH7l38Uy0ZJ3z) | 3:40 | 2021-12-23 | 2022-02-16 |
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-06-28 | 2022-09-21 |
 | [Heartbreak](https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Heartbreak](https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y) | 3:24 | 2021-12-23 | 2022-02-16 |
@@ -524,7 +525,7 @@
 | [時を駆けて](https://open.spotify.com/track/5rLb9sJEfvEMcWTVhEIZwG) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Blooming](https://open.spotify.com/album/59WPwlL2LisK1iTOEZ5rkf) | 3:30 | 2022-03-29 | 2022-05-11 |
 | [燎](https://open.spotify.com/track/41LHZWfjfQPvSN0s8HFHje) | [苏芮琪](https://open.spotify.com/artist/62oYdsAy450XtCfdIrV9Bl) | [燎](https://open.spotify.com/album/63o1ESQxSCE4Bs8dqBTrur) | 3:13 | 2021-12-23 | 2022-02-05 |
 | [病](https://open.spotify.com/track/16Dklj36BXIa9bY1ZgP7DK) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO \(JP EDITION\)](https://open.spotify.com/album/1ITJ3AY63eEUnMxZTV735E) | 3:24 | 2022-11-29 | 2023-02-22 |
-| [花路](https://open.spotify.com/track/0B2xB2XuQlN7jMpbsDHYUb) | [Kim Hyun Joong](https://open.spotify.com/artist/0rB9P2J3OkobNezpTBcXqE) | [花路](https://open.spotify.com/album/4G5aqy3YbX5zaVXP0LgzZ6) | 3:44 | 2023-03-14 |  |
+| [花路](https://open.spotify.com/track/0B2xB2XuQlN7jMpbsDHYUb) | [Kim Hyun Joong](https://open.spotify.com/artist/0rB9P2J3OkobNezpTBcXqE) | [花路](https://open.spotify.com/album/4G5aqy3YbX5zaVXP0LgzZ6) | 3:44 | 2023-03-14 | 2023-03-16 |
 | [酒 \(JIU\)](https://open.spotify.com/track/7iWEo1YPXrWELXh4pD9S6w) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [酒 \(JIU\)](https://open.spotify.com/album/78Yo8PKLNKJsVuqFQylA9l) | 3:06 | 2022-04-07 | 2022-06-11 |
 | [鱗\(うろこ\)](https://open.spotify.com/track/6mveYt3qyAnjLUxdhVd8gG) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [鱗\(うろこ\)](https://open.spotify.com/album/4fdFOYbuQJrQgUMLGLiqE0) | 5:17 | 2022-05-24 | 2022-07-21 |
 

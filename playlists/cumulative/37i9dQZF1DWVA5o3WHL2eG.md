@@ -4,7 +4,7 @@
 
 > Co\-curated by CATT\. Learn more in our playlist clips!
 
-776 songs - 1 day 16 hr 57 min
+777 songs - 1 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,8 +677,9 @@
 | [Toxic](https://open.spotify.com/track/4GIsIMkEvyLLlsqrTVpkGH) | [HAVET](https://open.spotify.com/artist/0Ppjh3TEy1VYLQoyKmIxaD) | [Toxic](https://open.spotify.com/album/6ixkDI2gLa23HxH41GodvN) | 2:36 | 2022-08-02 | 2022-09-07 |
 | [Tracksuit Velours](https://open.spotify.com/track/7zOsUnRGpQBAWNPLdYa0fE) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Tracksuit Velours](https://open.spotify.com/album/4JUe83xyCwP4TIiYBFu2Wc) | 2:30 | 2022-07-05 | 2022-08-03 |
 | [TRADE](https://open.spotify.com/track/5uu5sFyGia3nZjC6WClmtn) | [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [TRADE](https://open.spotify.com/album/4q3zUHMIWeMqRq4Wwrbym4) | 3:07 | 2022-11-07 | 2022-12-01 |
-| [TRAUM](https://open.spotify.com/track/3P8DLhbZLrQDP7oXG6mBzp) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [LIZ TAYLOR EP](https://open.spotify.com/album/7FEnEhO3UiyEwnLnLQ5eA0) | 2:12 | 2023-03-06 |  |
+| [TRAUM](https://open.spotify.com/track/3P8DLhbZLrQDP7oXG6mBzp) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [LIZ TAYLOR EP](https://open.spotify.com/album/7FEnEhO3UiyEwnLnLQ5eA0) | 2:12 | 2023-03-06 | 2023-03-16 |
 | [TRAUM](https://open.spotify.com/track/4DuzhtyeZ7SaKwzunko5lK) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [TRAUM](https://open.spotify.com/album/0xXmLAbDru3u0VgNUzywpu) | 2:12 | 2023-02-28 | 2023-03-15 |
+| [TRAUM](https://open.spotify.com/track/6TUJs76PxY3geuAHoJSvF4) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [TRAUM](https://open.spotify.com/album/3dW70AYuaeZVJkwmfiQl6i) | 2:12 | 2023-03-06 |  |
 | [Treibsand](https://open.spotify.com/track/4mYtuI2XNDvlryIHR2TBTg) | [Yecca](https://open.spotify.com/artist/0ypMouAPYgghSqlAwwOebe) | [Treibsand](https://open.spotify.com/album/73kZMN7ugg604lU8Fdioew) | 2:07 | 2022-04-05 | 2022-05-04 |
 | [Trick By Trick](https://open.spotify.com/track/1RjEEBbM9Lf4G4sRYFMeXE) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Trick By Trick](https://open.spotify.com/album/3qfR8Ml0NhRcu2eQm2EScO) | 2:48 | 2021-12-21 | 2022-01-05 |
 | [tristesse](https://open.spotify.com/track/1m5CNvawNLaWC5YBWF0sXQ) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [tristesse](https://open.spotify.com/album/6POvDmme72sKHApHzRqyzS) | 3:00 | 2023-02-28 |  |

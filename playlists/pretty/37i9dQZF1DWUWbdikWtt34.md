@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Sridevi DA5, Eby DA5, Afan DA5
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,210 likes - 64 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,281 likes - 64 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 14 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 |
 | 15 | [Perlahan](https://open.spotify.com/track/01TdkJ0lorIzBsdks8X1Tb) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Perlahan](https://open.spotify.com/album/13KPnJMze6Ndt2u2KgSrtG) | 5:00 |
 | 16 | [Ku Puja Puja](https://open.spotify.com/track/13p3Fu1HTCPsUXQ8JGxVEz) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Ku Puja Puja](https://open.spotify.com/album/7xH7H47nIFy8825YlQPeTv) | 4:55 |
-| 17 | [Widodari](https://open.spotify.com/track/6NboFmEGgwlzpVG7dFfJUV) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Guyon Waton](https://open.spotify.com/artist/1RvWutp1Mzoo49lZw3sHzw) | [Widodari](https://open.spotify.com/album/43jrtZTMIedkZMxTpfWCxa) | 4:56 |
+| 17 | [Widodari](https://open.spotify.com/track/6NboFmEGgwlzpVG7dFfJUV) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Widodari](https://open.spotify.com/album/43jrtZTMIedkZMxTpfWCxa) | 4:56 |
 | 18 | [LDR \( layang dungo restu \)](https://open.spotify.com/track/0tcEJ791a3aF6pTusqkJep) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [LDR \( layang dungo restu \)](https://open.spotify.com/album/4e5KcsAGBMNwbfuDBspCRe) | 5:29 |
 | 19 | [Terbuai Cinta Palsu \- Live Ska Reggae](https://open.spotify.com/track/3zb04SuRpCGf9U45hcaDdZ) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Terbuai Cinta Palsu \(Live Ska Reggae\)](https://open.spotify.com/album/0WznoxDQEe7I64PQTKsswJ) | 4:58 |
 | 20 | [Satu Hati Sampai Mati](https://open.spotify.com/track/5L51wafs3f9Kd9rWSSoK3k) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Satu Hati Sampai Mati](https://open.spotify.com/album/0NdTR19Y6d5yS3eTRjnoEz) | 3:49 |

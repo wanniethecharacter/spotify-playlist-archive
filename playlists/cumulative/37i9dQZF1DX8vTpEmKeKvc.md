@@ -4,7 +4,7 @@
 
 > Dale duro con los éxitos perreadores virales del momento.
 
-117 songs - 6 hr 25 min
+118 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Prrrum](https://open.spotify.com/track/23YEpFgAVvr0w3cDm7EQ1Q) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [El Principe \(Ghost Edition\)](https://open.spotify.com/album/2xewTv2y5yrMwA36X2Vxzs) | 3:58 | 2022-01-04 | 2022-07-29 |
 | [Prrrum](https://open.spotify.com/track/774Vy9sPhpePjj0B7WHaG2) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [El Príncipe \[Ghost Edition\]](https://open.spotify.com/album/6A6eSLDcS2r7qT9ZFYSJlL) | 3:58 | 2022-05-06 |  |
 | [PSL](https://open.spotify.com/track/6o4Gciys1ZIOQ2kDGnvKdm) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 2:55 | 2022-01-04 |  |
+| [Puta Rara, Puta Dominicana](https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [marceu inovadora](https://open.spotify.com/artist/2LfXtJH9QZUqz0mawPsBY7) | [Puta Rara, Puta Dominicana](https://open.spotify.com/album/2xqmPcHXQztVVlb3hoFRmB) | 2:20 | 2023-03-15 |  |
 | [Que a Pasao](https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Que a Pasao](https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo) | 2:05 | 2022-01-04 | 2022-02-26 |
 | [Que Va](https://open.spotify.com/track/6J1R5wtPXiHiwiPstOSI56) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Que Va](https://open.spotify.com/album/1mt3ZuNrHnd6gtRJhSy7Fn) | 3:58 | 2022-01-04 |  |
 | [Qué Más Pues?](https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Qué Más Pues?](https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK) | 3:37 | 2022-01-04 |  |

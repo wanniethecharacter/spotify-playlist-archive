@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Chances",
       "url": "https://open.spotify.com/track/0ApqDSCbOWRSGh7gEFy2kv"
@@ -2713,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "Fiume",
+        "url": "https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140124,
+      "name": "Fiume",
+      "url": "https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA"
+    },
+    {
+      "album": {
         "name": "Flashing lights",
         "url": "https://open.spotify.com/album/6fFieao3USpz413NdKe9Or"
       },
@@ -2908,7 +2926,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 209124,
       "name": "Franklin",
       "url": "https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg"
@@ -5108,7 +5126,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 140667,
       "name": "Lucidity",
       "url": "https://open.spotify.com/track/4yqiWdxiO7wqyrFbCCIflZ"
@@ -5144,7 +5162,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 163152,
       "name": "Lure",
       "url": "https://open.spotify.com/track/77JZMOwuyKnDpzBAQwwrhh"
@@ -5828,7 +5846,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 136250,
       "name": "M\u00e8re bien-aim\u00e9e",
       "url": "https://open.spotify.com/track/4iUW2jCsr1jofP9GQGuXPh"
@@ -5972,7 +5990,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 137874,
       "name": "Never Unsaid",
       "url": "https://open.spotify.com/track/1zG58ldyABiNx05Brxkktd"
@@ -9108,7 +9126,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 185738,
       "name": "Together We Succeed",
       "url": "https://open.spotify.com/track/3U7aMdZAjOkcmZ4nUKQqZJ"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1iiODxaiVpBp522dalIe9V.md) - [plain]
 
 ### [Don't Mess With Texas](https://open.spotify.com/playlist/1iiODxaiVpBp522dalIe9V)
 
-> Hip hop heat from the Lone Star State featuring Megan Thee Stallion, Sauce Walka, Don Toliver, Travis Scott, Sunnitharapper, TrapboyDre10k, LilCJ Kasino, Sosamann, Peso Peso.
+> Hip hop heat from the Lone Star State featuring Sauce Walka, Asian Doll, Don Toliver, Travis Scott, TrapboyDre10k, LilCJ Kasino, Sosamann, Peso Peso.
 
-[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,491 likes - 75 songs - 3 hr 36 min
+[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,490 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/1iiODxaiVpBp522dalIe9V.md) - [plain]
 | 74 | [Opera](https://open.spotify.com/track/3v746lpBRy6JXcEGmgTips) | [Big Jump](https://open.spotify.com/artist/3I1JRtdstCvvB0gXW20jkY), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [The Great Ape](https://open.spotify.com/album/3nOrMwZPqpGrUYzW2iTbGl) | 3:04 |
 | 75 | [In\-N\-Out](https://open.spotify.com/track/36J8uq05XAAfKSw0VmJ12N) | [Sauce Gohan](https://open.spotify.com/artist/05tdr8wxoalGhDOMx38FhL), [Duce5](https://open.spotify.com/artist/6VDWGH2jT0VwCKuVl6joLG) | [In\-N\-Out](https://open.spotify.com/album/2e8ihBtzbGoPjyhjdNVIHb) | 2:02 |
 
-Snapshot ID: `NDQ1OCw2ODdjMDk1ZDQ4MGE4YTc3MDE5MDg2YjgwZmI2OTQzZWNlMTU2MzZi`
+Snapshot ID: `NDQ1OSw1NmYzYWZmZmIwYzM1YWZlMTEzN2NiMmEwMTFiMzhjNjlmN2QxZGRj`

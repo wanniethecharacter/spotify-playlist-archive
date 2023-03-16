@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-214 songs - 11 hr 48 min
+215 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Cheater \(Original\)](https://open.spotify.com/track/0dhSUoBbHS34DsO2zexW89) | [Alex Diab](https://open.spotify.com/artist/3RKRICpUG70f1MN4J1hhxX) | [Cheater \(Original\)](https://open.spotify.com/album/4X41xqxzdWmUJqm2ITEAkL) | 2:33 | 2022-05-17 | 2022-08-09 |
 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 | 2022-05-17 | 2022-07-14 |
 | [Choke](https://open.spotify.com/track/37mfTcSlX60JtAvAETytGs) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Choke](https://open.spotify.com/album/2KwVOjuUAYp2qtdBcFDfCn) | 3:15 | 2022-05-17 | 2023-01-28 |
+| [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2023-03-15 |  |
 | [Cicada Days](https://open.spotify.com/track/2s3SwhbFhymLPDm4GGhDKl) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Cicada Days](https://open.spotify.com/album/7rN0PYbcQ7quewRhtqvLGK) | 4:10 | 2022-06-03 | 2022-10-12 |
 | [Coffee](https://open.spotify.com/track/2zmo93xTzKTP0lztR9iy9H) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Shop: A Pop Opera](https://open.spotify.com/album/1PzQlma9FcRRGwMDmJIUyX) | 0:58 | 2023-01-18 |  |
 | [cold weather](https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the first glass beach album](https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq) | 2:18 | 2022-07-07 | 2023-01-14 |
@@ -134,7 +135,7 @@
 | [LOVE](https://open.spotify.com/track/5bDO9izGDQj7bdaSgxEBGQ) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [LOVE](https://open.spotify.com/album/6JumRmPGOfqn16ilEmi9Ht) | 2:52 | 2022-11-16 |  |
 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 | 2022-09-02 | 2022-12-10 |
 | [Love of My Life](https://open.spotify.com/track/1NqfSrgNQxrsSVjza5vO9a) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Public Displays of Affection](https://open.spotify.com/album/1WaRQUZdZNe5BYyOxLFenk) | 2:55 | 2023-01-20 | 2023-02-04 |
-| [Love of My Life](https://open.spotify.com/track/7c8wJ1DIFvM9e7bHIpgP7a) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Public Displays of Affection](https://open.spotify.com/album/12yCH8wFhPPW0cUCFpC8DQ) | 2:55 | 2023-01-27 |  |
+| [Love of My Life](https://open.spotify.com/track/7c8wJ1DIFvM9e7bHIpgP7a) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Public Displays of Affection](https://open.spotify.com/album/12yCH8wFhPPW0cUCFpC8DQ) | 2:55 | 2023-01-27 | 2023-03-16 |
 | [Loveology](https://open.spotify.com/track/3hhU5HJkLOTSTdEWkXMvYS) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Loveology](https://open.spotify.com/album/0Y3VeIqUxmsZ5Tr5mwawTa) | 5:16 | 2022-06-10 | 2022-06-25 |
 | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/track/0jG7SgyIpQa0ZFBjB8fFDh) | [Madylin Gilbert](https://open.spotify.com/artist/4Ul5nI6dNwODUPY8lufzk2) | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/album/659uFsMnMpBCnAqiGre77y) | 2:01 | 2023-03-07 | 2023-03-10 |
 | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/track/70gFbSkpt8Yj4DhToyXzpG) | [Madylin Gilbert](https://open.spotify.com/artist/4Ul5nI6dNwODUPY8lufzk2) | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/album/55uW1iNFxaYXYq3dIw8Blx) | 2:01 | 2023-03-07 |  |

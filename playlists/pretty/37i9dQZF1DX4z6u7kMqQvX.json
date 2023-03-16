@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 97586,
+  "num_followers": 97634,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODcxNjY5OCwwMDAwMDAwMDQ0N2IyZmY3NzJiYzFlMjA3NWViZDQyNGQxNDA2NDhk",
+  "snapshot_id": "MTY3ODcxNjY5OCwwMDAwMDAwMDIwYzFmZWY5ODQxNGE1ODhiOWM0ZDBkZTM0ZTRlYzY1",
   "tracks": [
     {
       "added_at": "2023-03-03 03:00:00",
@@ -559,22 +559,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "INFINITO",
-        "url": "https://open.spotify.com/album/3PC4MT0segdFElRt70lMH8"
+        "name": "Cabildo y Juramento",
+        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
       },
       "artists": [
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        },
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 185432,
-      "name": "INFINITO",
-      "url": "https://open.spotify.com/track/6R36OoRubqAoD81wSDx3YZ"
+      "duration_ms": 340920,
+      "name": "Cosas para Decirte",
+      "url": "https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -595,34 +591,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Cabildo y Juramento",
-        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
+        "name": "INFINITO",
+        "url": "https://open.spotify.com/album/3PC4MT0segdFElRt70lMH8"
       },
       "artists": [
         {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 340920,
-      "name": "Cosas para Decirte",
-      "url": "https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Aparato",
-        "url": "https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP"
-      },
-      "artists": [
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
         {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 212574,
-      "name": "Aparato",
-      "url": "https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV"
+      "duration_ms": 185432,
+      "name": "INFINITO",
+      "url": "https://open.spotify.com/track/6R36OoRubqAoD81wSDx3YZ"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -667,6 +651,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "Aparato",
+        "url": "https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 212574,
+      "name": "Aparato",
+      "url": "https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "Ni\u00f1o Eterno",
         "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
       },
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "La Mexicana - Single",
+        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 206738,
+      "name": "La Mexicana",
+      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "La Danza del Espacio Tiempo",
         "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 192026,
       "name": "Si Fueras Lluvia",
       "url": "https://open.spotify.com/track/2N3LPVCuyWN0A5uodq95RN"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "La Mexicana - Single",
-        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 206738,
-      "name": "La Mexicana",
-      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Cerca de Ti",
-        "url": "https://open.spotify.com/album/0F4Mcth9SWbVG0E6RvNyem"
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo"
       },
       "artists": [
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
         }
       ],
-      "duration_ms": 157849,
-      "name": "Cerca de Ti",
-      "url": "https://open.spotify.com/track/6GvnbcWUY93ck0EO00enpm"
+      "duration_ms": 122456,
+      "name": "Por Amor al Arte",
+      "url": "https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -855,22 +855,6 @@
       "duration_ms": 225264,
       "name": "Desnuda",
       "url": "https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Reset",
-        "url": "https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo"
-      },
-      "artists": [
-        {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
-        }
-      ],
-      "duration_ms": 122456,
-      "name": "Por Amor al Arte",
-      "url": "https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -907,6 +891,22 @@
       "duration_ms": 204775,
       "name": "D\u00e9jame Dejarte Atr\u00e1s",
       "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Cerca de Ti",
+        "url": "https://open.spotify.com/album/0F4Mcth9SWbVG0E6RvNyem"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 157849,
+      "name": "Cerca de Ti",
+      "url": "https://open.spotify.com/track/6GvnbcWUY93ck0EO00enpm"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Ah\u00ed Ah\u00ed",
-        "url": "https://open.spotify.com/album/7dr2zU98W3hvgR81Hm02dY"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "Ah\u00ed Ah\u00ed",
-      "url": "https://open.spotify.com/track/6m02i6JyJz15hw8jOqu3Cz"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Antibi\u00f3ticx",
         "url": "https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 255750,
       "name": "Amor Amor",
       "url": "https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Ah\u00ed Ah\u00ed",
+        "url": "https://open.spotify.com/album/7dr2zU98W3hvgR81Hm02dY"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "Ah\u00ed Ah\u00ed",
+      "url": "https://open.spotify.com/track/6m02i6JyJz15hw8jOqu3Cz"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM"
-      },
-      "artists": [
-        {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 184736,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 216771,
       "name": "Inteligencia Emocional",
       "url": "https://open.spotify.com/track/2xCkOU6IDhwkOIcHO8wNNa"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 184736,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "T\u00fa Me Llevas",
-        "url": "https://open.spotify.com/album/1rR3l0T9K43s6FDWYyLCtG"
-      },
-      "artists": [
-        {
-          "name": "MO\u00dcGLI",
-          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
-        }
-      ],
-      "duration_ms": 263650,
-      "name": "T\u00fa Me Llevas",
-      "url": "https://open.spotify.com/track/10OxrfJXZjNcWlbqvmxYs5"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "No Te Quedes Solo",
         "url": "https://open.spotify.com/album/2vpOJ0lq92uxDcTLoamm5U"
       },
@@ -1379,22 +1363,6 @@
       "duration_ms": 210611,
       "name": "No Te Quedes Solo",
       "url": "https://open.spotify.com/track/3Uaos9qJCxhbdUMrbq9NJP"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Ruli",
-        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Desde Que Te Vi",
-      "url": "https://open.spotify.com/track/5H3mXg5URgTVwHxbx0MX35"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1419,18 +1387,34 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "nu love",
-        "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
+        "name": "T\u00fa Me Llevas",
+        "url": "https://open.spotify.com/album/1rR3l0T9K43s6FDWYyLCtG"
       },
       "artists": [
         {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
         }
       ],
-      "duration_ms": 209513,
-      "name": "nu love",
-      "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
+      "duration_ms": 263650,
+      "name": "T\u00fa Me Llevas",
+      "url": "https://open.spotify.com/track/10OxrfJXZjNcWlbqvmxYs5"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Ruli",
+        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Desde Que Te Vi",
+      "url": "https://open.spotify.com/track/5H3mXg5URgTVwHxbx0MX35"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1447,6 +1431,22 @@
       "duration_ms": 213105,
       "name": "Fuimos",
       "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "nu love",
+        "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 209513,
+      "name": "nu love",
+      "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "Ya ni mis amigos me contestan",
+        "url": "https://open.spotify.com/album/4cRlAWKFa1WSqZ2JDcvP8b"
+      },
+      "artists": [
+        {
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "Ya ni mis amigos me contestan",
+      "url": "https://open.spotify.com/track/0P9nPSZTrFXB5vvVBqEC6n"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Ya ni mis amigos me contestan",
-        "url": "https://open.spotify.com/album/4cRlAWKFa1WSqZ2JDcvP8b"
-      },
-      "artists": [
-        {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "Ya ni mis amigos me contestan",
-      "url": "https://open.spotify.com/track/0P9nPSZTrFXB5vvVBqEC6n"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Amante",
         "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 231154,
       "name": "Amante",
       "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Tuami",
-        "url": "https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k"
-      },
-      "artists": [
-        {
-          "name": "Soy Emilia",
-          "url": "https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Tuami",
-      "url": "https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1591,6 +1575,22 @@
       "duration_ms": 181930,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/574OhLjdADffJIg7wZojF6"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Tuami",
+        "url": "https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k"
+      },
+      "artists": [
+        {
+          "name": "Soy Emilia",
+          "url": "https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Tuami",
+      "url": "https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Romancero",
-        "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
-      },
-      "artists": [
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "9.6",
-      "url": "https://open.spotify.com/track/0JYCsZMO4tR6eq3H7bpg65"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
       },
@@ -1659,22 +1643,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Sin m\u00ed :(",
-        "url": "https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4"
+        "name": "Romancero",
+        "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
       },
       "artists": [
         {
-          "name": "PADAWVN",
-          "url": "https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE"
-        },
-        {
-          "name": "Ussi",
-          "url": "https://open.spotify.com/artist/7LttRGU0XWmv7IbukE57sF"
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
         }
       ],
-      "duration_ms": 227274,
-      "name": "Sin m\u00ed :(",
-      "url": "https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf"
+      "duration_ms": 185640,
+      "name": "9.6",
+      "url": "https://open.spotify.com/track/0JYCsZMO4tR6eq3H7bpg65"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1711,6 +1691,26 @@
       "duration_ms": 151619,
       "name": "Estamos Bajo el Agua",
       "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Sin m\u00ed :(",
+        "url": "https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4"
+      },
+      "artists": [
+        {
+          "name": "PADAWVN",
+          "url": "https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE"
+        },
+        {
+          "name": "Ussi",
+          "url": "https://open.spotify.com/artist/7LttRGU0XWmv7IbukE57sF"
+        }
+      ],
+      "duration_ms": 227274,
+      "name": "Sin m\u00ed :(",
+      "url": "https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf"
     },
     {
       "added_at": "2023-03-03 03:00:00",

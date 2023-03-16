@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 66079,
+  "num_followers": 66081,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDA4M2EzZGUxNGYyODQyZTAwN2Q4NDlkMTQ2NmRjYWMx",
+  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDk5YTA0ZTJhZDMyYTVjMDRlMzM3YjM1ODhlN2U1NzYy",
   "tracks": [
     {
       "added_at": "2023-03-02 23:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Garalaowit",
-        "url": "https://open.spotify.com/album/1yEJRvVMeJD40BXtIUl0Me"
-      },
-      "artists": [
-        {
-          "name": "Labyrint",
-          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
-        }
-      ],
-      "duration_ms": 242533,
-      "name": "Fakkin fin",
-      "url": "https://open.spotify.com/track/02qoqHv29LQCBw1mymxlY5"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Naiv",
         "url": "https://open.spotify.com/album/4nMAjfGIkpekF8vKQbxjzB"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 176186,
       "name": "Naiv",
       "url": "https://open.spotify.com/track/5qFctlq6LI01bQYQmqWaje"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Garalaowit",
+        "url": "https://open.spotify.com/album/1yEJRvVMeJD40BXtIUl0Me"
+      },
+      "artists": [
+        {
+          "name": "Labyrint",
+          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        }
+      ],
+      "duration_ms": 242533,
+      "name": "Fakkin fin",
+      "url": "https://open.spotify.com/track/02qoqHv29LQCBw1mymxlY5"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Pang Pang",
+        "url": "https://open.spotify.com/album/7xkDczPwYypYljYKRKZTjW"
+      },
+      "artists": [
+        {
+          "name": "Labyrint",
+          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        }
+      ],
+      "duration_ms": 245052,
+      "name": "Pang Pang",
+      "url": "https://open.spotify.com/track/3xW8Zh2zLhuDpkUtSlwaBt"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "Hela Livet",
         "url": "https://open.spotify.com/album/3ObxkdT65iK1fa2t5X7a8N"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 224551,
       "name": "N\u00e5n Annan (feat. Jacco)",
       "url": "https://open.spotify.com/track/0FDF7UebxnxtLZwJIsbnbB"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Pang Pang",
-        "url": "https://open.spotify.com/album/7xkDczPwYypYljYKRKZTjW"
-      },
-      "artists": [
-        {
-          "name": "Labyrint",
-          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
-        }
-      ],
-      "duration_ms": 245052,
-      "name": "Pang Pang",
-      "url": "https://open.spotify.com/track/3xW8Zh2zLhuDpkUtSlwaBt"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -599,8 +599,8 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "S\u00e4g Som Det \u00c4r",
-        "url": "https://open.spotify.com/album/4UZeUwiN9Crlr62yJRFxdJ"
+        "name": "Blacka Rasta",
+        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
         }
       ],
-      "duration_ms": 215852,
-      "name": "S\u00e4g Som Det \u00c4r",
-      "url": "https://open.spotify.com/track/3c4CLJau8lIF6ruSsuxHqU"
+      "duration_ms": 211573,
+      "name": "Sm\u00e5 svarta \u00e4nglar",
+      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -655,18 +655,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Reggaestrerad",
-        "url": "https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG"
+        "name": "Folkets R\u00f6st",
+        "url": "https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw"
       },
       "artists": [
         {
           "name": "General Knas",
           "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+        },
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 223122,
-      "name": "Dunya",
-      "url": "https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i"
+      "duration_ms": 193908,
+      "name": "Enda V\u00e4gen Fram",
+      "url": "https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -707,8 +711,8 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Blacka Rasta",
-        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
+        "name": "S\u00e4g Som Det \u00c4r",
+        "url": "https://open.spotify.com/album/4UZeUwiN9Crlr62yJRFxdJ"
       },
       "artists": [
         {
@@ -716,9 +720,9 @@
           "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
         }
       ],
-      "duration_ms": 211573,
-      "name": "Sm\u00e5 svarta \u00e4nglar",
-      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
+      "duration_ms": 215852,
+      "name": "S\u00e4g Som Det \u00c4r",
+      "url": "https://open.spotify.com/track/3c4CLJau8lIF6ruSsuxHqU"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -835,22 +839,18 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Folkets R\u00f6st",
-        "url": "https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw"
+        "name": "Reggaestrerad",
+        "url": "https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG"
       },
       "artists": [
         {
           "name": "General Knas",
           "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        },
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 193908,
-      "name": "Enda V\u00e4gen Fram",
-      "url": "https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g"
+      "duration_ms": 223122,
+      "name": "Dunya",
+      "url": "https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i"
     },
     {
       "added_at": "2023-03-02 23:00:00",

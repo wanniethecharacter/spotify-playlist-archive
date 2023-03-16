@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,668 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,681 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 41 | [Winnetka](https://open.spotify.com/track/6ST2jppp8qDidqw8iK1txv) | [Joaquin Alejandro](https://open.spotify.com/artist/7iuafbXpI94G92U4vfoH4m) | [Winnetka](https://open.spotify.com/album/0pjkOfoN9u4XkEQAUc9OR5) | 2:12 |
 | 42 | [Al Latin](https://open.spotify.com/track/0eoyBmi8Zrg9clYB9P4ZXO) | [Diego Amador](https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT), [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7), [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Río de los Canasteros](https://open.spotify.com/album/2KRIZ6ZIvuALWTnEGGCPZy) | 9:08 |
 | 43 | [Palabras De Mujer\-Hojas Secas](https://open.spotify.com/track/6mBClBGac5YzqnVuXe37EN) | [Piano Magico](https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6) | [Boleros Inolvidables, Vol\. 1](https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O) | 2:23 |
-| 44 | [How Insensitive](https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE) | [Petra Britton](https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2) | [Ev'rything I Love](https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh) | 2:18 |
-| 45 | [God Bless The Child](https://open.spotify.com/track/3YOXIat0EGuZ626MHh4WsU) | [Erica Smith Trio](https://open.spotify.com/artist/4wa2jF1Hfx1JtfzCn89RyI) | [Starlight EP](https://open.spotify.com/album/7m8ZtTAwuo43kLK41EsZ31) | 4:50 |
-| 46 | [Ponce: Balada Mexicana](https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Daniela Liebman](https://open.spotify.com/artist/7MQNyVvd2ZSOEqPNlSgAJ3) | [Daniela Liebman](https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl) | 6:58 |
-| 47 | [One Note Samba](https://open.spotify.com/track/5faeLcLFmircGhMFbzUzL7) | [Joe Harnell His Piano And Orchestra](https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM) | [Fly Me to the Moon and the Bossa Nova Pops](https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm) | 2:52 |
+| 44 | [One Note Samba](https://open.spotify.com/track/5faeLcLFmircGhMFbzUzL7) | [Joe Harnell His Piano And Orchestra](https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM) | [Fly Me to the Moon and the Bossa Nova Pops](https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm) | 2:52 |
+| 45 | [Ponce: Balada Mexicana](https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Daniela Liebman](https://open.spotify.com/artist/7MQNyVvd2ZSOEqPNlSgAJ3) | [Daniela Liebman](https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl) | 6:58 |
+| 46 | [How Insensitive](https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE) | [Petra Britton](https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2) | [Ev'rything I Love](https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh) | 2:18 |
+| 47 | [God Bless The Child](https://open.spotify.com/track/3YOXIat0EGuZ626MHh4WsU) | [Erica Smith Trio](https://open.spotify.com/artist/4wa2jF1Hfx1JtfzCn89RyI) | [Starlight EP](https://open.spotify.com/album/7m8ZtTAwuo43kLK41EsZ31) | 4:50 |
 | 48 | [Señor Danzon](https://open.spotify.com/track/6SnkcY42LeTZouiKNw8IsZ) | [Guy Barker](https://open.spotify.com/artist/4YokJY1Jtyc55KBPtzmljG), [Bernardo Sassetti](https://open.spotify.com/artist/7zRQh7uzMB0kDd1VwJNsUf) | [Cuba Cuba](https://open.spotify.com/album/40i0UpNxAtRaHYpRHJn7xX) | 3:28 |
 | 49 | [La mariposa](https://open.spotify.com/track/7hnHIeg2UVBYmxkvhmaOts) | [Carmín Aponte](https://open.spotify.com/artist/0xh9QyZHWTadoIZx6A20h9) | [La mariposa](https://open.spotify.com/album/7L1I2d8HsB8J9RmphxKlUj) | 2:14 |
 | 50 | [Mambo Cantabile](https://open.spotify.com/track/2gAj421uW6j8YYXlfmoEu4) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Havana All\-Stars](https://open.spotify.com/artist/0nBotB1mcxkmT0PRFLNLTf) | [Descarga Caliente](https://open.spotify.com/album/0KJoSsENtZqiYu0oJvfqgy) | 2:35 |
 
-Snapshot ID: `MTYxMDk4NTQzNSwwMDAwMDAwMDM0NzMxMDRlZGQ0NmFmOTViMWVmZDQ4YTEwODU5N2Ri`
+Snapshot ID: `MTYxMDk4NTQzNSwwMDAwMDAwMDljZTQ5YTI2YjM4YmM4MTczYmIxYjYzYTcwMDVmZDI0`

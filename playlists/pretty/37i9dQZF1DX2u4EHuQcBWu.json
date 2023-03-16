@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 166654,
+  "num_followers": 166717,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1NzY1NCwwMDAwMDAwMDBiMjVlMmM4ODBhYzQyZDhiNjc2YWI5ZDliODc4YWU0",
+  "snapshot_id": "MTY3MTE1NzY1NCwwMDAwMDAwMDZjMmI1M2UxMjIyNGYyNTExYjM0ZjI5YzY3MjJkZmE5",
   "tracks": [
     {
       "added_at": "2021-09-24 14:38:22",
@@ -467,22 +467,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Desenchufado",
-        "url": "https://open.spotify.com/album/3W3DmtCc6eaMAliyd4PmTI"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        }
-      ],
-      "duration_ms": 248466,
-      "name": "S\u00f3lo Le Pido A Dios",
-      "url": "https://open.spotify.com/track/5XxFB1oX6QvX5hrWESHIa5"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Cuba Classics 1: Silvio Rodriguez",
         "url": "https://open.spotify.com/album/1sAt8XDVQbndid4MxNgTJD"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 351400,
       "name": "La Maza",
       "url": "https://open.spotify.com/track/2a1x7Ln27cNtsgtL26mdwi"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Desenchufado",
+        "url": "https://open.spotify.com/album/3W3DmtCc6eaMAliyd4PmTI"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 248466,
+      "name": "S\u00f3lo Le Pido A Dios",
+      "url": "https://open.spotify.com/track/5XxFB1oX6QvX5hrWESHIa5"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -671,6 +671,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "M\u00fasica Libre",
+        "url": "https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 197386,
+      "name": "Santiago De Chile",
+      "url": "https://open.spotify.com/track/3D4iziSjHi4jxG8r4pta7z"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 294266,
       "name": "Fijate Bien",
       "url": "https://open.spotify.com/track/3wE4fvPhhScUAhY37TDc1D"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "M\u00fasica Libre",
-        "url": "https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "Santiago De Chile",
-      "url": "https://open.spotify.com/track/3D4iziSjHi4jxG8r4pta7z"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -791,6 +791,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Adicto al Rock N Roll",
+        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
+      },
+      "artists": [
+        {
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+        }
+      ],
+      "duration_ms": 121706,
+      "name": "Abuso de Autoridad",
+      "url": "https://open.spotify.com/track/2YOz9ahfbrr93hvnBDTySd"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Canci\u00f3n Sin Miedo",
         "url": "https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 213000,
       "name": "Canci\u00f3n Sin Miedo",
       "url": "https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Adicto al Rock N Roll",
-        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 121706,
-      "name": "Abuso de Autoridad",
-      "url": "https://open.spotify.com/track/2YOz9ahfbrr93hvnBDTySd"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "M\u00e1s Poder",
-        "url": "https://open.spotify.com/album/6q5z4VFO2RvUcFs7v7msYN"
+        "name": "Escribo Rap Con R De Revolucion",
+        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
       },
       "artists": [
         {
-          "name": "La Sarita",
-          "url": "https://open.spotify.com/artist/4FclbIRVpHDYM9RaQpQHCR"
+          "name": "Portavoz",
+          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
         }
       ],
-      "duration_ms": 255600,
-      "name": "M\u00e1s Poder",
-      "url": "https://open.spotify.com/track/3oF7I6xfM2ALb4rJ6d3mTt"
+      "duration_ms": 268467,
+      "name": "Al Pueblo Le Asusta La Revolucio\u0301n",
+      "url": "https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Escribo Rap Con R De Revolucion",
-        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
-      },
-      "artists": [
-        {
-          "name": "Portavoz",
-          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
-        }
-      ],
-      "duration_ms": 268467,
-      "name": "Al Pueblo Le Asusta La Revolucio\u0301n",
-      "url": "https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Aerolineas Makiza",
         "url": "https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "La Nueva Cancion Chilena, Vol. 1",
-        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+        "name": "M\u00e1s Poder",
+        "url": "https://open.spotify.com/album/6q5z4VFO2RvUcFs7v7msYN"
       },
       "artists": [
         {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+          "name": "La Sarita",
+          "url": "https://open.spotify.com/artist/4FclbIRVpHDYM9RaQpQHCR"
         }
       ],
-      "duration_ms": 279333,
-      "name": "La Muralla",
-      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
+      "duration_ms": 255600,
+      "name": "M\u00e1s Poder",
+      "url": "https://open.spotify.com/track/3oF7I6xfM2ALb4rJ6d3mTt"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1203,6 +1187,22 @@
       "duration_ms": 222432,
       "name": "Millones",
       "url": "https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "La Nueva Cancion Chilena, Vol. 1",
+        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "La Muralla",
+      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Los Dinosaurios - Live",
-      "url": "https://open.spotify.com/track/0BWhmRyHvBLMcEJDAos2PD"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Antifa Dance",
         "url": "https://open.spotify.com/album/5Ex8ADFhgsJVFkI5eHeQq1"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 155689,
       "name": "Antifa Dance",
       "url": "https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Los Dinosaurios - Live",
+      "url": "https://open.spotify.com/track/0BWhmRyHvBLMcEJDAos2PD"
     },
     {
       "added_at": "2022-07-15 04:43:21",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "Cordillera",
+      "url": "https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Buscando Chilenos Vol. 1",
         "url": "https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 284693,
       "name": "Cancion Pacifico-Violenta",
       "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Buscando America",
-        "url": "https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 483360,
-      "name": "El Padre Antonio - Y El Monaguillo Andres",
-      "url": "https://open.spotify.com/track/2iyffU4KcLybIIn7MvkiuH"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN"
+        "name": "Buscando America",
+        "url": "https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 262533,
-      "name": "Cordillera",
-      "url": "https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5"
+      "duration_ms": 483360,
+      "name": "El Padre Antonio - Y El Monaguillo Andres",
+      "url": "https://open.spotify.com/track/2iyffU4KcLybIIn7MvkiuH"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Guayabo",
-        "url": "https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW"
-      },
-      "artists": [
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-        }
-      ],
-      "duration_ms": 152052,
-      "name": "Guayabo",
-      "url": "https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Homonimo",
         "url": "https://open.spotify.com/album/45SyOhvUtpGhEkYvdN1YWr"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 226355,
       "name": "Ni\u00f1x",
       "url": "https://open.spotify.com/track/2sKurE9yCmgFfdP4vW0rgy"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Guayabo",
+        "url": "https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW"
+      },
+      "artists": [
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 152052,
+      "name": "Guayabo",
+      "url": "https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/5b2XzjVplTXsJLBLaxx0Np"
     },
     {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "His Great Songs",
-        "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
-    },
-    {
       "added_at": "2022-09-26 22:09:52",
       "album": {
         "name": "Abrazo",
@@ -1639,6 +1623,22 @@
       "duration_ms": 242306,
       "name": "Se Me Ocurre",
       "url": "https://open.spotify.com/track/2D153hv0xak4aPbNqNBq89"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "His Great Songs",
+        "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1659,22 +1659,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Un Le\u00f3n D-Mente",
-        "url": "https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz"
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        },
-        {
-          "name": "D-Mente",
-          "url": "https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7"
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 346946,
-      "name": "La Memoria",
-      "url": "https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ"
+      "duration_ms": 183640,
+      "name": "La Maldici\u00f3n de Mi Pa\u00eds",
+      "url": "https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1699,22 +1695,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Ellas",
-        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
+        "name": "Un Le\u00f3n D-Mente",
+        "url": "https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz"
       },
       "artists": [
         {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
         },
         {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+          "name": "D-Mente",
+          "url": "https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7"
         }
       ],
-      "duration_ms": 284413,
-      "name": "Ellas",
-      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
+      "duration_ms": 346946,
+      "name": "La Memoria",
+      "url": "https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1731,6 +1727,26 @@
       "duration_ms": 210746,
       "name": "El Club de la Resistencia",
       "url": "https://open.spotify.com/track/4r1iDL65vPJBdPtKiBVOS2"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Ellas",
+        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "Ellas",
+      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1783,22 +1799,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "La Velocidad de la Luz",
-        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "La Maldici\u00f3n de Mi Pa\u00eds",
-      "url": "https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Formas para Perderse o I.D.E.A.S",
         "url": "https://open.spotify.com/album/4BPphO6cUdSLxYXefZSd0R"
       },
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Quememos el Reino",
-        "url": "https://open.spotify.com/album/3L4Ud38y1Kf5cUjlKbAvAR"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 267520,
-      "name": "Quememos el Reino",
-      "url": "https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Almadura",
         "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 195810,
       "name": "Odio",
       "url": "https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Quememos el Reino",
+        "url": "https://open.spotify.com/album/3L4Ud38y1Kf5cUjlKbAvAR"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 267520,
+      "name": "Quememos el Reino",
+      "url": "https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

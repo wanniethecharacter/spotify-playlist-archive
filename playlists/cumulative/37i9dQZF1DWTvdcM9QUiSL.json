@@ -148,10 +148,28 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 273000,
       "name": "Locco - Mixed",
       "url": "https://open.spotify.com/track/2JrWvGyKrwJRIKeE7SAdeh"
+    },
+    {
+      "album": {
+        "name": "Locco (Mixed)",
+        "url": "https://open.spotify.com/album/1UlCEh0dPMrhTL2W4wIqht"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Locco - Mixed",
+      "url": "https://open.spotify.com/track/3fAHqzKqMor06KW7sLq090"
     },
     {
       "album": {

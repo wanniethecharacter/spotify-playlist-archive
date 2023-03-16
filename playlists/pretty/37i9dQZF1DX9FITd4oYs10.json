@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 15508,
+  "num_followers": 15527,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMGI1OTFkOTdkYjhiZWViZGU3ODFmMWY2YjljMWE3N2M4",
+  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMGQ2NTU1YzI2ZGNjZTc2YjdhMGUxMzM1ZjllNjNmYjJh",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -323,26 +323,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Podium",
-        "url": "https://open.spotify.com/album/35tu4rgJcxboWonRqgSkk6"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Sorrisos (feat. Lourena)",
-      "url": "https://open.spotify.com/track/4S3zWMCOGI5k61u78QTGWR"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Heresia",
         "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 223892,
       "name": "O Mundo \u00e9 Nosso",
       "url": "https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Podium",
+        "url": "https://open.spotify.com/album/35tu4rgJcxboWonRqgSkk6"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Sorrisos (feat. Lourena)",
+      "url": "https://open.spotify.com/track/4S3zWMCOGI5k61u78QTGWR"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -547,42 +547,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Irm\u00e3o Dqbrada!",
-        "url": "https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc"
-      },
-      "artists": [
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        },
-        {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
-        }
-      ],
-      "duration_ms": 360559,
-      "name": "Irm\u00e3o DQbrada!",
-      "url": "https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Com os Neur\u00f4nios Evoluidos",
-        "url": "https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z"
-      },
-      "artists": [
-        {
-          "name": "ConeCrewDiretoria",
-          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
-        }
-      ],
-      "duration_ms": 353532,
-      "name": "Chama os Mulekes",
-      "url": "https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "NU",
         "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
       },
@@ -603,6 +567,42 @@
       "duration_ms": 193799,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Com os Neur\u00f4nios Evoluidos",
+        "url": "https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z"
+      },
+      "artists": [
+        {
+          "name": "ConeCrewDiretoria",
+          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
+        }
+      ],
+      "duration_ms": 353532,
+      "name": "Chama os Mulekes",
+      "url": "https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Irm\u00e3o Dqbrada!",
+        "url": "https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc"
+      },
+      "artists": [
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        }
+      ],
+      "duration_ms": 360559,
+      "name": "Irm\u00e3o DQbrada!",
+      "url": "https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Estilo Coyote",
+        "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
+      },
+      "artists": [
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        }
+      ],
+      "duration_ms": 174211,
+      "name": "Estilo Coyote",
+      "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Bicho de 7 Cabe\u00e7as / a Culpa \u00c9 das Igrejas",
         "url": "https://open.spotify.com/album/6hdyWMkuMjjm7txPp7qScS"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 282033,
       "name": "Bicho de 7 Cabe\u00e7as / A Culpa \u00c9 das Igrejas",
       "url": "https://open.spotify.com/track/4eeGpiaBPnOwD9fT6fBDcE"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Estilo Coyote",
-        "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
-      },
-      "artists": [
-        {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
-        }
-      ],
-      "duration_ms": 174211,
-      "name": "Estilo Coyote",
-      "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -895,6 +895,42 @@
       "duration_ms": 159730,
       "name": "Rosas e Rimas",
       "url": "https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "A Divina Com\u00e9dia",
+        "url": "https://open.spotify.com/album/7z0Urrb0oyXZIglsBlREud"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Zeus",
+          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
+        },
+        {
+          "name": "Gigante No Mic",
+          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
+        },
+        {
+          "name": "Nocivo Shomon",
+          "url": "https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "duration_ms": 320744,
+      "name": "A Divina Com\u00e9dia",
+      "url": "https://open.spotify.com/track/1j9jCO7zGkxuAOJTTZpHiL"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -979,42 +1015,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "A Divina Com\u00e9dia",
-        "url": "https://open.spotify.com/album/7z0Urrb0oyXZIglsBlREud"
-      },
-      "artists": [
-        {
-          "name": "Fabio Brazza",
-          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
-        },
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "Zeus",
-          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
-        },
-        {
-          "name": "Gigante No Mic",
-          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
-        },
-        {
-          "name": "Nocivo Shomon",
-          "url": "https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        }
-      ],
-      "duration_ms": 320744,
-      "name": "A Divina Com\u00e9dia",
-      "url": "https://open.spotify.com/track/1j9jCO7zGkxuAOJTTZpHiL"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Wallpaper",
         "url": "https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V"
       },
@@ -1091,38 +1091,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Poesia Ac\u00fastica Ep. Acabou",
-        "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Poesia Ac\u00fastica Ep. Acabou",
-      "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Fuga",
         "url": "https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost"
       },
@@ -1187,6 +1155,66 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "The Cypher Deffect 2",
+        "url": "https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb"
+      },
+      "artists": [
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        },
+        {
+          "name": "Spinardi",
+          "url": "https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle"
+        },
+        {
+          "name": "Chayco",
+          "url": "https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk"
+        }
+      ],
+      "duration_ms": 335907,
+      "name": "The Cypher Deffect 2",
+      "url": "https://open.spotify.com/track/6GYrNXsWoprEndJCoKLfAB"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Poesia Ac\u00fastica Ep. Acabou",
+        "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Poesia Ac\u00fastica Ep. Acabou",
+      "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y"
       },
@@ -1215,34 +1243,6 @@
       "duration_ms": 186666,
       "name": "Dior",
       "url": "https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "The Cypher Deffect 2",
-        "url": "https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb"
-      },
-      "artists": [
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        },
-        {
-          "name": "Kant",
-          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
-        },
-        {
-          "name": "Spinardi",
-          "url": "https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle"
-        },
-        {
-          "name": "Chayco",
-          "url": "https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk"
-        }
-      ],
-      "duration_ms": 335907,
-      "name": "The Cypher Deffect 2",
-      "url": "https://open.spotify.com/track/6GYrNXsWoprEndJCoKLfAB"
     },
     {
       "added_at": "2023-03-10 03:01:00",

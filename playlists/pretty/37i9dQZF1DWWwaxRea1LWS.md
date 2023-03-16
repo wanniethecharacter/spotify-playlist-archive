@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Peace, love, and <a href="https://open.spotify.com/playlist/37i9dQZF1DWV6eSE3mpQ1p?si=35a1b145aa204b08">hippie vibes</a> on \#SpotifyTBT Cover: Stevie Nicks
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,188,117 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,188,384 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

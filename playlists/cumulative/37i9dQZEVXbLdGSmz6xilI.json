@@ -466,7 +466,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 192768,
       "name": "Ai M\u1edbi L\u00e0 K\u1ebb X\u1ea5u Xa",
       "url": "https://open.spotify.com/track/6GUGn0yUS6PvyYIXOoaT4j"
@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-15",
+      "date_removed": null,
       "duration_ms": 256663,
       "name": "Ch\u1ebft Trong Em",
       "url": "https://open.spotify.com/track/1dUmmBh2nw8XzEI3au0uFs"
@@ -2858,10 +2858,6 @@
         {
           "name": "MONSTAR",
           "url": "https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8"
-        },
-        {
-          "name": "GREY-D",
-          "url": "https://open.spotify.com/artist/1DkeVIjKLcyWBdV47p2ogo"
         }
       ],
       "date_added": "2021-08-14",
@@ -3114,7 +3110,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 225668,
       "name": "Daechwita",
       "url": "https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy"
@@ -3269,6 +3265,28 @@
     },
     {
       "album": {
+        "name": "Starboy (Deluxe)",
+        "url": "https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232857,
+      "name": "Die For You (with Ariana Grande) - Remix",
+      "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
+    },
+    {
+      "album": {
         "name": "Die For You (Remix)",
         "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
       },
@@ -3284,7 +3302,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 232857,
       "name": "Die For You - Remix",
       "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
@@ -9520,7 +9538,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 151011,
       "name": "Promise",
       "url": "https://open.spotify.com/track/2RUcwyW74Sv4VracHFrKdh"
@@ -10562,6 +10580,28 @@
       "duration_ms": 92791,
       "name": "Skit: Soulmate",
       "url": "https://open.spotify.com/track/0hukH4ZKPofZVmfTcEnLHN"
+    },
+    {
+      "album": {
+        "name": "Episode1 : Love",
+        "url": "https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD"
+      },
+      "artists": [
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242200,
+      "name": "Smoke Sprite (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa"
     },
     {
       "album": {
@@ -12366,7 +12406,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"

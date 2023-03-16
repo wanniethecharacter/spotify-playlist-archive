@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. Foto: Cartel de Santa",
-  "num_followers": 130109,
+  "num_followers": 130425,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMDBiN2VmNGI1ZDkwOGJjZWYxMzFhMDQ4NTc5NDAxZGVi",
+  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMDBlMTA4MDg0ZDJlYTMyN2FhMmQxNWIxMTFkN2I0MWM0",
   "tracks": [
     {
       "added_at": "2021-11-16 20:18:05",
@@ -571,18 +571,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Proyecto Akwid",
-        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
+        "name": "Ren\u00e9",
+        "url": "https://open.spotify.com/album/0RYd37TdvWxCBo9u5BNgJ3"
       },
       "artists": [
         {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
         }
       ],
-      "duration_ms": 243466,
-      "name": "No Hay Manera",
-      "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
+      "duration_ms": 457591,
+      "name": "Ren\u00e9",
+      "url": "https://open.spotify.com/track/6gm12xlADJwiBbHIKBXzGW"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -627,18 +627,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Ren\u00e9",
-        "url": "https://open.spotify.com/album/0RYd37TdvWxCBo9u5BNgJ3"
+        "name": "Proyecto Akwid",
+        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
       },
       "artists": [
         {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
         }
       ],
-      "duration_ms": 457591,
-      "name": "Ren\u00e9",
-      "url": "https://open.spotify.com/track/6gm12xlADJwiBbHIKBXzGW"
+      "duration_ms": 243466,
+      "name": "No Hay Manera",
+      "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -675,6 +675,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/2rmhl1gQux3WGPJA77FgRN"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 182831,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1EljzqiV1RDtXj1QUbx3db"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "C.R.O - Rock",
         "url": "https://open.spotify.com/album/6vOPEgatfAYa5TSq2PaCNu"
       },
@@ -691,18 +707,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/2rmhl1gQux3WGPJA77FgRN"
+        "name": "Super Jon-Z (Residente Challenge)",
+        "url": "https://open.spotify.com/album/1BgkC6yXnfmAhJdnCwE7vs"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
         }
       ],
-      "duration_ms": 182831,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1EljzqiV1RDtXj1QUbx3db"
+      "duration_ms": 487011,
+      "name": "Super Jon-Z (Residente Challenge)",
+      "url": "https://open.spotify.com/track/2LzpOIEFP862EHojyakCS6"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -755,22 +771,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Super Jon-Z (Residente Challenge)",
-        "url": "https://open.spotify.com/album/1BgkC6yXnfmAhJdnCwE7vs"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        }
-      ],
-      "duration_ms": 487011,
-      "name": "Super Jon-Z (Residente Challenge)",
-      "url": "https://open.spotify.com/track/2LzpOIEFP862EHojyakCS6"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
       },
@@ -807,26 +807,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Sin Culpa (feat. DrefQuila)",
-        "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 244771,
-      "name": "Sin Culpa (feat.DrefQuila)",
-      "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Ella Es una G",
         "url": "https://open.spotify.com/album/0LZvdr6kQETllHmCgnmzIh"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 216916,
       "name": "Ella Es una G",
       "url": "https://open.spotify.com/track/0auXrMuY60r1lfRozhloTk"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Sin Culpa (feat. DrefQuila)",
+        "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 244771,
+      "name": "Sin Culpa (feat.DrefQuila)",
+      "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Rolemos Otro",
-        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 194828,
-      "name": "Rolemos Otro",
-      "url": "https://open.spotify.com/track/75WXBeClIQQl6ql1nZbDF5"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Love & Money",
         "url": "https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 245333,
       "name": "Desahogo",
       "url": "https://open.spotify.com/track/2sG0DhUyomwiWk5gcMUV7Z"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Rolemos Otro",
+        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 194828,
+      "name": "Rolemos Otro",
+      "url": "https://open.spotify.com/track/75WXBeClIQQl6ql1nZbDF5"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1339,6 +1339,34 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "El C\u00edrculo (Versi\u00f3n Exclusiva de Spotify)",
+        "url": "https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs"
+      },
+      "artists": [
+        {
+          "name": "Kase.O",
+          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
+        },
+        {
+          "name": "Hermano L",
+          "url": "https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1"
+        },
+        {
+          "name": "Shabu One Shant",
+          "url": "https://open.spotify.com/artist/0ntfzFCIx4KqKi3znNENz6"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "duration_ms": 271733,
+      "name": "Pavos Reales (con Hermano L, Shabu One Shant y Mcklopedia)",
+      "url": "https://open.spotify.com/track/4HVYBeELSvhfGmWwFoZr4p"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Nunca Imagin\u00e9",
         "url": "https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf"
       },
@@ -1379,46 +1407,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "El C\u00edrculo (Versi\u00f3n Exclusiva de Spotify)",
-        "url": "https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs"
+        "name": "Vivir para Contarlo",
+        "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
       },
       "artists": [
         {
-          "name": "Kase.O",
-          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
-        },
-        {
-          "name": "Hermano L",
-          "url": "https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1"
-        },
-        {
-          "name": "Shabu One Shant",
-          "url": "https://open.spotify.com/artist/0ntfzFCIx4KqKi3znNENz6"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
         }
       ],
-      "duration_ms": 271733,
-      "name": "Pavos Reales (con Hermano L, Shabu One Shant y Mcklopedia)",
-      "url": "https://open.spotify.com/track/4HVYBeELSvhfGmWwFoZr4p"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Esperanza",
-        "url": "https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg"
-      },
-      "artists": [
-        {
-          "name": "Bardero$",
-          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
-        }
-      ],
-      "duration_ms": 176773,
-      "name": "Esperanza",
-      "url": "https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc"
+      "duration_ms": 332853,
+      "name": "Cantando",
+      "url": "https://open.spotify.com/track/5AIwfXYjGkWCs4KeeTk2Rq"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Vivir para Contarlo",
-        "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg"
       },
       "artists": [
         {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
         }
       ],
-      "duration_ms": 332853,
-      "name": "Cantando",
-      "url": "https://open.spotify.com/track/5AIwfXYjGkWCs4KeeTk2Rq"
+      "duration_ms": 176773,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 170981,
+      "name": "ANIMAL",
+      "url": "https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
       },
@@ -1519,26 +1539,6 @@
       "duration_ms": 228097,
       "name": "G.P.S. - con Aleman",
       "url": "https://open.spotify.com/track/03e3pnRddWmYOVQlzs3Qnb"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "ANIMAL",
-        "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
-      },
-      "artists": [
-        {
-          "name": "ACRU",
-          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
-        },
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 170981,
-      "name": "ANIMAL",
-      "url": "https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Vicios y Virtudes",
+        "url": "https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY"
+      },
+      "artists": [
+        {
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+        }
+      ],
+      "duration_ms": 269160,
+      "name": "Ninguna Chavala Tiene Due\u00f1o - Porque Ella Me Lo Dijo",
+      "url": "https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Donde Jugaran Las Ni\u00f1as",
         "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 309606,
       "name": "Amor Libre",
       "url": "https://open.spotify.com/track/1PT0H11VO2JSWjsCPR0CBd"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Vicios y Virtudes",
-        "url": "https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY"
-      },
-      "artists": [
-        {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
-        }
-      ],
-      "duration_ms": 269160,
-      "name": "Ninguna Chavala Tiene Due\u00f1o - Porque Ella Me Lo Dijo",
-      "url": "https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1675,6 +1675,22 @@
       "duration_ms": 205255,
       "name": "No Copio",
       "url": "https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Vivir para Contarlo",
+        "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
+      },
+      "artists": [
+        {
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+        }
+      ],
+      "duration_ms": 374853,
+      "name": "Pura Droga Sin Cortar",
+      "url": "https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1743,18 +1759,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Vivir para Contarlo",
-        "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
+        "name": "Ozmlstayl",
+        "url": "https://open.spotify.com/album/2gCfdIhyW4Sr2TYWUy2Rkc"
       },
       "artists": [
         {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+          "name": "Morodo",
+          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
+        },
+        {
+          "name": "Souchi",
+          "url": "https://open.spotify.com/artist/21MQrtr5N5sHLPKK47awzG"
         }
       ],
-      "duration_ms": 374853,
-      "name": "Pura Droga Sin Cortar",
-      "url": "https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i"
+      "duration_ms": 248600,
+      "name": "Babilonia",
+      "url": "https://open.spotify.com/track/6A3zrZTU4pe9oqDZgwajA0"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1803,26 +1823,6 @@
       "duration_ms": 276120,
       "name": "Efectos Vocales",
       "url": "https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Ozmlstayl",
-        "url": "https://open.spotify.com/album/2gCfdIhyW4Sr2TYWUy2Rkc"
-      },
-      "artists": [
-        {
-          "name": "Morodo",
-          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
-        },
-        {
-          "name": "Souchi",
-          "url": "https://open.spotify.com/artist/21MQrtr5N5sHLPKK47awzG"
-        }
-      ],
-      "duration_ms": 248600,
-      "name": "Babilonia",
-      "url": "https://open.spotify.com/track/6A3zrZTU4pe9oqDZgwajA0"
     },
     {
       "added_at": "2021-11-16 20:18:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,676 likes - 55 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,737 likes - 55 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 22 | [Fingers of Steel](https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Fingers of Steel](https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y) | 4:21 |
 | 23 | [Down in the Basement](https://open.spotify.com/track/6EjGLBBBuEkjQniYBeDN7E) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:36 |
 | 24 | [Back To The Radio](https://open.spotify.com/track/0hHOIVyywNzkoh1v6RWFb3) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Waterslide, Diving Board, Ladder To The Sky](https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5) | 3:07 |
-| 25 | [Book](https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Audio Drag for Ego Slobs](https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3) | 2:00 |
-| 26 | [Magic of Meghan](https://open.spotify.com/track/7K8SzKEkWzuvK9JU4W6va6) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sweet Princess EP](https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR) | 3:50 |
+| 25 | [Magic of Meghan](https://open.spotify.com/track/7K8SzKEkWzuvK9JU4W6va6) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sweet Princess EP](https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR) | 3:50 |
+| 26 | [Book](https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Audio Drag for Ego Slobs](https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3) | 2:00 |
 | 27 | [wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C) | [Steintor Herrenchor](https://open.spotify.com/artist/70OwN96zJa61uhBIPdKgFO), [diggidaniel](https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw) | [wollte nie](https://open.spotify.com/album/1HB7QOEie88WSdXl0BAVlO) | 3:15 |
 | 28 | [Nite Expo](https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Orc](https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd) | 2:57 |
 | 29 | [Beautiful Blue Sky](https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx) | [Ought](https://open.spotify.com/artist/2VhVBXSB8n2KxuzKVZNxTY) | [Sun Coming Down](https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD) | 7:43 |
@@ -51,17 +51,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 41 | [Adore](https://open.spotify.com/track/3z9sAf9ptrSLpyRWR4jRiX) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Adore Life](https://open.spotify.com/album/2UutOV48eYbIPB6keWOqoP) | 5:03 |
 | 42 | [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 |
 | 43 | [Pour Another](https://open.spotify.com/track/5BvpTVOBtKADtK5LAOgX4g) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:20 |
-| 44 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 |
+| 44 | [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 |
 | 45 | [Big](https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R) | 1:45 |
 | 46 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
-| 47 | [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 |
+| 47 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 |
 | 48 | [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/31BcuNn55HiyGfZNumnzgO) | 3:43 |
-| 49 | [Crossing Guard](https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Crossing Guard](https://open.spotify.com/album/3kKS6RMfZJ8TMZJz8cTIxn) | 4:44 |
-| 50 | [Avoidarama](https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 2:58 |
-| 51 | [Pamphlets](https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 8:03 |
-| 52 | [Song About Love](https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Song About Love](https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq) | 3:42 |
-| 53 | [Goodnight](https://open.spotify.com/track/6EMxqMzbCNZHQn1jeiav6q) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sweet Princess EP](https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR) | 2:37 |
-| 54 | [Hunger for a Way Out](https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Hunger for a Way Out](https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm) | 2:21 |
+| 49 | [Avoidarama](https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 2:58 |
+| 50 | [Pamphlets](https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 8:03 |
+| 51 | [Song About Love](https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Song About Love](https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq) | 3:42 |
+| 52 | [Crossing Guard](https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Crossing Guard](https://open.spotify.com/album/3kKS6RMfZJ8TMZJz8cTIxn) | 4:44 |
+| 53 | [Hunger for a Way Out](https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Hunger for a Way Out](https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm) | 2:21 |
+| 54 | [Goodnight](https://open.spotify.com/track/6EMxqMzbCNZHQn1jeiav6q) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sweet Princess EP](https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR) | 2:37 |
 | 55 | [Broke](https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw) | [Scott Lavene](https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n) | [Broke](https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY) | 8:01 |
 
-Snapshot ID: `MTY3Nzc2NjY4MCwwMDAwMDAwMGVlZDUxMDAyYTMyMWU2NmZhOGI4OWQxZGNhM2M5ZjA3`
+Snapshot ID: `MTY3Nzc2NjY4MCwwMDAwMDAwMGExNGYyM2NiMmE2ZDYzYTc3ODA4Y2NlNDFjZGFiM2Q0`

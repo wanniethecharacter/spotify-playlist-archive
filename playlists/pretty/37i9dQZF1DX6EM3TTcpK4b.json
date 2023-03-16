@@ -1,12 +1,12 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Javier Sol\u00eds",
-  "num_followers": 214598,
+  "num_followers": 214895,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MTU3MywwMDAwMDAwMDNhMTliNzBhYzU0MDJiODdlOTgwMDdmNTcyMzA2Njhh",
+  "snapshot_id": "MTY2MTk2MTU3MywwMDAwMDAwMDYyOWM1YTAyMjI1OGM5YTA2MzRmNjBhNTRkOWFmNzFh",
   "tracks": [
     {
       "added_at": "2022-08-31 15:59:33",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "15 \u00c9xitazos",
         "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 114369,
       "name": "Me Sacaron Del Tenampa",
       "url": "https://open.spotify.com/track/6f4jjw4xqdX00zqaJ141PZ"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Los Boleros Morunos Solis",
-        "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "Esclavo y Amo",
-      "url": "https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "\u00a1M\u00c9XICO Por Siempre!",
         "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 204533,
       "name": "Llamarada",
       "url": "https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "Los Boleros Morunos Solis",
+        "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Esclavo y Amo",
+      "url": "https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -759,18 +759,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Por Una Mujer Bonita",
-        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
+        "name": "\u00a1M\u00c9XICO Por Siempre!",
+        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 211773,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
+      "duration_ms": 184626,
+      "name": "Soy lo prohibido",
+      "url": "https://open.spotify.com/track/3zceb1fYe5jdwEmuGvJINO"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
+        "name": "Por Una Mujer Bonita",
+        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 184626,
-      "name": "Soy lo prohibido",
-      "url": "https://open.spotify.com/track/3zceb1fYe5jdwEmuGvJINO"
+      "duration_ms": 211773,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
-        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
+        "name": "15 \u00c9xitazos",
+        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
       },
       "artists": [
         {
-          "name": "Gerardo Reyes",
-          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
         }
       ],
-      "duration_ms": 176520,
-      "name": "Sin Fortuna",
-      "url": "https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O"
+      "duration_ms": 169761,
+      "name": "Me Ca\u00ed De La Nube",
+      "url": "https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -855,18 +855,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Por Una Mujer Bonita",
-        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
+        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
+        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Gerardo Reyes",
+          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
         }
       ],
-      "duration_ms": 164720,
-      "name": "Por Una Mujer Bonita",
-      "url": "https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79"
+      "duration_ms": 176520,
+      "name": "Sin Fortuna",
+      "url": "https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "15 \u00c9xitazos",
-        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
+        "name": "Por Una Mujer Bonita",
+        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
       },
       "artists": [
         {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 169761,
-      "name": "Me Ca\u00ed De La Nube",
-      "url": "https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC"
+      "duration_ms": 164720,
+      "name": "Por Una Mujer Bonita",
+      "url": "https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -951,8 +951,8 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Yo Vendo Unos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
+        "name": "Orgullo Ranchero",
+        "url": "https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Prefiero Partir",
-      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
+      "duration_ms": 218440,
+      "name": "Ebrio De Amor",
+      "url": "https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1063,8 +1063,8 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Orgullo Ranchero",
-        "url": "https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni"
+        "name": "Yo Vendo Unos Ojos Verdes",
+        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
       },
       "artists": [
         {
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
         }
       ],
-      "duration_ms": 218440,
-      "name": "Ebrio De Amor",
-      "url": "https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3"
+      "duration_ms": 197400,
+      "name": "Prefiero Partir",
+      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
     },
     {
       "added_at": "2022-08-31 15:59:33",

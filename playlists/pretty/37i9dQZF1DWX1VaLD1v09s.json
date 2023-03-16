@@ -1,12 +1,12 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 73322,
+  "num_followers": 73320,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5OTY5OSwwMDAwMDAwMGUwNTE0NTlmN2Q5MmFjMTcwNGEwYWY0NjdjN2VkZjVh",
+  "snapshot_id": "MTY3NjY5OTY5OSwwMDAwMDAwMGVkYWNlMDgxYjAxMzIxN2YxYjgxY2NjODc2YTBiN2Mx",
   "tracks": [
     {
       "added_at": "2023-02-18 05:54:59",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Great Are You Lord EP",
-        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
-      },
-      "artists": [
-        {
-          "name": "one sonic society",
-          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
-        }
-      ],
-      "duration_ms": 232379,
-      "name": "Great Are You Lord",
-      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
         "name": "No Other Name (Deluxe Edition/Live)",
         "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 568786,
       "name": "Broken Vessels (Amazing Grace) - Live",
       "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
+        "name": "Great Are You Lord EP",
+        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
+      },
+      "artists": [
+        {
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
+        }
+      ],
+      "duration_ms": 232379,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
+        "name": "You Deliver Me",
+        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "How Deep The Father's Love For Us",
+      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
         "name": "Restart",
         "url": "https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 235226,
       "name": "Come Alive (Dry Bones)",
       "url": "https://open.spotify.com/track/0cc2WXV2i8Jl3LhPKlZho1"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
-        "name": "You Deliver Me",
-        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "How Deep The Father's Love For Us",
-      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
+        "name": "Inheritance",
+        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        },
+        {
+          "name": "Fernando Ortega",
+          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+        }
+      ],
+      "duration_ms": 157337,
+      "name": "Oh, the Deep, Deep Love of Jesus (feat. Fernando Ortega)",
+      "url": "https://open.spotify.com/track/0h5C31CdrgABjHATYcBq6e"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -1391,22 +1411,18 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Inheritance",
-        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
       },
       "artists": [
         {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        },
-        {
-          "name": "Fernando Ortega",
-          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 157337,
-      "name": "Oh, the Deep, Deep Love of Jesus (feat. Fernando Ortega)",
-      "url": "https://open.spotify.com/track/0h5C31CdrgABjHATYcBq6e"
+      "duration_ms": 199866,
+      "name": "Because He Lives (Amen)",
+      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -1423,22 +1439,6 @@
       "duration_ms": 203774,
       "name": "Grave",
       "url": "https://open.spotify.com/track/5maAhFnbY2RPPYcaCPB1Tb"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
-        "name": "Saints and Sinners",
-        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Because He Lives (Amen)",
-      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Our God Will See Us Through (Live)",
-        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        }
-      ],
-      "duration_ms": 253652,
-      "name": "This Is My Song - Live",
-      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 497560,
       "name": "All Hail King Jesus",
       "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
+        "name": "Our God Will See Us Through (Live)",
+        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        }
+      ],
+      "duration_ms": 253652,
+      "name": "This Is My Song - Live",
+      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Citizens",
-        "url": "https://open.spotify.com/album/7EtWK30PesO8kiVHoPFVhE"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Made Alive",
-      "url": "https://open.spotify.com/track/7zb6qjGi5l9cgUjYaoYI3Y"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
         "name": "Forever Amen",
         "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 266826,
       "name": "Christ The Lord Is with Me (with Amanda Lindsey Cook & Wonder Grace Gretzinger)",
       "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
+        "name": "Citizens",
+        "url": "https://open.spotify.com/album/7EtWK30PesO8kiVHoPFVhE"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Made Alive",
+      "url": "https://open.spotify.com/track/7zb6qjGi5l9cgUjYaoYI3Y"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
+        "name": "Your Grace Finds Me (Live)",
+        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 340826,
+      "name": "Your Grace Finds Me - Live",
+      "url": "https://open.spotify.com/track/1ExpEXUOW2KzpfV0v8iWUp"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 165346,
       "name": "Freedom (with BEAM)",
       "url": "https://open.spotify.com/track/63HbQY6pMHcBlE9LIyIuOG"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
-        "name": "Bigger Story",
-        "url": "https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Every Step of the Way",
-      "url": "https://open.spotify.com/track/7mNt8zWAJypW0Oy3QpzFaj"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -2023,18 +2023,18 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Your Grace Finds Me (Live)",
-        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
+        "name": "Bigger Story",
+        "url": "https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
         }
       ],
-      "duration_ms": 340826,
-      "name": "Your Grace Finds Me - Live",
-      "url": "https://open.spotify.com/track/1ExpEXUOW2KzpfV0v8iWUp"
+      "duration_ms": 195506,
+      "name": "Every Step of the Way",
+      "url": "https://open.spotify.com/track/7mNt8zWAJypW0Oy3QpzFaj"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Pure Heart (Live)",
-        "url": "https://open.spotify.com/album/5tke3M4DlnUd6fChHyIxKg"
-      },
-      "artists": [
-        {
-          "name": "Lenny LeBlanc",
-          "url": "https://open.spotify.com/artist/6UXDMJQeP2GCfHgspo2KZx"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "There Is None Like You - Live",
-      "url": "https://open.spotify.com/track/6gVkG8f7ldsQs0jAI8cB4X"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
         "name": "Be Held : Lullabies for the Beloved",
         "url": "https://open.spotify.com/album/36mfScdTe8zFlaHQAmIMuf"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 232653,
       "name": "River of Grace",
       "url": "https://open.spotify.com/track/46kZhvM2ms6pIXP8Mc04Tr"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
+        "name": "Pure Heart (Live)",
+        "url": "https://open.spotify.com/album/5tke3M4DlnUd6fChHyIxKg"
+      },
+      "artists": [
+        {
+          "name": "Lenny LeBlanc",
+          "url": "https://open.spotify.com/artist/6UXDMJQeP2GCfHgspo2KZx"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "There Is None Like You - Live",
+      "url": "https://open.spotify.com/track/6gVkG8f7ldsQs0jAI8cB4X"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
+        "name": "The Life Project",
+        "url": "https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 446666,
+      "name": "You're Bigger",
+      "url": "https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
         "name": "Fear No More EP",
         "url": "https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE"
       },
@@ -2283,22 +2299,6 @@
       "duration_ms": 233216,
       "name": "Blessing I Can\u2019t See",
       "url": "https://open.spotify.com/track/21Inq0qVklN60Sn15ye3bS"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
-        "name": "The Life Project",
-        "url": "https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 446666,
-      "name": "You're Bigger",
-      "url": "https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Something Different (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
-      },
-      "artists": [
-        {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "To Live Is Christ",
-      "url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
         "name": "The Answer",
         "url": "https://open.spotify.com/album/7MvLqEJ066ULDEcqrQUGIM"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 188640,
       "name": "The Answer",
       "url": "https://open.spotify.com/track/3oQdYW98bDqwzdlIqDeHvh"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
+        "name": "Something Different (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "To Live Is Christ",
+      "url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -2455,6 +2455,22 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
+        "name": "Yours Alone",
+        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 288134,
+      "name": "Jerusalem",
+      "url": "https://open.spotify.com/track/037u9C5umoOYx84lhm7EgA"
+    },
+    {
+      "added_at": "2023-02-18 05:54:59",
+      "album": {
         "name": "Getseman\u00ed",
         "url": "https://open.spotify.com/album/7ApWn8AtBatI4pU6tQrJ4Q"
       },
@@ -2475,18 +2491,18 @@
     {
       "added_at": "2023-02-18 05:54:59",
       "album": {
-        "name": "Yours Alone",
-        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
       },
       "artists": [
         {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
         }
       ],
-      "duration_ms": 288134,
-      "name": "Jerusalem",
-      "url": "https://open.spotify.com/track/037u9C5umoOYx84lhm7EgA"
+      "duration_ms": 329720,
+      "name": "The Power Of The Cross",
+      "url": "https://open.spotify.com/track/0BaI66HnzOMf3Kk7femx8m"
     },
     {
       "added_at": "2023-02-18 05:54:59",
@@ -2503,22 +2519,6 @@
       "duration_ms": 283746,
       "name": "Champion",
       "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
-    },
-    {
-      "added_at": "2023-02-18 05:54:59",
-      "album": {
-        "name": "In Christ Alone",
-        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 329720,
-      "name": "The Power Of The Cross",
-      "url": "https://open.spotify.com/track/0BaI66HnzOMf3Kk7femx8m"
     },
     {
       "added_at": "2023-02-18 05:54:59",

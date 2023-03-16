@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,873 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,268 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 24 | [O.K.](https://open.spotify.com/track/3079KgxQ0kntfz3qTunWq6) | [Whatever, Dad](https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn) | [Grade Pending](https://open.spotify.com/album/7yFYYhAYCZpZQV4bA3t7nP) | 1:42 |
 | 25 | [Bloodhail](https://open.spotify.com/track/5qZ4c1EBVWpmz1GBaks8Uq) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 5:38 |
 | 26 | [town](https://open.spotify.com/track/2vQpuxsZ6vRzJBjGZZ4Qwm) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn) | 1:13 |
-| 27 | [Hey Bunny](https://open.spotify.com/track/6dkPmbwmIHvDXVG67ADlOj) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Hey Bunny](https://open.spotify.com/album/4yIIE1mHGuQIA4kbTZo0H3) | 2:58 |
-| 28 | [is there anyone home?](https://open.spotify.com/track/51tWaNW17bJvFoe8kpgwIe) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [is there anyone home?](https://open.spotify.com/album/47Ea7xLnKRXbn06XfhZXpK) | 3:37 |
+| 27 | [is there anyone home?](https://open.spotify.com/track/51tWaNW17bJvFoe8kpgwIe) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [is there anyone home?](https://open.spotify.com/album/47Ea7xLnKRXbn06XfhZXpK) | 3:37 |
+| 28 | [Hey Bunny](https://open.spotify.com/track/6dkPmbwmIHvDXVG67ADlOj) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Hey Bunny](https://open.spotify.com/album/4yIIE1mHGuQIA4kbTZo0H3) | 2:58 |
 | 29 | [Secret](https://open.spotify.com/track/3qPZlJAvV95TnC4kFgTvnA) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Sckrpnch](https://open.spotify.com/album/46PCqFYcWdnQgra1P6Y7oz) | 1:41 |
 | 30 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
 | 31 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 41 | [Spinning](https://open.spotify.com/track/4ZtYV4eG1W40rWtyDy9SvA) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [trauma ray](https://open.spotify.com/album/6DxOT2chpx586JqiRbqviT) | 0:56 |
 | 42 | [Favorite Song](https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Last Room](https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz) | 2:54 |
 | 43 | [Fight Club](https://open.spotify.com/track/7EGFu3hR6VIubhJGr0fSl1) | [Birth Day](https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt) | [Boyhood](https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr) | 1:47 |
-| 44 | [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 |
-| 45 | [Adderall](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 |
-| 46 | [Scaredy's World](https://open.spotify.com/track/3XOOdbkx0q2rjUxAPziH8S) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [Scaredy's World](https://open.spotify.com/album/1IsvZYiU5FCpg4fDecerIX) | 2:31 |
-| 47 | [alibi](https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [alibi](https://open.spotify.com/album/6tfIdhvSP0DoNyBAgBUHcv) | 5:01 |
+| 44 | [Scaredy's World](https://open.spotify.com/track/3XOOdbkx0q2rjUxAPziH8S) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [Scaredy's World](https://open.spotify.com/album/1IsvZYiU5FCpg4fDecerIX) | 2:31 |
+| 45 | [alibi](https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [alibi](https://open.spotify.com/album/6tfIdhvSP0DoNyBAgBUHcv) | 5:01 |
+| 46 | [Adderall](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 |
+| 47 | [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 |
 | 48 | [Triptych](https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:06 |
 | 49 | [If Blue Could Be Happiness](https://open.spotify.com/track/7ANZJD6wzlHplIIA7AjsUx) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v) | 5:07 |
-| 50 | [Familiar Fields](https://open.spotify.com/track/2JaUbapUFcKEly61vqlaRz) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Together](https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W) | 5:12 |
+| 50 | [I cant commit to anything](https://open.spotify.com/track/1yrqu7y4N2e3Ov8ZKjdjVY) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I cant commit to anything](https://open.spotify.com/album/0rkcrSCvRTjm89O9PfUzvN) | 1:42 |
 
-Snapshot ID: `MTY3ODM4NDYxOCwwMDAwMDAwMGE4YzY1Y2YxZTM1OTM5MzNjM2Y4MjM4MjFjNmUxNTA1`
+Snapshot ID: `MTY3ODM4NDYxOCwwMDAwMDAwMGVlYzEyNTM2ZTMwNWRhYjI2MWFlNDg3MWE3ZmU4NWU2`

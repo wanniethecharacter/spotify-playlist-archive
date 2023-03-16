@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Picositos y con mucho sabor! ",
-  "num_followers": 38168,
+  "num_followers": 38199,
   "original_name": "Los Chilaquiles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0NDQ2NSwwMDAwMDAwMGM4ODI2NjdkYzQ3OTVjNjY5NGI4YzQ4ZTExZTcyMWM3",
+  "snapshot_id": "MTY3MTY0NDQ2NSwwMDAwMDAwMDg5YWI1YjJiZDI5NDc0Y2FjZjI0MjFjMTBhY2IwMWMz",
   "tracks": [
     {
       "added_at": "2022-10-28 19:05:39",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 217521,
       "name": "Feliz Feliz",
       "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "El Botecito",
-        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos Del Pueblo",
-          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
-        }
-      ],
-      "duration_ms": 150360,
-      "name": "El Botecito",
-      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Amor Plat\u00f3nico",
         "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 183080,
       "name": "Espejeando",
       "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "El Botecito",
+        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos Del Pueblo",
+          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
+        }
+      ],
+      "duration_ms": 150360,
+      "name": "El Botecito",
+      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "El Baile de San Juan",
-        "url": "https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Chomba",
-          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
-        }
-      ],
-      "duration_ms": 254375,
-      "name": "El Baile de San Juan",
-      "url": "https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Tucanes De Oro ... Secuestro De Amor",
         "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 174160,
       "name": "El Tucanazo",
       "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "El Baile de San Juan",
+        "url": "https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta"
+      },
+      "artists": [
+        {
+          "name": "Grupo La Chomba",
+          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
+        }
+      ],
+      "duration_ms": 254375,
+      "name": "El Baile de San Juan",
+      "url": "https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 225320,
-      "name": "Que calor",
-      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 174106,
       "name": "La nena",
       "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "Que calor",
+      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Cumbia del Monte Fuji",
-        "url": "https://open.spotify.com/album/4QajQb50l0ry5S3dcl2SVo"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        },
-        {
-          "name": "Minyo Crusaders",
-          "url": "https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG"
-        }
-      ],
-      "duration_ms": 264842,
-      "name": "Cumbia del Monte Fuji",
-      "url": "https://open.spotify.com/track/24fMHoWCFcyuuSDbHWzbPc"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "De Nueva Cuenta",
         "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 178933,
       "name": "Por Una Lagrima",
       "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Cumbia del Monte Fuji",
+        "url": "https://open.spotify.com/album/4QajQb50l0ry5S3dcl2SVo"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        },
+        {
+          "name": "Minyo Crusaders",
+          "url": "https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG"
+        }
+      ],
+      "duration_ms": 264842,
+      "name": "Cumbia del Monte Fuji",
+      "url": "https://open.spotify.com/track/24fMHoWCFcyuuSDbHWzbPc"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Sensacion Latina",
-        "url": "https://open.spotify.com/album/5Da24tiYjKHIhWSdqxV9cf"
-      },
-      "artists": [
-        {
-          "name": "Yucateco",
-          "url": "https://open.spotify.com/artist/6cWxc7Lnk8MqzVZXiibgWN"
-        }
-      ],
-      "duration_ms": 165047,
-      "name": "Sensacion Latina",
-      "url": "https://open.spotify.com/track/1z7YvRwJKKCxzEMLPA2WbL"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s"
       },
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
+        "name": "Sensacion Latina",
+        "url": "https://open.spotify.com/album/5Da24tiYjKHIhWSdqxV9cf"
+      },
+      "artists": [
+        {
+          "name": "Yucateco",
+          "url": "https://open.spotify.com/artist/6cWxc7Lnk8MqzVZXiibgWN"
+        }
+      ],
+      "duration_ms": 165047,
+      "name": "Sensacion Latina",
+      "url": "https://open.spotify.com/track/1z7YvRwJKKCxzEMLPA2WbL"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
         "name": "TEMPLO KOMODO",
         "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "En Orbita",
-        "url": "https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB"
-      },
-      "artists": [
-        {
-          "name": "Los Destellos",
-          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Para Elisa",
-      "url": "https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 161426,
       "name": "Cumbia De Los Pajaritos",
       "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "En Orbita",
+        "url": "https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB"
+      },
+      "artists": [
+        {
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Para Elisa",
+      "url": "https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Baile Bucanero",
-        "url": "https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Lazalypso",
-      "url": "https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Cumbia Salvaje",
         "url": "https://open.spotify.com/album/2EMw3RFVp5okEUKY7yGYIV"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 262571,
       "name": "Bocanegra",
       "url": "https://open.spotify.com/track/3MX20DuDYfhihzv24OyM3V"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Baile Bucanero",
+        "url": "https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Lazalypso",
+      "url": "https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a"
     },
     {
       "added_at": "2022-10-28 19:05:39",

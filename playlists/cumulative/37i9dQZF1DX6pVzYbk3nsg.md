@@ -4,7 +4,7 @@
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-51 songs - 3 hr 40 min
+52 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,9 +47,10 @@
 | [Preparate Reparada \(Guembe\) \[Live\]](https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5) | [Buya](https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna) | [Buya \(Live\)](https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq) | 4:21 | 2023-02-22 |  |
 | [Que Bonita Bandera](https://open.spotify.com/track/3fJNRrNLljNuejgcDFDNGD) | [Plena Libre](https://open.spotify.com/artist/7jZRvnCRPh2cJZ4DW5WrD9) | [Corazón](https://open.spotify.com/album/3biwM3ygTmnyyi98Fw2oH5) | 4:50 | 2023-02-22 |  |
 | [Que Bonita Bandera](https://open.spotify.com/track/3nCwDELepkxtmUIGAqdsZg) | [Ramito](https://open.spotify.com/artist/4tiyu0r3ArpCssOu1rJtvN) | [Raíces Borincanas](https://open.spotify.com/album/6mZIvynRc62S8WicBG4xiS) | 3:22 | 2023-02-22 |  |
+| [Remigio Tombe](https://open.spotify.com/track/6cSnXtQbb5u9OOQea1AdY3) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:48 | 2023-03-16 |  |
 | [Respeto a los Mayores](https://open.spotify.com/track/5ZNPc6A6A5c4uuiOb4wUHm) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 5:36 | 2023-02-22 |  |
 | [Rule Sonda](https://open.spotify.com/track/5VcZnqmPU8KetpEi0ypoH3) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:05 | 2023-02-22 |  |
-| [Seis Corrido Medley](https://open.spotify.com/track/5Worf5DYlPyHnUTkP0xiUM) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 3:07 | 2023-02-22 |  |
+| [Seis Corrido Medley](https://open.spotify.com/track/5Worf5DYlPyHnUTkP0xiUM) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 3:07 | 2023-02-22 | 2023-03-16 |
 | [Seshuque Y Balance](https://open.spotify.com/track/5PyVfVCAxsYPzHO94CzBgv) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 2:36 | 2023-03-02 |  |
 | [Si te preguntaran](https://open.spotify.com/track/4NbNwSJakq5ArlNsQwdqZQ) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:45 | 2023-02-22 |  |
 | [Sirenas, Sangueo y San Millán](https://open.spotify.com/track/1Jx54hvwf8rtDb1VmzfFBh) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 5:50 | 2023-02-22 |  |

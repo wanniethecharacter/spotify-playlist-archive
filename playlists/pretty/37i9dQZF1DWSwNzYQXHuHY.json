@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 6814,
+  "num_followers": 6816,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODUyMjU2NCwwMDAwMDAwMDkzODBiZjNhY2ExYTBjYTA4MjdkNWEyZGMyY2UxNzYz",
+  "snapshot_id": "MTY3ODUyMjU2NCwwMDAwMDAwMDgyMWUwMTA4NmE2ZDJmM2I5ZmNjNjY1MzYyM2ZlMzA4",
   "tracks": [
     {
       "added_at": "2023-03-11 08:16:04",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-03-11 08:16:04",
       "album": {
-        "name": "Sequence : 7272",
-        "url": "https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo"
-      },
-      "artists": [
-        {
-          "name": "CSR",
-          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Pop? Pop!",
-      "url": "https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9"
-    },
-    {
-      "added_at": "2023-03-11 08:16:04",
-      "album": {
         "name": "Brand New - The 1st Mini Album",
         "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 184493,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
+    },
+    {
+      "added_at": "2023-03-11 08:16:04",
+      "album": {
+        "name": "Sequence : 7272",
+        "url": "https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo"
+      },
+      "artists": [
+        {
+          "name": "CSR",
+          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Pop? Pop!",
+      "url": "https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9"
     },
     {
       "added_at": "2023-03-11 08:16:04",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-03-11 08:16:04",
       "album": {
-        "name": "Love to Hate You, Pt. 2 (Original Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/3ezMl6HrnKetoZTJEj0me3"
-      },
-      "artists": [
-        {
-          "name": "TAEIL",
-          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Lovey Dovey",
-      "url": "https://open.spotify.com/track/1FMb1qn3a2JDbMOG8PAu3l"
-    },
-    {
-      "added_at": "2023-03-11 08:16:04",
-      "album": {
         "name": "START-UP (Original Television Soundtrack) Pt. 6",
         "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 183320,
       "name": "Where Is Dream",
       "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
+    },
+    {
+      "added_at": "2023-03-11 08:16:04",
+      "album": {
+        "name": "Love to Hate You, Pt. 2 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3ezMl6HrnKetoZTJEj0me3"
+      },
+      "artists": [
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Lovey Dovey",
+      "url": "https://open.spotify.com/track/1FMb1qn3a2JDbMOG8PAu3l"
     },
     {
       "added_at": "2023-03-11 08:16:04",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-03-11 08:16:04",
       "album": {
-        "name": "bimil:ier vol.1 \"so this is love\"",
-        "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 203425,
-      "name": "so this is love",
-      "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
-    },
-    {
-      "added_at": "2023-03-11 08:16:04",
-      "album": {
         "name": "CYAN",
         "url": "https://open.spotify.com/album/54mKbSh20yke318bPZMsjb"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 195253,
       "name": "2U",
       "url": "https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy"
+    },
+    {
+      "added_at": "2023-03-11 08:16:04",
+      "album": {
+        "name": "bimil:ier vol.1 \"so this is love\"",
+        "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 203425,
+      "name": "so this is love",
+      "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
     },
     {
       "added_at": "2023-03-11 08:16:04",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-03-11 08:16:04",
       "album": {
+        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Feel Like Falling In Love",
+      "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
+    },
+    {
+      "added_at": "2023-03-11 08:16:04",
+      "album": {
         "name": "You, Who?",
         "url": "https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 219330,
       "name": "You, Who?",
       "url": "https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1"
-    },
-    {
-      "added_at": "2023-03-11 08:16:04",
-      "album": {
-        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Feel Like Falling In Love",
-      "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
     },
     {
       "added_at": "2023-03-11 08:16:04",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-03-11 08:16:04",
       "album": {
-        "name": "Why isn't love always easy? (Romance 101 X JOY)",
-        "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
-      },
-      "artists": [
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "Why isn't love always easy? (Romance 101 X JOY)",
-      "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
-    },
-    {
-      "added_at": "2023-03-11 08:16:04",
-      "album": {
         "name": "Our Love is Great",
         "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 224726,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0"
+    },
+    {
+      "added_at": "2023-03-11 08:16:04",
+      "album": {
+        "name": "Why isn't love always easy? (Romance 101 X JOY)",
+        "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "Why isn't love always easy? (Romance 101 X JOY)",
+      "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
     },
     {
       "added_at": "2023-03-11 08:16:04",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-03-11 08:16:04",
       "album": {
-        "name": "DA DA!",
-        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 225125,
-      "name": "busy guy",
-      "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
-    },
-    {
-      "added_at": "2023-03-11 08:16:04",
-      "album": {
         "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
         "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 212493,
       "name": "Dive into you",
       "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
+    },
+    {
+      "added_at": "2023-03-11 08:16:04",
+      "album": {
+        "name": "DA DA!",
+        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 225125,
+      "name": "busy guy",
+      "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
     },
     {
       "added_at": "2023-03-11 08:16:04",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-03-11 08:16:04",
       "album": {
-        "name": "NDGGA",
-        "url": "https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 175412,
-      "name": "NDGGA",
-      "url": "https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ"
-    },
-    {
-      "added_at": "2023-03-11 08:16:04",
-      "album": {
         "name": "Under the Oak Tree (Original Soundtrack), Part. 4",
         "url": "https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 225133,
       "name": "Your name",
       "url": "https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI"
+    },
+    {
+      "added_at": "2023-03-11 08:16:04",
+      "album": {
+        "name": "A New Decade",
+        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
+      },
+      "artists": [
+        {
+          "name": "DINDIN",
+          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Should Not Love You",
+      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
     }
   ],
   "unique_name": "\uc378",

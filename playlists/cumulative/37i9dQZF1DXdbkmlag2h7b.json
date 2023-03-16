@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Theta Sleep",
+        "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
+      },
+      "artists": [
+        {
+          "name": "Zonyoh",
+          "url": "https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Clear-Headed",
+      "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0xFhKcMfVpMaKd9OK8GNq5"
       },
@@ -2124,7 +2142,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 187527,
       "name": "Spheres",
       "url": "https://open.spotify.com/track/2swLJNK900RQGq9ef3I1vo"

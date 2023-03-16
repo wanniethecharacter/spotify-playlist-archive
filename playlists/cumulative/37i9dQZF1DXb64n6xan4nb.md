@@ -4,7 +4,7 @@
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-103 songs - 7 hr 6 min
+104 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [This Is Not a Love Song](https://open.spotify.com/track/0xOPz9Ukeiae0fahAamCWt) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [Nouvelle vague](https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1) | 3:47 | 2022-06-13 |  |
 | [Time Walking on Memory](https://open.spotify.com/track/1kqmsG932UIAB67TQW5ZXd) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Cyworld BGM 2021](https://open.spotify.com/album/5fddR7cpgW2J8ctiCb9b75) | 5:09 | 2022-06-13 |  |
 | [Timeless](https://open.spotify.com/track/5nfb7IPrj9awskmLFSykWr) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [SG Wanna Be+](https://open.spotify.com/album/1onnVmO3ZMbELXoi7cyaPs) | 3:57 | 2022-06-13 |  |
-| [What if](https://open.spotify.com/track/0yqTCKcLaJfeVEUavlnYK3) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [TIME FOR LOVE](https://open.spotify.com/album/4vOrKQQbPSjYGQRbixrdRi) | 3:48 | 2022-06-13 |  |
+| [What if](https://open.spotify.com/track/0yqTCKcLaJfeVEUavlnYK3) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [TIME FOR LOVE](https://open.spotify.com/album/4vOrKQQbPSjYGQRbixrdRi) | 3:48 | 2022-06-13 | 2023-03-16 |
 | [With Coffee…](https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:35 | 2022-06-13 |  |
 | [With Me](https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [It's Real](https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu) | 3:30 | 2022-06-13 |  |
 | [Without a Heart \- 10th Anniversary Ver.](https://open.spotify.com/track/5kEDvns1MRfQG1b28KMmHI) | [8Eight](https://open.spotify.com/artist/5fp3IPvTlnkqI5NvRnwldJ) | [Fool Again](https://open.spotify.com/album/4wYYHmNtTMjlG8WXfznCwU) | 3:37 | 2022-06-13 | 2023-03-14 |
@@ -105,6 +105,7 @@
 | [여자이니까](https://open.spotify.com/track/6VmSp1SUpIYVWwDnTWpgYT) | [KISS](https://open.spotify.com/artist/7cce47QG2IibkXS6YdTtR3) | [Kiss](https://open.spotify.com/album/4p1vHQdWMimu548x89KtNN) | 4:17 | 2022-06-13 |  |
 | [우산 \(feat\. 윤하\)](https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Pieces, Part One](https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO) | 5:01 | 2022-06-13 |  |
 | [점점](https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:31 | 2022-06-13 |  |
+| [정말 사랑했을까](https://open.spotify.com/track/0xuXybbYxNqKKD4NMr63g4) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:32 | 2022-06-13 |  |
 | [제주도의 푸른 밤](https://open.spotify.com/track/7dxyNzfhhXpqIHttzNFxn5) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Sung Si kyung Remake Album](https://open.spotify.com/album/5Ul0btt4Y5eWe1Rff1rmNQ) | 3:56 | 2022-06-13 |  |
 | [중독](https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Evolution](https://open.spotify.com/album/127CxMmFX7bctgIccMVPib) | 4:03 | 2022-06-13 |  |
 | [체념](https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:59 | 2022-06-13 |  |

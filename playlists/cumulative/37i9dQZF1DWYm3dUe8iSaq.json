@@ -3072,10 +3072,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 193254,
       "name": "You're A Mystery",
       "url": "https://open.spotify.com/track/3ytfjqpqNhTdFbNt4uZ6Au"
+    },
+    {
+      "album": {
+        "name": "You're A Mystery",
+        "url": "https://open.spotify.com/album/38dcanpHYVXTl79HTimr0w"
+      },
+      "artists": [
+        {
+          "name": "Wil Owen",
+          "url": "https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193254,
+      "name": "You're A Mystery",
+      "url": "https://open.spotify.com/track/5m3n8JK40XBTIQYyHfrhPu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYm3dUe8iSaq"

@@ -4,14 +4,14 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-145 songs - 7 hr 12 min
+146 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mind At Peace](https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs) | [Ramos Goya](https://open.spotify.com/artist/51ZB0MgNvM5OYR47z0wEDj) | [A Mind At Peace](https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz) | 2:42 | 2022-11-11 |  |
 | [A Silent Moon](https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn) | [Atmosferion](https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc) | [A Silent Moon](https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H) | 3:08 | 2022-11-11 |  |
 | [A Space Within a Space](https://open.spotify.com/track/37WWBXEkERdURM1S9SCuwW) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [A Space Within a Space](https://open.spotify.com/album/3EVxBEAzWfSUuVDRZ8Qync) | 3:11 | 2022-07-05 | 2022-07-29 |
-| [A Space Within a Space](https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [A Space Within a Space](https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp) | 3:11 | 2022-09-02 |  |
+| [A Space Within a Space](https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [A Space Within a Space](https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp) | 3:11 | 2022-09-02 | 2023-03-16 |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-07-05 |  |
 | [Air Castle](https://open.spotify.com/track/71Y8n0VSW7i2Qe1Z1rABsi) | [Sea Island](https://open.spotify.com/artist/2afQ9hxy9APHOBXi7NViRc) | [Air Castle](https://open.spotify.com/album/3Ck54QdjjEgDPjPgNEF4yo) | 3:34 | 2022-07-19 | 2022-07-26 |
 | [Air in the Morning](https://open.spotify.com/track/265Gf3408oAX2bGYUYf7i9) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Air in the Morning](https://open.spotify.com/album/2lzp3FhFFbp33LZGFwzdFK) | 3:04 | 2022-07-05 | 2022-07-29 |
@@ -54,6 +54,7 @@
 | [Evening Calm](https://open.spotify.com/track/23gmdJgMk6hgkrwUsvNjG3) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Evening Calm](https://open.spotify.com/album/1lYuL6PrtYfCWlk26xn0Kj) | 2:38 | 2022-07-19 | 2023-03-10 |
 | [Evening Calm](https://open.spotify.com/track/2tqgdeWKwX8FnDmMnFzfb2) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Evening Calm](https://open.spotify.com/album/3DDO8hJXZZHaZQdTnOjTP0) | 2:38 | 2022-07-19 | 2022-07-29 |
 | [Everlasting](https://open.spotify.com/track/4F0lm6JQ9e6g59FBqAnwOE) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Everlasting](https://open.spotify.com/album/7nrcHhFkdyUPNeiKku96jJ) | 3:07 | 2022-07-19 | 2022-07-29 |
+| [Expanded Reality](https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O) | [Axial Flow](https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL) | [Expanded Reality](https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN) | 2:42 | 2023-02-17 |  |
 | [Floating Without Gravity](https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Floating Without Gravity](https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh) | 2:42 | 2022-07-19 |  |
 | [Floating Without Gravity](https://open.spotify.com/track/2CZNgun4NU3Ui9cVbL3c9h) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Floating Without Gravity](https://open.spotify.com/album/4SsWdFTjKxD0vLwr0IS065) | 2:42 | 2022-07-05 | 2022-07-28 |
 | [Free Of Hesitation](https://open.spotify.com/track/2rqRLfEDVwbH67LanM8FCc) | [Abigail Dorsey](https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR) | [Free Of Hesitation](https://open.spotify.com/album/6Qckgdp2NNvXFw6vKLRMXr) | 2:40 | 2023-01-13 |  |

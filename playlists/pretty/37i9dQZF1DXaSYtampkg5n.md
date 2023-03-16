@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 
 > Sheer joy for sunny days in 50 old and new African jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,698 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,695 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 | 37 | [Kokro\-Ko \(Hide and Seek\)](https://open.spotify.com/track/3qRVMQ4NopQIr8tFFKL6SD) | [The Actions](https://open.spotify.com/artist/6zVPjXxvk8RmPKjhOONids) | [Next Stop Soweto 4: Zulu Rock, Afro\-Disco & Mbaqanga 1975\-1985](https://open.spotify.com/album/6mthYemYv5h7k6XwIo9R8F) | 6:08 |
 | 38 | [Djonsinho Cabral](https://open.spotify.com/track/3o6gc8f9D97n96WfUMKpuv) | [Os Tubarões](https://open.spotify.com/artist/7k1xtKMpdzF4wUttO6nv1f) | [Djonsinho Cabral](https://open.spotify.com/album/46Hgkni19D3rYUCI5qoyPj) | 5:45 |
 | 39 | [We Live In Peace](https://open.spotify.com/track/4l8N1IPZW1NpL4RnWbCiAj) | [Marijata](https://open.spotify.com/artist/1zlDVq7isxuxMGTueub0K3) | [This Is Marijata](https://open.spotify.com/album/5NgqwPu0hiNGTzltEHUTC0) | 4:09 |
-| 40 | [Musicawi Silt](https://open.spotify.com/track/2qo7XWwu0l0IJ29Ybf5Mqh) | [The Daktaris](https://open.spotify.com/artist/42ccKlw9sHnNr29o6gqnsv) | [Beyond Addis 02 \(Modern Ethiopian Dance Grooves Inspired By Swinging Addis\)](https://open.spotify.com/album/0h6TpRuK6ysFLQDXPDM4yT) | 3:04 |
+| 40 | [Musicawi Silt](https://open.spotify.com/track/2Th6QlcdwdpfE5ZLjVqDVn) | [The Daktaris](https://open.spotify.com/artist/42ccKlw9sHnNr29o6gqnsv) | [Soul Explosion](https://open.spotify.com/album/5da59RIGjC0GUOoCqJ29UN) | 3:04 |
 | 41 | [Birth of Ghana](https://open.spotify.com/track/0HFYcmjhjWUOb5DC0uA36t) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Calypso Romeo](https://open.spotify.com/album/2AFff6hOOBPky0XrsjHYB3) | 2:50 |
 | 42 | [Akula Owu Onyeara](https://open.spotify.com/track/0X7mNbVv1YYJ8SrAk4AsiT) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973\-77](https://open.spotify.com/album/7bmfQqqmSOdIzdIW3Ye8F3) | 7:28 |
 | 43 | [Enjoy Yourself](https://open.spotify.com/track/7BgOdtjbfgvip4BJRn9NmI) | [Sahara All Stars Band Jos.](https://open.spotify.com/artist/11E58RQVNMMzzBWpi8J2rW) | [Enjoy Yourself](https://open.spotify.com/album/7gypen6SPcpqjxwc7CAoJA) | 6:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 | 49 | [Disco Hi \- Life](https://open.spotify.com/track/7LRRSTX1m4CzW8MXnfoxa0) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Disco Hi\-Life](https://open.spotify.com/album/3imgLN3LrdTmKN5ZyoDBxU) | 8:55 |
 | 50 | [Obaa Sima](https://open.spotify.com/track/4LyxysVt5v3kkdJUSx8wvZ) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/2ERqie1S8nRnxh14keiTBu) | 5:38 |
 
-Snapshot ID: `MTU2NTc3NTg1OSwwMDAwMDAwMDliZDAxZjg2NmE5MWM5MWM3MWE5NDMzNGNiZjVhYzI4`
+Snapshot ID: `MTU2NTc3NTg1OSwwMDAwMDAwMDllZDNiNmJiMzNiNWMxNDY1MzFkMzI0NTIzZWU4YmNi`

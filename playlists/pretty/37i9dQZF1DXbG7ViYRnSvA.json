@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 7124,
+  "num_followers": 7171,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDgzOTY1ZGUxNzFiNzE5ODZjNzY0ZTA4MjYyZjAwMDUy",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGUyYmNiM2Q1N2M2ZGJhZTNkMjAwMWU0ZGE5N2JiYWQx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "I Want You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 388546,
+      "name": "Come Live With Me Angel",
+      "url": "https://open.spotify.com/track/7gs18umrgrIpRlDQIzKhpH"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 174253,
       "name": "The Waters (feat. BJ the Chicago Kid)",
       "url": "https://open.spotify.com/track/23T4gelZgImtFxbHjXnYbm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "I Want You (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 388546,
-      "name": "Come Live With Me Angel",
-      "url": "https://open.spotify.com/track/7gs18umrgrIpRlDQIzKhpH"
     },
     {
       "added_at": "2022-10-01 16:00:00",

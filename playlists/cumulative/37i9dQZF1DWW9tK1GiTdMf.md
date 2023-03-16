@@ -4,7 +4,7 @@
 
 > 🎸 canzoni da gridare e in cover gayle! 🎸
 
-418 songs - 19 hr 15 min
+419 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Boy, don’t cry](https://open.spotify.com/track/64JyXTxIsxgmY5mElMvnGq) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [Mr\. Monkey](https://open.spotify.com/artist/1sHljqzdPCaYRcFrkHW8if) | [Lalalacrime](https://open.spotify.com/album/4AH6JYWDjp38EElRqCTFRN) | 3:10 | 2022-05-13 | 2022-06-24 |
 | [break me!](https://open.spotify.com/track/4kAtlOHiKnGFfJVPfLyHo1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [break me!](https://open.spotify.com/album/3mV2ebkKgbEaEjnTbi0sJD) | 2:33 | 2022-06-02 | 2022-06-28 |
 | [Break!](https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/05Bz4ReOzzjSCOYU0zAezd) | 2:53 | 2022-09-01 | 2022-09-20 |
+| [BUGIARDO](https://open.spotify.com/track/6laV1EFz9b6fbs0NJ4nc92) | [LE CARIE](https://open.spotify.com/artist/2A8udj5MEQyHsfVJjXmukj), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [TRE](https://open.spotify.com/album/6KgWi7Dq7eGztZzC9ExYmn) | 3:04 | 2023-03-15 |  |
 | [cages](https://open.spotify.com/track/6zmpq82Tlev82M7BIl5V8b) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:31 | 2022-09-19 | 2022-11-11 |
 | [Canzone d'amore](https://open.spotify.com/track/1gCKZvQnUvuyURWo8iJfbS) | [Lost](https://open.spotify.com/artist/2eUAT3EZcrLTorvfc38Opo) | [Canzone d'amore](https://open.spotify.com/album/6in0ilspKm2XlNj6IQ8Y7n) | 3:28 | 2022-06-02 | 2022-08-12 |
 | [Carrello di SHEIN](https://open.spotify.com/track/1T0Tdb0AfVIzbDfnuyJpGC) | [Hydra Shinigami](https://open.spotify.com/artist/3GyMWEA5C0XEa7CxhaO7jY) | [Carrello di SHEIN](https://open.spotify.com/album/3kg8uZIHCjGWZw0XHi0URV) | 2:09 | 2022-10-13 | 2022-11-25 |

@@ -4,7 +4,7 @@
 
 > Warm familiar pop you know and love\. Cover: Sam Smith
 
-369 songs - 23 hr 0 min
+370 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Girls Like You \(feat\. Cardi B\)](https://open.spotify.com/track/04GKRudrMjdPdX10873SAM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/2EHdZj0rUnWRPuHARw69m7) | 3:55 | 2019-05-26\* | 2020-10-23 |
 | [Glory \(From the Motion Picture Selma\)](https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Glory \(From the Motion Picture Selma\)](https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx) | 4:32 | 2019-05-26\* | 2021-06-16 |
 | [Good Life](https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:13 | 2019-05-26\* | 2021-10-01 |
-| [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 | 2019-05-26\* |  |
+| [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 | 2019-05-26\* | 2023-03-16 |
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/5b88tNINg4Q4nrRbrCXUmg) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/2lkQd5T32QHDOfFkEIPJKz) | 3:52 | 2019-05-26\* | 2021-08-28 |
 | [Haven't Met You Yet](https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) | 4:04 | 2019-05-26\* | 2022-04-21 |
 | [Head Above Water](https://open.spotify.com/track/1N7YeVU0ZwAFbOhwM61ef6) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Head Above Water](https://open.spotify.com/album/6uQufJrxAdQNH2QlnJMEgi) | 3:40 | 2019-05-26\* | 2022-04-21 |
@@ -336,6 +336,7 @@
 | [This City](https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [This City](https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm) | 3:14 | 2020-10-23 |  |
 | [This Love](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 3:26 | 2019-05-26\* |  |
 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 | 2019-05-26\* |  |
+| [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2023-03-14 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2022-09-25 | 2023-03-05 |
 | [Too Good At Goodbyes](https://open.spotify.com/track/7oAraczbemGSNWqnbkU87R) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes](https://open.spotify.com/album/6D5ic12r3twNk7EjwEYFIP) | 3:21 | 2019-05-26\* | 2022-07-29 |
 | [Too Much To Ask](https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:43 | 2019-05-26\* | 2022-04-26 |

@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6743730,
+  "num_followers": 6745724,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwMjgwMCwwMDAwMDAwMGRlMjIwMzcwYjc2YTdkZjRiMTBlMDdmM2Y4ZjcwNzk2",
+  "snapshot_id": "MTY3ODQwMjgwMCwwMDAwMDAwMDNkNGE4ZTg1NmJlOTE0Y2U3MGNmYjBmMjAwZTdjODc0",
   "tracks": [
     {
       "added_at": "2023-03-09 23:00:00",
@@ -727,6 +727,26 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Tell Me Why (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
+      },
+      "artists": [
+        {
+          "name": "Supermode",
+          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Tell Me Why - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Turn On The Lights again.. (feat. Future)",
         "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 267946,
       "name": "Turn On The Lights again.. (feat. Future)",
       "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Tell Me Why (MEDUZA Remix)",
-        "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
-      },
-      "artists": [
-        {
-          "name": "Supermode",
-          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Tell Me Why - MEDUZA Remix",
-      "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1227,6 +1227,42 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/1h9SeQDYy4kq59zk5Xcztz"
+      },
+      "artists": [
+        {
+          "name": "Dance Fruits Music",
+          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
+        },
+        {
+          "name": "DMNDS",
+          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        },
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        },
+        {
+          "name": "Lujavo",
+          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
+        },
+        {
+          "name": "Lunis",
+          "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) - Steve Void Edit",
+      "url": "https://open.spotify.com/track/7vUROW0qSrg2HACYL3rglZ"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/1BCTQcK8H8z7HcqtC93UvV"
       },
@@ -1291,42 +1327,6 @@
       "duration_ms": 151903,
       "name": "Hopeless Heart",
       "url": "https://open.spotify.com/track/2tJ4fnUrG5v7OmYVGq7sw8"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/1h9SeQDYy4kq59zk5Xcztz"
-      },
-      "artists": [
-        {
-          "name": "Dance Fruits Music",
-          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
-        },
-        {
-          "name": "DMNDS",
-          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        },
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        },
-        {
-          "name": "Lujavo",
-          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
-        },
-        {
-          "name": "Lunis",
-          "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) - Steve Void Edit",
-      "url": "https://open.spotify.com/track/7vUROW0qSrg2HACYL3rglZ"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Give It to Me",
+        "url": "https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "duration_ms": 186239,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
         "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 202204,
       "name": "Cocoon - Martin Garrix & Space Ducks Remix",
       "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Give It to Me",
-        "url": "https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        }
-      ],
-      "duration_ms": 186239,
-      "name": "Give It To Me",
-      "url": "https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1747,6 +1747,26 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "You're Free",
+        "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "duration_ms": 167298,
+      "name": "You're Free",
+      "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Unholy (feat. Kim Petras) [David Guetta Acid Remix]",
         "url": "https://open.spotify.com/album/54qcVnPoasyXo6U1ncvxFb"
       },
@@ -1771,22 +1791,18 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "You're Free",
-        "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
+        "name": "JUMPSTART",
+        "url": "https://open.spotify.com/album/3tmkaAWU7c2g3BWQ7rdZpR"
       },
       "artists": [
         {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
         }
       ],
-      "duration_ms": 167298,
-      "name": "You're Free",
-      "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
+      "duration_ms": 157500,
+      "name": "JUMPSTART",
+      "url": "https://open.spotify.com/track/7LnkcJhUZ0qs0HoyRm61xr"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1803,22 +1819,6 @@
       "duration_ms": 174044,
       "name": "P.I.M.P. - HEDEGAARD Remix",
       "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "JUMPSTART",
-        "url": "https://open.spotify.com/album/3tmkaAWU7c2g3BWQ7rdZpR"
-      },
-      "artists": [
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "JUMPSTART",
-      "url": "https://open.spotify.com/track/7LnkcJhUZ0qs0HoyRm61xr"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        }
-      ],
-      "duration_ms": 150991,
-      "name": "I Will Survive",
-      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Ocean Of Tears",
         "url": "https://open.spotify.com/album/2zRkmxVhm6Isn66yIiBnLp"
       },
@@ -1947,6 +1931,42 @@
       "duration_ms": 184462,
       "name": "Ocean Of Tears",
       "url": "https://open.spotify.com/track/6oJIAZpChGNIEMAecud9SZ"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        }
+      ],
+      "duration_ms": 150991,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Hit 'Em Up Style (Oops!)",
+        "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "duration_ms": 159840,
+      "name": "Hit 'Em Up Style (Oops!)",
+      "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1987,42 +2007,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "1x1",
-        "url": "https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 139435,
-      "name": "1x1",
-      "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Hit 'Em Up Style (Oops!)",
-        "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        },
-        {
-          "name": "James Hurr",
-          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
-        }
-      ],
-      "duration_ms": 159840,
-      "name": "Hit 'Em Up Style (Oops!)",
-      "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Jenny From The Block",
         "url": "https://open.spotify.com/album/03M2hC29lmLarzSiw8Sznt"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 120000,
       "name": "Jenny From The Block",
       "url": "https://open.spotify.com/track/0bZL9EEh4nCiuRomDhMjwT"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "1x1",
+        "url": "https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 139435,
+      "name": "1x1",
+      "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
     },
     {
       "added_at": "2023-03-09 23:00:00",

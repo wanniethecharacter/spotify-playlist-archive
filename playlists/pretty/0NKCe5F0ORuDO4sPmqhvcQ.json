@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21078,
+  "num_followers": 21074,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAyNDIsOGFhOTQwZTVhYjY3YTVhYjMzZTFiZDNmZjNhMWE2YWNkZTdlMmMzMg==",
+  "snapshot_id": "MTAyNDUsMTJjMWVjNmU4OTIzNGVhY2MxZTI5Y2ZhMWNlNTA5NjdhZjgzOTlkNg==",
   "tracks": [
     {
       "added_at": "2023-02-22 21:57:47",
@@ -2511,6 +2511,62 @@
       "duration_ms": 155404,
       "name": "Embrace Chaos",
       "url": "https://open.spotify.com/track/5Zt8IFYVXIR9KkRtZBXL10"
+    },
+    {
+      "added_at": "2023-03-15 23:04:48",
+      "album": {
+        "name": "LEFT TO RIGHT (JADED Remix)",
+        "url": "https://open.spotify.com/album/0o1mk3UOSifeAFi46JdHL6"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        }
+      ],
+      "duration_ms": 176376,
+      "name": "LEFT TO RIGHT - JADED Remix",
+      "url": "https://open.spotify.com/track/6SejpzU5kr4Jlw2iZyBRwq"
+    },
+    {
+      "added_at": "2023-03-15 23:06:08",
+      "album": {
+        "name": "YOU AND ME",
+        "url": "https://open.spotify.com/album/1ltwxGR8bbmlFMprZmF9pH"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "YOU AND ME",
+      "url": "https://open.spotify.com/track/1VyRpTEE3InYTwUGcjsHJm"
+    },
+    {
+      "added_at": "2023-03-15 23:06:54",
+      "album": {
+        "name": "In My Room (feat. SHELLS)",
+        "url": "https://open.spotify.com/album/7E4VRFdU8aKvZ7qVY8ekrM"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "duration_ms": 145872,
+      "name": "In My Room (feat. SHELLS)",
+      "url": "https://open.spotify.com/track/1P5MpILPf5pgEmsZzqEVoy"
     }
   ],
   "unique_name": "Moving Castle Monthly",

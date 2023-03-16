@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,915 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,962 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 18 | [West Coast Blues](https://open.spotify.com/track/1xlNWhgv6MgVKvGK3ZXauZ) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 7:22 |
 | 19 | [Red Pepper Blues](https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 3:40 |
 | 20 | [Billie's Bounce \- Original](https://open.spotify.com/track/35hrtW3WmLUVn32cOjFa6f) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Charlie Parker Memorial, Vol\. 2](https://open.spotify.com/album/3WcccRKyAbHewZflPyCpxV) | 3:12 |
-| 21 | [Raise Four](https://open.spotify.com/track/5anYdzYJguGLEcbgL6G2Qm) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Underground](https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn) | 4:37 |
+| 21 | [Blue Monk](https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [The Complete Prestige 10\-Inch LP Collection](https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC) | 7:39 |
 | 22 | [Pennies From Heaven](https://open.spotify.com/track/1cKieOitNWqzxDdOboOzHy) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 5:11 |
 | 23 | [Senor Blues](https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Very Best](https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR) | 7:01 |
 | 24 | [Trane's Blues](https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Workin'](https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli) | 8:32 |
 | 25 | [Equinox](https://open.spotify.com/track/56elAIX47Q7vSQ1bpKNhHo) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Naima](https://open.spotify.com/album/4N6QrNl4RvEjyaPtUilwRD) | 8:07 |
-| 26 | [Sonnymoon For Two](https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Freelance Years](https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x) | 9:06 |
+| 26 | [Birks' Works](https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Verve Jazz Masters 10: Dizzy Gillespie](https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH) | 4:57 |
 | 27 | [Cheryl](https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Savoy 10\-inch LP Collection](https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4) | 3:00 |
-| 28 | [Blue Monk](https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [The Complete Prestige 10\-Inch LP Collection](https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC) | 7:39 |
-| 29 | [Birks' Works](https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Verve Jazz Masters 10: Dizzy Gillespie](https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH) | 4:57 |
+| 28 | [Raise Four](https://open.spotify.com/track/5anYdzYJguGLEcbgL6G2Qm) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Underground](https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn) | 4:37 |
+| 29 | [Sonnymoon For Two](https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Freelance Years](https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x) | 9:06 |
 | 30 | [Ralph J\. Gleason Blues](https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red's Blues](https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS) | 6:40 |
 | 31 | [Doodlin' \- Remastered](https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 6:45 |
 | 32 | [Tenor madness](https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Swiss Nights, Vol\. 3](https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4) | 12:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 49 | [Old Clothes](https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 7:44 |
 | 50 | [Opus De Funk \- Remastered](https://open.spotify.com/track/59SgNbsj3NHKPjMApBmWHU) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver Trio](https://open.spotify.com/album/4Cu57f0WkNAOERhiCxGSSo) | 3:25 |
 
-Snapshot ID: `MTY0ODQ5OTIzMSwwMDAwMDAwMGE0MWRmM2Y3MDEwMDFiNmFhMGZlZDU2ZmJmOTM2ZDA3`
+Snapshot ID: `MTY0ODQ5OTIzMSwwMDAwMDAwMDM0MjRlOTE4ZGEwYzk4ZDRjNDVhMjk3NzZkYTdhYjFh`

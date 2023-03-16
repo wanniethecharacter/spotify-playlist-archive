@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Nabi, Rondo, Don Joe, Mikush e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,932 likes - 77 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,961 likes - 77 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Billkin
 
-312 songs - 18 hr 53 min
+313 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [CATCH THE NIGHT](https://open.spotify.com/track/0KWD90TVkrA0kyKW9MewrZ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [CATCH THE NIGHT](https://open.spotify.com/album/0tdfeZTire8YkmYCBOTOJn) | 3:08 | 2023-03-09 |  |
 | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5) | 2:58 | 2022-09-02 | 2022-09-16 |
 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 | 2022-09-08 | 2022-09-16 |
+| [Dum Dum](https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Dum Dum](https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1) | 3:15 | 2023-03-15 |  |
 | [Everytime](https://open.spotify.com/track/5PYOHo2Nbd6bQI1RovNJLN) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Everytime](https://open.spotify.com/album/5w8irJm7unlKJ6gIzlTaLe) | 3:04 | 2022-10-13 | 2022-11-04 |
 | [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 | 2022-11-03 |  |
 | [Flame](https://open.spotify.com/track/07yq4fcfWqPecc3z6kk3bb) | [XI](https://open.spotify.com/artist/00EYO9tpVSk1YkXQs1awnQ) | [Flame](https://open.spotify.com/album/1KQkObxhoz8QXlHotEp7PS) | 3:57 | 2022-08-31 | 2022-09-09 |
@@ -250,7 +251,7 @@
 | [เจ้าของที่ \(My Favorite\)](https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [Q.E.D](https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0) | 4:00 | 2022-05-26 |  |
 | [เจ้าใจ \- Liar](https://open.spotify.com/track/2KovoeIzjao7ZVNvjsWigW) | [Marc Tatchapon](https://open.spotify.com/artist/6bgJVFxXoLzHewXZmpdpGs) | [เจ้าใจ \(Liar\)](https://open.spotify.com/album/7gJJuBiAKIXqTHQyo8JGaE) | 3:21 | 2022-07-01 | 2022-07-31 |
 | [เดาไม่เก่ง](https://open.spotify.com/track/0FQuyJ6MTsvGcXQur2EPgk) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:06 | 2022-05-26 | 2022-10-27 |
-| [เถียงเก่ง \(Bad Mouth\)](https://open.spotify.com/track/5yvRKTDlHFLjAJ34TlazlN) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เถียงเก่ง \(Bad Mouth\) \[feat\. UrboyTJ\]](https://open.spotify.com/album/1RwPXnOxs97fKVZy572vvo) | 3:37 | 2023-03-02 |  |
+| [เถียงเก่ง \(Bad Mouth\)](https://open.spotify.com/track/5yvRKTDlHFLjAJ34TlazlN) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เถียงเก่ง \(Bad Mouth\) \[feat\. UrboyTJ\]](https://open.spotify.com/album/1RwPXnOxs97fKVZy572vvo) | 3:37 | 2023-03-02 | 2023-03-16 |
 | [เท่าไหร่ก็ไม่พอ](https://open.spotify.com/track/72YpO0c69zW1sdDxfdqQwf) | [Bell Supol](https://open.spotify.com/artist/2evGkOhBM2TYqcsdbfJmug) | [เท่าไหร่ก็ไม่พอ](https://open.spotify.com/album/2OaI9TOAJNRr5WWbOYsr0N) | 3:54 | 2022-07-01 | 2022-07-11 |
 | [เธอคนไหน \(U\-WHO\)](https://open.spotify.com/track/0AhcURCHS8NhcsHYRrEBH7) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [เธอคนไหน \(U\-WHO\)](https://open.spotify.com/album/57GVTJ24ATQb3SjA8apw4u) | 3:02 | 2022-08-18 | 2022-08-26 |
 | [เธอมีความหมาย \(My Treasure\)](https://open.spotify.com/track/5iDTtBDNjC1FBeLdgyF0LC) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [เธอมีความหมาย \(My Treasure\)](https://open.spotify.com/album/41piugn0SZiKzpmovdNDQw) | 3:26 | 2022-07-01 | 2022-07-24 |

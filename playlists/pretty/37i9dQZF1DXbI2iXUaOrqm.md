@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 
 > El soundtrack para los días rebeldes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 979 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 985 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 31 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
 | 32 | [Nada](https://open.spotify.com/track/09i3oMxXeiA6wWW6GN2DVk) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Archivos Vol\. 2: Duetos](https://open.spotify.com/album/3blJSYcNM4IGK6ohylk0pb) | 4:20 |
 | 33 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
-| 34 | [ADIÓS](https://open.spotify.com/track/77sReicKWZNkkHt4mvJsRJ) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [ADIÓS](https://open.spotify.com/album/3uKlDsuCyX7BDyRUJKuLvh) | 3:57 |
-| 35 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:03 |
+| 34 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:03 |
+| 35 | [ADIÓS](https://open.spotify.com/track/77sReicKWZNkkHt4mvJsRJ) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [ADIÓS](https://open.spotify.com/album/3uKlDsuCyX7BDyRUJKuLvh) | 3:57 |
 | 36 | [Nuevo Comienzo](https://open.spotify.com/track/67tXLMcNhEfTYBsuBQ8aHE) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nuevo Comienzo](https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg) | 3:06 |
-| 37 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 |
-| 38 | [Con los Pies en el Techo](https://open.spotify.com/track/6nMllahSeGPicYXH61ray7) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Con los Pies en el Techo](https://open.spotify.com/album/72aS3wri62UToYS68QLUn4) | 3:27 |
-| 39 | [Suplentes](https://open.spotify.com/track/7moz5TLsJI5r1QMycc5rUr) | [Arawato](https://open.spotify.com/artist/6nxwdNlg4g7FrLZZB43n5v) | [Suplentes](https://open.spotify.com/album/7rynoVmIF0ut7qpWPqCu0i) | 3:50 |
-| 40 | [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:57 |
-| 41 | [Cuenta conmigo](https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Cuenta conmigo](https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6) | 2:46 |
+| 37 | [Cuenta conmigo](https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Cuenta conmigo](https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6) | 2:46 |
+| 38 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 |
+| 39 | [Con los Pies en el Techo](https://open.spotify.com/track/6nMllahSeGPicYXH61ray7) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Con los Pies en el Techo](https://open.spotify.com/album/72aS3wri62UToYS68QLUn4) | 3:27 |
+| 40 | [Suplentes](https://open.spotify.com/track/7moz5TLsJI5r1QMycc5rUr) | [Arawato](https://open.spotify.com/artist/6nxwdNlg4g7FrLZZB43n5v) | [Suplentes](https://open.spotify.com/album/7rynoVmIF0ut7qpWPqCu0i) | 3:50 |
+| 41 | [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:57 |
 | 42 | [Me Tome Una Pastilla...](https://open.spotify.com/track/38qcLdCR7vSCkq3ClfaWpX) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Defecto Perfecto](https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx) | 4:38 |
 | 43 | [Punk](https://open.spotify.com/track/4AHH9NSQXomtAgucYN9MSG) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:13 |
 | 44 | [No Duele Llorar](https://open.spotify.com/track/2xZKtcwZyXBU4nGhoV8Pur) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [No Duele Llorar](https://open.spotify.com/album/156wKNnXDAWorx7jStw2ei) | 3:34 |
-| 45 | [La Casa de A](https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 3:16 |
-| 46 | [¿Qué Hubiera Pasado?](https://open.spotify.com/track/0EzdQKMxQGcXFjAKSyU2zk) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Qué Hubiera Pasado?](https://open.spotify.com/album/5cgt1mBp6BR1GWJVjJHRSs) | 2:36 |
-| 47 | [Despídete Bien](https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Despídete Bien](https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np) | 3:12 |
-| 48 | [Yonaguni](https://open.spotify.com/track/333TyrvOWbHpq0AIipyIHy) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [RPDF](https://open.spotify.com/album/3bwL8cvP3ALLfMEOOnLgc1) | 3:13 |
-| 49 | [Plaza en el cielo](https://open.spotify.com/track/0HCN1c8AGVd0AJKqdw7WOr) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/6vR3IjKZz96v4RXVdcN39q) | 3:26 |
+| 45 | [Plaza en el cielo](https://open.spotify.com/track/0HCN1c8AGVd0AJKqdw7WOr) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/6vR3IjKZz96v4RXVdcN39q) | 3:26 |
+| 46 | [La Casa de A](https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 3:16 |
+| 47 | [¿Qué Hubiera Pasado?](https://open.spotify.com/track/0EzdQKMxQGcXFjAKSyU2zk) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Qué Hubiera Pasado?](https://open.spotify.com/album/5cgt1mBp6BR1GWJVjJHRSs) | 2:36 |
+| 48 | [Despídete Bien](https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Despídete Bien](https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np) | 3:12 |
+| 49 | [Yonaguni](https://open.spotify.com/track/333TyrvOWbHpq0AIipyIHy) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [RPDF](https://open.spotify.com/album/3bwL8cvP3ALLfMEOOnLgc1) | 3:13 |
 | 50 | [Flaca \(De Cabeza A Los Pies\)](https://open.spotify.com/track/7GqzLEwjpTf5WCD0kIRsp8) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Duerme En Paz](https://open.spotify.com/album/63RkToY6nto4dKQDxqgMrG) | 3:06 |
 
-Snapshot ID: `MTY3ODQ3NjA2MSwwMDAwMDAwMGRmYmEyM2FlMjk1ZGViMWY5NDBlNTljMjkyY2ZlNzlk`
+Snapshot ID: `MTY3ODQ3NjA2MSwwMDAwMDAwMGQzNzU1ODNjZGNlZjJiN2U1MjJhZTRhYWFlNDdlYzQ3`

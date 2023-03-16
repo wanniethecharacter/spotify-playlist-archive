@@ -4,7 +4,7 @@
 
 > Press play, press start.
 
-625 songs - 1 day 7 hr 36 min
+626 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:54 | 2022-07-22 |  |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-11-10 | 2022-07-08 |
 | [Motley Crew](https://open.spotify.com/track/7jftylvYTpTrQVTWNlwxcB) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/2XdG8Ey5PGj4CRAXkYH3eo) | 3:03 | 2021-12-02 | 2022-07-29 |
+| [MOTTO](https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [MOTTO](https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE) | 3:37 | 2023-03-10 |  |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-03-11 |  |
 | [MP5 \(feat\. SoFaygo\)](https://open.spotify.com/track/3Dc7EiHP7aDOhTI92OQaKi) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Trip At Knight \(Complete Edition\)](https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz) | 2:40 | 2022-01-14 | 2022-01-29 |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-07-22 |  |
@@ -585,7 +586,7 @@
 | [Trigger](https://open.spotify.com/track/0Z26mbSHJ1dkUu7g9DDgif) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Trigger](https://open.spotify.com/album/3Fcqa5sb0vVYEEDHzkiOA1) | 2:51 | 2021-08-20 | 2022-04-19 |
 | [Tums](https://open.spotify.com/track/00HG0BYPrRQQ5S7HVhVNSy) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Tums](https://open.spotify.com/album/71faAIel0uVhPSmu8VJcj7) | 3:37 | 2021-11-05 | 2021-12-31 |
 | [Turban](https://open.spotify.com/track/4aMxs74PXoQg2SLgjypcvb) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:35 | 2022-01-14 | 2022-01-29 |
-| [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 | 2022-08-10 |  |
+| [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 | 2022-08-10 | 2023-03-16 |
 | [Tweakin' Together](https://open.spotify.com/track/6r639TM0j9JWM4jWJB1cVR) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [Tweakin' Together](https://open.spotify.com/album/3ib7Nuviot6Wm2PJ13f2da) | 2:06 | 2022-01-14 | 2022-01-29 |
 | [Tyler Herro](https://open.spotify.com/track/7oHmtTCo9RpZFgwA203wIR) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tyler Herro](https://open.spotify.com/album/3n9NwpQyoNSYYqJhCNCyO8) | 2:36 | 2022-04-14 | 2022-07-29 |
 | [U Are My High \(with Future\)](https://open.spotify.com/track/0ITaSRuI0L1RNL7ZNYTTi7) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [U Are My High \(with Future\)](https://open.spotify.com/album/3fG4IID2LEPJ7iBSsnVvuG) | 3:31 | 2022-04-20 | 2022-07-29 |

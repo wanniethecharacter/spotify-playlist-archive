@@ -4,7 +4,7 @@
 
 > L'unica party playlist di cui hai bisogno, sempre aggiornata 🍾
 
-206 songs - 11 hr 2 min
+207 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,9 +122,10 @@
 | [MADE IN ITALY](https://open.spotify.com/track/35BICD5dEJLVicj9cV0jhe) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Bdope](https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB) | [MADE IN ITALY](https://open.spotify.com/album/0miArJPcQRJwlfZ6OGs2WJ) | 2:58 | 2023-02-23 |  |
 | [malibu](https://open.spotify.com/track/01hEpx8jnOG4q7nDK14Rhi) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4fEIBZaOmbxZnzAJ9SEx4v) | 2:46 | 2022-05-03 | 2022-07-29 |
 | [Marianela \(Que Pasa\)](https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela \(Que Pasa\)](https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0) | 2:25 | 2022-12-30 |  |
+| [Me Gusta](https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Me Gusta](https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG) | 3:10 | 2023-02-23 |  |
 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-12-09 | 2023-02-24 |
 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 | 2022-05-03 | 2022-10-08 |
-| [Memories \(feat\. Kid Cudi\) \- 2021 Remix](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Memories \(feat\. Kid Cudi\) \[2021 Remix\]](https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX) | 2:42 | 2022-05-03 |  |
+| [Memories \(feat\. Kid Cudi\) \- 2021 Remix](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Memories \(feat\. Kid Cudi\) \[2021 Remix\]](https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX) | 2:42 | 2022-05-03 | 2023-03-16 |
 | [Mezzanotte](https://open.spotify.com/track/3hXAHE8hVhksnZjVlCj6Jn) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Mezzanotte](https://open.spotify.com/album/2mcP3mMXYCM9Wbqy7KBOco) | 2:45 | 2022-06-10 | 2022-07-08 |
 | [Mi Luz \(ft\. Rels B\)](https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [NASTU](https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk) | 2:48 | 2022-05-03 | 2022-05-10 |
 | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5) | 3:00 | 2022-12-09 | 2022-12-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,201 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,203 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 28 | [A Reminder \(Remix\)](https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [A Reminder \(Remix\)](https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA) | 4:45 |
 | 29 | [Wind On My Back](https://open.spotify.com/track/1aVYeyLNQSCvJgAIAR9xVb) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [The Cornerstone](https://open.spotify.com/album/27QcGr8iNyMvM2JvARlX47) | 4:00 |
 | 30 | [Walking on the Moon \(Acoustic\)](https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Cas Haley](https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz) | 3:29 |
-| 31 | [You Ain't Going Nowhere](https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [You Ain't Going Nowhere](https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ) | 2:25 |
-| 32 | [All Ways Love](https://open.spotify.com/track/1sfAxYGCFIz5M17vHimFxj) | [Tubby Love](https://open.spotify.com/artist/2iIIX35bw7TQhOve8Ur5tG), [Paul Izak](https://open.spotify.com/artist/2gsrDFiFvHxKkh8Qh5Zbys), [Anna Surento](https://open.spotify.com/artist/131dBEHpXd9Pe7W0ze96VE) | [Campfire Anthems, Vol\. I](https://open.spotify.com/album/5rVbfchsQDXcJQYF7sDHVw) | 3:42 |
-| 33 | [Indigo Sea](https://open.spotify.com/track/6u1bJVM3f8AvEfGDGpkBSH) | [Ajeet](https://open.spotify.com/artist/3sBtKwaTveANiltp7XgBLU), [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Indigo Sea](https://open.spotify.com/album/22uesuPEjJxkT7X8aa2r2N) | 4:47 |
+| 31 | [Indigo Sea](https://open.spotify.com/track/6u1bJVM3f8AvEfGDGpkBSH) | [Ajeet](https://open.spotify.com/artist/3sBtKwaTveANiltp7XgBLU), [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Indigo Sea](https://open.spotify.com/album/22uesuPEjJxkT7X8aa2r2N) | 4:47 |
+| 32 | [You Ain't Going Nowhere](https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [You Ain't Going Nowhere](https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ) | 2:25 |
+| 33 | [All Ways Love](https://open.spotify.com/track/1sfAxYGCFIz5M17vHimFxj) | [Tubby Love](https://open.spotify.com/artist/2iIIX35bw7TQhOve8Ur5tG), [Paul Izak](https://open.spotify.com/artist/2gsrDFiFvHxKkh8Qh5Zbys), [Anna Surento](https://open.spotify.com/artist/131dBEHpXd9Pe7W0ze96VE) | [Campfire Anthems, Vol\. I](https://open.spotify.com/album/5rVbfchsQDXcJQYF7sDHVw) | 3:42 |
 | 34 | [Warm Under the Light](https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Low Tide](https://open.spotify.com/album/3K7A6Y2B2pRIuIG779YQ5f) | 3:54 |
 | 35 | [These Are My Roots](https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [These Are My Roots](https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC) | 3:54 |
 | 36 | [Don't Hold Your Breath](https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [You're It!](https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 49 | [Caribbean Skies](https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [Heroin and Helicopters](https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1) | 3:59 |
 | 50 | [Lifeguard](https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Take Your Power Back](https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT) | 3:27 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDIyOGMyOWYwOGRhODg4ZjhlN2EwNjkzN2NhNDBjMzE2`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDk0NGM1ZGY5Y2YwMTI0MjAxMWZjODRlZDI1ODdiYWQx`

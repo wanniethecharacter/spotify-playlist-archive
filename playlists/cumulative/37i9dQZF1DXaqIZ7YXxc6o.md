@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Torren Foot
 
-430 songs - 23 hr 32 min
+431 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Watermelon Sugar \- Cover](https://open.spotify.com/track/1UgI6nIlNxNdcuRwqPFdKB) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Eluera](https://open.spotify.com/artist/7kvqbETQGxrUmRBEl6l10Q), [XD Project](https://open.spotify.com/artist/1zAuJhsIowtEsUZykFuaKM) | [Watermelon Sugar \(Cover\)](https://open.spotify.com/album/79Ye4k4S2pNh53dw4h30SD) | 2:43 | 2022-12-22 | 2023-02-03 |
 | [Wavy \- Woodrich RMX](https://open.spotify.com/track/1JDenZJzt8nDHJI2VgQaRS) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Vita](https://open.spotify.com/artist/1tJ9Zlpe4xDUsEJJ8Dvbz5), [Katos](https://open.spotify.com/artist/6NCeh7valPUefsderEL25F) | [Woodrich](https://open.spotify.com/album/5yUp2iOWGcQXN7I9qE5EOg) | 3:34 | 2023-02-02 | 2023-02-24 |
 | [Way Back](https://open.spotify.com/track/2mobDDzkskezluhIzhM7Sg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Way Back](https://open.spotify.com/album/01VCnhIMf2hE6FePTapW54) | 1:59 | 2023-01-05 | 2023-02-10 |
+| [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 | 2023-03-15 |  |
 | [We Should Get Lost](https://open.spotify.com/track/6i2dcVvDPfHp8EkrPf21bD) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Just Dance \#DQH1](https://open.spotify.com/album/3MQT2T0MAJA6lwMcEq3esV) | 2:08 | 2023-02-09 | 2023-03-10 |
 | [We Still Believe](https://open.spotify.com/track/0uoaYBn3prfGyWQR59wkeQ) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jamie Principle](https://open.spotify.com/artist/5obQFNrkFoWB51hm1JTHMw) | [We Still Believe](https://open.spotify.com/album/4U5Eel8ZnGcI15TLj33QYe) | 3:50 | 2023-02-16 | 2023-03-10 |
 | [We've Got A Good Thing Going \(Martyn Bootyspoon Remix\)](https://open.spotify.com/track/6ncfoJJ1OlQATm3W2nffE5) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Martyn Bootyspoon](https://open.spotify.com/artist/5uFRAVs4qRpxTU4Upl2SJC) | [We've Got A Good Thing Going \(Martyn Bootyspoon Remix\)](https://open.spotify.com/album/2BioND5qWue6phlc4dVKqf) | 4:38 | 2023-01-12 | 2023-02-03 |

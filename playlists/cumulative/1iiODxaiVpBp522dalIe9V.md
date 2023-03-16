@@ -2,7 +2,7 @@
 
 ### [Don't Mess With Texas](https://open.spotify.com/playlist/1iiODxaiVpBp522dalIe9V)
 
-> Hip hop heat from the Lone Star State featuring Megan Thee Stallion, Sauce Walka, Don Toliver, Travis Scott, Sunnitharapper, TrapboyDre10k, LilCJ Kasino, Sosamann, Peso Peso.
+> Hip hop heat from the Lone Star State featuring Sauce Walka, Asian Doll, Don Toliver, Travis Scott, TrapboyDre10k, LilCJ Kasino, Sosamann, Peso Peso.
 
 298 songs - 13 hr 44 min
 

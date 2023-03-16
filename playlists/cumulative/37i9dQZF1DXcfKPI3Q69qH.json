@@ -789,6 +789,24 @@
     },
     {
       "album": {
+        "name": "Season One",
+        "url": "https://open.spotify.com/album/6rUy6shxvIZsrLRwLgJD3b"
+      },
+      "artists": [
+        {
+          "name": "James Deacon",
+          "url": "https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230874,
+      "name": "Mamma",
+      "url": "https://open.spotify.com/track/4KrWcLip76seNBnjVlUgxg"
+    },
+    {
+      "album": {
         "name": "The Calling",
         "url": "https://open.spotify.com/album/2oC1Q4jkpr9EPrlH5wAKaG"
       },
@@ -800,7 +818,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 230874,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/66DKTykm14MvLFiyqfJFjA"

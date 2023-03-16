@@ -885,6 +885,28 @@
     },
     {
       "album": {
+        "name": "Don't Follow Me Because I'm Lost Too!!",
+        "url": "https://open.spotify.com/album/1kPXMfD3dMb8G7PCnP4af4"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        },
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172808,
+      "name": "Britnaeys new baby [125 BPM]",
+      "url": "https://open.spotify.com/track/5aD97KsD4tekRetjMLbL4i"
+    },
+    {
+      "album": {
         "name": "Bubble Beat",
         "url": "https://open.spotify.com/album/5p8ZcRknxkm5NZJGy3Ni3u"
       },
@@ -6674,7 +6696,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 201000,
       "name": "SICK",
       "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"

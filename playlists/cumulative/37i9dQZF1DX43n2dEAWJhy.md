@@ -4,7 +4,7 @@
 
 > Producer and DJ <a href="spotify:artist:4odLDriBk6oEZotzLPTSnD">Jessica Audiffred</a> has been captivating the crowd with her unique way of blending Bass & Trap, and this mix does not disappoint!
 
-25 songs - 1 hr 1 min
+26 songs - 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [Royal Mob \- Mixed](https://open.spotify.com/track/2OdVKrNAk8tntdMaJCfBkD) | [RAK](https://open.spotify.com/artist/3sodMowegH4NBuzDamQ9xR), [Kliptic](https://open.spotify.com/artist/5y6O9vl8dOVvL0CCSGrrCc) | [Royal Mob \(Mixed\)](https://open.spotify.com/album/2qTRncw1nCGkUwdVpvsX5M) | 3:00 | 2023-02-01 |  |
 | [Solastalgia \- Mixed](https://open.spotify.com/track/4s4zGFPhdcq83ogtPqFWWs) | [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP) | [Solastalgia \(Mixed\)](https://open.spotify.com/album/6GiGObvPa67ECdqIcuBDUG) | 2:16 | 2023-02-01 |  |
 | [Stupid Love \- Mixed](https://open.spotify.com/track/3ha4pG9L1Q2HzX7mRzxvdk) | [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Nia V](https://open.spotify.com/artist/1SfEO6H8Sp6ZZYUeZC3sJX) | [Stupid Love \(Mixed\)](https://open.spotify.com/album/2YqP4bmYmFUqwkfRLucA7o) | 2:55 | 2023-02-01 |  |
-| [The King Is Dead](https://open.spotify.com/track/0IFeuYP7vTwdEQf3ye0kqb) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl) | [The King Is Dead](https://open.spotify.com/album/64Irb3YbvqUgQo3yeV3gUM) | 2:35 | 2023-02-01 |  |
+| [The King Is Dead](https://open.spotify.com/track/0IFeuYP7vTwdEQf3ye0kqb) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl) | [The King Is Dead](https://open.spotify.com/album/64Irb3YbvqUgQo3yeV3gUM) | 2:35 | 2023-02-01 | 2023-03-16 |
 | [The King Is Dead \- Mixed](https://open.spotify.com/track/4vH5mVsSZc5otEjvs8fH4N) | [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [The King Is Dead \(Mixed\)](https://open.spotify.com/album/0MyHYlZBAewOxCzUPiT0QP) | 2:30 | 2023-02-01 | 2023-03-15 |
+| [The King Is Dead \- Mixed](https://open.spotify.com/track/4vNtcfFYV8jNgIjHuYKO3a) | [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [The King Is Dead \(Mixed\)](https://open.spotify.com/album/1GkUONN23gyEjpajGpRLx6) | 2:30 | 2023-03-15 |  |
 | [Trippin' \- KEEL Remix \- Mixed](https://open.spotify.com/track/4ziS1MYywO58qoPbZgRyP3) | [ARTIX!](https://open.spotify.com/artist/2d7Oro82tVznMBYXDoGiHy), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [KEEL](https://open.spotify.com/artist/01G5DkOdtzpimIyyznaSj3) | [Trippin' \- KEEL Remix \(Mixed\)](https://open.spotify.com/album/0g1vH7olmLs9WWtAlginI7) | 2:52 | 2023-02-01 |  |
 | [Wasted \- Mixed](https://open.spotify.com/track/5ku2NTjGRsi9UBSLFk7KCW) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Wasted \(Mixed\)](https://open.spotify.com/album/1vrdipeTXPXOQibCI7DUEj) | 2:45 | 2023-02-01 |  |
 | [You and Me \- Mixed](https://open.spotify.com/track/2JQ8ZxjKIkKHEIJbUtQy1T) | [Isaac Maya](https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8) | [You and Me \(Mixed\)](https://open.spotify.com/album/2EdrVYft56TlCaSdJv1uBz) | 3:24 | 2023-02-01 |  |

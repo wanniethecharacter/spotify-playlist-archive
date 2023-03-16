@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,398 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,436 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 36 | [Amaka \(feat\. Peruzzi\)](https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:47 |
 | 37 | [Don't Call Me Back](https://open.spotify.com/track/4THTRhTTIcqJFTfjMGNqhv) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Love & Light](https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu) | 2:32 |
 | 38 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 |
-| 39 | [Everything \(feat\. Stonebwoy\)](https://open.spotify.com/track/4DQUYxDUePsa8ZGLQWYXc5) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Everything \(feat\. Stonebwoy\)](https://open.spotify.com/album/5SsU6nRNTKpbmMB2sCk6XC) | 2:48 |
-| 40 | [Medusa \(feat\. Khaid\)](https://open.spotify.com/track/0iPj4DkNgyDLExLdgQrq9V) | [Layzee Ella](https://open.spotify.com/artist/5pvPu7OzfK3aKQaqKaEP4u), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Medusa \(feat\. Khaid\)](https://open.spotify.com/album/6KE6wjvSKD5EFoVI0jlff5) | 3:04 |
+| 39 | [Medusa \(feat\. Khaid\)](https://open.spotify.com/track/0iPj4DkNgyDLExLdgQrq9V) | [Layzee Ella](https://open.spotify.com/artist/5pvPu7OzfK3aKQaqKaEP4u), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Medusa \(feat\. Khaid\)](https://open.spotify.com/album/6KE6wjvSKD5EFoVI0jlff5) | 3:04 |
+| 40 | [Everything \(feat\. Stonebwoy\)](https://open.spotify.com/track/4DQUYxDUePsa8ZGLQWYXc5) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Everything \(feat\. Stonebwoy\)](https://open.spotify.com/album/5SsU6nRNTKpbmMB2sCk6XC) | 2:48 |
 | 41 | [Goodbye](https://open.spotify.com/track/6tFDS5LKWQbUFm0vZrhmvO) | [Shilexy](https://open.spotify.com/artist/7syExwVSn7jcM9VWQNU33d), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Goodbye](https://open.spotify.com/album/11Um6mbX3Mi0syR6IpDKqm) | 3:06 |
 | 42 | [Miss You](https://open.spotify.com/track/30PjTH4isfHAsIsa9lMVvh) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [Outcast Music](https://open.spotify.com/artist/2uNmS44lGiSLAV7R7jjbbh), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Miss You](https://open.spotify.com/album/3mbeypjgiTtwcHZW7uaozL) | 3:21 |
 | 43 | [Mine \(feat\. Boslen\)](https://open.spotify.com/track/5HvaoqWuK3TkkqOx9U94zv) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Mine \(feat\. Boslen\)](https://open.spotify.com/album/3fHEWdTydZmzMfOyfhSSll) | 3:10 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 46 | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4) | 3:18 |
 | 47 | [Dreamer](https://open.spotify.com/track/4HxlXzXwDyhMqxUHCXYD79) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 3:00 |
 | 48 | [Murvlana](https://open.spotify.com/track/0mTtZ8UbOySRQHkqaAA1CK) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:18 |
-| 49 | [I Want You Back](https://open.spotify.com/track/05vvj3SjXQd3eseXNgOAU7) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Original](https://open.spotify.com/album/4yFA6Gmc7juhuJzPCTgeIS) | 2:11 |
-| 50 | [I'm Sorry](https://open.spotify.com/track/3wFPcby1G24MrJdfY18rqi) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Festival of the Sun](https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD) | 3:17 |
+| 49 | [I'm Sorry](https://open.spotify.com/track/3wFPcby1G24MrJdfY18rqi) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Festival of the Sun](https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD) | 3:17 |
+| 50 | [I Want You Back](https://open.spotify.com/track/05vvj3SjXQd3eseXNgOAU7) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Original](https://open.spotify.com/album/4yFA6Gmc7juhuJzPCTgeIS) | 2:11 |
 
-Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMGIzYmQ1NTA3NmE4ZWZmNzhmNmQ2NzM2MjlmOGExYjk4`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMDZiYzk5MjgzMTgzYmM3MDYwZWIwNWVjNTdlNzJjN2U1`

@@ -434,7 +434,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 109001,
       "name": "Alemaari Jothe",
       "url": "https://open.spotify.com/track/6OKq2FwQRp3ZjLh3yaRySS"
@@ -1126,6 +1126,24 @@
       "duration_ms": 300105,
       "name": "Baalu Idu Baalu (From \"Hare Rama Hare Krishna\")",
       "url": "https://open.spotify.com/track/6VYhKc77yAknXOlWbD27n4"
+    },
+    {
+      "album": {
+        "name": "Baanadariyalli Hode Yelli (from \"Baanadariyalli\")",
+        "url": "https://open.spotify.com/album/4O8tIcK8FTWjGraD0q6KAB"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187785,
+      "name": "Baanadariyalli Hode Yelli (from \"Baanadariyalli\")",
+      "url": "https://open.spotify.com/track/5mmgqY4iWniZeCKL0vkiK8"
     },
     {
       "album": {
@@ -2861,6 +2879,36 @@
     },
     {
       "album": {
+        "name": "Dharaniya Dhamaniya (From \"Dhairyam Sarvatra Sadhanam\")",
+        "url": "https://open.spotify.com/album/6Dw8OQsAnghvX1wLNURemL"
+      },
+      "artists": [
+        {
+          "name": "Prithvi Baradwaj",
+          "url": "https://open.spotify.com/artist/1PN814D4HAnvoTkXTCVnzr"
+        },
+        {
+          "name": "Judah Sandhy",
+          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
+        },
+        {
+          "name": "AR Sai Ramm",
+          "url": "https://open.spotify.com/artist/523IVV2DwdjYJTlwL6GJCZ"
+        },
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286250,
+      "name": "Dharaniya Dhamaniya - From \"Dhairyam Sarvatra Sadhanam\"",
+      "url": "https://open.spotify.com/track/0znT06DbSQ4ApZbJjbhDr9"
+    },
+    {
+      "album": {
         "name": "Dhikkara Ninage Devare (From \"James - Kannada\")",
         "url": "https://open.spotify.com/album/1rzztSE58KV2EFAbbfuwJ1"
       },
@@ -4006,7 +4054,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 52659,
       "name": "Ghost Theme Music - from \"Ghost\"",
       "url": "https://open.spotify.com/track/1WOiJdI02yDA33t5gjHwa0"
@@ -4904,7 +4952,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 271256,
       "name": "Hrudayavantha Vishnu",
       "url": "https://open.spotify.com/track/6XA9ZeBY87SHUko11u7b1c"
@@ -5860,7 +5908,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 129412,
       "name": "Kamanabillu (From \"Long Drive\")",
       "url": "https://open.spotify.com/track/1Ibw2giLt6qnqPdqqehqob"
@@ -6532,7 +6580,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 85333,
       "name": "KTM (Teaser Song) - From \"KTM\"",
       "url": "https://open.spotify.com/track/5a24SEoGoRlgECb8doSbrx"
@@ -6734,7 +6782,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 186459,
       "name": "Let's Go Party",
       "url": "https://open.spotify.com/track/0Ey1yjsDbvFgiq7yAHRJDe"
@@ -7462,6 +7510,28 @@
       "duration_ms": 236486,
       "name": "Maretidda Nenapondu ( From \"Avartha\")",
       "url": "https://open.spotify.com/track/5WBDcW3WnQMVPV5MkJsoNW"
+    },
+    {
+      "album": {
+        "name": "Mariguddada Gaddadharigalu (From \"Mariguddada Gaddadharigalu\")",
+        "url": "https://open.spotify.com/album/2mpJ5ccNUU848tIkVyCjJY"
+      },
+      "artists": [
+        {
+          "name": "Indra Km",
+          "url": "https://open.spotify.com/artist/01DBelbbp9JVhIr4YBxbEu"
+        },
+        {
+          "name": "R Chandrakanth",
+          "url": "https://open.spotify.com/artist/3ioy3oViHXpjwSNOGP037L"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228843,
+      "name": "Mariguddada Gaddadharigalu - From \"Mariguddada Gaddadharigalu\"",
+      "url": "https://open.spotify.com/track/4ZtOpOdmn9uRzqMIrpAUq6"
     },
     {
       "album": {
@@ -8772,6 +8842,24 @@
       "duration_ms": 281584,
       "name": "Navilina Gari",
       "url": "https://open.spotify.com/track/4OL9i29BQ6alzdVcEJ2WEj"
+    },
+    {
+      "album": {
+        "name": "Nee Iralu Nannali (from \"Samarthya\")",
+        "url": "https://open.spotify.com/album/2xkBK7AGf6wiZP5VckIUGl"
+      },
+      "artists": [
+        {
+          "name": "Arun Andrew",
+          "url": "https://open.spotify.com/artist/3NMg8F6trpYFOtvlt6FTVM"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230024,
+      "name": "Nee Iralu Nannali (from \"Samarthya\")",
+      "url": "https://open.spotify.com/track/5AE0naO0fPaJwwuTbuXXs4"
     },
     {
       "album": {
@@ -12528,7 +12616,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 84138,
       "name": "The Family Ballad (From \"Vikrant Rona\") [KANNADA]",
       "url": "https://open.spotify.com/track/36abs6RCtMszC7MjJWZDQz"
@@ -13198,7 +13286,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 134402,
       "name": "Yaare Iddharu Kadhanali",
       "url": "https://open.spotify.com/track/120NQE8mXG3zwlQJa59mNi"

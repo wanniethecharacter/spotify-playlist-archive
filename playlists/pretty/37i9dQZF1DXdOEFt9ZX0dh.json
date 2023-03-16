@@ -1,12 +1,12 @@
 {
   "description": "Classic rock to get your motor running. Cover: AC/DC",
-  "num_followers": 821358,
+  "num_followers": 821846,
   "original_name": "Classic Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUxNjk1MCwwMDAwMDAwMDBiYTkwZGNjMDFlMTZlZjE3OTMzZWM0NDExNDgzMmFj",
+  "snapshot_id": "MTY1NjUxNjk1MCwwMDAwMDAwMGM2MjczOGJmMGNiNzVkZTRlMTAyMWIyZTdkZTg2Njk2",
   "tracks": [
     {
       "added_at": "2021-03-02 18:13:49",
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 146250,
       "name": "Immigrant Song - Remaster",
       "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 356066,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -411,18 +411,18 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
       "artists": [
         {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 333893,
-      "name": "Whole Lotta Love - 1990 Remaster",
-      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
+      "duration_ms": 273480,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -439,6 +439,22 @@
       "duration_ms": 210173,
       "name": "You Shook Me All Night Long",
       "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 333893,
+      "name": "Whole Lotta Love - 1990 Remaster",
+      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -471,22 +487,6 @@
       "duration_ms": 240800,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 273480,
-      "name": "Welcome To The Jungle",
-      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -619,6 +619,22 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 405600,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
         "name": "Little Queen",
         "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 423840,
       "name": "Layla",
       "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 405600,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Trash",
-        "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 270080,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 274088,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Trash",
+        "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 270080,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Fire And Water",
-        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 330643,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Shake Your Money Maker",
         "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 188066,
       "name": "Hard To Handle",
       "url": "https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Fire And Water",
+        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 330643,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 243826,
-      "name": "Roadhouse Blues",
-      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Idlewild South (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T"
       },
@@ -1177,20 +1161,20 @@
       "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
     },
     {
-      "added_at": "2022-06-29 15:35:49",
+      "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Ram Jam",
-        "url": "https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD"
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
       "artists": [
         {
-          "name": "Ram Jam",
-          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 238973,
-      "name": "Black Betty",
-      "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
+      "duration_ms": 243826,
+      "name": "Roadhouse Blues",
+      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1207,6 +1191,22 @@
       "duration_ms": 286219,
       "name": "Life in the Fast Lane - 2013 Remaster",
       "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
+    },
+    {
+      "added_at": "2022-06-29 15:35:49",
+      "album": {
+        "name": "Ram Jam",
+        "url": "https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD"
+      },
+      "artists": [
+        {
+          "name": "Ram Jam",
+          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
+        }
+      ],
+      "duration_ms": 238973,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 263333,
+      "name": "Ramble On - 1990 Remaster",
+      "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
         "name": "Moving Pictures (2011 Remaster)",
         "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+        "name": "Foreigner (Expanded)",
+        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
       },
       "artists": [
         {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
         }
       ],
-      "duration_ms": 263333,
-      "name": "Ramble On - 1990 Remaster",
-      "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd"
+      "duration_ms": 200213,
+      "name": "Cold as Ice",
+      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1323,22 +1339,6 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Foreigner (Expanded)",
-        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Cold as Ice",
-      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Van Halen (Remastered)",
-        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Runnin' with the Devil - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
+      "duration_ms": 259800,
+      "name": "Juke Box Hero",
+      "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1435,6 +1435,22 @@
       "duration_ms": 271573,
       "name": "Magic Carpet Ride",
       "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Runnin' with the Devil - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
     },
     {
       "added_at": "2022-06-08 19:19:44",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "Mama, I'm Coming Home",
-      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Sheer Heart Attack (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj"
       },
@@ -1487,34 +1487,18 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
       },
       "artists": [
         {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 259800,
-      "name": "Juke Box Hero",
-      "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "The Marshall Tucker Band",
-        "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
-      },
-      "artists": [
-        {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
-        }
-      ],
-      "duration_ms": 365093,
-      "name": "Can't You See",
-      "url": "https://open.spotify.com/track/4fUU9WKxEgJXyrZJsUA2iP"
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
     },
     {
       "added_at": "2022-04-08 19:07:59",
@@ -1531,6 +1515,22 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "The Marshall Tucker Band",
+        "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+        }
+      ],
+      "duration_ms": 365093,
+      "name": "Can't You See",
+      "url": "https://open.spotify.com/track/4fUU9WKxEgJXyrZJsUA2iP"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
+        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Gimme Three Steps",
+      "url": "https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
         "name": "Steppenwolf",
         "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Hot for Teacher - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
-        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
       "artists": [
         {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 267173,
-      "name": "Gimme Three Steps",
-      "url": "https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x"
+      "duration_ms": 282746,
+      "name": "Hot for Teacher - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -2173,22 +2173,6 @@
       "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
     },
     {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Quiet Riot - Greatest Hits",
-        "url": "https://open.spotify.com/album/1JSjQhsnC2xElFjTVG3Qhy"
-      },
-      "artists": [
-        {
-          "name": "Quiet Riot",
-          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "Cum on Feel the Noize",
-      "url": "https://open.spotify.com/track/6FBmHx1FuaSnTnnnaThgbF"
-    },
-    {
       "added_at": "2022-04-08 19:07:59",
       "album": {
         "name": "Double Vision (Expanded)",
@@ -2203,6 +2187,22 @@
       "duration_ms": 268693,
       "name": "Hot Blooded",
       "url": "https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Quiet Riot - Greatest Hits",
+        "url": "https://open.spotify.com/album/1JSjQhsnC2xElFjTVG3Qhy"
+      },
+      "artists": [
+        {
+          "name": "Quiet Riot",
+          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "Cum on Feel the Noize",
+      "url": "https://open.spotify.com/track/6FBmHx1FuaSnTnnnaThgbF"
     },
     {
       "added_at": "2022-04-08 19:07:59",
@@ -2349,20 +2349,20 @@
       "url": "https://open.spotify.com/track/36vTL8WP4ZoD1bbUaW0V3E"
     },
     {
-      "added_at": "2022-06-08 19:19:44",
+      "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Fly By Night",
-        "url": "https://open.spotify.com/album/3ZtICWkqezf0bBTUwY1Khe"
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
       "artists": [
         {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 202200,
-      "name": "Fly By Night",
-      "url": "https://open.spotify.com/track/54TaGh2JKs1pO9daXNXI5q"
+      "duration_ms": 163800,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -2381,20 +2381,20 @@
       "url": "https://open.spotify.com/track/39C5FuZ8C8M0QI8CrMsPkR"
     },
     {
-      "added_at": "2021-03-02 18:13:49",
+      "added_at": "2022-06-08 19:19:44",
       "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+        "name": "Fly By Night",
+        "url": "https://open.spotify.com/album/3ZtICWkqezf0bBTUwY1Khe"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
         }
       ],
-      "duration_ms": 163800,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq"
+      "duration_ms": 202200,
+      "name": "Fly By Night",
+      "url": "https://open.spotify.com/track/54TaGh2JKs1pO9daXNXI5q"
     },
     {
       "added_at": "2022-04-08 19:07:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Kamaiyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,544 likes - 55 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,583 likes - 55 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 36 | [Gallery](https://open.spotify.com/track/6L8SpH68TcGEy2PYsHICEy) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Gallery](https://open.spotify.com/album/0dvxB8rEM4hO5iQK8sTqTP) | 2:34 |
 | 37 | [Vacuum](https://open.spotify.com/track/0VlFLxv61PqWfZpCPZDfMa) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e) | [Vacuum](https://open.spotify.com/album/30JyWQE6XI5ljRjB6wwvnV) | 2:54 |
 | 38 | [Champagne Tears](https://open.spotify.com/track/68KMtOaV3uxUc639uTCoSw) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Champagne Tears](https://open.spotify.com/album/0KljOvQxT7RwZqJ8TdM9Py) | 2:12 |
-| 39 | [60 Days](https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [60 Days](https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS) | 3:00 |
+| 39 | [60 Days](https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [60 Days](https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS) | 3:19 |
 | 40 | [Terry Davis](https://open.spotify.com/track/5CxvjoDRlsRZeYxJgvvzU1) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Terry Davis](https://open.spotify.com/album/3doyvjswVMNHImDkyllMt5) | 3:13 |
 | 41 | [FOMF](https://open.spotify.com/track/1q9huadusReYqEjnENS3uw) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 2:40 |
 | 42 | [Tradeline](https://open.spotify.com/track/3ILtDXaZM2TjJuhAOzgk2u) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Tradeline](https://open.spotify.com/album/16PMPx5G0MTsrjFVbkUsKR) | 3:58 |

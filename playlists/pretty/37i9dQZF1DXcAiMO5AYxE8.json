@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 472185,
+  "num_followers": 472260,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMGNhOTU4MmIxMTM3ZjUxYWM4MTQ2ZmUyYzBkYThjZGUz",
+  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMGQ0MzhhYWY0OGFmNTNjY2Q3MzI1MDA2OTY1NDYxOWEz",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -291,6 +291,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "September (sped up + slowed)",
+        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 216022,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Altogether",
         "url": "https://open.spotify.com/album/4ht5RbpnT3PA1rk2M8P0OS"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Love Come Down: The Best of Evelyn \"Champagne\" King",
-        "url": "https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz"
-      },
-      "artists": [
-        {
-          "name": "Evelyn \"Champagne\" King",
-          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
-        }
-      ],
-      "duration_ms": 392800,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/6KlnQC66NiJTdO88aL62SF"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/31eNtoMOM0eUpPwJKtAxTL"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 227261,
       "name": "Shake Your Body (Down to the Ground) - 7\" Version",
       "url": "https://open.spotify.com/track/26QORAYrHVWk6Pn6ELkzvn"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Love Come Down: The Best of Evelyn \"Champagne\" King",
+        "url": "https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz"
+      },
+      "artists": [
+        {
+          "name": "Evelyn \"Champagne\" King",
+          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
+        }
+      ],
+      "duration_ms": 392800,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/6KlnQC66NiJTdO88aL62SF"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -499,22 +515,6 @@
       "duration_ms": 196440,
       "name": "I Was Made for Dancin'",
       "url": "https://open.spotify.com/track/3kovBaZ1LGLH1PL31qG7cL"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "September (sped up + slowed)",
-        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 216022,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
     },
     {
       "added_at": "2020-04-14 18:41:41",

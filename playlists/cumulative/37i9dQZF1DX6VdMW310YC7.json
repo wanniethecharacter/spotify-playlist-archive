@@ -1649,6 +1649,28 @@
     },
     {
       "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/52LjmcLoxe5pcPFjaONm2Z"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        },
+        {
+          "name": "bailey",
+          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196562,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/6ADZbTdA2DLTI0iXWgxB6q"
+    },
+    {
+      "album": {
         "name": "Anywhere You Go (feat. Timmy Trumpet)",
         "url": "https://open.spotify.com/album/3qctMJQwBjfV5M7lvHYpSy"
       },
@@ -7990,7 +8012,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 261120,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/1IQIzH150iF2R5NaBRyGAG"
@@ -11390,6 +11412,28 @@
       "duration_ms": 235085,
       "name": "Hologram",
       "url": "https://open.spotify.com/track/3QUiaFjKkp3EkCuJ7pa1PX"
+    },
+    {
+      "album": {
+        "name": "Hologram",
+        "url": "https://open.spotify.com/album/278Wc6KOqM1juXvUi6fwpt"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "LeyeT",
+          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Hologram",
+      "url": "https://open.spotify.com/track/210bt3QeLgxfbcSKikEeNT"
     },
     {
       "album": {
@@ -26142,7 +26186,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 209364,
       "name": "To Feel Alive",
       "url": "https://open.spotify.com/track/52Ef7FHOaP7KRzlhTrw8LC"

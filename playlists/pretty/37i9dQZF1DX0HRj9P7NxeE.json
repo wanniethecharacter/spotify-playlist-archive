@@ -1,12 +1,12 @@
 {
   "description": "Get your body right with this workout twerkout",
-  "num_followers": 1755705,
+  "num_followers": 1755877,
   "original_name": "Workout Twerkout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGIyMjYyZWYyYjk5ZTMyNWJmOTA3NDdmMmE5OWEwNTli",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDg1NDEwYjcwNzY1NTUzZTA2ZWIyMmE4MGMyMjZkZDRj",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -99,26 +99,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Lottery (feat. LU KALA)",
-        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "LU KALA",
-          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
-        }
-      ],
-      "duration_ms": 186761,
-      "name": "Lottery (feat. LU KALA)",
-      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Anyways, Life\u2019s Great\u2026",
         "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Lottery (feat. LU KALA)",
+        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "duration_ms": 186761,
+      "name": "Lottery (feat. LU KALA)",
+      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -459,22 +459,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Booty (feat. Latto)",
-        "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
+        "name": "Blick Blick",
+        "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
       },
       "artists": [
         {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         },
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 146666,
-      "name": "Booty (feat. Latto)",
-      "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
+      "duration_ms": 178413,
+      "name": "Blick Blick (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -507,22 +507,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Blick Blick",
-        "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
+        "name": "Booty (feat. Latto)",
+        "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
         },
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 178413,
-      "name": "Blick Blick (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
+      "duration_ms": 146666,
+      "name": "Booty (feat. Latto)",
+      "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -807,26 +807,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "No Clappin' Shemix (Throw It)",
-        "url": "https://open.spotify.com/album/10wYFzsg9sNxbdqliDHThs"
+        "name": "Wifey",
+        "url": "https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J"
       },
       "artists": [
         {
-          "name": "Spiffy The Goat",
-          "url": "https://open.spotify.com/artist/5QKfLwrOBz4E24qpXufU32"
-        },
-        {
           "name": "Rubi Rose",
           "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
-        },
-        {
-          "name": "Erica Banks",
-          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
         }
       ],
-      "duration_ms": 141573,
-      "name": "No Clappin' Shemix (Throw It)",
-      "url": "https://open.spotify.com/track/382nGMKiFtrip7ZZxAyeZZ"
+      "duration_ms": 123428,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -847,18 +839,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Wifey",
-        "url": "https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J"
+        "name": "THICK (feat. Megan Thee Stallion) [Remix]",
+        "url": "https://open.spotify.com/album/7oqb6dNNBKiukDeiaqAo5C"
       },
       "artists": [
         {
-          "name": "Rubi Rose",
-          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+          "name": "DJ Chose",
+          "url": "https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 123428,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy"
+      "duration_ms": 205296,
+      "name": "THICK (feat. Megan Thee Stallion) - Remix",
+      "url": "https://open.spotify.com/track/52ySvuxscDGsXUVsci1Kpa"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -895,22 +891,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "THICK (feat. Megan Thee Stallion) [Remix]",
-        "url": "https://open.spotify.com/album/7oqb6dNNBKiukDeiaqAo5C"
+        "name": "No Clappin' Shemix (Throw It)",
+        "url": "https://open.spotify.com/album/10wYFzsg9sNxbdqliDHThs"
       },
       "artists": [
         {
-          "name": "DJ Chose",
-          "url": "https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq"
+          "name": "Spiffy The Goat",
+          "url": "https://open.spotify.com/artist/5QKfLwrOBz4E24qpXufU32"
         },
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+        },
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
         }
       ],
-      "duration_ms": 205296,
-      "name": "THICK (feat. Megan Thee Stallion) - Remix",
-      "url": "https://open.spotify.com/track/52ySvuxscDGsXUVsci1Kpa"
+      "duration_ms": 141573,
+      "name": "No Clappin' Shemix (Throw It)",
+      "url": "https://open.spotify.com/track/382nGMKiFtrip7ZZxAyeZZ"
     },
     {
       "added_at": "2023-03-10 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 29004,
+  "num_followers": 29054,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzE1MSwwMDAwMDAwMGQ5ZmI4ZDkwNzFjMTkwNTUyNDQyZWFkNTZkM2YyN2Ni",
+  "snapshot_id": "MTY3Nzg2NzE1MSwwMDAwMDAwMDBmYThiMmI2NTU3ZGQ2YWNkMGExYjRhOWQ5MTRiMzY3",
   "tracks": [
     {
       "added_at": "2023-03-03 18:12:31",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-03-03 18:12:31",
       "album": {
-        "name": "Death Chants, Breakdowns And Military Waltzes",
-        "url": "https://open.spotify.com/album/05HGeZ7JSfwJiOpaToYzUu"
-      },
-      "artists": [
-        {
-          "name": "John Fahey",
-          "url": "https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "Sunflower River Blues - Re-Recorded Version",
-      "url": "https://open.spotify.com/track/6CePeHbXmgwna8B5dC6xKV"
-    },
-    {
-      "added_at": "2023-03-03 18:12:31",
-      "album": {
         "name": "Blues On The Bayou",
         "url": "https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 209840,
       "name": "Blues Boys Tune",
       "url": "https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl"
+    },
+    {
+      "added_at": "2023-03-03 18:12:31",
+      "album": {
+        "name": "Death Chants, Breakdowns And Military Waltzes",
+        "url": "https://open.spotify.com/album/05HGeZ7JSfwJiOpaToYzUu"
+      },
+      "artists": [
+        {
+          "name": "John Fahey",
+          "url": "https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7"
+        }
+      ],
+      "duration_ms": 200333,
+      "name": "Sunflower River Blues - Re-Recorded Version",
+      "url": "https://open.spotify.com/track/6CePeHbXmgwna8B5dC6xKV"
     },
     {
       "added_at": "2023-03-03 18:12:31",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-03-03 18:12:31",
       "album": {
-        "name": "Genuine Houserocking Music",
-        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "Phillips Goes Bananas",
-      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
-    },
-    {
-      "added_at": "2023-03-03 18:12:31",
-      "album": {
         "name": "Stay High [Feat. Cory Henry]",
         "url": "https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 193551,
       "name": "Stay High [Feat. Cory Henry]",
       "url": "https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS"
+    },
+    {
+      "added_at": "2023-03-03 18:12:31",
+      "album": {
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Phillips Goes Bananas",
+      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
     },
     {
       "added_at": "2023-03-03 18:12:31",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-03-03 18:12:31",
       "album": {
-        "name": "Mile End ll",
-        "url": "https://open.spotify.com/album/5qYes0QKG0BY95DanQkzsz"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 217893,
-      "name": "Runner",
-      "url": "https://open.spotify.com/track/2Dec3RFyyRpZR6eKhA2yaf"
-    },
-    {
-      "added_at": "2023-03-03 18:12:31",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 279232,
       "name": "Smooth Night",
       "url": "https://open.spotify.com/track/2SSwokelCpWlRssUkFqd94"
+    },
+    {
+      "added_at": "2023-03-03 18:12:31",
+      "album": {
+        "name": "Mile End ll",
+        "url": "https://open.spotify.com/album/5qYes0QKG0BY95DanQkzsz"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 217893,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/2Dec3RFyyRpZR6eKhA2yaf"
     },
     {
       "added_at": "2023-03-03 18:12:31",
@@ -779,22 +779,22 @@
     {
       "added_at": "2023-03-03 18:12:31",
       "album": {
-        "name": "Gaslighter's Ball",
-        "url": "https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo"
+        "name": "In Session (Remaster w/ eBooklet)",
+        "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
       "artists": [
         {
-          "name": "Funkwrench Blues",
-          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
         },
         {
-          "name": "Joanna Connor",
-          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 190956,
-      "name": "Gaslighter's Ball",
-      "url": "https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg"
+      "duration_ms": 500586,
+      "name": "Overall Junction",
+      "url": "https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF"
     },
     {
       "added_at": "2023-03-03 18:12:31",
@@ -815,22 +815,22 @@
     {
       "added_at": "2023-03-03 18:12:31",
       "album": {
-        "name": "In Session (Remaster w/ eBooklet)",
-        "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
+        "name": "Gaslighter's Ball",
+        "url": "https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo"
       },
       "artists": [
         {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
         },
         {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
         }
       ],
-      "duration_ms": 500586,
-      "name": "Overall Junction",
-      "url": "https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF"
+      "duration_ms": 190956,
+      "name": "Gaslighter's Ball",
+      "url": "https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg"
     },
     {
       "added_at": "2023-03-03 18:12:31",
@@ -927,22 +927,18 @@
     {
       "added_at": "2023-03-03 18:12:31",
       "album": {
-        "name": "Sunfall",
-        "url": "https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5"
+        "name": "Put It",
+        "url": "https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5"
       },
       "artists": [
         {
-          "name": "Sarah Rogo",
-          "url": "https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy"
-        },
-        {
-          "name": "Haus Music",
-          "url": "https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6"
+          "name": "TrackTribe",
+          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
         }
       ],
-      "duration_ms": 240259,
-      "name": "Sunfall Blues",
-      "url": "https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s"
+      "duration_ms": 210260,
+      "name": "Put It",
+      "url": "https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb"
     },
     {
       "added_at": "2023-03-03 18:12:31",
@@ -963,18 +959,22 @@
     {
       "added_at": "2023-03-03 18:12:31",
       "album": {
-        "name": "Screamin' the Blues",
-        "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
+        "name": "Sunfall",
+        "url": "https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5"
       },
       "artists": [
         {
-          "name": "Screamin' Jay Hawkins",
-          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
+          "name": "Sarah Rogo",
+          "url": "https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy"
+        },
+        {
+          "name": "Haus Music",
+          "url": "https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6"
         }
       ],
-      "duration_ms": 188800,
-      "name": "Sweet Ginny",
-      "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
+      "duration_ms": 240259,
+      "name": "Sunfall Blues",
+      "url": "https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s"
     },
     {
       "added_at": "2023-03-03 18:12:31",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-03-03 18:12:31",
       "album": {
-        "name": "Put It",
-        "url": "https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5"
+        "name": "Screamin' the Blues",
+        "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
       },
       "artists": [
         {
-          "name": "TrackTribe",
-          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
+          "name": "Screamin' Jay Hawkins",
+          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
         }
       ],
-      "duration_ms": 210260,
-      "name": "Put It",
-      "url": "https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb"
+      "duration_ms": 188800,
+      "name": "Sweet Ginny",
+      "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
     },
     {
       "added_at": "2023-03-03 18:12:31",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-03-03 18:12:31",
       "album": {
-        "name": "The Sulfur Blues",
-        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
-      },
-      "artists": [
-        {
-          "name": "Andrea Chiarini",
-          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "The Sulfur Blues",
-      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
-    },
-    {
-      "added_at": "2023-03-03 18:12:31",
-      "album": {
         "name": "Night Train",
         "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2023-03-03 18:12:31",
       "album": {
+        "name": "The Sulfur Blues",
+        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
+      },
+      "artists": [
+        {
+          "name": "Andrea Chiarini",
+          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "The Sulfur Blues",
+      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
+    },
+    {
+      "added_at": "2023-03-03 18:12:31",
+      "album": {
         "name": "Roll Forward",
         "url": "https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 361689,
       "name": "Easy Does It Blues",
       "url": "https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12"
-    },
-    {
-      "added_at": "2023-03-03 18:12:31",
-      "album": {
-        "name": "Ain't That Lovin' You Baby",
-        "url": "https://open.spotify.com/album/1mIbq48CsGpnutDy0WQgr6"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Boogie in the Dark",
-      "url": "https://open.spotify.com/track/3ZoDX5gz2PHQCKqRhJ3mKR"
     },
     {
       "added_at": "2023-03-03 18:12:31",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2023-03-03 18:12:31",
       "album": {
+        "name": "I Feel Like Goin' On",
+        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        }
+      ],
+      "duration_ms": 393666,
+      "name": "Little Johnny Lee",
+      "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
+    },
+    {
+      "added_at": "2023-03-03 18:12:31",
+      "album": {
         "name": "Boedo's Blues",
         "url": "https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf"
       },
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-03-03 18:12:31",
       "album": {
-        "name": "I Feel Like Goin' On",
-        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+        "name": "Ain't That Lovin' You Baby",
+        "url": "https://open.spotify.com/album/1mIbq48CsGpnutDy0WQgr6"
       },
       "artists": [
         {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
         }
       ],
-      "duration_ms": 393666,
-      "name": "Little Johnny Lee",
-      "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
+      "duration_ms": 153973,
+      "name": "Boogie in the Dark",
+      "url": "https://open.spotify.com/track/3ZoDX5gz2PHQCKqRhJ3mKR"
     },
     {
       "added_at": "2023-03-03 18:12:31",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2023-03-03 18:12:31",
       "album": {
+        "name": "Mr. B.",
+        "url": "https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs"
+      },
+      "artists": [
+        {
+          "name": "Tomislav Goluban",
+          "url": "https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN"
+        },
+        {
+          "name": "Bo\u0161ko Petrovi\u0107",
+          "url": "https://open.spotify.com/artist/2GGvRFBST0G71PsDnFNOrA"
+        }
+      ],
+      "duration_ms": 405346,
+      "name": "Mr. B.",
+      "url": "https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE"
+    },
+    {
+      "added_at": "2023-03-03 18:12:31",
+      "album": {
         "name": "Room To Move 1969 - 1974",
         "url": "https://open.spotify.com/album/6YGnkpsMZTH3fMuvhdC3WL"
       },
@@ -1247,6 +1267,22 @@
       "duration_ms": 133533,
       "name": "Boogie Albert",
       "url": "https://open.spotify.com/track/54XdAhnIsuW0YevJyI1e1P"
+    },
+    {
+      "added_at": "2023-03-03 18:12:31",
+      "album": {
+        "name": "I Feel Like Goin' On",
+        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        }
+      ],
+      "duration_ms": 509106,
+      "name": "Blues For Otis Rush",
+      "url": "https://open.spotify.com/track/67BXudHoNp6ReHBJcDXOgY"
     },
     {
       "added_at": "2023-03-03 18:12:31",
@@ -1267,22 +1303,6 @@
     {
       "added_at": "2023-03-03 18:12:31",
       "album": {
-        "name": "Blues On The South Side",
-        "url": "https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC"
-      },
-      "artists": [
-        {
-          "name": "Homesick James",
-          "url": "https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Homesick's Shuffle",
-      "url": "https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih"
-    },
-    {
-      "added_at": "2023-03-03 18:12:31",
-      "album": {
         "name": "Theresa Fungus Amung Us",
         "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
       },
@@ -1299,22 +1319,18 @@
     {
       "added_at": "2023-03-03 18:12:31",
       "album": {
-        "name": "Mr. B.",
-        "url": "https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs"
+        "name": "Blues On The South Side",
+        "url": "https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC"
       },
       "artists": [
         {
-          "name": "Tomislav Goluban",
-          "url": "https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN"
-        },
-        {
-          "name": "Bo\u0161ko Petrovi\u0107",
-          "url": "https://open.spotify.com/artist/2GGvRFBST0G71PsDnFNOrA"
+          "name": "Homesick James",
+          "url": "https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP"
         }
       ],
-      "duration_ms": 405346,
-      "name": "Mr. B.",
-      "url": "https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE"
+      "duration_ms": 254133,
+      "name": "Homesick's Shuffle",
+      "url": "https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih"
     },
     {
       "added_at": "2023-03-03 18:12:31",
@@ -1351,22 +1367,6 @@
       "duration_ms": 181814,
       "name": "Ode to Lynn Taitt",
       "url": "https://open.spotify.com/track/2IkeeV6KxreS3OJu2r4r8b"
-    },
-    {
-      "added_at": "2023-03-03 18:12:31",
-      "album": {
-        "name": "Go Bo Diddley",
-        "url": "https://open.spotify.com/album/71lvfHjjLerIFN8ZNSrqIe"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "The Clock Strikes Twelve",
-      "url": "https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2"
     }
   ],
   "unique_name": "Instrumental Blues",

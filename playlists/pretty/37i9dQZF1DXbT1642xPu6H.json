@@ -1,12 +1,12 @@
 {
   "description": "Pura m\u00fasica fresca para vibrar en cualquier momento de la semana.",
-  "num_followers": 339136,
+  "num_followers": 339214,
   "original_name": "Buen Vibe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODc2NDQxMSwwMDAwMDAwMDczM2Y5ZDExZjIxNjQ0M2FlZTU4NmVhZTg4ZmQ5YmVm",
+  "snapshot_id": "MTY3ODc2NDQxMSwwMDAwMDAwMGNkYjM3NWRhNzQwZjZlZjg0ODg1ZWUyYzZlMzdiN2Rl",
   "tracks": [
     {
       "added_at": "2023-03-14 03:26:51",
@@ -859,26 +859,6 @@
     {
       "added_at": "2022-10-12 15:34:17",
       "album": {
-        "name": "Traductor",
-        "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Traductor",
-      "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
-    },
-    {
-      "added_at": "2022-10-12 15:34:17",
-      "album": {
         "name": "Don\u2019t Wake Me Up",
         "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 188894,
       "name": "Don\u2019t Wake Me Up",
       "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
+    },
+    {
+      "added_at": "2022-10-12 15:34:17",
+      "album": {
+        "name": "Traductor",
+        "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
     },
     {
       "added_at": "2022-10-12 15:34:17",
@@ -1207,22 +1207,26 @@
     {
       "added_at": "2022-10-12 15:34:17",
       "album": {
-        "name": "El Que Espera",
-        "url": "https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa"
+        "name": "Buenos D\u00edas",
+        "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
         }
       ],
-      "duration_ms": 170396,
-      "name": "El Que Espera",
-      "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
+      "duration_ms": 199826,
+      "name": "Buenos D\u00edas",
+      "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
     }
   ],
   "unique_name": "Buen Vibe",

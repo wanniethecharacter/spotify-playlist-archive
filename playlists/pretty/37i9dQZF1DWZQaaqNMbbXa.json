@@ -1,12 +1,12 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 384558,
+  "num_followers": 384835,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDYwZWNlNWY0MmY0YzEyYzVmMzZkOTllM2UyOGEwZjg3",
+  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDcyNDFiMzJjM2VkNzY0MTkxOGI0MWUwYjk2MDdiYzEx",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Ride It",
-        "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        }
-      ],
-      "duration_ms": 157605,
-      "name": "Ride It",
-      "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 227266,
       "name": "Outside (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Ride It",
+        "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        }
+      ],
+      "duration_ms": 157605,
+      "name": "Ride It",
+      "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Pharmacy",
+        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 227073,
+      "name": "Runaway (U & I)",
+      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Levitating (feat. DaBaby)",
         "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Pharmacy",
-        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 227073,
-      "name": "Runaway (U & I)",
-      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1543,22 +1543,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Rain On Me (with Ariana Grande)",
-        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Rain On Me (with Ariana Grande)",
-      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1583,18 +1579,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+        "name": "Rain On Me (with Ariana Grande)",
+        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1739,6 +1739,26 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Jack & Jack",
+          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
+        }
+      ],
+      "duration_ms": 194407,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/5ZSl6gDoV6bPPxzmLeneV9"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Electricity (with Dua Lipa)",
         "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 238173,
       "name": "Electricity (with Dua Lipa)",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Jack & Jack",
-          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
-        }
-      ],
-      "duration_ms": 194407,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/5ZSl6gDoV6bPPxzmLeneV9"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1891,30 +1891,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Tick Tock (feat. 24kGoldn)",
-        "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "Tick Tock (feat. 24kGoldn)",
-      "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Sunroof (Loud Luxury Remix)",
         "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
       },
@@ -1935,6 +1911,30 @@
       "duration_ms": 173658,
       "name": "Sunroof - Loud Luxury Remix",
       "url": "https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Tick Tock (feat. 24kGoldn)",
+        "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "Tick Tock (feat. 24kGoldn)",
+      "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -2039,46 +2039,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Solo (feat. Demi Lovato)",
-        "url": "https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Solo (feat. Demi Lovato)",
-      "url": "https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "You for Me",
-        "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 175435,
-      "name": "You for Me",
-      "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Nothing but the Beat 2.0",
         "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
       },
@@ -2119,6 +2079,26 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "You for Me",
+        "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 175435,
+      "name": "You for Me",
+      "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "What's Love Got to Do with It",
         "url": "https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno"
       },
@@ -2135,6 +2115,26 @@
       "duration_ms": 208156,
       "name": "What's Love Got to Do with It",
       "url": "https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Solo (feat. Demi Lovato)",
+        "url": "https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Solo (feat. Demi Lovato)",
+      "url": "https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -2187,26 +2187,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 210093,
-      "name": "Memories (feat. Kid Cudi)",
-      "url": "https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Intense",
         "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
       },
@@ -2223,6 +2203,26 @@
       "duration_ms": 204360,
       "name": "This Is What It Feels Like",
       "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 210093,
+      "name": "Memories (feat. Kid Cudi)",
+      "url": "https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -2619,6 +2619,26 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/1Jbwq1BswM8apm7pjRZKq8"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "duration_ms": 191387,
+      "name": "Hello (feat. Dragonette)",
+      "url": "https://open.spotify.com/track/3sl4dcqSwxHVnLfqwF2jly"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "My Universe (Galantis Remix)",
         "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
       },
@@ -2639,26 +2659,6 @@
       "duration_ms": 224908,
       "name": "My Universe - Galantis Remix",
       "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/1Jbwq1BswM8apm7pjRZKq8"
-      },
-      "artists": [
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
-        }
-      ],
-      "duration_ms": 191387,
-      "name": "Hello (feat. Dragonette)",
-      "url": "https://open.spotify.com/track/3sl4dcqSwxHVnLfqwF2jly"
     },
     {
       "added_at": "2023-03-10 05:01:00",

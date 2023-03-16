@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 84385,
+  "num_followers": 84419,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDgxOWRhNjljMzhlZDQwMGMwZjE5OWRiYzc1ZmJkN2Vk",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDFmZmE4M2E4N2RiNmI5MWNjY2FjNzM5NWQyMmIxMDBl",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -699,22 +699,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
+        "name": "Love Don't Change",
+        "url": "https://open.spotify.com/album/5pCvpUnLgq5etnBXOTzql8"
       },
       "artists": [
         {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        },
-        {
-          "name": "BlixzBeatz",
-          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
+          "name": "K5ive",
+          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
+      "duration_ms": 215063,
+      "name": "Love Don't Change",
+      "url": "https://open.spotify.com/track/0Mrqm8cGahrzooiKmCE9lu"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -735,6 +731,26 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "BlixzBeatz",
+          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "In The Loop",
         "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 195933,
       "name": "Paro(noia)",
       "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Love Don't Change",
-        "url": "https://open.spotify.com/album/5pCvpUnLgq5etnBXOTzql8"
-      },
-      "artists": [
-        {
-          "name": "K5ive",
-          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
-        }
-      ],
-      "duration_ms": 215063,
-      "name": "Love Don't Change",
-      "url": "https://open.spotify.com/track/0Mrqm8cGahrzooiKmCE9lu"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "J\u00f6etry",
-        "url": "https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N"
-      },
-      "artists": [
-        {
-          "name": "Joe James",
-          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "mate in five",
-      "url": "https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "One Mic Freestyle (S3-EP1)",
         "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 121624,
       "name": "One Mic Freestyle (S3-EP1)",
       "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "J\u00f6etry",
+        "url": "https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N"
+      },
+      "artists": [
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "mate in five",
+      "url": "https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "5 AM",
-        "url": "https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy"
-      },
-      "artists": [
-        {
-          "name": "AMB",
-          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
-        }
-      ],
-      "duration_ms": 96086,
-      "name": "5 AM",
-      "url": "https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "9AM",
         "url": "https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 157808,
       "name": "Love & Attention",
       "url": "https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "5 AM",
+        "url": "https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy"
+      },
+      "artists": [
+        {
+          "name": "AMB",
+          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
+        }
+      ],
+      "duration_ms": 96086,
+      "name": "5 AM",
+      "url": "https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        }
+      ],
+      "duration_ms": 111253,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Retrogress (Season 1)",
         "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 182648,
       "name": "Derby To Moston",
       "url": "https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Stuck In My Ways",
-        "url": "https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl"
-      },
-      "artists": [
-        {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
-        }
-      ],
-      "duration_ms": 111253,
-      "name": "Stuck In My Ways",
-      "url": "https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Retrogress (Season 1)",
-        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "House Invasions",
         "url": "https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG"
       },
@@ -1171,22 +1155,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "High (All The Time)",
-        "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
-      },
-      "artists": [
-        {
-          "name": "RhyRab",
-          "url": "https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS"
-        }
-      ],
-      "duration_ms": 160030,
-      "name": "High (All The Time)",
-      "url": "https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Lowkey '",
         "url": "https://open.spotify.com/album/3ylVS3PBeyLUtxX3icOv1X"
       },
@@ -1207,6 +1175,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "High (All The Time)",
+        "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
+      },
+      "artists": [
+        {
+          "name": "RhyRab",
+          "url": "https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS"
+        }
+      ],
+      "duration_ms": 160030,
+      "name": "High (All The Time)",
+      "url": "https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Retrogress (Season 1)",
         "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
       },
@@ -1216,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 181044,
-      "name": "High On Love",
-      "url": "https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O"
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1291,6 +1275,38 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Love, Eternity & Faith",
+        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Retrogress (Season 1)",
+        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 181044,
+      "name": "High On Love",
+      "url": "https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Is it too much? (Pray things change)",
         "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 171678,
       "name": "Is it too much? (Pray things change)",
       "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Love, Eternity & Faith",
-        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1375,6 +1375,22 @@
       "duration_ms": 159753,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Hearts Get Numb",
+        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Hearts Get Numb",
+      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1439,22 +1455,6 @@
       "duration_ms": 110759,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Hearts Get Numb",
-        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Hearts Get Numb",
-      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
     },
     {
       "added_at": "2022-08-02 15:42:28",

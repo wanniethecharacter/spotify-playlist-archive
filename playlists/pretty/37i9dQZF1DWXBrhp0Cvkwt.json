@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg3Mzc1OSwwMDAwMDAwMDMwMDdjYWUzNDcwZjFjZGYyYTJiMGRlNTNhMmU5OWQw",
+  "snapshot_id": "MTY2Mzg3Mzc1OSwwMDAwMDAwMGMyZmFlY2NiMmQwMWRmMzMwYmVhMjFjZDczNTNkMDk2",
   "tracks": [
     {
       "added_at": "2022-09-22 19:09:19",
@@ -91,18 +91,18 @@
     {
       "added_at": "2022-09-22 19:09:19",
       "album": {
-        "name": "Locals 2",
-        "url": "https://open.spotify.com/album/3DRdTebuRYHafp1XJKJ0g2"
+        "name": "I Think I Like When It Rains (Tik Tok Edit) [Remix]",
+        "url": "https://open.spotify.com/album/0123CbCiDs2kirZxMHr63u"
       },
       "artists": [
         {
-          "name": "WILLIS",
-          "url": "https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk"
+          "name": "Green Neon DJ",
+          "url": "https://open.spotify.com/artist/6CnsxWcIeS3Q3MNQSJ59M4"
         }
       ],
-      "duration_ms": 278293,
-      "name": "I Think I Like When It Rains",
-      "url": "https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2"
+      "duration_ms": 281290,
+      "name": "I Think I Like When It Rains (Tik Tok Edit) - Remix",
+      "url": "https://open.spotify.com/track/0eng9xR6sdmwYLkkEjsjFq"
     },
     {
       "added_at": "2022-09-22 19:09:19",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-09-22 19:09:19",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231253,
-      "name": "Broken Clocks",
-      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
-    },
-    {
-      "added_at": "2022-09-22 19:09:19",
-      "album": {
         "name": "IGOR",
         "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 265480,
       "name": "ARE WE STILL FRIENDS?",
       "url": "https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai"
+    },
+    {
+      "added_at": "2022-09-22 19:09:19",
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 231253,
+      "name": "Broken Clocks",
+      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
     },
     {
       "added_at": "2022-09-22 19:09:19",
@@ -931,18 +931,18 @@
     {
       "added_at": "2022-09-22 19:09:19",
       "album": {
-        "name": "bitches broken hearts",
-        "url": "https://open.spotify.com/album/1Z0XtKcevvITZ5ydimkYcx"
+        "name": "THE REAPER",
+        "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 176471,
-      "name": "bitches broken hearts",
-      "url": "https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib"
+      "duration_ms": 182678,
+      "name": "like i need u",
+      "url": "https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim"
     },
     {
       "added_at": "2022-09-22 19:09:19",
@@ -963,18 +963,18 @@
     {
       "added_at": "2022-09-22 19:09:19",
       "album": {
-        "name": "THE REAPER",
-        "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
+        "name": "bitches broken hearts",
+        "url": "https://open.spotify.com/album/1Z0XtKcevvITZ5ydimkYcx"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 182678,
-      "name": "like i need u",
-      "url": "https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim"
+      "duration_ms": 176471,
+      "name": "bitches broken hearts",
+      "url": "https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib"
     },
     {
       "added_at": "2022-09-22 19:09:19",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-09-22 19:09:19",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc"
-      },
-      "artists": [
-        {
-          "name": "Christian Leave",
-          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
-        }
-      ],
-      "duration_ms": 116666,
-      "name": "Please Notice",
-      "url": "https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7"
-    },
-    {
-      "added_at": "2022-09-22 19:09:19",
-      "album": {
         "name": "5AM (Expanded Edition)",
         "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 273000,
       "name": "I Found",
       "url": "https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx"
+    },
+    {
+      "added_at": "2022-09-22 19:09:19",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "duration_ms": 116666,
+      "name": "Please Notice",
+      "url": "https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7"
     },
     {
       "added_at": "2022-09-22 19:09:19",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-09-22 19:09:19",
       "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
-    },
-    {
-      "added_at": "2022-09-22 19:09:19",
-      "album": {
         "name": "It Was Good Until It Wasn't",
         "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 168182,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
+    },
+    {
+      "added_at": "2022-09-22 19:09:19",
+      "album": {
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
       "added_at": "2022-09-22 19:09:19",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2022-09-22 19:09:19",
       "album": {
-        "name": "MEAN!",
-        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
+        "name": "WILLOW",
+        "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
       },
       "artists": [
         {
-          "name": "Madeline The Person",
-          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 143960,
-      "name": "MEAN!",
-      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
+      "duration_ms": 143640,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI"
     }
   ],
   "unique_name": "mercury in retrograde",

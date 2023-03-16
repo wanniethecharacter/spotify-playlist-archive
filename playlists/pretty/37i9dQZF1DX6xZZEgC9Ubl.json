@@ -1,12 +1,12 @@
 {
   "description": "Emo feels for the misunderstood. Cover: BONES",
-  "num_followers": 1450036,
+  "num_followers": 1450480,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgwOTYwOCwwMDAwMDAwMDhjYzI4MThkZTJhOWI0OTE2NDRiYjY3ODZhZWI1M2Zj",
+  "snapshot_id": "MTY3ODgwOTYwOCwwMDAwMDAwMGNlODA5NzViODYxZjFhNTY2MjFjMDM2N2Q0ZjhlOTQ0",
   "tracks": [
     {
       "added_at": "2023-03-13 17:25:18",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Cherry Blossoms",
-        "url": "https://open.spotify.com/album/7z0GlCgOrEaME0BYpVPAtI"
-      },
-      "artists": [
-        {
-          "name": "Shady Moon",
-          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
-        }
-      ],
-      "duration_ms": 138367,
-      "name": "Cherry Blossoms",
-      "url": "https://open.spotify.com/track/4LEt6hyaGn4scwUsimBeXt"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "nothings ever good enough",
@@ -365,6 +349,22 @@
       "url": "https://open.spotify.com/track/1FY8LJWKivOdoxZX5TSLpm"
     },
     {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Cherry Blossoms",
+        "url": "https://open.spotify.com/album/7z0GlCgOrEaME0BYpVPAtI"
+      },
+      "artists": [
+        {
+          "name": "Shady Moon",
+          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
+        }
+      ],
+      "duration_ms": 138367,
+      "name": "Cherry Blossoms",
+      "url": "https://open.spotify.com/track/4LEt6hyaGn4scwUsimBeXt"
+    },
+    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "NUMB",
@@ -397,10 +397,10 @@
       "url": "https://open.spotify.com/track/0YGRqKKDhomTOp246LT11G"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Kids Are Growing Up (Part 1)",
-        "url": "https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV"
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
       "artists": [
         {
@@ -408,25 +408,25 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 121369,
-      "name": "Kids Are Growing Up (Part 1)",
-      "url": "https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G"
+      "duration_ms": 151704,
+      "name": "ALWAYS DO",
+      "url": "https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"
     },
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
+        "name": "ONNAFRIDAY",
+        "url": "https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
         }
       ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+      "duration_ms": 157666,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "ONNAFRIDAY",
-        "url": "https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb"
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
       },
       "artists": [
         {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 157666,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI"
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -577,10 +577,10 @@
       "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+        "name": "Kids Are Growing Up (Part 1)",
+        "url": "https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 151704,
-      "name": "ALWAYS DO",
-      "url": "https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"
+      "duration_ms": 121369,
+      "name": "Kids Are Growing Up (Part 1)",
+      "url": "https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G"
     },
     {
       "added_at": "2022-12-16 17:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "How To Kill A Rockstar",
-        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
-      },
-      "artists": [
-        {
-          "name": "MASN",
-          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
-        }
-      ],
-      "duration_ms": 197217,
-      "name": "Psycho!",
-      "url": "https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "why am i crying",
         "url": "https://open.spotify.com/album/5vGBmuHZhXCaMhBBWD2ab0"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 204659,
       "name": "Letter to Jarad",
       "url": "https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "How To Kill A Rockstar",
+        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
+      },
+      "artists": [
+        {
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+        }
+      ],
+      "duration_ms": 197217,
+      "name": "Psycho!",
+      "url": "https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC"
     },
     {
       "added_at": "2022-12-02 18:50:29",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "I\u2019ll Keep You Safe",
-        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
-      },
-      "artists": [
-        {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "First Draft",
         "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Tell Me About Tomorrow",
-        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
+        "name": "I\u2019ll Keep You Safe",
+        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
       },
       "artists": [
         {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 155673,
-      "name": "BETTER OFF DEAD",
-      "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 184141,
       "name": "Hiding in the Dark",
       "url": "https://open.spotify.com/track/1eau7EVXGFffQAGYFxIx6w"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Tell Me About Tomorrow",
+        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 155673,
+      "name": "BETTER OFF DEAD",
+      "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Long Term Effects of SUFFERING",
-        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 122880,
-      "name": "Life Is but a Stream~",
-      "url": "https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Proud of Myself",
         "url": "https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 109800,
       "name": "Proud of Myself",
       "url": "https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Long Term Effects of SUFFERING",
+        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 122880,
+      "name": "Life Is but a Stream~",
+      "url": "https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1393,6 +1393,22 @@
       "url": "https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v"
     },
     {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/6dQAUhE6oE6YgxD0GPdEzF"
+      },
+      "artists": [
+        {
+          "name": "Papithbk",
+          "url": "https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw"
+        }
+      ],
+      "duration_ms": 150702,
+      "name": "Sad Nibba Hours",
+      "url": "https://open.spotify.com/track/2TfoabXa0CbEwcqpxOn9z3"
+    },
+    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Can't Change For You (feat. charlieonnafriday & Arden Jones)",
@@ -1415,22 +1431,6 @@
       "duration_ms": 184900,
       "name": "Can't Change For You (feat. charlieonnafriday & Arden Jones)",
       "url": "https://open.spotify.com/track/103iTEPJwc4MththlvRakh"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/6dQAUhE6oE6YgxD0GPdEzF"
-      },
-      "artists": [
-        {
-          "name": "Papithbk",
-          "url": "https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw"
-        }
-      ],
-      "duration_ms": 150702,
-      "name": "Sad Nibba Hours",
-      "url": "https://open.spotify.com/track/2TfoabXa0CbEwcqpxOn9z3"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Outta Time",
-        "url": "https://open.spotify.com/album/59A0LQ9jDtBqjd9dxXkAGm"
-      },
-      "artists": [
-        {
-          "name": "KillBunk",
-          "url": "https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9"
-        },
-        {
-          "name": "Dustystaytrue",
-          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
-        }
-      ],
-      "duration_ms": 125753,
-      "name": "Outta Time",
-      "url": "https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Ethereal",
         "url": "https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 159149,
       "name": "I fucked up",
       "url": "https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Outta Time",
+        "url": "https://open.spotify.com/album/59A0LQ9jDtBqjd9dxXkAGm"
+      },
+      "artists": [
+        {
+          "name": "KillBunk",
+          "url": "https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9"
+        },
+        {
+          "name": "Dustystaytrue",
+          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
+        }
+      ],
+      "duration_ms": 125753,
+      "name": "Outta Time",
+      "url": "https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip"
     },
     {
       "added_at": "2022-10-07 04:18:00",

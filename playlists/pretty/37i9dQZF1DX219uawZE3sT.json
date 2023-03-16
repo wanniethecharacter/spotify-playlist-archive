@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 110601,
+  "num_followers": 110667,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDBkYWI0ZWQzMjZkZWY2ODk0NmQ5ZTQ0NTg1MTVkZjU0",
+  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDQ5ODkzMmVmNjg5MGQ3NDkxMTY0NjZjMDBkYWY1YWNk",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -59,22 +59,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Euphoria (Standard US/Latin version)",
-        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
+        "name": "Primavera anticipada",
+        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 200346,
-      "name": "Cuando Me Enamoro",
-      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
+      "duration_ms": 237440,
+      "name": "En cambio no",
+      "url": "https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -91,22 +87,6 @@
       "duration_ms": 178849,
       "name": "Espacio en Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Primavera anticipada",
-        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "En cambio no",
-      "url": "https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -143,58 +123,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Rebelde",
-        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+        "name": "El Privilegio De Amar",
+        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
       },
       "artists": [
         {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        },
-        {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Maite Perroni",
-          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
-        },
-        {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        },
-        {
-          "name": "Alfonso Herrera",
-          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
         }
       ],
-      "duration_ms": 214306,
-      "name": "Rebelde",
-      "url": "https://open.spotify.com/track/56tOMi4N980gmsdUoyaLb3"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Los Ricos Tambi\u00e9n Lloran",
-        "url": "https://open.spotify.com/album/42ITN8GeRpWertgabpDGia"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "Los Ricos Tambi\u00e9n Lloran",
-      "url": "https://open.spotify.com/track/4ah8X7TcY3T5wy9ovVJGpq"
+      "duration_ms": 236493,
+      "name": "El Privilegio De Amar",
+      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -215,18 +155,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "El Privilegio De Amar",
-        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
+        "name": "Los Ricos Tambi\u00e9n Lloran",
+        "url": "https://open.spotify.com/album/42ITN8GeRpWertgabpDGia"
       },
       "artists": [
         {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 236493,
-      "name": "El Privilegio De Amar",
-      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
+      "duration_ms": 214733,
+      "name": "Los Ricos Tambi\u00e9n Lloran",
+      "url": "https://open.spotify.com/track/4ah8X7TcY3T5wy9ovVJGpq"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -284,29 +224,9 @@
           "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
         }
       ],
-      "duration_ms": 206120,
-      "name": "Un Poco De Tu Amor",
-      "url": "https://open.spotify.com/track/64mK5Yd0rdGeXVkMFspEyt"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "SEX AND LOVE (Deluxe)",
-        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 191426,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR"
+      "duration_ms": 214306,
+      "name": "Rebelde",
+      "url": "https://open.spotify.com/track/56tOMi4N980gmsdUoyaLb3"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -339,6 +259,26 @@
       "duration_ms": 263666,
       "name": "Me Enamor\u00e9 de Ti",
       "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Euphoria (Standard US/Latin version)",
+        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -391,38 +331,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Por Amarte",
-      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Entre El Amor Y Yo",
-        "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Me Voy a Quitar de en Medio",
-      "url": "https://open.spotify.com/track/2kgUPa3UUnHIUfySDkg2bm"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Rom\u00e1ntico Desliz",
         "url": "https://open.spotify.com/album/6UlH9VLq1S6TJtY0xojINt"
       },
@@ -451,6 +359,82 @@
       "duration_ms": 243933,
       "name": "Insensible A Ti (Me Pone A Mil)",
       "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "SEX AND LOVE (Deluxe)",
+        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 191426,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "duration_ms": 206120,
+      "name": "Un Poco De Tu Amor",
+      "url": "https://open.spotify.com/track/64mK5Yd0rdGeXVkMFspEyt"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Entre El Amor Y Yo",
+        "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Me Voy a Quitar de en Medio",
+      "url": "https://open.spotify.com/track/2kgUPa3UUnHIUfySDkg2bm"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -539,22 +523,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Cosas Del Amor",
-        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Nunca Te Olvidare\u0301",
-      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Lo Mejor De OV7",
         "url": "https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0"
       },
@@ -567,6 +535,22 @@
       "duration_ms": 249400,
       "name": "Enloqu\u00e9ceme",
       "url": "https://open.spotify.com/track/0tZARbD3Ir3eY7nbFULwfS"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Por Amarte",
+      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -679,6 +663,22 @@
       "duration_ms": 226906,
       "name": "Simplemente T\u00fa",
       "url": "https://open.spotify.com/track/6n5bmDFKf6PNPfyMBxYdyA"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Cosas Del Amor",
+        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "Nunca Te Olvidare\u0301",
+      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "La Mas Completa Coleccion",
+        "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 274906,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Los Ganadores De La Voz",
         "url": "https://open.spotify.com/album/5z59IcDIT60ng5MSjXhaA6"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 229213,
       "name": "S\u00f3lo Un Suspiro",
       "url": "https://open.spotify.com/track/2APQKFq7yuq3sNaziTaeWE"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "La Mas Completa Coleccion",
-        "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 274906,
-      "name": "El Amor De Mi Vida",
-      "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
     },
     {
       "added_at": "2022-05-06 18:32:26",

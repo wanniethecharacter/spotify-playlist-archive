@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,286 songs - 2 day 21 hr 3 min
+1,287 songs - 2 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,7 +447,7 @@
 | [Glad U Came \(feat\. ZieZie\)](https://open.spotify.com/track/0P88fVbvRQGgRQN1GulQNy) | [Liilz](https://open.spotify.com/artist/0PfJ0SW9UpzczeHL5hgdwL), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Glad U Came \(feat\. ZieZie\)](https://open.spotify.com/album/52JvEc5EDwgA854xVckQL9) | 2:05 | 2022-03-29 | 2022-04-20 |
 | [Gladiator](https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Gladiator](https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01) | 3:31 | 2023-03-10 |  |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-07-05 | 2022-08-20 |
-| [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-03-14 |  |
+| [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-03-14 | 2023-03-16 |
 | [Go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2022-02-18 | 2022-03-23 |
 | [God Bless The U.S.A.](https://open.spotify.com/track/4pDU8T52yTGZutyDQd8qSF) | [Lee Greenwood](https://open.spotify.com/artist/3g229vTyhsdwm9SO2p1FPL) | [You've Got A Good Love Comin'](https://open.spotify.com/album/4sOTQhdDVzGJaG3GUJttnq) | 3:10 | 2022-07-06 | 2022-07-10 |
 | [God Is A Freak](https://open.spotify.com/track/4cqj8FIWkyR5A2XBtcqRMU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e) | 3:07 | 2022-03-01 | 2022-03-07 |
@@ -706,6 +706,7 @@
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-06-14 | 2022-06-17 |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL) | 1:54 | 2022-07-13 | 2022-08-17 |
 | [Maytag \(Tax Free\)](https://open.spotify.com/track/0jdcdrTpIzIZGBqBvkgEaC) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [FREELANCE](https://open.spotify.com/album/3rYSDctSUHj6HUbpioiICz) | 2:45 | 2022-02-05 | 2022-03-12 |
+| [Me and the Devil](https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Sugarbread](https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa) | 3:05 | 2023-03-15 |  |
 | [Me Arrepentí](https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Me Arrepentí](https://open.spotify.com/album/3kJfAuZ4uXc4WtccFWExg2) | 3:52 | 2022-04-26 | 2022-05-04 |
 | [Me Atraiu \- Ao Vivo](https://open.spotify.com/track/6ELMBm3lZFitAZp03GBBNG) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT) | 8:23 | 2023-03-14 |  |
 | [Me Chama de Amor \- Arrochadeira Remix](https://open.spotify.com/track/1ih3nbYJ0lugsku6065BC5) | [O Tubarão](https://open.spotify.com/artist/5oqu436HPM9PGpNSlPBpAT), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Me Chama de Amor \(Arrochadeira Remix\)](https://open.spotify.com/album/6VHZaHeeY9g9bYrgbyVsOq) | 2:09 | 2022-05-05 | 2022-06-15 |

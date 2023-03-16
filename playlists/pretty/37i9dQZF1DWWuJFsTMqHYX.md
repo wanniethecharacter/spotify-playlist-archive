@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,280 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,588 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 13 | [Tadieu Bone](https://open.spotify.com/track/2a5WbaVANXN8Dj4aNmBosD) | [Ismaël Lô](https://open.spotify.com/artist/4EBRPnSYtrfmwptEMOSCV8) | [Natt](https://open.spotify.com/album/4mIsprnNBBsFjR8xPu60TT) | 4:23 |
 | 14 | [Tarha Tadagh](https://open.spotify.com/track/2LQwuRI1h4Q4qk4HzK9zE2) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Imarhan](https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL) | 3:06 |
 | 15 | [Degg Gui \(feat\. Flavia Coelho & Fixi\)](https://open.spotify.com/track/2m9TLj1eU3qZT895FOIm0v) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [Fixi](https://open.spotify.com/artist/4ZdJ35EaWtMCvdbczspFET) | [Degg Gui \(feat\. Flavia Coelho & Fixi\) \- Single](https://open.spotify.com/album/06B14KCKiA5UbBebBZiuLx) | 3:48 |
-| 16 | [Zerzura Theme II](https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 4:23 |
-| 17 | [Chismiten](https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 4:58 |
+| 16 | [Chismiten](https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 4:58 |
+| 17 | [Zerzura Theme II](https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 4:23 |
 | 18 | [Akaline](https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Tin Hinane](https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2) | 5:04 |
 | 19 | [Bonde \(with Ry Cooder\)](https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 5:24 |
 | 20 | [Sinanon Saran \(Chant de griot\)](https://open.spotify.com/track/1ASQZ8acmZj1IOFoXggUf9) | [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL), [Kassé\-Mady Diabaté](https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6), [Nana Kouyate](https://open.spotify.com/artist/6l4EqiNfXnYMZhIGVvaiu0), [Tanti Kouyaté](https://open.spotify.com/artist/0EENHq2cnaZWYyQt4bL5Ey), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB) | [The Routes of Slavery](https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp) | 3:43 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 45 | [Tahra a Issasnane](https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Akh Issudar](https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx) | 3:21 |
 | 46 | [Midiwan](https://open.spotify.com/track/3uQZlQyED9BvADK1JWXIzl) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Deran](https://open.spotify.com/album/2Gm3Wy05MApR47NZmRo1DW) | 3:42 |
 | 47 | [Fransa](https://open.spotify.com/track/3N6ddWSmrMFvZkGFBU4Ike) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Black Tenere](https://open.spotify.com/album/2szNhyx4lm9LoUU8KnUN6b) | 4:41 |
-| 48 | [Mariama Kaba](https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI) | 5:38 |
-| 49 | [Penda Djiga](https://open.spotify.com/track/0ra3K6wNCFVYTu2AFsmiR7) | [Afel Bocoum](https://open.spotify.com/artist/06Ib5crxFFg8jg3q8ZP77W) | [Penda Djiga](https://open.spotify.com/album/4eIINnCLgKF5hUcXyk0dIE) | 4:32 |
+| 48 | [Penda Djiga](https://open.spotify.com/track/0ra3K6wNCFVYTu2AFsmiR7) | [Afel Bocoum](https://open.spotify.com/artist/06Ib5crxFFg8jg3q8ZP77W) | [Penda Djiga](https://open.spotify.com/album/4eIINnCLgKF5hUcXyk0dIE) | 4:32 |
+| 49 | [Mariama Kaba](https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI) | 5:38 |
 | 50 | [Arghane Manine](https://open.spotify.com/track/1lH8iTfrXyg2RFNbRT4sgO) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Kel Tinariwen](https://open.spotify.com/album/4flAylJfbXX7DVPH7oaS6d) | 5:00 |
 
-Snapshot ID: `MTY3NTY3OTIzNCwwMDAwMDAwMDU2N2NkMDc2NGNkNDYyMmFmMWYxOTc3MmJhNzU4NGEy`
+Snapshot ID: `MTY3NTY3OTIzNCwwMDAwMDAwMDM1NTA2YTQxMGUwNDk0NDFiNjI0MWU5MzU3MWNlYTA0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Miley Cyrus, Calvin Harris & Ellie Goulding, NLE Choppa, TWICE and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,074,518 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,074,883 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

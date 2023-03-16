@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 84576,
       "name": "Brazilian Phonk Mano",
       "url": "https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB"
@@ -3740,6 +3740,24 @@
       "duration_ms": 65454,
       "name": "Chrissy, Wake Up",
       "url": "https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV"
+    },
+    {
+      "album": {
+        "name": "I Can't Handle Change",
+        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
+      },
+      "artists": [
+        {
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135693,
+      "name": "Christmas Kids",
+      "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
     },
     {
       "album": {

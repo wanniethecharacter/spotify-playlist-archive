@@ -2591,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "boi",
+        "url": "https://open.spotify.com/album/4u909jrnQBU1LBq7Dyzc96"
+      },
+      "artists": [
+        {
+          "name": "Hadji Gaviota",
+          "url": "https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163505,
+      "name": "boi",
+      "url": "https://open.spotify.com/track/2M4Ocg9L98EgWv5rWAJe91"
+    },
+    {
+      "album": {
         "name": "BOLD Willow Tree",
         "url": "https://open.spotify.com/album/693EHFhJzzw7gQt1qnfQMV"
       },

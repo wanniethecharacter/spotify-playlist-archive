@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 27982,
+  "num_followers": 28029,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM1NjY3NSwwMDAwMDAwMGFiODhjNDE3MzM0MGIxOTFmNmRhMmRlNGJkMGE0NzQ0",
+  "snapshot_id": "MTY3ODM1NjY3NSwwMDAwMDAwMDI5NWRjODkxMTM3NzI0MmQ4OTgxNjMyNTg3NGQzZGU2",
   "tracks": [
     {
       "added_at": "2023-02-23 10:34:27",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
-        "name": "Number Five",
-        "url": "https://open.spotify.com/album/1aszus6tJ9oA3VpDkkkxCZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Harrell",
-          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
-        }
-      ],
-      "duration_ms": 394506,
-      "name": "Journey to the Stars",
-      "url": "https://open.spotify.com/track/2D8g6GNzX487MmeHLh5BRd"
-    },
-    {
-      "added_at": "2023-02-23 10:34:27",
-      "album": {
         "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
         "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 164973,
       "name": "Weather Bird",
       "url": "https://open.spotify.com/track/3xCM9RLOLPIze3YDbjDi17"
+    },
+    {
+      "added_at": "2023-02-23 10:34:27",
+      "album": {
+        "name": "Number Five",
+        "url": "https://open.spotify.com/album/1aszus6tJ9oA3VpDkkkxCZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
+        }
+      ],
+      "duration_ms": 394506,
+      "name": "Journey to the Stars",
+      "url": "https://open.spotify.com/track/2D8g6GNzX487MmeHLh5BRd"
     },
     {
       "added_at": "2023-02-23 10:34:27",
@@ -647,6 +647,26 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
+        "name": "The Great Summit - The Complete Sessions-Deluxe Edition",
+        "url": "https://open.spotify.com/album/1Fquufzod0wEcCXt6oYnCJ"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Mood Indigo - 1990 Remaster",
+      "url": "https://open.spotify.com/track/1Fo98RNzO78WnMtkZKZXMW"
+    },
+    {
+      "added_at": "2023-02-23 10:34:27",
+      "album": {
         "name": "Work Song",
         "url": "https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 255720,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/03IIOmaxjRFVCunMf4SOgD"
-    },
-    {
-      "added_at": "2023-02-23 10:34:27",
-      "album": {
-        "name": "The Great Summit - The Complete Sessions-Deluxe Edition",
-        "url": "https://open.spotify.com/album/1Fquufzod0wEcCXt6oYnCJ"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Mood Indigo - 1990 Remaster",
-      "url": "https://open.spotify.com/track/1Fo98RNzO78WnMtkZKZXMW"
     },
     {
       "added_at": "2023-02-23 10:34:27",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
+        "name": "The Incredible Harry James",
+        "url": "https://open.spotify.com/album/6S9sSx0t4iOvkFSyBVpIeP"
+      },
+      "artists": [
+        {
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "It's Been a Long Long Time (Alternate Take)",
+      "url": "https://open.spotify.com/track/4iecQTgGLf0WJKrdnT2OKD"
+    },
+    {
+      "added_at": "2023-02-23 10:34:27",
+      "album": {
         "name": "The Magnificent Thad Jones (Remastered)",
         "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
       },
@@ -967,22 +983,6 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
-        "name": "Approaching Standards",
-        "url": "https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD"
-      },
-      "artists": [
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 369933,
-      "name": "Easy To Remember",
-      "url": "https://open.spotify.com/track/0QKbUoVUNbmxpOaURXiday"
-    },
-    {
-      "added_at": "2023-02-23 10:34:27",
-      "album": {
         "name": "Towards Language",
         "url": "https://open.spotify.com/album/7KasSjd80yub7wdciH7G52"
       },
@@ -999,58 +999,18 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
-        "name": "The Incredible Harry James",
-        "url": "https://open.spotify.com/album/6S9sSx0t4iOvkFSyBVpIeP"
+        "name": "Approaching Standards",
+        "url": "https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD"
       },
       "artists": [
         {
-          "name": "Harry James",
-          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
         }
       ],
-      "duration_ms": 187573,
-      "name": "It's Been a Long Long Time (Alternate Take)",
-      "url": "https://open.spotify.com/track/4iecQTgGLf0WJKrdnT2OKD"
-    },
-    {
-      "added_at": "2023-02-23 10:34:27",
-      "album": {
-        "name": "Late Night Jazz (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Philip Catherine",
-          "url": "https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Children's Waltz",
-      "url": "https://open.spotify.com/track/6vhp7oVhC3y83H1ItCzNce"
-    },
-    {
-      "added_at": "2023-02-23 10:34:27",
-      "album": {
-        "name": "On The Dance Floor",
-        "url": "https://open.spotify.com/album/6mAJVe56utc3J2yd0rTd9B"
-      },
-      "artists": [
-        {
-          "name": "Enrico Rava",
-          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
-        },
-        {
-          "name": "The PM Jazz Lab",
-          "url": "https://open.spotify.com/artist/20UxTDyauW76avunhJfElB"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "Smile - Live",
-      "url": "https://open.spotify.com/track/1Wj6woJQqEheCjZUWLBQU0"
+      "duration_ms": 369933,
+      "name": "Easy To Remember",
+      "url": "https://open.spotify.com/track/0QKbUoVUNbmxpOaURXiday"
     },
     {
       "added_at": "2023-02-23 10:34:27",
@@ -1123,6 +1083,46 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
+        "name": "Late Night Jazz (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Philip Catherine",
+          "url": "https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Children's Waltz",
+      "url": "https://open.spotify.com/track/6vhp7oVhC3y83H1ItCzNce"
+    },
+    {
+      "added_at": "2023-02-23 10:34:27",
+      "album": {
+        "name": "On The Dance Floor",
+        "url": "https://open.spotify.com/album/6mAJVe56utc3J2yd0rTd9B"
+      },
+      "artists": [
+        {
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
+        },
+        {
+          "name": "The PM Jazz Lab",
+          "url": "https://open.spotify.com/artist/20UxTDyauW76avunhJfElB"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "Smile - Live",
+      "url": "https://open.spotify.com/track/1Wj6woJQqEheCjZUWLBQU0"
+    },
+    {
+      "added_at": "2023-02-23 10:34:27",
+      "album": {
         "name": "Dizzy 100",
         "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
       },
@@ -1171,6 +1171,46 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
+        "name": "With The Swedish All Stars Vol. 1",
+        "url": "https://open.spotify.com/album/07IYJflVPQR4TYZ3tWOcrv"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        },
+        {
+          "name": "Swedish All Stars",
+          "url": "https://open.spotify.com/artist/2IeJ4FAeqqVo02SS62DzoG"
+        }
+      ],
+      "duration_ms": 320579,
+      "name": "Stockholm Sweetnin'",
+      "url": "https://open.spotify.com/track/2HTLAtih08iTty4hT6r8bj"
+    },
+    {
+      "added_at": "2023-02-23 10:34:27",
+      "album": {
+        "name": "Woody III",
+        "url": "https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7"
+      },
+      "artists": [
+        {
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
+        }
+      ],
+      "duration_ms": 331013,
+      "name": "Organ Grinder",
+      "url": "https://open.spotify.com/track/5taZCF2wNGymtrOpx6VZsu"
+    },
+    {
+      "added_at": "2023-02-23 10:34:27",
+      "album": {
         "name": "Cat's in the Alley",
         "url": "https://open.spotify.com/album/2s5MexPafZuOxmXJSJhsI0"
       },
@@ -1195,22 +1235,6 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
-        "name": "Woody III",
-        "url": "https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7"
-      },
-      "artists": [
-        {
-          "name": "Woody Shaw",
-          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
-        }
-      ],
-      "duration_ms": 331013,
-      "name": "Organ Grinder",
-      "url": "https://open.spotify.com/track/5taZCF2wNGymtrOpx6VZsu"
-    },
-    {
-      "added_at": "2023-02-23 10:34:27",
-      "album": {
         "name": "Gemini II",
         "url": "https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm"
       },
@@ -1223,30 +1247,6 @@
       "duration_ms": 337040,
       "name": "Gemini II",
       "url": "https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w"
-    },
-    {
-      "added_at": "2023-02-23 10:34:27",
-      "album": {
-        "name": "With The Swedish All Stars Vol. 1",
-        "url": "https://open.spotify.com/album/07IYJflVPQR4TYZ3tWOcrv"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
-        },
-        {
-          "name": "Swedish All Stars",
-          "url": "https://open.spotify.com/artist/2IeJ4FAeqqVo02SS62DzoG"
-        }
-      ],
-      "duration_ms": 320579,
-      "name": "Stockholm Sweetnin'",
-      "url": "https://open.spotify.com/track/2HTLAtih08iTty4hT6r8bj"
     },
     {
       "added_at": "2023-02-23 10:34:27",
@@ -1447,22 +1447,18 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
-        "name": "Brecker Plays Rovatti - Sacred Bond",
-        "url": "https://open.spotify.com/album/3ZjB52AfGeg45m1Tlsw0JT"
+        "name": "Simply Stated",
+        "url": "https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK"
       },
       "artists": [
         {
-          "name": "Randy Brecker",
-          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
-        },
-        {
-          "name": "Ada Rovatti",
-          "url": "https://open.spotify.com/artist/6s4lAYJTKRSqrFer1WBRTW"
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
         }
       ],
-      "duration_ms": 632253,
-      "name": "The Baggae",
-      "url": "https://open.spotify.com/track/6NfuKhkjmPWOstx6TIjqtl"
+      "duration_ms": 600493,
+      "name": "Dear Old Stockholm",
+      "url": "https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb"
     },
     {
       "added_at": "2023-02-23 10:34:27",
@@ -1495,18 +1491,22 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
-        "name": "Simply Stated",
-        "url": "https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK"
+        "name": "Brecker Plays Rovatti - Sacred Bond",
+        "url": "https://open.spotify.com/album/3ZjB52AfGeg45m1Tlsw0JT"
       },
       "artists": [
         {
-          "name": "Terence Blanchard",
-          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+        },
+        {
+          "name": "Ada Rovatti",
+          "url": "https://open.spotify.com/artist/6s4lAYJTKRSqrFer1WBRTW"
         }
       ],
-      "duration_ms": 600493,
-      "name": "Dear Old Stockholm",
-      "url": "https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb"
+      "duration_ms": 632253,
+      "name": "The Baggae",
+      "url": "https://open.spotify.com/track/6NfuKhkjmPWOstx6TIjqtl"
     },
     {
       "added_at": "2023-02-23 10:34:27",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
-        "name": "Hot Lips Page: Feelin' High & Happy",
-        "url": "https://open.spotify.com/album/2s6GKLeKyXwO1Ik993Wz78"
-      },
-      "artists": [
-        {
-          "name": "Hot Lips Page",
-          "url": "https://open.spotify.com/artist/3GAp4nVDIMnsYFZnD9DWSz"
-        }
-      ],
-      "duration_ms": 163986,
-      "name": "Blowin up Breeze",
-      "url": "https://open.spotify.com/track/5hY6A0IfpPM5KqhZwAkcYu"
-    },
-    {
-      "added_at": "2023-02-23 10:34:27",
-      "album": {
         "name": "Thumpin' & Bumpin' - New York, Vol. 2",
         "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
       },
@@ -1603,30 +1587,34 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
-        "name": "Dusty Blue",
-        "url": "https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU"
+        "name": "Hot Lips Page: Feelin' High & Happy",
+        "url": "https://open.spotify.com/album/2s6GKLeKyXwO1Ik993Wz78"
       },
       "artists": [
         {
-          "name": "Howard McGhee",
-          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
-        },
-        {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Walter Bolden",
-          "url": "https://open.spotify.com/artist/5hErYsY5trFRjYKz9YU1Uf"
+          "name": "Hot Lips Page",
+          "url": "https://open.spotify.com/artist/3GAp4nVDIMnsYFZnD9DWSz"
         }
       ],
-      "duration_ms": 267180,
-      "name": "Cottage for Sale",
-      "url": "https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV"
+      "duration_ms": 163986,
+      "name": "Blowin up Breeze",
+      "url": "https://open.spotify.com/track/5hY6A0IfpPM5KqhZwAkcYu"
+    },
+    {
+      "added_at": "2023-02-23 10:34:27",
+      "album": {
+        "name": "Byrd's Eye View",
+        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 603293,
+      "name": "El Sino",
+      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
     },
     {
       "added_at": "2023-02-23 10:34:27",
@@ -1671,18 +1659,30 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
-        "name": "Byrd's Eye View",
-        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
+        "name": "Dusty Blue",
+        "url": "https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU"
       },
       "artists": [
         {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+          "name": "Howard McGhee",
+          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
+        },
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Walter Bolden",
+          "url": "https://open.spotify.com/artist/5hErYsY5trFRjYKz9YU1Uf"
         }
       ],
-      "duration_ms": 603293,
-      "name": "El Sino",
-      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
+      "duration_ms": 267180,
+      "name": "Cottage for Sale",
+      "url": "https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV"
     },
     {
       "added_at": "2023-02-23 10:34:27",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 413333,
-      "name": "You're Getting To Be A Habit With Me",
-      "url": "https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN"
-    },
-    {
-      "added_at": "2023-02-23 10:34:27",
-      "album": {
         "name": "From The Top (Digitally Remastered)",
         "url": "https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ"
       },
@@ -1731,22 +1715,6 @@
       "duration_ms": 224103,
       "name": "Drumette",
       "url": "https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9"
-    },
-    {
-      "added_at": "2023-02-23 10:34:27",
-      "album": {
-        "name": "Hub-Tones",
-        "url": "https://open.spotify.com/album/4Co2nB4o3ABkSRP0ZCdhfA"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 390400,
-      "name": "You're My Everything",
-      "url": "https://open.spotify.com/track/6WNC8fECIg52gUHM4rHIN9"
     },
     {
       "added_at": "2023-02-23 10:34:27",
@@ -1791,6 +1759,38 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 413333,
+      "name": "You're Getting To Be A Habit With Me",
+      "url": "https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN"
+    },
+    {
+      "added_at": "2023-02-23 10:34:27",
+      "album": {
+        "name": "Hub-Tones",
+        "url": "https://open.spotify.com/album/4Co2nB4o3ABkSRP0ZCdhfA"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 390400,
+      "name": "You're My Everything",
+      "url": "https://open.spotify.com/track/6WNC8fECIg52gUHM4rHIN9"
+    },
+    {
+      "added_at": "2023-02-23 10:34:27",
+      "album": {
         "name": "Self Determination Music",
         "url": "https://open.spotify.com/album/3CbtFB8aQJZJ1Q1lDxWf8K"
       },
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
+        "name": "Off To The Races (Remastered)",
+        "url": "https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 426480,
+      "name": "Paul's Pal - Rudy Van Gelder Edition/Digital Remaster/2006",
+      "url": "https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3"
+    },
+    {
+      "added_at": "2023-02-23 10:34:27",
+      "album": {
         "name": "Big Brass",
         "url": "https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 422480,
       "name": "Tipsy",
       "url": "https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd"
-    },
-    {
-      "added_at": "2023-02-23 10:34:27",
-      "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
-      },
-      "artists": [
-        {
-          "name": "Tim Hagans",
-          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
-        }
-      ],
-      "duration_ms": 418642,
-      "name": "Sweet Peach Tree",
-      "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
     },
     {
       "added_at": "2023-02-23 10:34:27",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2023-02-23 10:34:27",
       "album": {
-        "name": "Off To The Races (Remastered)",
-        "url": "https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi"
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
       },
       "artists": [
         {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+          "name": "Tim Hagans",
+          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
         }
       ],
-      "duration_ms": 426480,
-      "name": "Paul's Pal - Rudy Van Gelder Edition/Digital Remaster/2006",
-      "url": "https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3"
+      "duration_ms": 418642,
+      "name": "Sweet Peach Tree",
+      "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
     }
   ],
   "unique_name": "Jazz Trumpet",

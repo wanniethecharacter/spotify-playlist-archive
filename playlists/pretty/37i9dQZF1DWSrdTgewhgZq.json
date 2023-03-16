@@ -1,33 +1,13 @@
 {
-  "description": "Only the best Hip-hop, only non-stop hits. Cover: GloRilla",
-  "num_followers": 1016272,
+  "description": "Only the best Hip-hop, only non-stop hits. Cover: Conway The Machine & Jae Skeese ",
+  "num_followers": 1016247,
   "original_name": "DOPE.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg4MDg0NiwwMDAwMDAwMGQzZTY4ODI2OTZkOTVjNDcwMWExZTI5NDJmNjUxNDli",
+  "snapshot_id": "MTY3ODkyODUwNCwwMDAwMDAwMDhhZWRlNzUwNzVmMjhhZDliYjUzNWM1ZGFkMDYxZjYx",
   "tracks": [
-    {
-      "added_at": "2023-03-03 22:00:46",
-      "album": {
-        "name": "Internet Trolls",
-        "url": "https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Hitkidd",
-          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
-        }
-      ],
-      "duration_ms": 140572,
-      "name": "Internet Trolls",
-      "url": "https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD"
-    },
     {
       "added_at": "2023-03-03 22:00:46",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 192629,
       "name": "Metallic 5's",
       "url": "https://open.spotify.com/track/1FswwGm9noeepfDqPxDygo"
+    },
+    {
+      "added_at": "2023-03-03 22:00:46",
+      "album": {
+        "name": "Internet Trolls",
+        "url": "https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        }
+      ],
+      "duration_ms": 140572,
+      "name": "Internet Trolls",
+      "url": "https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD"
     },
     {
       "added_at": "2023-03-03 22:00:46",

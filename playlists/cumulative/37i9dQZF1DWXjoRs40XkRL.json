@@ -606,7 +606,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 423530,
       "name": "Ghayal Hiraniaya",
       "url": "https://open.spotify.com/track/3FiVgtjtsW9E2064TkOlMR"
@@ -2321,6 +2321,28 @@
     },
     {
       "album": {
+        "name": "Ratiya",
+        "url": "https://open.spotify.com/album/7pQTz2ppS7KvmcZlAwOC3y"
+      },
+      "artists": [
+        {
+          "name": "Apratim Tripathi",
+          "url": "https://open.spotify.com/artist/05T6fQJ1Zn4EtE8Jcn1RlY"
+        },
+        {
+          "name": "Rishav Tushar",
+          "url": "https://open.spotify.com/artist/3SFMwegvRhEllDcmoe2GTl"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Ratiya",
+      "url": "https://open.spotify.com/track/6FPylA81QCbV7wxCZidFqs"
+    },
+    {
+      "album": {
         "name": "Ret Bhari",
         "url": "https://open.spotify.com/album/48dyY2SbO1kwSeV5r1KFEy"
       },
@@ -2740,7 +2762,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 432000,
       "name": "Tangerine Thumri (Orange Turban Mix)",
       "url": "https://open.spotify.com/track/1ZpDROkwHFYtpsRkBTG2Sr"

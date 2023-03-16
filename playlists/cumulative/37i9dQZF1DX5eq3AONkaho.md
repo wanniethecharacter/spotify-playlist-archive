@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-843 songs - 1 day 23 hr 49 min
+844 songs - 1 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Do It Like This](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : FIND OUT](https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz) | 3:12 | 2022-01-03 |  |
 | [DO or NOT](https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:08 | 2021-11-17 | 2022-07-29 |
 | [DO WHAT WE LIKE](https://open.spotify.com/track/54kGRAmn3I49RPAhdWG2sp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 2:59 | 2021-11-17 | 2022-07-27 |
-| [Dolphin](https://open.spotify.com/track/3NfgdU9mbIVhcJF3XvC0c9) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 2:56 | 2021-11-17 | 2023-02-10 |
+| [Dolphin](https://open.spotify.com/track/3NfgdU9mbIVhcJF3XvC0c9) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 2:56 | 2021-11-17 |  |
 | [Don't Call Me](https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:40 | 2021-11-17 | 2023-01-14 |
 | [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-11-17 | 2022-11-13 |
 | [Don't forget](https://open.spotify.com/track/3vUhplxWXZzRROaw3zmeag) | [SEULGI](https://open.spotify.com/artist/73Ag41hlRQlEj8wJloKccQ) | [Don't forget me](https://open.spotify.com/album/5o9y5DIHPh6zqlaPFUHFYX) | 3:14 | 2021-11-17 | 2022-07-16 |
@@ -408,7 +408,7 @@
 | [Karma \(feat\. Nino Lucarelli\)](https://open.spotify.com/track/28tllebADXUaV2omFEhoSB) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 3:26 | 2021-11-17 | 2022-07-27 |
 | [Kick It](https://open.spotify.com/track/1ayaOin9hxCtyhg4UsBTpg) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:53 | 2021-11-17 |  |
 | [Kill This Love](https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:09 | 2021-11-17 | 2022-07-20 |
-| [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2022-07-08 |  |
+| [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2022-07-08 | 2023-03-16 |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2022-02-03 |  |
 | [KILLING ME](https://open.spotify.com/track/1IbpTcFDHRD87cGQOhVCDP) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) | 3:13 | 2022-07-08 |  |
 | [KILLING ME](https://open.spotify.com/track/27kB4qLUCV8nZd2eOgj1Tk) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS : CONTINUE](https://open.spotify.com/album/2yUTAuGu8Xu7xoTdASjClx) | 3:13 | 2021-11-17 | 2022-07-28 |
@@ -570,6 +570,7 @@
 | [PING PONG](https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18) | [HyunA&DAWN](https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4) | [1+1=1](https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf) | 2:38 | 2022-02-03 |  |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2023-03-13 |
 | [Pirate](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Return of The Girl](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) | 3:30 | 2022-02-03 |  |
+| [PLAYING WITH FIRE](https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:17 | 2023-01-26 |  |
 | [PLAYING WITH FIRE](https://open.spotify.com/track/5ANbXf5qR48a4jfFnSq80w) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/1Ovk2wzDGAGYVeHdPj8Eoe) | 3:17 | 2021-11-17 | 2022-07-22 |
 | [PLAYING WITH FIRE \- KR Ver.](https://open.spotify.com/track/5OepnJhqZoyJN8qWo2LZzy) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/3KacwE6ax8jp1vun6DQ1Jf) | 3:17 | 2021-11-17 | 2022-07-16 |
 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:32 | 2021-11-17 | 2022-07-23 |
@@ -759,7 +760,7 @@
 | [Very Very Very](https://open.spotify.com/track/6VJhf9l4ALDquID0bN51QQ) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [miss me?](https://open.spotify.com/album/1AM6J4QIJRL8MEXV03tlc5) | 3:23 | 2022-03-24 | 2022-04-20 |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-01-16 |  |
 | [Vibin](https://open.spotify.com/track/3nbTkTlILrKTGpjF6X8pEN) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [COLORS from Ars](https://open.spotify.com/album/1nq1Qy5rv1VKFV6HbbSv8c) | 3:22 | 2022-02-03 | 2022-07-29 |
-| [View](https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Odd \- The 4th Album](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) | 3:10 | 2021-11-17 |  |
+| [View](https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Odd \- The 4th Album](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) | 3:10 | 2021-11-17 | 2023-03-16 |
 | [Villain](https://open.spotify.com/track/3xO1I7gH39DTgaai3kGIOY) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [DRIPPIN 3rd Mini Album \[Villain\]](https://open.spotify.com/album/4oOm4qnnn2qdOwSBX7nsWd) | 3:01 | 2022-02-23 | 2022-07-19 |
 | [Violeta](https://open.spotify.com/track/0Qzs7eyyx6Il1qkA4wqUHm) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [HEART\*IZ](https://open.spotify.com/album/548UwoyV9v9fTaoEfzoCBb) | 3:20 | 2022-07-08 |  |
 | [Violeta](https://open.spotify.com/track/0ahbzg4GCq3wJzUM3cjS3N) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [HEART\*IZ](https://open.spotify.com/album/2UBE2MgNdsGa9OCSbvwdEQ) | 3:20 | 2021-11-17 | 2022-07-25 |

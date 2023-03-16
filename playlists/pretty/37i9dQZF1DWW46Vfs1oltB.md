@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: sokodomo, Vice Versa, Don Mills, Smugglers\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,556 likes - 134 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,539 likes - 134 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

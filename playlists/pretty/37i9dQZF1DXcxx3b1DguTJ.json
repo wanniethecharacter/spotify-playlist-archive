@@ -1,12 +1,12 @@
 {
   "description": "Grandes cl\u00e1sicos del pop en espa\u00f1ol. \u00a1Todo limpio y ordenado!",
-  "num_followers": 113819,
+  "num_followers": 113887,
   "original_name": "Pa Planchar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMyMzQ0MSwwMDAwMDAwMDMxOWM4YjY4ZTVmNGY2NzZiZWViNjVjYWQ4MTdiYzcz",
+  "snapshot_id": "MTY3NjMyMzQ0MSwwMDAwMDAwMDRkMGI0NDE4ZGI1ZTI3MWIzZjRkMmQ5ZGY2OTEyZTU3",
   "tracks": [
     {
       "added_at": "2023-02-13 21:24:01",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-02-13 21:24:01",
       "album": {
-        "name": "Pimpinela",
-        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
-      },
-      "artists": [
-        {
-          "name": "Pimpinela",
-          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Olv\u00eddame y Pega la Vuelta",
-      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
-    },
-    {
-      "added_at": "2023-02-13 21:24:01",
-      "album": {
         "name": "15 \u00c9xitos de Marisela Vol. 2",
         "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2023-02-13 21:24:01",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+        "name": "Pimpinela",
+        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
         }
       ],
-      "duration_ms": 229040,
-      "name": "Caray",
-      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
+      "duration_ms": 185800,
+      "name": "Olv\u00eddame y Pega la Vuelta",
+      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
     },
     {
       "added_at": "2023-02-13 21:24:01",
@@ -611,6 +595,22 @@
       "duration_ms": 243573,
       "name": "Y Volver\u00e9",
       "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
+    },
+    {
+      "added_at": "2023-02-13 21:24:01",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "Caray",
+      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
     },
     {
       "added_at": "2023-02-13 21:24:01",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-02-13 21:24:01",
       "album": {
-        "name": "Recuerdos II",
-        "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 328320,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
-    },
-    {
-      "added_at": "2023-02-13 21:24:01",
-      "album": {
         "name": "Super 20",
         "url": "https://open.spotify.com/album/6IXbg5QxJ4hGkrnTZo3n1B"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2023-02-13 21:24:01",
       "album": {
+        "name": "Hasta Ahora",
+        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 249973,
+      "name": "Entra en Mi Vida",
+      "url": "https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe"
+    },
+    {
+      "added_at": "2023-02-13 21:24:01",
+      "album": {
         "name": "La Profec\u00eda",
         "url": "https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY"
       },
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-02-13 21:24:01",
       "album": {
-        "name": "Hasta Ahora",
-        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
+        "name": "Recuerdos II",
+        "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
       },
       "artists": [
         {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 249973,
-      "name": "Entra en Mi Vida",
-      "url": "https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe"
+      "duration_ms": 328320,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
     },
     {
       "added_at": "2023-02-13 21:24:01",

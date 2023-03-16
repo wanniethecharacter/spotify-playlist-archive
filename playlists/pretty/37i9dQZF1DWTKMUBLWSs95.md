@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKMUBLWSs95.md) - [plain]
 
 > Discover new releases and rising artists from the classical world\. Cover: Erland Cooper
 
-[Spotify](https://open.spotify.com/user/spotify) - 207 likes - 62 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 219 likes - 62 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKMUBLWSs95.md) - [plain]
 | 27 | [Mercy through the Clouds](https://open.spotify.com/track/3hMNkYWt4gr1asYEj97goF) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [After the chaos](https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H) | 4:39 |
 | 28 | [Mamma](https://open.spotify.com/track/75HnNeRjD1HzKnpMRuoaKV) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mamma](https://open.spotify.com/album/6o4CktR4yXJnpFqs9BDgpo) | 3:11 |
 | 29 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/0rTWmhqlac0DNHc5xXk1SW) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Kyohei Sorita](https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc), [Keigo Mukawa](https://open.spotify.com/artist/31YgzVQJU0rrWzZGfzVVUF) | [Two Pianos 2](https://open.spotify.com/album/0QVZQD5ymGpz0klj9pzs7N) | 2:38 |
-| 30 | [Venus in Sunlight Grey](https://open.spotify.com/track/1vAUDGCObZGyxUxgh3rtl6) | [Julie Cooper](https://open.spotify.com/artist/3Orwjks4n4xieFN72XQDQa), [Percy Bysshe Shelley](https://open.spotify.com/artist/1qnWU9Vv35KUrVGDNXL3W4), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5), [Simon Hale](https://open.spotify.com/artist/6EkCcTprX3kMkjH5mbhCyh) | [Julie Cooper: Venus in Sunlight Grey](https://open.spotify.com/album/56FKDpbyULonv8MK1dHeJD) | 4:07 |
+| 30 | [Venus in Sunlight Grey](https://open.spotify.com/track/1vAUDGCObZGyxUxgh3rtl6) | [Julie Cooper](https://open.spotify.com/artist/3Orwjks4n4xieFN72XQDQa), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5), [Simon Hale](https://open.spotify.com/artist/6EkCcTprX3kMkjH5mbhCyh) | [Julie Cooper: Venus in Sunlight Grey](https://open.spotify.com/album/56FKDpbyULonv8MK1dHeJD) | 4:07 |
 | 31 | [Zima](https://open.spotify.com/track/642zqDakl1ffk9M3vjYzWe) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Dreamscapes](https://open.spotify.com/album/5s3d1Fzwn0DTupeNktBJOF) | 4:18 |
 | 32 | [Symphony No\. 9 in D Minor, WAB 109 \(Edition Nowak\): II\. Scherzo\. Bewegt, lebhaft \- Trio: Schnell](https://open.spotify.com/track/5RosK5bHAjgWlCH6Wbmi02) | [Anton Bruckner](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2), [Christian Thielemann](https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) | [Bruckner: Symphony No\. 9 in D Minor, WAB 109 \(Edition Nowak\)](https://open.spotify.com/album/2IVcpFjvVFN6hTUe0ypxdf) | 10:20 |
 | 33 | [Piano Concerto: II\. Languid Blues](https://open.spotify.com/track/3ctQF0EFNWBDiSSPxk4sxj) | [Errollyn Wallen](https://open.spotify.com/artist/6Vl4eGV594sQXxRQDMOSCw), [Rebeca Omordia](https://open.spotify.com/artist/6s4sUxjZ8mtRxIKvuaGtNL), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg), [John Andrews](https://open.spotify.com/artist/0f5UbEeb7kpkmGMEYNSEzJ) | [Piano Concerto: II\. Languid Blues](https://open.spotify.com/album/4Gr8BMQitpZmIkmHLTcYWY) | 11:26 |

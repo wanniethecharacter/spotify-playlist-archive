@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcJR8Ys0NBejf.md) - [plain]
 
 > Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcJR8Ys0NBejf.md) - [plain]
 | 2 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 |
 | 3 | [Mad At Me](https://open.spotify.com/track/5qwYQHz4FnWRvIFRJcUAQZ) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [Honey](https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv) | 3:38 |
 | 4 | [down 4 u](https://open.spotify.com/track/4kT9Ie0YpCGlYTKrSE60iV) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 2:57 |
-| 5 | [Serial Killer Killer](https://open.spotify.com/track/7arNPz9Tj3WNxRdHoGOKCj) | [Annushka](https://open.spotify.com/artist/0wjZpaI3GKiH8S7WDDGu1a) | [Serial Killer Killer](https://open.spotify.com/album/3y2yJiGb3U9xIj8glIP4iG) | 4:24 |
+| 5 | [](https://open.spotify.com/track/7arNPz9Tj3WNxRdHoGOKCj) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Serial Killer Killer](https://open.spotify.com/album/3y2yJiGb3U9xIj8glIP4iG) | 0:00 |
 | 6 | [Busy Is the New Fine](https://open.spotify.com/track/0OK2LK3EdY3q1cX8LjvwKA) | [Venus Hum](https://open.spotify.com/artist/7H25Qevi3dQnggzCP3080J) | [Busy Is the New Fine](https://open.spotify.com/album/5EhDIbpQi0BOqDZNC8UPfy) | 4:01 |
 | 7 | [Ugly Crier](https://open.spotify.com/track/0AOa1XIQ4vYjAv5uflTrMN) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Bittersweet 16](https://open.spotify.com/album/5NrdpIaUiVzSp9dfPxMPO5) | 2:32 |
 | 8 | [Knives](https://open.spotify.com/track/7yoWJRrvBRYemcjxywGN8i) | [rosi](https://open.spotify.com/artist/0fPzadE1XVPbRVP5qzes6r) | [Knives](https://open.spotify.com/album/4wAWzHsSPlWd77mNkLV41u) | 3:25 |

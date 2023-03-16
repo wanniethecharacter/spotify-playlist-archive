@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: NewJeans\(뉴진스\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-526 songs - 1 day 4 hr 59 min
+527 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Ay\-Yo](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:41 | 2023-02-15 |  |
 | [AYA](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 3:31 | 2022-03-24 | 2022-04-18 |
 | [Back Door](https://open.spotify.com/track/6nGDbTIv7jH4NJKpF435GD) | [JEON JIWOO](https://open.spotify.com/artist/5xvL2dDchuH75OLqQ6HCzj), [IN SEONG](https://open.spotify.com/artist/0JxQHl0AkdY6GI3C5gtFeo) | [Watcha Original <DOUBLE TROUBLE> EPISODE.5 History – ‘Back Door](https://open.spotify.com/album/3EBv3HESakoTQkUWWv6qYt) | 3:42 | 2022-04-18 | 2022-04-21 |
+| [Back Door](https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:09 | 2023-03-06 |  |
 | [Back Door](https://open.spotify.com/track/7I0vl97TYZW86qYdgcD1qu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:09 | 2022-01-14 | 2022-04-20 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-08 |  |
 | [BAD GIRL \(Prod\. Czaer\)](https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A) | [LACHICA](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 3:14 | 2022-03-14 | 2022-04-18 |
@@ -283,7 +284,7 @@
 | [Life is Beautiful](https://open.spotify.com/track/7ddidn8lqsvjGCvwOFMXQZ) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [ONEUS THEATRE : Life is Beautiful](https://open.spotify.com/album/0PHu8jLNsawhOUxBwFk7KU) | 3:40 | 2022-01-14 | 2022-06-28 |
 | [Lights](https://open.spotify.com/track/6oqpdPyUlrvth5trYx0l0y) | [KIM JONGHYEON](https://open.spotify.com/artist/0xJDnPkh9zb3YWOpMqkXWM) | [MERIDIEM](https://open.spotify.com/album/3a8zl8zbMxiR3VYTQiRs4s) | 3:20 | 2022-11-08 | 2022-11-23 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-12-29 | 2022-08-10 |
-| [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2021-12-21 |  |
+| [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2021-12-21 | 2023-03-16 |
 | [Lock Down](https://open.spotify.com/track/3SCxTtLDtZ6HsQrytAoyLV) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [1st EP Album 'Bipolar Pt.1 Prelude of Anxiety'](https://open.spotify.com/album/7vmtkwSVS1bKSvRbQ0ALvY) | 3:27 | 2022-01-03 | 2022-03-09 |
 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 | 2022-07-28 |  |
 | [LOCO](https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-12-21 | 2022-07-29 |

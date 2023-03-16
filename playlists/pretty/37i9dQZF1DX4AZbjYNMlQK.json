@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Feliz Navidad! Celebra los d\u00edas festivos con estas canciones. ",
-  "num_followers": 288045,
+  "num_followers": 288028,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNDI2OSwwMDAwMDAwMDFkMGIwZDRmZmQ5MmI2OWViMDZkZjFiZDY3OTIyZTIz",
+  "snapshot_id": "MTY3MTczNDI2OSwwMDAwMDAwMDc1ZWZjNDI1OTJiMWNlZjFmMjM3NjVmNTZlYWZlMzhh",
   "tracks": [
     {
       "added_at": "2022-12-22 18:37:48",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
-        "name": "Solo En Navidad",
-        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 191117,
-      "name": "Solo En Navidad",
-      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
-    },
-    {
-      "added_at": "2022-12-22 18:37:48",
-      "album": {
         "name": "We're The Lucky Ones",
         "url": "https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 215933,
       "name": "We're The Lucky Ones",
       "url": "https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT"
+    },
+    {
+      "added_at": "2022-12-22 18:37:48",
+      "album": {
+        "name": "Solo En Navidad",
+        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 191117,
+      "name": "Solo En Navidad",
+      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
       "added_at": "2022-12-22 18:37:48",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 171535,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
-    },
-    {
-      "added_at": "2022-12-22 18:37:48",
-      "album": {
         "name": "Regres\u00e9 Para Navidad",
         "url": "https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 167000,
       "name": "Regres\u00e9 Para Navidad",
       "url": "https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO"
+    },
+    {
+      "added_at": "2022-12-22 18:37:48",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 171535,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
     },
     {
       "added_at": "2022-12-22 18:37:48",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
-        "name": "Otro a\u00f1o +",
-        "url": "https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 100231,
-      "name": "Otro a\u00f1o +",
-      "url": "https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj"
-    },
-    {
-      "added_at": "2022-12-22 18:37:48",
-      "album": {
         "name": "Navidad Contigo",
         "url": "https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
-        "name": "Ven a Mi Casa Esta Navidad",
-        "url": "https://open.spotify.com/album/4uastmbjHgxrGP65Gigd4y"
+        "name": "Otro a\u00f1o +",
+        "url": "https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob"
       },
       "artists": [
         {
-          "name": "Ilse Hendrix",
-          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
         }
       ],
-      "duration_ms": 206768,
-      "name": "Ven a Mi Casa Esta Navidad",
-      "url": "https://open.spotify.com/track/5ISMjtLXxtXa5mWRQDaZK6"
+      "duration_ms": 100231,
+      "name": "Otro a\u00f1o +",
+      "url": "https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj"
     },
     {
       "added_at": "2022-12-22 18:37:48",
@@ -931,6 +915,22 @@
       "duration_ms": 325397,
       "name": "El A\u00f1o Que Vendr\u00e1 Querido Amigo",
       "url": "https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9"
+    },
+    {
+      "added_at": "2022-12-22 18:37:48",
+      "album": {
+        "name": "Ven a Mi Casa Esta Navidad",
+        "url": "https://open.spotify.com/album/4uastmbjHgxrGP65Gigd4y"
+      },
+      "artists": [
+        {
+          "name": "Ilse Hendrix",
+          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
+        }
+      ],
+      "duration_ms": 206768,
+      "name": "Ven a Mi Casa Esta Navidad",
+      "url": "https://open.spotify.com/track/5ISMjtLXxtXa5mWRQDaZK6"
     },
     {
       "added_at": "2022-12-22 18:37:48",

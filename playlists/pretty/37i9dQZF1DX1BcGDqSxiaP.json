@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 17541,
+  "num_followers": 17551,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDM3YTE1ZDViMjRiZWMzZGQ1NmJlNjIyYmQwMzM3YTQ3",
+  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDk3YzRlOTQ1NjZiZTc0YWUyNzkwZDQyNWZmYjdhMGI1",
   "tracks": [
     {
       "added_at": "2020-09-21 10:42:33",
@@ -243,18 +243,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Let's Buzz",
-        "url": "https://open.spotify.com/album/3ECx5ku37cBY69C594AJEz"
+        "name": "Blowin' Like Hell",
+        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
       },
       "artists": [
         {
-          "name": "The Paladins",
-          "url": "https://open.spotify.com/artist/5ecJGNE48l8ut59qMbP7ZF"
+          "name": "William Clarke",
+          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
         }
       ],
-      "duration_ms": 242933,
-      "name": "Keep On Lovin' Me Baby",
-      "url": "https://open.spotify.com/track/3jtaWKCISJEDBNl83CV9pw"
+      "duration_ms": 345666,
+      "name": "Lonesome Bedroom Blues",
+      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -291,18 +291,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Blowin' Like Hell",
-        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
+        "name": "Let's Buzz",
+        "url": "https://open.spotify.com/album/3ECx5ku37cBY69C594AJEz"
       },
       "artists": [
         {
-          "name": "William Clarke",
-          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
+          "name": "The Paladins",
+          "url": "https://open.spotify.com/artist/5ecJGNE48l8ut59qMbP7ZF"
         }
       ],
-      "duration_ms": 345666,
-      "name": "Lonesome Bedroom Blues",
-      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
+      "duration_ms": 242933,
+      "name": "Keep On Lovin' Me Baby",
+      "url": "https://open.spotify.com/track/3jtaWKCISJEDBNl83CV9pw"
     },
     {
       "added_at": "2020-09-21 10:42:33",

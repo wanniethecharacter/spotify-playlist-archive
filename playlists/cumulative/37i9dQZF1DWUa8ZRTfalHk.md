@@ -4,7 +4,7 @@
 
 > The hits of tomorrow are on Spotify today\. Cover: Calvin Harris & Ellie Goulding
 
-1,619 songs - 3 day 11 hr 44 min
+1,621 songs - 3 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [A Little Bit Yours](https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Little Bit Yours](https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM) | 3:45 | 2020-10-13\* | 2020-11-20 |
 | [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 | 2023-02-17 |  |
 | [A Temporary High](https://open.spotify.com/track/0xTZXhs3eVb48PQNywMCdH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY) | 3:23 | 2022-01-21 | 2022-02-05 |
-| [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 | 2023-02-17 |  |
+| [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 | 2023-02-17 | 2023-03-16 |
 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2021-08-07 | 2021-09-04 |
 | [A\-O\-K](https://open.spotify.com/track/1v3Ozpbcx2B926aVW0UuXk) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [A\-O\-K](https://open.spotify.com/album/6MGSAlP80JS800sXlYroNG) | 2:53 | 2021-05-08 | 2021-07-31 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-13 | 2022-02-05 |
@@ -319,6 +319,7 @@
 | [Cry Over Boys](https://open.spotify.com/track/218q4fCmVERKhXEZDr6g4P) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cry Over Boys](https://open.spotify.com/album/6hEdISwurRTZlHPsyQhYy6) | 2:50 | 2021-01-29 | 2021-04-17 |
 | [Cry with you](https://open.spotify.com/track/0hqJxaNkPQ3sPm1tvfPlAe) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Cry with you](https://open.spotify.com/album/5glLEM78dvTDoN8MSjM241) | 3:37 | 2021-08-21 | 2021-09-18 |
 | [Crying in the Rain](https://open.spotify.com/track/134G2m5YsPiZXFOduHEfSJ) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Crying in the Rain](https://open.spotify.com/album/55biwjrtDGdlAjomhA3O4U) | 2:35 | 2022-03-04 | 2022-04-02 |
+| [Cupid \- Twin Version](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-15 |  |
 | [Dadada](https://open.spotify.com/track/4SRkixF643LgySLh8owTkJ) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Dadada](https://open.spotify.com/album/0UUBtEMsxJwMQkoYKiFdjK) | 2:11 | 2021-11-06 | 2021-11-20 |
 | [Daisy](https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Daisy](https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki) | 2:26 | 2020-10-13\* | 2020-10-23 |
 | [Damage](https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Damage](https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII) | 3:43 | 2020-10-23 | 2020-11-27 |
@@ -615,7 +616,7 @@
 | [Here We Go Again](https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Here We Go Again](https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf) | 2:44 | 2023-03-03 |  |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-11 | 2023-02-11 |
 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2021-07-10 | 2021-09-11 |
-| [Hero](https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Hero](https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v) | 2:40 | 2022-12-09 |  |
+| [Hero](https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Hero](https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v) | 2:40 | 2022-12-09 | 2023-03-16 |
 | [Hey Boy](https://open.spotify.com/track/4GMwkXRXJBedJMmvmltk0Q) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Hey Boy](https://open.spotify.com/album/3khsmnYmmsMJ0IMW8OvLKF) | 2:29 | 2020-11-20 | 2020-12-04 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-14 | 2022-11-12 |
 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 | 2022-01-28 | 2022-04-23 |
@@ -1372,6 +1373,7 @@
 | [Take My Hand](https://open.spotify.com/track/5e73JXit90gFD8EU1jqC6n) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Take My Hand](https://open.spotify.com/album/5iIIOKL3l6iY2bsfdd5FVp) | 3:59 | 2022-04-01 | 2022-05-14 |
 | [Talk \(with Royal & The Serpent\)](https://open.spotify.com/track/2OclKk08GDRSZbPF6M41XF) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [To Believe \- EP](https://open.spotify.com/album/7k4K95xPJ2RdnA1MN2MvuG) | 3:12 | 2022-04-22 | 2022-05-07 |
 | [Talk About Love \(feat\. Young Thug\)](https://open.spotify.com/track/1qA9TnEJ2sUub9QkN9K3Mv) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Talk About Love \(feat\. Young Thug\)](https://open.spotify.com/album/29K1jMNI9pOIzCG3rtzm0p) | 3:19 | 2021-01-08 | 2021-03-06 |
+| [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-03-15 |  |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-06-03 | 2022-06-11 |
 | [Teach Me How To Love](https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 3:22 | 2020-12-04 | 2021-01-15 |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/60wMNCIWYZwbOywZXgfQ9P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/album/633MrZ9lAeFFydmcMENiuA) | 3:16 | 2021-12-17 | 2022-01-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Mike Bah\u00eda & Greeicy",
-  "num_followers": 1893063,
+  "num_followers": 1893322,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDY0MGQxZDExMDJkYjhiODAyOWM1ZmQ1OTEzNDUxZDIw",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGUzNWMzNDNhY2MyZjBlNDE4OTgzOWRiY2E0NDNiOWQz",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -383,6 +383,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
+      },
+      "artists": [
+        {
+          "name": "Jd Pantoja",
+          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Iluminatti",
         "url": "https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 213146,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6yjsa6c8nSGQqXF12vFSpp"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Se\u00f1or Juez",
-        "url": "https://open.spotify.com/album/7jAArelViCK8oA7Anmlw5v"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 264757,
-      "name": "Se\u00f1or Juez",
-      "url": "https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -499,6 +499,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Se\u00f1or Juez",
+        "url": "https://open.spotify.com/album/7jAArelViCK8oA7Anmlw5v"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 264757,
+      "name": "Se\u00f1or Juez",
+      "url": "https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "El Amor",
         "url": "https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 204733,
       "name": "La Asesina",
       "url": "https://open.spotify.com/track/1WoDc1x28zHmxnPvvM5GLh"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
-      },
-      "artists": [
-        {
-          "name": "Jd Pantoja",
-          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "El Amor",
-        "url": "https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 172440,
-      "name": "El Intruso",
-      "url": "https://open.spotify.com/track/0gSBSVrek88L0xnSUQwlst"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "...A Pasito Lento!",
         "url": "https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 360720,
       "name": "Medicina De Amor",
       "url": "https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "El Amor",
+        "url": "https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "El Intruso",
+      "url": "https://open.spotify.com/track/0gSBSVrek88L0xnSUQwlst"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1079,8 +1079,8 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Volvio el Dolor",
-        "url": "https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi"
+        "name": "Canciones Inmortales Bachatas",
+        "url": "https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA"
       },
       "artists": [
         {
@@ -1088,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
         }
       ],
-      "duration_ms": 213693,
-      "name": "Volvio el dolor",
-      "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"
+      "duration_ms": 472546,
+      "name": "Loco de Amor",
+      "url": "https://open.spotify.com/track/33lOsXDjSYVgjaTkNcXCFA"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1179,8 +1179,8 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Canciones Inmortales Bachatas",
-        "url": "https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA"
+        "name": "Volvio el Dolor",
+        "url": "https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi"
       },
       "artists": [
         {
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
         }
       ],
-      "duration_ms": 472546,
-      "name": "Loco de Amor",
-      "url": "https://open.spotify.com/track/33lOsXDjSYVgjaTkNcXCFA"
+      "duration_ms": 213693,
+      "name": "Volvio el dolor",
+      "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "I Love Bachata (Bachata Hits)",
-        "url": "https://open.spotify.com/album/466Tc4F5S8Lfg5df80aL6s"
+        "name": "Momentos de Cine",
+        "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
         }
       ],
-      "duration_ms": 274613,
-      "name": "Vete Y Al\u00e9jate De M\u00ed",
-      "url": "https://open.spotify.com/track/4cLaSHyfYxkr9bBuYCPM1B"
+      "duration_ms": 210008,
+      "name": "Verdad O Reto",
+      "url": "https://open.spotify.com/track/5qfKObjdXnUosQcls4IiqT"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Momentos de Cine",
-        "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
+        "name": "I Love Bachata (Bachata Hits)",
+        "url": "https://open.spotify.com/album/466Tc4F5S8Lfg5df80aL6s"
       },
       "artists": [
         {
-          "name": "Daniel Santacruz",
-          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 210008,
-      "name": "Verdad O Reto",
-      "url": "https://open.spotify.com/track/5qfKObjdXnUosQcls4IiqT"
+      "duration_ms": 274613,
+      "name": "Vete Y Al\u00e9jate De M\u00ed",
+      "url": "https://open.spotify.com/track/4cLaSHyfYxkr9bBuYCPM1B"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Tu Mundo Cambi\u00f3",
-        "url": "https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D"
-      },
-      "artists": [
-        {
-          "name": "Milly Quezada",
-          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
-        }
-      ],
-      "duration_ms": 205220,
-      "name": "Tu Mundo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Mil historias Edici\u00f3n De Lujo",
         "url": "https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 245500,
       "name": "La Victima",
       "url": "https://open.spotify.com/track/0d1v3Dux5AhQm2TCJMASxZ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Tu Mundo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D"
+      },
+      "artists": [
+        {
+          "name": "Milly Quezada",
+          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
+        }
+      ],
+      "duration_ms": 205220,
+      "name": "Tu Mundo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH"
     },
     {
       "added_at": "2023-03-10 05:00:00",

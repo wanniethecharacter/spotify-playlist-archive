@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1372,
+  "num_followers": 1378,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyODMxNSwwMDAwMDAwMDg1Njc3MjRjZDJiN2ZhNzVmMDc3NzMyYzI3NGI4NmFl",
+  "snapshot_id": "MTY3NzgyODMxNSwwMDAwMDAwMDY3YzA3ODczMzZhMjEwY2Y0ZjNiYmZhNDFjOGJkMDhk",
   "tracks": [
     {
       "added_at": "2023-01-20 05:07:11",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
     },
     {
-      "added_at": "2023-03-15 01:08:33",
+      "added_at": "2023-03-16 01:15:07",
       "album": {
         "name": "Tok Tok",
         "url": "https://open.spotify.com/album/3bRLDOq4DgCY27Lc6r3kFh"
@@ -229,26 +229,6 @@
       "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Part2 (Dinner in Maui)",
-        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
-      },
-      "artists": [
-        {
-          "name": "Hermez",
-          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
-        },
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        }
-      ],
-      "duration_ms": 193896,
-      "name": "Part2 (Dinner in Maui)",
-      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
-    },
-    {
       "added_at": "2023-02-16 20:59:00",
       "album": {
         "name": "Sikwebela",
@@ -267,6 +247,26 @@
       "duration_ms": 149312,
       "name": "Sikwebela",
       "url": "https://open.spotify.com/track/4G2CEKgb8m5jKItYAuVeJA"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Part2 (Dinner in Maui)",
+        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
+      },
+      "artists": [
+        {
+          "name": "Hermez",
+          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 193896,
+      "name": "Part2 (Dinner in Maui)",
+      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -329,24 +329,20 @@
       "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
     },
     {
-      "added_at": "2022-12-02 05:04:10",
+      "added_at": "2022-11-17 20:59:00",
       "album": {
-        "name": "Love Marijuana",
-        "url": "https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1"
+        "name": "Your Number (Acoustic)",
+        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
       },
       "artists": [
         {
-          "name": "C. Wyne Nalukalala",
-          "url": "https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly"
-        },
-        {
-          "name": "Mungo's Hi Fi",
-          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
         }
       ],
-      "duration_ms": 228040,
-      "name": "Love Marijuana",
-      "url": "https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS"
+      "duration_ms": 136818,
+      "name": "Your Number",
+      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -365,20 +361,24 @@
       "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
     },
     {
-      "added_at": "2022-11-17 20:59:00",
+      "added_at": "2022-12-02 05:04:10",
       "album": {
-        "name": "Your Number (Acoustic)",
-        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
+        "name": "Love Marijuana",
+        "url": "https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1"
       },
       "artists": [
         {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+          "name": "C. Wyne Nalukalala",
+          "url": "https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly"
+        },
+        {
+          "name": "Mungo's Hi Fi",
+          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
         }
       ],
-      "duration_ms": 136818,
-      "name": "Your Number",
-      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
+      "duration_ms": 228040,
+      "name": "Love Marijuana",
+      "url": "https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
     },
     {
-      "added_at": "2023-03-15 01:08:33",
+      "added_at": "2023-03-16 01:15:07",
       "album": {
         "name": "Glory To The King",
         "url": "https://open.spotify.com/album/0mY2R7zCQYE4pzgymyWuJ2"
@@ -557,24 +557,24 @@
       "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
     },
     {
-      "added_at": "2022-10-06 21:00:00",
+      "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Second of All",
-        "url": "https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh"
+        "name": "Low",
+        "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
       },
       "artists": [
         {
-          "name": "Deejay Xp",
-          "url": "https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
         },
         {
-          "name": "Recho Ray",
-          "url": "https://open.spotify.com/artist/7pChsFrLjhslGKSfnYWIve"
+          "name": "Latinum",
+          "url": "https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA"
         }
       ],
-      "duration_ms": 146399,
-      "name": "Obinkola",
-      "url": "https://open.spotify.com/track/69UyO55KUY7xMsuEmj6nlY"
+      "duration_ms": 201822,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -671,18 +671,18 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
       },
       "artists": [
         {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+          "name": "Ceee",
+          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
         }
       ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
+      "duration_ms": 135965,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -701,40 +701,40 @@
       "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
+      "added_at": "2022-10-06 21:00:00",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
+        "name": "Second of All",
+        "url": "https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh"
       },
       "artists": [
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+          "name": "Deejay Xp",
+          "url": "https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj"
         },
         {
-          "name": "Latinum",
-          "url": "https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA"
+          "name": "Recho Ray",
+          "url": "https://open.spotify.com/artist/7pChsFrLjhslGKSfnYWIve"
         }
       ],
-      "duration_ms": 201822,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
+      "duration_ms": 146399,
+      "name": "Obinkola",
+      "url": "https://open.spotify.com/track/69UyO55KUY7xMsuEmj6nlY"
     },
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "4 U",
-        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
       },
       "artists": [
         {
-          "name": "Ceee",
-          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
         }
       ],
-      "duration_ms": 135965,
-      "name": "4 U",
-      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
     },
     {
       "added_at": "2022-11-17 20:59:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Kampala",
         "url": "https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG"
       },
@@ -825,36 +841,20 @@
       "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
     },
     {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Kwetega",
-        "url": "https://open.spotify.com/album/77agp9iFzPzhb7ssgWH2Kc"
-      },
-      "artists": [
-        {
-          "name": "Ruyonga",
-          "url": "https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Kwetega",
-      "url": "https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr"
-    },
-    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd"
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
       },
       "artists": [
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+          "name": "K!MERA",
+          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB"
+      "duration_ms": 259071,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
     },
     {
       "added_at": "2023-01-12 20:59:00",
@@ -873,36 +873,36 @@
       "url": "https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
+      "added_at": "2023-02-03 14:21:08",
       "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
+        "name": "MariaRoza (Amapiano Version)",
+        "url": "https://open.spotify.com/album/61YzhxcyHNmFmcpN7KQn3d"
       },
       "artists": [
         {
-          "name": "K!MERA",
-          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
         }
       ],
-      "duration_ms": 259071,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
+      "duration_ms": 241502,
+      "name": "MariaRoza (Amapiano Version)",
+      "url": "https://open.spotify.com/track/2TBklxiA4ZK8KWuJvhodQJ"
     },
     {
-      "added_at": "2022-11-10 20:59:00",
+      "added_at": "2022-11-17 20:59:00",
       "album": {
-        "name": "Mun G Singles",
-        "url": "https://open.spotify.com/album/6xpiZsqFrXT8O5bFIRCXSJ"
+        "name": "Kwetega",
+        "url": "https://open.spotify.com/album/77agp9iFzPzhb7ssgWH2Kc"
       },
       "artists": [
         {
-          "name": "Mun G",
-          "url": "https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU"
+          "name": "Ruyonga",
+          "url": "https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z"
         }
       ],
-      "duration_ms": 270054,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/2Ro8OuIwKZzAB3K1qxzfnC"
+      "duration_ms": 216960,
+      "name": "Kwetega",
+      "url": "https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr"
     }
   ],
   "unique_name": "Made In Uganda",

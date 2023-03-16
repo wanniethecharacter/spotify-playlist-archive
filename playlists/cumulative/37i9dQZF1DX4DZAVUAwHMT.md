@@ -2,9 +2,9 @@
 
 ### [The Rock List](https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT)
 
-> The UK's biggest rock playlist\. Cover: The Hunna
+> The UK's biggest rock playlist\. Cover: Nothing But Thieves
 
-140 songs - 7 hr 19 min
+141 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Vertigo](https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s) | 3:06 | 2023-03-08 | 2023-03-09 |
 | [Voodoo Science](https://open.spotify.com/track/06krSNKYuVOzGxzwqsWegk) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Voodoo Science](https://open.spotify.com/album/0C83LlAVD0nAhM1wn5aGFS) | 3:09 | 2023-01-27 |  |
 | [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-01-20 |  |
+| [Welcome to the DCC](https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Welcome to the DCC](https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE) | 3:18 | 2023-03-15 |  |
 | [Where Do I Sign?](https://open.spotify.com/track/2iS56f2r8QJT5v6dykQUbV) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Where Do I Sign?](https://open.spotify.com/album/0TPooGLGUC00XGmKlx0axn) | 3:11 | 2023-01-13 | 2023-03-03 |
 | [Wide Asleep](https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wide Asleep](https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64) | 4:12 | 2023-02-03 |  |
 | [Wildfire](https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Wildfire](https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT) | 2:46 | 2023-03-08 | 2023-03-09 |

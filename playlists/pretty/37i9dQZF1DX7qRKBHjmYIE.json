@@ -1,15 +1,31 @@
 {
-  "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: RENEE",
-  "num_followers": 748536,
+  "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Divino Ni\u00f1o",
+  "num_followers": 748503,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI1MTYwMCwwMDAwMDAwMDEwZDBmOGE4ZTE0ZmU1ZWExZTRlNTRlOGIyMWRhMDA5",
+  "snapshot_id": "MTY3ODg1NjQwMCwwMDAwMDAwMDBiZTVkZmM3ODE3ZWRkZmQ3NTY3YmRkNjk1OTg4OWY2",
   "tracks": [
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
+      "album": {
+        "name": "Last Spa on Earth",
+        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
+      },
+      "artists": [
+        {
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+        }
+      ],
+      "duration_ms": 185350,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
+    },
+    {
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Do You Like Me?",
         "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
         "url": "https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG"
@@ -65,23 +81,39 @@
       "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+        "name": "Mar",
+        "url": "https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "1982 (diecinueve ochenta y dos)",
+          "url": "https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4"
         }
       ],
-      "duration_ms": 150773,
-      "name": "Algo Bien",
-      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
+      "duration_ms": 204000,
+      "name": "Mar",
+      "url": "https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
+      "album": {
+        "name": "Uh",
+        "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 211562,
+      "name": "Uh",
+      "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
+    },
+    {
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "MOTEL CALIFORNIA",
         "url": "https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO"
@@ -101,71 +133,7 @@
       "url": "https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "SI ME ELEVO",
-        "url": "https://open.spotify.com/album/5x1uFs84xX2MnzCaB7Uvkr"
-      },
-      "artists": [
-        {
-          "name": "Vivi K",
-          "url": "https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg"
-        }
-      ],
-      "duration_ms": 142222,
-      "name": "te di mi luz",
-      "url": "https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/73QwJc0tXAC3aRymPfphH3"
-      },
-      "artists": [
-        {
-          "name": "Eddie Zuko",
-          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-        }
-      ],
-      "duration_ms": 145481,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/7gSsxz2pwDARRVCJW1o6tR"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Mar",
-        "url": "https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid"
-      },
-      "artists": [
-        {
-          "name": "1982 (diecinueve ochenta y dos)",
-          "url": "https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Mar",
-      "url": "https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 204426,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/6VfjKPhMwcPJYTBgB3k7xo"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Para Llevar",
         "url": "https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW"
@@ -185,23 +153,55 @@
       "url": "https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
-        "name": "RIO HOTEL",
-        "url": "https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9"
+        "name": "Still",
+        "url": "https://open.spotify.com/album/73QwJc0tXAC3aRymPfphH3"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
         }
       ],
-      "duration_ms": 201661,
-      "name": "El Momento Perfecto",
-      "url": "https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ"
+      "duration_ms": 145481,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/7gSsxz2pwDARRVCJW1o6tR"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 179191,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
+    },
+    {
+      "added_at": "2023-03-15 05:00:00",
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 204426,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/6VfjKPhMwcPJYTBgB3k7xo"
+    },
+    {
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Me Estoy Enamorando",
         "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
@@ -217,7 +217,23 @@
       "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
+      "album": {
+        "name": "RIO HOTEL",
+        "url": "https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 201661,
+      "name": "El Momento Perfecto",
+      "url": "https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ"
+    },
+    {
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Love You Like A Love Song",
         "url": "https://open.spotify.com/album/52oyEMc0XE02mCIGFJ1bys"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/3Ge27Zxv9DLpYenWdoUyVJ"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Bah\u00eda",
         "url": "https://open.spotify.com/album/7KzRg7ILqnaKK3XtxtgGp3"
@@ -257,23 +273,7 @@
       "url": "https://open.spotify.com/track/03qTulY2kLiHtDAPle9Kni"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 179191,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Contraluz",
         "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
@@ -289,7 +289,23 @@
       "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
+      "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "DAMN!",
         "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
@@ -309,23 +325,7 @@
       "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "What Had Happened Was\u2026",
-        "url": "https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 159218,
-      "name": "Can\u2019t Hold You Down",
-      "url": "https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Serotonina",
         "url": "https://open.spotify.com/album/6D6hmtCKwlBSD5gqxUUMiP"
@@ -341,7 +341,23 @@
       "url": "https://open.spotify.com/track/0z6PsOx006lQADQl3gB5YC"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
+      "album": {
+        "name": "What Had Happened Was\u2026",
+        "url": "https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 159218,
+      "name": "Can\u2019t Hold You Down",
+      "url": "https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf"
+    },
+    {
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Levitando Lento",
         "url": "https://open.spotify.com/album/35erxSQT8lds419FlnC6WP"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Love Dealer",
         "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/01QtjLgSh2PXid128hIWiB"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Sensei",
         "url": "https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Un D\u00eda",
         "url": "https://open.spotify.com/album/0PW9vbpQvymPkiXvz8RycK"
@@ -405,23 +421,7 @@
       "url": "https://open.spotify.com/track/2g2VPxPZTKVr7Vzbi9KSF9"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Entremundos",
         "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Let Me Down Slow",
         "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Dame Guerra",
         "url": "https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "DE REVERSA",
         "url": "https://open.spotify.com/album/37gbLafAooDbpx7AqX9O2B"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/0q6JxbQUTLb1MVE3ucpDFW"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Desde Cero",
         "url": "https://open.spotify.com/album/0mu3YWwHifRp0U6Dd7ghgO"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/74LJQw9zLK4lzoM8XbMF5W"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "\u00bfC\u00f3mo sonar\u00eda un disco?",
         "url": "https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Love Letters From Houston",
         "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
@@ -541,23 +541,27 @@
       "url": "https://open.spotify.com/track/4zWRy2rJL6sdy7k8XBq7lb"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
-        "name": "Last Spa on Earth",
-        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
+        "name": "en la ciudad",
+        "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
       },
       "artists": [
         {
-          "name": "Divino Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "d\u00f3ntia",
+          "url": "https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx"
         }
       ],
-      "duration_ms": 185350,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
+      "duration_ms": 211986,
+      "name": "en la ciudad",
+      "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Vinyl",
         "url": "https://open.spotify.com/album/27C3SWGsHSMVuZr6hPYAIv"
@@ -581,23 +585,7 @@
       "url": "https://open.spotify.com/track/0Ur2jPXAlhxF2mFEXn2HLi"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Uh",
-        "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 211562,
-      "name": "Uh",
-      "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Flexa",
         "url": "https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR"
@@ -613,7 +601,7 @@
       "url": "https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "L\u00ednea Recta",
         "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
@@ -629,7 +617,39 @@
       "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
+      "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 205576,
+      "name": "CONTRACORRIENTE",
+      "url": "https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE"
+    },
+    {
+      "added_at": "2023-03-15 05:00:00",
+      "album": {
+        "name": "SI ME ELEVO",
+        "url": "https://open.spotify.com/album/5x1uFs84xX2MnzCaB7Uvkr"
+      },
+      "artists": [
+        {
+          "name": "Vivi K",
+          "url": "https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg"
+        }
+      ],
+      "duration_ms": 142222,
+      "name": "te di mi luz",
+      "url": "https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF"
+    },
+    {
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "me perdono",
         "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
@@ -649,23 +669,23 @@
       "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+        "name": "Caribe Caribe",
+        "url": "https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK"
       },
       "artists": [
         {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "La Vida Boh\u00e8me",
+          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
         }
       ],
-      "duration_ms": 205576,
-      "name": "CONTRACORRIENTE",
-      "url": "https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE"
+      "duration_ms": 240437,
+      "name": "Aleros/Pompeii",
+      "url": "https://open.spotify.com/track/2KSyKlJ3SWPFflplhYhPTl"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Naona",
         "url": "https://open.spotify.com/album/2AnXB8xGLsYu3m0Wk1frHd"
@@ -681,7 +701,7 @@
       "url": "https://open.spotify.com/track/3JqDfnSgtwbw8jiTEr4Zvf"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg"
@@ -697,7 +717,7 @@
       "url": "https://open.spotify.com/track/4DjuqRQQIBLkOz9S6MN28t"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "No Puedo Olvidarte",
         "url": "https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y"
@@ -717,7 +737,23 @@
       "url": "https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
+      "album": {
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 93106,
+      "name": "superman",
+      "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
+    },
+    {
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "overflow",
         "url": "https://open.spotify.com/album/4Npxh394iWsnecaWncrvJU"
@@ -733,7 +769,7 @@
       "url": "https://open.spotify.com/track/54Emsvj9A1qPH6zXOafruV"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Clich\u00e9",
         "url": "https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E"
@@ -749,7 +785,7 @@
       "url": "https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "NORTE A SUR",
         "url": "https://open.spotify.com/album/0Cfa8A3NCWF9pgPKZHbgOO"
@@ -769,7 +805,7 @@
       "url": "https://open.spotify.com/track/2ghoM5KMSQUOGW0VAVaTvF"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "\u00bfPara d\u00f3nde vamos?",
         "url": "https://open.spotify.com/album/66Juh4grDFoKjsWAoRbJLL"
@@ -789,7 +825,23 @@
       "url": "https://open.spotify.com/track/51Eock8moiROVuwifuovBF"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
+      "album": {
+        "name": "Y Se Va Se Va",
+        "url": "https://open.spotify.com/album/31dwAkGkz6VQGfe7KXlMr6"
+      },
+      "artists": [
+        {
+          "name": "RIZA",
+          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "Y Se Va Se Va",
+      "url": "https://open.spotify.com/track/41REIlLGInOYQpwcv9AH6x"
+    },
+    {
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "Telepat\u00eda",
         "url": "https://open.spotify.com/album/69q7aG1EAc5SQrT7KAmEM1"
@@ -805,7 +857,7 @@
       "url": "https://open.spotify.com/track/4YEUKmi4Er6HLPaq39d40E"
     },
     {
-      "added_at": "2023-03-08 05:00:00",
+      "added_at": "2023-03-15 05:00:00",
       "album": {
         "name": "RETURN TO OFFICE",
         "url": "https://open.spotify.com/album/0CxeKUMjFYN38iZRDQbsSO"
@@ -827,58 +879,6 @@
       "duration_ms": 211385,
       "name": "MI AMOR",
       "url": "https://open.spotify.com/track/0pRRA68mFH6sIhLsenSit9"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Y Se Va Se Va",
-        "url": "https://open.spotify.com/album/31dwAkGkz6VQGfe7KXlMr6"
-      },
-      "artists": [
-        {
-          "name": "RIZA",
-          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "Y Se Va Se Va",
-      "url": "https://open.spotify.com/track/41REIlLGInOYQpwcv9AH6x"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Lost Tribes",
-        "url": "https://open.spotify.com/album/4x6FWqKuw1ruzP8IcdiuFm"
-      },
-      "artists": [
-        {
-          "name": "Cienfue",
-          "url": "https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT"
-        },
-        {
-          "name": "Shary Rose",
-          "url": "https://open.spotify.com/artist/0Fy1mYuGtX0RBAraYKsJId"
-        }
-      ],
-      "duration_ms": 354000,
-      "name": "La Selva Se Lo Llevo",
-      "url": "https://open.spotify.com/track/7HbliIqpMum8pNhGTB9hz0"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Hasta La Dorada",
-        "url": "https://open.spotify.com/album/0A0Ez9RZ22c9NWW9pVm5d1"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 183909,
-      "name": "bend&break",
-      "url": "https://open.spotify.com/track/5K3ULL04iSyZo0on8cBkHt"
     }
   ],
   "unique_name": "Mixto",

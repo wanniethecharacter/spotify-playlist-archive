@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qS3zyciZpU.md) - [plain]
 
 > The perfect songs for the perfect day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,873 likes - 119 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,916 likes - 119 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qS3zyciZpU.md) - [plain]
 | 73 | [I Do](https://open.spotify.com/track/59GPuKaImwVCqcYRm1xrkY) | [Paul Brandt](https://open.spotify.com/artist/11Rb0Ax3Q2dZJ7jNlOvxxP) | [Calm Before the Storm](https://open.spotify.com/album/4FdWVE3DHKyWCdeNgEpEWR) | 3:40 |
 | 74 | [Mama's Song](https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:00 |
 | 75 | [Bless The Broken Road](https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Feels Like Today](https://open.spotify.com/album/5NH87jdrVjOHt8gDMHT1Wy) | 3:46 |
-| 76 | [Promise to Love Her](https://open.spotify.com/track/3lUg5sjsXAJD6BAULCFTA5) | [Blane Howard](https://open.spotify.com/artist/6ihCRApNJtA2jTLA15UYID) | [Promise to Love Her](https://open.spotify.com/album/4SNBvmNmQOhfMeBGywO8k2) | 3:17 |
+| 76 | [Promise to Love Her](https://open.spotify.com/track/6EkLAii6YU3H0LqAWkhsOp) | [Blane Howard](https://open.spotify.com/artist/6ihCRApNJtA2jTLA15UYID) | [Looking for Nothing to Do](https://open.spotify.com/album/1HeCmXWPEZk9OePz7lyHQR) | 3:17 |
 | 77 | [We Danced](https://open.spotify.com/track/4HHtqzri9jrmAGFyucxkLG) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 3:45 |
 | 78 | [Worship You](https://open.spotify.com/track/0nUGOvjXk6Vc9ecQanZXUQ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Worship You](https://open.spotify.com/album/2PMjEMiY2OBlbaLgGFSfLt) | 3:25 |
 | 79 | [This Is It](https://open.spotify.com/track/74CEfiZthUGX5yUNNUM4bj) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj) | 3:50 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qS3zyciZpU.md) - [plain]
 | 118 | [The Keeper Of The Stars](https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 4:07 |
 | 119 | [The Way You Love Me](https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 3:06 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGM2MjU0ODJhMmI5ZTg5MGIzZGI0Nzg2MGJlZjU1ZmMz`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDE3ZGM1ZDVmNDBjYzczZjc0NTYzY2FlZDM0N2RmZmUx`

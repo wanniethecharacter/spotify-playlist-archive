@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/rjbarrett/">RJ Barrett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,022 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 | 43 | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/track/23pGZ6n6Xd3yV7qK4xw7dx) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/album/0tk8XMpaIuk587IlC8aIfP) | 2:58 |
 | 44 | [Foreva \(feat\. T.I.\)](https://open.spotify.com/track/23nOXuK95DPOiO62Ixgzza) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Rich Crack Baby](https://open.spotify.com/album/0c5QIo4MTyneCPZtXjr7BX) | 3:47 |
 | 45 | [Don't Like.1](https://open.spotify.com/track/2rJvc7nSYWBKAuNUMx1Cr2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Kanye West Presents Good Music Cruel Summer](https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn) | 4:43 |
-| 46 | [how you did that \(feat\. Kodak Black\)](https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:40 |
-| 47 | [5500 Degrees \(feat\. Lil Baby, 42 Dugg & Rylo Rodriguez\)](https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:04 |
+| 46 | [5500 Degrees \(feat\. Lil Baby, 42 Dugg & Rylo Rodriguez\)](https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:04 |
+| 47 | [how you did that \(feat\. Kodak Black\)](https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:40 |
 | 48 | [California Love \- Original Version](https://open.spotify.com/track/1JClFT74TYSXlzpagbmj0S) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/3PO9OtQdvCDJN8zDLtZiYd) | 4:45 |
 | 49 | [MASSAGING ME](https://open.spotify.com/track/2tzgSUZOUKopYbRqQOVT8X) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 1:46 |
 | 50 | [Believe Me](https://open.spotify.com/track/6t2eIONH4Sax3R21QWiKNp) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Believe Me](https://open.spotify.com/album/7pnplSgRtopeTNyCxBJf4n) | 5:37 |
 
-Snapshot ID: `MTY2NzI3NTIwMCwwMDAwMDAwMDQwNDgwMjU1ZjViNTczMjg2MDRiZDA3ZjU2ZWZlNjBl`
+Snapshot ID: `MTY2NzI3NTIwMCwwMDAwMDAwMDAwZGJjZmNjYzk5OTllYmZhZjFmMmIwYmM5NWYzMTlh`

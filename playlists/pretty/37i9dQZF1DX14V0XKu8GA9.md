@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S\. Cover: Speak
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,180 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,193 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 7 | [The Dream](https://open.spotify.com/track/4TYe8NRgpLFQBJrJLeSAqn) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [The Dream](https://open.spotify.com/album/3IICOMvM3iSFf0Q3Jmc1Pt) | 3:22 |
 | 8 | [Shadow Banned](https://open.spotify.com/track/2qkObeNbfhoiPjAI5iFCyj) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28) | [Shadow Banned](https://open.spotify.com/album/7rqLkVkk8JvoZMhmy9sKWD) | 2:54 |
 | 9 | [Born In A System](https://open.spotify.com/track/3LHef8DQ2a7jMphnvSpmMz) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Born In A System](https://open.spotify.com/album/3L0SDWEUsPe0qeUrZWpcvG) | 3:06 |
-| 10 | [Gangsta](https://open.spotify.com/track/4ytxpbnZGX43rcMW1esxnx) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Gangsta](https://open.spotify.com/album/2P89EHG7ewK38lrxqEUh27) | 3:01 |
-| 11 | [Pit Lock](https://open.spotify.com/track/2AyHR8cpwN5AE8b6LXxEX4) | [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD), [Listo](https://open.spotify.com/artist/5sSLpAr0xoLVlbIRbJEj8j) | [Pit Lock](https://open.spotify.com/album/7a2jknztQ0lP5ixtbEIxZX) | 2:40 |
+| 10 | [Pit Lock](https://open.spotify.com/track/2AyHR8cpwN5AE8b6LXxEX4) | [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD), [Listo](https://open.spotify.com/artist/5sSLpAr0xoLVlbIRbJEj8j) | [Pit Lock](https://open.spotify.com/album/7a2jknztQ0lP5ixtbEIxZX) | 2:40 |
+| 11 | [Gangsta](https://open.spotify.com/track/4ytxpbnZGX43rcMW1esxnx) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Gangsta](https://open.spotify.com/album/2P89EHG7ewK38lrxqEUh27) | 3:01 |
 | 12 | [Blue Rag](https://open.spotify.com/track/50nmYPB44NTrpizigC3lJG) | [Bozo](https://open.spotify.com/artist/0MmTKGQIOhXazVmd3IdOKp), [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [Blue Rag](https://open.spotify.com/album/3yy9CwnrNiZrCrzIoZ1p4C) | 1:57 |
 | 13 | [From The Bottom](https://open.spotify.com/track/1BHuiXsUBW3nED6gKIXIWY) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Rittz](https://open.spotify.com/artist/5sRhscbWRXFbjXtSZyfaWY) | [From The Bottom](https://open.spotify.com/album/4ozmhN28ssF2xD3S0tkg68) | 3:30 |
 | 14 | [The One](https://open.spotify.com/track/01Pfi7i0Kve9nTWQGyGYrd) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [The One](https://open.spotify.com/album/75hXgReGq2RApC1h02kutn) | 3:47 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 39 | [Intoxicated](https://open.spotify.com/track/3iXqT4RJIxiTDwBgGYk2fu) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [Intoxicated](https://open.spotify.com/album/3VRe7Q3WbWVvxohufXx1ea) | 3:12 |
 | 40 | [Scared Of My Love](https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Scared Of My Love](https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG) | 2:25 |
 
-Snapshot ID: `MTY3ODQ4NTc3MywwMDAwMDAwMGRhOGVlOGJlZTQ2NzY0ZTU4NjZiM2VjZjBjOTI2MGQy`
+Snapshot ID: `MTY3ODQ4NTc3MywwMDAwMDAwMGU5NDhiYTFlYjkxNTQ2ZDg1NDgxNzg1OTkyN2M5YTY2`

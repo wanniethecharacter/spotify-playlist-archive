@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-296 songs - 16 hr 52 min
+297 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [In My Mind](https://open.spotify.com/track/0XQoOGwbUn930qZGji0885) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Nausea](https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj) | 3:06 | 2021-10-16 |  |
 | [Inner Balance](https://open.spotify.com/track/7eutjZvgO3DOz0HXbRvW6o) | [Sup Nasa](https://open.spotify.com/artist/4FlqZhoTqYt8tpct6QwgZR) | [Kula](https://open.spotify.com/album/5uHujIKsaQA1HFqt2cGCLM) | 2:06 | 2021-10-16 | 2022-07-29 |
 | [Islas Canarias](https://open.spotify.com/track/68s6d9iCLRhviPqL6NWA5U) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 3:10 | 2021-10-16 | 2022-07-29 |
-| [jazmin](https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines Vol\. 1](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:33 | 2023-03-04 |  |
+| [jazmin](https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines Vol\. 1](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:33 | 2023-03-03 |  |
 | [Jiyu](https://open.spotify.com/track/07Sx03dUY4jRXXtrM7zSs3) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Jiyu](https://open.spotify.com/album/6BU9l5h76Oei7yb2lmZIDf) | 2:18 | 2021-10-16 | 2022-11-13 |
 | [June 15th](https://open.spotify.com/track/0KIRuP1CDEdn53hs0f0ich) | [Lars Bartkuhn](https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW), [The First Minute of a New Day](https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq), [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The First Minute of a New Day](https://open.spotify.com/album/0tC2JC67HViIMswO9iChcT) | 7:57 | 2021-10-16 | 2022-07-29 |
 | [June 21](https://open.spotify.com/track/2UTuWSjmIMSQDnvmV2et4U) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [June 21](https://open.spotify.com/album/4Hh8CxbhWH3nry86W2PHvX) | 2:09 | 2021-10-16 | 2022-07-29 |
@@ -153,7 +153,7 @@
 | [Light](https://open.spotify.com/track/4oFJKYQ32w0jIMXwYBWg4i) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/2cIwdGl2fnwNFqnpQlKdem) | 1:50 | 2021-10-16 |  |
 | [Lilac](https://open.spotify.com/track/0Ymu1QBwxsXpwsLdxWBRtA) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/4lqw1wICfF7tNfVjj3TPgX) | 2:40 | 2021-10-16 | 2022-07-29 |
 | [Lilac](https://open.spotify.com/track/1o6NbOV0dqkjeaXFiTMJOO) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/7s9B2fGXMeIgYEnoHxrzWN) | 2:40 | 2021-10-16 |  |
-| [Lithe](https://open.spotify.com/track/5tFLJyoBQkbIFz3YZ2SfF5) | [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Blizz](https://open.spotify.com/album/6rzMe09QPlvWFvW1hhrxS9) | 5:28 | 2022-11-25 |  |
+| [Lithe](https://open.spotify.com/track/5tFLJyoBQkbIFz3YZ2SfF5) | [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Blizz](https://open.spotify.com/album/6rzMe09QPlvWFvW1hhrxS9) | 5:28 | 2022-11-25 | 2023-03-16 |
 | [logical](https://open.spotify.com/track/3E87Le6IN9RYKhgRfJp3BN) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 3:02 | 2021-10-16 | 2022-11-12 |
 | [Lonely](https://open.spotify.com/track/3xzPOzDfNDJcub1s1MXKcJ) | [Hyperparadise](https://open.spotify.com/artist/4uajeI5EPh9v3im2UwQH5s) | [Midnight Thoughts](https://open.spotify.com/album/3bAbS8r4SzB4sRRsiDqyfc) | 3:12 | 2021-10-16 | 2022-07-27 |
 | [Lonely](https://open.spotify.com/track/77Gt9f138HG8AEN8IoTrnu) | [Hyperparadise](https://open.spotify.com/artist/4uajeI5EPh9v3im2UwQH5s) | [Midnight Thoughts](https://open.spotify.com/album/7BJriCkxc7S82hL3T0qtxf) | 3:12 | 2021-10-16 | 2022-10-22 |
@@ -232,6 +232,7 @@
 | [Sisu](https://open.spotify.com/track/3uQ33vLHvYhUC5EJvd4RuK) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisu](https://open.spotify.com/album/5fDif78W0imKj7ZVnsEjGP) | 2:33 | 2021-10-16 |  |
 | [Sleep](https://open.spotify.com/track/4X7aNOM1O3qsLm35BrpibF) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Awax](https://open.spotify.com/artist/4Q5SXRQO2axG79GMKXf4VT) | [Impossible Love](https://open.spotify.com/album/51Sme0u8yAIGmMRAdPm6eV) | 2:56 | 2021-10-16 | 2022-07-29 |
 | [Sleepy Story.](https://open.spotify.com/track/5FL7eUhAFgmV6FzrNYbdUO) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 1:55 | 2021-10-16 |  |
+| [Slowly Forgetting, Barely Remembering](https://open.spotify.com/track/5WZSFvCa9sw3lDufP9w8nb) | [Martyna Basta](https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw) | [Slowly Forgetting, Barely Remembering](https://open.spotify.com/album/0w2mMp1rooOhYEVGKP6wWc) | 2:48 | 2023-03-15 |  |
 | [Soft Gaiden](https://open.spotify.com/track/5TSBcSt79jSYwuZmBJDp4X) | [Brin](https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp) | [Soft Gaiden / Featherdrift](https://open.spotify.com/album/4LkiJAIvbejVb6r2r8zdR4) | 5:26 | 2021-10-16 | 2022-07-29 |
 | [Soft Meadow](https://open.spotify.com/track/3cW5fe127MVGuCxuN7skCy) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Soft Meadow](https://open.spotify.com/album/62jEwpFrhSQ1L6bIwVZ7qn) | 5:28 | 2021-10-16 | 2022-07-27 |
 | [Soft Meadow](https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 5:28 | 2021-10-16 |  |

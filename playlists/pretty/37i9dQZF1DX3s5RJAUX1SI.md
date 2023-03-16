@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > despacito que no llevamos prisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,542 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,570 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 75 | [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 |
 | 76 | [Te Metiste](https://open.spotify.com/track/1F9PPhjuq7UmxQxxMbUrIz) | [Octubre Doce](https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v) | [Somos Octubre Doce](https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk) | 3:44 |
 | 77 | [Háblame de Ti](https://open.spotify.com/track/0IyiKR4HMc4NMq2TgAXgQl) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Háblame de Ti](https://open.spotify.com/album/1w77qD5A199FETNc5k7UBZ) | 4:18 |
-| 78 | [Simplemente Gracias](https://open.spotify.com/track/24ZUoUcNqEZ9enmLEFLxzd) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Covers A Mi Estilo](https://open.spotify.com/album/0fJ40JHtpQP8mZE2qFwYZh) | 3:04 |
-| 79 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 |
+| 78 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 |
+| 79 | [Simplemente Gracias](https://open.spotify.com/track/24ZUoUcNqEZ9enmLEFLxzd) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Covers A Mi Estilo](https://open.spotify.com/album/0fJ40JHtpQP8mZE2qFwYZh) | 3:04 |
 | 80 | [Veinte Años](https://open.spotify.com/track/70XqvfxgfXusqHIUGmo65X) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI), [Musas Ensamble de Arpas](https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg) | [Veinte Años](https://open.spotify.com/album/7y10h42cMtYY8FWliI9tfC) | 2:36 |
 | 81 | [Será](https://open.spotify.com/track/7kz0MP7yFGbDOalOVvcJrd) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Ida y Vuelta \(Edición Especial\)](https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR) | 3:32 |
 | 82 | [Se Va Muriendo Mi Alma](https://open.spotify.com/track/2lXeKjwaIYARsOmUXoVZIi) | [Octubre Doce](https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v) | [Somos Octubre Doce](https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk) | 4:07 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 90 | [Desvelado](https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl) | [Mau Soles](https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77) | [Canciones](https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X) | 3:36 |
 | 91 | [No Te Olvido](https://open.spotify.com/track/15YxLf1k3l1YPka7At7o6b) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Vida \(Deluxe\)](https://open.spotify.com/album/2mCF7tagY5QWepheBHM236) | 3:04 |
 | 92 | [Y Todo Para Que](https://open.spotify.com/track/0SsPLfptdC9CN8XRZzDWTu) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Mis Inicios](https://open.spotify.com/album/7xedJuQ4X8Z5vEwKTwrhqy) | 3:13 |
-| 93 | [Ya Acabo](https://open.spotify.com/track/07NnD0MqN5lesPhy3faZkj) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Ya Acabo](https://open.spotify.com/album/7abRhsrO4FslXCpVvayDPi) | 2:54 |
-| 94 | [Sabor a mi](https://open.spotify.com/track/0t3DKC2ohJL7XVqRVoxk0A) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:19 |
+| 93 | [Sabor a mi](https://open.spotify.com/track/0t3DKC2ohJL7XVqRVoxk0A) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:19 |
+| 94 | [Ya Acabo](https://open.spotify.com/track/07NnD0MqN5lesPhy3faZkj) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Ya Acabo](https://open.spotify.com/album/7abRhsrO4FslXCpVvayDPi) | 2:54 |
 | 95 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Si Te Pudiera Mentir](https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW) | 4:49 |
 | 96 | [Yo Ya No Vuelvo Contigo](https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Yo Ya No Vuelvo Contigo](https://open.spotify.com/album/5n6chJVmqXhiF4klgDsYA7) | 3:52 |
 | 97 | [Contigo \- Spotify Sessions](https://open.spotify.com/track/3YucBaaVFM1Rksxn3EEv7B) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Spotify Sessions](https://open.spotify.com/album/4cDORfef1KJLnnlLvRQf11) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 99 | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/track/2DVNDaRh1wAwGTu9dvIFLg) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/album/5DC7bCueW9l1w3Dqddz9q5) | 3:27 |
 | 100 | [Me Vas A Extrañar](https://open.spotify.com/track/5b8rgwkYjdMcJixyCwZYoc) | [Los Vestidos Negros](https://open.spotify.com/artist/08BttjwajJ2WmjsYUhRQr3) | [Me Vas A Extrañar](https://open.spotify.com/album/3cS4nEdOhg1OKLucxA7Uh4) | 2:36 |
 
-Snapshot ID: `MTY1OTU2MzcyMSwwMDAwMDAwMGZkMjJkNmJhZWMyZGNhOWZkMjliOTg0YmZjYzk0NDk0`
+Snapshot ID: `MTY1OTU2MzcyMSwwMDAwMDAwMGY2OTg5MzgxYzQ4MzdlMmU5NmEzM2FiYjk0Yjk5NWZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,067 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,073 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 22 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
 | 23 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
 | 24 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
-| 25 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 |
-| 26 | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas) | 3:37 |
+| 25 | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas) | 3:37 |
+| 26 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 |
 | 27 | [Chocolate Drive 초콜릿](https://open.spotify.com/track/0z4PaEdeIpX4yJPNBdN34x) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:10 |
 | 28 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 |
 | 29 | [Hi spring Bye](https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:24 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 52 | [Stay](https://open.spotify.com/track/6FsaC7mLYpqmLOEu9nEI1M) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Love Has a Limit](https://open.spotify.com/album/5J5EecYNgw7EPECkCdTuRQ) | 2:41 |
 | 53 | [Spring Is Gone by chance \(2021\)](https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Spring Is Gone by chance \(2021\)](https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba) | 3:30 |
 | 54 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
-| 55 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 |
-| 56 | [Cloud](https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah) | [박지원](https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E) | [Racket Boys \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX) | 3:23 |
+| 55 | [Cloud](https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah) | [박지원](https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E) | [Racket Boys \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX) | 3:23 |
+| 56 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 |
 | 57 | [Look & Spring \(Feat\. Ko Young Bae of Soran\)](https://open.spotify.com/track/6slTRsKXks38DEsCxRgrVp) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Ko Youngbae](https://open.spotify.com/artist/135TOw1jqM2Bolkngy62nS) | [D\_iary page.2](https://open.spotify.com/album/28ir5sUSxl9dkPD1jjeBKv) | 4:06 |
 | 58 | [Tell Me](https://open.spotify.com/track/59sio2uP1zKQu0SSmXtmqt) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX) | [Tell Me](https://open.spotify.com/album/55nlKfRPcPhRYY6tujIRjg) | 2:33 |
 | 59 | [Spring Is Come By Chance](https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Spring Is Come By Chance \(Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun\)](https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 74 | [Weird Boy](https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm) | [murmoom](https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3) | [Weird Boy](https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s) | 3:37 |
 | 75 | [Only I Want To Know](https://open.spotify.com/track/15ecAutv7JSuRkL9I9DrUB) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [CAKE](https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8) | 3:31 |
 
-Snapshot ID: `MTY3NDcwOTIyMCwwMDAwMDAwMGJmZGVjOTExOWQyZGFmNTcxY2I1NjA0Y2I3ZDUyYWM2`
+Snapshot ID: `MTY3NDcwOTIyMCwwMDAwMDAwMDU3ODBjYTFiNTU3Yzk4NTk5OTRhNDY4ZmE1YWU4MDU0`

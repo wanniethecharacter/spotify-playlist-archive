@@ -1,12 +1,12 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 69233,
+  "num_followers": 69313,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc1MjAyNiwwMDAwMDAwMGIzYmFiN2FmOTBlNTA2MzRiYTU1OTM1ZWU5NGM5NTYy",
+  "snapshot_id": "MTY0Njc1MjAyNiwwMDAwMDAwMGIwNGFlMzZhZGZhMzZiOGY2OWZlOTk5ZTJiODA2Y2Ez",
   "tracks": [
     {
       "added_at": "2022-03-08 15:07:06",
@@ -431,26 +431,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me",
-      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "diary 001",
         "url": "https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 177697,
       "name": "Just A Stranger (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Damaged Vol. 2",
-        "url": "https://open.spotify.com/album/1gZ3Wi966cliRIktXiaWij"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "You & Jennifer",
-      "url": "https://open.spotify.com/track/0g21KZ1XJuhwexWPLpuEt1"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Beautiful People Will Ruin Your Life",
         "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 207679,
       "name": "Turn",
       "url": "https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Damaged Vol. 2",
+        "url": "https://open.spotify.com/album/1gZ3Wi966cliRIktXiaWij"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "You & Jennifer",
+      "url": "https://open.spotify.com/track/0g21KZ1XJuhwexWPLpuEt1"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "In the Sky",
-        "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 217284,
-      "name": "Groceries",
-      "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "High As Hope",
         "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 226160,
       "name": "Sky Full Of Song",
       "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "In the Sky",
+        "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 217284,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
+        "name": "Love Is Dead",
+        "url": "https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG"
       },
       "artists": [
         {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Cheetah Tongue",
-      "url": "https://open.spotify.com/track/0Pa1cE18FyJqPNQZSeCl0c"
+      "duration_ms": 188251,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/2Kc1WhZsBbR2ZLbSyv83hO"
     }
   ],
   "unique_name": "Best of Indie 2018",

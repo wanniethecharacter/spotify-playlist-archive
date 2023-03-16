@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-865 songs - 1 day 13 hr 46 min
+866 songs - 1 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Fine](https://open.spotify.com/track/2jv5hratv7APL7BbvAKpI7) | [Kristian Kamp](https://open.spotify.com/artist/2RojpFYmQCs2e8SNQAXah2) | [Fine](https://open.spotify.com/album/4FrtT3wUV6uJuUNVl9ep2V) | 2:51 | 2021-10-28 | 2022-07-20 |
 | [Fireflies](https://open.spotify.com/track/0xD0B7HW1VXcNuOPZ2QPTI) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Denis Turbide](https://open.spotify.com/artist/3Ivps5evkCqTJp50aqXTlu) | [Fireflies](https://open.spotify.com/album/2gRDXli0cRQmopNo4nwQ62) | 2:05 | 2021-11-24 | 2022-03-02 |
 | [Firmamentum Mysteria](https://open.spotify.com/track/42X3YAIxpCHm6YbNbvdMxO) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Firmamentum Mysteria](https://open.spotify.com/album/0wlyujvSVRp3g03vVoWPRt) | 2:42 | 2021-05-06 | 2022-07-20 |
+| [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 | 2023-03-16 |  |
 | [Flashing lights](https://open.spotify.com/track/3jbaWxRwhXCZmvpPWHIKe3) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Flashing lights](https://open.spotify.com/album/6fFieao3USpz413NdKe9Or) | 3:27 | 2021-09-02 |  |
 | [Fleurs Séchées](https://open.spotify.com/track/70oTgyGPmB9ZtU2lrjbZfj) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Fleurs Séchées](https://open.spotify.com/album/7LeBN7j9XjqfRoxtUKIvV2) | 2:06 | 2022-01-04 |  |
 | [Float Away](https://open.spotify.com/track/5uNxH6IeDRZnn9KiRtIflT) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Distant Lovers](https://open.spotify.com/album/3GhSTFSSS851A5sykAVh0T) | 2:43 | 2020-09-16 | 2022-06-08 |
@@ -485,7 +486,7 @@
 | [Muse \(Single\)](https://open.spotify.com/track/0KFDSdhoFkTA9dpavEGpp6) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Muse \(Single\)](https://open.spotify.com/album/6GUw5VAhzMvOlGcqSmcl9b) | 2:06 | 2021-05-21 | 2022-04-22 |
 | [Must](https://open.spotify.com/track/5Z9LClwDtSCjaRoeaG7QmQ) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Autumn Sessions Watching The Apple Tree](https://open.spotify.com/album/7Hxdu0dRtRXxf6lxFHHu1A) | 2:46 | 2020-09-30 | 2021-12-06 |
 | [My fellow creatures](https://open.spotify.com/track/1YcABWwgkfrOSw8VMgDWZU) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations B\-Sides \(on Yamaha Upright, 1981\)](https://open.spotify.com/album/2G4IIha9htug2thniT54uy) | 3:25 | 2021-03-15 | 2021-04-09 |
-| [My Mind Made Up](https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [My Mind Made Up](https://open.spotify.com/album/5gj3aLJleU4wkfTN2bttEO) | 3:35 | 2021-07-04 |  |
+| [My Mind Made Up](https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [My Mind Made Up](https://open.spotify.com/album/5gj3aLJleU4wkfTN2bttEO) | 3:35 | 2021-07-04 | 2023-03-16 |
 | [Mère bien\-aimée](https://open.spotify.com/track/4iUW2jCsr1jofP9GQGuXPh) | [Céline Aubin](https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT) | [Mère bien\-aimée](https://open.spotify.com/album/6l6nZMFvZ8SYslMUPvuOdr) | 2:16 | 2020-08-14\* | 2020-09-02 |
 | [Mélange](https://open.spotify.com/track/2knwTrCOAR61eCReFMJ03z) | [Helena Roche](https://open.spotify.com/artist/5EJ97hGYe8LfBXYvX2Rfvt) | [Mélange](https://open.spotify.com/album/1p11b4Y3nK9bHNpLfiuC0x) | 1:55 | 2021-12-07 | 2022-09-15 |
 | [Naoko](https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU) | [Emilija Grey](https://open.spotify.com/artist/3tv3uBF05Jt45Q3ZbXeCSI) | [Naoko](https://open.spotify.com/album/50eCW2CjWfy37vvKaWOoUE) | 2:27 | 2021-09-16 |  |
@@ -635,7 +636,7 @@
 | [Sea Of Revival](https://open.spotify.com/track/2uiKpgfOX9OHiE6UuYAkU8) | [Martha Sines](https://open.spotify.com/artist/6nAvfA2VeuvrAm6HWNR1ID) | [Sea Of Revival](https://open.spotify.com/album/1thtdvev81NypFN6ZSrbgw) | 2:30 | 2020-09-02 | 2022-06-08 |
 | [Searching](https://open.spotify.com/track/0GZkEa0jm8l2lVvPpkE0fO) | [Matthew Avery](https://open.spotify.com/artist/3dAAhnH2R2Dd2bgZiqSlkR) | [Searching](https://open.spotify.com/album/4ZlIyEvfcba4GQCGb3G1uJ) | 2:02 | 2021-04-23 | 2021-05-06 |
 | [Seasons](https://open.spotify.com/track/1jMM8TGkXgRS2mrBviT1CB) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Seasons](https://open.spotify.com/album/2ev06zAeaGpVlOkOTD1JUb) | 3:28 | 2020-08-14\* | 2021-01-28 |
-| [Seconda parte](https://open.spotify.com/track/7mHt21QVehLVUZxDAJC9qJ) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [Seconda parte](https://open.spotify.com/album/0N2JoDGgvu9YfhwHbj9n3x) | 3:21 | 2020-11-12 | 2023-02-27 |
+| [Seconda parte](https://open.spotify.com/track/7mHt21QVehLVUZxDAJC9qJ) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [Seconda parte](https://open.spotify.com/album/0N2JoDGgvu9YfhwHbj9n3x) | 3:21 | 2020-11-12 |  |
 | [Seeds Of Life](https://open.spotify.com/track/5SGDHySVUTpk4fdjRvYGqB) | [Aestivum](https://open.spotify.com/artist/3QHuI31fQbzUBIVq3uxYF8) | [Seeds Of Life](https://open.spotify.com/album/0bT0nOgO2hMsa4smAlxdIu) | 2:07 | 2021-07-01 |  |
 | [Sehnsucht](https://open.spotify.com/track/3EhtUTpX6miXbO7dzrQDgg) | [Claude Pascalli](https://open.spotify.com/artist/2sqhWN2ZRzjFdYJ6f60yZq) | [tea on a rainy day](https://open.spotify.com/album/5RWO4WBPYvUpFp4mAafWPs) | 2:17 | 2020-12-10 | 2022-06-08 |
 | [Sehnsucht](https://open.spotify.com/track/0RHryrCt4Ocibra3gYkF7v) | [Emma Hoffman](https://open.spotify.com/artist/0Ebn8VPkWUu1WsBPP1WwLl) | [Sehnsucht](https://open.spotify.com/album/5L6OxmJ5Ji42HSZSqoKUhl) | 2:11 | 2020-08-14\* | 2020-09-30 |
@@ -759,7 +760,7 @@
 | [Through The Wind](https://open.spotify.com/track/4SYqypJlOI3mhf6zinkaUL) | [Michael Ottosson](https://open.spotify.com/artist/3dz4vgXeam9Ba1Bo7gud9b) | [Three Waltzes](https://open.spotify.com/album/28DqpGRLUjFtNPTaSs2rgr) | 2:51 | 2020-08-14\* | 2022-09-24 |
 | [Ticino](https://open.spotify.com/track/1GWs7zZprhLpLjwt7l6hfF) | [Daniel Hueber](https://open.spotify.com/artist/353QccwX4aD1y6B2r4tgaU) | [Ticino](https://open.spotify.com/album/5IPgCj1LZiJwcheVMAV7bc) | 1:44 | 2020-08-14\* | 2020-09-02 |
 | [Timeless](https://open.spotify.com/track/2aJlNzyFDh3j6GTBSDXdXZ) | [Matthew Mor](https://open.spotify.com/artist/3epJlQ4qcN08caWbdboMHw) | [Timeless](https://open.spotify.com/album/63wa93xZxlOOJe9TDvGsdU) | 2:06 | 2020-08-14\* | 2022-12-24 |
-| [Tiny Ballerina](https://open.spotify.com/track/6VRfUvTQZGK8C3lkHwXJzl) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Small and Alone](https://open.spotify.com/album/4vLhgEWo4HzZmAMnIwLaBk) | 2:25 | 2020-08-14\* |  |
+| [Tiny Ballerina](https://open.spotify.com/track/6VRfUvTQZGK8C3lkHwXJzl) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Small and Alone](https://open.spotify.com/album/4vLhgEWo4HzZmAMnIwLaBk) | 2:25 | 2020-08-14\* | 2023-03-16 |
 | [To Be Loved](https://open.spotify.com/track/4KiuT6lph1fSy19AFjHwYE) | [Day Blue](https://open.spotify.com/artist/1QIarBiWF3tRs6a1CXzN5w) | [To Be Loved](https://open.spotify.com/album/1Vx8qROy2bgDAjknfZfJSS) | 2:32 | 2022-02-01 | 2022-05-06 |
 | [Together](https://open.spotify.com/track/06J4o3WRoqbraUkXBiqldo) | [Alexander Panagopoulos](https://open.spotify.com/artist/2ezAtjuRtLi4loC6Rmyv5p) | [Together](https://open.spotify.com/album/6Aw71MnrHJntgP5Ae2QwRU) | 2:03 | 2020-08-14\* | 2021-04-09 |
 | [Together We Succeed](https://open.spotify.com/track/3U7aMdZAjOkcmZ4nUKQqZJ) | [Sylvia Beckett](https://open.spotify.com/artist/2z8eGKTdeXaLuflpOwAI1Y) | [The Teacher](https://open.spotify.com/album/6A9Tdi6gUteJtLrufkNF19) | 3:05 | 2020-08-14\* | 2020-08-20 |

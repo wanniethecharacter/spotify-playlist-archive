@@ -1806,6 +1806,10 @@
         {
           "name": "Brian Arimura",
           "url": "https://open.spotify.com/artist/3564y3B882wmolbLQVDVzZ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
         }
       ],
       "date_added": "2023-03-15",
@@ -2946,7 +2950,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 170256,
       "name": "N\u00e3o Faz Marra",
       "url": "https://open.spotify.com/track/349VMk1uZmX0wL1CoA3izr"
@@ -3210,6 +3214,24 @@
       "duration_ms": 325750,
       "name": "On\u00e7a Sessions #2 - Sobe Adrenalina",
       "url": "https://open.spotify.com/track/4ohl1Edvlp5BNF03lAwGO7"
+    },
+    {
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/7AENuMg8D1Xgkga8bRkrjt"
+      },
+      "artists": [
+        {
+          "name": "Ley",
+          "url": "https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219314,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/6yNQaFKrTVb1vYHjFTyoRt"
     },
     {
       "album": {

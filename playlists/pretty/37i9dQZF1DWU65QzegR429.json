@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Myke Towers by Ian Woods",
-  "num_followers": 7098,
+  "num_followers": 7105,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUyMTQwOSwwMDAwMDAwMGJiZDE2YzBmMTEyNGY2NzhjNjM4ZDU3NDg1ZTQ0YTkw",
+  "snapshot_id": "MTY3NzUyMTQwOSwwMDAwMDAwMDFhMzc2YjcxZDA3NDM1ZjMyNjAxMmFhYTkxZDFlMjM4",
   "tracks": [
     {
       "added_at": "2023-02-10 11:14:41",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs"
     },
     {
-      "added_at": "2023-03-15 01:03:20",
+      "added_at": "2023-03-16 01:07:24",
       "album": {
         "name": "Icy Hot",
         "url": "https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66"
     },
     {
-      "added_at": "2023-03-15 01:03:20",
+      "added_at": "2023-03-16 01:07:24",
       "album": {
         "name": "T'as peur",
         "url": "https://open.spotify.com/album/5iq2ffpT0zwW0CLI646Z8d"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
     },
     {
-      "added_at": "2023-03-15 01:03:20",
+      "added_at": "2023-03-16 01:07:24",
       "album": {
         "name": "ULALA (OOH LA LA)",
         "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-02-10 11:14:41",
       "album": {
-        "name": "Come",
-        "url": "https://open.spotify.com/album/4RJ4WisTGku6ifa8iJkMi1"
-      },
-      "artists": [
-        {
-          "name": "Cyn Santana",
-          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Come",
-      "url": "https://open.spotify.com/track/1b7V8nIDDItoLTUmB7IZsz"
-    },
-    {
-      "added_at": "2023-02-10 11:14:41",
-      "album": {
         "name": "Klk El Dice",
         "url": "https://open.spotify.com/album/5cfntPjzzjPSaKF1g6BosG"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 166736,
       "name": "Klk El Dice",
       "url": "https://open.spotify.com/track/3cAZpBIkNKTYqxalklnCpw"
+    },
+    {
+      "added_at": "2023-02-10 11:14:41",
+      "album": {
+        "name": "Come",
+        "url": "https://open.spotify.com/album/4RJ4WisTGku6ifa8iJkMi1"
+      },
+      "artists": [
+        {
+          "name": "Cyn Santana",
+          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Come",
+      "url": "https://open.spotify.com/track/1b7V8nIDDItoLTUmB7IZsz"
     },
     {
       "added_at": "2023-02-10 11:14:41",

@@ -824,7 +824,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 165000,
       "name": "Hardstyle Girl (Harris & Ford Remix)",
       "url": "https://open.spotify.com/track/4SNTRZEd437z47y4mL9vKi"
@@ -1572,6 +1572,28 @@
       "duration_ms": 169487,
       "name": "Outside (Hardstyle Remix)",
       "url": "https://open.spotify.com/track/5idLCQX198buvDTviDEPP2"
+    },
+    {
+      "album": {
+        "name": "Outside (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/1KHgzKZGHatLlCtlQnI0y7"
+      },
+      "artists": [
+        {
+          "name": "Kratos",
+          "url": "https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs"
+        },
+        {
+          "name": "Hardstyle Gym Bro",
+          "url": "https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157570,
+      "name": "Outside - Hardstyle Remix",
+      "url": "https://open.spotify.com/track/0lKFwVERbOAEjst5CfH7tb"
     },
     {
       "album": {

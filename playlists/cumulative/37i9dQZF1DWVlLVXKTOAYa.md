@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-688 songs - 1 day 11 hr 19 min
+689 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Most People](https://open.spotify.com/track/1KCon9P4bPjLGFBGyTLt6f) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Most People](https://open.spotify.com/album/2XQR2HRnaF8F7NnTGVpWTt) | 2:21 | 2022-04-14 | 2022-04-17 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:54 | 2022-07-07 | 2022-10-01 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2022-03-24 | 2022-04-20 |
+| [MOTTO](https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [MOTTO](https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE) | 3:37 | 2023-03-09 |  |
 | [My All](https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [My All](https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg) | 3:17 | 2022-12-08 | 2023-01-13 |
 | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc) | 2:28 | 2022-03-24 | 2022-04-20 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-12-16 | 2022-10-01 |
@@ -578,7 +579,7 @@
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-07-07 | 2022-09-16 |
 | [Sweet Dream](https://open.spotify.com/track/1BIKSPrF0M1U6u83MTKmDu) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Sweet Dream](https://open.spotify.com/album/2StstfzDqLhNXWowiBSeHr) | 3:01 | 2021-12-16 | 2022-02-18 |
 | [Sweet Dreams](https://open.spotify.com/track/0uIwEMEjZDGrZ3NvxK3T9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/7ihIr7mrNqtqqqSUG5Ts7I) | 2:18 | 2022-03-24 | 2022-04-18 |
-| [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-24 |  |
+| [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-24 | 2023-03-16 |
 | [Take My Breath \- Single Version](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2022-03-24 | 2022-04-21 |
 | [Teach Me How To Love](https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 3:22 | 2021-12-16 | 2022-07-07 |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/43zOaM9seVvQuWIdDf88yV) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/album/45gXJvbzPOYudQDvu9OktY) | 3:16 | 2022-03-24 | 2022-04-08 |

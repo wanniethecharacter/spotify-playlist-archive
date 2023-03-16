@@ -4,7 +4,7 @@
 
 > La banda sonora para tus cenas en casa.
 
-196 songs - 12 hr 41 min
+197 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,9 +138,10 @@
 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 | 2021-01-19 |  |
 | [Poker Face](https://open.spotify.com/track/2BvUnyMmphVTlwDigM5oss) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Kelley Jakle](https://open.spotify.com/artist/5mffQhVrNSkSLDs1pSJYiC) | [Poker Face](https://open.spotify.com/album/1np99MsHr0mQzN7RfxAinV) | 3:01 | 2021-01-19 | 2022-07-29 |
 | [Pray](https://open.spotify.com/track/59ljpSFcgtfWJKS3vqG27R) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:41 | 2021-01-19 | 2022-11-13 |
+| [Pray](https://open.spotify.com/track/7DsX5K72fewVGb47qj7Tbg) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:41 | 2021-01-19 |  |
 | [Quien Sabe](https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Soñar Contigo\. Una Colección de Sus Grandes Canciones](https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08) | 3:59 | 2021-01-19 | 2022-07-29 |
 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2021-01-19 |  |
-| [Sail Away](https://open.spotify.com/track/1cjouR9u8UPbvBc6vIwktF) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 5:15 | 2021-01-19 |  |
+| [Sail Away](https://open.spotify.com/track/1cjouR9u8UPbvBc6vIwktF) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 5:15 | 2021-01-19 | 2023-03-16 |
 | [Sail Away](https://open.spotify.com/track/7w5GAUVhimHVPSwTsPnxq5) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp) | 5:15 | 2021-01-19 | 2022-10-13 |
 | [Sara Smile](https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Daryl Hall & John Oates \(The Silver Album\)](https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA) | 3:05 | 2021-01-19 |  |
 | [Semilla Negra](https://open.spotify.com/track/6G4JJs9bhVt6ndHQBcao6b) | [Marlango](https://open.spotify.com/artist/1sssLDz8bNSqKkW1zndP0D) | [Selection](https://open.spotify.com/album/2LRLNUHFT5zF12MTSTZmX8) | 4:33 | 2021-01-19 | 2022-07-29 |

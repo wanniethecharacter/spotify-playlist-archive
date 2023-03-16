@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Gabi Sampaio, Rebeca Carvalho",
-  "num_followers": 284074,
+  "num_followers": 284136,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg4NDY4MSwwMDAwMDAwMDEwNmE4MDYxZTIwYjYyYmMzMjgxN2ZlNDVhOTNjZGIy",
+  "snapshot_id": "MTY3Nzg4NDY4MSwwMDAwMDAwMDU3N2IxMGMwNmNmZmJlODU4MTMzYjU2MGJkZjRmM2Fj",
   "tracks": [
     {
       "added_at": "2023-03-03 23:04:41",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-03-03 23:04:41",
       "album": {
+        "name": "Vou Me Humilhar",
+        "url": "https://open.spotify.com/album/1JEot4g3P0ySOuBGB9otLB"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "Vou Me Humilhar",
+      "url": "https://open.spotify.com/track/6XsCKaTpswfeXBak03mNhl"
+    },
+    {
+      "added_at": "2023-03-03 23:04:41",
+      "album": {
         "name": "At\u00e9 te Encontrar (Ao Vivo)",
         "url": "https://open.spotify.com/album/0TULB48BC0rCKXtFFVOX5s"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 576860,
       "name": "At\u00e9 te Encontrar - Ao Vivo",
       "url": "https://open.spotify.com/track/1HucuOdAhqUgPNgZJoFB3K"
-    },
-    {
-      "added_at": "2023-03-03 23:04:41",
-      "album": {
-        "name": "Vou Me Humilhar",
-        "url": "https://open.spotify.com/album/1JEot4g3P0ySOuBGB9otLB"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "Vou Me Humilhar",
-      "url": "https://open.spotify.com/track/6XsCKaTpswfeXBak03mNhl"
     },
     {
       "added_at": "2023-03-03 23:04:41",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-03 23:04:41",
       "album": {
-        "name": "De Volta \u00e0 Ess\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0YeBNLuTCGUITUZNxINJWI"
-      },
-      "artists": [
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
-        }
-      ],
-      "duration_ms": 439937,
-      "name": "Voltando \u00e0 Ess\u00eancia (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1MXdyw32HqhBilEZ2nw3jg"
-    },
-    {
-      "added_at": "2023-03-03 23:04:41",
-      "album": {
         "name": "Dependente",
         "url": "https://open.spotify.com/album/1rlxjSQ6ZCf6isHexFcbDI"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 301395,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/7ilMa9uRyjoVqqRhAYcsax"
+    },
+    {
+      "added_at": "2023-03-03 23:04:41",
+      "album": {
+        "name": "De Volta \u00e0 Ess\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0YeBNLuTCGUITUZNxINJWI"
+      },
+      "artists": [
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        }
+      ],
+      "duration_ms": 439937,
+      "name": "Voltando \u00e0 Ess\u00eancia (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1MXdyw32HqhBilEZ2nw3jg"
     },
     {
       "added_at": "2023-03-03 23:04:41",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-03-03 23:04:41",
       "album": {
-        "name": "Estrat\u00e9gia",
-        "url": "https://open.spotify.com/album/0AgmbghBFTxFKMmJcQohqr"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        }
-      ],
-      "duration_ms": 364812,
-      "name": "Estrat\u00e9gia",
-      "url": "https://open.spotify.com/track/25JkALxjdPgDSpb9onSbao"
-    },
-    {
-      "added_at": "2023-03-03 23:04:41",
-      "album": {
         "name": "N\u00e3o Se Cobre Tanto (Ao Vivo)",
         "url": "https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 298174,
       "name": "N\u00e3o Se Cobre Tanto - Ao Vivo",
       "url": "https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m"
+    },
+    {
+      "added_at": "2023-03-03 23:04:41",
+      "album": {
+        "name": "Estrat\u00e9gia",
+        "url": "https://open.spotify.com/album/0AgmbghBFTxFKMmJcQohqr"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        }
+      ],
+      "duration_ms": 364812,
+      "name": "Estrat\u00e9gia",
+      "url": "https://open.spotify.com/track/25JkALxjdPgDSpb9onSbao"
     },
     {
       "added_at": "2023-03-03 23:04:41",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-03-03 23:04:41",
       "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1W4djOiYB5FHEjyngDxIRJ"
-      },
-      "artists": [
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Dependente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7t79MtUh8zfrhN1KT56eQv"
-    },
-    {
-      "added_at": "2023-03-03 23:04:41",
-      "album": {
         "name": "Eu Te Adorarei",
         "url": "https://open.spotify.com/album/2cXH4ilW893UBVq33nh4lw"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 235500,
       "name": "Eu Te Adorarei",
       "url": "https://open.spotify.com/track/1Mlg6pel2dGEIvTrsBdv7T"
+    },
+    {
+      "added_at": "2023-03-03 23:04:41",
+      "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1W4djOiYB5FHEjyngDxIRJ"
+      },
+      "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7t79MtUh8zfrhN1KT56eQv"
     },
     {
       "added_at": "2023-03-03 23:04:41",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2023-03-03 23:04:41",
       "album": {
+        "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 383968,
+      "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ"
+    },
+    {
+      "added_at": "2023-03-03 23:04:41",
+      "album": {
         "name": "Amigas da Cruz: Coral das Mulheres 10",
         "url": "https://open.spotify.com/album/4LHRMLBOALFCa4vVncHump"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 361018,
       "name": "Amigas da Cruz: Coral das Mulheres 10",
       "url": "https://open.spotify.com/track/1qGvQHGy8EzD2k8KR23eb5"
-    },
-    {
-      "added_at": "2023-03-03 23:04:41",
-      "album": {
-        "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 383968,
-      "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ"
     },
     {
       "added_at": "2023-03-03 23:04:41",

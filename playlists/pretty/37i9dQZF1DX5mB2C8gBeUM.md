@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: Morgan Wallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,584 likes - 124 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,863 likes - 124 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

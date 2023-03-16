@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-633 songs - 1 day 7 hr 59 min
+634 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,8 @@
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-07-29 | 2022-08-28 |
 | [Deu Meia Noite, Eu Sumi, Geral Soltando Fogos](https://open.spotify.com/track/3hycwch1V1aCbKGlcfKg0I) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ MT7](https://open.spotify.com/artist/5lomh7H0yuxEtZnvtSCHI1) | [Deu Meia Noite, Eu Sumi, Geral Soltando Fogos](https://open.spotify.com/album/0AlJZSnFCRXtEhgBQ2Gnre) | 2:09 | 2022-01-02 | 2022-01-04 |
 | [Deus É o Meu Guia](https://open.spotify.com/track/4BfppnNi6ZQTI8Ezo97zX6) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Deus É o Meu Guia](https://open.spotify.com/album/5hBNe9L3XC3xU4pDZUtNm3) | 2:46 | 2022-03-03 | 2022-03-21 |
-| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 |  |
+| [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:52 | 2023-03-15 |  |
+| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 | 2023-03-16 |
 | [Diferença Mara](https://open.spotify.com/track/0dLkZwE2Xt4ETtUt5cED2l) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Juliette](https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q) | 2:49 | 2021-09-05 | 2021-09-09 |
 | [Dilúvio](https://open.spotify.com/track/2munsJnflycsB0jAPgDxaU) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Dilúvio](https://open.spotify.com/album/5NfrKnAY6wBjUdURJAglm7) | 3:41 | 2021-05-07 | 2021-05-08 |
 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 | 2022-07-01 | 2022-07-17 |

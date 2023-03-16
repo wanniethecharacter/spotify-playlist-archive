@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: エレファントカシマシ
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,047 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,104 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 42 | [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 |
 | 43 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 |
 | 44 | [ウェザーリポート](https://open.spotify.com/track/1OpBTBQHigKrOrTJ1SJwOf) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6SmyaO1lx0PJpXb47XLRdv) | 3:11 |
-| 45 | [Fever](https://open.spotify.com/track/7oEGjKG1ukNFUlfQodmUz3) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [Fever](https://open.spotify.com/album/2tBrdyxwKLtADqTvmacSiL) | 3:41 |
+| 45 | [冬ノ道ノセイ](https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [冬ノ道ノセイ](https://open.spotify.com/album/1wGa63zrjAufDCd7zA4wCs) | 4:31 |
 | 46 | [さよならセニョリータ](https://open.spotify.com/track/7u4jJOelFD7OT3KTN1oGfo) | [Oledickfoggy](https://open.spotify.com/artist/0TVLH5zOLVKWvqGcvnWud9) | [残夜の汀線 \-ZANYA NO TEISEN\-](https://open.spotify.com/album/7j53RkEpf9DJcYYhQVE0W8) | 3:39 |
-| 47 | [冬ノ道ノセイ](https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [冬ノ道ノセイ](https://open.spotify.com/album/1wGa63zrjAufDCd7zA4wCs) | 4:31 |
+| 47 | [Fever](https://open.spotify.com/track/7oEGjKG1ukNFUlfQodmUz3) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [Fever](https://open.spotify.com/album/2tBrdyxwKLtADqTvmacSiL) | 3:41 |
 | 48 | [Voyage](https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Voyage](https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5) | 3:39 |
 | 49 | [THE PROMISE](https://open.spotify.com/track/3nzAbV5u0IBT6UJuPqPcLp) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [THE PROMISE](https://open.spotify.com/album/2Bx6rMVAb1WltCaBQWT5Lg) | 3:18 |
 | 50 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 |
 
-Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMDFiZTZjYWU5MDk3MGJiMDMyOGZlYjFiOTI2ZjlhNDRl`
+Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMDkxMzA5ZTk4YWIwODExNTY4OTJkYjViOTcxYjUyNjk2`

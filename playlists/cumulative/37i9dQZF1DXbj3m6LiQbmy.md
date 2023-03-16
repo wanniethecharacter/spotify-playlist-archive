@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ e dai suoi alleati\. Sans Soucis in cover, e <a href="spotify:playlist:37i9dQZF1DX3LyU0mhfqgP">nella playlist global</a> ✨
 
-261 songs - 15 hr 51 min
+262 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [F.O.M.O\. \(feat\. SPLENDORE & Marta Tenaglia\)](https://open.spotify.com/track/0D8SHMmNwJcrMPZoByOmMc) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [SPLENDORE](https://open.spotify.com/artist/0WeNBS6jjzTYWe3eywkuuq), [Marta Tenaglia](https://open.spotify.com/artist/0WqwCCw0Rn6Egu9rFFPQNi) | [UV](https://open.spotify.com/album/3LKaBArzE0hlP2jMkOaedY) | 3:04 | 2022-07-04 | 2022-07-28 |
 | [Face Off](https://open.spotify.com/track/6M47gaKejso9772SKTa3yH) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Joey Cool](https://open.spotify.com/artist/1A8NEJYo3VW9aIZ6l55Dgu), [King Iso](https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle), [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn) | [ASIN9NE](https://open.spotify.com/album/0g81USzuFuid3QkYfxeMXM) | 3:39 | 2022-06-12 | 2022-06-27 |
 | [Fall \(feat\. Cuushe\)](https://open.spotify.com/track/1DhN0hYneezQL2nQnTChnQ) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Night Safari](https://open.spotify.com/album/1NsQzdcl5VnJDgTGLkvLoj) | 4:32 | 2022-06-26 | 2023-02-28 |
-| [Fammi sapere](https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ) | [Santissima Vicky](https://open.spotify.com/artist/1SVjhg7V450B2W9zcn9dZY) | [Fammi sapere](https://open.spotify.com/album/5BLc0gWZEp3CQvyEpSO5p0) | 2:55 | 2021-11-19 |  |
+| [Fammi sapere](https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ) | [Santissima Vicky](https://open.spotify.com/artist/1SVjhg7V450B2W9zcn9dZY) | [Fammi sapere](https://open.spotify.com/album/5BLc0gWZEp3CQvyEpSO5p0) | 2:55 | 2021-11-19 | 2023-03-16 |
 | [Faradenza](https://open.spotify.com/track/5YdbRdc2AhwJXzz8eOfCP3) | [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB) | [Antipositive, Pt\. 1](https://open.spotify.com/album/6aKvehyRr8lcSApGpkie7X) | 2:29 | 2022-06-12 | 2022-06-27 |
 | [FINIMONDO](https://open.spotify.com/track/0JbzHTWp24Fe1l7NBzzp4p) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [FINIMONDO](https://open.spotify.com/album/5v0DjHceNOVZGIqtNzR8i2) | 2:51 | 2022-05-25 | 2022-06-13 |
 | [FINIMONDO](https://open.spotify.com/track/0RFRr1i6USZRE66r5vB9OT) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 2:51 | 2022-06-12 | 2022-06-27 |
@@ -144,6 +144,7 @@
 | [LURIDONA](https://open.spotify.com/track/5jk0Jko1G8b9ZtiN7rOBhM) | [ASOKO](https://open.spotify.com/artist/2KOljewrNvd3LCI2NaMj4Y) | [LURIDONA](https://open.spotify.com/album/1HKWCTcbfRowpc9N6r2sSc) | 1:45 | 2021-11-19 | 2022-07-29 |
 | [Ma che Hit](https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Ma che Hit](https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA) | 2:18 | 2023-02-23 |  |
 | [Magari Vivi](https://open.spotify.com/track/0yPWp3eBcoREfTTU4U1QwC) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Magari Vivi](https://open.spotify.com/album/6oTqwvC6XLtQCcGqpqhdKK) | 2:49 | 2021-11-19 | 2023-02-25 |
+| [Magari Vivi](https://open.spotify.com/track/2VywcqDZs2jKbBj6xKQEI2) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Magari Vivi](https://open.spotify.com/album/1F9xKBAzp8KOGupd0ARFpq) | 2:49 | 2023-02-28 |  |
 | [Mami Daddy](https://open.spotify.com/track/5VHcNSkMpkjiw245BovVm2) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 2:30 | 2022-04-21 |  |
 | [MARE DI GUAI](https://open.spotify.com/track/5coGRpcrHdoLBuTLAeKGxu) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [MARE DI GUAI](https://open.spotify.com/album/1nypi8w7X4rrXVJPSVghj0) | 3:24 | 2023-02-23 |  |
 | [MARGHERITE \(feat\. Ethan & Marianne Mirage\)](https://open.spotify.com/track/0g5dcbFaOxjzACP1oWzPkF) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70), [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0) | [UV](https://open.spotify.com/album/3LKaBArzE0hlP2jMkOaedY) | 3:12 | 2022-06-26 | 2022-07-29 |

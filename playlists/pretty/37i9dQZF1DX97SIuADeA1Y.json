@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 291093,
+  "num_followers": 291220,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ2NDAwMCwwMDAwMDAwMDQ2NzI5MDcwOGFkOTVhYzBmNDIxMjE4NzhiY2ZlYzg5",
+  "snapshot_id": "MTY3ODQ2NDAwMCwwMDAwMDAwMDlhOTBlNTQ2NGI2OTBkNjY2ZWQyMzNiYmUxYmM0Nzcy",
   "tracks": [
     {
       "added_at": "2023-02-17 11:30:00",
@@ -71,42 +71,6 @@
     {
       "added_at": "2023-02-17 11:30:00",
       "album": {
-        "name": "Rampampam",
-        "url": "https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj"
-      },
-      "artists": [
-        {
-          "name": "Minelli",
-          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
-        }
-      ],
-      "duration_ms": 200211,
-      "name": "Rampampam",
-      "url": "https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3"
-    },
-    {
-      "added_at": "2023-02-17 11:30:00",
-      "album": {
-        "name": "Somebody's Watching Me",
-        "url": "https://open.spotify.com/album/2p62jUmltlSQua2IViQBaz"
-      },
-      "artists": [
-        {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
-        },
-        {
-          "name": "71 Digits",
-          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Somebody's Watching Me",
-      "url": "https://open.spotify.com/track/3vrm4dNThrhQ0BArrLIUOV"
-    },
-    {
-      "added_at": "2023-02-17 11:30:00",
-      "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
       },
@@ -123,6 +87,22 @@
       "duration_ms": 160849,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
+    },
+    {
+      "added_at": "2023-02-17 11:30:00",
+      "album": {
+        "name": "Rampampam",
+        "url": "https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "duration_ms": 200211,
+      "name": "Rampampam",
+      "url": "https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3"
     },
     {
       "added_at": "2023-02-17 11:30:00",
@@ -149,7 +129,27 @@
       "url": "https://open.spotify.com/track/2kfZCiSWhAYKdxD7o7WLoa"
     },
     {
-      "added_at": "2023-03-15 01:06:49",
+      "added_at": "2023-02-17 11:30:00",
+      "album": {
+        "name": "Somebody's Watching Me",
+        "url": "https://open.spotify.com/album/2p62jUmltlSQua2IViQBaz"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Somebody's Watching Me",
+      "url": "https://open.spotify.com/track/3vrm4dNThrhQ0BArrLIUOV"
+    },
+    {
+      "added_at": "2023-03-16 01:45:34",
       "album": {
         "name": "Addicted to you",
         "url": "https://open.spotify.com/album/2jDXwEnAZcRswFdxufO8gY"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
     },
     {
-      "added_at": "2023-03-15 01:06:49",
+      "added_at": "2023-03-16 01:45:34",
       "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/5AHAWbu3w5lx7i6M5Ox3Ii"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5"
     },
     {
-      "added_at": "2023-03-15 01:06:49",
+      "added_at": "2023-03-16 01:45:34",
       "album": {
         "name": "Cups (Drunk in Love Pt. 2)",
         "url": "https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x"
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-02-17 11:30:00",
       "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
+    },
+    {
+      "added_at": "2023-02-17 11:30:00",
+      "album": {
         "name": "Another Level (ft. Lovespeake)",
         "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 145941,
       "name": "Another Level (ft. Lovespeake)",
       "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
-    },
-    {
-      "added_at": "2023-02-17 11:30:00",
-      "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
     },
     {
       "added_at": "2023-02-17 11:30:00",
@@ -557,23 +557,7 @@
       "url": "https://open.spotify.com/track/1LBlcDruAKflMoNV0Ue0AK"
     },
     {
-      "added_at": "2023-02-17 11:30:00",
-      "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc"
-      },
-      "artists": [
-        {
-          "name": "Axel Black & White",
-          "url": "https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN"
-        }
-      ],
-      "duration_ms": 141170,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ"
-    },
-    {
-      "added_at": "2023-03-15 01:06:49",
+      "added_at": "2023-03-16 01:45:34",
       "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/6XvmItzLcJdD3eWyVhboph"
@@ -599,6 +583,22 @@
     {
       "added_at": "2023-02-17 11:30:00",
       "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc"
+      },
+      "artists": [
+        {
+          "name": "Axel Black & White",
+          "url": "https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN"
+        }
+      ],
+      "duration_ms": 141170,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ"
+    },
+    {
+      "added_at": "2023-02-17 11:30:00",
+      "album": {
         "name": "Wonderful Life",
         "url": "https://open.spotify.com/album/2Bx9G3XtMsbZRe5TzyYDZd"
       },
@@ -615,30 +615,6 @@
       "duration_ms": 160873,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/08lo8MO2RVzNRGO6da99RQ"
-    },
-    {
-      "added_at": "2023-02-17 11:30:00",
-      "album": {
-        "name": "Under the Influence",
-        "url": "https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx"
-      },
-      "artists": [
-        {
-          "name": "Krmoni",
-          "url": "https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz"
-        },
-        {
-          "name": "Coffeeshop",
-          "url": "https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC"
-        },
-        {
-          "name": "Tommy Rage",
-          "url": "https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Under the Influence",
-      "url": "https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr"
     },
     {
       "added_at": "2023-02-17 11:30:00",
@@ -667,22 +643,26 @@
     {
       "added_at": "2023-02-17 11:30:00",
       "album": {
-        "name": "Look Into My Eyes",
-        "url": "https://open.spotify.com/album/1sFDhICmXyVfall99PnFbe"
+        "name": "Under the Influence",
+        "url": "https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx"
       },
       "artists": [
         {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+          "name": "Krmoni",
+          "url": "https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz"
         },
         {
-          "name": "Sary",
-          "url": "https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW"
+          "name": "Coffeeshop",
+          "url": "https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC"
+        },
+        {
+          "name": "Tommy Rage",
+          "url": "https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3"
         }
       ],
-      "duration_ms": 148714,
-      "name": "Look Into My Eyes",
-      "url": "https://open.spotify.com/track/44n8IiEeBHcZukhfxxfV9L"
+      "duration_ms": 165853,
+      "name": "Under the Influence",
+      "url": "https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr"
     },
     {
       "added_at": "2023-02-17 11:30:00",
@@ -703,6 +683,26 @@
       "duration_ms": 151723,
       "name": "I'm Okay",
       "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
+    },
+    {
+      "added_at": "2023-02-17 11:30:00",
+      "album": {
+        "name": "Look Into My Eyes",
+        "url": "https://open.spotify.com/album/1sFDhICmXyVfall99PnFbe"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        },
+        {
+          "name": "Sary",
+          "url": "https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW"
+        }
+      ],
+      "duration_ms": 148714,
+      "name": "Look Into My Eyes",
+      "url": "https://open.spotify.com/track/44n8IiEeBHcZukhfxxfV9L"
     },
     {
       "added_at": "2023-02-17 11:30:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-02-17 11:30:00",
       "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        }
-      ],
-      "duration_ms": 171904,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX"
-    },
-    {
-      "added_at": "2023-02-17 11:30:00",
-      "album": {
         "name": "The Riddle",
         "url": "https://open.spotify.com/album/1Oypf1hT1igGaSZKEoOv9J"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 176920,
       "name": "The Riddle",
       "url": "https://open.spotify.com/track/0ZLhf4nmiS3bGvsq8kW90W"
+    },
+    {
+      "added_at": "2023-02-17 11:30:00",
+      "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX"
     },
     {
       "added_at": "2023-02-17 11:30:00",

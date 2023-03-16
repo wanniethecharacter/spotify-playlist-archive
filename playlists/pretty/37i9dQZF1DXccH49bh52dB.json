@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 415814,
+  "num_followers": 416177,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDdmMWRhMzE5ZDllZGFmMjEwNzA2MGFlZmY3YzBiMGYz",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDc2YzBlYTg3YjI2ZjIyMDY1OWQ2Njc0NWNiOGZiMTk4",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "GALLERY",
-        "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Oceans Away",
-      "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Sun Goes Down",
         "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 203586,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "GALLERY",
+        "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 194013,
+      "name": "Oceans Away",
+      "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Diamond Heart",
-        "url": "https://open.spotify.com/album/6PZBlxE1awuzcZTkUwWa4C"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sophia Somajo",
-          "url": "https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z"
-        }
-      ],
-      "duration_ms": 239834,
-      "name": "Diamond Heart",
-      "url": "https://open.spotify.com/track/4J4zx8xGJpuGndrVc06KaT"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Talk About It",
         "url": "https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 164536,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Diamond Heart",
+        "url": "https://open.spotify.com/album/6PZBlxE1awuzcZTkUwWa4C"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sophia Somajo",
+          "url": "https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z"
+        }
+      ],
+      "duration_ms": 239834,
+      "name": "Diamond Heart",
+      "url": "https://open.spotify.com/track/4J4zx8xGJpuGndrVc06KaT"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Music Is My Best Friend",
+        "url": "https://open.spotify.com/album/6Y9pKRKhOZ3t1ILhEFDXuZ"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 166213,
+      "name": "Bad Ideas",
+      "url": "https://open.spotify.com/track/0uNU2DnGjyjzqeaK3z5rSi"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Music Is My Best Friend",
-        "url": "https://open.spotify.com/album/6Y9pKRKhOZ3t1ILhEFDXuZ"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 166213,
-      "name": "Bad Ideas",
-      "url": "https://open.spotify.com/track/0uNU2DnGjyjzqeaK3z5rSi"
     },
     {
       "added_at": "2022-01-18 14:54:04",

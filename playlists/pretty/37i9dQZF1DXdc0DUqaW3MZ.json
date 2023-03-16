@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 297442,
+  "num_followers": 297529,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDIyZDM2NzAzMWY2YmM4YTc0OWZiYzQxNDZhZmU2ZTlj",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDkxZGJmZDIzNjdiYzgwZmEwNTdhYjYzYTlhZWVjNzVk",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "All Mine",
-        "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
-      },
-      "artists": [
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        },
-        {
-          "name": "John Givez",
-          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
-        }
-      ],
-      "duration_ms": 148529,
-      "name": "All Mine",
-      "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "La Linda",
         "url": "https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O"
       },
@@ -851,22 +831,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "LowKey (feat. Jayd Ink)",
-        "url": "https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy"
+        "name": "All Mine",
+        "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
       },
       "artists": [
         {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
         },
         {
-          "name": "Jayd Ink",
-          "url": "https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac"
+          "name": "John Givez",
+          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
         }
       ],
-      "duration_ms": 173420,
-      "name": "LowKey (feat. Jayd Ink)",
-      "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
+      "duration_ms": 148529,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -915,18 +895,38 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+        "name": "LowKey (feat. Jayd Ink)",
+        "url": "https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy"
       },
       "artists": [
         {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "Jayd Ink",
+          "url": "https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac"
         }
       ],
-      "duration_ms": 315608,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
+      "duration_ms": 173420,
+      "name": "LowKey (feat. Jayd Ink)",
+      "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Be Patient",
+        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 216793,
+      "name": "Be Patient",
+      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Be Patient",
-        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
       },
       "artists": [
         {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
         }
       ],
-      "duration_ms": 216793,
-      "name": "Be Patient",
-      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
+      "duration_ms": 315608,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Fourth Wall",
+        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
+      },
+      "artists": [
+        {
+          "name": "Harvey Causon",
+          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
+        }
+      ],
+      "duration_ms": 245123,
+      "name": "Half Hour Verve",
+      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Moves EP",
         "url": "https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 223537,
       "name": "Moves",
       "url": "https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Fourth Wall",
-        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
-      },
-      "artists": [
-        {
-          "name": "Harvey Causon",
-          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
-        }
-      ],
-      "duration_ms": 245123,
-      "name": "Half Hour Verve",
-      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Only Diamonds Cut Diamonds",
-        "url": "https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5"
+        "name": "Super Good Times",
+        "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
       },
       "artists": [
         {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
         }
       ],
-      "duration_ms": 205893,
-      "name": "It's Nice to Be Alive",
-      "url": "https://open.spotify.com/track/0KmxMouBQhAihwTJLKxQgW"
+      "duration_ms": 221217,
+      "name": "Super Good Times",
+      "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Super Good Times",
-        "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
+        "name": "Only Diamonds Cut Diamonds",
+        "url": "https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5"
       },
       "artists": [
         {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
         }
       ],
-      "duration_ms": 221217,
-      "name": "Super Good Times",
-      "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
+      "duration_ms": 205893,
+      "name": "It's Nice to Be Alive",
+      "url": "https://open.spotify.com/track/0KmxMouBQhAihwTJLKxQgW"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Pleasure (Now & Forever)",
-        "url": "https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn"
-      },
-      "artists": [
-        {
-          "name": "Buddy Love",
-          "url": "https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Boy Blue",
-      "url": "https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Hot In Herre",
         "url": "https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 185786,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Pleasure (Now & Forever)",
+        "url": "https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn"
+      },
+      "artists": [
+        {
+          "name": "Buddy Love",
+          "url": "https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Boy Blue",
+      "url": "https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN"
     },
     {
       "added_at": "2022-06-20 14:19:42",

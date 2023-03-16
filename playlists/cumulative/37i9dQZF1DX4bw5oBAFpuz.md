@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-255 songs - 14 hr 56 min
+256 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Happy in Hindsight](https://open.spotify.com/track/5TTI3j2PFfhjQ9LQT7Xllx) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [Happy in Hindsight](https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs) | 3:33 | 2023-02-23 |  |
 | [Haven't Met You Yet](https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) | 4:04 | 2023-02-23 |  |
 | [Head Over Heels](https://open.spotify.com/track/3StL2jKfcfZBD1oc1tm25j) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Head Over Heels](https://open.spotify.com/album/4FlcewSj4imHL8Fjc3lJbb) | 2:32 | 2023-02-23 |  |
+| [Heartbeat \- Acoustic Version](https://open.spotify.com/track/7ktXVuy3bi3Dd2WMmN4UTt) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat \(Acoustic Version\)](https://open.spotify.com/album/6SpveBzKj1xeTK4vTS9SKu) | 3:22 | 2023-03-09 |  |
 | [Hi\-Lo](https://open.spotify.com/track/3rPvqdTUROO6eFGFJnY6Jr) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [SKYVIEW](https://open.spotify.com/album/7nkAfiUqBFSD19EwyvCShv) | 2:57 | 2023-02-23 |  |
 | [High Five](https://open.spotify.com/track/1KNfDol8Thjs1dNXPPppBy) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [High Five](https://open.spotify.com/album/3G3sIi4NccAcwsZwUC537k) | 3:29 | 2023-02-23 |  |
 | [High Places \- Radio Edit](https://open.spotify.com/track/2LNgXgVzyqeIUTWX1gqJpg) | [Kane](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Singles Only \(Deluxe Edition\)](https://open.spotify.com/album/1CU246tMIaAhMfAfmtR2h6) | 3:44 | 2023-02-23 |  |
@@ -203,7 +204,7 @@
 | [Start Again](https://open.spotify.com/track/5Km6e8PWkwEPVKlifElIDB) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Start Again](https://open.spotify.com/album/6AZP6Qm8YD7hUALhn0pd6O) | 3:37 | 2023-02-23 |  |
 | [Step Into The Water](https://open.spotify.com/track/6YePPPV7zWKdnuMavH2k5x) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [High On You](https://open.spotify.com/album/1wtPKN1ppxjJT7ywdcnvzy) | 3:02 | 2023-02-23 |  |
 | [Summer Haze](https://open.spotify.com/track/2wL5gUdq6fweMjaFVMWmc2) | [Close to Fire](https://open.spotify.com/artist/659oLAkAQQTvYQR9zr98jA) | [This Is What It Feels Like](https://open.spotify.com/album/64CFi1tG0UmknPzxMZCZWD) | 3:38 | 2023-02-23 |  |
-| [Summer of My Life](https://open.spotify.com/track/5e1qJDCinxx2XGGEAnffMb) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Project Me](https://open.spotify.com/album/63Dbmdt0RTxUDXzQl4ZhIj) | 3:06 | 2023-02-23 | 2023-03-14 |
+| [Summer of My Life](https://open.spotify.com/track/5e1qJDCinxx2XGGEAnffMb) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Project Me](https://open.spotify.com/album/63Dbmdt0RTxUDXzQl4ZhIj) | 3:06 | 2023-02-23 |  |
 | [Sun Goes Down \- Acoustic Version](https://open.spotify.com/track/1Vt9LAUmkUM41DLCLlIMUc) | [Kenn Colt](https://open.spotify.com/artist/0vSNFAo2h20zd3HOBcM8BX) | [Sun Goes Down \(Acoustic Version\)](https://open.spotify.com/album/5lJHfXBdOgmi6Sc5tqMFk4) | 3:03 | 2023-02-23 |  |
 | [Sunday Morning](https://open.spotify.com/track/1YI0uK36eupTmw9F8kHysr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 4:04 | 2023-02-23 |  |
 | [Sunny Days](https://open.spotify.com/track/6RrUUleT9JI0KQHZYBdJMB) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Sunny Days](https://open.spotify.com/album/0SottnyJaBApBrZZT6Y3kb) | 3:30 | 2023-02-23 |  |
@@ -222,7 +223,7 @@
 | [Tell Me](https://open.spotify.com/track/004ahAHS641tMDChzRvJPj) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Tell Me](https://open.spotify.com/album/0ASbLMBmRueltuW4UX2j3A) | 3:32 | 2023-02-23 |  |
 | [Tell Me That You Love Me](https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm) | 3:14 | 2023-02-23 |  |
 | [Tennessee Whiskey](https://open.spotify.com/track/7qKBw3VBU6dVqK6F8WBIOJ) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Tennessee Whiskey](https://open.spotify.com/album/71KzrFnqFfcPOptYLPboZM) | 4:22 | 2023-02-23 |  |
-| [The Heartbreak Bird](https://open.spotify.com/track/6TVJLKqRFUahnjlySOG1EG) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [The Heartbreak Bird](https://open.spotify.com/album/6nSOxkunntWjzWUJUDweEh) | 3:49 | 2023-02-23 |  |
+| [The Heartbreak Bird](https://open.spotify.com/track/6TVJLKqRFUahnjlySOG1EG) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [The Heartbreak Bird](https://open.spotify.com/album/6nSOxkunntWjzWUJUDweEh) | 3:49 | 2023-02-23 | 2023-03-16 |
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 | 2023-02-23 |  |
 | [The Poetry Man](https://open.spotify.com/track/0BLMTt0ufk4vqgKUU6T3MP) | [Stevie Ann](https://open.spotify.com/artist/0BLtgRpARRInhUuj2RnpBJ) | [Away From Here](https://open.spotify.com/album/2sU6VJXNO21g8i55eZY9f7) | 4:44 | 2023-02-23 |  |
 | [This Is What It Feels Like \- John Ewbank Classical Remix](https://open.spotify.com/track/1MTHcjq2LmrQDYDuLentyu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [John Ewbank](https://open.spotify.com/artist/0P8SMwZkYqLW4ts4BNlP79), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Armada Acoustic 2017](https://open.spotify.com/album/1vaZZiBeoQO0QvzcDyxfHr) | 3:12 | 2023-02-23 |  |
@@ -233,7 +234,7 @@
 | [Till The River Runs Dry](https://open.spotify.com/track/1LRm0dAdk7IEuQDXDs9pIG) | [Bunch Of Grapes](https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK) | [Till The River Runs Dry](https://open.spotify.com/album/429yX7wyM4aDx5PDsEiLYZ) | 2:48 | 2023-02-23 | 2023-03-11 |
 | [Tilted](https://open.spotify.com/track/5dwMQwZvaPo9QzPqRF3aaR) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chaleur Humaine \(Deluxe Edition\)](https://open.spotify.com/album/3jc4mNSSIjakdzeD63qpQt) | 3:53 | 2023-02-23 |  |
 | [To Tomorrow](https://open.spotify.com/track/4GfPkTIFaiI8wmc0lgTDzi) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [The Legend of the Goldkimono](https://open.spotify.com/album/6665kTeQp9goEiA3wZAxm8) | 3:24 | 2023-02-23 |  |
-| [Took a Hit](https://open.spotify.com/track/1pxHrvGMP01htMXg1RcaEy) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Liverpool Rain](https://open.spotify.com/album/5M1RrcD206EhfQzzXlDym8) | 3:44 | 2023-02-23 |  |
+| [Took a Hit](https://open.spotify.com/track/1pxHrvGMP01htMXg1RcaEy) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Liverpool Rain](https://open.spotify.com/album/5M1RrcD206EhfQzzXlDym8) | 3:44 | 2023-02-23 | 2023-03-16 |
 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 | 2023-02-23 |  |
 | [Tututu](https://open.spotify.com/track/60CDsfALVxdHCtWSGNEIib) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Irrational](https://open.spotify.com/album/1cNx0aM4urNQ0gMalkNnQ1) | 2:55 | 2023-02-23 |  |
 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 | 2023-02-23 |  |

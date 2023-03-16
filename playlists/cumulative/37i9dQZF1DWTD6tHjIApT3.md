@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: eill
 
-1,181 songs - 3 day 5 hr 14 min
+1,184 songs - 3 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,8 @@
 | [Lava \(feat\. UA\)](https://open.spotify.com/track/2UcLVcsffZ0YLhclxifIH9) | [Yasushi Ide](https://open.spotify.com/artist/4omJ6brRKmzkjhg2651EW7), [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Lava \(feat\. UA\)](https://open.spotify.com/album/2hTO4o4qssyDBvmAQUQW9Q) | 4:31 | 2022-05-31 | 2022-06-08 |
 | [Lazy Bandits](https://open.spotify.com/track/3oUjzyNZJh64i3nu3YjS9V) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [PANPAN YEEYEE](https://open.spotify.com/artist/5xIZlZMfqO1ooXVB6RdVky), [HNC](https://open.spotify.com/artist/7zFy1woXZKoY5RAY89JN1J) | [Lazy Bandits](https://open.spotify.com/album/0KukhShEp1dpb338gUxv7c) | 2:17 | 2022-06-30 | 2022-07-06 |
 | [lean forward](https://open.spotify.com/track/6YXm0b3TVVGOz1K82ye05R) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [lean forward](https://open.spotify.com/album/22QvSMhfacTzmNNmvVkIOO) | 4:30 | 2022-06-16 | 2022-06-22 |
-| [Leap](https://open.spotify.com/track/3hrZ10jvm7019DdwZLxmCU) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/2RPT4dc1XDtfpyALnf0yq7) | 4:06 | 2023-03-14 |  |
+| [Leap](https://open.spotify.com/track/3hrZ10jvm7019DdwZLxmCU) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/2RPT4dc1XDtfpyALnf0yq7) | 4:06 | 2023-03-14 | 2023-03-16 |
+| [Leap](https://open.spotify.com/track/5UvLomZ74b75rzQmYVkhG7) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/7HYIajVHlesffzuOM67G6Q) | 4:06 | 2023-03-14 |  |
 | [Lemon Soda](https://open.spotify.com/track/21gUf257jq6tmJQUfCXNSX) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Lemon Soda](https://open.spotify.com/album/18JumQQ3R2RxhN9GuxO2Ux) | 4:16 | 2022-08-17 | 2022-08-24 |
 | [Let's Danceee](https://open.spotify.com/track/0MljPpmpTTYiY0eY3Lm1uZ) | [i\-dep](https://open.spotify.com/artist/1s0PMSVk5LQQshjbyYjsIr) | [Let's Danceee](https://open.spotify.com/album/6js1uux8DcDHKaNwSgYX40) | 4:10 | 2022-07-07 | 2022-07-12 |
 | [Letters](https://open.spotify.com/track/27GXDT9uMX6VLcnAYPisMj) | [diue](https://open.spotify.com/artist/0BghUUqZWmXlfXxAZfqkvw), [&mkz](https://open.spotify.com/artist/1n4aHNYirNcTqD074Ml8It) | [Letters](https://open.spotify.com/album/7zAoGrrJwpEd16ACo1SLiF) | 2:06 | 2022-12-20 | 2023-01-04 |
@@ -519,7 +520,8 @@
 | [SNSちゃん](https://open.spotify.com/track/4cOGBxwWU01a3tlzKJGxOt) | [パンのみみ](https://open.spotify.com/artist/530dELmFq9qtCPzkKu3qOd) | [SNSちゃん](https://open.spotify.com/album/2bNTR09zHHZNmI4zAcDbWk) | 3:07 | 2022-07-19 | 2022-07-27 |
 | [So Addictive](https://open.spotify.com/track/6YIWnuY1VEZPdpHybsmLTB) | [伶](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf) | [So Addictive](https://open.spotify.com/album/5K1JjGbwXIjLyOUAczCgOj) | 4:09 | 2023-02-14 |  |
 | [Someone To Love](https://open.spotify.com/track/1pUvCQzbPxG75m2Ox3vCEN) | [LOVE](https://open.spotify.com/artist/01qky80h3z8t7F1DrDufyu) | [Someone To Love](https://open.spotify.com/album/6xXhHmcyyhw3QzLkmTI7p7) | 3:30 | 2022-06-07 | 2022-07-28 |
-| [SORA](https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh) | 2:52 | 2023-03-14 |  |
+| [SORA](https://open.spotify.com/track/3dGWJ8UlemnEV4WycKW3hd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 2:52 | 2023-03-14 |  |
+| [SORA](https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh) | 2:52 | 2023-03-14 | 2023-03-16 |
 | [SORRY](https://open.spotify.com/track/06H43zpvhJCtpifkogl30S) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [SORRY](https://open.spotify.com/album/132r0hb898SctsdWxKXOXd) | 2:42 | 2022-06-16 | 2022-06-22 |
 | [Sorry Not Sorry](https://open.spotify.com/track/18pr31ySVNMGutifls4f6O) | [KAHOH](https://open.spotify.com/artist/1rknkKzJEuqVordsoo3B3I) | [Sorry Not Sorry](https://open.spotify.com/album/4Mdvimk0jgPvZM5lFSNtoy) | 2:13 | 2022-06-23 | 2022-07-05 |
 | [SOSOGU](https://open.spotify.com/track/54x8nltyUeJxylMzAev90H) | [陽真](https://open.spotify.com/artist/6Kn0OX8yBp3EqLM5PaLgN2) | [SOSOGU](https://open.spotify.com/album/1FERVrFwHGs6S6BoEd0q64) | 3:24 | 2022-05-29 | 2022-07-29 |
@@ -625,7 +627,8 @@
 | [WAVE OF LUV](https://open.spotify.com/track/3Fn5clpuHqb0bTJZd9xfpo) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [WAVE OF LUV](https://open.spotify.com/album/4g7rIcO104YEdvAw3EuPuA) | 3:12 | 2022-10-25 | 2022-11-02 |
 | [Waver](https://open.spotify.com/track/74y0bBWpiyOoWsB442cniT) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [neon](https://open.spotify.com/album/6MFq8UGpeyZW8dxFR6PNMp) | 4:30 | 2022-06-02 | 2022-07-01 |
 | [wavy flow](https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [wavy flow](https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo) | 3:25 | 2022-06-02 | 2023-01-11 |
-| [WE ARE](https://open.spotify.com/track/6WJy6lQqRkj2WMm348ieps) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [WE ARE](https://open.spotify.com/album/7GV1xZuvSu7f3Xqfecgi3a) | 3:32 | 2023-03-14 |  |
+| [We Are](https://open.spotify.com/track/1qLc9IbANqjD79IHj47wU9) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [We Are](https://open.spotify.com/album/3DJS8K78UQGkumu2QMa2uB) | 3:32 | 2023-03-14 |  |
+| [WE ARE](https://open.spotify.com/track/6WJy6lQqRkj2WMm348ieps) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [WE ARE](https://open.spotify.com/album/7GV1xZuvSu7f3Xqfecgi3a) | 3:32 | 2023-03-14 | 2023-03-16 |
 | [We Are](https://open.spotify.com/track/0BlScWuZF7uu4bJdt1xEZT) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [We Are](https://open.spotify.com/album/2xtTnFp57oSOS3VWu4w6ob) | 3:33 | 2022-08-23 | 2022-10-19 |
 | [We are](https://open.spotify.com/track/3bfrNRRF94n5zrD0lDOsvk) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [We are](https://open.spotify.com/album/64IjHxJpoN3QeR5OWOanDa) | 3:33 | 2022-08-23 | 2022-08-25 |
 | [We Only Live Once](https://open.spotify.com/track/2TvCPgip8oF2Qk0GuIhLRJ) | [LOVE](https://open.spotify.com/artist/01qky80h3z8t7F1DrDufyu) | [We Only Live Once](https://open.spotify.com/album/3PvpnMnKzHtp7XNYEqgXS1) | 3:31 | 2022-07-26 | 2022-08-03 |
@@ -822,7 +825,7 @@
 | [ダージリン \- Bousi Studio Remix](https://open.spotify.com/track/64UaJY4n99ZKSHIq82KOtk) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx), [野村帽子](https://open.spotify.com/artist/2QkxK6rPvCNIEM7OxvHJPx) | [ダージリン \(Bousi Studio Remix\)](https://open.spotify.com/album/3xSg3qQZepIoFbBLSRZpug) | 3:26 | 2022-05-31 | 2022-07-23 |
 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 | 2022-09-06 |  |
 | [チューリップ](https://open.spotify.com/track/13xYQlVr11XuhBwHRbYFmk) | [Kiwokuza](https://open.spotify.com/artist/5RuJsNzn0UhHOu1jvMD3Ii) | [チューリップ](https://open.spotify.com/album/61BECZBJEOOZVas8iFdY30) | 4:27 | 2022-06-07 | 2022-07-14 |
-| [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 | 2022-10-18 |  |
+| [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 | 2022-10-18 | 2023-03-16 |
 | [トワイライト](https://open.spotify.com/track/7LCGgXpw27AK8r7CiPhG0l) | [703goushitsu](https://open.spotify.com/artist/2kgwlK1KWV3bgzT7FsJGoR) | [トワイライト](https://open.spotify.com/album/5r8Bx5ODvdb0URnGQybG8d) | 4:46 | 2022-06-21 | 2022-06-29 |
 | [ナイトドライブ](https://open.spotify.com/track/6ZBFeY13nAPGK3kHWqWQRw) | [yukaDD\(;´∀｀\)](https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe), [was@bi shock](https://open.spotify.com/artist/5ztp9ZNHZtl7nWs8h5hQHK) | [ナイトドライブ](https://open.spotify.com/album/3f5hpxx3a324W1t3G8tnUY) | 3:16 | 2022-06-02 | 2022-06-24 |
 | [ニンゲンカンケイ](https://open.spotify.com/track/3gbIiBR3kpDBpKsuCA1uoC) | [Hinako Miura](https://open.spotify.com/artist/4OCKeb3ZY4bVq4tC9Jz2TM) | [ニンゲンカンケイ](https://open.spotify.com/album/3NAJfnQdl0qFW99U7EPo3m) | 3:27 | 2022-06-30 | 2022-07-06 |
@@ -1021,7 +1024,7 @@
 | [憂い桜](https://open.spotify.com/track/3i1w3l5dnk2sCxVsVHsjuw) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [憂い桜](https://open.spotify.com/album/1YfaIMNRslj7EHBsZw63cz) | 4:35 | 2023-03-02 |  |
 | [懐かしい未来](https://open.spotify.com/track/4OTQvDPW8XJjeEsoOZfshH) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [懐かしい未来](https://open.spotify.com/album/7o6kGhMgko5YrmQOK1L4op) | 4:33 | 2022-07-28 | 2023-01-26 |
 | [招き猫](https://open.spotify.com/track/4v3xQkDOwrl015xvrISVsA) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [招き猫 / エジソン](https://open.spotify.com/album/5R4QHlcpCdAX1CxV8tHWaa) | 3:09 | 2022-05-29 | 2022-07-29 |
-| [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc), [MELRAW](https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N) | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/album/4I1YDrFEUJO6l0Oy3jsgcR) | 4:45 | 2022-11-08 | 2023-03-01 |
+| [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc), [MELRAW](https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N) | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/album/4I1YDrFEUJO6l0Oy3jsgcR) | 4:45 | 2022-11-08 |  |
 | [摩天楼](https://open.spotify.com/track/6HrRqbT6lIFJa8grf7vYNO) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [neon](https://open.spotify.com/album/6MFq8UGpeyZW8dxFR6PNMp) | 3:36 | 2022-05-29 | 2022-07-29 |
 | [散る散る満ちる](https://open.spotify.com/track/3U4ntiketE4EpEP95p6uqO) | [伶](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf) | [散る散る満ちる](https://open.spotify.com/album/4NGeMsqrx0G9Dj3gTx4E5I) | 4:14 | 2022-05-29 |  |
 | [散歩道](https://open.spotify.com/track/4bEnMDDfHrfgnxb5ea8LBy) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [散歩道](https://open.spotify.com/album/1BRlmHDS6X3DxeAcVEXadr) | 4:20 | 2022-09-13 | 2022-09-21 |

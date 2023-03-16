@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 27928,
+  "num_followers": 27947,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMDE1Y2RiYzdhNTkxYThmNDBhNThiZDIyNGU2NmQxMzBl",
+  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMGFkNjFiMTMxMjVhMWY3YmIxM2M1YTBlYjc3MjllZWRm",
   "tracks": [
     {
       "added_at": "2022-12-20 17:52:39",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "My People Have Deep Roots",
-        "url": "https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d"
+        "name": "See-Through",
+        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
       },
       "artists": [
         {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
         }
       ],
-      "duration_ms": 240000,
-      "name": "My People Have Deep Roots",
-      "url": "https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX"
+      "duration_ms": 368000,
+      "name": "Woodland Encounter",
+      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -423,24 +423,24 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "See-Through",
-        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
+        "name": "My People Have Deep Roots",
+        "url": "https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d"
       },
       "artists": [
         {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 368000,
-      "name": "Woodland Encounter",
-      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
+      "duration_ms": 240000,
+      "name": "My People Have Deep Roots",
+      "url": "https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX"
     },
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 231624,
-      "name": "Pale Interior",
-      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
+      "duration_ms": 285866,
+      "name": "Being Her Shadow",
+      "url": "https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -523,8 +523,8 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "The Man Who Died in His Boat",
-        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 285866,
-      "name": "Being Her Shadow",
-      "url": "https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh"
+      "duration_ms": 231624,
+      "name": "Pale Interior",
+      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "A Mythology of Circles",
+        "url": "https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG"
+      },
+      "artists": [
+        {
+          "name": "Faten Kanaan",
+          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
+        }
+      ],
+      "duration_ms": 251887,
+      "name": "The North Wind",
+      "url": "https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "Night Journeys II",
         "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 121000,
       "name": "Withdrawal",
       "url": "https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "A Mythology of Circles",
-        "url": "https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG"
-      },
-      "artists": [
-        {
-          "name": "Faten Kanaan",
-          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
-        }
-      ],
-      "duration_ms": 251887,
-      "name": "The North Wind",
-      "url": "https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "Welfare / Practice",
+        "url": "https://open.spotify.com/album/2329qbh46SMwjMuprpj5eE"
+      },
+      "artists": [
+        {
+          "name": "Lucy Liyou",
+          "url": "https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1"
+        }
+      ],
+      "duration_ms": 231731,
+      "name": "How to build an automaton",
+      "url": "https://open.spotify.com/track/2tqrvJPhctmcZmJNZORJU0"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "You Make It Look so Easy (Reverbed by Malibu)",
         "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 239232,
       "name": "You Make It Look so Easy - Reverbed by Malibu",
       "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "Welfare / Practice",
-        "url": "https://open.spotify.com/album/2329qbh46SMwjMuprpj5eE"
-      },
-      "artists": [
-        {
-          "name": "Lucy Liyou",
-          "url": "https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1"
-        }
-      ],
-      "duration_ms": 231731,
-      "name": "How to build an automaton",
-      "url": "https://open.spotify.com/track/2tqrvJPhctmcZmJNZORJU0"
     },
     {
       "added_at": "2022-12-20 17:52:39",

@@ -1,12 +1,12 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 339651,
+  "num_followers": 339974,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5ODUwMiwwMDAwMDAwMDQ2YzJlMTczYTZhNWFlNzRiMjkwZWIyMmE5NzE0MWRj",
+  "snapshot_id": "MTY2NDg5ODUwMiwwMDAwMDAwMGE3OTA2OTBlYTM0N2U4MGFmYmU0YzkxMTViNWYyOTYy",
   "tracks": [
     {
       "added_at": "2022-04-15 03:00:00",
@@ -59,6 +59,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "Isaias Saad",
+        "url": "https://open.spotify.com/album/2zhh6n9B7raoERBUOxINYc"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 333902,
+      "name": "Ousado Amor",
+      "url": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "Preto no Branco (Ao Vivo)",
         "url": "https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 390386,
       "name": "Ningu\u00e9m Explica Deus (feat. Gabriela Rocha) - Ao Vivo",
       "url": "https://open.spotify.com/track/682XjN6L1Qhs5rXbuGSQKK"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Isaias Saad",
-        "url": "https://open.spotify.com/album/2zhh6n9B7raoERBUOxINYc"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 333902,
-      "name": "Ousado Amor",
-      "url": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Uma Nova Hist\u00f3ria (ao Vivo)",
-        "url": "https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 297680,
-      "name": "Grandes Coisas - Ao Vivo",
-      "url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "De Dentro Pra Fora",
         "url": "https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 307213,
       "name": "De Dentro Pra Fora",
       "url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Uma Nova Hist\u00f3ria (ao Vivo)",
+        "url": "https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 297680,
+      "name": "Grandes Coisas - Ao Vivo",
+      "url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Eu Escolho Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Leandro Borges ao Vivo: Parte 2",
         "url": "https://open.spotify.com/album/4ULGr8T3tW0EowY8zjwFHQ"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 243840,
       "name": "Deus e Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/5ia3xk0HqOkLrUE2JJSbxP"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Eu Escolho Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -731,26 +731,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Minha Vez",
-        "url": "https://open.spotify.com/album/4HmlhmVJO7Oam2I4LYzH9j"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        },
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        }
-      ],
-      "duration_ms": 231637,
-      "name": "Minha Vez",
-      "url": "https://open.spotify.com/track/7BXpln48PXgHVg6vaEZCvw"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
         "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
       },
@@ -771,6 +751,26 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "Minha Vez",
+        "url": "https://open.spotify.com/album/4HmlhmVJO7Oam2I4LYzH9j"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "duration_ms": 231637,
+      "name": "Minha Vez",
+      "url": "https://open.spotify.com/track/7BXpln48PXgHVg6vaEZCvw"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "Caminho no Deserto",
         "url": "https://open.spotify.com/album/54C7SYkNSCVdvih743HKDZ"
       },
@@ -783,26 +783,6 @@
       "duration_ms": 333533,
       "name": "Caminho no Deserto",
       "url": "https://open.spotify.com/track/6T6P23pVlhZdY2apyAtL1O"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Eterno Presente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 518880,
-      "name": "Ele Vem - Ao Vivo",
-      "url": "https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -823,22 +803,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Inexplic\u00e1vel Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu"
+        "name": "Eterno Presente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf"
       },
       "artists": [
         {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         },
         {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 337896,
-      "name": "Inexplic\u00e1vel Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm"
+      "duration_ms": 518880,
+      "name": "Ele Vem - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -871,6 +851,42 @@
       "duration_ms": 296147,
       "name": "Deus de Detalhes",
       "url": "https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Inexplic\u00e1vel Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 337896,
+      "name": "Inexplic\u00e1vel Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "\u00c1guas Purificadoras",
+        "url": "https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 342667,
+      "name": "\u00c1guas Purificadoras",
+      "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -911,54 +927,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "\u00c1guas Purificadoras",
-        "url": "https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX"
+        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
         }
       ],
-      "duration_ms": 342667,
-      "name": "\u00c1guas Purificadoras",
-      "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Toque no Altar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4z8nrTvi5M7jhEKmxhWhc5"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 324853,
-      "name": "Te Louvarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4AgLJxOkacISI93JYPNUtp"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Aba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        },
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 348364,
-      "name": "Aba - Ao Vivo",
-      "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
+      "duration_ms": 277680,
+      "name": "Mesmo Sem Entender - Ao Vivo",
+      "url": "https://open.spotify.com/track/65XnT7szSYXvWi2qnmzy7o"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -979,18 +959,38 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
+        "name": "EP Gabriela Rocha",
+        "url": "https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9"
       },
       "artists": [
         {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 277680,
-      "name": "Mesmo Sem Entender - Ao Vivo",
-      "url": "https://open.spotify.com/track/65XnT7szSYXvWi2qnmzy7o"
+      "duration_ms": 314746,
+      "name": "Atos 2",
+      "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Aba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        },
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 348364,
+      "name": "Aba - Ao Vivo",
+      "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 260620,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "Sou Casa (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Fx1gxZTg4x5mG90SY3l4H"
       },
@@ -1051,34 +1067,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+        "name": "Toque no Altar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4z8nrTvi5M7jhEKmxhWhc5"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
         }
       ],
-      "duration_ms": 260620,
-      "name": "Cicatrizes",
-      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "EP Gabriela Rocha",
-        "url": "https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 314746,
-      "name": "Atos 2",
-      "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
+      "duration_ms": 324853,
+      "name": "Te Louvarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4AgLJxOkacISI93JYPNUtp"
     },
     {
       "added_at": "2022-04-15 03:00:00",

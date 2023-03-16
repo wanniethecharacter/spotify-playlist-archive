@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. In cover, Generic Animal!
 
-336 songs - 18 hr 41 min
+337 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Blue Eyes](https://open.spotify.com/track/0wJ60VHGY9Ehsaz89nCMll) | [Kæry Ann](https://open.spotify.com/artist/5fyWgPHjsdMY9xcNciixy2) | [Blue Eyes](https://open.spotify.com/album/4HYIjRDw48b28XWDvN9i9O) | 3:52 | 2022-06-09 | 2022-06-17 |
 | [Bobby Eroina](https://open.spotify.com/track/5pjGcNO7ByZqoI95De96TG) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [Bobby Eroina](https://open.spotify.com/album/3oaqK6gNrIAFVIFNgn53x7) | 3:15 | 2022-12-01 | 2023-01-20 |
 | [BRUCIARE](https://open.spotify.com/track/50K3P7uydZGdK2naBJeohX) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [BRUCIARE](https://open.spotify.com/album/4b5KqaR7e6S1q7OfTbZiXV) | 3:18 | 2022-12-15 | 2023-02-17 |
+| [BUGIARDO](https://open.spotify.com/track/6laV1EFz9b6fbs0NJ4nc92) | [LE CARIE](https://open.spotify.com/artist/2A8udj5MEQyHsfVJjXmukj), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [TRE](https://open.spotify.com/album/6KgWi7Dq7eGztZzC9ExYmn) | 3:04 | 2023-03-15 |  |
 | [Buio](https://open.spotify.com/track/2lsKGcKe6FizRGPimPtBal) | [LOREN](https://open.spotify.com/artist/7i1dBxscRnTkZIVoo0F29h) | [Buio](https://open.spotify.com/album/3LwsCmNWnnlwQm5TAMFzaW) | 3:19 | 2022-07-28 | 2022-08-26 |
 | [Buio](https://open.spotify.com/track/6X1PE6tOCJa9mpXdcCIswg) | [LOREN](https://open.spotify.com/artist/7i1dBxscRnTkZIVoo0F29h) | [Buio](https://open.spotify.com/album/0SWsn6jGy0EQzBGGQysYc6) | 3:20 | 2022-07-07 | 2022-07-29 |
 | [Buttami Giù](https://open.spotify.com/track/0vAe99uZ3avcFFlLFwM7ow) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Buttami Giù](https://open.spotify.com/album/3aVWnMXssTGsU9ZVm6wgBv) | 2:54 | 2022-05-09 | 2022-07-22 |

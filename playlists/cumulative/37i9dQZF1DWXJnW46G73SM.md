@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: زاب ثروت، ساري هاني، هادز و امير عيد
 
-370 songs - 21 hr 36 min
+371 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [عارفه قيمتي](https://open.spotify.com/track/0k1pF4SI4m4xYHRw8M022J) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عارفه قيمتي](https://open.spotify.com/album/0csj4uie2SFphm4M2aPrJh) | 3:50 | 2022-08-09 | 2022-10-28 |
 | [عالقمة](https://open.spotify.com/track/5PIvugPx2PeDBmW1fHIRnO) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [عالقمة](https://open.spotify.com/album/3OzEZdkKYp10GSgVSiXsvQ) | 3:40 | 2022-11-10 | 2023-01-26 |
 | [عاملة ايه ؟؟](https://open.spotify.com/track/5KOrRI5QeDrUEhRdmeijtP) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [عاملة ايه ؟؟](https://open.spotify.com/album/3SGSJ7kYeinqlZMwY2uJu0) | 2:32 | 2023-02-09 |  |
-| [عذبني عذب](https://open.spotify.com/track/5DZYT2wKA64KDXins0gTIO) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عذبني عذب](https://open.spotify.com/album/6DQcUnGijb9dN7d0ehTmOv) | 4:16 | 2023-02-02 |  |
+| [عذبني عذب](https://open.spotify.com/track/5DZYT2wKA64KDXins0gTIO) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عذبني عذب](https://open.spotify.com/album/6DQcUnGijb9dN7d0ehTmOv) | 4:16 | 2023-02-02 | 2023-03-16 |
 | [عشان ارضيك](https://open.spotify.com/track/6XVMwb57cf90rjTPaWqd94) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عشان ارضيك](https://open.spotify.com/album/37OnRbBYRcEvKcJBOeZRpG) | 4:27 | 2023-01-24 | 2023-03-04 |
 | [على وضعنا](https://open.spotify.com/track/4qUXgGI7oKwfCWY8J8jhLU) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Mohamed Adaweya](https://open.spotify.com/artist/6wNAr6KAMa7NDqm9vSiv7T), [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [على وضعنا](https://open.spotify.com/album/5Yqwoth9VJ3epyKF0x2QQP) | 3:24 | 2023-01-01 | 2023-02-22 |
 | [فرح كل يوم](https://open.spotify.com/track/3RD1sMoeXCd10tfl65RZkG) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [فرح كل يوم](https://open.spotify.com/album/3Gz3djEvTF7O8MmLRjdCRl) | 3:56 | 2023-02-09 |  |
@@ -368,6 +368,7 @@
 | [وأنا بتفرج](https://open.spotify.com/track/1qa5n8liYLMC2egxR2NL8W) | [Mostafa Kamel](https://open.spotify.com/artist/7IVaCSHkbx4xPS2vZ2LSCl) | [وأنا بتفرج](https://open.spotify.com/album/3jc6omieErB61xPgF2FrrJ) | 4:06 | 2022-07-01 | 2022-09-24 |
 | [وجع القلب](https://open.spotify.com/track/0FZ5oLIe8RJYYheKPnmdu2) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [وجع القلب](https://open.spotify.com/album/5LM0TAyvuFOorgqktkRVEx) | 3:16 | 2022-11-17 | 2023-01-27 |
 | [ولعانه](https://open.spotify.com/track/2LXdEuFjon9uNIXbtoic6y) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6) | [ولعانه](https://open.spotify.com/album/31DEP0IgUPrWmnfDpjHrvT) | 3:52 | 2023-03-03 |  |
+| [يا بنتي](https://open.spotify.com/track/10QCLEQ4Lmo2vIB25DvU8L) | [Mai Selim](https://open.spotify.com/artist/19SEEQWYMtQ1spkni19CCu) | [يا بنتي](https://open.spotify.com/album/40YSCvlRc50vEqpQzqiIN8) | 3:15 | 2023-03-15 |  |
 | [يا جبروته](https://open.spotify.com/track/6P8X6tMFrkT9z2eF9xUg1c) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW) | [يا جبروته](https://open.spotify.com/album/4FR5PW6hq2YBfOYu5vvUi5) | 4:29 | 2023-02-07 |  |
 | [يا جميل](https://open.spotify.com/track/76WCLn1YVNLqCJ8y4pj5N7) | [Khaled Selim](https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr) | [Ya Gamil](https://open.spotify.com/album/73fVexTsnpSydtpESG6FEm) | 3:39 | 2022-09-01 | 2022-11-25 |
 | [يا رتها بتيجي](https://open.spotify.com/track/3Y5gHvhzaVhTpZDwMoBqOW) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [يا رتها بتيجي](https://open.spotify.com/album/6gf9GxUhHRlBAIREEYU6pr) | 4:07 | 2022-08-23 | 2022-11-18 |

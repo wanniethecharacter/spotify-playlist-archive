@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Miley Cyrus, Meghan Trainor, Calvin Harris & Ellie Goulding and more! Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,456 likes - 79 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,458 likes - 79 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

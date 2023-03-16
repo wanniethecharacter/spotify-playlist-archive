@@ -4,7 +4,7 @@
 
 > Stay relaxed with these easy, laid\-back songs.
 
-382 songs - 23 hr 13 min
+383 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Fly Away](https://open.spotify.com/track/3apMZR8xEsLHEA2KvIefC7) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 3:31 | 2020-05-13 | 2022-07-21 |
 | [Fly Right](https://open.spotify.com/track/1lpGZsdPKVTwAKJKn8ajRj) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Fly Right](https://open.spotify.com/album/4cFAgPwZ1nq7T7mBcfv1bJ) | 3:23 | 2021-10-13 | 2022-02-13 |
 | [Follow the Sun](https://open.spotify.com/track/3KS09EvUKTtPgTHbBBsLCw) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/1EKasDeDwsn6HyaAZaSa1e) | 4:15 | 2019-07-29\* | 2022-04-20 |
+| [Forget About Us](https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Forget About Us](https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i) | 3:16 | 2023-03-15 |  |
 | [Free](https://open.spotify.com/track/2BJy5YrRMhVCqaLNY5cbv2) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Donavon Frankenreiter](https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG) | 2:28 | 2019-07-29\* | 2022-04-21 |
 | [Fresh Roses](https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Fresh Roses](https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp) | 3:21 | 2020-05-14 |  |
 | [Furr](https://open.spotify.com/track/6n1zT8W5EaIYvWIT2DyROL) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2X5LfrkRtEik2jGgaDDRMO) | 4:07 | 2021-02-27 | 2022-04-19 |
@@ -301,7 +302,7 @@
 | [Strong Enough](https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 3:34 | 2022-10-14 | 2022-11-10 |
 | [Strong Enough](https://open.spotify.com/track/71UTcCow2CVqk8PkDsIrXq) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Strong Enough](https://open.spotify.com/album/2RjRuvEQAhpbpzF9r03S83) | 3:34 | 2020-06-17 | 2022-07-29 |
 | [Stubborn Love](https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 4:39 | 2019-07-29\* |  |
-| [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 | 2022-12-16 |  |
+| [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 | 2022-12-16 | 2023-03-16 |
 | [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 | 2021-09-26 | 2022-07-29 |
 | [Sunblind](https://open.spotify.com/track/308prODCCD0O660tIktbUi) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:13 | 2020-10-07 | 2022-04-21 |
 | [sunday](https://open.spotify.com/track/3BqHafmDs7SJVohRT0T6jU) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [sunday](https://open.spotify.com/album/6QDyUBlOnJ3lHlqOyFJJvO) | 3:13 | 2019-08-30 | 2022-07-29 |

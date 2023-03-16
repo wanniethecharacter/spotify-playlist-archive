@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 4702,
+  "num_followers": 4716,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDVkOWFiNDEwODRhZGU0NTM4NjU5NzY0OTgxNWZjMmQz",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDVhZjQ2ZTI1ZWFhN2I0MjEyZDc3OWRiZDU0NDIwM2E3",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "All Good",
-        "url": "https://open.spotify.com/album/1vVS1HB8nkk0jn2rcyfHdS"
-      },
-      "artists": [
-        {
-          "name": "Orange Kids Music",
-          "url": "https://open.spotify.com/artist/5Xszvj310qgS7Fwn91Wvhu"
-        }
-      ],
-      "duration_ms": 160130,
-      "name": "Fear Get Out of Here",
-      "url": "https://open.spotify.com/track/4eBEZDnYDOrCJqBLg6JobM"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Sonicpraise",
         "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 381600,
       "name": "Lord I Lift Your Name on High",
       "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/1vVS1HB8nkk0jn2rcyfHdS"
+      },
+      "artists": [
+        {
+          "name": "Orange Kids Music",
+          "url": "https://open.spotify.com/artist/5Xszvj310qgS7Fwn91Wvhu"
+        }
+      ],
+      "duration_ms": 160130,
+      "name": "Fear Get Out of Here",
+      "url": "https://open.spotify.com/track/4eBEZDnYDOrCJqBLg6JobM"
     },
     {
       "added_at": "2021-06-29 13:36:02",

@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-655 songs - 1 day 10 hr 45 min
+656 songs - 1 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [En sekund](https://open.spotify.com/track/3HteneaA9R5zRXVvZRoT0i) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp) | [En sekund \(Spotify Studio It's Hits Recording\)](https://open.spotify.com/album/0M5PVcCS8bM1fpZj7BEqCF) | 3:39 | 2021-12-16 | 2022-03-06 |
 | [ENSAM \(feat\. estraden\)](https://open.spotify.com/track/7EN8ZT8lGdXH58ulXwW94R) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [ENSAM \(feat\. estraden\)](https://open.spotify.com/album/3YA5YC5q8EbR4fiHlPiOQ5) | 3:09 | 2022-10-27 |  |
 | [Ensamvarg](https://open.spotify.com/track/4raZ0nYoiJ4mmeXlKgtNFI) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Ensamvarg](https://open.spotify.com/album/5SNsjFUqouam47L3HTtqXf) | 3:35 | 2022-06-16 | 2022-07-10 |
+| [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-09 |  |
 | [Evergreen](https://open.spotify.com/track/6g4CJrBuZNnLPyVhEqPd62) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Evergreen](https://open.spotify.com/album/30Bd04g8i3ROlxhZVAoJjo) | 3:54 | 2022-07-28 | 2022-09-20 |
 | [Every Little Heart](https://open.spotify.com/track/7rn9elPfuViahibddSfGdn) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Every Little Heart](https://open.spotify.com/album/5bXaN5YCK0SrPElei2Sfg2) | 3:09 | 2023-02-02 |  |
 | [Everyone](https://open.spotify.com/track/1ZSbMB7SpKvDC7gVc9bJVV) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Everyone](https://open.spotify.com/album/0kudkPZkyrIWJ7gRHa93xv) | 2:30 | 2022-07-21 | 2022-07-29 |
@@ -369,7 +370,7 @@
 | [MANO](https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MANO](https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1) | 2:48 | 2022-02-05 | 2022-07-21 |
 | [MANO](https://open.spotify.com/track/5SjWXrGT82DWuXxkMcC3DB) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:48 | 2022-07-28 | 2022-09-16 |
 | [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 | 2023-02-09 |  |
-| [Medborgare av ingenstans](https://open.spotify.com/track/742ArVhbQ8UXMMccqihUo1) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Medborgare av ingenstans](https://open.spotify.com/album/2EJZJmeMD9kSENd9slzqwg) | 3:33 | 2023-02-02 |  |
+| [Medborgare av ingenstans](https://open.spotify.com/track/742ArVhbQ8UXMMccqihUo1) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Medborgare av ingenstans](https://open.spotify.com/album/2EJZJmeMD9kSENd9slzqwg) | 3:33 | 2023-02-02 | 2023-03-16 |
 | [MER](https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [MER](https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi) | 2:33 | 2022-07-21 | 2022-11-17 |
 | [Metal Firecracker](https://open.spotify.com/track/39WpNQa08UH6Mi4oorneMB) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Too Late for Edelweiss](https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS) | 3:03 | 2022-09-29 | 2023-01-18 |
 | [Metal Firecracker](https://open.spotify.com/track/7tzifC2bbcUfLz1RoH2zeR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Metal Firecracker](https://open.spotify.com/album/3v8exQFqsuCKKi1nWHgJND) | 3:03 | 2022-08-11 | 2022-10-05 |

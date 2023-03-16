@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 72983,
+  "num_followers": 73091,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzIyMywwMDAwMDAwMDIzNTJkMGFmYWVmMTZmOTk4OWQyYzA0NjJlMjA5MDAy",
+  "snapshot_id": "MTY3Nzg2NzIyMywwMDAwMDAwMGZhM2EwYTllZDhiZmVlNjk3MzVlM2QyMDNjOGZlM2Nk",
   "tracks": [
     {
       "added_at": "2023-03-03 18:13:43",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-03-03 18:13:43",
       "album": {
+        "name": "I Hear Some Blues Downstairs",
+        "url": "https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "As The Years Go Passing By",
+      "url": "https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8"
+    },
+    {
+      "added_at": "2023-03-03 18:13:43",
+      "album": {
         "name": "The Essential Stevie Ray Vaughan And Double Trouble",
         "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
@@ -223,26 +239,6 @@
       "duration_ms": 297160,
       "name": "Lenny",
       "url": "https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8"
-    },
-    {
-      "added_at": "2023-03-03 18:13:43",
-      "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 241493,
-      "name": "Baby I Love You",
-      "url": "https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE"
     },
     {
       "added_at": "2023-03-03 18:13:43",
@@ -263,18 +259,22 @@
     {
       "added_at": "2023-03-03 18:13:43",
       "album": {
-        "name": "I Hear Some Blues Downstairs",
-        "url": "https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3"
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
       "artists": [
         {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 288426,
-      "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8"
+      "duration_ms": 241493,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE"
     },
     {
       "added_at": "2023-03-03 18:13:43",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-03-03 18:13:43",
       "album": {
-        "name": "In London",
-        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 313840,
-      "name": "Ghetto Woman",
-      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
-    },
-    {
-      "added_at": "2023-03-03 18:13:43",
-      "album": {
         "name": "Gee Baby Ain't I Good To You",
         "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
       },
@@ -391,34 +375,18 @@
     {
       "added_at": "2023-03-03 18:13:43",
       "album": {
-        "name": "My Blues Pathway",
-        "url": "https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz"
+        "name": "Heavy Load Blues",
+        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
       },
       "artists": [
         {
-          "name": "Kirk Fletcher",
-          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
         }
       ],
-      "duration_ms": 313253,
-      "name": "Struggle for Grace",
-      "url": "https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ"
-    },
-    {
-      "added_at": "2023-03-03 18:13:43",
-      "album": {
-        "name": "Power of the Blues",
-        "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 244346,
-      "name": "That's Why I Play the Blues",
-      "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
+      "duration_ms": 336333,
+      "name": "Ain\u2019t No Love In The Heart Of The City",
+      "url": "https://open.spotify.com/track/2h8nq99nTZQk9H4B63QjVn"
     },
     {
       "added_at": "2023-03-03 18:13:43",
@@ -439,18 +407,50 @@
     {
       "added_at": "2023-03-03 18:13:43",
       "album": {
-        "name": "Heavy Load Blues",
-        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
+        "name": "Power of the Blues",
+        "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
       },
       "artists": [
         {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
         }
       ],
-      "duration_ms": 336333,
-      "name": "Ain\u2019t No Love In The Heart Of The City",
-      "url": "https://open.spotify.com/track/2h8nq99nTZQk9H4B63QjVn"
+      "duration_ms": 244346,
+      "name": "That's Why I Play the Blues",
+      "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
+    },
+    {
+      "added_at": "2023-03-03 18:13:43",
+      "album": {
+        "name": "In London",
+        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 313840,
+      "name": "Ghetto Woman",
+      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
+    },
+    {
+      "added_at": "2023-03-03 18:13:43",
+      "album": {
+        "name": "My Blues Pathway",
+        "url": "https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz"
+      },
+      "artists": [
+        {
+          "name": "Kirk Fletcher",
+          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
+        }
+      ],
+      "duration_ms": 313253,
+      "name": "Struggle for Grace",
+      "url": "https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ"
     },
     {
       "added_at": "2023-03-03 18:13:43",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-03-03 18:13:43",
       "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+        "name": "Come to Find",
+        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
         }
       ],
-      "duration_ms": 364906,
-      "name": "You're Still My Woman",
-      "url": "https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX"
+      "duration_ms": 301733,
+      "name": "Mystery Woman",
+      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
     },
     {
       "added_at": "2023-03-03 18:13:43",
@@ -523,18 +523,34 @@
     {
       "added_at": "2023-03-03 18:13:43",
       "album": {
-        "name": "Come to Find",
-        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
       },
       "artists": [
         {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 301733,
-      "name": "Mystery Woman",
-      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
+      "duration_ms": 364906,
+      "name": "You're Still My Woman",
+      "url": "https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX"
+    },
+    {
+      "added_at": "2023-03-03 18:13:43",
+      "album": {
+        "name": "Then Play On (2013 Remaster; Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 275201,
+      "name": "Without You - 2013 Remaster",
+      "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
     },
     {
       "added_at": "2023-03-03 18:13:43",
@@ -575,22 +591,6 @@
       "duration_ms": 226840,
       "name": "RHYTHMS OF THE NIGHT",
       "url": "https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf"
-    },
-    {
-      "added_at": "2023-03-03 18:13:43",
-      "album": {
-        "name": "Then Play On (2013 Remaster; Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 275201,
-      "name": "Without You - 2013 Remaster",
-      "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
     },
     {
       "added_at": "2023-03-03 18:13:43",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-03-03 18:13:43",
       "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
-      },
-      "artists": [
-        {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
-        }
-      ],
-      "duration_ms": 332560,
-      "name": "Let Me Be",
-      "url": "https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ"
-    },
-    {
-      "added_at": "2023-03-03 18:13:43",
-      "album": {
         "name": "Woman Across The River",
         "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 270600,
       "name": "Help Me Through The Day",
       "url": "https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G"
+    },
+    {
+      "added_at": "2023-03-03 18:13:43",
+      "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        }
+      ],
+      "duration_ms": 332560,
+      "name": "Let Me Be",
+      "url": "https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ"
     },
     {
       "added_at": "2023-03-03 18:13:43",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-03-03 18:13:43",
       "album": {
-        "name": "Bad Mouthin'",
-        "url": "https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 223800,
-      "name": "Heartbreak Hotel",
-      "url": "https://open.spotify.com/track/5KbTAN3GgXJCvBySnOZrih"
-    },
-    {
-      "added_at": "2023-03-03 18:13:43",
-      "album": {
         "name": "That's My Story",
         "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 214000,
       "name": "Wednesday Evenin' Blues",
       "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
+    },
+    {
+      "added_at": "2023-03-03 18:13:43",
+      "album": {
+        "name": "Bad Mouthin'",
+        "url": "https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 223800,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/5KbTAN3GgXJCvBySnOZrih"
     },
     {
       "added_at": "2023-03-03 18:13:43",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-03-03 18:13:43",
       "album": {
-        "name": "Old Bones, New Fire",
-        "url": "https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg"
-      },
-      "artists": [
-        {
-          "name": "Miraculous Mule",
-          "url": "https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf"
-        }
-      ],
-      "duration_ms": 187524,
-      "name": "I Know I've Been Changed",
-      "url": "https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz"
-    },
-    {
-      "added_at": "2023-03-03 18:13:43",
-      "album": {
         "name": "In Europe",
         "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 330733,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/14DtWZA10VU7PZLxM5vO6g"
+    },
+    {
+      "added_at": "2023-03-03 18:13:43",
+      "album": {
+        "name": "Old Bones, New Fire",
+        "url": "https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg"
+      },
+      "artists": [
+        {
+          "name": "Miraculous Mule",
+          "url": "https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf"
+        }
+      ],
+      "duration_ms": 187524,
+      "name": "I Know I've Been Changed",
+      "url": "https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz"
     },
     {
       "added_at": "2023-03-03 18:13:43",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-03-03 18:13:43",
       "album": {
-        "name": "Packing My Bags",
-        "url": "https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb"
-      },
-      "artists": [
-        {
-          "name": "Errol Linton",
-          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
-        }
-      ],
-      "duration_ms": 294595,
-      "name": "Hoodoo Man",
-      "url": "https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic"
-    },
-    {
-      "added_at": "2023-03-03 18:13:43",
-      "album": {
         "name": "Big City Blues",
         "url": "https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 244000,
       "name": "Midnight Hour Blues",
       "url": "https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M"
+    },
+    {
+      "added_at": "2023-03-03 18:13:43",
+      "album": {
+        "name": "Packing My Bags",
+        "url": "https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb"
+      },
+      "artists": [
+        {
+          "name": "Errol Linton",
+          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
+        }
+      ],
+      "duration_ms": 294595,
+      "name": "Hoodoo Man",
+      "url": "https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic"
     },
     {
       "added_at": "2023-03-03 18:13:43",
@@ -1091,6 +1091,22 @@
       "duration_ms": 186000,
       "name": "That Evening Train - Remastered 2022",
       "url": "https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl"
+    },
+    {
+      "added_at": "2023-03-03 18:13:43",
+      "album": {
+        "name": "Connor Selby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
+      },
+      "artists": [
+        {
+          "name": "Connor Selby",
+          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "Love Letter To The Blues - Bonus Track",
+      "url": "https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J"
     },
     {
       "added_at": "2023-03-03 18:13:43",
@@ -1143,22 +1159,6 @@
       "duration_ms": 353053,
       "name": "Another Night to Cry",
       "url": "https://open.spotify.com/track/49awu7g0tzOjAL2dygxYbC"
-    },
-    {
-      "added_at": "2023-03-03 18:13:43",
-      "album": {
-        "name": "Connor Selby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
-      },
-      "artists": [
-        {
-          "name": "Connor Selby",
-          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "Love Letter To The Blues - Bonus Track",
-      "url": "https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J"
     },
     {
       "added_at": "2023-03-03 18:13:43",

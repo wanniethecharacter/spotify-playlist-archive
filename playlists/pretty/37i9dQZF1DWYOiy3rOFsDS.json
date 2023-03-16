@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Luis Miguel en portada.",
-  "num_followers": 516862,
+  "num_followers": 516934,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ5NTM5NSwwMDAwMDAwMDBiMzhkMzc4NWJhMGUyY2E2ZGUwZTAzMDMwZWQ3N2Vm",
+  "snapshot_id": "MTY3ODQ5NTM5NSwwMDAwMDAwMDUwMDViYzFhODZmZGYwMTIwNGYyMGU0NmI2MGJiNzZh",
   "tracks": [
     {
       "added_at": "2023-03-11 00:43:15",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-03-11 00:43:15",
       "album": {
-        "name": "Mar",
-        "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "Mar",
-      "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
-    },
-    {
-      "added_at": "2023-03-11 00:43:15",
-      "album": {
         "name": "COMO LA PIEL",
         "url": "https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 244631,
       "name": "Nunca vas a comprender",
       "url": "https://open.spotify.com/track/4dnlbvqglDqyuGYjg8rBfc"
+    },
+    {
+      "added_at": "2023-03-11 00:43:15",
+      "album": {
+        "name": "Mar",
+        "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "Mar",
+      "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
     },
     {
       "added_at": "2023-03-11 00:43:15",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-03-11 00:43:15",
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
-        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        },
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Contigo en la Distancia (with Carlos Cuevas)",
-      "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
-    },
-    {
-      "added_at": "2023-03-11 00:43:15",
-      "album": {
         "name": "Boleros Psicod\u00e9licos",
         "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
+    },
+    {
+      "added_at": "2023-03-11 00:43:15",
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
+        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Contigo en la Distancia (with Carlos Cuevas)",
+      "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
     },
     {
       "added_at": "2023-03-11 00:43:15",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2023-03-11 00:43:15",
       "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Aventurera (with Alex Ferreira)",
+      "url": "https://open.spotify.com/track/27NkLYbfxCu528Ux7C97Gr"
+    },
+    {
+      "added_at": "2023-03-11 00:43:15",
+      "album": {
         "name": "Me Vuelves Loca",
         "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 268146,
       "name": "Me Vuelves Loca",
       "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
-    },
-    {
-      "added_at": "2023-03-11 00:43:15",
-      "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Aventurera (with Alex Ferreira)",
-      "url": "https://open.spotify.com/track/27NkLYbfxCu528Ux7C97Gr"
     },
     {
       "added_at": "2023-03-11 00:43:15",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-03-11 00:43:15",
       "album": {
-        "name": "Caf\u00e9 Conmigo",
-        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 176238,
-      "name": "Caf\u00e9 Conmigo",
-      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
-    },
-    {
-      "added_at": "2023-03-11 00:43:15",
-      "album": {
         "name": "Cristian Castro en Primera Fila - D\u00eda 2",
         "url": "https://open.spotify.com/album/7uxJVchLqSBte3L6aYsDFi"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 257173,
       "name": "Por Amarte As\u00ed - Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq"
+    },
+    {
+      "added_at": "2023-03-11 00:43:15",
+      "album": {
+        "name": "Caf\u00e9 Conmigo",
+        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 176238,
+      "name": "Caf\u00e9 Conmigo",
+      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
     },
     {
       "added_at": "2023-03-11 00:43:15",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-03-11 00:43:15",
       "album": {
-        "name": "Keep\u00b4n Love",
-        "url": "https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc"
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
       "artists": [
         {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 197965,
-      "name": "La Mentira (Se Te Olvida)",
-      "url": "https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1"
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2023-03-11 00:43:15",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-03-11 00:43:15",
       "album": {
+        "name": "Keep\u00b4n Love",
+        "url": "https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 197965,
+      "name": "La Mentira (Se Te Olvida)",
+      "url": "https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1"
+    },
+    {
+      "added_at": "2023-03-11 00:43:15",
+      "album": {
         "name": "Maria Bonita",
         "url": "https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 232373,
       "name": "Mar\u00eda Bonita",
       "url": "https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP"
-    },
-    {
-      "added_at": "2023-03-11 00:43:15",
-      "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2023-03-11 00:43:15",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-03-11 00:43:15",
       "album": {
-        "name": "En las Noches",
-        "url": "https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 239412,
-      "name": "En las Noches",
-      "url": "https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6"
-    },
-    {
-      "added_at": "2023-03-11 00:43:15",
-      "album": {
         "name": "Manzanero presenta a Fabiola Finkmann",
         "url": "https://open.spotify.com/album/65smolEH2NZeq5XztHRbxP"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 222593,
       "name": "Punto de partida",
       "url": "https://open.spotify.com/track/77et43mdYaaaqBu1r4sEpE"
+    },
+    {
+      "added_at": "2023-03-11 00:43:15",
+      "album": {
+        "name": "En las Noches",
+        "url": "https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 239412,
+      "name": "En las Noches",
+      "url": "https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6"
     },
     {
       "added_at": "2023-03-11 00:43:15",

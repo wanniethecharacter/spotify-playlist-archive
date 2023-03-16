@@ -1,12 +1,12 @@
 {
   "description": "Dinner with Friends? Here's the perfect playlist.",
-  "num_followers": 1539725,
+  "num_followers": 1539864,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDJmMTc5OTYzODdkNDAzOTE5NTBmYjgxMGQ4ZjU2YTc1",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGRiODM5ZDBjZjVmOWIxNzc4NjZlODlmNjgxYjE4NDJh",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 215360,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Into The Light",
         "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 256173,
       "name": "The Lady In Red",
       "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 211763,
       "name": "Hold My Girl",
       "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Almost (Sweet Music)",
+      "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
         "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Almost (Sweet Music)",
-      "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Like Strangers Do",
         "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 286386,
       "name": "I Guess I Just Feel Like",
       "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 262544,
-      "name": "drivers license - Spotify Singles",
-      "url": "https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -787,6 +771,22 @@
       "duration_ms": 255143,
       "name": "Growing Sideways",
       "url": "https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 262544,
+      "name": "drivers license - Spotify Singles",
+      "url": "https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "The Rose",
-        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
+        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
+        "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
       },
       "artists": [
         {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 221373,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
+      "duration_ms": 266906,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
-        "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
         }
       ],
-      "duration_ms": 266906,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
+      "duration_ms": 221373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 232837,
-      "name": "when the party's over - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "The George Benson Collection",
         "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 222626,
       "name": "Give Me the Night",
       "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 232837,
+      "name": "when the party's over - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Hold Me While You Wait",
-        "url": "https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 205686,
-      "name": "Hold Me While You Wait",
-      "url": "https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Good Stuff",
         "url": "https://open.spotify.com/album/10iO7id4oEejkm4jqKwTXc"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Leisure",
-        "url": "https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO"
+        "name": "Hold Me While You Wait",
+        "url": "https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 205601,
-      "name": "Got It Bad",
-      "url": "https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT"
+      "duration_ms": 205686,
+      "name": "Hold Me While You Wait",
+      "url": "https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1267,6 +1251,22 @@
       "duration_ms": 221386,
       "name": "Say Love",
       "url": "https://open.spotify.com/track/49PVaqTTK6qn8Ku5BIR8Gt"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Leisure",
+        "url": "https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 205601,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
-      },
-      "artists": [
-        {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Just You and I",
         "url": "https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 174982,
       "name": "Just You and I",
       "url": "https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
     },
     {
       "added_at": "2023-03-10 05:00:00",

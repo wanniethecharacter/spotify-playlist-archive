@@ -1,12 +1,12 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. Julio Preciado en portada.",
-  "num_followers": 142874,
+  "num_followers": 143133,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyMjkxOSwwMDAwMDAwMGNmODk1MzY3MzA1MjU0ZDlhMzYwMTE0MjcyOWY4Mzlm",
+  "snapshot_id": "MTY3MjQyMjkxOSwwMDAwMDAwMGFkMGMzODM1YjM2NjJjOWE2NjhjMDI0OGNlNzQyMjQ2",
   "tracks": [
     {
       "added_at": "2022-12-30 17:55:19",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Fiesta Mexicana Con La Banda",
-        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "La ni\u00f1a fresa",
-      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
         "name": "Sangre de indio",
         "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
@@ -399,34 +383,18 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Banda Sinaloense los Recoditos",
-        "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
+        "name": "Fiesta Mexicana Con La Banda",
+        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
       },
       "artists": [
         {
-          "name": "Banda Sinaloense Los Recoditos",
-          "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 150999,
-      "name": "Cuando Nadie Te Quiera",
-      "url": "https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
-        "name": "La Otra Cara De La Moneda",
-        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 245693,
-      "name": "La Otra Cara De La Moneda",
-      "url": "https://open.spotify.com/track/6hwTRoFaQzmkbvh4tOoVpV"
+      "duration_ms": 160626,
+      "name": "La ni\u00f1a fresa",
+      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -447,18 +415,34 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 208352,
-      "name": "La Bota",
-      "url": "https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd"
+      "duration_ms": 245693,
+      "name": "La Otra Cara De La Moneda",
+      "url": "https://open.spotify.com/track/6hwTRoFaQzmkbvh4tOoVpV"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
+        "name": "Banda Sinaloense los Recoditos",
+        "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Los Recoditos",
+          "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
+        }
+      ],
+      "duration_ms": 150999,
+      "name": "Cuando Nadie Te Quiera",
+      "url": "https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -479,6 +463,22 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 208352,
+      "name": "La Bota",
+      "url": "https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
         "name": "De Mexico para el Mundo",
         "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Debajo De Los Laureles",
-        "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense Los Recoditos",
-          "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
-        }
-      ],
-      "duration_ms": 169958,
-      "name": "Ni El Dinero Ni Nada",
-      "url": "https://open.spotify.com/track/6uUKXjEQzx1YNuDSm38tzY"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
         "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 174106,
       "name": "La nena",
       "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
+        "name": "Debajo De Los Laureles",
+        "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Los Recoditos",
+          "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
+        }
+      ],
+      "duration_ms": 169958,
+      "name": "Ni El Dinero Ni Nada",
+      "url": "https://open.spotify.com/track/6uUKXjEQzx1YNuDSm38tzY"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "El Ultimo Trago",
-        "url": "https://open.spotify.com/album/5it3AmjHepFq7wf1jfCJxb"
+        "name": "Recuerdos y algo m\u00e1s",
+        "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
       },
       "artists": [
         {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Frio De Ausencia",
-      "url": "https://open.spotify.com/track/18pyEi1Lu4421p3WqRoevn"
+      "duration_ms": 208533,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
+        "name": "El Ultimo Trago",
+        "url": "https://open.spotify.com/album/5it3AmjHepFq7wf1jfCJxb"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Frio De Ausencia",
+      "url": "https://open.spotify.com/track/18pyEi1Lu4421p3WqRoevn"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
         "name": "Debajo De Los Laureles",
         "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 151742,
       "name": "Debajo De Los Laureles",
       "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
-        "name": "Recuerdos y algo m\u00e1s",
-        "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -767,8 +767,8 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Sentimientos",
-        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
+        "name": "La reina de las bandas Vol. II",
+        "url": "https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 169386,
-      "name": "Un indio quiere llorar",
-      "url": "https://open.spotify.com/track/2EiI77Zus1qAINPOxFTcyK"
+      "duration_ms": 167120,
+      "name": "Le\u00f1a de pirul",
+      "url": "https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -895,8 +895,8 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "La reina de las bandas Vol. II",
-        "url": "https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv"
+        "name": "Sentimientos",
+        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
       },
       "artists": [
         {
@@ -904,25 +904,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 167120,
-      "name": "Le\u00f1a de pirul",
-      "url": "https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/0n4f0enYF1I4Ct3z4blIIw"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 196940,
-      "name": "Mu\u00f1equita",
-      "url": "https://open.spotify.com/track/1G4SKVSuNdH2HTBlqZuSpn"
+      "duration_ms": 169386,
+      "name": "Un indio quiere llorar",
+      "url": "https://open.spotify.com/track/2EiI77Zus1qAINPOxFTcyK"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -943,6 +927,22 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/0n4f0enYF1I4Ct3z4blIIw"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 196940,
+      "name": "Mu\u00f1equita",
+      "url": "https://open.spotify.com/track/1G4SKVSuNdH2HTBlqZuSpn"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
         "name": "La Estrella de Los Bailes",
         "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
-      },
-      "artists": [
-        {
-          "name": "Banda R-15",
-          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Arreando La Mula",
-      "url": "https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
         "name": "Tesoros De Coleccion - -Victor Cordero A Traves De Sus Mas Bellas Canciones Y Sus Mejores Interpretes",
         "url": "https://open.spotify.com/album/2wx0qAtALUWK0IfGfpCJdJ"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 184693,
       "name": "Dos Hojas Sin Rumbo",
       "url": "https://open.spotify.com/track/2EjxmOw1V5MZ40S7rCiHeP"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+      },
+      "artists": [
+        {
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Arreando La Mula",
+      "url": "https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+      },
+      "artists": [
+        {
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "El Bigote",
+      "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
         "name": "Chiquitita",
         "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 209571,
       "name": "Vuelve Por Favor",
       "url": "https://open.spotify.com/track/4JOjEDadsxI1wZo60GX9pH"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
-      },
-      "artists": [
-        {
-          "name": "Banda R-15",
-          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "El Bigote",
-      "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Pa' Puros Compas!, Vol. 1: Por una Mujer Casada y Otras Rancheras",
-        "url": "https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Clave Privada",
-      "url": "https://open.spotify.com/track/1GzuoVH7AOB9lsU8uI7mT0"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
         "name": "Con la N\u00famero 1: 13 Rancheras y Cumbias",
         "url": "https://open.spotify.com/album/2wpgtaMNbDEOs6Woe0PUhk"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 177800,
       "name": "Fue Tan Poco Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/6qm7ozFRARBhjOfvhygUNn"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
+        "name": "Pa' Puros Compas!, Vol. 1: Por una Mujer Casada y Otras Rancheras",
+        "url": "https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Clave Privada",
+      "url": "https://open.spotify.com/track/1GzuoVH7AOB9lsU8uI7mT0"
     },
     {
       "added_at": "2022-12-30 17:55:19",

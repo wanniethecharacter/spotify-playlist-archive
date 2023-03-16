@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 
 > One in a million! TWICE! SET ME FREE is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,859 likes - 119 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,466 likes - 119 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

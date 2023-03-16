@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-481 songs - 1 day 5 hr 7 min
+483 songs - 1 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 | 2023-03-11 |  |
 | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/track/3dBUKgLv3oFrE9kYhboIXm) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/album/4urNMxGsd4R05fKiScM3s8) | 4:39 | 2021-12-16 | 2022-07-28 |
 | [Go Away](https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:27 | 2022-12-28 |  |
+| [Go Down River](https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 4:26 | 2023-02-10 |  |
 | [God Knows](https://open.spotify.com/track/0lrucYudLJu3JSdEiTlH7W) | [Dornik](https://open.spotify.com/artist/5LfhZDNwFPdXrVhlESBE7S) | [God Knows](https://open.spotify.com/album/2aGGPFNEdfhACrXIi5LScM) | 3:42 | 2022-03-30 | 2022-04-18 |
 | [Gold Past Life](https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:29 | 2023-02-10 | 2023-03-14 |
 | [Gold Past Life](https://open.spotify.com/track/1zkBRlk5YyMmQPNJOXaiyU) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4yyxKPCiD1A7kQkfidacBu) | 3:29 | 2022-02-23 | 2022-07-29 |
@@ -190,7 +191,7 @@
 | [I Root](https://open.spotify.com/track/0fjXpqcrqVYgDuMjjp9wYX) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Some Twist](https://open.spotify.com/album/3OEocibN8AMmDJ88cX8YHZ) | 2:18 | 2022-04-19 | 2022-07-29 |
 | [I Root](https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Some Twist](https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI) | 2:18 | 2022-09-26 |  |
 | [I Tried to Tell Myself](https://open.spotify.com/track/3gVz8BKr8qaGvBs0mnpGi1) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [The Hi Records Singles Collection](https://open.spotify.com/album/6gFbwjfZlO5NKSFD5THsSJ) | 3:15 | 2022-01-07 | 2022-07-29 |
-| [I Want To See The Bright Lights Tonight](https://open.spotify.com/track/3jd3nPQtwKS3HY6A8XpXx5) | [Richard & Linda Thompson](https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5) | [I Want To See The Bright Lights Tonight](https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt) | 3:09 | 2023-02-10 |  |
+| [I Want To See The Bright Lights Tonight](https://open.spotify.com/track/3jd3nPQtwKS3HY6A8XpXx5) | [Richard & Linda Thompson](https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5) | [I Want To See The Bright Lights Tonight](https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt) | 3:09 | 2023-02-10 | 2023-03-16 |
 | [I Won't Take You for Someonelse](https://open.spotify.com/track/6AhZ4fAacXwYs07H8AwRwU) | [Fantastic Mister Zguy](https://open.spotify.com/artist/0yBkxUvlgbxKXQmjQ252iu) | [Shrimp Fishery](https://open.spotify.com/album/6Z5hKMCnIlqMUOe60tTLxG) | 2:10 | 2022-03-30 | 2022-07-10 |
 | [I'm About Loving You](https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4) | [Al Hudson](https://open.spotify.com/artist/0t0DDUj3ZxuVZBhlOCmGVS), [Soul Partners](https://open.spotify.com/artist/1IaU8ZKYYiWy4WSDR9lFNY) | [Playlist: The ATCO Singles](https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG) | 2:54 | 2022-03-30 | 2022-04-21 |
 | [I've Never Found A Girl \(To Love Me Like You Do\)](https://open.spotify.com/track/6qUKvwwXss4ACF4bwXPujP) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [The Very Best Of Eddie Floyd](https://open.spotify.com/album/7oCLGE1xcu1vCRLPBJ0XTd) | 2:45 | 2022-03-30 | 2022-04-21 |
@@ -214,6 +215,7 @@
 | [It Runs Through Me](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 | 2022-11-11 | 2023-02-14 |
 | [It Takes a Lot](https://open.spotify.com/track/13AYQK0HEtYCMGo0yKebeD) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [It Takes a Lot](https://open.spotify.com/album/4lGwQlZzNfkdP1A3JUbENH) | 3:58 | 2021-12-16 | 2022-04-21 |
 | [It'll All Be Over](https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n) | [Supreme Jubilees](https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw) | [It'll All Be Over](https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA) | 3:05 | 2022-03-30 |  |
+| [It's Not Easy](https://open.spotify.com/track/1AJpZtYHY7MD21Tkcg9wlE) | [Ofege](https://open.spotify.com/artist/05LK9pT8ScfWNT0UbDsyqe) | [Try and Love](https://open.spotify.com/album/27xu9zZKCUm7mCoZlMkQpC) | 4:23 | 2023-02-10 |  |
 | [Juicy](https://open.spotify.com/track/3VEdzfUk5q70JDmBH0F0Wa) | [Emmett Kai](https://open.spotify.com/artist/3iFMfPvVhkPDaR6uCaBV9q) | [Midnight](https://open.spotify.com/album/04q89UZFZgoHq13VI8Etar) | 3:22 | 2021-12-16 | 2022-07-28 |
 | [Jumping Fences](https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [Dusk at Cubist Castle](https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh) | 1:52 | 2022-10-14 | 2023-03-06 |
 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX) | 2:30 | 2022-03-30 | 2022-04-20 |
@@ -235,7 +237,7 @@
 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 | 2022-02-23 | 2023-02-22 |
 | [Last Train \- Remastered Version](https://open.spotify.com/track/1zFkWtm4zmjB4O3qAokRBX) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [Southern Nights](https://open.spotify.com/album/4x1gp0YZRosiMcM0f1WGls) | 3:01 | 2022-03-30 | 2022-04-19 |
 | [Laurence](https://open.spotify.com/track/3kVukBQ3JeKNxcI89pi5xL) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Laurence](https://open.spotify.com/album/4q1YH9oZxmdYu34ucwxPP5) | 3:32 | 2022-05-12 | 2022-06-08 |
-| [Lazy Nina](https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q) | [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Pulse \(Expanded Edition\)](https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4) | 5:26 | 2022-03-30 |  |
+| [Lazy Nina](https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q) | [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Pulse \(Expanded Edition\)](https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4) | 5:26 | 2022-03-30 | 2023-03-16 |
 | [Lesson Learnt](https://open.spotify.com/track/0ibr9W60zg3lSVIClr2tWG) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life](https://open.spotify.com/album/5k55butHrtDJgyJjpezYsx) | 2:18 | 2022-03-30 | 2022-04-19 |
 | [Lesson Learnt](https://open.spotify.com/track/7hXtZAHYedEOK3pGdWD6iQ) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life \- EP](https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i) | 2:18 | 2022-07-26 | 2023-02-14 |
 | [Let 'Em In \- 2014 Remaster](https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:11 | 2022-03-30 |  |

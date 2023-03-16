@@ -1,12 +1,12 @@
 {
   "description": "The extraordinary women making great country music today. Cover: Ingrid Andress",
-  "num_followers": 445344,
+  "num_followers": 445514,
   "original_name": "Women of Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY5NjkwNCwwMDAwMDAwMDVjZjczN2RlZDgxYTQ3YTdmZGY5ZDYyNWQ3NWEyMjBj",
+  "snapshot_id": "MTY3NzY5NjkwNCwwMDAwMDAwMDQwMGNkYTg5MmY2ZjE4ZGE4ZDI1NjZlYzJmN2U3MTkw",
   "tracks": [
     {
       "added_at": "2023-03-01 18:55:04",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-03-01 18:55:04",
       "album": {
-        "name": "Everything She Ain\u2019t",
-        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Everything She Ain\u2019t",
-      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
-    },
-    {
-      "added_at": "2023-03-01 18:55:04",
-      "album": {
         "name": "Every Night Every Morning",
         "url": "https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 196890,
       "name": "Every Night Every Morning",
       "url": "https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz"
+    },
+    {
+      "added_at": "2023-03-01 18:55:04",
+      "album": {
+        "name": "Everything She Ain\u2019t",
+        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
     },
     {
       "added_at": "2023-03-01 18:55:04",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-03-01 18:55:04",
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+        "name": "I'm Not Pretty",
+        "url": "https://open.spotify.com/album/5MeMW5FhAjGpX9uoe3XAFW"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 178746,
-      "name": "Leave Me Again",
-      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
+      "duration_ms": 181066,
+      "name": "I'm Not Pretty",
+      "url": "https://open.spotify.com/track/7Fh8xCGwV1QHuhBPKu1i4m"
     },
     {
       "added_at": "2023-03-01 18:55:04",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-03-01 18:55:04",
       "album": {
-        "name": "I'm Not Pretty",
-        "url": "https://open.spotify.com/album/5MeMW5FhAjGpX9uoe3XAFW"
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 181066,
-      "name": "I'm Not Pretty",
-      "url": "https://open.spotify.com/track/7Fh8xCGwV1QHuhBPKu1i4m"
+      "duration_ms": 178746,
+      "name": "Leave Me Again",
+      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
     },
     {
       "added_at": "2023-03-01 18:55:04",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-03-01 18:55:04",
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
-    },
-    {
-      "added_at": "2023-03-01 18:55:04",
-      "album": {
         "name": "The Way It Feels",
         "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 188320,
       "name": "Die From A Broken Heart",
       "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
+    },
+    {
+      "added_at": "2023-03-01 18:55:04",
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
     },
     {
       "added_at": "2023-03-01 18:55:04",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-03-01 18:55:04",
       "album": {
-        "name": "Shoot Tequila",
-        "url": "https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q"
+        "name": "Watermelon Moonshine",
+        "url": "https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82"
       },
       "artists": [
         {
-          "name": "Tigirlily Gold",
-          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 193898,
-      "name": "Shoot Tequila",
-      "url": "https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw"
+      "duration_ms": 208853,
+      "name": "Watermelon Moonshine",
+      "url": "https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF"
     },
     {
       "added_at": "2023-03-01 18:55:04",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-03-01 18:55:04",
       "album": {
-        "name": "Watermelon Moonshine",
-        "url": "https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82"
+        "name": "Shoot Tequila",
+        "url": "https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Tigirlily Gold",
+          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
         }
       ],
-      "duration_ms": 208853,
-      "name": "Watermelon Moonshine",
-      "url": "https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF"
+      "duration_ms": 193898,
+      "name": "Shoot Tequila",
+      "url": "https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw"
     },
     {
       "added_at": "2023-03-01 18:55:04",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-03-01 18:55:04",
       "album": {
-        "name": "Waking Up Dreaming",
-        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 198802,
-      "name": "Waking Up Dreaming",
-      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
-    },
-    {
-      "added_at": "2023-03-01 18:55:04",
-      "album": {
         "name": "The Otherside",
         "url": "https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW"
       },
@@ -1079,22 +1063,6 @@
     {
       "added_at": "2023-03-01 18:55:04",
       "album": {
-        "name": "running back / dirt on \u2018em",
-        "url": "https://open.spotify.com/album/3FPofXNyRlSjcg4tRqFqjt"
-      },
-      "artists": [
-        {
-          "name": "Ashley Cooke",
-          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
-        }
-      ],
-      "duration_ms": 187018,
-      "name": "running back",
-      "url": "https://open.spotify.com/track/1EYSzrOCc5qrDAu06iu2Px"
-    },
-    {
-      "added_at": "2023-03-01 18:55:04",
-      "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
@@ -1107,6 +1075,38 @@
       "duration_ms": 180800,
       "name": "justified",
       "url": "https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W"
+    },
+    {
+      "added_at": "2023-03-01 18:55:04",
+      "album": {
+        "name": "Waking Up Dreaming",
+        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 198802,
+      "name": "Waking Up Dreaming",
+      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
+    },
+    {
+      "added_at": "2023-03-01 18:55:04",
+      "album": {
+        "name": "running back / dirt on \u2018em",
+        "url": "https://open.spotify.com/album/3FPofXNyRlSjcg4tRqFqjt"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "duration_ms": 187018,
+      "name": "running back",
+      "url": "https://open.spotify.com/track/1EYSzrOCc5qrDAu06iu2Px"
     },
     {
       "added_at": "2023-03-01 18:55:04",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-03-01 18:55:04",
       "album": {
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 187749,
+      "name": "Fix You Too",
+      "url": "https://open.spotify.com/track/5omVNcqZuJUeAP6WUOMaXA"
+    },
+    {
+      "added_at": "2023-03-01 18:55:04",
+      "album": {
         "name": "Already Drank That Beer",
         "url": "https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2023-03-01 18:55:04",
       "album": {
-        "name": "Pistol Made of Roses",
-        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 187749,
-      "name": "Fix You Too",
-      "url": "https://open.spotify.com/track/5omVNcqZuJUeAP6WUOMaXA"
-    },
-    {
-      "added_at": "2023-03-01 18:55:04",
-      "album": {
         "name": "Circles Around This Town",
         "url": "https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-03-01 18:55:04",
       "album": {
-        "name": "Greener Pasture",
-        "url": "https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 189442,
-      "name": "Greener Pasture",
-      "url": "https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE"
-    },
-    {
-      "added_at": "2023-03-01 18:55:04",
-      "album": {
         "name": "29",
         "url": "https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 164677,
       "name": "Next Girl",
       "url": "https://open.spotify.com/track/2nkKBegmLjGjCZ0cP9xA09"
+    },
+    {
+      "added_at": "2023-03-01 18:55:04",
+      "album": {
+        "name": "Greener Pasture",
+        "url": "https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 189442,
+      "name": "Greener Pasture",
+      "url": "https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE"
     },
     {
       "added_at": "2023-03-01 18:55:04",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-03-01 18:55:04",
       "album": {
+        "name": "If You Have To",
+        "url": "https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "If You Have To",
+      "url": "https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN"
+    },
+    {
+      "added_at": "2023-03-01 18:55:04",
+      "album": {
         "name": "Us",
         "url": "https://open.spotify.com/album/1XixtqL2k7mcV8slS7FpAb"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 212360,
       "name": "Drive You Out Of My Mind",
       "url": "https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD"
-    },
-    {
-      "added_at": "2023-03-01 18:55:04",
-      "album": {
-        "name": "If You Have To",
-        "url": "https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "If You Have To",
-      "url": "https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN"
     },
     {
       "added_at": "2023-03-01 18:55:04",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-03-01 18:55:04",
       "album": {
-        "name": "Should Have Known Better",
-        "url": "https://open.spotify.com/album/1rx8rmLDRuBdpDxf6Jfd3c"
+        "name": "Remember Her Name",
+        "url": "https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD"
       },
       "artists": [
         {
-          "name": "Jessie James Decker",
-          "url": "https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz"
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
         }
       ],
-      "duration_ms": 146520,
-      "name": "Should Have Known Better",
-      "url": "https://open.spotify.com/track/0zpaxKLpHw3zCmiYcvn9OV"
+      "duration_ms": 189720,
+      "name": "Lay It On Me",
+      "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
     },
     {
       "added_at": "2023-03-01 18:55:04",

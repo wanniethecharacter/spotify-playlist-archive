@@ -1,12 +1,12 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol. Cover: Juanes",
-  "num_followers": 4098206,
+  "num_followers": 4098405,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQxNzE2MSwwMDAwMDAwMGIxYThlMzA2NzVkN2I3OGRjMDBjOGUyZjAyNzkxNDc4",
+  "snapshot_id": "MTY3ODQxNzE2MSwwMDAwMDAwMGFkMDRiZjFlN2QwMmQ0NDFjYzQ4M2Y4MzRmNTdiZjVi",
   "tracks": [
     {
       "added_at": "2023-03-10 02:59:21",
@@ -219,8 +219,8 @@
     {
       "added_at": "2023-03-10 02:59:21",
       "album": {
-        "name": "Nada Personal (Remastered)",
-        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 229160,
-      "name": "Cuando Pase El Temblor - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD"
+      "duration_ms": 200800,
+      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU"
     },
     {
       "added_at": "2023-03-10 02:59:21",
@@ -331,8 +331,8 @@
     {
       "added_at": "2023-03-10 02:59:21",
       "album": {
-        "name": "Soda Stereo (Remastered)",
-        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+        "name": "Nada Personal (Remastered)",
+        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU"
+      "duration_ms": 229160,
+      "name": "Cuando Pase El Temblor - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD"
     },
     {
       "added_at": "2023-03-10 02:59:21",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-03-10 02:59:21",
       "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 236472,
+      "name": "Llueve Sobre La Ciudad",
+      "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
+    },
+    {
+      "added_at": "2023-03-10 02:59:21",
+      "album": {
         "name": "Naufragios",
         "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 161800,
       "name": "La Muralla Verde",
       "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
-    },
-    {
-      "added_at": "2023-03-10 02:59:21",
-      "album": {
-        "name": "Vida De Perros",
-        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 236472,
-      "name": "Llueve Sobre La Ciudad",
-      "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
     },
     {
       "added_at": "2023-03-10 02:59:21",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-03-10 02:59:21",
       "album": {
-        "name": "Rocanrol Bumerang",
-        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
-      },
-      "artists": [
-        {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Santa Lucia - Remastered 2005",
-      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
-    },
-    {
-      "added_at": "2023-03-10 02:59:21",
-      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 212000,
       "name": "La ingrata",
       "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
+    },
+    {
+      "added_at": "2023-03-10 02:59:21",
+      "album": {
+        "name": "Rocanrol Bumerang",
+        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
+      },
+      "artists": [
+        {
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Santa Lucia - Remastered 2005",
+      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
     },
     {
       "added_at": "2023-03-10 02:59:21",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-03-10 02:59:21",
       "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Para no olvidar",
+      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
+    },
+    {
+      "added_at": "2023-03-10 02:59:21",
+      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 274773,
       "name": "Corazon Espinado (feat. Mana)",
       "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
-    },
-    {
-      "added_at": "2023-03-10 02:59:21",
-      "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Para no olvidar",
-      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
     },
     {
       "added_at": "2023-03-10 02:59:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with the all the drops\. Cover: PNAU & Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,976 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,997 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

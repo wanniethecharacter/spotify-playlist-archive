@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kabzaa",
-  "num_followers": 47757,
+  "num_followers": 47801,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM3MDAyNSwwMDAwMDAwMDFjNTEzZTEwOTY3MGZmZjJjNmU5YjhjZDg4ZWE1YTFl",
+  "snapshot_id": "MTY3ODg3ODYzNywwMDAwMDAwMDMxMDUyYjI3ZmE5OTM3MTM4ZWY2Njk4MjJjMzY5N2Ew",
   "tracks": [
     {
       "added_at": "2023-02-06 07:20:37",
@@ -145,6 +145,34 @@
       "url": "https://open.spotify.com/track/6vYGRqzGvYN434ZQCSP26J"
     },
     {
+      "added_at": "2023-03-15 11:03:41",
+      "album": {
+        "name": "Dharaniya Dhamaniya (From \"Dhairyam Sarvatra Sadhanam\")",
+        "url": "https://open.spotify.com/album/6Dw8OQsAnghvX1wLNURemL"
+      },
+      "artists": [
+        {
+          "name": "Prithvi Baradwaj",
+          "url": "https://open.spotify.com/artist/1PN814D4HAnvoTkXTCVnzr"
+        },
+        {
+          "name": "Judah Sandhy",
+          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
+        },
+        {
+          "name": "AR Sai Ramm",
+          "url": "https://open.spotify.com/artist/523IVV2DwdjYJTlwL6GJCZ"
+        },
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        }
+      ],
+      "duration_ms": 286250,
+      "name": "Dharaniya Dhamaniya - From \"Dhairyam Sarvatra Sadhanam\"",
+      "url": "https://open.spotify.com/track/0znT06DbSQ4ApZbJjbhDr9"
+    },
+    {
       "added_at": "2023-03-08 08:10:21",
       "album": {
         "name": "Neenillade (From \"Mandala - The UFO Incident\")",
@@ -207,6 +235,26 @@
       "duration_ms": 234461,
       "name": "Naan Yaar - From \"Vasantha Kokila\"",
       "url": "https://open.spotify.com/track/0qja20q7z8WAyvW9S3PJKf"
+    },
+    {
+      "added_at": "2023-03-15 11:03:41",
+      "album": {
+        "name": "Mariguddada Gaddadharigalu (From \"Mariguddada Gaddadharigalu\")",
+        "url": "https://open.spotify.com/album/2mpJ5ccNUU848tIkVyCjJY"
+      },
+      "artists": [
+        {
+          "name": "Indra Km",
+          "url": "https://open.spotify.com/artist/01DBelbbp9JVhIr4YBxbEu"
+        },
+        {
+          "name": "R Chandrakanth",
+          "url": "https://open.spotify.com/artist/3ioy3oViHXpjwSNOGP037L"
+        }
+      ],
+      "duration_ms": 228843,
+      "name": "Mariguddada Gaddadharigalu - From \"Mariguddada Gaddadharigalu\"",
+      "url": "https://open.spotify.com/track/4ZtOpOdmn9uRzqMIrpAUq6"
     },
     {
       "added_at": "2023-02-27 10:15:02",
@@ -405,20 +453,20 @@
       "url": "https://open.spotify.com/track/4sMuno4hnbfTB8s556K7YO"
     },
     {
-      "added_at": "2023-01-18 14:00:04",
+      "added_at": "2023-03-15 11:10:37",
       "album": {
-        "name": "Ghost Theme Music (from \"Ghost\")",
-        "url": "https://open.spotify.com/album/1pvxjUnPFPocXDuxlbS5G3"
+        "name": "Nee Iralu Nannali (from \"Samarthya\")",
+        "url": "https://open.spotify.com/album/2xkBK7AGf6wiZP5VckIUGl"
       },
       "artists": [
         {
-          "name": "Nishan Rai",
-          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
+          "name": "Arun Andrew",
+          "url": "https://open.spotify.com/artist/3NMg8F6trpYFOtvlt6FTVM"
         }
       ],
-      "duration_ms": 52659,
-      "name": "Ghost Theme Music - from \"Ghost\"",
-      "url": "https://open.spotify.com/track/1WOiJdI02yDA33t5gjHwa0"
+      "duration_ms": 230024,
+      "name": "Nee Iralu Nannali (from \"Samarthya\")",
+      "url": "https://open.spotify.com/track/5AE0naO0fPaJwwuTbuXXs4"
     },
     {
       "added_at": "2023-03-06 09:26:53",
@@ -523,6 +571,22 @@
       "duration_ms": 155368,
       "name": "Oh Olave Olave",
       "url": "https://open.spotify.com/track/5pvsocI9f8Hg6ooQq5XBpb"
+    },
+    {
+      "added_at": "2023-03-15 11:10:37",
+      "album": {
+        "name": "Baanadariyalli Hode Yelli (from \"Baanadariyalli\")",
+        "url": "https://open.spotify.com/album/4O8tIcK8FTWjGraD0q6KAB"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        }
+      ],
+      "duration_ms": 187785,
+      "name": "Baanadariyalli Hode Yelli (from \"Baanadariyalli\")",
+      "url": "https://open.spotify.com/track/5mmgqY4iWniZeCKL0vkiK8"
     },
     {
       "added_at": "2023-03-03 12:05:32",
@@ -1365,22 +1429,6 @@
       "url": "https://open.spotify.com/track/3egApxeqGFVGpHCixRYrxv"
     },
     {
-      "added_at": "2023-01-13 11:29:59",
-      "album": {
-        "name": "Raajahyoga",
-        "url": "https://open.spotify.com/album/6EtHSJYHUSPuYAfDYnb42v"
-      },
-      "artists": [
-        {
-          "name": "Saisharan",
-          "url": "https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3"
-        }
-      ],
-      "duration_ms": 186459,
-      "name": "Let's Go Party",
-      "url": "https://open.spotify.com/track/0Ey1yjsDbvFgiq7yAHRJDe"
-    },
-    {
       "added_at": "2022-12-02 09:04:03",
       "album": {
         "name": "Gillakko Shiva (From \"Vedha\")",
@@ -1419,22 +1467,6 @@
       "duration_ms": 210124,
       "name": "Bannave Maaside (From \"10\")",
       "url": "https://open.spotify.com/track/2XQsAnwCfG3k0zMhP5C4L5"
-    },
-    {
-      "added_at": "2023-01-17 04:08:21",
-      "album": {
-        "name": "Kamanabillu (From \"Long Drive\")",
-        "url": "https://open.spotify.com/album/7FeVTAmRTCi7jWCNwmkbNV"
-      },
-      "artists": [
-        {
-          "name": "Vikas Vasishta",
-          "url": "https://open.spotify.com/artist/6IcmFfiYYoL5jTHo5xplm4"
-        }
-      ],
-      "duration_ms": 129412,
-      "name": "Kamanabillu (From \"Long Drive\")",
-      "url": "https://open.spotify.com/track/1Ibw2giLt6qnqPdqqehqob"
     },
     {
       "added_at": "2023-01-17 04:08:21",
@@ -1565,46 +1597,6 @@
       "url": "https://open.spotify.com/track/2T6GBklMrVGGMlvBWHzZ1V"
     },
     {
-      "added_at": "2023-01-09 08:14:13",
-      "album": {
-        "name": "Hrudayavantha Vishnu - Single",
-        "url": "https://open.spotify.com/album/7fBmoURd3UTXsN8Hr9x0c6"
-      },
-      "artists": [
-        {
-          "name": "Arfaz Ullal",
-          "url": "https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq"
-        }
-      ],
-      "duration_ms": 271256,
-      "name": "Hrudayavantha Vishnu",
-      "url": "https://open.spotify.com/track/6XA9ZeBY87SHUko11u7b1c"
-    },
-    {
-      "added_at": "2023-01-13 11:29:59",
-      "album": {
-        "name": "10 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2GGHDy8zAIDTCKae5bPHvd"
-      },
-      "artists": [
-        {
-          "name": "Gagan Baderiya",
-          "url": "https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq"
-        },
-        {
-          "name": "Aniruddha Sastry",
-          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
-        },
-        {
-          "name": "MC Suhas",
-          "url": "https://open.spotify.com/artist/6KMiE3MneVK6CKuUadhWgT"
-        }
-      ],
-      "duration_ms": 134402,
-      "name": "Yaare Iddharu Kadhanali",
-      "url": "https://open.spotify.com/track/120NQE8mXG3zwlQJa59mNi"
-    },
-    {
       "added_at": "2023-01-12 05:15:42",
       "album": {
         "name": "Modala Male (Title Track) [From \"Modala Male\"]",
@@ -1731,22 +1723,6 @@
       "duration_ms": 229365,
       "name": "Jai Election Dhan Dhana Dhan",
       "url": "https://open.spotify.com/track/2KMbDxBUmNclFEnBbSHodQ"
-    },
-    {
-      "added_at": "2023-01-12 05:15:42",
-      "album": {
-        "name": "KTM (Teaser Song) [From \"KTM\"]",
-        "url": "https://open.spotify.com/album/3PGMwOnECFQaeds3CVZOH7"
-      },
-      "artists": [
-        {
-          "name": "Chethan Rao",
-          "url": "https://open.spotify.com/artist/3YgleCCvfoIo8ItIcZqXLt"
-        }
-      ],
-      "duration_ms": 85333,
-      "name": "KTM (Teaser Song) - From \"KTM\"",
-      "url": "https://open.spotify.com/track/5a24SEoGoRlgECb8doSbrx"
     },
     {
       "added_at": "2023-01-13 11:29:59",
@@ -1993,26 +1969,6 @@
       "url": "https://open.spotify.com/track/5JOg1vfzLwNsattTDq9QbO"
     },
     {
-      "added_at": "2022-11-07 06:39:00",
-      "album": {
-        "name": "The Family Ballad (From \"Vikrant Rona\") [KANNADA]",
-        "url": "https://open.spotify.com/album/5CTNYY0avYZ9QGsjkuA0EA"
-      },
-      "artists": [
-        {
-          "name": "Harshika Devanath",
-          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
-        },
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 84138,
-      "name": "The Family Ballad (From \"Vikrant Rona\") [KANNADA]",
-      "url": "https://open.spotify.com/track/36abs6RCtMszC7MjJWZDQz"
-    },
-    {
       "added_at": "2022-11-23 09:49:27",
       "album": {
         "name": "Baare Baare Rajakumari (From \"Raja Rani Roarer Rocket\")",
@@ -2075,26 +2031,6 @@
       "duration_ms": 182636,
       "name": "Rama Rama Rama",
       "url": "https://open.spotify.com/track/0aLovS5m8YwIdgNfruWPjO"
-    },
-    {
-      "added_at": "2022-11-11 07:07:49",
-      "album": {
-        "name": "Gandhada Gudi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5OeCQXMbHXjMDBv08ODXu7"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
-        {
-          "name": "Naveen Sajju",
-          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
-        }
-      ],
-      "duration_ms": 109001,
-      "name": "Alemaari Jothe",
-      "url": "https://open.spotify.com/track/6OKq2FwQRp3ZjLh3yaRySS"
     },
     {
       "added_at": "2022-10-12 07:23:01",

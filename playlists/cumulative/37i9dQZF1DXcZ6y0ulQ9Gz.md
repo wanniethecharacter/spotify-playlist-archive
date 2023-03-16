@@ -4,7 +4,7 @@
 
 > A eclectic mix of past & current Indie favourites\. Cover: Caroline Polachek
 
-672 songs - 1 day 16 hr 57 min
+673 songs - 1 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Dollar](https://open.spotify.com/track/6dXVbkS1t7jQs3maRSM9pW) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Dollar](https://open.spotify.com/album/7fE9LJLsMa5TUZu5lQJwcq) | 3:28 | 2021-01-15 | 2022-07-28 |
 | [Doors To Kick](https://open.spotify.com/track/304031hRDCZEAIItiKxSol) | [Bobby Freemont](https://open.spotify.com/artist/52vZqisxn7wkDk6sZe8jkD), [BOYFRN](https://open.spotify.com/artist/3u0vmi7mLqKIUgnyL6OND2) | [Doors To Kick](https://open.spotify.com/album/7cBQcCvIUy9MP78nK77xDp) | 3:26 | 2021-08-16 | 2022-04-14 |
 | [Down](https://open.spotify.com/track/3JS3K4Kw0xnhDRsPG9kUph) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:26 | 2021-08-23 | 2022-07-28 |
-| [down bad](https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:11 | 2022-11-11 |  |
+| [down bad](https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:11 | 2022-11-11 | 2023-03-16 |
 | [Echo Park](https://open.spotify.com/track/7v00rNsndKTYUoeA4E2mob) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Echo Park](https://open.spotify.com/album/2XTrGSLr2bgbmF5gM7ArlQ) | 3:58 | 2021-01-16 | 2022-04-14 |
 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 | 2020-10-29\* | 2022-08-24 |
 | [enjoy it while u can!](https://open.spotify.com/track/2r8ByPRBEiCODQjYaMotae) | [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy) | [enjoy it while u can!](https://open.spotify.com/album/6gBhlrxXGFGbmnuy5v8pGF) | 2:24 | 2020-12-07 | 2022-04-15 |
@@ -604,6 +604,7 @@
 | [The Shining But Tropical](https://open.spotify.com/track/6ZaZJDLExM18Wf2Iw3Ma3F) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [The Shining But Tropical](https://open.spotify.com/album/6chP7Z1HdCAt57YdX5DO36) | 4:51 | 2020-12-07 | 2022-07-29 |
 | [The Stars](https://open.spotify.com/track/0aM8ZAdYi0EvLindiaWXr3) | [Taylor Knox](https://open.spotify.com/artist/1JXMTLUMwPvnYnQhcQRLEt) | [Love](https://open.spotify.com/album/0t7N32kENrbvmlzT48hRw7) | 3:13 | 2021-01-30 | 2022-04-14 |
 | [The Suburbs](https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:15 | 2020-10-29\* | 2022-08-24 |
+| [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 | 2023-03-03 |  |
 | [The Walls Are Way Too Thin](https://open.spotify.com/track/29CDTN3TfjGr4f1yRQqAtV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/4ZxaSVlcGYPFEqnP5KeqmE) | 3:40 | 2021-12-11 | 2022-07-29 |
 | [Then Again](https://open.spotify.com/track/2nR3el00NAnEn3YG2PwczS) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Then Again](https://open.spotify.com/album/0Kq2MB6tSXtCmum8obNkSK) | 3:19 | 2021-01-15 | 2022-07-29 |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2022-05-03 | 2022-08-24 |

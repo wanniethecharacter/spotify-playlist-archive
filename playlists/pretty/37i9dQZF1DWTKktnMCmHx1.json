@@ -1,12 +1,12 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 91152,
+  "num_followers": 91155,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE0MjI4MywwMDAwMDAwMDliMTk2M2U2NTQxM2MyYjY1ZWQzNjRhOWE2ZTM4NzI3",
+  "snapshot_id": "MTY3NDE0MjI4MywwMDAwMDAwMGYxOTE5ZTk3MWRmZTlhNTRkMGE4NGQ5M2JkYzZkMjFl",
   "tracks": [
     {
       "added_at": "2023-01-19 15:31:23",
@@ -383,26 +383,22 @@
     {
       "added_at": "2023-01-19 15:31:23",
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
       },
       "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
         {
           "name": "Future",
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 136266,
-      "name": "pushin P (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
     },
     {
       "added_at": "2023-01-19 15:31:23",
@@ -423,22 +419,26 @@
     {
       "added_at": "2023-01-19 15:31:23",
       "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
       "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
         {
           "name": "Future",
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+      "duration_ms": 136266,
+      "name": "pushin P (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
     },
     {
       "added_at": "2023-01-19 15:31:23",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2023-01-19 15:31:23",
       "album": {
-        "name": "c@ra++ere s?ec!@le",
-        "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        }
-      ],
-      "duration_ms": 212920,
-      "name": "c!ao (feat. Rondodasosa)",
-      "url": "https://open.spotify.com/track/78xAYXMtvQkDvlqJA3fKu6"
-    },
-    {
-      "added_at": "2023-01-19 15:31:23",
-      "album": {
         "name": "Body (Remix) [feat. Capo Plaza & Rondodasosa]",
         "url": "https://open.spotify.com/album/6DiEWYk79JFILIgUd6SrTA"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 213307,
       "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
       "url": "https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892"
+    },
+    {
+      "added_at": "2023-01-19 15:31:23",
+      "album": {
+        "name": "c@ra++ere s?ec!@le",
+        "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "duration_ms": 212920,
+      "name": "c!ao (feat. Rondodasosa)",
+      "url": "https://open.spotify.com/track/78xAYXMtvQkDvlqJA3fKu6"
     },
     {
       "added_at": "2023-01-19 15:31:23",
@@ -1539,18 +1539,22 @@
     {
       "added_at": "2023-01-19 15:31:23",
       "album": {
-        "name": "Soldi Puliti",
-        "url": "https://open.spotify.com/album/0EGdVToK2bi2arUQ1PWtY4"
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
       },
       "artists": [
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 159840,
-      "name": "Soldi Puliti",
-      "url": "https://open.spotify.com/track/02OFJLIZuX5l0IKApndnkh"
+      "duration_ms": 193554,
+      "name": "Baby (with J Balvin)",
+      "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
     },
     {
       "added_at": "2023-01-19 15:31:23",

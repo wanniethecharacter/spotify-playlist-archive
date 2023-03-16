@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Aya Nakamura & Myke Towers",
-  "num_followers": 105015,
+  "num_followers": 105060,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDUyOSwwMDAwMDAwMGY2ZWJkYzI0MTg4ZjlmMjQxMTBlYTgzNzVhNmY0MDc2",
+  "snapshot_id": "MTY3NzgzMDUyOSwwMDAwMDAwMDNiYmUyZWY5ZWUwMzQ2MDQyY2I3YjNjNjAxNzYyODA2",
   "tracks": [
     {
       "added_at": "2023-02-10 16:08:22",
@@ -641,6 +641,26 @@
       "url": "https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX"
     },
     {
+      "added_at": "2023-03-16 01:18:48",
+      "album": {
+        "name": "Guava Rose",
+        "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Eva Ruiz",
+          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
+        }
+      ],
+      "duration_ms": 192108,
+      "name": "Guava Rose",
+      "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
+    },
+    {
       "added_at": "2023-02-10 16:08:22",
       "album": {
         "name": "Baila Kumi",
@@ -659,26 +679,6 @@
       "duration_ms": 206808,
       "name": "Baila Kumi",
       "url": "https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU"
-    },
-    {
-      "added_at": "2023-03-15 01:08:00",
-      "album": {
-        "name": "Guava Rose",
-        "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Eva Ruiz",
-          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
-        }
-      ],
-      "duration_ms": 192108,
-      "name": "Guava Rose",
-      "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
     },
     {
       "added_at": "2023-02-10 16:08:22",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
-        "name": "Flavors 2",
-        "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        },
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
-    },
-    {
-      "added_at": "2023-02-10 16:08:22",
-      "album": {
         "name": "Next To You Part II (feat. Rvssian & Davido)",
         "url": "https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 179257,
       "name": "Next To You Part II (feat. Rvssian & Davido)",
       "url": "https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS"
+    },
+    {
+      "added_at": "2023-02-10 16:08:22",
+      "album": {
+        "name": "Flavors 2",
+        "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        },
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
     },
     {
       "added_at": "2023-02-10 16:08:22",

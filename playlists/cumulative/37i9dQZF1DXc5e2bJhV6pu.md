@@ -4,7 +4,7 @@
 
 > Get your day off to a cracking start!
 
-1,426 songs - 3 day 9 hr 2 min
+1,427 songs - 3 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Brown Sugar](https://open.spotify.com/track/4FRi3xzPErSHYi15NHWOvd) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Brown Sugar](https://open.spotify.com/album/3kUL7fjrY4ljITlHzgqFg8) | 3:36 | 2021-05-13 | 2022-04-07 |
 | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu) | 2:40 | 2019-08-05 | 2022-04-14 |
 | [Budapest](https://open.spotify.com/track/7GJClzimvMSghjcrKxuf1M) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage](https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia) | 3:20 | 2019-07-29\* | 2022-04-10 |
-| [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 | 2022-10-27 |  |
+| [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 | 2022-10-27 | 2023-03-16 |
 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 | 2021-10-11 | 2021-10-12 |
 | [Build Me Up Buttercup](https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 2:58 | 2021-03-22 | 2022-04-08 |
 | [Bulletproof](https://open.spotify.com/track/1r1eut6GuXFFDbX0vd9NPv) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Bulletproof](https://open.spotify.com/album/2IxLT8E2DZuBA0XcZ5yf9Q) | 3:25 | 2019-08-26 | 2019-08-27 |
@@ -852,7 +852,7 @@
 | [Never Enough](https://open.spotify.com/track/0irgkspMpvzCCg9LSevt9i) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Six60](https://open.spotify.com/album/7MenxXNX8NaBCcQtu40ccR) | 2:51 | 2021-03-16 | 2022-04-20 |
 | [Never Go Back](https://open.spotify.com/track/2QrXzOqLCVDRZHkToA0tSR) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Never Go Back](https://open.spotify.com/album/5EqITahBSjWcU71mbhFPEf) | 2:55 | 2019-08-05 | 2021-05-18 |
 | [Never Gonna Be The Same](https://open.spotify.com/track/0G3VfgzZQv8c6AyyIp1gxd) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Never Gonna Be The Same](https://open.spotify.com/album/5UQjhMLOQa4kR530D1nbhC) | 3:15 | 2021-03-08 | 2022-04-20 |
-| [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2022-12-18 |  |
+| [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2022-12-18 | 2023-03-16 |
 | [Never Let You Go](https://open.spotify.com/track/6H15f8zwZSiFE1iseSvkLT) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Never Let You Go](https://open.spotify.com/album/29aFzMPjs687GKSJCPLfNI) | 3:47 | 2021-03-22 | 2022-04-19 |
 | [Never Let You Go \- 2008 Remaster](https://open.spotify.com/track/1sxUaLi0G2vB7dl4ogtCxH) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Blue](https://open.spotify.com/album/7z6LqzGLGd6tnWvsH9iojB) | 3:57 | 2019-07-30 | 2022-04-05 |
 | [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 | 2019-08-08 | 2022-04-05 |
@@ -1205,6 +1205,7 @@
 | [Talk](https://open.spotify.com/track/0rTV5WefWd1J3OwIheTzxM) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Talk](https://open.spotify.com/album/58kvvQvx6OtLqEDhqYSzyM) | 3:17 | 2019-08-05 | 2022-04-04 |
 | [Talk About Love \(feat\. Young Thug\)](https://open.spotify.com/track/1qA9TnEJ2sUub9QkN9K3Mv) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Talk About Love \(feat\. Young Thug\)](https://open.spotify.com/album/29K1jMNI9pOIzCG3rtzm0p) | 3:19 | 2021-01-08 | 2022-04-15 |
 | [Talk It Out](https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6) | 3:10 | 2019-08-05 | 2022-04-04 |
+| [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-03-08 |  |
 | [Tears Dry On Their Own](https://open.spotify.com/track/3jP3coGrROR7kjiDlpoRph) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc) | 3:05 | 2019-08-01 | 2022-04-02 |
 | [Tease Me](https://open.spotify.com/track/1yuQpTsbJ03VFyUKb3z7Ai) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [True 90s \(3 CD Set\)](https://open.spotify.com/album/5odU0U2oqgd75UJKX6XXEc) | 3:43 | 2019-07-31 | 2021-05-21 |
 | [Teenage Crime \- Radio Edit](https://open.spotify.com/track/1E2tRwT1GIHk1a8oYQMfjC) | [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh) | [Teenage Crime](https://open.spotify.com/album/72XSI1AWTvZbMrzCRvbtUK) | 2:50 | 2019-07-31 | 2022-04-14 |
@@ -1351,7 +1352,7 @@
 | [Way Less Sad](https://open.spotify.com/track/3cwaaelWghY5W6Lsj1K8ss) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Way Less Sad](https://open.spotify.com/album/6VgefCQHHsA3y8xP9R4r5S) | 3:26 | 2021-03-17 | 2022-04-15 |
 | [Way Too High](https://open.spotify.com/track/5l6NORdsKfgnrS9r2GLtTC) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c) | [Way Too High](https://open.spotify.com/album/2GnMOT5CaZo1VelADDX6UB) | 3:02 | 2021-05-13 | 2022-04-15 |
 | [We Built This City](https://open.spotify.com/track/7aHRctaQ7vjxVTVmY8OhAA) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0I0eWeNKn0flG4FryxVjGx) | 4:56 | 2019-08-06 | 2022-04-19 |
-| [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 | 2021-03-18 | 2023-03-14 |
+| [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 | 2021-03-18 |  |
 | [We Didn't Start the Fire](https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:47 | 2021-05-22 | 2021-05-24 |
 | [We Got Love](https://open.spotify.com/track/7kqujRWNEBhrpYt0eV0uw5) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [We Got Love](https://open.spotify.com/album/0ECfA035E0wh6Z0RQfYyrg) | 3:22 | 2021-03-20 | 2022-04-11 |
 | [We Got Love](https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [We Got Love](https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy) | 3:33 | 2020-01-07 | 2020-01-08 |

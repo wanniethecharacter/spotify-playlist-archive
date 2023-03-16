@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 6778,
+  "num_followers": 6783,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIyODcyNiwwMDAwMDAwMDIwMDc5ZWY2MTJkYzc4NWJjYWU1NzUyMmUzZTMwYWNk",
+  "snapshot_id": "MTY3NzIyODcyNiwwMDAwMDAwMDUyNmM0MDM1YmI0YzExMDg4MGQ3MzZhMjExZjBiY2Qy",
   "tracks": [
     {
       "added_at": "2023-01-25 01:27:19",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
+        "name": "X (Butterfly)",
+        "url": "https://open.spotify.com/album/3e2okh8YnoNB96g31VWF0O"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 193622,
+      "name": "X (Butterfly)",
+      "url": "https://open.spotify.com/track/0igz9eQ1yNnb8RG8gkuSOS"
+    },
+    {
+      "added_at": "2023-01-25 01:27:19",
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 212200,
       "name": "23 (Feat. SAM KIM)",
       "url": "https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK"
-    },
-    {
-      "added_at": "2023-01-25 01:27:19",
-      "album": {
-        "name": "X (Butterfly)",
-        "url": "https://open.spotify.com/album/3e2okh8YnoNB96g31VWF0O"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 193622,
-      "name": "X (Butterfly)",
-      "url": "https://open.spotify.com/track/0igz9eQ1yNnb8RG8gkuSOS"
     },
     {
       "added_at": "2023-01-25 01:27:19",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
-        "name": "FLOWER",
-        "url": "https://open.spotify.com/album/5YfesWCO8uudoafLv2rQGQ"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 247287,
-      "name": "FLOWER (Prod. by AVIN)",
-      "url": "https://open.spotify.com/track/0nUo9akDwQ5lHUZRjnlFE5"
-    },
-    {
-      "added_at": "2023-01-25 01:27:19",
-      "album": {
         "name": "School Rapper4 Final",
         "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 213532,
       "name": "INTRO (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
+    },
+    {
+      "added_at": "2023-01-25 01:27:19",
+      "album": {
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/5YfesWCO8uudoafLv2rQGQ"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 247287,
+      "name": "FLOWER (Prod. by AVIN)",
+      "url": "https://open.spotify.com/track/0nUo9akDwQ5lHUZRjnlFE5"
     },
     {
       "added_at": "2023-01-25 01:27:19",

@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment sont ici. Cover : Dizzy DROS",
-  "num_followers": 255320,
+  "num_followers": 255761,
   "original_name": "Hot Hits Maghreb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODY5MTgwNSwwMDAwMDAwMDhjNGMyYzdmYWUxYTZmMmZjMWIwZTU4OTAwNTRlNTI2",
+  "snapshot_id": "MTY3ODg3MzUwMCwwMDAwMDAwMDRmNTYwZTQwNDk4YzU5Y2VlMTgwMGJjYjQ3YmQ0YzI4",
   "tracks": [
     {
       "added_at": "2023-03-13 07:16:45",
@@ -95,6 +95,26 @@
     {
       "added_at": "2023-03-13 07:16:45",
       "album": {
+        "name": "Ghazali (feat. Bryan Mg)",
+        "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "duration_ms": 184661,
+      "name": "Ghazali (feat. Bryan Mg)",
+      "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
+    },
+    {
+      "added_at": "2023-03-13 07:16:45",
+      "album": {
         "name": "Taulier",
         "url": "https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ"
       },
@@ -115,26 +135,6 @@
     {
       "added_at": "2023-03-13 07:16:45",
       "album": {
-        "name": "R\u00e9silience",
-        "url": "https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2"
-      },
-      "artists": [
-        {
-          "name": "Zaho",
-          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
-        },
-        {
-          "name": "Indila",
-          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Roi 2 c\u0153ur (feat. Indila)",
-      "url": "https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY"
-    },
-    {
-      "added_at": "2023-03-13 07:16:45",
-      "album": {
         "name": "Talet Lghiba",
         "url": "https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ"
       },
@@ -151,22 +151,22 @@
     {
       "added_at": "2023-03-13 07:16:45",
       "album": {
-        "name": "Ghazali (feat. Bryan Mg)",
-        "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
+        "name": "R\u00e9silience",
+        "url": "https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2"
       },
       "artists": [
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
         },
         {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
         }
       ],
-      "duration_ms": 184661,
-      "name": "Ghazali (feat. Bryan Mg)",
-      "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
+      "duration_ms": 209946,
+      "name": "Roi 2 c\u0153ur (feat. Indila)",
+      "url": "https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY"
     },
     {
       "added_at": "2023-03-13 07:16:45",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-03-13 07:16:45",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
-    },
-    {
-      "added_at": "2023-03-13 07:16:45",
-      "album": {
         "name": "Omerta",
         "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 158400,
       "name": "Headlights (feat. KIDDO)",
       "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
+    },
+    {
+      "added_at": "2023-03-13 07:16:45",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
       "added_at": "2023-03-13 07:16:45",

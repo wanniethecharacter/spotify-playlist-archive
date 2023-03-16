@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "Headbangers of Bangladesh. Cover - Encore",
+  "description": "Headbangers of Bangladesh. Cover - Artcell",
   "name": "Bangla Rock",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 144586,
       "name": "Amar Jaan",
       "url": "https://open.spotify.com/track/4TLJKqLANHpyHXWAG1fZ4K"
@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Otritio",
+        "url": "https://open.spotify.com/album/7sEMcFTGVOMbsjgdufzOWH"
+      },
+      "artists": [
+        {
+          "name": "Artcell",
+          "url": "https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411500,
+      "name": "Baksho Bondi",
+      "url": "https://open.spotify.com/track/6BEM34Z4MEPMd5wDq4WZYO"
+    },
+    {
+      "album": {
         "name": "Bashbo Bhalo",
         "url": "https://open.spotify.com/album/3XhYDE30eDGN3ZBeSw2ZoY"
       },
@@ -518,7 +536,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 311250,
       "name": "Bhalobasha Baki",
       "url": "https://open.spotify.com/track/0AEhTnH1nR8zJ2d3iwQyM3"
@@ -540,7 +558,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 316000,
       "name": "Bhober Pagol",
       "url": "https://open.spotify.com/track/4El1blqsazEurG6gpvyUtF"
@@ -682,6 +700,24 @@
       "duration_ms": 215492,
       "name": "Biday Shur",
       "url": "https://open.spotify.com/track/23Mz2CJBQBqfeen2wtqQCm"
+    },
+    {
+      "album": {
+        "name": "Chena Jogot",
+        "url": "https://open.spotify.com/album/3KCkMexT4RWfYZAOWMqPHP"
+      },
+      "artists": [
+        {
+          "name": "Vibe",
+          "url": "https://open.spotify.com/artist/1UHTxsYsUI0GZJauVJzg9j"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356284,
+      "name": "Bidhatari Ronge Aka",
+      "url": "https://open.spotify.com/track/5YZzMC94AZskpqq8qufQFS"
     },
     {
       "album": {
@@ -1280,7 +1316,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 294649,
       "name": "Ekhono",
       "url": "https://open.spotify.com/track/4ZoiikOfDXv4ks5rRqiK1Z"
@@ -1514,7 +1550,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 239586,
       "name": "ISD",
       "url": "https://open.spotify.com/track/5NHklX2aJag4YCJndtjjci"
@@ -1644,7 +1680,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 279998,
       "name": "Jontrona",
       "url": "https://open.spotify.com/track/4F726ms6OWAle9G32A41bI"
@@ -1662,10 +1698,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 253600,
       "name": "Khoye Jawa Chaad",
       "url": "https://open.spotify.com/track/7drgfsb1o3LPQQc5tHZW8O"
+    },
+    {
+      "album": {
+        "name": "Khuni Totto",
+        "url": "https://open.spotify.com/album/481TOibiCLiWrl7yBxtGRd"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Hasan Sunny",
+          "url": "https://open.spotify.com/artist/2wmUlWuBFAp14HNvgoTfWb"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213340,
+      "name": "Khuni Totto",
+      "url": "https://open.spotify.com/track/0zk2jYcWE0L9VEuySNFQq3"
     },
     {
       "album": {
@@ -1770,7 +1824,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 251120,
       "name": "Left Right",
       "url": "https://open.spotify.com/track/4SIdqm1SVgcOORx0X3DNq1"
@@ -2088,7 +2142,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 276642,
       "name": "Obhiman",
       "url": "https://open.spotify.com/track/3DK8pt5Ky1Ii4QblF5iBsI"
@@ -2243,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "Hyena Express",
+        "url": "https://open.spotify.com/album/1y3dEPRfsbLgGelBKtXyuq"
+      },
+      "artists": [
+        {
+          "name": "Shonar Bangla Circus",
+          "url": "https://open.spotify.com/artist/0VunpVWO2MCBMR1qwGRWzh"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337250,
+      "name": "Ondho Deyal",
+      "url": "https://open.spotify.com/track/3t5RiZ8gNRK41NJucuL3ju"
+    },
+    {
+      "album": {
         "name": "Ong Bong Chhong",
         "url": "https://open.spotify.com/album/5goqhLdFo5o48FNiX6teMO"
       },
@@ -2254,7 +2326,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 221753,
       "name": "Ong Bong Chhong",
       "url": "https://open.spotify.com/track/5S5ykoEBzXiUspMwb3cF7I"
@@ -2316,7 +2388,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 329000,
       "name": "Onuraag",
       "url": "https://open.spotify.com/track/75H72N8knxyDjaKmSWIKGo"
@@ -2338,6 +2410,24 @@
       "duration_ms": 256050,
       "name": "Opare",
       "url": "https://open.spotify.com/track/4fKZKmUXJTL3e3qzq6LFGe"
+    },
+    {
+      "album": {
+        "name": "Rongmistree",
+        "url": "https://open.spotify.com/album/6EBc74qFiapuYasuHvIL7k"
+      },
+      "artists": [
+        {
+          "name": "Shohojia",
+          "url": "https://open.spotify.com/artist/7ImlbtGXKIeyQWQWOZuDtx"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291013,
+      "name": "Opekkha",
+      "url": "https://open.spotify.com/track/6hZ1FgzgOngc4DkFZAG041"
     },
     {
       "album": {
@@ -2410,6 +2500,24 @@
       "duration_ms": 85716,
       "name": "Otithi Pakhi - 2021 Remastered version",
       "url": "https://open.spotify.com/track/7cXofuwNTxOcIx89cYw4tD"
+    },
+    {
+      "album": {
+        "name": "Otritio",
+        "url": "https://open.spotify.com/album/7sEMcFTGVOMbsjgdufzOWH"
+      },
+      "artists": [
+        {
+          "name": "Artcell",
+          "url": "https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 671000,
+      "name": "Otritio",
+      "url": "https://open.spotify.com/track/3V3zYOMZblcmx6Ql8zJ7Ey"
     },
     {
       "album": {
@@ -2590,7 +2698,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 251428,
       "name": "Protibimbo",
       "url": "https://open.spotify.com/track/5l2n874eQvJoq8qvEowNOJ"
@@ -2731,6 +2839,24 @@
     },
     {
       "album": {
+        "name": "Onnosomoy",
+        "url": "https://open.spotify.com/album/7s9Ssc1V7AgSdAlVpHl12E"
+      },
+      "artists": [
+        {
+          "name": "Artcell",
+          "url": "https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451210,
+      "name": "Rahur Gras",
+      "url": "https://open.spotify.com/track/2rUpghnKlHnoYIPRO6fTPD"
+    },
+    {
+      "album": {
         "name": "Gorbo Bangladesh",
         "url": "https://open.spotify.com/album/0nAuXmUo9SZSLSgfeQdOfO"
       },
@@ -2854,7 +2980,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 278035,
       "name": "Shada Golap",
       "url": "https://open.spotify.com/track/056R8hTzXwi1GNzORWm9Rz"
@@ -2962,7 +3088,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 277517,
       "name": "Shomoy Gele",
       "url": "https://open.spotify.com/track/2xP8WYl7ERfcJmOL0i7lL9"
@@ -3002,6 +3128,24 @@
       "duration_ms": 241498,
       "name": "Shopner Gontobbo",
       "url": "https://open.spotify.com/track/1Geh1LEWKVmG2iJKP2BX8e"
+    },
+    {
+      "album": {
+        "name": "Chena Jogot",
+        "url": "https://open.spotify.com/album/3KCkMexT4RWfYZAOWMqPHP"
+      },
+      "artists": [
+        {
+          "name": "Vibe",
+          "url": "https://open.spotify.com/artist/1UHTxsYsUI0GZJauVJzg9j"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217495,
+      "name": "Shopnodeb",
+      "url": "https://open.spotify.com/track/7rLLcr577CpTL34NEfHOFh"
     },
     {
       "album": {
@@ -3067,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "Otritio",
+        "url": "https://open.spotify.com/album/7sEMcFTGVOMbsjgdufzOWH"
+      },
+      "artists": [
+        {
+          "name": "Artcell",
+          "url": "https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453245,
+      "name": "Smritir Ayna",
+      "url": "https://open.spotify.com/track/4PFGiWuY89AaNcPUqNmYfX"
+    },
+    {
+      "album": {
         "name": "Khepa",
         "url": "https://open.spotify.com/album/6oXxXaKox9eRoP1QUxaUOT"
       },
@@ -3082,6 +3244,24 @@
       "duration_ms": 281983,
       "name": "Somoy gele",
       "url": "https://open.spotify.com/track/3RDSAyE32oOnMFoEWEDtH3"
+    },
+    {
+      "album": {
+        "name": "Confusion",
+        "url": "https://open.spotify.com/album/2c2xtzOyPOkEoou45o1tYc"
+      },
+      "artists": [
+        {
+          "name": "Bangla Five",
+          "url": "https://open.spotify.com/artist/2mt61gxTSTC56E4wgosOIj"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133012,
+      "name": "Sondha Namai Rakhi",
+      "url": "https://open.spotify.com/track/5A3uPAWyY7SA8HYI58ulZO"
     },
     {
       "album": {
@@ -3103,6 +3283,24 @@
     },
     {
       "album": {
+        "name": "Khepa",
+        "url": "https://open.spotify.com/album/6iBQKsbl0ouZbbpaZha8MS"
+      },
+      "artists": [
+        {
+          "name": "Lalon Band",
+          "url": "https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283942,
+      "name": "Taal Tomal",
+      "url": "https://open.spotify.com/track/2gB3MVE8n2OVCWAT1pC0bv"
+    },
+    {
+      "album": {
         "name": "Rockoholic 3",
         "url": "https://open.spotify.com/album/0sUGhA7xMLiaxkTyo2aXdp"
       },
@@ -3114,7 +3312,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 303677,
       "name": "Tamakpata",
       "url": "https://open.spotify.com/track/54rbC8m2E1ghnwJyTHTPM8"
@@ -3262,7 +3460,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 352139,
       "name": "Utshorgo",
       "url": "https://open.spotify.com/track/7tcHBMra1AZ3QWIHX3hX0r"

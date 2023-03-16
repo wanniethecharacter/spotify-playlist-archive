@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,764 likes - 511 songs - 18 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,988 likes - 511 songs - 18 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-344 songs - 19 hr 54 min
+345 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Can't Sleep Alone At Night](https://open.spotify.com/track/7BBzoOS8HR4zdlk1y0VNBB) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Reload EP](https://open.spotify.com/album/6ImjX7QeTg1JljGIawFWWP) | 2:58 | 2022-01-28 |  |
 | [Carbonara](https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Carbonara](https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8) | 2:52 | 2022-01-07 | 2022-11-12 |
 | [care about u](https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2) | 3:21 | 2022-01-07 | 2023-03-01 |
+| [care about u](https://open.spotify.com/track/4jZlOF64flGokeFKZFeK6o) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/7zMyMiXtQe4ZKn3Hkrsvom) | 3:21 | 2023-03-10 |  |
 | [cartrîdge](https://open.spotify.com/track/0lMfmKs4R0V9G1fpIO0JJw) | [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [cartrîdge](https://open.spotify.com/album/7nO2jOgpYah46ziK8EOEaR) | 2:33 | 2022-01-07 | 2022-07-29 |
 | [Changa \- Blanke Remix](https://open.spotify.com/track/5TL9e2xgtvJFtNCBsq1CgX) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Changa](https://open.spotify.com/album/5kwv2A2qAK8pN007hSA56t) | 3:08 | 2022-03-11 | 2022-12-01 |
 | [Changa \- Blanke Remix](https://open.spotify.com/track/6rQcfPSmfwiJWae8WhU5k8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [etcetc Yearbook: 2018](https://open.spotify.com/album/645zH9nKzaoo4KBbMtOaGG) | 3:08 | 2022-12-16 |  |
@@ -325,7 +326,7 @@
 | [Unfold](https://open.spotify.com/track/36kCSJg8ZBwiSCUECFKGUy) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 4:45 | 2022-01-07 |  |
 | [Victory \(F.O.O.L Remix\)](https://open.spotify.com/track/6uOvYTdwIuKMs7Ci3C61Xb) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM), [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Victory \(F.O.O.L Remix\)](https://open.spotify.com/album/6ByWKss2Ip2gVGj9SWppGc) | 3:48 | 2022-01-07 | 2022-11-13 |
 | [Visionary](https://open.spotify.com/track/2zdIRSdlzfUP3BYVQdMcSG) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [modus.](https://open.spotify.com/artist/1ASCCDEpi3FWTb0jVDJhA2), [Miss Lina](https://open.spotify.com/artist/1YWIbcvuqzWzPyxyrVTMJv) | [Visionary](https://open.spotify.com/album/1HAfK7WeUVwpDeHywMPQAf) | 6:12 | 2022-01-07 | 2022-03-26 |
-| [VLONE](https://open.spotify.com/track/0jYBQcR3imgLDhSZN9npPL) | [Vymvn](https://open.spotify.com/artist/6x1eUD956FxAtUWADmudQW) | [VLONE](https://open.spotify.com/album/4jZ0m9OBSZ3E2mwsb1OsCF) | 2:48 | 2022-01-07 |  |
+| [VLONE](https://open.spotify.com/track/0jYBQcR3imgLDhSZN9npPL) | [Vymvn](https://open.spotify.com/artist/6x1eUD956FxAtUWADmudQW) | [VLONE](https://open.spotify.com/album/4jZ0m9OBSZ3E2mwsb1OsCF) | 2:48 | 2022-01-07 | 2023-03-16 |
 | [Voyager](https://open.spotify.com/track/7cMFjxhbXBpOlais7KMF3j) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:47 | 2022-07-14 | 2022-08-06 |
 | [wait for me](https://open.spotify.com/track/4m1RCS5sMrgDX3zj4RIVKP) | [jives](https://open.spotify.com/artist/72acOFxvIiWFuFacuVvHpd) | [wait for me](https://open.spotify.com/album/45m3UHYn9qrhkjB9Q3y9du) | 3:19 | 2022-01-07 | 2022-07-29 |
 | [Walk Away \- Disphing Remix](https://open.spotify.com/track/16a9WsLirTU7iMSpgc0Dy7) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b), [Disphing](https://open.spotify.com/artist/1N1AFyIEAhTIpyY2Qb8l9J) | [Walk Away Remixes](https://open.spotify.com/album/4ccMMDGI11oH9L8XXqJNxc) | 4:05 | 2022-07-08 | 2022-10-04 |

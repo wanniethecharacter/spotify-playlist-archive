@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-152 songs - 8 hr 5 min
+153 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [By The Pond](https://open.spotify.com/track/4ZJzL8tq3rNVRpf4IZOMrb) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [By The Pond](https://open.spotify.com/album/4d9iknIMa3nWwdnZjLMyrB) | 4:29 | 2021-12-09 | 2022-07-29 |
 | [Carousel](https://open.spotify.com/track/4dUdnalJalKkzu2fKDM3NF) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Carousel](https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV) | 2:50 | 2021-12-09 | 2022-06-26 |
 | [Chapters](https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB) | [Zen Wuan](https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY) | [Yoga Meditation](https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo) | 2:43 | 2021-12-09 |  |
+| [Clear\-Headed](https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Theta Sleep](https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ) | 2:46 | 2023-03-14 |  |
 | [Closer](https://open.spotify.com/track/3A2qFGe7UPTd7G6KbNZjCw) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Closer](https://open.spotify.com/album/0xFhKcMfVpMaKd9OK8GNq5) | 5:11 | 2021-12-09 | 2022-07-29 |
 | [Closer \- Stripped](https://open.spotify.com/track/59ear5ueSaAwD24en6HlIP) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Closer](https://open.spotify.com/album/0xFhKcMfVpMaKd9OK8GNq5) | 5:03 | 2021-12-09 | 2022-05-20 |
 | [Conifer](https://open.spotify.com/track/6gVrAqhSIPSh9iVRa6lgPH) | [Permaculti](https://open.spotify.com/artist/0uHSkfvCjMNDIW6DKaixo4) | [Conifer](https://open.spotify.com/album/2DFrfDDsktqqW94ZgPFEtS) | 3:22 | 2021-12-09 | 2022-11-14 |
@@ -124,7 +125,7 @@
 | [Sonámbulos](https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX) | [Abril Iluso](https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd) | [Sonámbulos](https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V) | 3:12 | 2022-06-16 |  |
 | [Spaces in Serenity](https://open.spotify.com/track/6ivdFVK29qRdsKezUln44y) | [SARAB](https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI) | [Spaces in Serenity](https://open.spotify.com/album/6qo7I02DZokmxM0X5X7eRm) | 4:11 | 2021-12-09 | 2023-01-09 |
 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 | 2022-01-06 |  |
-| [Spheres](https://open.spotify.com/track/2swLJNK900RQGq9ef3I1vo) | [Jade](https://open.spotify.com/artist/3kEZNTYPKnCakgPVLhTdzI) | [Spheres](https://open.spotify.com/album/15eSOvcTaJRtltxmljaSyH) | 3:07 | 2023-02-03 |  |
+| [Spheres](https://open.spotify.com/track/2swLJNK900RQGq9ef3I1vo) | [Jade](https://open.spotify.com/artist/3kEZNTYPKnCakgPVLhTdzI) | [Spheres](https://open.spotify.com/album/15eSOvcTaJRtltxmljaSyH) | 3:07 | 2023-02-03 | 2023-03-16 |
 | [Standing Wave](https://open.spotify.com/track/70zZuuFtxFTS5MAGP6DPs1) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Teegarden C](https://open.spotify.com/album/4Ymu2WPYJNzRafMvyH5tlR) | 4:08 | 2022-04-21 |  |
 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 | 2022-02-03 |  |
 | [Stillness](https://open.spotify.com/track/4gOVrbGk2sgI9PBrdkLrxF) | [SARAB](https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI) | [Stillness](https://open.spotify.com/album/7j2hlueaoCGNl43jWdtB3c) | 3:00 | 2021-12-09 | 2022-07-29 |

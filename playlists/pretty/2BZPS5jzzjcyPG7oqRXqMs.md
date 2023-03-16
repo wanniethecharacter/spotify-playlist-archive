@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,959 likes - 113 songs - 7 hr 34 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,958 likes - 113 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover: YUJU(\uc720\uc8fc))) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover: Y(Golden Child))) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -5201,6 +5201,24 @@
     },
     {
       "album": {
+        "name": "I feel",
+        "url": "https://open.spotify.com/album/2bBm0Jj6uyLCUMmqiwL2xY"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226120,
+      "name": "I feel",
+      "url": "https://open.spotify.com/track/0D87LPNSFzltA0IPc9C8MN"
+    },
+    {
+      "album": {
         "name": "\uc218\uc0c1\ud55c \uc791\uc5c5\uc2e4 Episode 2",
         "url": "https://open.spotify.com/album/5EjqxCdy711Yzx4Rgo9aLp"
       },
@@ -5534,6 +5552,24 @@
       "duration_ms": 166500,
       "name": "I See You, You See Him",
       "url": "https://open.spotify.com/track/5p3qWzZWVQeOULME1kok1U"
+    },
+    {
+      "album": {
+        "name": "Love In Eyes OST Part.22 (Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ky7kXVpqQi4udAc9GWucN"
+      },
+      "artists": [
+        {
+          "name": "BBAHN",
+          "url": "https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205526,
+      "name": "I should let you go",
+      "url": "https://open.spotify.com/track/3iPkGKAOGllUnodb5qI50l"
     },
     {
       "album": {
@@ -6018,6 +6054,24 @@
       "duration_ms": 221080,
       "name": "IF I",
       "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
+    },
+    {
+      "album": {
+        "name": "If I were the wind",
+        "url": "https://open.spotify.com/album/092bvc9Ibtgp4CWlNPKABD"
+      },
+      "artists": [
+        {
+          "name": "Y (Golden Child)",
+          "url": "https://open.spotify.com/artist/15TTwJ99z8kILaEh6mHP7U"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238146,
+      "name": "If I were the wind",
+      "url": "https://open.spotify.com/track/2YNwMqQuVXbDuQxwxb2mZk"
     },
     {
       "album": {
@@ -9485,6 +9539,24 @@
     },
     {
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/0Si3voeOstMVmSawqW9NJs"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273706,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/6ubmkHNAPgJnqHUVb0qZ2M"
+    },
+    {
+      "album": {
         "name": "Only you (Romance 101 X Yang Yo Seop)",
         "url": "https://open.spotify.com/album/0pB5NYeRyaboqz4ZUFdxhZ"
       },
@@ -11929,6 +12001,24 @@
     },
     {
       "album": {
+        "name": "Kokdu: Season of Deity (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/17YJmjOShQ9NtxffEX70U8"
+      },
+      "artists": [
+        {
+          "name": "Jueun",
+          "url": "https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207335,
+      "name": "The first moment",
+      "url": "https://open.spotify.com/track/05qHfI61F95lluddfpyxk9"
+    },
+    {
+      "album": {
         "name": "YUMI's Cells 2, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE"
       },
@@ -13164,6 +13254,24 @@
       "duration_ms": 270546,
       "name": "We have to meet again",
       "url": "https://open.spotify.com/track/0uVph63q5eSAg2unH0nZG2"
+    },
+    {
+      "album": {
+        "name": "We haven't broken up yet",
+        "url": "https://open.spotify.com/album/4hBTuwgGBdFuG5Q3qYMo3r"
+      },
+      "artists": [
+        {
+          "name": "VROMANCE",
+          "url": "https://open.spotify.com/artist/5YPW3OmiqnqnQaFjloAvA7"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215613,
+      "name": "We haven't broken up yet",
+      "url": "https://open.spotify.com/track/6gEFr1UkQ1vd4MCkcKB5On"
     },
     {
       "album": {

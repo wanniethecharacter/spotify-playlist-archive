@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-360 songs - 1 day 8 hr 28 min
+361 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Downpour Of Blessings](https://open.spotify.com/track/13ofhF3akKSze47em3ihua) | [Yone\-ko](https://open.spotify.com/artist/5lpbbYojKrSoU2FoNlah10) | [Dial 2020 \(II\)](https://open.spotify.com/album/2rwZVVj0gLRL7z1D09QmYE) | 6:59 | 2022-02-21 | 2022-07-25 |
 | [A Sheltered Place \- Phaeleh Remix](https://open.spotify.com/track/38CngZw3TDi2XDCQPMKHJR) | [Way Out West](https://open.spotify.com/artist/3HghjRl8Mo6OJWG0WElY2z), [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [Tuesday Maybe \(Remixed\)](https://open.spotify.com/album/5hZJq3tQTNmLd7uZm3ljZw) | 3:48 | 2021-12-08 | 2023-01-06 |
 | [Ahmed](https://open.spotify.com/track/1rIxb5rv6BUWXT6xmLt91x) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Mainacht](https://open.spotify.com/album/1iPW3GbDkNYheqeyWjMDn8) | 6:48 | 2021-12-08 |  |
+| [Alfa](https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa](https://open.spotify.com/album/4uO8oJ4NuITPSvTnP33EfY) | 4:45 | 2023-03-03 |  |
 | [Alfa \- Original Mix](https://open.spotify.com/track/1UabDxiLk78adOCYuQzhpu) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa EP](https://open.spotify.com/album/6nHbGBXnZxCP0PAq2Wt4rd) | 4:45 | 2021-12-08 | 2023-03-09 |
 | [All Inclusive](https://open.spotify.com/track/3gXM39jnW18uL5Zyg47wXN) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/2XqIGqPFhojwErHEhfN9QQ) | 6:27 | 2021-12-08 |  |
 | [All Inclusive](https://open.spotify.com/track/4lT5XiuLmM8oeRsjsyuAXy) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ) | 6:27 | 2021-12-08 | 2022-01-15 |
@@ -170,7 +171,7 @@
 | [Lost](https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Lost](https://open.spotify.com/album/5vC7gyO1QMBpkkqkTr6aGu) | 4:47 | 2023-02-03 |  |
 | [Lost in the Sun \(feat\. Ruth Royall\)](https://open.spotify.com/track/5td5z2iVZ8n9cF95pxXTVW) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Lost in the Sun \(feat\. Ruth Royall\)](https://open.spotify.com/album/20WgeTKy5S1nhrB7FakTR8) | 3:25 | 2021-12-08 |  |
 | [Lotus](https://open.spotify.com/track/6BTrnCVnRpQCRWwXb0bIyc) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI), [Kate Elsworth](https://open.spotify.com/artist/3lHI0h5NymKIJmDOxqHIgJ), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Lotus](https://open.spotify.com/album/1r9p0yLaYNvz4iNYnU9GDV) | 12:03 | 2021-12-08 |  |
-| [Magnetic](https://open.spotify.com/track/4avYediY0ck6jMfRK5LK6r) | [Phil Anker](https://open.spotify.com/artist/22DTXq0MpXJRZPaTVZD7ED) | [Magnetic](https://open.spotify.com/album/7GMaki32RP1IoRkqqxsTZZ) | 5:28 | 2021-12-08 |  |
+| [Magnetic](https://open.spotify.com/track/4avYediY0ck6jMfRK5LK6r) | [Phil Anker](https://open.spotify.com/artist/22DTXq0MpXJRZPaTVZD7ED) | [Magnetic](https://open.spotify.com/album/7GMaki32RP1IoRkqqxsTZZ) | 5:28 | 2021-12-08 | 2023-03-16 |
 | [Magnetic Generation](https://open.spotify.com/track/12jqiScAZkKCnkHMfrDVlM) | [Pi\-Singer](https://open.spotify.com/artist/0laYghO0Z0yrzxgrWX0aD3) | [Magnetic Generation](https://open.spotify.com/album/2tArvO5RHUfeQkspt6OgNF) | 5:33 | 2021-12-08 | 2022-07-29 |
 | [Majika](https://open.spotify.com/track/61viWAXyKA61e0Gxv2j6Q6) | [Heliotype](https://open.spotify.com/artist/5N4dVbRP8Iu2sbKC8r8JeF) | [Majika](https://open.spotify.com/album/3MgAaIzurGwvNkOHh9ysyI) | 3:33 | 2021-12-08 | 2023-02-06 |
 | [Make a Wish](https://open.spotify.com/track/3sUV3UODz1JL2Bv4kkz6u1) | [Arina Mur](https://open.spotify.com/artist/3xPmeowtzXszyBWz4DKKaJ) | [Make a Wish](https://open.spotify.com/album/1BPpzVH2HO9deeJiG34cAI) | 7:00 | 2021-12-08 |  |

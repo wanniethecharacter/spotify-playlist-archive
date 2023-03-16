@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Little Simz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,207,169 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,207,691 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 21 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 |
 | 22 | [WYD](https://open.spotify.com/track/2tFTUUlBZeHGeI2Ys0nkci) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [WYD](https://open.spotify.com/album/08PRxcK4bHMKg6PVObT6r9) | 3:21 |
 | 23 | [Sandbox](https://open.spotify.com/track/5FpA9VUCUquTkHPpn5Uaiq) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Sandbox](https://open.spotify.com/album/4XH6r97ff6p58FGNxexSBy) | 3:37 |
-| 24 | [60 Days](https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [60 Days](https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS) | 3:00 |
+| 24 | [60 Days](https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [60 Days](https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS) | 3:19 |
 | 25 | [Hikari](https://open.spotify.com/track/1XtDbwOCuYtMLB0dObKZkq) | [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR) | [Hikari](https://open.spotify.com/album/10QSyYLPBGGKBsFrAf2XBf) | 2:22 |
 | 26 | [Swerve](https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | [Swerve](https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u) | 3:19 |
 | 27 | [Diamonds](https://open.spotify.com/track/4D3hcHpsFsiQFBNIKYgjui) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Diamonds](https://open.spotify.com/album/0IEZx9NrnUcoIEQCBvNxDE) | 3:31 |

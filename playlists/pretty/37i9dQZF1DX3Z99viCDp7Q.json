@@ -1,12 +1,12 @@
 {
   "description": "Wondering what to pick for your first dance? We got you.",
-  "num_followers": 166493,
+  "num_followers": 166562,
   "original_name": "Wedding Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTE4NzA1NywwMDAwMDAwMDg0OGY2YjU3ZTE4NDE3MmYyNmFmZmJjOGY0MGEzMzVi",
+  "snapshot_id": "MTY2OTE4NzA1NywwMDAwMDAwMDM5YmM4MjZjMDk5ZDFkMWY5ZTkxMDRiMGUyZTk4MGFm",
   "tracks": [
     {
       "added_at": "2022-11-23 07:04:17",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-11-23 07:04:17",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp"
-      },
-      "artists": [
-        {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
-      "url": "https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq"
-    },
-    {
-      "added_at": "2022-11-23 07:04:17",
-      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2022-11-23 07:04:17",
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
+      "url": "https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq"
+    },
+    {
+      "added_at": "2022-11-23 07:04:17",
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-11-23 07:04:17",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Come Away With Me",
-      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
-    },
-    {
-      "added_at": "2022-11-23 07:04:17",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 190779,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC"
+    },
+    {
+      "added_at": "2022-11-23 07:04:17",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
       "added_at": "2022-11-23 07:04:17",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-11-23 07:04:17",
       "album": {
-        "name": "In Motion Pictures",
-        "url": "https://open.spotify.com/album/2VNMoSXYKrjAAU4aqiTvtY"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello",
-          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "She",
-      "url": "https://open.spotify.com/track/31Tp5iKrVUayn65qhg06nE"
-    },
-    {
-      "added_at": "2022-11-23 07:04:17",
-      "album": {
         "name": "Love You For A Long Time",
         "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 223120,
       "name": "Love You For A Long Time",
       "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
+    },
+    {
+      "added_at": "2022-11-23 07:04:17",
+      "album": {
+        "name": "In Motion Pictures",
+        "url": "https://open.spotify.com/album/2VNMoSXYKrjAAU4aqiTvtY"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "She",
+      "url": "https://open.spotify.com/track/31Tp5iKrVUayn65qhg06nE"
     },
     {
       "added_at": "2022-11-23 07:04:17",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2022-11-23 07:04:17",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 198453,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
+      "duration_ms": 191280,
+      "name": "Is That Alright?",
+      "url": "https://open.spotify.com/track/172e82oK9vGoBPvc6SqMm5"
     }
   ],
   "unique_name": "Wedding Songs",

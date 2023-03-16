@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Becky G & Omega
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,317 likes - 99 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,360 likes - 99 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 57 | [Ay!](https://open.spotify.com/track/6vU2DPeCqKSvXUCgTaD5cS) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sacúdelo Que Tiene Arena](https://open.spotify.com/album/0n5HXhJ7ouB3y1a9JbLgQg) | 3:51 |
 | 58 | [Quiero Quemar La Pista](https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [LIMI\-T Para Siempre](https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM) | 2:33 |
 | 59 | [Volveré](https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:25 |
-| 60 | [Frutos Del Carnaval](https://open.spotify.com/track/4uNsxCWSUEswepl4RP0689) | [Cuco Valoy](https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE) | [Trancazos Bailables, Vol\. 4](https://open.spotify.com/album/63U1jnXIx3yfezOGnUCW61) | 6:18 |
-| 61 | [Carolina](https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Amame](https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx) | 4:49 |
+| 60 | [Carolina](https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Amame](https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx) | 4:49 |
+| 61 | [Frutos Del Carnaval](https://open.spotify.com/track/4uNsxCWSUEswepl4RP0689) | [Cuco Valoy](https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE) | [Trancazos Bailables, Vol\. 4](https://open.spotify.com/album/63U1jnXIx3yfezOGnUCW61) | 6:18 |
 | 62 | [Que Cara Más Bonita](https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Merengue De Amor Vol.1](https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS) | 4:10 |
 | 63 | [Asesina](https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:46 |
 | 64 | [El Virao](https://open.spotify.com/track/2GnGoXexzccSQtPEERPgGh) | [Los Cantantes](https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh) | [El Virao](https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P) | 4:12 |
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 87 | [Te Gusta Eh](https://open.spotify.com/track/7rQ3bs2Rh4xwFZw2f1HTKE) | [Shino Aguakate](https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI) | [Out of Control](https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08) | 5:27 |
 | 88 | [Coqueta y Sabrosa](https://open.spotify.com/track/2eqcBuixUaODqSy1aDeXTP) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [20th Anniversary](https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G) | 4:37 |
 | 89 | [La Ventanita](https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Lo Mejor de Lo Mejor \- Tropical](https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i) | 4:46 |
-| 90 | [Me Miras Y Te Miro](https://open.spotify.com/track/0dNiTVbjCqIDPzCcHS5ZbS) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Re\-Haciendo La Historia\-Los Exitos!](https://open.spotify.com/album/1AH3TAK0XmmgekWQ5eWK5a) | 4:57 |
-| 91 | [Amapola](https://open.spotify.com/track/7lxyCH0EgKyrxzsyZybkDV) | [Francisco Ulloa](https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw) | [¡Que Vaina!](https://open.spotify.com/album/4JEpyD4AqWvqtlNlvievRS) | 3:27 |
-| 92 | [La Faldita](https://open.spotify.com/track/3glDtaaom1yLlf8aVkHllx) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [La Faldita](https://open.spotify.com/album/7svwKm81mrsEdnGgtgrgRz) | 3:50 |
-| 93 | [Me Miras Y Te Miro \- New Version](https://open.spotify.com/track/5yRdwws9A2CWy9caVCox6q) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [22 Ultimate Merengue Hits 2002](https://open.spotify.com/album/0eTqDy2Pkmo7REdNrXBBGQ) | 2:51 |
+| 90 | [Me Miras Y Te Miro \- New Version](https://open.spotify.com/track/5yRdwws9A2CWy9caVCox6q) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [22 Ultimate Merengue Hits 2002](https://open.spotify.com/album/0eTqDy2Pkmo7REdNrXBBGQ) | 2:51 |
+| 91 | [La Faldita](https://open.spotify.com/track/3glDtaaom1yLlf8aVkHllx) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [La Faldita](https://open.spotify.com/album/7svwKm81mrsEdnGgtgrgRz) | 3:50 |
+| 92 | [Amapola](https://open.spotify.com/track/7lxyCH0EgKyrxzsyZybkDV) | [Francisco Ulloa](https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw) | [¡Que Vaina!](https://open.spotify.com/album/4JEpyD4AqWvqtlNlvievRS) | 3:27 |
+| 93 | [Me Miras Y Te Miro](https://open.spotify.com/track/0dNiTVbjCqIDPzCcHS5ZbS) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Re\-Haciendo La Historia\-Los Exitos!](https://open.spotify.com/album/1AH3TAK0XmmgekWQ5eWK5a) | 4:57 |
 | 94 | [Sacala, Bailala y Pegala](https://open.spotify.com/track/64fiC7TQMy43uuyTROGjE2) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Hombres De Honor](https://open.spotify.com/album/5cJhc5kSYS9770vR7TE0fJ) | 3:53 |
 | 95 | [De Tu Boca](https://open.spotify.com/track/5B6BhnVnVkf91FrQFJIXib) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc) | 4:41 |
 | 96 | [Lluvia y Samba](https://open.spotify.com/track/1AV9KQLsAUWlUhCxbExYxz) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Lluvia y Samba](https://open.spotify.com/album/3FyrRtHlDXhkmwT8d5KScA) | 3:47 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 98 | [La Pastilla](https://open.spotify.com/track/6laC9qdbtt83hHAikUpt27) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Éxitos](https://open.spotify.com/album/0qTw9aI747PymW3nbhYIVJ) | 4:18 |
 | 99 | [Ni Tu Ni Yo](https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 4:37 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMGFjNWQ4Y2NhZGM1MDY2ZjlhNzc4ODZjNTU4NTExZDI2`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDc0Y2U0NzgyNDNjMjRhZjcyZjRkNWYxM2RiOWE2YzQ1`

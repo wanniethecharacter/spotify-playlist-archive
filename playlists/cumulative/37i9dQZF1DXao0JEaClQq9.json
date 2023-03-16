@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 282812,
       "name": "A Quiet Voice",
       "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 224347,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6YtylNU7D1S5SeO529q2AN"
@@ -4185,6 +4185,24 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv"
+      },
+      "artists": [
+        {
+          "name": "Peter Manos",
+          "url": "https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214533,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP"
+    },
+    {
+      "album": {
         "name": "insecure",
         "url": "https://open.spotify.com/album/4wC9uXVAFz5m6dgC2dUJjp"
       },
@@ -5678,6 +5696,24 @@
       "duration_ms": 137092,
       "name": "Note To Self (feat. Empress Of)",
       "url": "https://open.spotify.com/track/3dBgEBXZvYLshrZ0ATB7fT"
+    },
+    {
+      "album": {
+        "name": "Nothing's Free",
+        "url": "https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278760,
+      "name": "Nothing's Free",
+      "url": "https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS"
     },
     {
       "album": {

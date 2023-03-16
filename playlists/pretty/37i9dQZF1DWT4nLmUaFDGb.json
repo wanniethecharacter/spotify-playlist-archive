@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 359983,
+  "num_followers": 360480,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODc4Mzk3MywwMDAwMDAwMGMxZDhhNGYzMDYyYmQ2YzhhZDY5NjAzYmYwOWI5NGM4",
+  "snapshot_id": "MTY3ODc4Mzk3MywwMDAwMDAwMGIxZWQ5NjQxMmU1ODQ2ZGZiOWM1YjVmZGIxNmZjMDkz",
   "tracks": [
     {
       "added_at": "2023-03-14 08:52:53",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-03-14 08:52:53",
       "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 251920,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
-    },
-    {
-      "added_at": "2023-03-14 08:52:53",
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -483,18 +467,18 @@
     {
       "added_at": "2023-03-14 08:52:53",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
       },
       "artists": [
         {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
         }
       ],
-      "duration_ms": 150813,
-      "name": "Jimmy Jazz",
-      "url": "https://open.spotify.com/track/63GVVtC9u2csLf7CqfInL7"
+      "duration_ms": 251920,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
     },
     {
       "added_at": "2023-03-14 08:52:53",
@@ -511,6 +495,22 @@
       "duration_ms": 232280,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
+    },
+    {
+      "added_at": "2023-03-14 08:52:53",
+      "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 150813,
+      "name": "Jimmy Jazz",
+      "url": "https://open.spotify.com/track/63GVVtC9u2csLf7CqfInL7"
     },
     {
       "added_at": "2023-03-14 08:52:53",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-03-14 08:52:53",
       "album": {
-        "name": "Kisses On The Bottom",
-        "url": "https://open.spotify.com/album/5jOBxNZ2fXG1k0x8SYJ38e"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "I'm Gonna Sit Right Down And Write Myself A Letter",
-      "url": "https://open.spotify.com/track/4YUetg3gv643KMv8X40KPO"
-    },
-    {
-      "added_at": "2023-03-14 08:52:53",
-      "album": {
         "name": "They Oughta Write a Song",
         "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2023-03-14 08:52:53",
       "album": {
+        "name": "Kisses On The Bottom",
+        "url": "https://open.spotify.com/album/5jOBxNZ2fXG1k0x8SYJ38e"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "I'm Gonna Sit Right Down And Write Myself A Letter",
+      "url": "https://open.spotify.com/track/4YUetg3gv643KMv8X40KPO"
+    },
+    {
+      "added_at": "2023-03-14 08:52:53",
+      "album": {
         "name": "Eternal Beauty",
         "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-03-14 08:52:53",
       "album": {
-        "name": "My One And Only Thrill",
-        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 162720,
-      "name": "Your Heart Is As Black As Night",
-      "url": "https://open.spotify.com/track/1EUj3EeDYX5yldkBXkNDJP"
-    },
-    {
-      "added_at": "2023-03-14 08:52:53",
-      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 176013,
       "name": "One for My Baby (And One More for the Road)",
       "url": "https://open.spotify.com/track/1c4oqyJGptLz2Yt7LLheX8"
+    },
+    {
+      "added_at": "2023-03-14 08:52:53",
+      "album": {
+        "name": "My One And Only Thrill",
+        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 162720,
+      "name": "Your Heart Is As Black As Night",
+      "url": "https://open.spotify.com/track/1EUj3EeDYX5yldkBXkNDJP"
     },
     {
       "added_at": "2023-03-14 08:52:53",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-14 08:52:53",
       "album": {
-        "name": "Songbird 20",
-        "url": "https://open.spotify.com/album/3XqJP3zCQMeEdJrk7IGiTJ"
-      },
-      "artists": [
-        {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
-        }
-      ],
-      "duration_ms": 282640,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/76rNA8RYBC1WgspUaOVZsB"
-    },
-    {
-      "added_at": "2023-03-14 08:52:53",
-      "album": {
         "name": "Jazz Love",
         "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 236469,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/4VHm7ABduF0wRhmoGIOXHJ"
+    },
+    {
+      "added_at": "2023-03-14 08:52:53",
+      "album": {
+        "name": "Songbird 20",
+        "url": "https://open.spotify.com/album/3XqJP3zCQMeEdJrk7IGiTJ"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 282640,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/76rNA8RYBC1WgspUaOVZsB"
     },
     {
       "added_at": "2023-03-14 08:52:53",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-03-14 08:52:53",
       "album": {
-        "name": "From Paris With Love",
-        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 288693,
-      "name": "From Paris With Love - Single Version",
-      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
-    },
-    {
-      "added_at": "2023-03-14 08:52:53",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/0ZnfdSj8QzEIZxVSaKkMYX"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 230826,
       "name": "Look Of Love",
       "url": "https://open.spotify.com/track/1wb7rKI0B6Bjgfvoscu32w"
+    },
+    {
+      "added_at": "2023-03-14 08:52:53",
+      "album": {
+        "name": "From Paris With Love",
+        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 288693,
+      "name": "From Paris With Love - Single Version",
+      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
     },
     {
       "added_at": "2023-03-14 08:52:53",
@@ -1115,8 +1115,8 @@
     {
       "added_at": "2023-03-14 08:52:53",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
       },
       "artists": [
         {
@@ -1124,9 +1124,9 @@
           "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
         }
       ],
-      "duration_ms": 250186,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
+      "duration_ms": 352466,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
     },
     {
       "added_at": "2023-03-14 08:52:53",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-03-14 08:52:53",
       "album": {
-        "name": "Castles in the Air",
-        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
-      },
-      "artists": [
-        {
-          "name": "Laura & Anton",
-          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
-        }
-      ],
-      "duration_ms": 233848,
-      "name": "Castles in the Air",
-      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
-    },
-    {
-      "added_at": "2023-03-14 08:52:53",
-      "album": {
         "name": "Back to Bacharach (Expanded Edition)",
         "url": "https://open.spotify.com/album/0wfkSewGh40HvJ2Mo48kiJ"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 223866,
       "name": "Close to You - 2018 Remaster",
       "url": "https://open.spotify.com/track/6uQ6RYJ0Brt4laZCLF9gKC"
+    },
+    {
+      "added_at": "2023-03-14 08:52:53",
+      "album": {
+        "name": "Castles in the Air",
+        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
+      },
+      "artists": [
+        {
+          "name": "Laura & Anton",
+          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
+        }
+      ],
+      "duration_ms": 233848,
+      "name": "Castles in the Air",
+      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
     },
     {
       "added_at": "2023-03-14 08:52:53",
@@ -1279,38 +1279,6 @@
     {
       "added_at": "2023-03-14 08:52:53",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "I've Never Been In Love Before",
-      "url": "https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx"
-    },
-    {
-      "added_at": "2023-03-14 08:52:53",
-      "album": {
-        "name": "Love Stories",
-        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
-    },
-    {
-      "added_at": "2023-03-14 08:52:53",
-      "album": {
         "name": "The Boy Next Door (Special Edition)",
         "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
       },
@@ -1323,6 +1291,38 @@
       "duration_ms": 252840,
       "name": "What The World Needs Now Is Love",
       "url": "https://open.spotify.com/track/2Y4jKE3vhkI2yR3Ms065ZZ"
+    },
+    {
+      "added_at": "2023-03-14 08:52:53",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
+    },
+    {
+      "added_at": "2023-03-14 08:52:53",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "I've Never Been In Love Before",
+      "url": "https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx"
     },
     {
       "added_at": "2023-03-14 08:52:53",
@@ -1343,22 +1343,6 @@
       "duration_ms": 261706,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P"
-    },
-    {
-      "added_at": "2023-03-14 08:52:53",
-      "album": {
-        "name": "I Belong To You",
-        "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
-      },
-      "artists": [
-        {
-          "name": "Emilia Mitiku",
-          "url": "https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2"
-        }
-      ],
-      "duration_ms": 196320,
-      "name": "I Belong to You",
-      "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
     },
     {
       "added_at": "2023-03-14 08:52:53",
@@ -1399,6 +1383,22 @@
       "duration_ms": 250546,
       "name": "Pennies From Heaven (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/79tHp1cHwQG5f0AD6rP38l"
+    },
+    {
+      "added_at": "2023-03-14 08:52:53",
+      "album": {
+        "name": "I Belong To You",
+        "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
+      },
+      "artists": [
+        {
+          "name": "Emilia Mitiku",
+          "url": "https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2"
+        }
+      ],
+      "duration_ms": 196320,
+      "name": "I Belong to You",
+      "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
     },
     {
       "added_at": "2023-03-14 08:52:53",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-03-14 08:52:53",
       "album": {
-        "name": "Autumn Leaves (The Songs of Johnny Mercer)",
-        "url": "https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU"
-      },
-      "artists": [
-        {
-          "name": "Jacintha",
-          "url": "https://open.spotify.com/artist/0GCS9ORL3H0CWV1IV6eth2"
-        }
-      ],
-      "duration_ms": 287426,
-      "name": "Here's to Life",
-      "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
-    },
-    {
-      "added_at": "2023-03-14 08:52:53",
-      "album": {
         "name": "Nothing Standard",
         "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 388114,
       "name": "Hey Jude",
       "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
+    },
+    {
+      "added_at": "2023-03-14 08:52:53",
+      "album": {
+        "name": "Autumn Leaves (The Songs of Johnny Mercer)",
+        "url": "https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU"
+      },
+      "artists": [
+        {
+          "name": "Jacintha",
+          "url": "https://open.spotify.com/artist/0GCS9ORL3H0CWV1IV6eth2"
+        }
+      ],
+      "duration_ms": 287426,
+      "name": "Here's to Life",
+      "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
     },
     {
       "added_at": "2023-03-14 08:52:53",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2023-03-14 08:52:53",
       "album": {
+        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
+        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
+    },
+    {
+      "added_at": "2023-03-14 08:52:53",
+      "album": {
         "name": "My Funny Valentine (For Oskar and Eli)",
         "url": "https://open.spotify.com/album/1gWuzvRkirEnoeRkqLPPlH"
       },
@@ -1571,26 +1591,6 @@
     {
       "added_at": "2023-03-14 08:52:53",
       "album": {
-        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
-        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
-    },
-    {
-      "added_at": "2023-03-14 08:52:53",
-      "album": {
         "name": "True Love's Flame",
         "url": "https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-03-14 08:52:53",
       "album": {
-        "name": "The Age of Anxiety",
-        "url": "https://open.spotify.com/album/2P2qPNDdZw930hLCy2ddux"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 324826,
-      "name": "The Age Of Anxiety",
-      "url": "https://open.spotify.com/track/0qyjj1na0pbMlnBvKAqLtz"
-    },
-    {
-      "added_at": "2023-03-14 08:52:53",
-      "album": {
         "name": "So in Love",
         "url": "https://open.spotify.com/album/4jb9ocOzo7N66hCss8dZVA"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2023-03-14 08:52:53",
       "album": {
-        "name": "Lumi\u00e9re",
-        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
+        "name": "The Age of Anxiety",
+        "url": "https://open.spotify.com/album/2P2qPNDdZw930hLCy2ddux"
       },
       "artists": [
         {
-          "name": "Emily Sage",
-          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 196250,
-      "name": "Lumi\u00e9re",
-      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
+      "duration_ms": 324826,
+      "name": "The Age Of Anxiety",
+      "url": "https://open.spotify.com/track/0qyjj1na0pbMlnBvKAqLtz"
     },
     {
       "added_at": "2023-03-14 08:52:53",
@@ -1671,6 +1655,22 @@
       "duration_ms": 207800,
       "name": "The Best Is Yet To Come",
       "url": "https://open.spotify.com/track/3SOolXGudRj8IbpmEFPAj1"
+    },
+    {
+      "added_at": "2023-03-14 08:52:53",
+      "album": {
+        "name": "Lumi\u00e9re",
+        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
+      },
+      "artists": [
+        {
+          "name": "Emily Sage",
+          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Lumi\u00e9re",
+      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
     },
     {
       "added_at": "2023-03-14 08:52:53",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2023-03-14 08:52:53",
       "album": {
-        "name": "La belle vie - The Good Life",
-        "url": "https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dutronc",
-          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
-        },
-        {
-          "name": "Jeff Goldblum",
-          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "La belle vie - The Good Life",
-      "url": "https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE"
-    },
-    {
-      "added_at": "2023-03-14 08:52:53",
-      "album": {
         "name": "The Look Of Love - Burt Bacharach Songbook",
         "url": "https://open.spotify.com/album/34pw7PTVYdcEkfHnIo9jx2"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 273960,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/6MZg4IeXiCaRe9MtWYmaul"
+    },
+    {
+      "added_at": "2023-03-14 08:52:53",
+      "album": {
+        "name": "La belle vie - The Good Life",
+        "url": "https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+        },
+        {
+          "name": "Jeff Goldblum",
+          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "La belle vie - The Good Life",
+      "url": "https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE"
     },
     {
       "added_at": "2023-03-14 08:52:53",

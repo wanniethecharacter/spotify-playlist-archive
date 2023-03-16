@@ -4,7 +4,7 @@
 
 > Underoath on top of the biggest Metal playlist!
 
-387 songs - 1 day 1 hr 54 min
+388 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [NO HELP](https://open.spotify.com/track/2yxjtF4f1Yw2GpKELclHw3) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [NO HELP](https://open.spotify.com/album/65SYISbipzVUmmoeAzsYtP) | 2:53 | 2022-04-15 | 2022-07-23 |
 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 | 2022-07-29 |  |
 | [No Way Back Just Through](https://open.spotify.com/track/1JQaVRvmmInKm7WG0H6FDK) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 3:53 | 2021-12-20 | 2022-01-07 |
+| [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-15 |  |
 | [Nothing Feels Right \(feat\. Zakk Wylde\)](https://open.spotify.com/track/1K2MfPrkhy3pAYFL0m4Y64) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Nothing Feels Right \(feat\. Zakk Wylde\)](https://open.spotify.com/album/5FRTz5iys7bz1F2yzn9Lm5) | 5:35 | 2022-09-09 | 2022-11-19 |
 | [Nous Sommes la Guerre](https://open.spotify.com/track/24B3NFMGpDkG952oyc2ALX) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Nous Sommes La Guerre](https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA) | 6:53 | 2022-06-17 | 2022-07-16 |
 | [Numb](https://open.spotify.com/track/4xOZuV9hKj0uaRgegNaE5F) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Numb](https://open.spotify.com/album/0vf69q9LJRJ6MK8OTJPIbZ) | 3:41 | 2021-12-20 | 2022-01-14 |

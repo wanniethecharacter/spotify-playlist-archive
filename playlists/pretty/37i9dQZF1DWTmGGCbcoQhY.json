@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1207885,
+  "num_followers": 1208334,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM4Mjg1MywwMDAwMDAwMDc5YTEzMzBmYjFhZmY4MDEzMWU1MmNhNmQyNjM2NjU2",
+  "snapshot_id": "MTY3MzM4Mjg1MywwMDAwMDAwMDkzYTc5NWYzMmEwN2E2YTQyNGU2MjgxOTEyNzJmZGRm",
   "tracks": [
     {
       "added_at": "2022-06-07 22:21:55",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Amor De 3",
-        "url": "https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF"
-      },
-      "artists": [
-        {
-          "name": "Aroma",
-          "url": "https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX"
-        }
-      ],
-      "duration_ms": 188440,
-      "name": "Amor De Tres",
-      "url": "https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. 3",
         "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 281129,
       "name": "Echarme Al Olvido",
       "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Amor De 3",
+        "url": "https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF"
+      },
+      "artists": [
+        {
+          "name": "Aroma",
+          "url": "https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX"
+        }
+      ],
+      "duration_ms": 188440,
+      "name": "Amor De Tres",
+      "url": "https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
     },
     {
-      "added_at": "2023-01-10 20:34:13",
-      "album": {
-        "name": "Lo Har\u00e9 por Ti",
-        "url": "https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 228646,
-      "name": "Lo Har\u00e9 por Ti",
-      "url": "https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875"
-    },
-    {
       "added_at": "2022-06-07 22:21:55",
       "album": {
         "name": "Guarachando",
@@ -591,6 +575,22 @@
       "duration_ms": 244413,
       "name": "Coraz\u00f3n Solitario",
       "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
+    },
+    {
+      "added_at": "2023-01-10 20:34:13",
+      "album": {
+        "name": "Lo Har\u00e9 por Ti",
+        "url": "https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 228646,
+      "name": "Lo Har\u00e9 por Ti",
+      "url": "https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
-      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Nuestra Historia Termino",
         "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
+      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "Como un Dulce Poema, Vol. 3",
         "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Tonto Cari\u00f1o",
-        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
-      },
-      "artists": [
-        {
-          "name": "Los Papis RA7",
-          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
-        }
-      ],
-      "duration_ms": 299284,
-      "name": "Estupido",
-      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Los Yaguaru",
         "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 235128,
       "name": "Alma De Acero",
       "url": "https://open.spotify.com/track/3LgQlKNGiQiQhMiTU0ZKao"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Tonto Cari\u00f1o",
+        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
+      },
+      "artists": [
+        {
+          "name": "Los Papis RA7",
+          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
+        }
+      ],
+      "duration_ms": 299284,
+      "name": "Estupido",
+      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Del Barrio Para El Barrio (Vol. 1)",
-        "url": "https://open.spotify.com/album/5An162eTQFVEdwwUnSmdFy"
-      },
-      "artists": [
-        {
-          "name": "Bohio",
-          "url": "https://open.spotify.com/artist/3jqJRfRSqVyayyOCOuGwwt"
-        }
-      ],
-      "duration_ms": 199653,
-      "name": "Enbrujo De Cumbia",
-      "url": "https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 252679,
       "name": "Cumbia Del Chinito",
       "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Del Barrio Para El Barrio (Vol. 1)",
+        "url": "https://open.spotify.com/album/5An162eTQFVEdwwUnSmdFy"
+      },
+      "artists": [
+        {
+          "name": "Bohio",
+          "url": "https://open.spotify.com/artist/3jqJRfRSqVyayyOCOuGwwt"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "Enbrujo De Cumbia",
+      "url": "https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "Oro Puro: \u00c9xitos",
+        "url": "https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA"
+      },
+      "artists": [
+        {
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+        }
+      ],
+      "duration_ms": 211760,
+      "name": "Int\u00e9ntalo T\u00fa",
+      "url": "https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "Dejame Pensar",
         "url": "https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 232546,
       "name": "Me Enamor\u00e9 de una Sonidera",
       "url": "https://open.spotify.com/track/6lApNS6zB7kkMd7MwuX6eO"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "Oro Puro: \u00c9xitos",
-        "url": "https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA"
-      },
-      "artists": [
-        {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Int\u00e9ntalo T\u00fa",
-      "url": "https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Sin Mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX"
-      },
-      "artists": [
-        {
-          "name": "Mexikolombia",
-          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
-        }
-      ],
-      "duration_ms": 196597,
-      "name": "Al\u00e9jate de Mi",
-      "url": "https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Para Qu\u00e9 Llorar",
         "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 198213,
       "name": "La Princesa Talibana",
       "url": "https://open.spotify.com/track/7B7WVfPyjkowmWCvb1SXxd"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Sin Mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX"
+      },
+      "artists": [
+        {
+          "name": "Mexikolombia",
+          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
+        }
+      ],
+      "duration_ms": 196597,
+      "name": "Al\u00e9jate de Mi",
+      "url": "https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Triste y Vac\u00eda",
-        "url": "https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV"
-      },
-      "artists": [
-        {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "El Viejo Panz\u00f3n",
-      "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Sabor A Cumbia",
         "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 207400,
       "name": "Mu\u00f1eca Esquiva",
       "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Triste y Vac\u00eda",
+        "url": "https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV"
+      },
+      "artists": [
+        {
+          "name": "Grupo G",
+          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "El Viejo Panz\u00f3n",
+      "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Serie Diamante - 15 S\u00faper Exitos",
-        "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Me Vas A Recordar",
-      "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Noches Oscuras",
         "url": "https://open.spotify.com/album/5TJ4Loi2pZaTEfIqFpRh4B"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Vaya Que Sabor!!",
-        "url": "https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL"
+        "name": "Serie Diamante - 15 S\u00faper Exitos",
+        "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
       },
       "artists": [
         {
-          "name": "Pepe Gomez Jr. y su Grupo Union 82",
-          "url": "https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo"
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
         }
       ],
-      "duration_ms": 199999,
-      "name": "Embrujo de Cumbia",
-      "url": "https://open.spotify.com/track/4RHwuJ7oskqoI0LqMY9RfD"
+      "duration_ms": 180533,
+      "name": "Me Vas A Recordar",
+      "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "Vaya Que Sabor!!",
+        "url": "https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Gomez Jr. y su Grupo Union 82",
+          "url": "https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo"
+        }
+      ],
+      "duration_ms": 199999,
+      "name": "Embrujo de Cumbia",
+      "url": "https://open.spotify.com/track/4RHwuJ7oskqoI0LqMY9RfD"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
       },
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Hay El Amor",
-        "url": "https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK"
-      },
-      "artists": [
-        {
-          "name": "Yulios Kumbia",
-          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
-        }
-      ],
-      "duration_ms": 184084,
-      "name": "Hay El Amor",
-      "url": "https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Acariciame",
         "url": "https://open.spotify.com/album/21J5hwCVwPqhVw5FchorkD"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 201862,
       "name": "Acariciame",
       "url": "https://open.spotify.com/track/5whpGnP7FAdfodcbZ2oqe5"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Hay El Amor",
+        "url": "https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK"
+      },
+      "artists": [
+        {
+          "name": "Yulios Kumbia",
+          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
+        }
+      ],
+      "duration_ms": 184084,
+      "name": "Hay El Amor",
+      "url": "https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Cumbia Urbana del Pueblo y para el Pueblo, Vol. 2",
-        "url": "https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Un Poblano en New York",
-      "url": "https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "El Llanto de los Luceros / El Llanto de los Sapos",
         "url": "https://open.spotify.com/album/0ZXMdIJah9WqOw0UxI6Gyn"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 229016,
       "name": "El Llanto de los Luceros / El Llanto de los Sapos",
       "url": "https://open.spotify.com/track/1kHLw4WQLHkIRpbI8ocvFR"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Cumbia Urbana del Pueblo y para el Pueblo, Vol. 2",
+        "url": "https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Un Poblano en New York",
+      "url": "https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1977,22 +1977,6 @@
       "url": "https://open.spotify.com/track/6VPPUqxI3ZLN24e645MwNo"
     },
     {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "Con La Sangre Caliente",
-        "url": "https://open.spotify.com/album/48H3NQ2HyK70AqjOryHbnX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Perla Colombiana",
-          "url": "https://open.spotify.com/artist/559JHjpDxj6SYy8kwGoa5V"
-        }
-      ],
-      "duration_ms": 189746,
-      "name": "Melina",
-      "url": "https://open.spotify.com/track/7A6PWUkZNultYJO6ejZ11k"
-    },
-    {
       "added_at": "2023-01-10 20:34:13",
       "album": {
         "name": "Ya No Est\u00e0s Aqu\u00ec",
@@ -2007,6 +1991,22 @@
       "duration_ms": 262861,
       "name": "Ya No Est\u00e0s Aqu\u00ec",
       "url": "https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Con La Sangre Caliente",
+        "url": "https://open.spotify.com/album/48H3NQ2HyK70AqjOryHbnX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Perla Colombiana",
+          "url": "https://open.spotify.com/artist/559JHjpDxj6SYy8kwGoa5V"
+        }
+      ],
+      "duration_ms": 189746,
+      "name": "Melina",
+      "url": "https://open.spotify.com/track/7A6PWUkZNultYJO6ejZ11k"
     },
     {
       "added_at": "2023-01-10 20:34:13",

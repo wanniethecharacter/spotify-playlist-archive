@@ -1379,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "Blicky",
+        "url": "https://open.spotify.com/album/7qLHhWcP0GbiVjHXwBuZgH"
+      },
+      "artists": [
+        {
+          "name": "Fresh X Reckless",
+          "url": "https://open.spotify.com/artist/3uB3wq2PdbbQpr3jCsQusC"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131625,
+      "name": "Blicky",
+      "url": "https://open.spotify.com/track/5udNN5hwk870U9dk7a0nHe"
+    },
+    {
+      "album": {
         "name": "The Twin Society",
         "url": "https://open.spotify.com/album/2plgNIBaUWx8Tgog8Y8OwM"
       },
@@ -6826,6 +6844,24 @@
       "duration_ms": 156708,
       "name": "MURDAMAN!",
       "url": "https://open.spotify.com/track/4Nz9WVrMWeSubvPqLLEdTJ"
+    },
+    {
+      "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
       "album": {

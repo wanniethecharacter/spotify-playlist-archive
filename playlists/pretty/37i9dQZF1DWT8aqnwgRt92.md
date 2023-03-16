@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,679 likes - 85 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,154 likes - 85 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 6 | [TOMBI](https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [TOMBI](https://open.spotify.com/album/1rl1ocAMAPeMfHuFpZj9vF) | 3:26 |
 | 7 | [My Plan \- Lofi Remix](https://open.spotify.com/track/3By0mwdcJC2m9Vq0W3LwC2) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [一騎\(CV:豊永利行\)](https://open.spotify.com/artist/6UNfWUQV7Zjuz2WvFSXcj3), [零\(CV:内山昂輝\)](https://open.spotify.com/artist/3bT8HW83dr4YDKYN20RYjy), [SHINTA](https://open.spotify.com/artist/5DN4o6B5nGSXpfyMCiXFdH) | [My Plan](https://open.spotify.com/album/3CpERluTyAXWsI6kaQp139) | 3:37 |
 | 8 | [HUMAN](https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ) | 5:22 |
-| 9 | [メリッサ \- from CrosSing](https://open.spotify.com/track/5Pl3DkBVh80Mi53rGKzrzn) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [メリッサ \- from CrosSing](https://open.spotify.com/album/3yTvC9x0esBsAh4hkfYrRZ) | 4:17 |
+| 9 | [Melissa \- From CrosSing](https://open.spotify.com/track/3cPP2NYhfUYLibpFqqQB8x) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Melissa \- From CrosSing](https://open.spotify.com/album/5nCxbhDwEp0YiHEDV6COPe) | 4:17 |
 | 10 | [Paradise](https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Paradise](https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve) | 3:27 |
 | 11 | [TRIGGER](https://open.spotify.com/track/0zzfORvHh4ak5BscgpdRqF) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [TRIGGER](https://open.spotify.com/album/0FX4ocXqTa8VSq9QSXFA4O) | 4:34 |
 | 12 | [Uni\-Verse](https://open.spotify.com/track/0bJIoYV4eotOGrdKOgjeHj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Gift](https://open.spotify.com/album/0ZoP5F7BK2l3qzFXbl1eyy) | 4:31 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 17 | [テレパス](https://open.spotify.com/track/7C37yaKPoOJHUvlNYv991q) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [テレパス](https://open.spotify.com/album/2UGjDQb2VvvfasGe7n1hxN) | 4:53 |
 | 18 | [ラストシーン](https://open.spotify.com/track/76rwHMqKcw9v9IWBwQWItn) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [ラストシーン](https://open.spotify.com/album/1vPjwkJ6P8GWadlPrlvYY3) | 3:11 |
 | 19 | [escalate](https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate](https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz) | 4:02 |
-| 20 | [Line of sight](https://open.spotify.com/track/4tUFxXSNCayPjtYoF3kI7T) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/7CUgVbMeNO27pF1kFDm5yV) | 3:33 |
+| 20 | [Line of sight](https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/0jhtODRQmtW7lvT9Ika34U) | 3:33 |
 | 21 | [逆夢](https://open.spotify.com/track/5igeBrUIrt8hEguPkIfcEW) | [Megumi Ogata](https://open.spotify.com/artist/2j8sQGmlCNu84Hm1KzmUMH) | [アニメグ。30th](https://open.spotify.com/album/0AOR7lfA2ulA6pjLAVmohs) | 5:12 |
 | 22 | [Here I Stand \- Anime Edit](https://open.spotify.com/track/3RPNNWB4ZbL9siNR2woL5I) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [Here I Stand \(Anime Edit\)](https://open.spotify.com/album/7makenyxwdnXOdla8Z4DY2) | 1:36 |
 | 23 | [宿縁](https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA) | 3:33 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 34 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 |
 | 35 | [rebind](https://open.spotify.com/track/29TrJvPHW8SuL9Y7wg72Ui) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [rebind](https://open.spotify.com/album/0xaMjXAT0lpUKlZ3zV691n) | 4:42 |
 | 36 | [しるし](https://open.spotify.com/track/5jSR1EJai9xHvDEAq2rPt9) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [しるし](https://open.spotify.com/album/4MxZof46XxfA0UmmuY4HWM) | 4:12 |
-| 37 | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/track/5DAtC0mgP1HUpL9th0e2U9) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc), [小野賢章](https://open.spotify.com/artist/6yg8XM7BirJ6GnfBUt7BUU) | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/album/1TX5uM4HEOIZEzoAOnUagC) | 4:30 |
+| 37 | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/track/7wqa3SBNDoQ436Feb8x5Zl) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc), [小野賢章](https://open.spotify.com/artist/6yg8XM7BirJ6GnfBUt7BUU) | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/album/4GCmrKpfubJATaKMZ43RUT) | 4:30 |
 | 38 | [名もない花](https://open.spotify.com/track/2mdrMOnGvyo6fHkm0yBUKw) | [Harumi](https://open.spotify.com/artist/01AnOmJCFPom13jKelxk8D) | [名もない花](https://open.spotify.com/album/2NAwAdKun3ljVSEAtpPBD9) | 3:59 |
 | 39 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
 | 40 | [スクワッド!](https://open.spotify.com/track/1PiQybGfKBnDb5P4d5Ewwd) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [スクワッド!](https://open.spotify.com/album/12SiALYHMtpakrYud5tAAB) | 3:53 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 71 | [Take Me Maybe](https://open.spotify.com/track/0Sq6O7MvmJKmZxJEerxPte) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Take Me Maybe](https://open.spotify.com/album/52MbpIB9e7evYxkk6g84ut) | 3:27 |
 | 72 | [イビツナコトバ](https://open.spotify.com/track/1ru7EpUF1bidYVq1n6VWUz) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [イビツナコトバ](https://open.spotify.com/album/2Q7Vw6B0q0ZSLdFhBx94o8) | 3:31 |
 | 73 | [Heaven’s falling down](https://open.spotify.com/track/5viPEz1dLOhTXNEeZEscGH) | [sana \(sajou no hana\)](https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY) | [Heaven’s falling down](https://open.spotify.com/album/4fJPCGw5H94MX6TGOe6gBd) | 3:35 |
-| 74 | [熱風は流転する](https://open.spotify.com/track/4ARkjC2vdX6KEDBUKvCTti) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [熱風は流転する](https://open.spotify.com/album/5RWv2T4nfEbVlPcBK12BQU) | 3:36 |
+| 74 | [熱風は流転する](https://open.spotify.com/track/3B67pEQ2QiBIzh8iK6lCsk) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [熱風は流転する](https://open.spotify.com/album/7eaCQ74HiChrED7TPver3S) | 3:37 |
 | 75 | [エソア](https://open.spotify.com/track/6JIIzfPFXofQvU7h4OQqWy) | [ももすももす](https://open.spotify.com/artist/09xFgYi2WMH18mnuipigzN) | [エソア](https://open.spotify.com/album/3hZzkUyGJ3s7sngXGLDOo5) | 3:29 |
 | 76 | [ヨトギバナシ](https://open.spotify.com/track/5QpeqvtbIzy8wCWQLzBEf1) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [ヨトギバナシ](https://open.spotify.com/album/7uoZJ3vla3xRXzn9quVO88) | 3:27 |
 | 77 | [℃](https://open.spotify.com/track/0Ak4R2wHWIv49cCKBeHZi0) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [℃](https://open.spotify.com/album/5mZkRx5kPB0Ude08mHnrxR) | 3:34 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [愛を知っている](https://open.spotify.com/track/6rkN5ursVvVLzsrbjZLwq1) | [Yuta Hashimoto](https://open.spotify.com/artist/2agdXEyDwXcPYUklzmGV0l) | [愛を知っている](https://open.spotify.com/album/0T51jMLLQlZvlVJjJkCLkz) | 3:03 |
 | 85 | [ヒトミナカ](https://open.spotify.com/track/1hmUIz5bJYPrK571kBXFtW) | [丁](https://open.spotify.com/artist/2FBCBROCrxXD4tC6TmA8t4) | [ヒトミナカ](https://open.spotify.com/album/57HbEIpfJxPB4r3CDf7w0m) | 4:12 |
 
-Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMDdmNjIzZmE0OGNlYjBkMmE0MmE5MjM3YjM3OWZlMjZm`
+Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMGMyM2IyODY2MWQ1M2I5MTQ1Yzg4OTA1ODkyNmQwOTNh`

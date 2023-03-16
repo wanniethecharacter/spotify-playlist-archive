@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,754 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,814 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 36 | [Hazme Tuya una Vez Mas](https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 6:07 |
 | 37 | [Bandido](https://open.spotify.com/track/2rHhKu1hW8uqyr7LSrRn8E) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Bandido](https://open.spotify.com/album/4WkxTr5s8N6LLNscUyl3oW) | 3:02 |
 | 38 | [Punto De Partida \(with Monica Naranjo\)](https://open.spotify.com/track/75cWbqIqhfEfX8uOHlgWZV) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 7:35 |
-| 39 | [Fina Estampa \(with Miguel Poveda\) \- Con Miguel Poveda](https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:10 |
-| 40 | [Dama Dama \(Album Version\)](https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Cecilia](https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0) | 3:18 |
+| 39 | [Dama Dama \(Album Version\)](https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Cecilia](https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0) | 3:18 |
+| 40 | [Fina Estampa \(with Miguel Poveda\) \- Con Miguel Poveda](https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:10 |
 | 41 | [Amigo Conductor](https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh) | [Perlita de Huelva](https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk) | [Amigo Conductor](https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub) | 3:33 |
 | 42 | [Sarandonga](https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Grandes exitos](https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP) | 4:00 |
 | 43 | [Te amaré, te amo, y te querré](https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Oraciones de amor](https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg) | 4:41 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 66 | [Lagrimas Negras \(with Diego "El Cigala"\)](https://open.spotify.com/track/6jBq3phksLooRylCPSxzGb) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [La Colección Definitiva](https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg) | 3:46 |
 | 67 | [Quizas, Quizas, Quizas](https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [The Ultimate Collection](https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX) | 2:43 |
 | 68 | [Los Nardos](https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [Pecado de Amor \(Original Motion Picture\)](https://open.spotify.com/album/77Yz6Y1zfcuPBCPekPz8Pq) | 3:31 |
-| 69 | [Cántame](https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Mis Mejores Canciones, Vol\. I](https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF) | 4:01 |
-| 70 | [El relicario \- Remastered](https://open.spotify.com/track/2DM5vKnZNSepFa7Nn3jAMF) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [El relicario \(Remastered\)](https://open.spotify.com/album/59DG8gbZHmbrQSdDk4AKwh) | 3:48 |
+| 69 | [El relicario \- Remastered](https://open.spotify.com/track/2DM5vKnZNSepFa7Nn3jAMF) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [El relicario \(Remastered\)](https://open.spotify.com/album/59DG8gbZHmbrQSdDk4AKwh) | 3:48 |
+| 70 | [Cántame](https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Mis Mejores Canciones, Vol\. I](https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF) | 4:01 |
 
-Snapshot ID: `MTY3Nzg2NTUyMSwwMDAwMDAwMDVmNzk2OGYzYzFkOTg1YWE3MmIxZWViYWJlYmZmZmUz`
+Snapshot ID: `MTY3Nzg2NTUyMSwwMDAwMDAwMGVjZGFjNzdjYzZhZDQ5ZmU2ZjkzYmEzYzFmOGRkZjRm`

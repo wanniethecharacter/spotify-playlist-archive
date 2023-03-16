@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists, co-curated by  <a href=\u201chttps://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs?si=ynZhn3bXQ5S1M1yxXVpkmg\u201d>Janelle Mon\u00e1e</a>  for International Women\u2019s Day.",
-  "num_followers": 37250,
+  "num_followers": 37259,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY0NjgwMCwwMDAwMDAwMDVhMmI1ZjdmNGQ5ZmU1NDQ3ZWNkNmE5NTA3NjFmZWVj",
+  "snapshot_id": "MTY3NzY0NjgwMCwwMDAwMDAwMDJhNzVjYzA5NmFhYWFiY2MxMzIwMThhMDkzZjVhZWU5",
   "tracks": [
     {
       "added_at": "2023-03-01 05:00:00",
@@ -415,22 +415,18 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Lose You (feat. Soccer Mommy)",
-        "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
+        "name": "Always Get This Way",
+        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
       },
       "artists": [
         {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        },
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
         }
       ],
-      "duration_ms": 175386,
-      "name": "Lose You (feat. Soccer Mommy)",
-      "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
+      "duration_ms": 174258,
+      "name": "Always Get This Way",
+      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -451,18 +447,22 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Always Get This Way",
-        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
+        "name": "Lose You (feat. Soccer Mommy)",
+        "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
       },
       "artists": [
         {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        },
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
         }
       ],
-      "duration_ms": 174258,
-      "name": "Always Get This Way",
-      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
+      "duration_ms": 175386,
+      "name": "Lose You (feat. Soccer Mommy)",
+      "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 193791,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 193791,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
         "name": "Nuestra Canci\u00f3n",
         "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
       },
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Down Rounder",
-        "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
+        "name": "squirrel song",
+        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
       },
       "artists": [
         {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
         }
       ],
-      "duration_ms": 139333,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
+      "duration_ms": 108794,
+      "name": "squirrel song",
+      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "squirrel song",
-        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
+        "name": "Down Rounder",
+        "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
       },
       "artists": [
         {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
         }
       ],
-      "duration_ms": 108794,
-      "name": "squirrel song",
-      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
+      "duration_ms": 139333,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
     },
     {
       "added_at": "2023-03-01 05:00:00",

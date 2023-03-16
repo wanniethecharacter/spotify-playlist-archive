@@ -1,12 +1,12 @@
 {
   "description": "Bandas legendarias y canciones que hicieron historia. Foto: Los Prisioneros.",
-  "num_followers": 101928,
+  "num_followers": 101986,
   "original_name": "Cl\u00e1sicos del Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMDYxYWRlZjVmODBlOTMzMzdiZGVjYWE2MDQxNTU0Mzc4",
+  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMGU5MWUxYjkzNmU5NDA2ZWQ2ZTJkNTQzNzM4NTE1ODFj",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
-        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
-      },
-      "artists": [
-        {
-          "name": "Derek & The Dominos",
-          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
-        }
-      ],
-      "duration_ms": 423840,
-      "name": "Layla",
-      "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 405600,
       "name": "Paradise City",
       "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
+        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
+      },
+      "artists": [
+        {
+          "name": "Derek & The Dominos",
+          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
+        }
+      ],
+      "duration_ms": 423840,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
     },
     {
       "added_at": "2023-02-03 03:00:00",

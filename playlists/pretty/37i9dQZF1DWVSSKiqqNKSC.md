@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,620 likes - 48 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,717 likes - 48 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 31 | [Yo Voy Pa Encima](https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Yo Voy Pa Encima \- Single](https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ) | 3:26 |
 | 32 | [La Boda de Belén](https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Grandes Éxitos](https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3) | 5:26 |
 | 33 | [Dale Lo Que Lleva \(with Maykel Fonts\)](https://open.spotify.com/track/7HJlg4JTHFXsfFGXTkkeQq) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp), [Maykel Fonts](https://open.spotify.com/artist/25XlE014uP57NwPYobN64T) | [Latino 56 \- Salsa Bachata Merengue Reggaeton \(Latin Hits\)](https://open.spotify.com/album/7IziAogkGgcd7Xl5LCWIGl) | 5:02 |
-| 34 | [Conmigo No](https://open.spotify.com/track/3yophgzbY958X32KOQqiYF) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [Con La Musica Cubana No!](https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy) | 5:16 |
-| 35 | [Tren Bala](https://open.spotify.com/track/6RQ6XY9KxNov9Wl4m6KvNa) | [Barbaro Fines Fortes](https://open.spotify.com/artist/5dy82Vo7ZLBvDh0ou5PMl4) | [De La Habana a Perú](https://open.spotify.com/album/2z5F4LxY2rvzGt08SYtcz0) | 5:30 |
+| 34 | [Tren Bala](https://open.spotify.com/track/6RQ6XY9KxNov9Wl4m6KvNa) | [Barbaro Fines Fortes](https://open.spotify.com/artist/5dy82Vo7ZLBvDh0ou5PMl4) | [De La Habana a Perú](https://open.spotify.com/album/2z5F4LxY2rvzGt08SYtcz0) | 5:30 |
+| 35 | [Conmigo No](https://open.spotify.com/track/3yophgzbY958X32KOQqiYF) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [Con La Musica Cubana No!](https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy) | 5:16 |
 | 36 | [Lola Lola](https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Live In The USA](https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi) | 7:56 |
 | 37 | [Venenosa](https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 4:07 |
 | 38 | [Agua De Clavelito](https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY) | 6:22 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Me Dicen Cuba](https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 5:42 |
 | 48 | [Consumelo](https://open.spotify.com/track/5QB5D24Q2ZExArP6fG9BQh) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [Consumelo](https://open.spotify.com/album/1suANlvy8VuPkA2Vb7pvHK) | 4:41 |
 
-Snapshot ID: `MTY3MjQyNDQ0NSwwMDAwMDAwMDFjNjY0MzgwYWE1MGIxNzczODUyMGJkMzUyYzJlOGE0`
+Snapshot ID: `MTY3MjQyNDQ0NSwwMDAwMDAwMDM4MjYzMjc5OTY0ZjczNTRiYTExODFjMTdmZmNlY2Nm`

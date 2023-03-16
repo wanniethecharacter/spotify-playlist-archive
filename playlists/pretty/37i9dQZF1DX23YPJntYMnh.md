@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,999 likes - 60 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,030 likes - 60 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 51 | [Please Excuse This Funk Up](https://open.spotify.com/track/2RPs5rAbwaMrjlguUC9jux) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [Mas Borracho](https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH) | 4:37 |
 | 52 | [Bonin' In the Boneyard](https://open.spotify.com/track/3WBRoMyO2huOjKnrq0PaTX) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Essential Fishbone](https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H) | 4:44 |
 | 53 | [Promenade](https://open.spotify.com/track/4KQlPYIchV2VWo8SaWOs9C) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 2:31 |
-| 54 | [Tell Your Story Walkin'](https://open.spotify.com/track/2gBnKiNNXCIDLfqVptT6v6) | [Stevie Salas](https://open.spotify.com/artist/6fb78HXq6cKqNjjwZP9dax) | [Back from the Living](https://open.spotify.com/album/6J5Lg92qtxOwyrLrn1Zqfv) | 4:01 |
+| 54 | [Idiots Rule](https://open.spotify.com/track/51Nh6X9tfaBLQF3YyK6s2A) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 3:01 |
 | 55 | [My Name Is Mud](https://open.spotify.com/track/7axVaL2WO7cC3fXxtd9Zlj) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [They Can't All Be Zingers](https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT) | 4:45 |
-| 56 | [Idiots Rule](https://open.spotify.com/track/51Nh6X9tfaBLQF3YyK6s2A) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 3:01 |
+| 56 | [Tell Your Story Walkin'](https://open.spotify.com/track/2gBnKiNNXCIDLfqVptT6v6) | [Stevie Salas](https://open.spotify.com/artist/6fb78HXq6cKqNjjwZP9dax) | [Back from the Living](https://open.spotify.com/album/6J5Lg92qtxOwyrLrn1Zqfv) | 4:01 |
 | 57 | [Dear Ol' Dad](https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/0A6yLV44DEhpwXB7cyvLEP) | 3:01 |
 | 58 | [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 |
 | 59 | [Justice 2020](https://open.spotify.com/track/20Cq38WdpKCscYtTPTZy0J) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Chali 2na](https://open.spotify.com/artist/1ZJlXFkFDBsjSuYyjVcMkk), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 4:53 |
 | 60 | [Rain Will Fall](https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Dig](https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy) | 5:19 |
 
-Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDZkMjQ5MmNhNGE1NTAyNDhlNTQyYzk5ODkyYWFkMjFk`
+Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMGJjYjdiNzU2M2RkZjg5NjUyNDI0ZjZiZmE3OTUyYWI0`

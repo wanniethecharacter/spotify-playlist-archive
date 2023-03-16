@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Mariah Angeliq ",
-  "num_followers": 514108,
+  "num_followers": 514155,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGRjMzcwYThjZmE0ZTBkYTc3MTk4OGRhZDBlNDAzMzFj",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDUyZjM5ZGExODM4MzcyNjQyNmFhNTVkZGUwOTNmODE5",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Chulo",
-        "url": "https://open.spotify.com/album/2oDHlQQn8sthDVKO8pJ6eZ"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 120413,
-      "name": "Chulo",
-      "url": "https://open.spotify.com/track/3szqC0lxrJdhn3eW6FfFfo"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "TRAP KITTY",
         "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 134000,
       "name": "Riri",
       "url": "https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Chulo",
+        "url": "https://open.spotify.com/album/2oDHlQQn8sthDVKO8pJ6eZ"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 120413,
+      "name": "Chulo",
+      "url": "https://open.spotify.com/track/3szqC0lxrJdhn3eW6FfFfo"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "SHERATON",
+        "url": "https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "SHERATON",
+      "url": "https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Mi Gata (Remix)",
         "url": "https://open.spotify.com/album/49nXirxfEoHGlEkrzCp2tE"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 246315,
       "name": "Mi Gata - Remix",
       "url": "https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "SHERATON",
-        "url": "https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "SHERATON",
-      "url": "https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Kame Hame",
-        "url": "https://open.spotify.com/album/5mAMMqiX0sebEb7npoeBV8"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Kame Hame",
-      "url": "https://open.spotify.com/track/7xh93gqqo5VBD6tGRp77qv"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "VICE",
         "url": "https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy"
       },
@@ -955,22 +939,6 @@
       "duration_ms": 161086,
       "name": "VICE",
       "url": "https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "TU ME QUIERES?",
-        "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "TU ME QUIERES?",
-      "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -995,18 +963,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Toy a Mil",
-        "url": "https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k"
+        "name": "Kame Hame",
+        "url": "https://open.spotify.com/album/5mAMMqiX0sebEb7npoeBV8"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 148363,
-      "name": "Toy a Mil",
-      "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
+      "duration_ms": 167733,
+      "name": "Kame Hame",
+      "url": "https://open.spotify.com/track/7xh93gqqo5VBD6tGRp77qv"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1031,6 +999,38 @@
       "duration_ms": 209203,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "TU ME QUIERES?",
+        "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "TU ME QUIERES?",
+      "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Toy a Mil",
+        "url": "https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 148363,
+      "name": "Toy a Mil",
+      "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "AP",
-        "url": "https://open.spotify.com/album/2961gn3NRzleGQPWL0wJf2"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Foreign Teck",
-          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "AP",
-      "url": "https://open.spotify.com/track/44Gd0fsaqfM814xSWqgTe4"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Todo Menso",
         "url": "https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH"
       },
@@ -1103,22 +1083,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "LE DOY 20 MIL",
-        "url": "https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y"
+        "name": "AP",
+        "url": "https://open.spotify.com/album/2961gn3NRzleGQPWL0wJf2"
       },
       "artists": [
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         },
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
         }
       ],
-      "duration_ms": 182793,
-      "name": "LE DOY 20 MIL",
-      "url": "https://open.spotify.com/track/3zeyaQA8I4XJUJcpKUvlRq"
+      "duration_ms": 213333,
+      "name": "AP",
+      "url": "https://open.spotify.com/track/44Gd0fsaqfM814xSWqgTe4"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1143,6 +1123,26 @@
       "duration_ms": 206666,
       "name": "Perre\u00e1ndote",
       "url": "https://open.spotify.com/track/4cDQww3uOWSzIsFuomZbi0"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "LE DOY 20 MIL",
+        "url": "https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 182793,
+      "name": "LE DOY 20 MIL",
+      "url": "https://open.spotify.com/track/3zeyaQA8I4XJUJcpKUvlRq"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Cuando Se Apaga La Luz",
-        "url": "https://open.spotify.com/album/3bgRwWOggDGZTloRZEU7iH"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 153913,
-      "name": "Cuando Se Apaga La Luz",
-      "url": "https://open.spotify.com/track/4U6xgntrpMLoeD30fS4HSE"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Amandita",
         "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 223469,
       "name": "Amandita",
       "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Cuando Se Apaga La Luz",
+        "url": "https://open.spotify.com/album/3bgRwWOggDGZTloRZEU7iH"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 153913,
+      "name": "Cuando Se Apaga La Luz",
+      "url": "https://open.spotify.com/track/4U6xgntrpMLoeD30fS4HSE"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "CONTIGO LA PASO CABRON",
-        "url": "https://open.spotify.com/album/5vVZyUJYOgoaedIlPcbVZu"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 155309,
-      "name": "CONTIGO LA PASO CABRON",
-      "url": "https://open.spotify.com/track/387oM5dFcFw1I5aWThdRfN"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Despu\u00e9s Del Party",
         "url": "https://open.spotify.com/album/0wr0yNb8J8neG6lPWGsJvF"
       },
@@ -1331,22 +1315,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Cosa de Locos",
-        "url": "https://open.spotify.com/album/519NqufTeZJjydmA45WZa3"
+        "name": "CONTIGO LA PASO CABRON",
+        "url": "https://open.spotify.com/album/5vVZyUJYOgoaedIlPcbVZu"
       },
       "artists": [
         {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Genio",
-          "url": "https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5"
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Cosa de Locos",
-      "url": "https://open.spotify.com/track/4cKUpgMAoFV9DdkC4DhELR"
+      "duration_ms": 155309,
+      "name": "CONTIGO LA PASO CABRON",
+      "url": "https://open.spotify.com/track/387oM5dFcFw1I5aWThdRfN"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1367,6 +1347,26 @@
       "duration_ms": 185210,
       "name": "MARTINI",
       "url": "https://open.spotify.com/track/6gsAVrXRQvry6mzcobdULV"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Cosa de Locos",
+        "url": "https://open.spotify.com/album/519NqufTeZJjydmA45WZa3"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Genio",
+          "url": "https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Cosa de Locos",
+      "url": "https://open.spotify.com/track/4cKUpgMAoFV9DdkC4DhELR"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Pretty Bad Bitch",
+        "url": "https://open.spotify.com/album/4KPCiL8KXZ0c6GZlb0dSRV"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 203280,
+      "name": "Pretty Bad Bitch",
+      "url": "https://open.spotify.com/track/5Pfv9O833ZMX4q2PdiCHvT"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "6B (feat. Go Get Music)",
         "url": "https://open.spotify.com/album/0Zt0jTYE1PpUpKeAp9Jd45"
       },
@@ -1463,26 +1483,6 @@
       "duration_ms": 141333,
       "name": "Copiloto",
       "url": "https://open.spotify.com/track/3welJNgI6udhFk7sL3PpV5"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Pretty Bad Bitch",
-        "url": "https://open.spotify.com/album/4KPCiL8KXZ0c6GZlb0dSRV"
-      },
-      "artists": [
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 203280,
-      "name": "Pretty Bad Bitch",
-      "url": "https://open.spotify.com/track/5Pfv9O833ZMX4q2PdiCHvT"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/531LZb17gcTf6iu8wIc7kt"
-      },
-      "artists": [
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Arte",
-      "url": "https://open.spotify.com/track/4rAqN1N4r2tn6ixEgJP7Q7"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Esa Nena",
         "url": "https://open.spotify.com/album/245a16Mk92WlnOnpBDq0O6"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 197647,
       "name": "Esa Nena",
       "url": "https://open.spotify.com/track/2uvoAHdthe0bSCD0qIRBta"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/531LZb17gcTf6iu8wIc7kt"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Arte",
+      "url": "https://open.spotify.com/track/4rAqN1N4r2tn6ixEgJP7Q7"
     },
     {
       "added_at": "2023-03-10 05:00:00",

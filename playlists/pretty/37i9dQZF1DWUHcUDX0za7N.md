@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=j11QL6MsRaSneLxTbjw4Eg" > Zlatan </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,490 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,523 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 27 | [Culture](https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:28 |
 | 28 | [Breaking The Yoke Of Love](https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Breaking The Yoke Of Love](https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6) | 3:18 |
 | 29 | [Live Life](https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:41 |
-| 30 | [Vawulence](https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Vawulence](https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq) | 3:10 |
+| 30 | [Bad Since '97](https://open.spotify.com/track/5t5oLw5209yleTnJSqM097) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:14 |
 | 31 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 |
-| 32 | [Bad Since '97](https://open.spotify.com/track/5t5oLw5209yleTnJSqM097) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:14 |
+| 32 | [Vawulence](https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Vawulence](https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq) | 3:10 |
 | 33 | [Rockstar](https://open.spotify.com/track/6qFHXH6EmEjL5t56fDNN73) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Bravo](https://open.spotify.com/album/2VrbmxYUpIxZHb6uq7d695) | 2:38 |
 | 34 | [Owa](https://open.spotify.com/track/0QJGhiYMgf22RoRjYFmx3H) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Owa](https://open.spotify.com/album/00OQvNVhBS2IxUIOmPMEj0) | 2:53 |
 | 35 | [Solace](https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Kpos Lifestyle, Vol\. 1](https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E) | 2:00 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 44 | [Out There](https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension 2.0](https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q) | 2:43 |
 | 45 | [Commander](https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Commander](https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3) | 2:38 |
 | 46 | [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 |
-| 47 | [Awolowo](https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 2:48 |
-| 48 | [Vigilante Bop](https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG) | 3:00 |
+| 47 | [Vigilante Bop](https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG) | 3:00 |
+| 48 | [Awolowo](https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 2:48 |
 | 49 | [Legendary](https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [LITTLE & LEGENDARY](https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI) | 2:27 |
 | 50 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 |
 | 51 | [MIDLIFE CRISIS](https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [MIDLIFE CRISIS / WYDTM](https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0) | 2:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 69 | [New Wave](https://open.spotify.com/track/7HEvEpAXXzeqyb4VWbrGUS) | [Boy Rey](https://open.spotify.com/artist/1JPIT8C5kRpF7whVGxSGf9) | [New Wave](https://open.spotify.com/album/716KuiFuvH1gsBkE7j1J1I) | 2:30 |
 | 70 | [Go Home](https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Home](https://open.spotify.com/album/0nCaveQokllncgYPf3K9Qm) | 2:18 |
 
-Snapshot ID: `MTY3ODQ0ODQ2MSwwMDAwMDAwMGY2MjVmYjQ0MDIzZTU5ZTBmZTc1NTEyNGJmNzE5ZjE5`
+Snapshot ID: `MTY3ODQ0ODQ2MSwwMDAwMDAwMGNkMmM2YTA0MTNjNWVmNThhOGRjMzEzNjcyOGJkNGFl`

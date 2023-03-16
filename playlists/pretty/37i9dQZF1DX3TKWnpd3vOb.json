@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Pettinellis",
-  "num_followers": 200012,
+  "num_followers": 200009,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMDAyMzRiNzcwNTc4MDVlYjUxNzU2YzE1MzU3MTRjOTY5",
+  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMGNlNTFjMDViZmNlNWU3MjgzMTJmMjdjMzZjOGJlMWRk",
   "tracks": [
     {
       "added_at": "2023-03-03 03:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Rocanrol de los Misterios",
-        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
-      },
-      "artists": [
-        {
-          "name": "Congreso",
-          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
-        }
-      ],
-      "duration_ms": 259329,
-      "name": "Rocanrol de los Misterios",
-      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Mis Hermanos Sue\u00f1an Despiertos",
         "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 204829,
       "name": "Mis Hermanos Sue\u00f1an Despiertos",
       "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Rocanrol de los Misterios",
+        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
+      },
+      "artists": [
+        {
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+        }
+      ],
+      "duration_ms": 259329,
+      "name": "Rocanrol de los Misterios",
+      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 262530,
+      "name": "Todo Cae",
+      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "Viajar",
         "url": "https://open.spotify.com/album/7bnqsPENupVaK25z382mq9"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 262530,
-      "name": "Todo Cae",
-      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "El Tren",
         "url": "https://open.spotify.com/album/7x4eRQdJw18LUXMCNLUotV"
       },
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "Como te amo (Radio Edit)",
+        "url": "https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV"
+      },
+      "artists": [
+        {
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+        }
+      ],
+      "duration_ms": 176471,
+      "name": "Como te amo - Radio Edit",
+      "url": "https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "Fuego y Mar",
         "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 224096,
       "name": "Fuego y Mar",
       "url": "https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Como te amo (Radio Edit)",
-        "url": "https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV"
-      },
-      "artists": [
-        {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
-        }
-      ],
-      "duration_ms": 176471,
-      "name": "Como te amo - Radio Edit",
-      "url": "https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "Tu mundo al rev\u00e9s",
+        "url": "https://open.spotify.com/album/6RbRANaLEgi48pHVCECIuI"
+      },
+      "artists": [
+        {
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+        }
+      ],
+      "duration_ms": 224885,
+      "name": "Tu mundo al rev\u00e9s",
+      "url": "https://open.spotify.com/track/2xIa96oIh8soVkhCHGWvug"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "P\u00e1lida Forma Nocturna",
         "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Tu mundo al rev\u00e9s",
-        "url": "https://open.spotify.com/album/6RbRANaLEgi48pHVCECIuI"
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/6PPyGzsdOpAwX1RQBakY5Y"
       },
       "artists": [
         {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
         }
       ],
-      "duration_ms": 224885,
-      "name": "Tu mundo al rev\u00e9s",
-      "url": "https://open.spotify.com/track/2xIa96oIh8soVkhCHGWvug"
+      "duration_ms": 264249,
+      "name": "Dual",
+      "url": "https://open.spotify.com/track/2DZ3nXTxxmwBe9f7D7ruFE"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -763,22 +779,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "No Me Esperes M\u00e1s",
-        "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
-      },
-      "artists": [
-        {
-          "name": "Los Insolentes",
-          "url": "https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc"
-        }
-      ],
-      "duration_ms": 191658,
-      "name": "No Me Esperes M\u00e1s",
-      "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Destino Final",
         "url": "https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY"
       },
@@ -795,38 +795,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Santos",
-        "url": "https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG"
-      },
-      "artists": [
-        {
-          "name": "Kapitol",
-          "url": "https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt"
-        }
-      ],
-      "duration_ms": 225478,
-      "name": "Soldados",
-      "url": "https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Lo Que Es Real",
-        "url": "https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA"
-      },
-      "artists": [
-        {
-          "name": "El Otro Astronauta",
-          "url": "https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa"
-        }
-      ],
-      "duration_ms": 223593,
-      "name": "Lo Que Es Real",
-      "url": "https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Diva",
         "url": "https://open.spotify.com/album/207ZNb5QEsdVRPGwB5iS3l"
       },
@@ -839,6 +807,38 @@
       "duration_ms": 204591,
       "name": "Diva",
       "url": "https://open.spotify.com/track/4XA016W1NpyZrKW0rzmip8"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "No Me Esperes M\u00e1s",
+        "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
+      },
+      "artists": [
+        {
+          "name": "Los Insolentes",
+          "url": "https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc"
+        }
+      ],
+      "duration_ms": 191658,
+      "name": "No Me Esperes M\u00e1s",
+      "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Santos",
+        "url": "https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG"
+      },
+      "artists": [
+        {
+          "name": "Kapitol",
+          "url": "https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt"
+        }
+      ],
+      "duration_ms": 225478,
+      "name": "Soldados",
+      "url": "https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk"
     }
   ],
   "unique_name": "Rock Chileno",

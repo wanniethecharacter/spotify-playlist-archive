@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Moody beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,045 likes - 197 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,092 likes - 197 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 79 | [Bottle post](https://open.spotify.com/track/6hpPyrW13t94TQIMC7h0M2) | [Trixie](https://open.spotify.com/artist/3BHWIx02zIYjPsVrwJ9QYL) | [Bottle post](https://open.spotify.com/album/7rRfoRckclV5J7zLDgMeJY) | 2:31 |
 | 80 | [Granites](https://open.spotify.com/track/4DE0NmLlFzhVZPnvkhaHDl) | [Claude Diar](https://open.spotify.com/artist/6tGdJRFOFqO3SCsMphgYIw) | [Granites](https://open.spotify.com/album/1nfxMDHGjSK2yRFukOYSkr) | 2:07 |
 | 81 | [Adieu](https://open.spotify.com/track/5Xmis2excSOi2DT4HLJL98) | [rebirthi.](https://open.spotify.com/artist/5CBPNGpH8RmawzvbFnnanz) | [Adieu](https://open.spotify.com/album/5AgHqMTk7p0VdNy1dHco5r) | 1:32 |
-| 82 | [In The Park](https://open.spotify.com/track/3Fin9OMyhCex6HB3ZHQRow) | [TAKARA](https://open.spotify.com/artist/5vbJr0NshbvVUJbmKlgZ07) | [In The Park](https://open.spotify.com/album/3sdYISfLZuUz8HWHh4UETT) | 1:39 |
+| 82 | [In The Park](https://open.spotify.com/track/3Fin9OMyhCex6HB3ZHQRow) | [TAKARAZI](https://open.spotify.com/artist/07d4tXU9TiNIvlPLQBiA4H) | [In The Park](https://open.spotify.com/album/3sdYISfLZuUz8HWHh4UETT) | 1:39 |
 | 83 | [Dusk Till Dawn](https://open.spotify.com/track/5nyyuV2d4TMGrQ2bipvz1M) | [eleven](https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU), [Moetown](https://open.spotify.com/artist/62j9JVhnSbDgA6ADHCBNPz) | [Dusk Till Dawn](https://open.spotify.com/album/6TSTw3dOmkmMNqhA5TtUuU) | 2:12 |
 | 84 | [Skylines](https://open.spotify.com/track/3kvOTQWodqhF2kJOM4Jwd9) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p) | [Skylines](https://open.spotify.com/album/7k9zg9J556Yxl2CYLZkCdG) | 2:13 |
 | 85 | [Finding Paradise](https://open.spotify.com/track/04cxY8cDdPl2SFiRp0Xqub) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0) | [Finding Paradise](https://open.spotify.com/album/71cb0PdHyUsVF5L6qpVXXw) | 2:40 |

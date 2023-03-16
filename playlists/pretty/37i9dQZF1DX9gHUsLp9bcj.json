@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 50s! Cover:  P\u00e9rez Prado",
-  "num_followers": 18621,
+  "num_followers": 18665,
   "original_name": "50s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY2NzM5NSwwMDAwMDAwMDkzZGIzOWIwNzhmZmQxNGI3ZTU5MmQ0MzZiMjI0NzYx",
+  "snapshot_id": "MTY3NjY2NzM5NSwwMDAwMDAwMGM1YTlmNTUxNzJmNjIxMDUxNzA1YWMwNmU2YmY0NzUx",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:35",
@@ -191,22 +191,18 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Benny Mor\u00e9 Con P\u00e9rez Prado",
-        "url": "https://open.spotify.com/album/6J7SeH8SbEgXbLxGsRedQt"
+        "name": "Canciones De Amor",
+        "url": "https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        },
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
         }
       ],
-      "duration_ms": 194733,
-      "name": "La Mucura",
-      "url": "https://open.spotify.com/track/5VnjVNlLBuSaBtRlWM8nNw"
+      "duration_ms": 194466,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -227,18 +223,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Canciones De Amor",
-        "url": "https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n"
+        "name": "Benny Mor\u00e9 Con P\u00e9rez Prado",
+        "url": "https://open.spotify.com/album/6J7SeH8SbEgXbLxGsRedQt"
       },
       "artists": [
         {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        },
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
         }
       ],
-      "duration_ms": 194466,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4"
+      "duration_ms": 194733,
+      "name": "La Mucura",
+      "url": "https://open.spotify.com/track/5VnjVNlLBuSaBtRlWM8nNw"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
+        "name": "Boleros In Tr\u00edo",
+        "url": "https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+        }
+      ],
+      "duration_ms": 157480,
+      "name": "Amor Que Malo Eres",
+      "url": "https://open.spotify.com/track/3UALUQSEr7cIp3yjnPCMVe"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
         "name": "La Sonora Matancera Desde Cuba. 20 \u00c9xitos",
         "url": "https://open.spotify.com/album/1kbXCTnGNOxY3jPGnrfxN1"
       },
@@ -295,22 +311,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Mambo",
-        "url": "https://open.spotify.com/album/5ziv918FePQggsqRgyxOQb"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 156880,
-      "name": "Cerezo Rosa",
-      "url": "https://open.spotify.com/track/2718M9JCtwKzYqMlq4nR6f"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Leyendas Solamente Los Mejores",
         "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
       },
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Boleros In Tr\u00edo",
-        "url": "https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7"
+        "name": "Mambo",
+        "url": "https://open.spotify.com/album/5ziv918FePQggsqRgyxOQb"
       },
       "artists": [
         {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
         }
       ],
-      "duration_ms": 157480,
-      "name": "Amor Que Malo Eres",
-      "url": "https://open.spotify.com/track/3UALUQSEr7cIp3yjnPCMVe"
+      "duration_ms": 156880,
+      "name": "Cerezo Rosa",
+      "url": "https://open.spotify.com/track/2718M9JCtwKzYqMlq4nR6f"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "The Best Of Perez Prado: The Original Mambo #5",
-        "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "Qu\u00e9 Rico el Mambo",
-      "url": "https://open.spotify.com/track/3xyrxS6YnI9r3nsuC6W4Tm"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV"
       },
@@ -451,22 +435,6 @@
       "duration_ms": 183560,
       "name": "Quinto Patio",
       "url": "https://open.spotify.com/track/3HI6DC983guuu26sfCT3jD"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
-        "name": "60 Rancheras Inmortales",
-        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "La que se fue",
-      "url": "https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -487,6 +455,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
+        "name": "60 Rancheras Inmortales",
+        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "La que se fue",
+      "url": "https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
         "name": "Canciones del Corazon",
         "url": "https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 185547,
       "name": "Besame Mucho",
       "url": "https://open.spotify.com/track/6vJJdNPTJKUsUMDmDwfCuB"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "The Best Of Perez Prado: The Original Mambo #5",
+        "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "Qu\u00e9 Rico el Mambo",
+      "url": "https://open.spotify.com/track/3xyrxS6YnI9r3nsuC6W4Tm"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "The King of Mambo",
-        "url": "https://open.spotify.com/album/4gIaN0sSqN7fjDq9NG4vFp"
+        "name": "La M\u00fasica en la Radio",
+        "url": "https://open.spotify.com/album/2mzryIN4cCL6StAlH6tVqX"
       },
       "artists": [
         {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+          "name": "Ana Mar\u00eda Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU"
         }
       ],
-      "duration_ms": 149360,
-      "name": "Cherry Pink And Apple Blossom White",
-      "url": "https://open.spotify.com/track/783XPWZlaGrFcgH3EMoGwB"
+      "duration_ms": 141946,
+      "name": "Espinita",
+      "url": "https://open.spotify.com/track/6elJAHz5ZQTjDbjD6PCEMw"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -547,22 +547,6 @@
       "duration_ms": 146760,
       "name": "Cuando Calienta El Sol",
       "url": "https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
-        "name": "La M\u00fasica en la Radio",
-        "url": "https://open.spotify.com/album/2mzryIN4cCL6StAlH6tVqX"
-      },
-      "artists": [
-        {
-          "name": "Ana Mar\u00eda Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU"
-        }
-      ],
-      "duration_ms": 141946,
-      "name": "Espinita",
-      "url": "https://open.spotify.com/track/6elJAHz5ZQTjDbjD6PCEMw"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -611,6 +595,22 @@
       "duration_ms": 202553,
       "name": "Mil Besos",
       "url": "https://open.spotify.com/track/7hPNJ4s8iAR6v6J8Pa5oR4"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "The King of Mambo",
+        "url": "https://open.spotify.com/album/4gIaN0sSqN7fjDq9NG4vFp"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "Cherry Pink And Apple Blossom White",
+      "url": "https://open.spotify.com/track/783XPWZlaGrFcgH3EMoGwB"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "The Best Of Perez Prado: The Original Mambo #5",
-        "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 150386,
-      "name": "Mambo en Sax",
-      "url": "https://open.spotify.com/track/1hLZBnAopiRfEvbj7aurzi"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Mexican Love Songs",
         "url": "https://open.spotify.com/album/6RVVjKPl18XM1KR5Hf8ldV"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 161400,
       "name": "Vaya Con Dios",
       "url": "https://open.spotify.com/track/4qDzXNAvShqtZtG87bajiB"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "The Best Of Perez Prado: The Original Mambo #5",
+        "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 150386,
+      "name": "Mambo en Sax",
+      "url": "https://open.spotify.com/track/1hLZBnAopiRfEvbj7aurzi"
     },
     {
       "added_at": "2023-02-17 20:56:35",

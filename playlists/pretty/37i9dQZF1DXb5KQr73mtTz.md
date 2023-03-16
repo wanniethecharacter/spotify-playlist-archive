@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,169 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,180 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 9 | [180 Degree](https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [180˚](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6) | 3:49 |
 | 10 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
 | 11 | [Forgetting You](https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr) | 3:12 |
-| 12 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
-| 13 | [마음의 말](https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [로봇이 아니야, Pt\. 3 Original Television Soundtrack](https://open.spotify.com/album/5ElDHNX2Jpo6vwkFKhSQCF) | 5:02 |
+| 12 | [마음의 말](https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [로봇이 아니야, Pt\. 3 Original Television Soundtrack](https://open.spotify.com/album/5ElDHNX2Jpo6vwkFKhSQCF) | 5:02 |
+| 13 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
 | 14 | [My sea](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:16 |
 | 15 | [Someday](https://open.spotify.com/track/5W3SrNE55U2N5kg2ygA1lx) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/685mm3HkTIAFJYRSpGJul8) | 4:18 |
 | 16 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 36 | [Love Me Like You Used To](https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [START\-UP \(Original Television Soundtrack\) Pt\. 15](https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP) | 3:36 |
 | 37 | [Into My Heart](https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Encounter \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u) | 3:19 |
 | 38 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 |
-| 39 | [Again, goodbye](https://open.spotify.com/track/20sEI5enxxStjRnoKxJTA0) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Again, goodbye \(YAOKI Project part.2\)](https://open.spotify.com/album/2GcLzQ6EGtG6ssDLR3UbUZ) | 4:21 |
-| 40 | [LONER](https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [If You Wish Upon Me OST Part.1](https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A) | 3:39 |
+| 39 | [LONER](https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [If You Wish Upon Me OST Part.1](https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A) | 3:39 |
+| 40 | [Again, goodbye](https://open.spotify.com/track/20sEI5enxxStjRnoKxJTA0) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Again, goodbye \(YAOKI Project part.2\)](https://open.spotify.com/album/2GcLzQ6EGtG6ssDLR3UbUZ) | 4:21 |
 | 41 | [How You Been](https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq) | 2:58 |
 | 42 | [Memory](https://open.spotify.com/track/7euYyyuujaCpTaAeEudOLd) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/67HFNkpetCimboi5JzugYd) | 4:23 |
 | 43 | [The Hardest Part](https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [The Hardest Part](https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY) | 4:18 |
 | 44 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 |
-| 45 | [바람이 분다](https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon 눈썹달](https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA) | 3:56 |
-| 46 | [Close My Eyes](https://open.spotify.com/track/0uhRzFqvR7gR4WIAPf1CsC) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [Strangers Again, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/6N8MuFv8LwKBQ3dIDqqdoa) | 4:13 |
-| 47 | [The last stop of our pain](https://open.spotify.com/track/6RIWij0YRX8zZJ9pv9CTbS) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The last stop of our pain](https://open.spotify.com/album/1738g3cEdlEp8BantdCSOC) | 4:12 |
-| 48 | [You Are The Sea](https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [You Are The Sea \(CURTAIN CALL OST Part.4\)](https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw) | 4:06 |
+| 45 | [Close My Eyes](https://open.spotify.com/track/0uhRzFqvR7gR4WIAPf1CsC) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [Strangers Again, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/6N8MuFv8LwKBQ3dIDqqdoa) | 4:13 |
+| 46 | [바람이 분다](https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon 눈썹달](https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA) | 3:56 |
+| 47 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 |
+| 48 | [Emptiness in Memory](https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Emptiness in Memory](https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG) | 4:38 |
 | 49 | [Unreachable \(Feat\. Milena\)](https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Unreachable](https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm) | 3:06 |
-| 50 | [Emptiness in Memory](https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Emptiness in Memory](https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG) | 4:38 |
+| 50 | [You Are The Sea](https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [You Are The Sea \(CURTAIN CALL OST Part.4\)](https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw) | 4:06 |
 
-Snapshot ID: `MTY3NzU3OTI1MywwMDAwMDAwMDVjODcyYWY4ZjQxYmQ3OWY2ZWJkMTljODEwNTAwNzNm`
+Snapshot ID: `MTY3NzU3OTI1MywwMDAwMDAwMGYwZmNiYzgyNTNlZjY3MDRhZGUxMGViMTVhNjE1NTM1`

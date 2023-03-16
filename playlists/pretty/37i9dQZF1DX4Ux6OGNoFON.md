@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Dread Mar I
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,822 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,015 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 | 2 | [Arbol Sin Hojas](https://open.spotify.com/track/1B4XhExXA4NswSQPetDuEg) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Vivi En Do](https://open.spotify.com/album/1nqhr6N5KbIaUbsTXq5WCa) | 3:19 |
 | 3 | [Binikini](https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Binikini](https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj) | 3:03 |
 | 4 | [Antonia](https://open.spotify.com/track/5n40SAKMk89wdWyhTfWzx4) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [RAS Portraits](https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9) | 4:08 |
-| 5 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Skillzbeatz](https://open.spotify.com/artist/09cwFodlXUIGfh0h0O2dH7) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 |
+| 5 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Skillz Beatz](https://open.spotify.com/artist/1mCTvKCE9hqsj2CnX81iUM) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 |
 | 6 | [Ilegal](https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 5:06 |
 | 7 | [Invierno Tropical](https://open.spotify.com/track/6zXHHDhDNcr9cxNBegn0WJ) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [Invierno Tropical](https://open.spotify.com/album/5scawj9AZxPfXlI3x930QR) | 2:59 |
 | 8 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 |

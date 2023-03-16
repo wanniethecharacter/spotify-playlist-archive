@@ -4,7 +4,7 @@
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-263 songs - 13 hr 35 min
+264 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bigger Than Me](https://open.spotify.com/track/1igXQJ8h25DY4AiVgyGohE) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Bigger Than Me](https://open.spotify.com/album/11Kmry6hzWz0VFAI7s2Iz1) | 3:41 | 2022-09-02 | 2022-09-24 |
 | [BLENDER](https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 2:27 | 2022-07-22 | 2022-08-24 |
 | [Bloodline](https://open.spotify.com/track/2GNPhhSY0Fwdd7s0MLR7Ws) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [Bloodline](https://open.spotify.com/album/6jQ3xVBUKhF94X1kvScRnc) | 3:21 | 2023-02-17 |  |
+| [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 | 2023-03-16 |  |
 | [Boxes](https://open.spotify.com/track/0fz7chmZCjFLLwW8n1g1DZ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Boxes](https://open.spotify.com/album/322ibWsVZQuqlXPtyMWOZM) | 2:48 | 2022-05-13 | 2022-06-22 |
 | [Boys Like You](https://open.spotify.com/track/5ttLiAKwzLynIfBye4mUhD) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Boys Like You](https://open.spotify.com/album/2KaoA33HHCgzGSbCvKM0tk) | 2:57 | 2022-07-22 | 2022-10-15 |
 | [Boys Like You](https://open.spotify.com/track/7t6Vx0UfiaMfDougM4EtAk) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Boys Like You](https://open.spotify.com/album/6yVJklbE07YlkGLl5LlygH) | 2:57 | 2022-10-14 | 2023-02-07 |
@@ -181,7 +182,7 @@
 | [One Of Us](https://open.spotify.com/track/07IKYVGXYta34nMlu6OWit) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/0u59JNRwvPl2rfN5OIY8Zn) | 2:58 | 2023-01-18 | 2023-01-20 |
 | [One Of Us](https://open.spotify.com/track/1ItdTDx23yt7tIJOZv5iLQ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 2:58 | 2023-02-06 |  |
 | [One Of Us](https://open.spotify.com/track/1lmLWFZA8056zsE4paVrPC) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/4k4NkY9Y054ETiqhz2cNCS) | 2:58 | 2023-01-18 | 2023-01-30 |
-| [Paradise](https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:42 | 2022-10-27 |  |
+| [Paradise](https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:42 | 2022-10-27 | 2023-03-16 |
 | [Paradise \(with Sam Feldt\)](https://open.spotify.com/track/2zPWT2axxNsXMU6CZn3PS5) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Paradise \(with Sam Feldt\)](https://open.spotify.com/album/5Tr4VgDrUDYifGz5G3TXu6) | 2:40 | 2022-05-06 | 2022-07-29 |
 | [Pick Me Up](https://open.spotify.com/track/6VYIVgVqEIwzRwpJz5rMa4) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Pick Me Up](https://open.spotify.com/album/3T9hIEz1oe5vAOy4nU8Vk0) | 2:54 | 2022-05-06 | 2022-07-29 |
 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 | 2022-08-12 | 2023-02-10 |

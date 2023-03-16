@@ -4,7 +4,7 @@
 
 > iykyk
 
-891 songs - 1 day 23 hr 55 min
+894 songs - 2 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Chill Like That](https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf) | 2:58 | 2022-10-13 | 2022-12-29 |
 | [Chill Like That](https://open.spotify.com/track/6rLyDeWcz8GDRkg8F9SqgL) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/7ssIu39mDWLqnDO70JPn4n) | 2:58 | 2022-10-13 | 2022-10-29 |
 | [Chrissy, Wake Up](https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV) | [The Gregory Brothers](https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew) | [Chrissy, Wake Up](https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb) | 1:05 | 2022-07-08 | 2022-09-13 |
+| [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2023-03-15 |  |
 | [CHRONICALLY CAUTIOUS](https://open.spotify.com/track/73ZWAySu4UX5LkpCM6zjYh) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CHRONICALLY CAUTIOUS](https://open.spotify.com/album/418zZ5Y7Wds4r6JiIU0WEL) | 1:59 | 2023-02-24 |  |
 | [Cigarettes out the Window](https://open.spotify.com/track/5GKekzF1YcR2DQd9c3DI8y) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U) | 3:18 | 2022-01-16 | 2022-05-12 |
 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 | 2022-04-05 | 2022-05-05 |
@@ -184,6 +185,7 @@
 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 | 2022-09-28 | 2022-12-24 |
 | [Cry](https://open.spotify.com/track/0Qr61NXlyAeQaADO5xn3rI) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:16 | 2022-11-17 |  |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-09-15 | 2022-11-04 |
+| [Cupid](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-15 |  |
 | [Cure For Me](https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:21 | 2022-09-06 | 2022-09-21 |
 | [Cure For Me](https://open.spotify.com/track/4cNhoRXxvy8LNbTSlZEuP3) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/04JQlhYtZwd9t2HTsxDKfr) | 3:21 | 2022-09-06 | 2022-09-15 |
 | [Cut My Fingers Off](https://open.spotify.com/track/5ARrWiDDRDocvURbemcnCy) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [Cut My Fingers Off](https://open.spotify.com/album/0iTfRgGOirNa2W7ran3xHo) | 2:19 | 2022-02-27 | 2022-03-24 |
@@ -378,8 +380,9 @@
 | [I Love You So](https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Songs for Dads](https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5) | 2:40 | 2021-09-22 | 2022-05-29 |
 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2023-01-11 | 2023-01-28 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-23 | 2022-09-30 |
-| [I Think I Like When It Rains](https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3DRdTebuRYHafp1XJKJ0g2) | 4:38 | 2023-02-17 |  |
+| [I Think I Like When It Rains](https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3DRdTebuRYHafp1XJKJ0g2) | 4:38 | 2023-02-17 | 2023-03-16 |
 | [I Think I Like When It Rains](https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3kWPtRY5FCFhjDFTMNdvP3) | 4:38 | 2022-05-28 | 2023-03-02 |
+| [I Think I Like When It Rains \(Tik Tok Edit\) \- Remix](https://open.spotify.com/track/0eng9xR6sdmwYLkkEjsjFq) | [Green Neon DJ](https://open.spotify.com/artist/6CnsxWcIeS3Q3MNQSJ59M4) | [I Think I Like When It Rains \(Tik Tok Edit\) \[Remix\]](https://open.spotify.com/album/0123CbCiDs2kirZxMHr63u) | 4:41 | 2023-02-17 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2022-04-25 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR) | 3:03 | 2022-04-25 | 2022-07-29 |
 | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/album/3sDyDb1TaOpMmQCyEZwp1c) | 2:45 | 2022-05-12 | 2022-11-14 |

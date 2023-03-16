@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. Artwork by Ian Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,822 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,768 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 19 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 |
 | 20 | [on the pisces moon](https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [on the pisces moon](https://open.spotify.com/album/6j8xtmODCWGglY03htjnDU) | 2:46 |
 | 21 | [Bulletproof](https://open.spotify.com/track/0p44iWv9aQIxAhozDpfBW6) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [Bulletproof](https://open.spotify.com/album/0SSTsFoQpghdqy6RlhTGZF) | 3:10 |
-| 22 | [HARD ON A HOE](https://open.spotify.com/track/57NGLvudhDuIRG0G9UPP68) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6) | [BLADE](https://open.spotify.com/album/6b5umXKMXXrywrDW5xyvoL) | 3:06 |
+| 22 | [hard on a hoe](https://open.spotify.com/track/57NGLvudhDuIRG0G9UPP68) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6) | [BLADE](https://open.spotify.com/album/6b5umXKMXXrywrDW5xyvoL) | 3:06 |
 | 23 | [How Ya Doin?](https://open.spotify.com/track/0JgtIJOEufjOjvNFGagHvO) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [How Ya Doin?](https://open.spotify.com/album/638PAzebMcP3N89HK0UPaj) | 2:07 |
 | 24 | [GNARLY! \(WITH ARMANI WHITE\)](https://open.spotify.com/track/19wJJ7XPv1IQ6tWZ6LktGu) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [GNARLY! \(WITH ARMANI WHITE\)](https://open.spotify.com/album/47OW0oO4aSghC0y0ivflp5) | 2:27 |
 | 25 | [I See Walking Caskets](https://open.spotify.com/track/6fipbTytF7EemCZiutVtOl) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [I See Walking Caskets](https://open.spotify.com/album/1vvaWC0ov1lC4jwNTJJm99) | 2:01 |

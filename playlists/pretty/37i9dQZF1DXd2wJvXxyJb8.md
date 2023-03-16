@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > procuro novos amigos....requisito: casa com piscina...manda dm
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,438 likes - 65 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,064 likes - 65 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 61 | [Me Chama de Amor \- Arrochadeira Remix](https://open.spotify.com/track/1ih3nbYJ0lugsku6065BC5) | [O Tubarão](https://open.spotify.com/artist/5oqu436HPM9PGpNSlPBpAT), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Me Chama de Amor \(Arrochadeira Remix\)](https://open.spotify.com/album/6VHZaHeeY9g9bYrgbyVsOq) | 2:09 |
 | 62 | [Bandido](https://open.spotify.com/track/5PZAbR6JHYYV9xp5gv0XES) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth) | [Bandido](https://open.spotify.com/album/05f4GTA4Okt2L7VEiLWns9) | 2:12 |
 | 63 | [No Ouvidinho](https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [No Ouvidinho](https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq) | 3:03 |
-| 64 | [O Poder Dessa Garota](https://open.spotify.com/track/4aoZBldNDVYmTwmeoI49ud) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx) | [O Poder Dessa Garota](https://open.spotify.com/album/3EBubCq7RZgQSzr5LiDaDP) | 2:16 |
+| 64 | [O Poder Dessa Garota](https://open.spotify.com/track/3emWP5AGvDHFAlHlCOPiqT) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx) | [O Poder Dessa Garota](https://open.spotify.com/album/443D9lOS7CSKSgR0RxaxdV) | 2:16 |
 | 65 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MTY3ODgwNjUyNCwwMDAwMDAwMDY5MDQwNmY3YmY4YzU1ODZhNGE2NjNmZTc1YjI5MmM4`
+Snapshot ID: `MTY3ODgwNjUyNCwwMDAwMDAwMGY3YjRkYTE3YjY0NDdmMDkyYWQ5MDUzZTQ3NTZhOWY1`

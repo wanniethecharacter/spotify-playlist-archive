@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-89 songs - 8 hr 32 min
+91 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Le Flute](https://open.spotify.com/track/1WnZTp8oX83UoUlCJ2M2Rk) | [Sirhan](https://open.spotify.com/artist/5sMckZzTxJ15aUpf8j4Xsy) | [BONFIDO 001](https://open.spotify.com/album/4itOijRXiDntdXEMaTdNfa) | 4:49 | 2022-12-20 |  |
 | [Like It Is](https://open.spotify.com/track/2hFjxLPeeBZrvLb302MKLj) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Disco Volante EP](https://open.spotify.com/album/3F98dsHSClqD3929v1B6S2) | 5:55 | 2022-12-20 |  |
 | [Love Ain't Over \- Club Edit](https://open.spotify.com/track/1QYkx8JV0E6eEXoD1q49dD) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Love Ain't Over](https://open.spotify.com/album/51oTex9Ozpd3DfpUhymt9w) | 5:38 | 2022-12-20 |  |
+| [Lovefool](https://open.spotify.com/track/1UjbMmN5yti1uyZQCuhaBI) | [Juan Yarin](https://open.spotify.com/artist/0cPgP2pYS8lmkzxiJc0hO7) | [Lovefool](https://open.spotify.com/album/0DeLusvmxOjBZqBjSU15yN) | 6:57 | 2023-03-15 |  |
 | [Manicumbi](https://open.spotify.com/track/4krFTTwq6VAFDZ3P419E8f) | [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Vuelo Nocturno](https://open.spotify.com/album/256r81ENnMGjkDukVfuEUP) | 6:44 | 2022-12-20 |  |
 | [Matrix \- Sofia Kourtesis Remix](https://open.spotify.com/track/5hjiRNGMYjihPgvNl12W0A) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Matrix \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/3GWAJo3AAQVbQjaBVgEVcn) | 6:44 | 2022-12-20 |  |
 | [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 | 2022-12-20 |  |
@@ -85,6 +86,7 @@
 | [The Smooth Gardens](https://open.spotify.com/track/1kc63KSnLgfmMlTvdNq5vy) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Abundance](https://open.spotify.com/artist/2MKLLVjzKTYmAUBET3TNhB) | [The Smooth Gardens](https://open.spotify.com/album/05agmHH1BbMfVv58c6z4FD) | 9:13 | 2022-12-20 | 2023-02-11 |
 | [The Smooth Gardens](https://open.spotify.com/track/3iX80Yl6jpfp1VqzOty3eU) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Abundance](https://open.spotify.com/artist/2MKLLVjzKTYmAUBET3TNhB) | [The Smooth Gardens](https://open.spotify.com/album/2KuSDET8iLuZQJllCRQVTA) | 9:13 | 2023-02-10 |  |
 | [This Must Be Home](https://open.spotify.com/track/0yFXCZj2fun1EMDI59bXCz) | [P Sol](https://open.spotify.com/artist/4oPPwY58aaLWGsreDEtL7P) | [Mixed Bag, Vol\. 2](https://open.spotify.com/album/3HpFST1edhuWgScQZcwqDD) | 7:36 | 2022-12-20 |  |
+| [Through Your Love \(feat\. Mr.id & Kawtar Sadik\) \- Extended Mix](https://open.spotify.com/track/1QDTajtWBca20z4NQmACKy) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [Mr.id](https://open.spotify.com/artist/6OEYeOGJNuHVhukFpLY49F) | [Through Your Love \(feat\. Mr.id & Kawtar Sadik\)](https://open.spotify.com/album/47LbnqAz2CQ7fJ4NtBDvv7) | 7:21 | 2023-03-15 |  |
 | [Time](https://open.spotify.com/track/6J3aUG1y0zSJXOnsLhx41h) | [Pachanga Boys](https://open.spotify.com/artist/7EqE0DBntJS6OUT4gK9W3P) | [Girlcatcher](https://open.spotify.com/album/66q0q162WOFuidbucN1Jdp) | 15:13 | 2022-12-20 |  |
 | [Together Onetime](https://open.spotify.com/track/3rWSVB8ImDF3x1P22txCPe) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Together Onetime](https://open.spotify.com/album/5P8aR9Q1LcG1yhthHMuU29) | 6:59 | 2022-12-20 |  |
 | [Trainmann \- Tensnake Franceman Mix](https://open.spotify.com/track/0HpHGti6doPOUBz66MAduf) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Trainmann \(Tensnake Remixes\)](https://open.spotify.com/album/5AVC3IUtdRi3sYyD3pft2f) | 7:36 | 2022-12-20 |  |

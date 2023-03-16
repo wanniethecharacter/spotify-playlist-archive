@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,046 songs - 2 day 8 hr 33 min
+1,047 songs - 2 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,8 @@
 | [Diamantia](https://open.spotify.com/track/3dQasgX8yPD2OxGsEyvBWs) | [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [Diamantia](https://open.spotify.com/album/4qODWAd1f5lMs4oH7bt9iB) | 3:07 | 2021-04-24 | 2021-07-24 |
 | [Diamonds](https://open.spotify.com/track/7oodKU6PGYhIm5WdAoBUOZ) | [YT](https://open.spotify.com/artist/48pDK4NOqLtJxn5AAKVUra) | [Diamonds](https://open.spotify.com/album/1zQFhDxY5uMY0klREveu9Z) | 2:05 | 2021-04-09 | 2021-04-13 |
 | [Diddy](https://open.spotify.com/track/0DV9QK5UZlTG8jwSECi3No) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [Still Active](https://open.spotify.com/album/6yfbRFac4pSvmPOc2INxFe) | 4:06 | 2021-03-27\* | 2021-04-11 |
-| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 |  |
+| [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:52 | 2023-03-15 |  |
+| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 | 2023-03-16 |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-16 |
 | [Die Together](https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Die Together](https://open.spotify.com/album/2wwjIcsUvhqDVJt95NrgQB) | 2:55 | 2022-03-12 | 2022-05-26 |
 | [Diego](https://open.spotify.com/track/1BU2rpXjavf2YHvTyfmku4) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd) | [Super Trapper II](https://open.spotify.com/album/2ceBhmjSZM70fotWrLnsUV) | 4:10 | 2021-09-04 | 2021-09-05 |

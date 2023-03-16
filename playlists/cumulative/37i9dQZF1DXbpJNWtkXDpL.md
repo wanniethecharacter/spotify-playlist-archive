@@ -4,7 +4,7 @@
 
 > ¡Presentamos a nuestros artista Radar México 2022!
 
-212 songs - 11 hr 28 min
+213 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [El Traketeo](https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Traketeo](https://open.spotify.com/album/4agbz0mDBK5O5c5qoAVOsj) | 3:22 | 2021-10-01 | 2022-05-11 |
 | [Elektro](https://open.spotify.com/track/7dFgscXqE9tIXVYrbHQX7t) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Petite Amie](https://open.spotify.com/album/28TqzlvN2K0te8ssOfwnLu) | 3:25 | 2022-05-11 | 2022-07-24 |
 | [Ella En Mi Cama](https://open.spotify.com/track/7xFTTeiNmK0vxRk4m0w1Tx) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Ely Blancarte](https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2) | [Tiempos \(Re\-Issue\)](https://open.spotify.com/album/2gSgn4VsIQzuoXC6b27GNH) | 2:51 | 2021-10-01 | 2022-04-29 |
-| [Empty Process](https://open.spotify.com/track/3nV6TxijHm8BJwZl7wjck8) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Glommy Afternoon](https://open.spotify.com/album/4k34ZmgvcK8b1ljA27Uu4d) | 2:56 | 2022-05-11 |  |
+| [Empty Process](https://open.spotify.com/track/3nV6TxijHm8BJwZl7wjck8) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Glommy Afternoon](https://open.spotify.com/album/4k34ZmgvcK8b1ljA27Uu4d) | 2:56 | 2022-05-11 | 2023-03-16 |
 | [Enamorado](https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Del Corazon](https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C) | 4:05 | 2021-10-01 | 2022-05-10 |
 | [Entes](https://open.spotify.com/track/1AZrJoYxgwoJOnVh8TZc8Y) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Entes](https://open.spotify.com/album/21stBXZTFEuFydbOKDnOdA) | 4:19 | 2022-05-13 | 2022-08-09 |
 | [Esta Noche](https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:09 | 2022-05-13 |  |
@@ -155,6 +155,7 @@
 | [Quédame](https://open.spotify.com/track/6vLpthP41nttqYeyhyBFNx) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Quédame](https://open.spotify.com/album/2suU0mvs2EMYre0h28MZ14) | 2:49 | 2021-10-01 | 2022-05-12 |
 | [Quédate Conmigo](https://open.spotify.com/track/6CwnSxlEYLdfmPGFlY61XC) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Quédate Conmigo](https://open.spotify.com/album/3VlJVBVcyprRfIf21M7fVk) | 3:33 | 2022-05-13 |  |
 | [R9 Aleteo](https://open.spotify.com/track/037VJbDruLmBcxzlEks9oa) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dj Yaso](https://open.spotify.com/artist/6tt7Ubp6rzh4lqATTvdOmd) | [911](https://open.spotify.com/album/18J0q27mMOs2kvlxH2Kqci) | 2:46 | 2022-05-13 | 2023-03-12 |
+| [R9 Aleteo \(feat\. Dj Yaso\)](https://open.spotify.com/track/3smiIP1lD8dG4r4RjK5r0X) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dj Yaso](https://open.spotify.com/artist/6tt7Ubp6rzh4lqATTvdOmd) | [911](https://open.spotify.com/album/2wUqPgGEWs29RVjinkYXeC) | 2:46 | 2022-05-13 |  |
 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 | 2022-06-07 |  |
 | [Salud Por Eso](https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Salud Por Eso](https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR) | 2:59 | 2022-06-03 |  |
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2022-08-01 |  |

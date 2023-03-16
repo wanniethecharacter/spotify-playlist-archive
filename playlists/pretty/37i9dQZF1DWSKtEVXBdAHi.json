@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 1324,
+  "num_followers": 296,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ0MzU0NiwwMDAwMDAwMDFlYzlhNjNiNmRjYjQ4ODkwZDE2ZDQ4MzUwMDY0NTMw",
+  "snapshot_id": "MTY3ODQ0MzU0NiwwMDAwMDAwMDM5YjQ5Y2VlNmEyODAxZmI0ZGQ3NTkyYmUwYjMwNmQw",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -563,22 +563,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Bruises EP",
-        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
+        "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
+        "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         },
         {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
         }
       ],
-      "duration_ms": 212280,
-      "name": "Bruises - Steve Void Remix",
-      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
+      "duration_ms": 162081,
+      "name": "Beautiful People (feat. Khalid) - NOTD Remix",
+      "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -603,18 +607,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Just Friends",
-        "url": "https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe"
+        "name": "Bruises EP",
+        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
       },
       "artists": [
         {
-          "name": "Virginia To Vegas",
-          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
         }
       ],
-      "duration_ms": 168946,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso"
+      "duration_ms": 212280,
+      "name": "Bruises - Steve Void Remix",
+      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -639,26 +647,18 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
-        "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+          "name": "Virginia To Vegas",
+          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
         }
       ],
-      "duration_ms": 162081,
-      "name": "Beautiful People (feat. Khalid) - NOTD Remix",
-      "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
+      "duration_ms": 168946,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -843,22 +843,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Knockout",
-        "url": "https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Knockout",
-      "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Snacks",
         "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 208106,
       "name": "Breathe (feat. Ina Wroldsen)",
       "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Knockout",
+        "url": "https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Knockout",
+      "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -947,6 +947,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Snacks",
+        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Harder (with Bebe Rexha)",
+      "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Not Ok",
         "url": "https://open.spotify.com/album/3GTuto6NDtZegL6idSk183"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 151278,
       "name": "All Star",
       "url": "https://open.spotify.com/track/7eqL9wlOJXQDwzdjUbhTT0"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Snacks",
-        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Harder (with Bebe Rexha)",
-      "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/6KylK197tTFjNoUD8YnIBE"
-      },
-      "artists": [
-        {
-          "name": "Refeci",
-          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
-        },
-        {
-          "name": "Michel Fannoun",
-          "url": "https://open.spotify.com/artist/6VMiCKfMjcq2KzrozRA9ko"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/7zhT90M07NLqJb2MsaqWhM"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/03Rd91m56yw4XklwHF9FHq"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 180840,
       "name": "With You",
       "url": "https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/6KylK197tTFjNoUD8YnIBE"
+      },
+      "artists": [
+        {
+          "name": "Refeci",
+          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
+        },
+        {
+          "name": "Michel Fannoun",
+          "url": "https://open.spotify.com/artist/6VMiCKfMjcq2KzrozRA9ko"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/7zhT90M07NLqJb2MsaqWhM"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/5K1nRHJ9JrwHAGXKc0yrZD"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        }
-      ],
-      "duration_ms": 130899,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "OK (The Remixes)",
         "url": "https://open.spotify.com/album/2ridyWvBRA24PXySJ2qeSS"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 184013,
       "name": "OK - Ofenbach Remix",
       "url": "https://open.spotify.com/track/1iPWXMClLL4AZtBuMD0lh3"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/5K1nRHJ9JrwHAGXKc0yrZD"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        }
+      ],
+      "duration_ms": 130899,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU"
     },
     {
       "added_at": "2020-02-18 13:31:30",

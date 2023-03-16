@@ -1233,24 +1233,6 @@
     },
     {
       "album": {
-        "name": "Crystal Green Dream",
-        "url": "https://open.spotify.com/album/2juOEOm48MfX5rbq5Ly9oc"
-      },
-      "artists": [
-        {
-          "name": "Vibe Industry",
-          "url": "https://open.spotify.com/artist/7pPIGqagTGdaLhOUxZTyag"
-        }
-      ],
-      "date_added": "2023-03-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 75440,
-      "name": "Green Noise 2",
-      "url": "https://open.spotify.com/track/07bbQD6cvzCaLUJoHhJBZ7"
-    },
-    {
-      "album": {
         "name": "Green Noise",
         "url": "https://open.spotify.com/album/5xp7qiBsjDBibBlN0Sel06"
       },
@@ -1702,6 +1684,24 @@
       "duration_ms": 201290,
       "name": "Green Noise Pacific",
       "url": "https://open.spotify.com/track/0ZAVSjM0ErAvGaj4jirIci"
+    },
+    {
+      "album": {
+        "name": "Crystal Green Dream",
+        "url": "https://open.spotify.com/album/2juOEOm48MfX5rbq5Ly9oc"
+      },
+      "artists": [
+        {
+          "name": "Vibe Industry",
+          "url": "https://open.spotify.com/artist/7pPIGqagTGdaLhOUxZTyag"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75440,
+      "name": "Green Noise Paradise",
+      "url": "https://open.spotify.com/track/07bbQD6cvzCaLUJoHhJBZ7"
     },
     {
       "album": {

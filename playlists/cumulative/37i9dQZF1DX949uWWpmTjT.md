@@ -4,12 +4,12 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-443 songs - 1 day 6 hr 46 min
+445 songs - 1 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Tis Autumn](https://open.spotify.com/track/4Gv9rfzkqUZp3iE3JBTcd6) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [All Kinds Of Weather](https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT) | 9:07 | 2021-12-03 | 2023-03-05 |
-| [\(It Will Have To Do\) Until The Real Thing Comes Along \- Remastered](https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [A Swingin' Affair](https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3) | 6:49 | 2021-12-03 |  |
+| [\(It Will Have To Do\) Until The Real Thing Comes Along \- Remastered](https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [A Swingin' Affair](https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3) | 6:49 | 2021-12-03 | 2023-03-16 |
 | [A Clean Record](https://open.spotify.com/track/0wyvsAqerhZ4Xoz7mUn49j) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [A Clean Record](https://open.spotify.com/album/1ayvuzsFIo0Momz5T2OGpA) | 3:16 | 2022-12-08 |  |
 | [A Fine Romance](https://open.spotify.com/track/191Pkd7ZYqI2zgQ3QbCbfM) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 3:41 | 2021-12-03 | 2023-02-28 |
 | [A Foggy Day](https://open.spotify.com/track/1TIBoZ9EokVBNMJxetdfO0) | [Robert Kaddouch](https://open.spotify.com/artist/1xbBIDmxFyssNnRwvZJCmO), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [53rd Street](https://open.spotify.com/album/4qNuS2VIZZozT0RcI8c5tJ) | 6:33 | 2021-12-03 | 2022-07-29 |
@@ -202,6 +202,7 @@
 | [Intermezzo](https://open.spotify.com/track/0TvvhxT76LgtvwtCDZ3Uw4) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 3:36 | 2021-12-03 | 2022-05-20 |
 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 | 2022-11-10 |  |
 | [It Might As Well Be Spring](https://open.spotify.com/track/2ZEkwS2dzMcOlBbl8Twr3h) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [More Than You Know](https://open.spotify.com/album/4VU42lLFiXY4Xcr4tcoPZa) | 3:07 | 2022-04-28 | 2023-02-18 |
+| [It Might as Well Be Spring](https://open.spotify.com/track/3J0Egyk01LWoJfsdvN4P42) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [More Than You Know](https://open.spotify.com/album/5RXXDpraIIfdtZjGLKqp95) | 3:07 | 2023-03-09 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/14ahpcc73FbLDHBOJvWk1m) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Keepnews Collection\)](https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ) | 4:42 | 2021-12-03 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [It Never Entered My Mind](https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d) | 4:11 | 2022-11-10 |  |
 | [It Never Entered My Mind \- Remastered](https://open.spotify.com/track/47zglRNpxJfxadAe3C6xQe) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Miles Davis \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 4:03 | 2021-12-03 | 2022-05-25 |
@@ -266,6 +267,7 @@
 | [Morii](https://open.spotify.com/track/25uH0QfCoOQ5Jw2c0rXGWf) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Morii](https://open.spotify.com/album/1ESEXNpgchtK0kal3g1lyo) | 3:48 | 2023-02-16 |  |
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-11-10 |  |
 | [Muddy Trail](https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Muddy Trail](https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J) | 3:40 | 2023-01-05 |  |
+| [My first kiss](https://open.spotify.com/track/30VQy0OHXjam8lKkpsZF4Z) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [My first kiss](https://open.spotify.com/album/1Qhe73UDyVrdfpi6j3Ymnw) | 3:24 | 2023-03-09 |  |
 | [My Fortune](https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [My Fortune](https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ) | 4:31 | 2022-11-10 |  |
 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 | 2023-01-12 |  |
 | [My Old Flame](https://open.spotify.com/track/5yZSSjUOsrp36P5uKdvuj8) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 10:18 | 2021-12-03 | 2022-09-23 |
@@ -324,7 +326,7 @@
 | [Ruby My Dear](https://open.spotify.com/track/4UsWPDI7ztp83qi9QVLp0C) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Ruby My Dear](https://open.spotify.com/album/5oTmFu8GHDDeSIr1ui7opy) | 3:51 | 2023-02-09 |  |
 | [Ruth's Theme](https://open.spotify.com/track/1bzYSxJAGfKdB3POuvBfrB) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Ruth's Theme](https://open.spotify.com/album/5JQoYZU0vfBT3N2IDdR6I8) | 2:51 | 2023-03-02 |  |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-11-10 |  |
-| [Say It Over And Over Again](https://open.spotify.com/track/2nivRlQMUpL7yDOS7hLPY9) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Lost In Your Eyes](https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh) | 3:20 | 2023-02-09 |  |
+| [Say It Over And Over Again](https://open.spotify.com/track/2nivRlQMUpL7yDOS7hLPY9) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Lost In Your Eyes](https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh) | 3:20 | 2023-02-09 | 2023-03-16 |
 | [Search for Peace](https://open.spotify.com/track/045TksBNi3CO5Y00Z4RqPC) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv), [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Far Far Away](https://open.spotify.com/album/6lxH5swGpO4njwde8GFdmy) | 4:45 | 2023-02-09 |  |
 | [Self\-Portrait In Three Colours](https://open.spotify.com/track/1dLb36wK59q5QgGCZE9YyK) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/4Z8nWz3dGybOP7lhMZpcOo) | 3:06 | 2021-12-03 | 2022-11-11 |
 | [Shadows](https://open.spotify.com/track/08WnE2pJN9r7WirMgSFlJf) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Shadows](https://open.spotify.com/album/6F1iyLE5hOfOxYLBP0PUmZ) | 3:36 | 2023-01-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: Hit Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,962 likes - 66 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,009 likes - 66 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 5 | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/album/6KgSP1vLwIc3xBI7hUTrly) | 2:18 |
 | 6 | [IDC \(with Joony\)](https://open.spotify.com/track/12zPyoqYbVdi5JoZ4A0q22) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 1:50 |
 | 7 | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG) | 1:30 |
-| 8 | [60 Days](https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [60 Days](https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS) | 3:00 |
+| 8 | [60 Days](https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [60 Days](https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS) | 3:19 |
 | 9 | [Bite](https://open.spotify.com/track/357BPRQBOi7m38Kl3Jn7j8) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Bite](https://open.spotify.com/album/7tMqwp42zyOZaSpQgnp03t) | 2:52 |
 | 10 | [Picture Me Rollin](https://open.spotify.com/track/7zl027fbbje7N7cEWqL77c) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Dom Bailey](https://open.spotify.com/artist/1cXct7vdvThSDXNH0geMia) | [DRAGONFLY](https://open.spotify.com/album/2yYtTOhorG2RWykAiaZgPP) | 3:30 |
 | 11 | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \- Trailer Anthem](https://open.spotify.com/track/3m1jxAm00zLilZWhLvux8V) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \[Trailer Anthem\]](https://open.spotify.com/album/53g3xtUBbikG4XQJ0VKPBk) | 2:27 |

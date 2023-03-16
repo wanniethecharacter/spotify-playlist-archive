@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8Cy8eCcjXW.md) - [plain]
 
 > The genre\-bending singer's essential hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,595 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,172 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

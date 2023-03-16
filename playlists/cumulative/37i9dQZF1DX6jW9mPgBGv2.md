@@ -4,7 +4,7 @@
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Bryant Myers, YOVNGCHIMI, Dei V y Ankhal plantando cara.
 
-72 songs - 4 hr 36 min
+73 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Anuel AA: Bzrp Music Sessions, Vol\. 46](https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Anuel AA: Bzrp Music Sessions, Vol\. 46](https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c) | 3:21 | 2021-12-01 |  |
 | [Ballin](https://open.spotify.com/track/0baxKexRrQMY0rQtrgPY9I) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Shootter Ledo](https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH) | [Ballin](https://open.spotify.com/album/1Ls8KSuaiwbo3dCFJJcrb7) | 3:30 | 2021-12-01 |  |
 | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp) | 3:09 | 2021-12-01 | 2022-03-27 |
-| [Bobby](https://open.spotify.com/track/3xbl4UEJ28HP7ivHhcm44w) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Bobby](https://open.spotify.com/album/1zxwvuzQYGoDG42nTboexS) | 3:16 | 2021-12-01 |  |
+| [Bobby](https://open.spotify.com/track/39szbBeiqQtomPnozReEg9) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [3O](https://open.spotify.com/album/1pg2wYeS9f748uM2fgZBMh) | 3:16 | 2022-07-28 |  |
+| [Bobby](https://open.spotify.com/track/3xbl4UEJ28HP7ivHhcm44w) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Bobby](https://open.spotify.com/album/1zxwvuzQYGoDG42nTboexS) | 3:16 | 2021-12-01 | 2023-03-16 |
 | [Bobby Pulido](https://open.spotify.com/track/6sSPFlLN2UT1sAkqQrtwyL) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [Bobby Pulido](https://open.spotify.com/album/48PYJSYTw1etebnuoJRX1v) | 2:36 | 2021-12-01 | 2022-04-26 |
 | [BOOKER T](https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:36 | 2021-12-01 |  |
 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 | 2021-12-01 |  |

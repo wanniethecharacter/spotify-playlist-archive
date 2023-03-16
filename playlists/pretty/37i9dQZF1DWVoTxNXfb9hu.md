@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 
 > Colourful songs to kickstart your Holi party! Cover \- Yeh Jawaani Hai Deewani
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,295 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,284 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 | 48 | [Naah Goriye](https://open.spotify.com/track/2q12vH6qEvg8y1XBCgTbHZ) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Swasti Mehul](https://open.spotify.com/artist/7r7WoKowe8dCfQCl9GACDM) | [Bala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eqqSmPlC78OQpQoAnkt7z) | 3:04 |
 | 49 | [Chhote Chhote Peg](https://open.spotify.com/track/3AQrBSjowqCFu2jiFFuGsv) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Navraj Hans](https://open.spotify.com/artist/4ItzUQL1OI4JNDGNdKHR1K) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:23 |
 | 50 | [Makhna](https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Makhna \(From "Drive"\)](https://open.spotify.com/album/2HSFoyWN8n9c3f2SMceRrO) | 3:03 |
-| 51 | [Bang Bang](https://open.spotify.com/track/7DonyrUlcVcrtk28mqvWNL) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bang Bang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OPaPfgLzRn30767pjwfY3) | 5:20 |
+| 51 | [Bang Bang](https://open.spotify.com/track/5R7HpWXej6SiCrd9YJsC5g) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bang Bang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zhx5FG1P3Rc9Ufbr9bIgF) | 5:20 |
 | 52 | [Aankh Marey \(From "Simmba"\)](https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Aankh Marey \(From "Simmba"\)](https://open.spotify.com/album/4Tm5PfvhoU8ZAkmHYvEzIN) | 3:32 |
 | 53 | [Muqabla \(From "Street Dancer 3D"\)](https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Muqabla \(From "Street Dancer 3D"\)](https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW) | 2:56 |
 | 54 | [Tamma Tamma Again](https://open.spotify.com/track/5sqPE9h98DkO5ms20NUiUg) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Badrinath Ki Dulhania](https://open.spotify.com/album/26ska1StQhwbWADLTg2hky) | 3:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 | 59 | [Do Me A Favour \(Lets Play Holi\)](https://open.spotify.com/track/37V4h43Fdfd6Gsp98mD5yh) | [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Waqt\- The Race Against Time](https://open.spotify.com/album/1Lc3GqjgljnR0isKfwsdM0) | 6:29 |
 | 60 | [Aaj Ki Party](https://open.spotify.com/track/1vmQPVE7vbgSZ12C8MlKX8) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 4:40 |
 
-Snapshot ID: `MTY3ODcxMDk3NCwwMDAwMDAwMDFjMzJlMjg3YWZkZDBmMzI2ZDM1NWZmNTBkNzY1YzM5`
+Snapshot ID: `MTY3ODcxMDk3NCwwMDAwMDAwMDI2Mjg5OGNlMDBiYzg5ODE0MDBkNmY3MjE2ODY1MzEw`

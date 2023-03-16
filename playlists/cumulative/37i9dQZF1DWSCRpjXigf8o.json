@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 168828,
       "name": "Archetype",
       "url": "https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN"
@@ -3218,6 +3218,24 @@
       "duration_ms": 262200,
       "name": "The Meeting Place",
       "url": "https://open.spotify.com/track/7n09veyrtEC6g7e33V98XY"
+    },
+    {
+      "album": {
+        "name": "The Way You Look At Me",
+        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251571,
+      "name": "The Way You Look At Me",
+      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
     },
     {
       "album": {

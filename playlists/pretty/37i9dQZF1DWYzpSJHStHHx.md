@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Songs to surf to\. Co\-curated by the cast of OBX \(Chase Stokes, Rudy Pankow, Madelyn Cline and Carlacia Grant\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,913 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,012 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,18 +35,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 25 | [Going Gets Tough](https://open.spotify.com/track/0dEhydwCE5Og4PLKyjfqMR) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Chinese Fountain](https://open.spotify.com/album/6exFB8EKturdauvN5XV0ov) | 3:28 |
 | 26 | [Eternal Summer](https://open.spotify.com/track/6IRzBP4gVoV4D2zHmocoWy) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 6:15 |
 | 27 | [Wouldn't It Be Nice](https://open.spotify.com/track/6VojZJpMyuKClbwyilWlQj) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits](https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ) | 2:33 |
-| 28 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
-| 29 | [Salute Your Solution](https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg) | 2:59 |
+| 28 | [Salute Your Solution](https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg) | 2:59 |
+| 29 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
 | 30 | [Greek Tragedy](https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug \(Deluxe Edition\)](https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I) | 3:29 |
 | 31 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 |
 | 32 | [Petals](https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Sugar at the Gate](https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh) | 2:54 |
 | 33 | [Dern Kala](https://open.spotify.com/track/47FmTHqPWGWEfbgDpLjvCt) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:39 |
-| 34 | [Swim and Sleep \(Like a Shark\)](https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 2:45 |
-| 35 | [Stop Sign](https://open.spotify.com/track/58EybRsv2eC0iUfiYTmw8a) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Stop Sign](https://open.spotify.com/album/39IWUYaXBd6p1DaBRq4UDO) | 3:01 |
+| 34 | [Stop Sign](https://open.spotify.com/track/58EybRsv2eC0iUfiYTmw8a) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Stop Sign](https://open.spotify.com/album/39IWUYaXBd6p1DaBRq4UDO) | 3:01 |
+| 35 | [Swim and Sleep \(Like a Shark\)](https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 2:45 |
 | 36 | [Magdalene](https://open.spotify.com/track/7MNsTjkgyA32BetybYx742) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/3epIoUnC4FeVi8g59Hxd9F) | 2:31 |
 | 37 | [Saltwater](https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:07 |
 | 38 | [big fat mouth](https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Wait](https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ) | 3:38 |
 | 39 | [Dorothy](https://open.spotify.com/track/7jay75cMfpEIyIkkvmemYr) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:06 |
 | 40 | [Drugs](https://open.spotify.com/track/5T545E02gCrnhkPoHXJPxK) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [M.A.G.S.](https://open.spotify.com/album/02lZc0jdze6xKqeXeAWbyg) | 2:14 |
 
-Snapshot ID: `MTY3NzcwMjQzNiwwMDAwMDAwMDNiZTY3Zjc3NWFjOTFlZWNlMTQzMTkwYjhlNTMyNGFj`
+Snapshot ID: `MTY3NzcwMjQzNiwwMDAwMDAwMGMwY2NkNGYzNzNhNGM2ZmY2Yjk5ZWE3YjViNWQ5MWNm`

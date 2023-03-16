@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 330239,
+  "num_followers": 330367,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDZlNDVmOTM0ODAzMjk3NmIzMGFjODgxMjc5OWIyMjM1",
+  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDkyMDkwNjYxZjg3ZWYyOTlmYjc4OWNiMzQ4MzhjN2Mz",
   "tracks": [
     {
       "added_at": "2021-01-15 05:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "The Best Of O'Bryan",
-        "url": "https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1"
-      },
-      "artists": [
-        {
-          "name": "O'Bryan",
-          "url": "https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "sweet thing",
         "url": "https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 192220,
       "name": "sweet thing",
       "url": "https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "The Best Of O'Bryan",
+        "url": "https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1"
+      },
+      "artists": [
+        {
+          "name": "O'Bryan",
+          "url": "https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Sketches Of A Man",
-        "url": "https://open.spotify.com/album/7JmLvvLBFLczkeKOuEmeiH"
-      },
-      "artists": [
-        {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/6zteCNciM9nCkDUa86oH3R"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "I Missed Us",
         "url": "https://open.spotify.com/album/11nfQrY5KJRrnqSyvR3Fn8"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 309800,
       "name": "If Only You Knew",
       "url": "https://open.spotify.com/track/5G9j51Sxq2YjpNxeRkpcnJ"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Sketches Of A Man",
+        "url": "https://open.spotify.com/album/7JmLvvLBFLczkeKOuEmeiH"
+      },
+      "artists": [
+        {
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/6zteCNciM9nCkDUa86oH3R"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/5v1twLqXY1LP1L88HPYnDD"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
       },
       "artists": [
         {
-          "name": "Big Bub",
-          "url": "https://open.spotify.com/artist/3CgFQVOvg4sK8vaGtXPIJ4"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 355800,
-      "name": "Zoom",
-      "url": "https://open.spotify.com/track/3OWjkfq3mlexSVFAGamhhr"
+      "duration_ms": 257720,
+      "name": "Love Don't Live Here Anymore",
+      "url": "https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u"
     }
   ],
   "unique_name": "Soul Revived",

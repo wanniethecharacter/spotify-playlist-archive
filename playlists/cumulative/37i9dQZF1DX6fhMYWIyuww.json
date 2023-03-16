@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 196986,
       "name": "Baby I Need Your Lovin'",
       "url": "https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-21",
+      "date_removed": null,
       "duration_ms": 220786,
       "name": "Don't Turn Me Away",
       "url": "https://open.spotify.com/track/5jEuU57nvKw74sYR9Rcej5"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 262693,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221933,
       "name": "Everybody Needs Love",
       "url": "https://open.spotify.com/track/0rLemgaftUhE0iYxp6VQSm"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 216906,
       "name": "Flowing Rivers",
       "url": "https://open.spotify.com/track/2S3sEFjnj7yGCGOqYjRT6C"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201346,
       "name": "Fresh Wind",
       "url": "https://open.spotify.com/track/36SrRVOxaL3YgE5t2VHh7k"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 185533,
       "name": "Honey Don't Leave L.A.",
       "url": "https://open.spotify.com/track/4JYMyddoksmabha0ZCltwA"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239933,
       "name": "How Can This Be Love",
       "url": "https://open.spotify.com/track/0I2h9T7HeYjP9yALFN8dJt"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 227000,
       "name": "I'm a Camera",
       "url": "https://open.spotify.com/track/6XbA5gVGJlza8v7ebAbUZ1"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 198240,
       "name": "Key Largo",
       "url": "https://open.spotify.com/track/4G14XbZpRGNcMTpxwRHrB2"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 202600,
       "name": "Let Out",
       "url": "https://open.spotify.com/track/3q4aF4bp248tWr7lAyoFHe"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 224677,
       "name": "Melanie",
       "url": "https://open.spotify.com/track/60rJnCfWEzBG27ROizelpE"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 253653,
       "name": "Moonlighting",
       "url": "https://open.spotify.com/track/6GOTL6XgV6eiDTBsKIhzc9"
@@ -1122,6 +1122,24 @@
       "duration_ms": 227066,
       "name": "One More Look At The Night",
       "url": "https://open.spotify.com/track/7vUbFCefkYWl4uSpMManF1"
+    },
+    {
+      "album": {
+        "name": "Window",
+        "url": "https://open.spotify.com/album/7kmxQS6OfyLV8ATg83GF6t"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250133,
+      "name": "Open Up My Window",
+      "url": "https://open.spotify.com/track/7jcNMTxgiy9uXEEmUXH6Tt"
     },
     {
       "album": {
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220853,
       "name": "Take Me to Your Heaven",
       "url": "https://open.spotify.com/track/2QQDZl9xzGOM3z0JevtVgZ"
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 261200,
       "name": "The Sailor's Song",
       "url": "https://open.spotify.com/track/0N4DPoheO9PBfubvvsckvt"
@@ -1683,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "Daylight Again (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237013,
+      "name": "Too Much Love to Hide - 2005 Remaster",
+      "url": "https://open.spotify.com/track/7HOmCnPcSoTpaUa2XVXxfo"
+    },
+    {
+      "album": {
         "name": "Rain In My Life",
         "url": "https://open.spotify.com/album/32E84xTdhPXENIhWr9ue8i"
       },
@@ -1694,7 +1730,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 195040,
       "name": "Trail To Your Heart (Sailing Without A Sail)",
       "url": "https://open.spotify.com/track/3IP2UScjrHeDa1gEM1xTme"
@@ -1748,7 +1784,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 215247,
       "name": "Unfaithfully Yours (One Love)",
       "url": "https://open.spotify.com/track/2JexeEgAiwFICCoy9Ysn9r"
@@ -1828,6 +1864,24 @@
       "duration_ms": 180693,
       "name": "What Can I Say",
       "url": "https://open.spotify.com/track/4WSbbEjRQ7uE3IT9crL10B"
+    },
+    {
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
       "album": {

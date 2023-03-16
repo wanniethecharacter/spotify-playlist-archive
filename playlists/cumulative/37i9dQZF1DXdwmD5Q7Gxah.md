@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: d4vd
 
-2,105 songs - 4 day 16 hr 55 min
+2,107 songs - 4 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -760,6 +760,7 @@
 | [Good Grief](https://open.spotify.com/track/7rUytGRv5slfSodhCQQaKf) | [Mad Honey](https://open.spotify.com/artist/1ChYxmoAiT0FOTA0MPJ7DV) | [Good Grief](https://open.spotify.com/album/10pyN4NN0zIgFs18vYupTW) | 3:47 | 2021-07-17 | 2021-08-14 |
 | [Good Looking \(Stripped\)](https://open.spotify.com/track/0ufGu1NoCEIpGkBcF1dT6g) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:37 | 2022-08-12 |  |
 | [Good Looking \(Stripped\)](https://open.spotify.com/track/5LCX1wM1PVSbAdMZOMWF6j) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/44y89J6pXeVRJbEjcjQVu2) | 3:38 | 2022-08-12 | 2022-11-03 |
+| [Good Time](https://open.spotify.com/track/3AHTWM55Eg8QY3u91VJEzZ) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Good Time](https://open.spotify.com/album/0mP4FWMK4wPnA3WCH6VxTz) | 2:13 | 2023-03-15 |  |
 | [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-02-09 |  |
 | [goodnight n go](https://open.spotify.com/track/14kYOiFVPb7E7NfFbqhdln) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:09 | 2019-07-30\* | 2020-10-24 |
 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 | 2019-07-30\* | 2020-03-13 |
@@ -960,6 +961,7 @@
 | [if jesus saves, she's my type](https://open.spotify.com/track/4OmmvUxdmeew6cIJCxd2VH) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [if jesus saves, she’s my type](https://open.spotify.com/album/31eBckdffuyRK8cKmZYhkH) | 3:37 | 2022-02-17 | 2022-04-16 |
 | [IF THERE’S NO SEAT IN THE SKY \(WILL YOU FORGIVE ME???\)](https://open.spotify.com/track/4a3Uc0VzhyittIPDoVVzNv) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [IF THERE’S NO SEAT IN THE SKY \(WILL YOU FORGIVE ME???\)](https://open.spotify.com/album/6JkGbrmwNwHGaxae377iFv) | 3:26 | 2022-03-17 | 2022-04-09 |
 | [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 | 2020-03-03 | 2020-07-29 |
+| [If You Were Mine](https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [If You Were Mine](https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw) | 3:38 | 2023-03-15 |  |
 | [Imagine U](https://open.spotify.com/track/6rsuqpfWuNMpaektrYV906) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Imagine U](https://open.spotify.com/album/2LKCG9YgHEhDeYUP7F6aYo) | 3:09 | 2020-04-09 | 2020-07-29 |
 | [Impress You](https://open.spotify.com/track/1ErdywFnm0dfwqzVwvtZ9O) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Impress You](https://open.spotify.com/album/7LoFWSATc3Vpu8Uv49D4oP) | 3:13 | 2020-09-10 | 2020-11-11 |
 | [In Between Plans](https://open.spotify.com/track/4T59PtRxilhsLFWxWabCEm) | [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [In Between Plans](https://open.spotify.com/album/0YdjMWhmusn8W2QrDYYuAz) | 3:46 | 2019-07-30\* | 2019-10-11 |
@@ -1116,7 +1118,7 @@
 | [Look at it in the Light](https://open.spotify.com/track/4hFwJpN49gRhIXD967q3MB) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:46 | 2022-04-22 | 2022-06-10 |
 | [Looking Out for You](https://open.spotify.com/track/1lpLrlyweOShEKXT1bpcDd) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/2dXtUoM9j3QbqvhlRy5LA2) | 2:59 | 2020-08-21 | 2020-11-11 |
 | [Loose](https://open.spotify.com/track/1pBKb4NHc2mZPGL9BHRPPR) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Loose](https://open.spotify.com/album/4beJq426gqDrSeqP8p5Xnl) | 2:41 | 2022-02-23 | 2022-03-11 |
-| [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 | 2023-01-06 |  |
+| [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 | 2023-01-06 | 2023-03-16 |
 | [Loser](https://open.spotify.com/track/2xDqbLFSfHDlfpeUmJ4RwQ) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Loser](https://open.spotify.com/album/2gsPik2x7iO7kNb8vxHnRk) | 2:06 | 2022-03-18 | 2022-05-12 |
 | [Losing You](https://open.spotify.com/track/5bMSO2vubGmv2tFfXbLlY9) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/3r9UTfGCgZLCOhV7cz99YC) | 4:20 | 2021-03-06 | 2021-03-14 |
 | [Losing You](https://open.spotify.com/track/7wCN8IwqrTQpwkcWH5sP4o) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/50kvbvxJnx4YeSiNvABNqB) | 4:20 | 2019-07-30\* | 2019-08-27 |
@@ -1631,7 +1633,7 @@
 | [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 | 2022-10-11 | 2022-11-17 |
 | [Slowing Down](https://open.spotify.com/track/4PPodWxVosPAXvwLlqbjyt) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/3Yo08VwO5AZjYxM9XC6IXp) | 5:20 | 2022-10-11 | 2022-11-13 |
 | [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-11 | 2022-11-02 |
-| [Slugger](https://open.spotify.com/track/2holnzElUAKzjfQyZ0l9of) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Slugger](https://open.spotify.com/album/5AncBhmQ5R7ZHFachIWRhr) | 2:12 | 2023-02-10 |  |
+| [Slugger](https://open.spotify.com/track/2holnzElUAKzjfQyZ0l9of) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Slugger](https://open.spotify.com/album/5AncBhmQ5R7ZHFachIWRhr) | 2:12 | 2023-02-10 | 2023-03-16 |
 | [Smile](https://open.spotify.com/track/0Q7bQszd9Lr699WS2Uo9aq) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [Smile](https://open.spotify.com/album/3o5CXZt4E5R4KJ6xt7xIui) | 2:23 | 2019-10-04 | 2020-02-20 |
 | [Smile For The Camera](https://open.spotify.com/track/1LmNzbOQTfzP1a5TSFMYbg) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Heart\-Shaped Bruise](https://open.spotify.com/album/5VtC9ZmocqMVXz0s7Tz7Ne) | 3:12 | 2023-01-13 | 2023-03-07 |
 | [Smithereens](https://open.spotify.com/track/5D7yZnGSaFzQMh04MXiPkk) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Smithereens](https://open.spotify.com/album/7x8m7TXlUS70vEyOb82cii) | 2:20 | 2021-12-03 | 2022-01-08 |
@@ -1781,7 +1783,7 @@
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-07-15 | 2022-10-13 |
 | [Sunrise](https://open.spotify.com/track/1W5StOzPxW32oXTlHspq2Q) | [Kenny Elrod](https://open.spotify.com/artist/0aWwEZiU7YOSgIcyxIXnmd) | [Sunrise](https://open.spotify.com/album/57WBcKjbIs69ydVn5WvYrR) | 3:58 | 2020-06-04 | 2020-08-20 |
 | [SUNRISE](https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SUNRISE](https://open.spotify.com/album/6m24WJWs47zUE3d3VhOdK3) | 2:56 | 2020-07-18 | 2021-06-05 |
-| [sunset blvd](https://open.spotify.com/track/6GwnFEbZstFLKZq7HCVH8T) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [sunset blvd](https://open.spotify.com/album/3zpFpt8YfngeKLcsmdScrL) | 1:46 | 2023-01-11 |  |
+| [sunset blvd](https://open.spotify.com/track/6GwnFEbZstFLKZq7HCVH8T) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [sunset blvd](https://open.spotify.com/album/3zpFpt8YfngeKLcsmdScrL) | 1:46 | 2023-01-11 | 2023-03-16 |
 | [Sunsetz](https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 3:34 | 2021-11-13 | 2022-04-09 |
 | [Sunsick](https://open.spotify.com/track/5bRhKVGEj14xo6S5mHz7rh) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Sunsick](https://open.spotify.com/album/6NHBiRrUCP6QGefUIH8KPG) | 2:25 | 2020-11-03 | 2021-01-23 |
 | [Supalonely](https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:43 | 2019-11-16 | 2020-07-29 |

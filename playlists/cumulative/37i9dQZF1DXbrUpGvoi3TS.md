@@ -4,7 +4,7 @@
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-372 songs - 22 hr 51 min
+373 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,8 @@
 | [To Build A Home](https://open.spotify.com/track/54KFQB6N4pn926IUUYZGzK) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5cPHT4yMCfETLRYAoBFcOZ) | 6:11 | 2022-03-24 | 2022-04-20 |
 | [To the Sky \(Moderate\)](https://open.spotify.com/track/71pCkKd9FwWQSgJIuPmrDt) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [The Sitting Room Piano \(Chapter I\)](https://open.spotify.com/album/11lGnHkjB0FdhRvkWP0sVU) | 4:36 | 2022-03-24 | 2022-04-13 |
 | [Tonight I Wanna Cry](https://open.spotify.com/track/0BHNSNcbTxQSwxXNnr9oUw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 4:19 | 2022-03-24 | 2022-04-18 |
-| [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2022-05-19 |  |
+| [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2022-05-19 |  |
+| [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2022-05-19 | 2023-03-16 |
 | [Too Good At Goodbyes \- Edit](https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes](https://open.spotify.com/album/7oiRNdTfUWmsx6DAjEe7DB) | 3:21 | 2021-10-21 | 2022-07-29 |
 | [Too Much To Ask](https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:43 | 2022-05-19 |  |
 | [Too Much To Ask](https://open.spotify.com/track/3hRZsdTF5uyGA2uhNqEuhm) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Too Much To Ask](https://open.spotify.com/album/3gvs9DZKZsUXq8FnbX7Xon) | 3:43 | 2021-10-21 | 2022-07-29 |

@@ -257,6 +257,28 @@
     },
     {
       "album": {
+        "name": "All Flowers In Time Bend Towards The Sun",
+        "url": "https://open.spotify.com/album/7nKc2fN6x7sb7kYQYuAe5j"
+      },
+      "artists": [
+        {
+          "name": "Ruby Weapon",
+          "url": "https://open.spotify.com/artist/52adj4yH6dkuSk0ow4mBIw"
+        },
+        {
+          "name": "Hannah Telle",
+          "url": "https://open.spotify.com/artist/6pXKQVhbDJnq2JknjjrAjr"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261922,
+      "name": "All Flowers In Time Bend Towards The Sun",
+      "url": "https://open.spotify.com/track/6GdHBkw5uOHWXRC5tNWv4U"
+    },
+    {
+      "album": {
         "name": "All Is Well",
         "url": "https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo"
       },
@@ -380,6 +402,24 @@
       "duration_ms": 201190,
       "name": "Am I even living anymore",
       "url": "https://open.spotify.com/track/1ZF6PgaBXLGeU44KBKysD3"
+    },
+    {
+      "album": {
+        "name": "American Spirits",
+        "url": "https://open.spotify.com/album/5DUvm3JSyKM7Oe1bht1vZF"
+      },
+      "artists": [
+        {
+          "name": "Drumming Bird",
+          "url": "https://open.spotify.com/artist/3x2gRycOH4rmXmGnXwiR2K"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "American Spirits",
+      "url": "https://open.spotify.com/track/0blDo5PD8DJTQVI5ATvqhW"
     },
     {
       "album": {
@@ -856,7 +896,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 157802,
       "name": "Burnt Sage",
       "url": "https://open.spotify.com/track/3NX56nHlZ4TwoZzaUW0dgz"
@@ -968,6 +1008,24 @@
       "duration_ms": 262210,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/276TrUGOOI0CpndZYaZxiG"
+    },
+    {
+      "album": {
+        "name": "Carrie",
+        "url": "https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub"
+      },
+      "artists": [
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242193,
+      "name": "Carrie",
+      "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
     },
     {
       "album": {
@@ -1407,6 +1465,24 @@
     },
     {
       "album": {
+        "name": "cowboy",
+        "url": "https://open.spotify.com/album/0WeYuFpp1OiEyEKu0cAcWU"
+      },
+      "artists": [
+        {
+          "name": "m\u00edra",
+          "url": "https://open.spotify.com/artist/0WB5rykKeHBde6sSIfg4jj"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "cowboy",
+      "url": "https://open.spotify.com/track/6WHxVYXL0figqMM7w6RpIu"
+    },
+    {
+      "album": {
         "name": "Cowboy Gangster Politician",
         "url": "https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc"
       },
@@ -1508,10 +1584,28 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 183813,
       "name": "Crooked Creek",
       "url": "https://open.spotify.com/track/0mDww5zU1KP9X2Kx0hEzno"
+    },
+    {
+      "album": {
+        "name": "Nydia Gonzalez",
+        "url": "https://open.spotify.com/album/5KC0wppjb7Vz9PtvLtoZFP"
+      },
+      "artists": [
+        {
+          "name": "Nydia Gonzalez",
+          "url": "https://open.spotify.com/artist/3nH2RqalRI5Nf4WqQl51pI"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149037,
+      "name": "Crossed Paths",
+      "url": "https://open.spotify.com/track/13e0ZH44yMl5zMiFwTGXUD"
     },
     {
       "album": {
@@ -1584,7 +1678,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 201183,
       "name": "Dark Side Of Dreaming",
       "url": "https://open.spotify.com/track/3lcFzLTCJ30L3km2BXYVg6"
@@ -1642,7 +1736,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 243647,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/0E12FUPGpS0DYu6C1zegiu"
@@ -2050,6 +2144,24 @@
       "duration_ms": 169572,
       "name": "Drive You Home",
       "url": "https://open.spotify.com/track/1xUTQQKrTrGc7JPUi5gWPg"
+    },
+    {
+      "album": {
+        "name": "drowning in your love",
+        "url": "https://open.spotify.com/album/3B0jh24EECOAyAabED5Dkw"
+      },
+      "artists": [
+        {
+          "name": "Mindboy",
+          "url": "https://open.spotify.com/artist/0O81hfxitNZJvLBpyZ1jou"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113777,
+      "name": "drowning in your love",
+      "url": "https://open.spotify.com/track/4qZGaFDrX4pYMClCGlG5kR"
     },
     {
       "album": {
@@ -3453,6 +3565,24 @@
     },
     {
       "album": {
+        "name": "Heart In The Water",
+        "url": "https://open.spotify.com/album/5Uie78uNFG2u2VTVBA8ckG"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203178,
+      "name": "Heart In The Water",
+      "url": "https://open.spotify.com/track/7dDCYIuw6YUvcO1nzl8hP5"
+    },
+    {
+      "album": {
         "name": "Heavy Handed",
         "url": "https://open.spotify.com/album/4QZPwH9ALMRJp4G3llnDqK"
       },
@@ -4318,7 +4448,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 308000,
       "name": "June",
       "url": "https://open.spotify.com/track/3Do19iVwOKTq8v6IL3TZ1d"
@@ -4642,7 +4772,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 328034,
       "name": "Let's Turn This Back Around",
       "url": "https://open.spotify.com/track/7gQqOrVXYejRdF0IrM3Cu2"
@@ -4664,6 +4794,24 @@
       "duration_ms": 214736,
       "name": "Life's Got A While",
       "url": "https://open.spotify.com/track/3Ljz2ydMrzGczBPNLKkGuQ"
+    },
+    {
+      "album": {
+        "name": "Like Me",
+        "url": "https://open.spotify.com/album/2iMeG6pm1Wh9axgVyLZj38"
+      },
+      "artists": [
+        {
+          "name": "Indy June",
+          "url": "https://open.spotify.com/artist/6epWHsU0vZydmL6ko32bkT"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167086,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/2vFFhmfdiIRAgp1ZHWsBT2"
     },
     {
       "album": {
@@ -4714,7 +4862,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 142333,
       "name": "Little Twirl",
       "url": "https://open.spotify.com/track/7vmWRYyUn4N70WFWigpMwc"
@@ -4858,7 +5006,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 239556,
       "name": "Low Lying Sun",
       "url": "https://open.spotify.com/track/4At8AIVMFwEQPYh8KrFo7k"
@@ -5439,6 +5587,24 @@
     },
     {
       "album": {
+        "name": "My Heart Can't Take A Hint",
+        "url": "https://open.spotify.com/album/3G3QtqfNLAvchgHrz4zXBu"
+      },
+      "artists": [
+        {
+          "name": "Swimmingly",
+          "url": "https://open.spotify.com/artist/5TwNdcFYWfZtvq3uUPKvTg"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "My Heart Can't Take A Hint",
+      "url": "https://open.spotify.com/track/7zi22N2Bi5wxc6dZgZTcnv"
+    },
+    {
+      "album": {
         "name": "Highways",
         "url": "https://open.spotify.com/album/0bSBKTyijO05S4IHqwQrjC"
       },
@@ -5529,6 +5695,28 @@
     },
     {
       "album": {
+        "name": "Nineties",
+        "url": "https://open.spotify.com/album/4Bi88gDSPSwmKGFqwATHmZ"
+      },
+      "artists": [
+        {
+          "name": "Ryann",
+          "url": "https://open.spotify.com/artist/5EJHdetWppJ5mcyyU2HN52"
+        },
+        {
+          "name": "Charlie Hickey",
+          "url": "https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210498,
+      "name": "Nineties",
+      "url": "https://open.spotify.com/track/7AysA92Rmw6uwTBFPfQxJ3"
+    },
+    {
+      "album": {
         "name": "Norfolk Serpent",
         "url": "https://open.spotify.com/album/5u9np0Rm5quchUdhRuSS1L"
       },
@@ -5594,7 +5782,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 237786,
       "name": "Nobody's Fault but Mine",
       "url": "https://open.spotify.com/track/5bLaH3GxMo04fqvWRKapWC"
@@ -5616,7 +5804,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 477398,
       "name": "Nobody's Home (There's Always a Crow)",
       "url": "https://open.spotify.com/track/1gtoucUonhTPujAnaObuwP"
@@ -5656,6 +5844,24 @@
       "duration_ms": 276650,
       "name": "not looking out the window anymore",
       "url": "https://open.spotify.com/track/6iIzfogQHT6604TkCNBqn6"
+    },
+    {
+      "album": {
+        "name": "not to catch you by surprise",
+        "url": "https://open.spotify.com/album/66pqVTjXkiblOMQ45immiv"
+      },
+      "artists": [
+        {
+          "name": "Portra",
+          "url": "https://open.spotify.com/artist/6pkTpw086gZWWdx3guBUCe"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201386,
+      "name": "not to catch you by surprise",
+      "url": "https://open.spotify.com/track/6OxZfLEPTdfMg3vo0Hb2oI"
     },
     {
       "album": {
@@ -5746,6 +5952,24 @@
       "duration_ms": 277777,
       "name": "October (October Version)",
       "url": "https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD"
+    },
+    {
+      "album": {
+        "name": "ode to praying to the answering machine",
+        "url": "https://open.spotify.com/album/4Q0junC1R59aklFFyFTTYB"
+      },
+      "artists": [
+        {
+          "name": "amy michelle",
+          "url": "https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191801,
+      "name": "ode to praying to the answering machine",
+      "url": "https://open.spotify.com/track/2jWYA3Z7rd7HvZyMeVKrll"
     },
     {
       "album": {
@@ -5922,7 +6146,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 242226,
       "name": "Only Nice When I'm High",
       "url": "https://open.spotify.com/track/2R84G8SVTupR2pBFrYXSG6"
@@ -6084,7 +6308,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 195891,
       "name": "owlz",
       "url": "https://open.spotify.com/track/1QhV1fB6S4dZq8YYlJEMIM"
@@ -6851,6 +7075,24 @@
     },
     {
       "album": {
+        "name": "She Still Sings",
+        "url": "https://open.spotify.com/album/4ieDJd01azRVp3PHbychPJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Moon",
+          "url": "https://open.spotify.com/artist/4NMxUgqHqC9XlgSRGqqrqc"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228832,
+      "name": "She Still Sings",
+      "url": "https://open.spotify.com/track/48osuvPh1naznY9iqrx9El"
+    },
+    {
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/0q1qEMPE8QaZZVyvslR9sc"
       },
@@ -7071,6 +7313,24 @@
     },
     {
       "album": {
+        "name": "Something in the Stars",
+        "url": "https://open.spotify.com/album/49VdbC7FSIMCdTfnaLp7qr"
+      },
+      "artists": [
+        {
+          "name": "South for Winter",
+          "url": "https://open.spotify.com/artist/1CCtgClqhDqOl41ZP4dDM8"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295573,
+      "name": "Something in the Stars",
+      "url": "https://open.spotify.com/track/1n2kRJqaNEz7wGtvWJj2gh"
+    },
+    {
+      "album": {
         "name": "Sometime After This",
         "url": "https://open.spotify.com/album/6lUWEJ4VMayYS51uPvbsTA"
       },
@@ -7140,7 +7400,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 150142,
       "name": "Soup Song",
       "url": "https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm"
@@ -7944,7 +8204,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 286160,
       "name": "Thinning",
       "url": "https://open.spotify.com/track/0MK01BpqubyiPGV3UkSs8C"
@@ -7962,7 +8222,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 134831,
       "name": "This Body of Mine",
       "url": "https://open.spotify.com/track/0Eem9ujZYyGOG4J2W2LH5w"
@@ -8088,7 +8348,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 222709,
       "name": "Too Far To Quit",
       "url": "https://open.spotify.com/track/0vrXIucwBOaJEwPYKYFRFO"
@@ -8690,6 +8950,42 @@
       "duration_ms": 237060,
       "name": "Wish I Had You Now",
       "url": "https://open.spotify.com/track/3NBby1jbaWJaXIUTagpu6T"
+    },
+    {
+      "album": {
+        "name": "Yer Time'll Come",
+        "url": "https://open.spotify.com/album/28EAaiC0JOfuILtaMnPMLm"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gabbard",
+          "url": "https://open.spotify.com/artist/34q6xZrTKUR0YIrDxlIdU6"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245156,
+      "name": "Yer Time'll Come",
+      "url": "https://open.spotify.com/track/0ebR7XgjrUBOHdM6xGioOp"
+    },
+    {
+      "album": {
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/5Lz2AHmIfli0x9B9FATg6a"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cornfield",
+          "url": "https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194608,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/5HlcRE58RugnXWoWxzJFu2"
     },
     {
       "album": {

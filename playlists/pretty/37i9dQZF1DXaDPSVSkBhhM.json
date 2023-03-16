@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 59268,
+  "num_followers": 59292,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0MzM2MiwwMDAwMDAwMGFjMWJhZTU1NThlZjhlNTcyYjQwMTg1MzVjOGIzMTQ0",
+  "snapshot_id": "MTY3MTY0MzM2MiwwMDAwMDAwMDc4NWEyYWJiM2ZjYTY3MzhjYzRiOTFmNzBmN2ExNmU5",
   "tracks": [
     {
       "added_at": "2022-10-01 18:54:42",
@@ -75,18 +75,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "RPDF",
-        "url": "https://open.spotify.com/album/3bwL8cvP3ALLfMEOOnLgc1"
+        "name": "Historias De La Calle",
+        "url": "https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w"
       },
       "artists": [
         {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
         }
       ],
-      "duration_ms": 193826,
-      "name": "Yonaguni",
-      "url": "https://open.spotify.com/track/333TyrvOWbHpq0AIipyIHy"
+      "duration_ms": 210337,
+      "name": "Eso Es Todo Lo Que Soy",
+      "url": "https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -107,18 +107,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Historias De La Calle",
-        "url": "https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w"
+        "name": "RPDF",
+        "url": "https://open.spotify.com/album/3bwL8cvP3ALLfMEOOnLgc1"
       },
       "artists": [
         {
-          "name": "GUFI",
-          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
         }
       ],
-      "duration_ms": 210337,
-      "name": "Eso Es Todo Lo Que Soy",
-      "url": "https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k"
+      "duration_ms": 193826,
+      "name": "Yonaguni",
+      "url": "https://open.spotify.com/track/333TyrvOWbHpq0AIipyIHy"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -187,18 +187,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Masappan",
-        "url": "https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e"
+        "name": "Coraz\u00f3n D' Roto",
+        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
       },
       "artists": [
         {
-          "name": "Masappan",
-          "url": "https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC"
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
         }
       ],
-      "duration_ms": 164933,
-      "name": "Para Ti",
-      "url": "https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh"
+      "duration_ms": 217920,
+      "name": "Apariencia",
+      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
+        "name": "Masappan",
+        "url": "https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e"
+      },
+      "artists": [
+        {
+          "name": "Masappan",
+          "url": "https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Para Ti",
+      "url": "https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
         "name": "Monumentos",
         "url": "https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 187860,
       "name": "Cien Inviernos",
       "url": "https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "J\u00e4ula",
-        "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
-      },
-      "artists": [
-        {
-          "name": "Mi Mascota Leila",
-          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
-        }
-      ],
-      "duration_ms": 226063,
-      "name": "Cc (Como Compas)",
-      "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Coraz\u00f3n D' Roto",
-        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
+        "name": "J\u00e4ula",
+        "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
       },
       "artists": [
         {
-          "name": "GUFI",
-          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
+          "name": "Mi Mascota Leila",
+          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
         }
       ],
-      "duration_ms": 217920,
-      "name": "Apariencia",
-      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
+      "duration_ms": 226063,
+      "name": "Cc (Como Compas)",
+      "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Nadie Me Entiende",
-        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nadie Me Entiende",
-      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "CARIBE 4 LIFE",
         "url": "https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK"
       },
@@ -471,6 +455,22 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
+        "name": "Nadie Me Entiende",
+        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nadie Me Entiende",
+      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
         "name": "Mejores Tiempos",
         "url": "https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE"
       },
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Un A\u00f1o",
-        "url": "https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6"
-      },
-      "artists": [
-        {
-          "name": "Abril 88",
-          "url": "https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l"
-        }
-      ],
-      "duration_ms": 166540,
-      "name": "Un A\u00f1o",
-      "url": "https://open.spotify.com/track/1NvuUQSActakCpCg071n2x"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Disparos",
         "url": "https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 229500,
       "name": "Disparos",
       "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Un A\u00f1o",
+        "url": "https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6"
+      },
+      "artists": [
+        {
+          "name": "Abril 88",
+          "url": "https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l"
+        }
+      ],
+      "duration_ms": 166540,
+      "name": "Un A\u00f1o",
+      "url": "https://open.spotify.com/track/1NvuUQSActakCpCg071n2x"
     },
     {
       "added_at": "2022-12-21 17:22:42",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
     },
     {
-      "added_at": "2022-12-21 17:22:42",
-      "album": {
-        "name": "Te Vale Madre",
-        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "Te Vale Madre",
-      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
-    },
-    {
       "added_at": "2022-10-01 18:54:42",
       "album": {
         "name": "Volver a Empezar",
@@ -599,22 +583,6 @@
       "duration_ms": 209306,
       "name": "Ll\u00e9vate Todo",
       "url": "https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Humanos Como T\u00fa",
-        "url": "https://open.spotify.com/album/0HqeYIoIRBpQ9zt31b5VQY"
-      },
-      "artists": [
-        {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Humanos Como T\u00fa",
-      "url": "https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -635,18 +603,34 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Al infierno y de regreso",
-        "url": "https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa"
+        "name": "Humanos Como T\u00fa",
+        "url": "https://open.spotify.com/album/0HqeYIoIRBpQ9zt31b5VQY"
       },
       "artists": [
         {
-          "name": "NUNO",
-          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
         }
       ],
-      "duration_ms": 204500,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai"
+      "duration_ms": 228920,
+      "name": "Humanos Como T\u00fa",
+      "url": "https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU"
+    },
+    {
+      "added_at": "2022-12-21 17:22:42",
+      "album": {
+        "name": "Te Vale Madre",
+        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "Te Vale Madre",
+      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -663,6 +647,22 @@
       "duration_ms": 216213,
       "name": "Siempre Fuerte",
       "url": "https://open.spotify.com/track/6x8GV4GRH2hZ8eeRmpMrC4"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Al infierno y de regreso",
+        "url": "https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa"
+      },
+      "artists": [
+        {
+          "name": "NUNO",
+          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -695,6 +695,26 @@
       "duration_ms": 198624,
       "name": "Distancias",
       "url": "https://open.spotify.com/track/7ERijR9hA3srvop0osPQCA"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Clavo",
+        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        },
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Clavo",
+      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -747,26 +767,6 @@
       "duration_ms": 234773,
       "name": "Escribe Una Canci\u00f3n",
       "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Clavo",
-        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        },
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Clavo",
-      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
     },
     {
       "added_at": "2022-10-01 18:54:42",

@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints. Cover: Musiq Soulchild",
-  "num_followers": 779215,
+  "num_followers": 779154,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODU1OTkxOCwwMDAwMDAwMDkyZWNkZmVlMjlhMzJkOTE5ZmQyOTI0OTQ2MjNiODI2",
+  "snapshot_id": "MTY3ODU1OTkxOCwwMDAwMDAwMDE0MzFkOGYxODIxYjY3MTczMDAyNmJhMzliMTY5MjQ5",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 232122,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 152524,
       "name": "HANG LOW (feat. James Robinson)",
       "url": "https://open.spotify.com/track/5nR6MBAFCdusf8C3BZGtop"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 232122,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -619,6 +619,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "MANGO (feat. Adi Oasis)",
+        "url": "https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0"
+      },
+      "artists": [
+        {
+          "name": "KAMAUU",
+          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+        },
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 245994,
+      "name": "MANGO (feat. Adi Oasis)",
+      "url": "https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Private Space",
         "url": "https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 222901,
       "name": "Witchoo",
       "url": "https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "MANGO (feat. Adi Oasis)",
-        "url": "https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0"
-      },
-      "artists": [
-        {
-          "name": "KAMAUU",
-          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
-        },
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 245994,
-      "name": "MANGO (feat. Adi Oasis)",
-      "url": "https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 298160,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Yasuke",
         "url": "https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 133520,
       "name": "Crust",
       "url": "https://open.spotify.com/track/6ri6ZQWxqIZgYd2RfsnKNa"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 298160,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -875,6 +875,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Hello Poison",
         "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 202225,
       "name": "Therapy pt. 2 [Feat. Mac Miller]",
       "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Flowers (feat. MAVI)",
-        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 182201,
-      "name": "Flowers (feat. MAVI)",
-      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Adonis",
-        "url": "https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Adonis - feat. KIRBY",
-      "url": "https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 263360,
       "name": "I Love You More Than You Know (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Adonis",
+        "url": "https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "Adonis - feat. KIRBY",
+      "url": "https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Athletic Progression",
+        "url": "https://open.spotify.com/album/3DPTrgC3Ee2cZN6lUGWdaq"
+      },
+      "artists": [
+        {
+          "name": "Athletic Progression",
+          "url": "https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I"
+        }
+      ],
+      "duration_ms": 271250,
+      "name": "White Crayon",
+      "url": "https://open.spotify.com/track/3a1CnmO9A2hb1B42dMTxel"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "flora + fana (deluxe)",
         "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 154768,
       "name": "Problems",
       "url": "https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Athletic Progression",
-        "url": "https://open.spotify.com/album/3DPTrgC3Ee2cZN6lUGWdaq"
-      },
-      "artists": [
-        {
-          "name": "Athletic Progression",
-          "url": "https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I"
-        }
-      ],
-      "duration_ms": 271250,
-      "name": "White Crayon",
-      "url": "https://open.spotify.com/track/3a1CnmO9A2hb1B42dMTxel"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1247,6 +1247,22 @@
       "duration_ms": 247133,
       "name": "Envy",
       "url": "https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/41QRDll7uVEhOxYa35BdNY"
+      },
+      "artists": [
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        }
+      ],
+      "duration_ms": 190525,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/6MWUqZrDQWyoRde2pYSlpA"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/41QRDll7uVEhOxYa35BdNY"
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
       },
       "artists": [
         {
-          "name": "Jidenna",
-          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
         }
       ],
-      "duration_ms": 190525,
-      "name": "Blush",
-      "url": "https://open.spotify.com/track/6MWUqZrDQWyoRde2pYSlpA"
+      "duration_ms": 194401,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1323,22 +1339,6 @@
       "duration_ms": 203720,
       "name": "Best Feature",
       "url": "https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "World In My Hands",
-        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
-      },
-      "artists": [
-        {
-          "name": "LAVI$H",
-          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
-        }
-      ],
-      "duration_ms": 194401,
-      "name": "World In My Hands",
-      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "exodus the north star",
-        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
+        "name": "LET IT RAIN EP",
+        "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
       },
       "artists": [
         {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
         }
       ],
-      "duration_ms": 205354,
-      "name": "exodus the north star",
-      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
+      "duration_ms": 203064,
+      "name": "TEARS OF JOY",
+      "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1423,18 +1423,34 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "LET IT RAIN EP",
-        "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
+        "name": "exodus the north star",
+        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
       },
       "artists": [
         {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
         }
       ],
-      "duration_ms": 203064,
-      "name": "TEARS OF JOY",
-      "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
+      "duration_ms": 205354,
+      "name": "exodus the north star",
+      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "FAMJAM4000",
+      "url": "https://open.spotify.com/track/6FDNS9i86Il7ZeGBf7H2Aa"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1459,26 +1475,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "SUNRISE (feat. Arlo Parks)",
-        "url": "https://open.spotify.com/album/68udZ02TROM9S9TWiyxupb"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        },
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "SUNRISE (feat. Arlo Parks)",
-      "url": "https://open.spotify.com/track/5tPwGBDC49980o9FRGhHaQ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Go! Common Classics",
         "url": "https://open.spotify.com/album/2IGKisSgNle7264UoY57vO"
       },
@@ -1499,34 +1495,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
+        "name": "SUNRISE (feat. Arlo Parks)",
+        "url": "https://open.spotify.com/album/68udZ02TROM9S9TWiyxupb"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "FAMJAM4000",
-      "url": "https://open.spotify.com/track/6FDNS9i86Il7ZeGBf7H2Aa"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
-      },
-      "artists": [
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        },
         {
           "name": "Arlo Parks",
           "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
+      "duration_ms": 176666,
+      "name": "SUNRISE (feat. Arlo Parks)",
+      "url": "https://open.spotify.com/track/5tPwGBDC49980o9FRGhHaQ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1555,54 +1539,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Gold Plated",
-        "url": "https://open.spotify.com/album/7hwUPvNBszLlTXFcYg5TOB"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
       },
       "artists": [
         {
-          "name": "PYJ\u00c6N",
-          "url": "https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc"
-        },
-        {
-          "name": "Odette Peters",
-          "url": "https://open.spotify.com/artist/6ZhJwgMHCAfb0UOuyttfDW"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 215648,
-      "name": "Gold Plated",
-      "url": "https://open.spotify.com/track/5giA96riscHWo0h3Aq3uPz"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Ties",
-        "url": "https://open.spotify.com/album/4FxnjC8luyeVutpg5OFNdR"
-      },
-      "artists": [
-        {
-          "name": "FELIVAND",
-          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
-        }
-      ],
-      "duration_ms": 205911,
-      "name": "Where Were You",
-      "url": "https://open.spotify.com/track/2Akf7c4ZjddtzAd3lj6bI8"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "I'll Be Loving You",
-        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 246144,
-      "name": "I'll Be Loving You",
-      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1623,18 +1571,54 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+        "name": "Ties",
+        "url": "https://open.spotify.com/album/4FxnjC8luyeVutpg5OFNdR"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "FELIVAND",
+          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
         }
       ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+      "duration_ms": 205911,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/2Akf7c4ZjddtzAd3lj6bI8"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Gold Plated",
+        "url": "https://open.spotify.com/album/7hwUPvNBszLlTXFcYg5TOB"
+      },
+      "artists": [
+        {
+          "name": "PYJ\u00c6N",
+          "url": "https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc"
+        },
+        {
+          "name": "Odette Peters",
+          "url": "https://open.spotify.com/artist/6ZhJwgMHCAfb0UOuyttfDW"
+        }
+      ],
+      "duration_ms": 215648,
+      "name": "Gold Plated",
+      "url": "https://open.spotify.com/track/5giA96riscHWo0h3Aq3uPz"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "I'll Be Loving You",
+        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 246144,
+      "name": "I'll Be Loving You",
+      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 199770,
       "name": "Alone In Kenzo",
       "url": "https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Voice Notes",
+        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "From A Lover",
+      "url": "https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Velvet",
         "url": "https://open.spotify.com/album/2wN3fuTXmj387DO7wxNjz8"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 258650,
       "name": "Talk Is Cheap",
       "url": "https://open.spotify.com/track/1p1iq2npedwN1k112m7UPf"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Voice Notes",
-        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "From A Lover",
-      "url": "https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Weep, No More",
-        "url": "https://open.spotify.com/album/2nw55c24zEeo0RAhQhkWxB"
-      },
-      "artists": [
-        {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
-        }
-      ],
-      "duration_ms": 141933,
-      "name": "Weep, No More",
-      "url": "https://open.spotify.com/track/6dzICV2gDRl8SjPeqLnOQv"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Dos Uvas",
         "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
       },
@@ -1771,6 +1755,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Weep, No More",
+        "url": "https://open.spotify.com/album/2nw55c24zEeo0RAhQhkWxB"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 141933,
+      "name": "Weep, No More",
+      "url": "https://open.spotify.com/track/6dzICV2gDRl8SjPeqLnOQv"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Wind Parade",
         "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
       },
@@ -1783,42 +1783,6 @@
       "duration_ms": 288640,
       "name": "Wind Parade",
       "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "CYBAH (feat. Lucky Daye)",
-        "url": "https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 244138,
-      "name": "CYBAH (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "No Longer in the Suburbs",
-        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 174163,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1843,26 +1807,54 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "DRONES",
-        "url": "https://open.spotify.com/album/1cSZDrpp0lic8Y70I3JGUa"
+        "name": "No Longer in the Suburbs",
+        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
       },
       "artists": [
         {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
         }
       ],
-      "duration_ms": 223991,
-      "name": "This Morning (feat. Arin Ray & Smino)",
-      "url": "https://open.spotify.com/track/3onuWjUbFaNSdAMD5Z2UOQ"
+      "duration_ms": 174163,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "CYBAH (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 244138,
+      "name": "CYBAH (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     }
   ],
   "unique_name": "BUTTER",

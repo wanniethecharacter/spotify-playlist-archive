@@ -1,12 +1,12 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 336966,
+  "num_followers": 337208,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAzODczMiwwMDAwMDAwMDNmYzBhYjQ0YmI5ZGM4MTQyNDkxMmMzMjcwMDNiMDE1",
+  "snapshot_id": "MTY3MDAzODczMiwwMDAwMDAwMDZhZTE5MWVhNzkxMDJjMjFjNTRiZTBiMjI2ZDE3NDdk",
   "tracks": [
     {
       "added_at": "2022-12-03 03:38:52",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-12-03 03:38:52",
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 273480,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2022-12-03 03:38:52",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 273480,
-      "name": "Welcome To The Jungle",
-      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
-    },
-    {
-      "added_at": "2022-12-03 03:38:52",
-      "album": {
         "name": "Dressed To Kill",
         "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 168840,
       "name": "Rock And Roll All Nite",
       "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Rolling Papers",
+        "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Black and Yellow",
+      "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
     },
     {
       "added_at": "2022-12-03 03:38:52",
@@ -823,22 +839,6 @@
       "duration_ms": 233786,
       "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
-    },
-    {
-      "added_at": "2022-12-03 03:38:52",
-      "album": {
-        "name": "Rolling Papers",
-        "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Black and Yellow",
-      "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
     },
     {
       "added_at": "2022-12-03 03:38:52",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-12-03 03:38:52",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 178360,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
-    },
-    {
-      "added_at": "2022-12-03 03:38:52",
-      "album": {
         "name": "Still Striving",
         "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 173600,
       "name": "Plain Jane",
       "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 178360,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
       "added_at": "2022-12-03 03:38:52",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-12-03 03:38:52",
       "album": {
-        "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
-      },
-      "artists": [
-        {
-          "name": "House Of Pain",
-          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "Jump Around - 30 Years Remaster",
-      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
-    },
-    {
-      "added_at": "2022-12-03 03:38:52",
-      "album": {
         "name": "The Definition Of X: Pick Of The Litter",
         "url": "https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 217586,
       "name": "X Gon' Give It To Ya",
       "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
+      },
+      "artists": [
+        {
+          "name": "House Of Pain",
+          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "Jump Around - 30 Years Remaster",
+      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
     },
     {
       "added_at": "2022-12-03 03:38:52",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-12-03 03:38:52",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "We're Not Gonna Take It",
-      "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
-    },
-    {
-      "added_at": "2022-12-03 03:38:52",
-      "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "We're Not Gonna Take It",
+      "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
     },
     {
       "added_at": "2022-12-03 03:38:52",

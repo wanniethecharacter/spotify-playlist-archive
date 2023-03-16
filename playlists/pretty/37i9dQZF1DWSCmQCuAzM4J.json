@@ -1,12 +1,12 @@
 {
   "description": "se acab\u00f3 todo \ud83d\udc94",
-  "num_followers": 38295,
+  "num_followers": 38322,
   "original_name": "pov: te rompi\u00f3 el coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1ODY1NCwwMDAwMDAwMDAwMTYwNWViOWVmM2E2MzMyNjg2NTZlZGU0MTM2NjBj",
+  "snapshot_id": "MTY3NzI1ODY1NCwwMDAwMDAwMDA0MTY1Yjg1NWM2YTgwZTFmNThkNmYwYTNkZTI4YWEz",
   "tracks": [
     {
       "added_at": "2023-02-24 17:10:54",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-02-24 17:10:54",
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 223080,
-      "name": "Say It Right",
-      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
-    },
-    {
-      "added_at": "2023-02-24 17:10:54",
-      "album": {
         "name": "to hell with it",
         "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 98544,
       "name": "Pain",
       "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
+    },
+    {
+      "added_at": "2023-02-24 17:10:54",
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "Say It Right",
+      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
     },
     {
       "added_at": "2023-02-24 17:10:54",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-02-24 17:10:54",
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu"
-    },
-    {
-      "added_at": "2023-02-24 17:10:54",
-      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 277266,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
+    },
+    {
+      "added_at": "2023-02-24 17:10:54",
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu"
     },
     {
       "added_at": "2023-02-24 17:10:54",

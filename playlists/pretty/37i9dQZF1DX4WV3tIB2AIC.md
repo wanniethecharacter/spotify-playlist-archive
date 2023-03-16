@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 
 > Our editorial picks for the best gaming tracks of the year\. Cover: Lil Nas X \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,604 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,611 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 | 16 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 |
 | 17 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 |
 | 18 | [MISA MISA!](https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV) | 1:25 |
-| 19 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 |
-| 20 | [Super Gremlin](https://open.spotify.com/track/1Y5Jvi3eLi4Chwqch9GMem) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:20 |
+| 19 | [Super Gremlin](https://open.spotify.com/track/1Y5Jvi3eLi4Chwqch9GMem) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:20 |
+| 20 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 |
 | 21 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 |
 | 22 | [Wrath](https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:53 |
 | 23 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 | 39 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
 | 40 | [Frankenstein \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3gDRZkL8YfzpZg1N1YsW5x) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:27 |
 | 41 | [All Eyes On Me](https://open.spotify.com/track/7DRDufzLV8vbLRPdkJIqWq) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [All Eyes On Me](https://open.spotify.com/album/0wgepIc4n4gKNgccZk0b0i) | 2:40 |
-| 42 | [Rips in Jeans](https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Rips in Jeans](https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0) | 2:43 |
-| 43 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 |
+| 42 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 |
+| 43 | [Rips in Jeans](https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Rips in Jeans](https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0) | 2:43 |
 | 44 | [Ounana](https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Ounana](https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH) | 2:31 |
 | 45 | [Set It Off](https://open.spotify.com/track/6qONYDmRz1s7Msz0yVDHMB) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [DPR CLINE](https://open.spotify.com/artist/4Z6fYh9ANGOfOSylYE5gZz) | [Set It Off](https://open.spotify.com/album/1dvFlkLfxQ9NsmZ61FUO4W) | 2:30 |
 | 46 | [Before U](https://open.spotify.com/track/1iyXU0LHY9Irw7oohGf7hb) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Before U](https://open.spotify.com/album/3dRIkRoJIbmfi1Hh9IKrjC) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 | 49 | [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 |
 | 50 | [The Final Battle](https://open.spotify.com/track/6mIuQuKlOK7l6HkQnHfvpQ) | [Tsukasa Saitoh](https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD) | [Elden Ring \(Original Soundtrack\)](https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir) | 4:58 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDYzMTgyNDY0MDJhMGEzMWMzM2IxMTM2MDAyOGQ1YmNk`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGRjMTdkYjYyM2FhYjNlMmZiYTJmNTg2YWI4M2YwYjdl`

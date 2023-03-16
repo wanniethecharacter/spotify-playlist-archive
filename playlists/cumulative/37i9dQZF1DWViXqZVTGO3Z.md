@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-307 songs - 19 hr 58 min
+308 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Christmas In Florida](https://open.spotify.com/track/6uWrLoPQ9S7l06AJJthPbc) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Christmas In Florida](https://open.spotify.com/album/2z0Jy5xSewbiOcaxlMzDea) | 2:47 | 2021-12-24 | 2022-07-28 |
 | [Christmas in the Mountains](https://open.spotify.com/track/0wfzeSobPJiekeAWgBQhE9) | [The Primitive Quartet](https://open.spotify.com/artist/3iqTj2ISCCfGIAN2ZyggJO) | [Through the Years, Christmas](https://open.spotify.com/album/5drZy0K2aXgwzbZOvoE4ut) | 1:58 | 2021-12-24 | 2022-07-29 |
 | [Christmas in Your Eyes \(feat\. Everly Shaw\)](https://open.spotify.com/track/7mjrzLFZg2RKUuxOIq1O49) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Everly Shaw](https://open.spotify.com/artist/0wmPK8Bsy69g1tUk94RXBk) | [A Tyler Shaw Christmas](https://open.spotify.com/album/3ehYajj7zAyk3YdAWoL7CW) | 3:17 | 2021-12-24 | 2022-12-09 |
-| [Christmas Is All In The Heart](https://open.spotify.com/track/1mGqqnjciZbmzakIYZD3CD) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [The Music Of Christmas](https://open.spotify.com/album/0xCyr5KMIaozHRSTmNeeAm) | 5:15 | 2021-12-11 |  |
+| [Christmas Is All In The Heart](https://open.spotify.com/track/1mGqqnjciZbmzakIYZD3CD) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [The Music Of Christmas](https://open.spotify.com/album/0xCyr5KMIaozHRSTmNeeAm) | 5:15 | 2021-12-11 | 2023-03-16 |
 | [Christmas Is Here](https://open.spotify.com/track/7rs3wSpNwdkzalMpHU11xK) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [Christmas Is Here](https://open.spotify.com/album/3nlgoaCTMqyTPi1BY8tSd8) | 3:34 | 2021-12-11 | 2021-12-24 |
 | [Christmas Is Here \- Radio Edit](https://open.spotify.com/track/0Z6NbNX43bPaHylvR2yvCV) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Christmas at Home](https://open.spotify.com/album/4KKfJWr1DHk7eM50RzyxQF) | 3:01 | 2022-11-26 |  |
 | [Christmas Lights](https://open.spotify.com/track/2JApOkyG5QGrn0luyAAUDz) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Christmas Lights](https://open.spotify.com/album/2ML0HivGBfi9C1ihEAnqck) | 3:01 | 2021-12-11 |  |
@@ -279,6 +279,7 @@
 | [The Manger \(with Josh Turner\)](https://open.spotify.com/track/7aKm5vWuizayEDJJSp0OiW) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [The Manger](https://open.spotify.com/album/07eR5Q7zlJXjotNfqekAjH) | 3:49 | 2022-11-26 |  |
 | [The Night Before Christmas](https://open.spotify.com/track/5cHDEz4PT3UtZtWAqKd4JS) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [The Night Before Christmas](https://open.spotify.com/album/7Bav4cBa9NbIYLT3t7cKT8) | 3:40 | 2021-12-11 | 2022-12-29 |
 | [The Prayer](https://open.spotify.com/track/4UcdqtJDDSYToxtsBZzkFX) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 4:21 | 2021-12-11 |  |
+| [The Saviour Is Here](https://open.spotify.com/track/2cqV7UbShPiNITl9UsKJzQ) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [The Saviour Is Here](https://open.spotify.com/album/7LJ2alYjOWnQhE3M9weeZQ) | 4:16 | 2022-12-11 |  |
 | [The Space Between](https://open.spotify.com/track/6yO3BG2NbFqYkBQRxL506o) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Christmas](https://open.spotify.com/album/1fvAAs4qTKHY1sAq1PvVYy) | 3:51 | 2021-12-11 | 2022-07-27 |
 | [The Wait is Over](https://open.spotify.com/track/45clpYzIdS7Ju6yOSCxkaL) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [The Wait is Over](https://open.spotify.com/album/2Uviy1FsGVVctRmFDH3MbE) | 4:18 | 2022-11-26 |  |
 | [There is a Promise](https://open.spotify.com/track/3J4HIR5gyLFxDLcKfKm7GS) | [David & Maaike](https://open.spotify.com/artist/7KYgxNTHfEPoXzsOKhvQXg) | [There is a Promise](https://open.spotify.com/album/04syM40Ri1WsG8L7OGebGY) | 4:11 | 2021-12-24 | 2022-07-29 |

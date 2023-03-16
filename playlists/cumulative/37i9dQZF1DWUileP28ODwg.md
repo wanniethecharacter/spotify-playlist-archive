@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-287 songs - 17 hr 52 min
+289 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Gonna Be Alright](https://open.spotify.com/track/13KgdUgmo99HKADNuCGOlB) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Gonna Be Alright](https://open.spotify.com/album/3ssfhtvQJNgJ8sTKyFJQPA) | 4:05 | 2022-05-13 | 2022-08-27 |
 | [Good Feeling \- Radio Version](https://open.spotify.com/track/1OvPbFYqXUA640MvcsoIFe) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/07E1cGcwpYZWJlElLI5G4U) | 2:41 | 2022-03-25 | 2022-07-29 |
 | [Good Feeling \- Radio Version](https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ) | 2:41 | 2022-07-08 |  |
+| [Good God](https://open.spotify.com/track/2qgYWwsLHakKwgR6CLArfy) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Good God](https://open.spotify.com/album/03UkgWNWGbM50qfR77lBaj) | 2:42 | 2023-03-10 |  |
 | [Good Lord](https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Lord](https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF) | 3:19 | 2022-04-22 | 2022-08-27 |
 | [Good Lord \(feat\. Katy Nichole\)](https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Good Lord](https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt) | 3:22 | 2022-10-01 | 2023-03-11 |
 | [Good Morning Mercy](https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM) | 3:18 | 2022-04-29 | 2022-08-27 |
@@ -165,7 +166,7 @@
 | [Living Breath Of Heaven](https://open.spotify.com/track/6HKUnmCnpjG2ql1FSuv2Of) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [All That Remains](https://open.spotify.com/album/2CXuD2PLxaz2WrhtOHKyEk) | 5:46 | 2022-02-25 | 2022-04-23 |
 | [Living Water](https://open.spotify.com/track/6TyyGSk69X8S922AF5L4qE) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 3:45 | 2022-02-25 | 2022-04-29 |
 | [Look What You've Done](https://open.spotify.com/track/4jwOLoEPJaOvluUYBNpxCy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Look What You've Done](https://open.spotify.com/album/4aMweKaQNh6Yc8cg4WoMu5) | 3:25 | 2022-02-25 | 2022-04-23 |
-| [Lost Without You](https://open.spotify.com/track/4fvdWE6alwT00YUAg39Joz) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Lost Without You](https://open.spotify.com/album/3cCdbheCzWJeDKU7J0t82W) | 2:59 | 2022-10-01 |  |
+| [Lost Without You](https://open.spotify.com/track/4fvdWE6alwT00YUAg39Joz) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Lost Without You](https://open.spotify.com/album/3cCdbheCzWJeDKU7J0t82W) | 2:59 | 2022-10-01 | 2023-03-16 |
 | [Love Is The Reason \- Live](https://open.spotify.com/track/7qTXrYDJFQ525k3prdXCEN) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Live\)](https://open.spotify.com/album/1MVNR0lVZKN4p5wy5LRbdo) | 3:31 | 2022-04-22 | 2022-06-11 |
 | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF) | 3:07 | 2023-03-10 |  |
 | [Love Over Religion](https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [River](https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u) | 4:12 | 2022-07-08 | 2023-01-29 |
@@ -206,6 +207,7 @@
 | [Perfect Love](https://open.spotify.com/track/2PeGP15nxf7OXaw4PQw0ZA) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Perfect Love](https://open.spotify.com/album/10nB2ZDmXKHbBRNES98Cmv) | 4:12 | 2022-02-25 | 2022-04-29 |
 | [Perfectly Loved](https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Perfectly Loved](https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh) | 3:23 | 2022-04-22 |  |
 | [Plans](https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Plans](https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f) | 3:42 | 2022-05-28 | 2022-08-27 |
+| [PRAISES](https://open.spotify.com/track/1UH488ukPL4KYvjTMa1cYr) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [PRAISES](https://open.spotify.com/album/3TXBs3L4xhXT17QcbA23Sz) | 2:48 | 2023-03-10 |  |
 | [Prepare The Way](https://open.spotify.com/track/6LWllzUioINd9vMcoHGep7) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Prepare The Way](https://open.spotify.com/album/5U0RfxFmopL8VCvRtsCMvQ) | 4:15 | 2022-03-25 | 2022-04-29 |
 | [Promised Land \(Collab New\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Promised Land](https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z) | 3:34 | 2022-02-25 | 2022-08-27 |
 | [Reason I Sing \- Acoustic](https://open.spotify.com/track/6QoNnPbVjUm2doVrqfl8JC) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven \(Acoustic Sessions\)](https://open.spotify.com/album/6ptJ2eWD8XmTwzeTgFUebR) | 4:32 | 2022-07-08 |  |
@@ -287,7 +289,7 @@
 | [Worry](https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Worry](https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2) | 3:29 | 2022-04-22 | 2023-03-11 |
 | [Yes He Does](https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Yes He Does](https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo) | 3:26 | 2022-02-25 | 2022-03-26 |
 | [Yeshua \(Friend Of Sinners\)](https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Yeshua \(Friend Of Sinners\)](https://open.spotify.com/album/771ZnqvojsyL5DYqnMNb7O) | 3:35 | 2023-03-10 | 2023-03-13 |
-| [You Are](https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Deluxe\)](https://open.spotify.com/album/65CKmXE033WDzwrn9mrAZI) | 2:56 | 2022-08-26 |  |
+| [You Are](https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Deluxe\)](https://open.spotify.com/album/65CKmXE033WDzwrn9mrAZI) | 2:56 | 2022-08-26 | 2023-03-16 |
 | [You Are My Country](https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [The Field](https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu) | 2:39 | 2022-04-22 | 2022-08-27 |
 | [You Got Me](https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [You Got Me](https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i) | 2:52 | 2022-08-26 |  |
 | [You're Not Done](https://open.spotify.com/track/2sRC7NJqjECWTjC0G4lkTC) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [You're Not Done](https://open.spotify.com/album/1RvgJpfOjM3XjdYuhnXwoq) | 6:03 | 2023-03-10 |  |

@@ -953,6 +953,24 @@
     },
     {
       "album": {
+        "name": "Bansull",
+        "url": "https://open.spotify.com/album/1HhptIM5EglrNcLOtaZXRj"
+      },
+      "artists": [
+        {
+          "name": "Elegi",
+          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204532,
+      "name": "Full Av Tomhet",
+      "url": "https://open.spotify.com/track/0tOAVxzcetDy2wzrJ0Hmk8"
+    },
+    {
+      "album": {
         "name": "M\u00f6rkrets Narr",
         "url": "https://open.spotify.com/album/2VqFfX6U0xOW0Ad58xyfV9"
       },
@@ -2200,7 +2218,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 246000,
       "name": "Northern Spirit",
       "url": "https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ"
@@ -3426,7 +3444,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 457639,
       "name": "Transcend",
       "url": "https://open.spotify.com/track/2M0EmEypUn9U1YHgNocVGi"
@@ -3698,7 +3716,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 135062,
       "name": "Wasa Stone Trio",
       "url": "https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G"

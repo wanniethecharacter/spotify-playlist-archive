@@ -6193,6 +6193,24 @@
     },
     {
       "album": {
+        "name": "Thank God I Do",
+        "url": "https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258812,
+      "name": "Thank God I Do",
+      "url": "https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB"
+    },
+    {
+      "album": {
         "name": "The Ballet Girl",
         "url": "https://open.spotify.com/album/3YMpocogsCi7WkfwvcVL4I"
       },

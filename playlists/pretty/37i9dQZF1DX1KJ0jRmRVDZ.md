@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,090 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,184 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 10 | [451](https://open.spotify.com/track/3M6R3MaIkliOaZQ4YX67W1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [451](https://open.spotify.com/album/36NUlhlgw0Nkj1uYrkckHB) | 3:29 |
 | 11 | [オルターエゴ](https://open.spotify.com/track/1xQk51ZFXt6Zf7d2xUNSN1) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [オルターエゴ](https://open.spotify.com/album/5QAR9vY3vVHQH63oloIr4f) | 3:42 |
 | 12 | [Luxury Spoon](https://open.spotify.com/track/7K7QoJtb4WAgEHn8lt9ilJ) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Luxury Spoon](https://open.spotify.com/album/1n88YDIWx9tuAL4mykoAVh) | 3:58 |
-| 13 | [これだからやめらんない!](https://open.spotify.com/track/1KnujnydiDuU7ardc0LYpl) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [これだからやめらんない!](https://open.spotify.com/album/33hq404ABQqbt4JI0Egsrp) | 2:45 |
+| 13 | [And That's Why I Can't Stop!](https://open.spotify.com/track/0iuGNjRPERARznf8iCQJ6a) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [And That's Why I Can't Stop!](https://open.spotify.com/album/1GIW6pIrpJTB1FcXl4rmgo) | 2:45 |
 | 14 | [酔いどれ知らず](https://open.spotify.com/track/1ED6MZZkTum3aGIrZMB3VF) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [酔いどれ知らず](https://open.spotify.com/album/1F9ZzB58lOLwnXUsajOhyC) | 2:13 |
 | 15 | [化け猫](https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/4nDK96OK3zDeE3rZkvG9E7) | 2:47 |
 | 16 | [Omocha Teikoku](https://open.spotify.com/track/3WpKIipnEpE5hSDbjqTnne) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Omocha Teikoku](https://open.spotify.com/album/43wX4DrD0IYYtMhlfiYevx) | 3:02 |
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 20 | [往生際の意味を知れ!](https://open.spotify.com/track/7sdzicvFf1SlZXBahVjSTn) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [往生際の意味を知れ!](https://open.spotify.com/album/6uW1aOg3jHnj4VN1l7rfwU) | 2:59 |
 | 21 | [人を気取る](https://open.spotify.com/track/1vVUugAJ7BEGDeC4oM5bIk) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [狂想](https://open.spotify.com/album/1GDzE0TWO5XvWYbI9fSsCz) | 3:42 |
 | 22 | [Surges](https://open.spotify.com/track/66a0Ib85gRjtZmac4HFsvw) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [夏背](https://open.spotify.com/artist/3xRckHz0CRl2Z328bNeVpC), [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [Surges](https://open.spotify.com/album/3Ub59gYPmtgwd0FUDeptaH) | 2:00 |
-| 23 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
+| 23 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 |
 | 24 | [Kayoku](https://open.spotify.com/track/1ZPjVQ4u8j2hq0YmP1faS3) | [shoose](https://open.spotify.com/artist/6XLMQoszP8tCQRpYuHp634) | [Kayoku](https://open.spotify.com/album/26xOkQ9XkpM47h4kzEuMbu) | 3:12 |
-| 25 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 |
+| 25 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
 | 26 | [\(just\) lein.](https://open.spotify.com/track/2RwIdMCNbx1iO42dp6cde6) | [神谷志龍](https://open.spotify.com/artist/6r2FGDlvtbwwRAnxLhzoaX) | [\(just\) lein.](https://open.spotify.com/album/2Z7smhEjfCQvfxHEnLA1wg) | 3:22 |
 | 27 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 |
 | 28 | [アイロニー](https://open.spotify.com/track/1JoQ0Iyq02AT0H6QuOZL1j) | [SHIROIRO](https://open.spotify.com/artist/0m4yOZKtpZQZqJLeUunwW8) | [アイロニー](https://open.spotify.com/album/41PIdEyCaAZCIWn6nwUScI) | 2:53 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 39 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 |
 | 40 | [ponpon princess feat\. sakana](https://open.spotify.com/track/7cjJIpMrVa8T0J1ynjkWlC) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [sakana](https://open.spotify.com/artist/7ynWqUtYVEl1GOhC4LmsT9) | [ponpon princess feat\. sakana](https://open.spotify.com/album/2Idc44WfNuUsxUQpna6CGt) | 2:03 |
 | 41 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
-| 42 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 |
-| 43 | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 |
+| 42 | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 |
+| 43 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 |
 | 44 | [Neppa](https://open.spotify.com/track/6IL2qmfBpLeLVpsglwgatn) | [tephe](https://open.spotify.com/artist/6OKfFmQpN6Pfbqu32AyxR9), [Butter](https://open.spotify.com/artist/4OPbOOdRuVXn32mTNF8rZ2) | [Neppa](https://open.spotify.com/album/3ClWZGhs9vgfUyCkHKzbG8) | 1:14 |
 | 45 | [Forgery](https://open.spotify.com/track/2itKPrLbBTKW3g1lcxTfk4) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [Forgery](https://open.spotify.com/album/6cAXnb3Ni8r1eX89OwMC2v) | 2:20 |
 | 46 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 |
 | 50 | [愛を解く](https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:01 |
 
-Snapshot ID: `MTY3ODgxMDEzMCwwMDAwMDAwMGMyNjBiNWUwZTE1NTQwNTdmODRlNDM5Yzg2OTFiMzY0`
+Snapshot ID: `MTY3ODgxMDEzMCwwMDAwMDAwMDdmNDYwZjdhNDc1OTAzNjk0ZjBkZDc4ODY0M2JhNzI2`

@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 278293,
       "name": "I Think I Like When It Rains",
       "url": "https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2"
@@ -1692,6 +1692,24 @@
       "duration_ms": 278293,
       "name": "I Think I Like When It Rains",
       "url": "https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X"
+    },
+    {
+      "album": {
+        "name": "I Think I Like When It Rains (Tik Tok Edit) [Remix]",
+        "url": "https://open.spotify.com/album/0123CbCiDs2kirZxMHr63u"
+      },
+      "artists": [
+        {
+          "name": "Green Neon DJ",
+          "url": "https://open.spotify.com/artist/6CnsxWcIeS3Q3MNQSJ59M4"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281290,
+      "name": "I Think I Like When It Rains (Tik Tok Edit) - Remix",
+      "url": "https://open.spotify.com/track/0eng9xR6sdmwYLkkEjsjFq"
     },
     {
       "album": {
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 143960,
       "name": "MEAN!",
       "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
@@ -2914,7 +2932,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 143640,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 
 > Background scores to help you sail through the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,847 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,861 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,19 +23,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 13 | [Tum Se Hi \(Instrumental\)](https://open.spotify.com/track/6r7QuBSfe9Ooz2VcWAH9jw) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 4:54 |
 | 14 | [October Theme](https://open.spotify.com/track/3Kpz1I7PzvFGZ4mAA5WDSY) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [October](https://open.spotify.com/album/50K9juQj3cW0vn9usw7XgM) | 3:11 |
 | 15 | [Separation \- Instrumental](https://open.spotify.com/track/3GyffYdNhFgjmywjXt6spW) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Lakshya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe) | 2:29 |
-| 16 | [Title Music](https://open.spotify.com/track/0JssnFzBVPo5Wk9k9UT808) | [Ismail Darbar](https://open.spotify.com/artist/3r4HOyyBpGvNIyajw3mcER) | [Devdas \- An Adaptation Of Sarat Chandra Chattopadhyay's "Devdas"](https://open.spotify.com/album/7DMHBOZasKAboJFNNV7k4m) | 1:31 |
+| 16 | [Veer'S Story – Saamiya'S Theme \(Instrumental\)](https://open.spotify.com/track/0cOi8CPOAhUgw1asVhQVdW) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [The Love Legend Themes: Veer\-Zaara Themes & Instrumental Scores](https://open.spotify.com/album/7cufmUMLy4bGanr9fc6Jnl) | 3:11 |
 | 17 | [Tango For Taj](https://open.spotify.com/track/3mLdsGVuIG0jJAn8dQFvqU) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 2:58 |
 | 18 | [Dor Theme](https://open.spotify.com/track/0pgw4O5h8wKOVplM54YMCx) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Dor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kiwHm9mwEnOjka8GrN9hS) | 1:49 |
-| 19 | [Veer'S Story – Saamiya'S Theme \(Instrumental\)](https://open.spotify.com/track/0cOi8CPOAhUgw1asVhQVdW) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [The Love Legend Themes: Veer\-Zaara Themes & Instrumental Scores](https://open.spotify.com/album/7cufmUMLy4bGanr9fc6Jnl) | 3:11 |
+| 19 | [Title Music](https://open.spotify.com/track/0JssnFzBVPo5Wk9k9UT808) | [Ismail Darbar](https://open.spotify.com/artist/3r4HOyyBpGvNIyajw3mcER) | [Devdas \- An Adaptation Of Sarat Chandra Chattopadhyay's "Devdas"](https://open.spotify.com/album/7DMHBOZasKAboJFNNV7k4m) | 1:31 |
 | 20 | [Akash's Love Theme](https://open.spotify.com/track/1glyMug7gR6ahQ8evXYqcy) | [Mike Harvey](https://open.spotify.com/artist/4SeAXyEmckKjoQoweI9fiT) | [Dil Chahta Hai](https://open.spotify.com/album/3Hks2UVvtQT8Q9VHRAJUgI) | 2:10 |
 | 21 | [Theme](https://open.spotify.com/track/1BxQvVVchZOL5bLGXRdXHs) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Udaan](https://open.spotify.com/album/675yMfRB6Diis4V1bJi4KL) | 2:47 |
-| 22 | [Bombay Theme \- Bombay / Soundtrack Version](https://open.spotify.com/track/7n6YJCoiTHtdhytgAliYDu) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bombay](https://open.spotify.com/album/2oPdRL0fDdnW9e1zoMnrDk) | 5:18 |
+| 22 | [Kaise Mujhe \(Instrumental\)](https://open.spotify.com/track/02nOZG5WrxCHEYbjjxeZQf) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ghajini](https://open.spotify.com/album/1bakFVqPdxrSCSZI2HUGhJ) | 4:01 |
 | 23 | [Ishan's Theme](https://open.spotify.com/track/6lFMO7ymvqHFVUOsUK98a7) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Taare Zameen Par](https://open.spotify.com/album/3krigkIAxyZMBcxYfE0jlE) | 4:22 |
 | 24 | [I'm On \(Theme\)](https://open.spotify.com/track/53smqbWww0YmOlRyRjZT1h) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 1:21 |
 | 25 | [Implosive Silence](https://open.spotify.com/track/4YNnOnlzDCWHujthPSPke8) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Highway](https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI) | 5:41 |
 | 26 | [Rangoon Theme](https://open.spotify.com/track/3PkLK8b0tRTIgggmM1vwib) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Rangoon](https://open.spotify.com/album/2fcB0MfveJSfjhDG4UjfxQ) | 1:31 |
 | 27 | [Andhadhun Theme 01](https://open.spotify.com/track/62KAX5PbRgblMOiHxGK4r4) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Andhadhun](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 4:15 |
-| 28 | [Kaise Mujhe \(Instrumental\)](https://open.spotify.com/track/02nOZG5WrxCHEYbjjxeZQf) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ghajini](https://open.spotify.com/album/1bakFVqPdxrSCSZI2HUGhJ) | 4:01 |
+| 28 | [Bombay Theme \- Bombay / Soundtrack Version](https://open.spotify.com/track/7n6YJCoiTHtdhytgAliYDu) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bombay](https://open.spotify.com/album/2oPdRL0fDdnW9e1zoMnrDk) | 5:18 |
 | 29 | [Saiyyan \- Instrumental](https://open.spotify.com/track/3aG2fRZk8wJVurZEcl6MR0) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Unchained Melodies](https://open.spotify.com/album/7lReU7R3QMMfVdn9SIT7UO) | 5:47 |
 | 30 | [Perpendicular \(Theme\)](https://open.spotify.com/track/4dnBoWcH0c5BzaIXssStBi) | [Sneha Khanwalkar](https://open.spotify.com/artist/3JtetEsoytPoOIPGvqUvSR) | [Gangs Of Wasseypur \- 2](https://open.spotify.com/album/7DBbDXQbei6e4X6EdXOyz2) | 1:53 |
 | 31 | [The Don Waltz](https://open.spotify.com/track/5XcOoA1V7bj4g2I49dOXbk) | [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1) | [Don 2](https://open.spotify.com/album/567IupuTzzBF0cgmtucllU) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 49 | [Rockford Theme \- Instrumental](https://open.spotify.com/track/6rZRfqE5yPnOMqhqgNPxaM) | [Ashirvad](https://open.spotify.com/artist/4BXd7j6uYCeZFgi3B5v3K7), [Sangeeth Luke](https://open.spotify.com/artist/3MJZzdlZhRijyUHSMnaP5o) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 3:35 |
 | 50 | [Charminar](https://open.spotify.com/track/3fbM7XnAJOF5S4W3cqJhJd) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Amit Heri](https://open.spotify.com/artist/0EfPLCM3YgAj83a4K4TVMg), [Rajesh Vaidya](https://open.spotify.com/artist/4H83oUEiCke2zJcFbJAmCw) | [Morning Raga \- A Meeting Of Worlds](https://open.spotify.com/album/0WzQ9zO97qwwntyQ1mgaCE) | 1:29 |
 
-Snapshot ID: `MTY3NzQ3MDEzOSwwMDAwMDAwMDgzYzgyMGE1YmU0MTg2ODUyNDkzMTdlMTk2Y2EzNjQw`
+Snapshot ID: `MTY3NzQ3MDEzOSwwMDAwMDAwMDQwMTFlZTNkYWI4YTI4OTZjN2U4YmY1Yzc4NTFlN2Nm`

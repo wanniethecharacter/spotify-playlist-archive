@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Chuu & KIM YOHAN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,017 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,156 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 44 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 |
 | 45 | [Let Me Go \(with TAEYEON\)](https://open.spotify.com/track/0W1BHowUDWND1AIQU6nUbD) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:31 |
 | 46 | [그냥 지금 바람이 좋잖아 Feel this breeze \(feat\. JoeSwan\)](https://open.spotify.com/track/16gvUZGCUdvStCvwOR05Wk) | [Sunmin](https://open.spotify.com/artist/3tSqvuC6jIIo8rmiurd6ny), [Cho Hyung Woo](https://open.spotify.com/artist/2mJ89mSNpPIw2zX7LS4VEU), [JoeSwan](https://open.spotify.com/artist/6QjcEmJSVAOSR8cqfSaZFt) | [그냥 지금 바람이 좋잖아 Feel this breeze \(with JoeSwan\)](https://open.spotify.com/album/7fNgIXb4djTJEJoMdNagHw) | 2:50 |
-| 47 | [Freesia](https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:49 |
-| 48 | [Love Virus](https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS), [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Whats wrong with secretary kim OST Part.1](https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR) | 3:27 |
+| 47 | [Love Virus](https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS), [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Whats wrong with secretary kim OST Part.1](https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR) | 3:27 |
+| 48 | [Freesia](https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:49 |
 | 49 | [Ing..](https://open.spotify.com/track/7DDHo1xE4G8WZlHepTCwje) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH), [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/0l2EK3FdDY9MVRD3tckhDC) | 4:00 |
 | 50 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 |
 
-Snapshot ID: `MTY3NzIxMTE2NSwwMDAwMDAwMGQ1NmFlZjU1MDYwNzQyNjJiOTBlYTM1NDkxMDRjMzMx`
+Snapshot ID: `MTY3NzIxMTE2NSwwMDAwMDAwMGI4OTdmOWY0ODg4OWE5ZWI3NDI2MjllY2FlNWRiMzM3`

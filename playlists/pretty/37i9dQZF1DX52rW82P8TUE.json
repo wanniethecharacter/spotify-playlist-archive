@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 48923,
+  "num_followers": 48963,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ5ODA2NywwMDAwMDAwMGViYTA5MTNkODRmNzJiNGYyM2Q0NGMxYzg4YjYxNzc1",
+  "snapshot_id": "MTY3ODQ5ODA2NywwMDAwMDAwMDdhZjIwZTQ4MGIxNjQ5YThiNjU2MDg1MWYzMGIzNzc1",
   "tracks": [
     {
       "added_at": "2023-03-11 01:27:47",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-03-11 01:27:47",
       "album": {
-        "name": "Quem Ama os Animais: Yasminzinha",
-        "url": "https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Verissimo",
-          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Quem Ama os Animais: Yasminzinha",
-      "url": "https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn"
-    },
-    {
-      "added_at": "2023-03-11 01:27:47",
-      "album": {
         "name": "Fam\u00edlia Perfeita",
         "url": "https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V"
       },
@@ -395,22 +379,6 @@
       "duration_ms": 196270,
       "name": "Fam\u00edlia Perfeita",
       "url": "https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR"
-    },
-    {
-      "added_at": "2023-03-11 01:27:47",
-      "album": {
-        "name": "Brincando de Escolinha",
-        "url": "https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja"
-      },
-      "artists": [
-        {
-          "name": "Vaneyse",
-          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
-        }
-      ],
-      "duration_ms": 186224,
-      "name": "Hit da Formiguinha",
-      "url": "https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r"
     },
     {
       "added_at": "2023-03-11 01:27:47",
@@ -431,6 +399,38 @@
       "duration_ms": 164165,
       "name": "Crian\u00e7a Nota 10",
       "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
+    },
+    {
+      "added_at": "2023-03-11 01:27:47",
+      "album": {
+        "name": "Brincando de Escolinha",
+        "url": "https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja"
+      },
+      "artists": [
+        {
+          "name": "Vaneyse",
+          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
+        }
+      ],
+      "duration_ms": 186224,
+      "name": "Hit da Formiguinha",
+      "url": "https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r"
+    },
+    {
+      "added_at": "2023-03-11 01:27:47",
+      "album": {
+        "name": "Quem Ama os Animais: Yasminzinha",
+        "url": "https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Verissimo",
+          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Quem Ama os Animais: Yasminzinha",
+      "url": "https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn"
     },
     {
       "added_at": "2023-03-11 01:27:47",

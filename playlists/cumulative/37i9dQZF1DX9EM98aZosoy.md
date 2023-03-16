@@ -4,7 +4,7 @@
 
 > Feiern mit den größten aktuellen Partyhits.
 
-97 songs - 4 hr 34 min
+98 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2022-10-14 | 2023-01-05 |
 | [Another Love](https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Another Love](https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt) | 2:25 | 2022-12-22 |  |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-12-22 |  |
+| [Auf die Party](https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Auf die Party](https://open.spotify.com/album/57Mo2UNrJR14lhdZU5WXbt) | 2:44 | 2023-03-16 |  |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-10-14 |  |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2022-10-14 | 2022-12-22 |
 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 | 2022-10-14 |  |
@@ -58,7 +59,7 @@
 | [JESUS IN BERLIN](https://open.spotify.com/track/1eBGNWrnfmSCHN4IfEUqUX) | [nullzwei](https://open.spotify.com/artist/3PkWoIJrG7k4yJuGytxTds), [Chris Sigl](https://open.spotify.com/artist/5bo6pQQsgmpE3dB7ZxtXot), [BERTHAJU](https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks) | [JESUS IN BERLIN](https://open.spotify.com/album/3O87y5cnZk4fVJbjSfc3Xl) | 2:32 | 2023-02-18 | 2023-02-25 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-12-22 | 2023-01-05 |
 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 | 2022-10-14 |  |
-| [KISSENSCHLACHT](https://open.spotify.com/track/5s1EwpwmgQJ8Ti3ltrJdO8) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [KIDS WITH ATTITUDE](https://open.spotify.com/album/54cTUMcICp6BAEk5G49m3z) | 2:51 | 2023-01-05 |  |
+| [KISSENSCHLACHT](https://open.spotify.com/track/5s1EwpwmgQJ8Ti3ltrJdO8) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [KIDS WITH ATTITUDE](https://open.spotify.com/album/54cTUMcICp6BAEk5G49m3z) | 2:51 | 2023-01-05 | 2023-03-16 |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-13 |  |
 | [Left & Right](https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Left & Right](https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS) | 2:34 | 2022-10-28 | 2023-01-25 |
 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 | 2022-10-28 |  |

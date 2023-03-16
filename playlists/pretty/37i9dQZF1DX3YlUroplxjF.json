@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: XL Life",
-  "num_followers": 447858,
+  "num_followers": 447935,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTgzMywwMDAwMDAwMGYxODg4ODVhOWVmMTFiZjIwNWNiNzNhODgyZmY1NDlh",
+  "snapshot_id": "MTY3NjA0NTgzMywwMDAwMDAwMGM0YWY2ZTc0OTRkZDRlODNkNjMyOGY2ZTZhYTg3MGJk",
   "tracks": [
     {
       "added_at": "2023-01-27 16:27:25",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 228372,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "Brand New Vision",
         "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 198000,
       "name": "Into The Dark (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 228372,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
     },
     {
-      "added_at": "2023-03-15 00:38:18",
+      "added_at": "2023-03-16 01:31:20",
       "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "when we were young",
-        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 193886,
-      "name": "when we were young",
-      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Ghost in My Home",
         "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 200189,
       "name": "Ghost in My Home",
       "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 193886,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "Hereafter",
-      "url": "https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 326771,
       "name": "COLD BLOOD",
       "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "Hereafter",
+      "url": "https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
     },
     {
-      "added_at": "2023-03-15 00:38:18",
-      "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 127383,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
-    },
-    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
@@ -619,6 +603,22 @@
       "duration_ms": 182679,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw"
+    },
+    {
+      "added_at": "2023-03-16 01:31:20",
+      "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Beautiful Death",
-        "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
-      },
-      "artists": [
-        {
-          "name": "SLAVES",
-          "url": "https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Let This Haunt You",
-      "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "The World Is In Your Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 225117,
       "name": "Instability",
       "url": "https://open.spotify.com/track/0hNgeS6kzIC4Rtdz4L0jsN"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Beautiful Death",
+        "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
+      },
+      "artists": [
+        {
+          "name": "SLAVES",
+          "url": "https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Let This Haunt You",
+      "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Degenerates",
-        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Degenerates",
-      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/4A0h5fDeSf8P1egJGllKz4"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 163720,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/1aWpVsNjEiqpFvV3KhJiWu"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Degenerates",
+        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Degenerates",
+      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK"
     },
     {
-      "added_at": "2023-03-15 00:38:18",
-      "album": {
-        "name": "Evil Finds Light",
-        "url": "https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu"
-      },
-      "artists": [
-        {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
-        }
-      ],
-      "duration_ms": 127933,
-      "name": "Evil Finds Light",
-      "url": "https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r"
-    },
-    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "DEATH (Ever Colder)",
@@ -947,6 +931,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Restless Heart, Keep Running",
+        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Stars Before The Sun",
+      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "Anon.",
         "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 173000,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
+    },
+    {
+      "added_at": "2023-03-16 01:31:20",
+      "album": {
+        "name": "Evil Finds Light",
+        "url": "https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 127933,
+      "name": "Evil Finds Light",
+      "url": "https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -975,22 +991,6 @@
       "duration_ms": 272725,
       "name": "Nocturnal Future",
       "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Restless Heart, Keep Running",
-        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Stars Before The Sun",
-      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1027,6 +1027,38 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Low Budget Horror",
+        "url": "https://open.spotify.com/album/1mfUf7rjQRTRGbMIc7vucK"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 181631,
+      "name": "Low Budget Horror",
+      "url": "https://open.spotify.com/track/2jY2PFrpUfA43XcQtDbSdz"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "To Better Days",
+        "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
+      },
+      "artists": [
+        {
+          "name": "Rain City Drive",
+          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
+        }
+      ],
+      "duration_ms": 196427,
+      "name": "Bury a Lie",
+      "url": "https://open.spotify.com/track/1RNS0ntWy01bZpPkrjJAyt"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "wonderful life (feat. Dani Filth)",
         "url": "https://open.spotify.com/album/1uunFc8ZPthd7kFXaf393T"
       },
@@ -1047,22 +1079,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Low Budget Horror",
-        "url": "https://open.spotify.com/album/1mfUf7rjQRTRGbMIc7vucK"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 181631,
-      "name": "Low Budget Horror",
-      "url": "https://open.spotify.com/track/2jY2PFrpUfA43XcQtDbSdz"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/5Icvhj9ZzhnOkgrkhb67a1"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "To Better Days",
-        "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
       "artists": [
         {
-          "name": "Rain City Drive",
-          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
         }
       ],
-      "duration_ms": 196427,
-      "name": "Bury a Lie",
-      "url": "https://open.spotify.com/track/1RNS0ntWy01bZpPkrjJAyt"
+      "duration_ms": 229896,
+      "name": "Hypochondria",
+      "url": "https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9"
     },
     {
       "added_at": "2023-01-27 16:27:25",
@@ -1107,22 +1123,6 @@
       "duration_ms": 203813,
       "name": "One Love",
       "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 229896,
-      "name": "Hypochondria",
-      "url": "https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1349,20 +1349,20 @@
       "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
     },
     {
-      "added_at": "2023-03-15 00:38:18",
+      "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Attainable",
-        "url": "https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx"
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
       "artists": [
         {
-          "name": "GEL",
-          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
         }
       ],
-      "duration_ms": 103488,
-      "name": "Attainable",
-      "url": "https://open.spotify.com/track/4QUgb2DKAg4My1m2sbmNgw"
+      "duration_ms": 190750,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/6hUEwiltS9W4UdO3h2NCsK"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1381,6 +1381,22 @@
       "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
     },
     {
+      "added_at": "2023-03-16 01:31:20",
+      "album": {
+        "name": "Attainable",
+        "url": "https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx"
+      },
+      "artists": [
+        {
+          "name": "GEL",
+          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
+        }
+      ],
+      "duration_ms": 103488,
+      "name": "Attainable",
+      "url": "https://open.spotify.com/track/4QUgb2DKAg4My1m2sbmNgw"
+    },
+    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "The Love You Let Too Close",
@@ -1395,22 +1411,6 @@
       "duration_ms": 202025,
       "name": "Tradition",
       "url": "https://open.spotify.com/track/6lrXcmmm0Rsg1K5FdkZE0U"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "How It Feels to Be Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 190750,
-      "name": "Break Me Down",
-      "url": "https://open.spotify.com/track/6hUEwiltS9W4UdO3h2NCsK"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
     },
     {
-      "added_at": "2023-01-19 23:53:27",
-      "album": {
-        "name": "Dark Blue",
-        "url": "https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB"
-      },
-      "artists": [
-        {
-          "name": "One Step Closer",
-          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
-        }
-      ],
-      "duration_ms": 169045,
-      "name": "Dark Blue",
-      "url": "https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO"
-    },
-    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "Familiar Drugs",
@@ -1507,6 +1491,22 @@
       "duration_ms": 258718,
       "name": "Familiar Drugs",
       "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
+    },
+    {
+      "added_at": "2023-01-19 23:53:27",
+      "album": {
+        "name": "Dark Blue",
+        "url": "https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "duration_ms": 169045,
+      "name": "Dark Blue",
+      "url": "https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Bob Vylan Presents The Price Of Life",
-        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 150143,
-      "name": "Wicked & Bad",
-      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Voyeurist",
         "url": "https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "One Blood We Bleed",
-        "url": "https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr"
+        "name": "Bob Vylan Presents The Price Of Life",
+        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
       },
       "artists": [
         {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
         }
       ],
-      "duration_ms": 145190,
-      "name": "One Blood We Bleed",
-      "url": "https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD"
+      "duration_ms": 150143,
+      "name": "Wicked & Bad",
+      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1627,6 +1611,22 @@
       "duration_ms": 185454,
       "name": "Messed Up",
       "url": "https://open.spotify.com/track/6VyVscmvqF2DvH94Yx8KCd"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "One Blood We Bleed",
+        "url": "https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "duration_ms": 145190,
+      "name": "One Blood We Bleed",
+      "url": "https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD"
     },
     {
       "added_at": "2022-12-13 20:10:17",

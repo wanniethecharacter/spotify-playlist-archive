@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Zeph
 
-1,556 songs - 3 day 7 hr 16 min
+1,558 songs - 3 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1152,6 +1152,7 @@
 | [Sad Love](https://open.spotify.com/track/68UkVdPxJFZDz5Dtz2nGsb) | [Whitney Woerz](https://open.spotify.com/artist/10BwHZCTlNF44mgOBrMec3) | [Sad Love](https://open.spotify.com/album/0LdcazWtgzYxZfwbbEFoXK) | 3:37 | 2022-06-24 | 2022-07-04 |
 | [Sad Song](https://open.spotify.com/track/0fjdTZFuBkKxpm9tQ8q8qD) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [Sad Song](https://open.spotify.com/album/3Drj0EVrIr6D4OSiuGbB20) | 2:55 | 2020-06-12 | 2020-06-13 |
 | [saddest happy girl](https://open.spotify.com/track/01dhiSuKRdWMCvT6snLTkw) | [Stalking Gia](https://open.spotify.com/artist/3VTJqPiHqHHIrx1FL7avMY) | [saddest happy girl](https://open.spotify.com/album/7y5gcNMgfvn7LhAFOdvT4z) | 2:27 | 2022-08-26 | 2023-02-18 |
+| [Safe to Say](https://open.spotify.com/track/4znoyzzTFrgw6Pb6kIyVpI) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Safe to Say](https://open.spotify.com/album/0eVMPMPls6MrxEMJksMrus) | 3:31 | 2023-03-08 |  |
 | [Salir](https://open.spotify.com/track/4BPPnB4QD4eXI251VjifTL) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Salir](https://open.spotify.com/album/3yTS8NyDJBjuyM5WtLX6Nl) | 2:58 | 2021-10-10 | 2021-10-11 |
 | [Saltines & Gingerale](https://open.spotify.com/track/4fywIRWZFKQWBUwSBrQ271) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [Saltines & Gingerale](https://open.spotify.com/album/7GGxMJrXmbPMnQ03uuJBa5) | 2:34 | 2021-07-16 | 2022-01-29 |
 | [SAME DAMN SONG](https://open.spotify.com/track/1ocrDvt7PiRJC9OoSQNLHf) | [Brendan Bennett](https://open.spotify.com/artist/0lpU3HUAjN8AdjApUJ2ykI) | [SAME DAMN SONG](https://open.spotify.com/album/4BcgMBYOSYiICH7gdyv8Ga) | 2:22 | 2021-03-07 | 2021-11-20 |
@@ -1197,7 +1198,7 @@
 | [Shit Show](https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Shit Show](https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp) | 3:20 | 2021-09-10 | 2023-02-11 |
 | [Shitty People](https://open.spotify.com/track/4gmWwnGA117kHmmzczUwlz) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Shitty People](https://open.spotify.com/album/40xU8o3w2Zw17JiTIZ3q2s) | 2:41 | 2022-05-27 | 2022-06-07 |
 | [Shock Value](https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shock Value](https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk) | 2:31 | 2022-09-23 | 2022-10-09 |
-| [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 | 2023-02-24 |  |
+| [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 | 2023-02-24 | 2023-03-16 |
 | [Should I Call U Baby](https://open.spotify.com/track/0Jv6znEgiRN0QpJXQ9aaWA) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Should I Call U Baby](https://open.spotify.com/album/0GslCQGbomtTLgqyjUug3C) | 3:59 | 2021-10-25 | 2022-01-29 |
 | [Show Me](https://open.spotify.com/track/10myPNOGfqlAmkKRc3L1d9) | [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Show Me](https://open.spotify.com/album/3H5theFZzPfDdbBVOEkxlG) | 3:15 | 2019-05-26\* | 2019-06-15 |
 | [Show Me \(feat\. Madison Ryann Ward\)](https://open.spotify.com/track/3re97KCFI7Lt6pRfxdC8KL) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Show Me \(feat\. Madison Ryann Ward\)](https://open.spotify.com/album/1L30zgJR7KKILbL3p3Z5wH) | 3:25 | 2019-05-26\* | 2019-06-15 |
@@ -1344,6 +1345,7 @@
 | [Swing Swing](https://open.spotify.com/track/0VWRbuEicramx9Hp2iWCTC) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Swing Swing](https://open.spotify.com/album/1kImx6P9OYh8lob0po00jJ) | 3:11 | 2019-05-26\* | 2019-08-13 |
 | [Swing!](https://open.spotify.com/track/6As82n96RAwuoR9Y69N0EB) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Swing!](https://open.spotify.com/album/3LrxGxVT1ScQcKHkPHjzuD) | 2:50 | 2022-10-07 | 2023-02-25 |
 | [T\-Shirt](https://open.spotify.com/track/5XIG5wfxOZ4p3OrQYZPuGI) | [The Yves](https://open.spotify.com/artist/50CeFDCHW8eEwymrHFAeKL) | [T\-Shirt](https://open.spotify.com/album/60toMzdVHRmvGNN7L7qcJn) | 3:36 | 2021-10-29 | 2022-01-29 |
+| [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 | 2023-03-10 |  |
 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 | 2022-02-18 | 2022-03-18 |
 | [Tainted Love](https://open.spotify.com/track/2nx6I5R9C8nfBofUdlXoRA) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Tainted Love](https://open.spotify.com/album/2jUIRTC8OpmKuEsgejMi2T) | 3:21 | 2022-04-01 | 2022-05-14 |
 | [Take A Chance](https://open.spotify.com/track/46d67vPhehiB0xlvfa7zn7) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Take A Chance](https://open.spotify.com/album/1RQS929sWdYKcsNMTuKjiQ) | 2:59 | 2021-11-26 | 2022-03-09 |
@@ -1429,7 +1431,7 @@
 | [TROJAN HORSE](https://open.spotify.com/track/1cQCdozRmaErXowT6iDQML) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [TROJAN HORSE](https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB) | 4:26 | 2021-03-07 | 2021-10-16 |
 | [Trophy](https://open.spotify.com/track/0ocYQnByzoJWYyitslaBtm) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/0uETltJ5TYMOFOxIr46SsZ) | 2:40 | 2022-04-22 | 2022-10-31 |
 | [Trophy](https://open.spotify.com/track/5igLTHeeq84I50vFL4ZS2j) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/3DcH7VLRiXxiuWu91XjJy7) | 2:40 | 2022-04-22 | 2022-04-29 |
-| [Trophy](https://open.spotify.com/track/40VBfrp9qMTMcFYpYUMj9p) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Life's A Bitch](https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd) | 2:40 | 2022-11-11 |  |
+| [Trophy](https://open.spotify.com/track/40VBfrp9qMTMcFYpYUMj9p) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Life's A Bitch](https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd) | 2:40 | 2022-11-11 | 2023-03-16 |
 | [Trust Issues](https://open.spotify.com/track/2z5uCpJamxXgs7GKa6qzPi) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/45yZQnazJjAbDlJyIkGEQ9) | 2:20 | 2022-08-19 | 2022-10-29 |
 | [try to try](https://open.spotify.com/track/3NkEARkGgDV2i8AWiyctQt) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [try to try](https://open.spotify.com/album/43mYpwbwMHnpDMpLQFiDqJ) | 2:16 | 2021-04-17 | 2021-11-20 |
 | [TV](https://open.spotify.com/track/7sZxEtxIahkGmPihwVYmLQ) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [TV](https://open.spotify.com/album/2VZlv2ZzFtr2WN2YPbzCbq) | 3:06 | 2019-05-26\* | 2019-09-14 |

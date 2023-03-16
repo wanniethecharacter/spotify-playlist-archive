@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,449 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,492 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 66 | [33](https://open.spotify.com/track/7yRoSZ5Pu6NS6QcWbgyZwu) | [Colin Macleod](https://open.spotify.com/artist/6sijvTWaedetuV2MJF3YwU), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hold Fast](https://open.spotify.com/album/4s0iIcY1K22uuodSqd8l3b) | 3:15 |
 | 67 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
 | 68 | [Losing You](https://open.spotify.com/track/0YXxshSez93ufAdxbfQfRd) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Before The Dawn](https://open.spotify.com/album/1EcxPip4KAIlQBjkBLtNdX) | 2:58 |
-| 69 | [You're A Mystery](https://open.spotify.com/track/3ytfjqpqNhTdFbNt4uZ6Au) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [You're A Mystery](https://open.spotify.com/album/6NakoaoQkDEhDrCRwxJzgn) | 3:13 |
+| 69 | [You're A Mystery](https://open.spotify.com/track/5m3n8JK40XBTIQYyHfrhPu) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [You're A Mystery](https://open.spotify.com/album/38dcanpHYVXTl79HTimr0w) | 3:13 |
 | 70 | [Aquarium Kisses](https://open.spotify.com/track/0Bp2D0RD5GF83GRh1iMbav) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Aquarium Kisses](https://open.spotify.com/album/2GTlATmh5ktYJyi3NM1Fs9) | 3:42 |
 | 71 | [Drive You Home](https://open.spotify.com/track/1xUTQQKrTrGc7JPUi5gWPg) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq), [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Drive You Home](https://open.spotify.com/album/3uu5fit1E8Oa6Vv2bVwz8c) | 2:49 |
 | 72 | [Rest](https://open.spotify.com/track/1yxiUqnKMOBKtMa3qHme3V) | [Trev](https://open.spotify.com/artist/3YugT4RsrpRfb6DdeIA4Wv) | [I Have Hope](https://open.spotify.com/album/4nepn7zOSio2f9VYWBMsyy) | 2:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [Ghost](https://open.spotify.com/track/5xWpOP3RvKvd8oz1y5HfRo) | [Callum Pitt](https://open.spotify.com/artist/15mRJDZiAQq5CI6AqnlJfd) | [Ghost](https://open.spotify.com/album/6tEpoBigcuVdWFWqza7U8f) | 4:12 |
 | 80 | [Decimal](https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:58 |
 
-Snapshot ID: `MTY3NzI1MjkzOSwwMDAwMDAwMDViYzBiNGIwODc4NmRlYzE4YmNlYjYyN2JhM2M2YTcz`
+Snapshot ID: `MTY3NzI1MjkzOSwwMDAwMDAwMGFmNDRiYTNlYTM2OGYxYTM5NjBiZmZmYzA2YmNmOWEz`

@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-664 songs - 1 day 13 hr 59 min
+665 songs - 1 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Alien](https://open.spotify.com/track/2J9ZDla6aexjsx8OKfvQKA) | [十五少女](https://open.spotify.com/artist/4QmLN7dXAOKWnZO9efWX5d) | [Alien](https://open.spotify.com/album/2sXsMJYhVvtubUdH5yBAxW) | 2:32 | 2022-07-26 | 2022-07-28 |
 | [All\-Knowing And All\-Agony](https://open.spotify.com/track/0mNhZRsivE8geiFdypJIUQ) | [MILGRAM ハルカ \(CV: 堀江 瞬\)](https://open.spotify.com/artist/7dm5dBZGztNxmAmVv4LI4E) | [All\-Knowing And All\-Agony](https://open.spotify.com/album/2Q3fgG5bRgU96ReFxdC51i) | 3:16 | 2022-09-14 | 2022-09-21 |
 | [Allee](https://open.spotify.com/track/49U4Om5zq1fN7OwXRClKcp) | [H△G](https://open.spotify.com/artist/7GsiDAKduqD0ezEeOWeldb) | [Allee](https://open.spotify.com/album/7gvxAPIOiPpy1XJtRoyKqF) | 2:50 | 2022-06-14 | 2022-06-17 |
+| [And That's Why I Can't Stop!](https://open.spotify.com/track/0iuGNjRPERARznf8iCQJ6a) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [And That's Why I Can't Stop!](https://open.spotify.com/album/1GIW6pIrpJTB1FcXl4rmgo) | 2:45 | 2023-03-16 |  |
 | [ANSWER](https://open.spotify.com/track/4tVdEeAPlAwFiGmONQ5hzR) | [フレデリック×須田景凪](https://open.spotify.com/artist/6eSGajYonAUblKtPGKTj1S), [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW), [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ANSWER](https://open.spotify.com/album/37gEuZYvOKOSwXQslCOecY) | 3:42 | 2022-06-23 | 2022-07-17 |
 | [Anti\-Love Club \(tentative\) \(feat\. sakana\)](https://open.spotify.com/track/1P0F7HRKeHLPmOM2WKDBI7) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [sakana](https://open.spotify.com/artist/7ynWqUtYVEl1GOhC4LmsT9) | [Anti\-Love Club \(tentative\) \(feat\. sakana\)](https://open.spotify.com/album/0GZLa2ceAPzh3Xnl4307Q5) | 2:52 | 2022-09-20 | 2022-09-28 |
 | [Anti\-Love Club \(tentative\) REMIX \(feat\. sakana\)](https://open.spotify.com/track/1BJkswUzqciMiHbMC4Wbhm) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [sakana](https://open.spotify.com/artist/7ynWqUtYVEl1GOhC4LmsT9) | [Anti\-Love Club \(tentative\) REMIX \(feat\. sakana\)](https://open.spotify.com/album/48DoKisq4sGOtKMf2vlPc7) | 3:01 | 2022-10-04 | 2022-10-12 |
@@ -249,7 +250,7 @@
 | [きれいなものだけ](https://open.spotify.com/track/7xrZqA8dlR9zPoPwB67EeV) | [Harucha](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs), [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [きれいなものだけ](https://open.spotify.com/album/68kBH6TvjNJcMWI9kRHnfW) | 2:40 | 2022-06-16 | 2022-07-28 |
 | [くびったけ](https://open.spotify.com/track/3L0rXIx0aocJrFq7AQxBKI) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [くびったけ](https://open.spotify.com/album/57kc4sqcplMurw6VSgztUw) | 3:54 | 2022-07-26 | 2022-09-13 |
 | [ここで生きてる](https://open.spotify.com/track/2vIWfDgMhBpQX6KyEIFMhk) | [MARY](https://open.spotify.com/artist/08EO45FsrKqyDaVHocLjug), [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [ここで生きてる](https://open.spotify.com/album/7tPIq5kHy7oiJGwTFz1EYJ) | 3:22 | 2022-06-30 | 2022-07-04 |
-| [これだからやめらんない!](https://open.spotify.com/track/1KnujnydiDuU7ardc0LYpl) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [これだからやめらんない!](https://open.spotify.com/album/33hq404ABQqbt4JI0Egsrp) | 2:45 | 2023-03-15 |  |
+| [これだからやめらんない!](https://open.spotify.com/track/1KnujnydiDuU7ardc0LYpl) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [これだからやめらんない!](https://open.spotify.com/album/33hq404ABQqbt4JI0Egsrp) | 2:45 | 2023-03-15 | 2023-03-16 |
 | [さよならノヴェル](https://open.spotify.com/track/1eKFhZFsvYhhrdzsTyj3fc) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O), [綾瀬なりさ](https://open.spotify.com/artist/4J31KiLWmVhHlpIXaeTcb4) | [さよならノヴェル](https://open.spotify.com/album/0GyGXiYidz1ubZYN166W5F) | 3:57 | 2022-09-20 | 2022-09-28 |
 | [しよっか。\(feat.meiyo\)](https://open.spotify.com/track/207l3jD5YPS0ndm3UZDakF) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32), [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [しよっか。\(feat.meiyo\)](https://open.spotify.com/album/3lvj2EyFe7SZJi0dbraD12) | 3:00 | 2022-06-09 | 2022-07-11 |
 | [そぐわな](https://open.spotify.com/track/2ftcqHzXbUP4P6nROsanV8) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [そぐわな](https://open.spotify.com/album/2W0hOxFTRTYkrRPiOs1292) | 3:42 | 2022-06-14 | 2022-07-06 |

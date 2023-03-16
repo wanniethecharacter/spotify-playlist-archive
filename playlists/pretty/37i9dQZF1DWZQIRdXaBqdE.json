@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 343295,
+  "num_followers": 343471,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2NTg3OCwwMDAwMDAwMGU4ZmM5MTNjNDc0MGE0NjMzZDljOTE0ODg0NjZjNjFi",
+  "snapshot_id": "MTY1MTg2NTg3OCwwMDAwMDAwMDg2MDMzN2JiOTNlZDkzZGM3Mzc2Zjg5Y2M0NGRhN2Q0",
   "tracks": [
     {
       "added_at": "2022-05-06 19:37:58",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Behind Closed Doors",
-        "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "The Most Beautiful Girl",
-      "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "East Bound and Down",
         "url": "https://open.spotify.com/album/6T5ljAT08JRLgPclFln5qH"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 168466,
       "name": "East Bound and Down",
       "url": "https://open.spotify.com/track/4NzlpYVrTYG1eo8BCu3MLB"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Behind Closed Doors",
+        "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "The Most Beautiful Girl",
+      "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "The Best Of Sammi Smith",
-        "url": "https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg"
-      },
-      "artists": [
-        {
-          "name": "Sammi Smith",
-          "url": "https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "Help Me Make It Through The Night",
-      "url": "https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Too Cold At Home",
         "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 184840,
       "name": "Brother Jukebox",
       "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "The Best Of Sammi Smith",
+        "url": "https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg"
+      },
+      "artists": [
+        {
+          "name": "Sammi Smith",
+          "url": "https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS"
+        }
+      ],
+      "duration_ms": 155533,
+      "name": "Help Me Make It Through The Night",
+      "url": "https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "The Oak Ridge Boys Have Arrived",
-        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
+        "name": "Rose Colored Glasses",
+        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
       },
       "artists": [
         {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
         }
       ],
-      "duration_ms": 179533,
-      "name": "Leaving Louisiana In The Broad Daylight",
-      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
+      "duration_ms": 200493,
+      "name": "Rose Colored Glasses",
+      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Rose Colored Glasses",
-        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
+        "name": "The Oak Ridge Boys Have Arrived",
+        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
       },
       "artists": [
         {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
         }
       ],
-      "duration_ms": 200493,
-      "name": "Rose Colored Glasses",
-      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
+      "duration_ms": 179533,
+      "name": "Leaving Louisiana In The Broad Daylight",
+      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
+        "name": "Okie From Muskogee",
+        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 230993,
+      "name": "I Think I ll Just Stay Here And Drink - Re-Recorded",
+      "url": "https://open.spotify.com/track/6DmyknyzXRbIKZe3ySDA6Y"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 174666,
       "name": "Behind Closed Doors",
       "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
-        "name": "Sentimentally Yours",
-        "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "She's Got You - Single Version",
-      "url": "https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -987,18 +987,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Okie From Muskogee",
-        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
+        "name": "Sentimentally Yours",
+        "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
         }
       ],
-      "duration_ms": 230993,
-      "name": "I Think I ll Just Stay Here And Drink - Re-Recorded",
-      "url": "https://open.spotify.com/track/6DmyknyzXRbIKZe3ySDA6Y"
+      "duration_ms": 181800,
+      "name": "She's Got You - Single Version",
+      "url": "https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Back To The Barrooms",
-        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "I Think I'll Just Stay Here And Drink",
-      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "You're The One",
         "url": "https://open.spotify.com/album/4q0ML8wcGoyyMl3hOOACtJ"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 174693,
       "name": "Y'all Come Back Saloon",
       "url": "https://open.spotify.com/track/790HdFZdub1eobl2iLzcem"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Back To The Barrooms",
+        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "I Think I'll Just Stay Here And Drink",
+      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Who's Gonna Fill Their Shoes",
-      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Why Not Me",
         "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 238506,
       "name": "Love Is Alive",
       "url": "https://open.spotify.com/track/2cD3pqgT9Yn4GUcGflMYdk"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Who's Gonna Fill Their Shoes",
+      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "The Essential Tammy Wynette",
-        "url": "https://open.spotify.com/album/0q0llpTYCmEoe5bBQ367Eu"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 175440,
-      "name": "D-I-V-O-R-C-E",
-      "url": "https://open.spotify.com/track/4JPEuPsDG3nNJMAvvQ2Rr3"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Anne Murray The Best Of...So Far - 20 Greatest Hits",
         "url": "https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 238333,
       "name": "I Can Help",
       "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "The Essential Tammy Wynette",
+        "url": "https://open.spotify.com/album/0q0llpTYCmEoe5bBQ367Eu"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 175440,
+      "name": "D-I-V-O-R-C-E",
+      "url": "https://open.spotify.com/track/4JPEuPsDG3nNJMAvvQ2Rr3"
     },
     {
       "added_at": "2022-05-06 19:37:58",

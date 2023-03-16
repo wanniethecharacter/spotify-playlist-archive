@@ -1,12 +1,12 @@
 {
   "description": "Big rap for big reps. You got this.",
-  "num_followers": 1887616,
+  "num_followers": 1888451,
   "original_name": "Rap Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5MjM3MywwMDAwMDAwMDJkMDI0NGNlNDA0ZWY1MmNmMDQ4YTcwODRiMDUzNjgz",
+  "snapshot_id": "MTY3Nzc5MjM3MywwMDAwMDAwMGU1ZTA5MjI2YzYwYzg1NWMxNmY2MjlkMDE3YzBhMzhh",
   "tracks": [
     {
       "added_at": "2023-03-02 21:26:13",
@@ -467,26 +467,6 @@
     {
       "added_at": "2023-03-02 21:26:13",
       "album": {
-        "name": "Lil Durk Presents: Loyal Bros 2",
-        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Mad Max",
-      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
-    },
-    {
-      "added_at": "2023-03-02 21:26:13",
-      "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 325506,
       "name": "Shook Ones, Pt. II",
       "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
+    },
+    {
+      "added_at": "2023-03-02 21:26:13",
+      "album": {
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
     },
     {
       "added_at": "2023-03-02 21:26:13",
@@ -547,22 +547,22 @@
     {
       "added_at": "2023-03-02 21:26:13",
       "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+        "name": "Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+      "duration_ms": 153600,
+      "name": "Mad Max",
+      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
     },
     {
       "added_at": "2023-03-02 21:26:13",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-03-02 21:26:13",
       "album": {
+        "name": "Who is Nardo Wick?? (Deluxe)",
+        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 151776,
+      "name": "Dah Dah DahDah",
+      "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
+    },
+    {
+      "added_at": "2023-03-02 21:26:13",
+      "album": {
         "name": "King Snipe",
         "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 214593,
       "name": "King Snipe",
       "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
-    },
-    {
-      "added_at": "2023-03-02 21:26:13",
-      "album": {
-        "name": "Who is Nardo Wick?? (Deluxe)",
-        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        }
-      ],
-      "duration_ms": 151776,
-      "name": "Dah Dah DahDah",
-      "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
     },
     {
       "added_at": "2023-03-02 21:26:13",
@@ -931,30 +931,6 @@
     {
       "added_at": "2023-03-02 21:26:13",
       "album": {
-        "name": "Hot Shit (feat. Ye & Lil Durk)",
-        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 211649,
-      "name": "Hot Shit (feat. Ye & Lil Durk)",
-      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
-    },
-    {
-      "added_at": "2023-03-02 21:26:13",
-      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 215693,
       "name": "Solid (feat. Drake)",
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
+    },
+    {
+      "added_at": "2023-03-02 21:26:13",
+      "album": {
+        "name": "Hot Shit (feat. Ye & Lil Durk)",
+        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 211649,
+      "name": "Hot Shit (feat. Ye & Lil Durk)",
+      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
     },
     {
       "added_at": "2023-03-02 21:26:13",
@@ -1599,6 +1599,30 @@
     {
       "added_at": "2023-03-02 21:26:13",
       "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Knoc-Turn'al",
+          "url": "https://open.spotify.com/artist/24PJqH46WhB0pUB7NlsFna"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "The Watcher",
+      "url": "https://open.spotify.com/track/1iQ5E4z6CJ38dIzvMI9Wdo"
+    },
+    {
+      "added_at": "2023-03-02 21:26:13",
+      "album": {
         "name": "6:30",
         "url": "https://open.spotify.com/album/6UmdJvqfSVC1MHWz95IAR3"
       },
@@ -1627,30 +1651,6 @@
       "duration_ms": 159082,
       "name": "Red Light Green Light",
       "url": "https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy"
-    },
-    {
-      "added_at": "2023-03-02 21:26:13",
-      "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Knoc-Turn'al",
-          "url": "https://open.spotify.com/artist/24PJqH46WhB0pUB7NlsFna"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "The Watcher",
-      "url": "https://open.spotify.com/track/1iQ5E4z6CJ38dIzvMI9Wdo"
     },
     {
       "added_at": "2023-03-02 21:26:13",
@@ -1851,22 +1851,22 @@
     {
       "added_at": "2023-03-02 21:26:13",
       "album": {
-        "name": "Ain\u2019t Safe (feat. Don Toliver)",
-        "url": "https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw"
+        "name": "Opp Stoppa (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/6mBVdi3OYfVGmMiT4jXkYz"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          "name": "YBN Nahmir",
+          "url": "https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 166514,
-      "name": "Ain\u2019t Safe (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
+      "duration_ms": 135430,
+      "name": "Opp Stoppa (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/59fFsGRwFiuhxKDPc1k6xW"
     },
     {
       "added_at": "2023-03-02 21:26:13",
@@ -1891,22 +1891,22 @@
     {
       "added_at": "2023-03-02 21:26:13",
       "album": {
-        "name": "Opp Stoppa (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/6mBVdi3OYfVGmMiT4jXkYz"
+        "name": "Ain\u2019t Safe (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw"
       },
       "artists": [
         {
-          "name": "YBN Nahmir",
-          "url": "https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 135430,
-      "name": "Opp Stoppa (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/59fFsGRwFiuhxKDPc1k6xW"
+      "duration_ms": 166514,
+      "name": "Ain\u2019t Safe (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
     },
     {
       "added_at": "2023-03-02 21:26:13",

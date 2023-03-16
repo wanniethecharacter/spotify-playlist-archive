@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 91416,
       "name": "Opening Titles Remix",
       "url": "https://open.spotify.com/track/35EJK7aNqtYfQZANUTdls9"
@@ -2290,6 +2290,24 @@
       "duration_ms": 30946,
       "name": "Thomas Theme",
       "url": "https://open.spotify.com/track/4d1tYWvJQd7RehaRTtJSHE"
+    },
+    {
+      "album": {
+        "name": "El Deafo (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7yxh1BtNK7PeU9AboDogq7"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163760,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0kUtqYfVrzdQ8eTobqaphW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: フジファブリック & フレデリック
 
-265 songs - 16 hr 50 min
+268 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [FUSION](https://open.spotify.com/track/5Am9Kz8iYJH7xmcRnApAuE) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [FUSION](https://open.spotify.com/album/7FTvw6y4wRQyN0eWybfJjA) | 3:44 | 2023-01-13 | 2023-01-18 |
 | [Get High](https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Get High](https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK) | 3:40 | 2023-01-13 | 2023-02-15 |
 | [golden drop](https://open.spotify.com/track/4skcyviAmJy1Ipf9kDcWxK) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [golden drop](https://open.spotify.com/album/6J7appOuXxe42HB9KhAl4k) | 1:24 | 2023-02-28 |  |
+| [Gominingen,Ore](https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:49 | 2023-03-14 |  |
 | [Hard Pool](https://open.spotify.com/track/4WVOYJcZi5QhrBVp7sSelj) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hard Pool](https://open.spotify.com/album/6iTuwCBoK9AHf5EaOAVDoo) | 4:36 | 2023-01-13 | 2023-02-22 |
 | [Hesitate](https://open.spotify.com/track/059gJJ8254eNcPhese0enO) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Hesitate](https://open.spotify.com/album/2a4JxJrhYkacvjOShXbKSX) | 2:55 | 2023-01-17 | 2023-02-02 |
 | [Hibiranran.](https://open.spotify.com/track/2DqdszvU0Ue9A1zHAm33PG) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Hibiranran.](https://open.spotify.com/album/0IpuDe5NRfYN1ICCyGf7OZ) | 3:04 | 2023-03-07 |  |
@@ -66,7 +67,8 @@
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2023-01-13 |  |
 | [Kid](https://open.spotify.com/track/5TljUbh99FhqjMn95ZKYro) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Kid](https://open.spotify.com/album/59qykfEGbzmPotBj4HHH9L) | 3:30 | 2023-02-07 | 2023-02-09 |
 | [Kid](https://open.spotify.com/track/7zKieV1uXBhucwmYM4sCzW) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Kid](https://open.spotify.com/album/2yoIDnfb9b819VS5hsh9MZ) | 3:30 | 2023-02-07 |  |
-| [Leap](https://open.spotify.com/track/3hrZ10jvm7019DdwZLxmCU) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/2RPT4dc1XDtfpyALnf0yq7) | 4:06 | 2023-03-14 |  |
+| [Leap](https://open.spotify.com/track/3hrZ10jvm7019DdwZLxmCU) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/2RPT4dc1XDtfpyALnf0yq7) | 4:06 | 2023-03-14 | 2023-03-16 |
+| [Leap](https://open.spotify.com/track/5UvLomZ74b75rzQmYVkhG7) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/7HYIajVHlesffzuOM67G6Q) | 4:06 | 2023-03-14 |  |
 | [Life Is Good](https://open.spotify.com/track/1EfPleE2AT7pvxpvFYIlIO) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [ugly beauty](https://open.spotify.com/album/28sDeJjrMZ6TmwiZQCJ0wY) | 4:24 | 2023-01-17 | 2023-02-15 |
 | [Light and Darkness](https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Light and Darkness](https://open.spotify.com/album/3WDhH38G6iRALKLUjM20VL) | 4:04 | 2023-02-23 |  |
 | [Listen](https://open.spotify.com/track/5rtulpUZ7hinDGwe46ondS) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Listen](https://open.spotify.com/album/5duMvcqwktn0TEvcoRkDJm) | 4:10 | 2023-02-28 |  |
@@ -75,6 +77,7 @@
 | [Lovesong](https://open.spotify.com/track/2bikAEfH4KqwcKGNvOO9Oz) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Lovesong](https://open.spotify.com/album/3d7M1pICrlyBQgEuVL7owA) | 3:50 | 2023-02-07 | 2023-03-11 |
 | [Lucky](https://open.spotify.com/track/5y5OIp260DzkhUhHVvCTWO) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [Lucky](https://open.spotify.com/album/2mo8piG944P818u05nTyTD) | 3:27 | 2023-02-14 | 2023-03-08 |
 | [Majogari](https://open.spotify.com/track/7K3I73wneZNLBnlgQiy4MG) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo), [GOMESS](https://open.spotify.com/artist/37cFtvT8bs2rU39mvPLN0I) | [Majogari](https://open.spotify.com/album/5fvmGCsJxqMLKwePqYrMTr) | 3:03 | 2023-01-31 | 2023-02-15 |
+| [malum](https://open.spotify.com/track/5pcg88evNmLl6qA0wmDRQi) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [A disease called love](https://open.spotify.com/album/7ibmp11sVi3XwgkUDL2jUn) | 3:11 | 2023-03-14 |  |
 | [Mama's Pie](https://open.spotify.com/track/6ykodFke0uF1y6RLQt0zzr) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Mama's Pie](https://open.spotify.com/album/0OKTVjdBXcxBkksj2tlztZ) | 3:45 | 2023-01-24 | 2023-02-15 |
 | [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 | 2023-01-19 | 2023-02-24 |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2023-01-13 | 2023-01-18 |
@@ -169,7 +172,7 @@
 | [オドロボ](https://open.spotify.com/track/2j0ujmCpDQBkkGeQqObJwp) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Flowers](https://open.spotify.com/album/3LAQlUuWzsdG2JedeUbjOK) | 4:39 | 2023-01-24 | 2023-03-01 |
 | [オールドルーキー](https://open.spotify.com/track/0umqlfEgW9657chmk74mCq) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [僕の唄で君に永遠を](https://open.spotify.com/album/3fYag5ejBnBb2VYZsAcvqg) | 4:17 | 2023-01-24 | 2023-01-26 |
 | [カスミソウ](https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [カスミソウ](https://open.spotify.com/album/7aEiuGRM1CVprvce4RkQ15) | 3:42 | 2023-01-13 | 2023-03-01 |
-| [ゴミ人間、俺](https://open.spotify.com/track/2VU59VkXEBNX4ZZf7SmGAy) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:49 | 2023-03-14 |  |
+| [ゴミ人間、俺](https://open.spotify.com/track/2VU59VkXEBNX4ZZf7SmGAy) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:49 | 2023-03-14 | 2023-03-16 |
 | [ゴールデン・ドロップ](https://open.spotify.com/track/6dCSP1euHcwNrmGuxKAEXW) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [ゴールデン・ドロップ](https://open.spotify.com/album/7Mf5V55mBkz67HsUMZ9hwf) | 1:24 | 2023-02-28 | 2023-03-02 |
 | [サクラノウタ](https://open.spotify.com/track/4aecodVhhW19bmWjveVgJR) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [サクラノウタ](https://open.spotify.com/album/7vlOaFIqHnABear9d51MNf) | 4:29 | 2023-02-28 |  |
 | [スクールボーイ](https://open.spotify.com/track/1Eb9z5jcDZnRfNiMraPHfk) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [HEART](https://open.spotify.com/album/0u1S82PGHIoNsvHTLuy0Nz) | 4:00 | 2023-02-14 | 2023-03-08 |
@@ -194,7 +197,7 @@
 | [ブラックコーヒー](https://open.spotify.com/track/4hfdmmPkKzJsPJbsRRqKlX) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [TRIANGLE](https://open.spotify.com/album/0qPfscvdw2qb2w68HydRUD) | 3:01 | 2023-01-31 | 2023-02-15 |
 | [ペーパーバック・ストーリーズ](https://open.spotify.com/track/0T0xvB5dpZd7H3dl3bDLkY) | [THE BLACKBAND](https://open.spotify.com/artist/6Lr807YhK1HzQrNatDbd5y) | [ペーパーバック・ストーリーズ](https://open.spotify.com/album/7xnlElkpV6bOOVaZvfS3lT) | 3:13 | 2023-01-17 | 2023-01-27 |
 | [マヨイガ \- PHIL REWORK](https://open.spotify.com/track/16j0i4b87epv1BYA7AU3P7) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [マヨイガ \(PHIL REWORK\)](https://open.spotify.com/album/5vxYwjHklE4OKDpd7D0PwR) | 4:07 | 2023-02-23 | 2023-03-01 |
-| [マールム \-malum\-](https://open.spotify.com/track/0PhR2iDSWWu9jJ5tZmBvy1) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [A disease called love](https://open.spotify.com/album/0YSWyHWIrioEnV5YQddyWB) | 3:11 | 2023-03-14 |  |
+| [マールム \-malum\-](https://open.spotify.com/track/0PhR2iDSWWu9jJ5tZmBvy1) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [A disease called love](https://open.spotify.com/album/0YSWyHWIrioEnV5YQddyWB) | 3:11 | 2023-03-14 | 2023-03-16 |
 | [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 | 2023-01-13 | 2023-01-25 |
 | [ミラクルレボリューション No.9](https://open.spotify.com/track/48OqORWzCuZgL7QYYYaWWS) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [ミラクルレボリューション No.9](https://open.spotify.com/album/16FTen9QPrvyXBnFPFfAYY) | 4:39 | 2023-02-09 |  |
 | [メアリー](https://open.spotify.com/track/3Px8RwcEe2he5xhFagMArT) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [メアリー](https://open.spotify.com/album/2SPLCTFrkNLWUGVpYQPwiR) | 3:17 | 2023-02-16 | 2023-03-01 |

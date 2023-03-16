@@ -1,15 +1,15 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 55052,
+  "num_followers": 55056,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODY5Njc5NywwMDAwMDAwMGQ0OTA4MThhNDc2YWVjMWVkOWE2OGEyM2FhMjNiZTc3",
+  "snapshot_id": "MTY3ODY5Njc5NywwMDAwMDAwMGMyOGFhOGM4YTg4NzNlYzY4NTQzODdmODYzYjhmYjEy",
   "tracks": [
     {
-      "added_at": "2023-03-15 01:08:12",
+      "added_at": "2023-03-16 01:13:30",
       "album": {
         "name": "Day Dream",
         "url": "https://open.spotify.com/album/7gzHf9YPAQUKBt7vdl0vl2"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
     },
     {
-      "added_at": "2023-03-15 01:08:12",
+      "added_at": "2023-03-16 01:13:30",
       "album": {
         "name": "Guess Who I Saw Today (Duo Version)",
         "url": "https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
     },
     {
-      "added_at": "2023-03-15 01:08:12",
+      "added_at": "2023-03-16 01:13:30",
       "album": {
         "name": "I Want To Talk About You",
         "url": "https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW"
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-03-06 02:48:10",
       "album": {
-        "name": "Maria Rita",
-        "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
-      },
-      "artists": [
-        {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
-        }
-      ],
-      "duration_ms": 282293,
-      "name": "Cara valente",
-      "url": "https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2"
-    },
-    {
-      "added_at": "2023-03-06 02:48:10",
-      "album": {
         "name": "Heavenly",
         "url": "https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 216573,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ"
+    },
+    {
+      "added_at": "2023-03-06 02:48:10",
+      "album": {
+        "name": "Maria Rita",
+        "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
+      },
+      "artists": [
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        }
+      ],
+      "duration_ms": 282293,
+      "name": "Cara valente",
+      "url": "https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2"
     },
     {
       "added_at": "2023-03-06 02:48:10",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-03-06 02:48:10",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 301543,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
-    },
-    {
-      "added_at": "2023-03-06 02:48:10",
-      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 249973,
       "name": "Amado",
       "url": "https://open.spotify.com/track/1UehyRYWHQxfj52XJbswIv"
+    },
+    {
+      "added_at": "2023-03-06 02:48:10",
+      "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 301543,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
     },
     {
       "added_at": "2023-03-06 02:48:10",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-06 02:48:10",
       "album": {
-        "name": "Flirting With Twilight",
-        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 262026,
-      "name": "Moonlight Serenade",
-      "url": "https://open.spotify.com/track/1kRbi9kqF11JCDCPlQVSnc"
-    },
-    {
-      "added_at": "2023-03-06 02:48:10",
-      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 121385,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX"
+    },
+    {
+      "added_at": "2023-03-06 02:48:10",
+      "album": {
+        "name": "Flirting With Twilight",
+        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "duration_ms": 262026,
+      "name": "Moonlight Serenade",
+      "url": "https://open.spotify.com/track/1kRbi9kqF11JCDCPlQVSnc"
     },
     {
       "added_at": "2023-03-06 02:48:10",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-03-06 02:48:10",
       "album": {
-        "name": "With a Twist",
-        "url": "https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk"
-      },
-      "artists": [
-        {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
-        }
-      ],
-      "duration_ms": 336373,
-      "name": "Dance Me to the End of Love",
-      "url": "https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2"
-    },
-    {
-      "added_at": "2023-03-06 02:48:10",
-      "album": {
         "name": "What Love Is",
         "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 279853,
       "name": "Let\u2019s Make The Most Of A Beautiful Thing",
       "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
+    },
+    {
+      "added_at": "2023-03-06 02:48:10",
+      "album": {
+        "name": "With a Twist",
+        "url": "https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "duration_ms": 336373,
+      "name": "Dance Me to the End of Love",
+      "url": "https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2"
     },
     {
       "added_at": "2023-03-06 02:48:10",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-03-06 02:48:10",
       "album": {
-        "name": "Relaxing Bossa Lounge",
-        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
-      },
-      "artists": [
-        {
-          "name": "Monique Kessous",
-          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
-        }
-      ],
-      "duration_ms": 158931,
-      "name": "A Hard Day\u00b4s Night (Bossa Version)",
-      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
-    },
-    {
-      "added_at": "2023-03-06 02:48:10",
-      "album": {
         "name": "Can\u00e7\u00f5es de Caymmi",
         "url": "https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 242866,
       "name": "L\u00e1 Vem a Baiana",
       "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
+    },
+    {
+      "added_at": "2023-03-06 02:48:10",
+      "album": {
+        "name": "Relaxing Bossa Lounge",
+        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
+      },
+      "artists": [
+        {
+          "name": "Monique Kessous",
+          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
+        }
+      ],
+      "duration_ms": 158931,
+      "name": "A Hard Day\u00b4s Night (Bossa Version)",
+      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
     },
     {
       "added_at": "2023-03-06 02:48:10",

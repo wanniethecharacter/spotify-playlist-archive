@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 126907,
+  "num_followers": 126901,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczNDQ0MCwwMDAwMDAwMDE4ZGYwZjFhN2I1OTRhZGU2OWUzM2FmNDExZGQwODM3",
+  "snapshot_id": "MTY3NTczNDQ0MCwwMDAwMDAwMDQ5YjkxOTU4MTNlMWM4MzUxODVhNGM0OGM0Y2IxNjgx",
   "tracks": [
     {
       "added_at": "2023-02-07 01:47:20",
@@ -407,6 +407,26 @@
     {
       "added_at": "2023-02-07 01:47:20",
       "album": {
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 226198,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
         "name": "Bam Bam (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 613026,
       "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
-        "name": "Music Of The Spheres",
-        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 226198,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
     },
     {
       "added_at": "2023-02-07 01:47:20",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-02-07 01:47:20",
       "album": {
-        "name": "On My Knees",
-        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
         "name": "Dance Fever",
         "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 280130,
       "name": "King",
       "url": "https://open.spotify.com/track/31ABtQJdfloNaGz7ZhXaN5"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
+        "name": "On My Knees",
+        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
     },
     {
       "added_at": "2023-02-07 01:47:20",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-02-07 01:47:20",
       "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 308066,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
         "name": "NOT TiGHT",
         "url": "https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 202451,
       "name": "PiLOT (feat. Snoop Dogg, Busta Rhymes, Anderson .Paak)",
       "url": "https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
-        "name": "Holy Forever",
-        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 308066,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
     },
     {
       "added_at": "2023-02-07 01:47:20",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-02-07 01:47:20",
       "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 159546,
+      "name": "In His Arms",
+      "url": "https://open.spotify.com/track/3UAPebwkTgNpfZ6XUdHmzg"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 159546,
-      "name": "In His Arms",
-      "url": "https://open.spotify.com/track/3UAPebwkTgNpfZ6XUdHmzg"
     },
     {
       "added_at": "2023-02-07 01:47:20",

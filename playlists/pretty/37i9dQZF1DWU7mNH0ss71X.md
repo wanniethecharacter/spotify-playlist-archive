@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7mNH0ss71X.md) - [plain]
 
 > U.K\. rising star <a href="spotify:artist:6DnQYUjtYusK9QJts9HqSC">Skepsis</a><br/> delivers a mix filled with gritty basslines and fist\-pumping tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096 likes - 39 songs - 59 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,099 likes - 39 songs - 59 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7mNH0ss71X.md) - [plain]
 | 30 | [Stormaz \- Mintnite Remix \- Mixed](https://open.spotify.com/track/5xdFIPnYKTT9v3VnVRwtXW) | [Phatworld](https://open.spotify.com/artist/5rBIR1y90WuRA7A83OWOfi), [Mintnite](https://open.spotify.com/artist/2dVSvPGXXJBWKlG82Ov2r6) | [Stormaz \- Mintnite Remix \(Mixed\)](https://open.spotify.com/album/7f7TgghWc1RVTVi6A45npF) | 1:19 |
 | 31 | [With U \- Mixed](https://open.spotify.com/track/1Z6Xf3TJhUwKt4HPAQAGmC) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [FineArt](https://open.spotify.com/artist/4rpDgbKcQ6a8rT7mk60a7o) | [With U \(Mixed\)](https://open.spotify.com/album/0pI4f4qn3tqlmtDDbLKwkC) | 1:15 |
 | 32 | [Hard Hitters \- Mixed](https://open.spotify.com/track/5c20HXCDGHvowMQ8mMqxZa) | [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Hard Hitters \(Mixed\)](https://open.spotify.com/album/6ktBKpr6rI3dDFtpiNghMV) | 1:29 |
-| 33 | [Show Me \- Mixed](https://open.spotify.com/track/5gyxiLgdIq2j5ZA1geduRf) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Show Me \(Mixed\)](https://open.spotify.com/album/19B8YfQDH3Z5E8xVUZjpRV) | 1:01 |
+| 33 | [Show Me \- Mixed](https://open.spotify.com/track/30Dbe0a7prbgqx9L81bGd3) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Show Me \(Mixed\)](https://open.spotify.com/album/53t6TOMI2nBNWm5ZWQE0Ta) | 1:01 |
 | 34 | [Lazerbeams \- Mixed](https://open.spotify.com/track/7uyWoV5STKYsezhRf7yydK) | [Wheeto](https://open.spotify.com/artist/5YZNr5ukMm2xAT7Y4LbTl2) | [Lazerbeams \(Mixed\)](https://open.spotify.com/album/0n3VXQkKU7Hz5O4rYsh4Bd) | 1:28 |
 | 35 | [Screamer \- Mixed](https://open.spotify.com/track/4VHjgoeKUVcqfe4iKOQTWh) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Screamer \(Mixed\)](https://open.spotify.com/album/5sCsNbQ7L3yBk0j1CHRwOI) | 0:59 |
 | 36 | [Hot Flush \- Mixed](https://open.spotify.com/track/7fu3rRXpxVNznDy4Vhlj04) | [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ) | [Hot Flush \(Mixed\)](https://open.spotify.com/album/2N3PUTtSJZJbrtDOJ7gqR7) | 1:29 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7mNH0ss71X.md) - [plain]
 | 38 | [Set Me Free \- Mixed](https://open.spotify.com/track/4V4iEwKwTxF8GNhRTuBVyX) | [Bellecour](https://open.spotify.com/artist/1PiNBMw3iIaG021gWeidUY), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Set Me Free \(Mixed\)](https://open.spotify.com/album/6JUlt3xXqRjEjE2EikuYth) | 1:28 |
 | 39 | [Again \- Mixed](https://open.spotify.com/track/1LrL4N1Gfy5PzVmv8z90Yv) | [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Again \(Mixed\)](https://open.spotify.com/album/5AG8FGk0kfE0EHF3re7Eb2) | 2:16 |
 
-Snapshot ID: `MTY2NDgwODY2NSwwMDAwMDAwMDE1ZjFhYThiNDhmN2MzZDAyZWQwYTY1ZWNkZTcyYzdm`
+Snapshot ID: `MTY3ODg5MzY2OSwwMDAwMDAwMGQxZWU2YTNhY2RmYjU0YTYxZGJmMWIyNWNjMzcxNmY0`

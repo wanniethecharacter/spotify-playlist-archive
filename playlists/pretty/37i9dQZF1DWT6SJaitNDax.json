@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=cc4qsqDzSfS21lTakVte6w\">Wizkid</a>",
-  "num_followers": 575805,
+  "num_followers": 576010,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc1NDc3NCwwMDAwMDAwMDM3MGU4ZmI2NmMyYTQ3MjMyNDhkYjU2MzE4MjJiN2Q1",
+  "snapshot_id": "MTY3NDc1NDc3NCwwMDAwMDAwMGNlOTRmZmIzOGExY2NhMmRlYzZhNjFkZDNiNDA4YjYw",
   "tracks": [
     {
       "added_at": "2023-01-26 17:39:34",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 230721,
       "name": "Time N Affection",
       "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 168742,
-      "name": "woman",
-      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -975,6 +975,26 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 180563,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "Hamba Wena",
         "url": "https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 187000,
       "name": "Bloody Samaritan",
       "url": "https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 180563,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "TW20 50",
+        "url": "https://open.spotify.com/album/1VVeLNCUGQSYL1GLek67gv"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "duration_ms": 188826,
+      "name": "THE SUN (Prod. Gesaffelstein)",
+      "url": "https://open.spotify.com/track/2OEKjBfuCdVPLLUgUf90ZM"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "Patek",
         "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 185364,
       "name": "Kwaku The Traveller",
       "url": "https://open.spotify.com/track/2LqvzGaZniHiZ9CXhzkclD"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "TW20 50",
-        "url": "https://open.spotify.com/album/1VVeLNCUGQSYL1GLek67gv"
-      },
-      "artists": [
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        },
-        {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
-        }
-      ],
-      "duration_ms": 188826,
-      "name": "THE SUN (Prod. Gesaffelstein)",
-      "url": "https://open.spotify.com/track/2OEKjBfuCdVPLLUgUf90ZM"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1279,8 +1279,24 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "M\u00e9chante",
-        "url": "https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5"
+        "name": "AWAY",
+        "url": "https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "AWAY",
+      "url": "https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "AYA",
+        "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
       },
       "artists": [
         {
@@ -1288,9 +1304,9 @@
           "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 171493,
-      "name": "M\u00e9chante",
-      "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
+      "duration_ms": 168719,
+      "name": "Doudou",
+      "url": "https://open.spotify.com/track/3V6NCwBywAwpAlAyGL7h0p"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1331,22 +1347,6 @@
       "duration_ms": 402890,
       "name": "Ba Straata (feat. 2woshort, Stompiiey, ShaunMusiQ, Ftears & Madumane)",
       "url": "https://open.spotify.com/track/3DssiWp4pAGNvPrvHVi94f"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "AWAY",
-        "url": "https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "AWAY",
-      "url": "https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "AYA",
-        "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 168719,
-      "name": "Doudou",
-      "url": "https://open.spotify.com/track/3V6NCwBywAwpAlAyGL7h0p"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -1483,26 +1467,18 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "G.O.A.T. (feat. Ty Dolla $ign & Bella Alubo)",
-        "url": "https://open.spotify.com/album/5UOp0bBjYYxnk1g36GHUKk"
+        "name": "M\u00e9chante",
+        "url": "https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Bella Alubo",
-          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 232661,
-      "name": "G.O.A.T. (feat. Ty Dolla $ign & Bella Alubo)",
-      "url": "https://open.spotify.com/track/4rZcZXvtzdBbZOwlHSu79i"
+      "duration_ms": 171493,
+      "name": "M\u00e9chante",
+      "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1523,6 +1499,30 @@
       "duration_ms": 201940,
       "name": "Rotate",
       "url": "https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "G.O.A.T. (feat. Ty Dolla $ign & Bella Alubo)",
+        "url": "https://open.spotify.com/album/5UOp0bBjYYxnk1g36GHUKk"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Bella Alubo",
+          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
+        }
+      ],
+      "duration_ms": 232661,
+      "name": "G.O.A.T. (feat. Ty Dolla $ign & Bella Alubo)",
+      "url": "https://open.spotify.com/track/4rZcZXvtzdBbZOwlHSu79i"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 162353,
+      "name": "FIND YOUR WAY BACK",
+      "url": "https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/0vNvd6GC6cy7BKyP2dqPZY"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 194000,
       "name": "Peace",
       "url": "https://open.spotify.com/track/4aMtac1abQZDOliAZpbIJF"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 162353,
-      "name": "FIND YOUR WAY BACK",
-      "url": "https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Beamer (Bad Boys)",
-        "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 195047,
-      "name": "Beamer (Bad Boys)",
-      "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "Lenu (Remix)",
         "url": "https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 213266,
       "name": "Lenu - Remix",
       "url": "https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "Beamer (Bad Boys)",
+        "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 195047,
+      "name": "Beamer (Bad Boys)",
+      "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1799,18 +1799,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp"
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
       "artists": [
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
         }
       ],
-      "duration_ms": 185341,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
+      "duration_ms": 207473,
+      "name": "FYN",
+      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1835,22 +1839,18 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
         }
       ],
-      "duration_ms": 207473,
-      "name": "FYN",
-      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
+      "duration_ms": 185341,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -2019,34 +2019,18 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "I Am The King Of Amapiano: Sweet & Dust",
-        "url": "https://open.spotify.com/album/5YiIm4cWzk8dDshWB179mE"
+        "name": "Ginger Me",
+        "url": "https://open.spotify.com/album/1jAYq6eDQAyDFvuJDWdsS4"
       },
       "artists": [
         {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
-        },
-        {
-          "name": "Madumane",
-          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 395044,
-      "name": "Sponono",
-      "url": "https://open.spotify.com/track/5T6wd1ScvJGSz17zMCugW0"
+      "duration_ms": 205892,
+      "name": "Ginger Me",
+      "url": "https://open.spotify.com/track/28QpG4RmYhxq2YxjmQ06Ch"
     }
   ],
   "unique_name": "We Everywhere",

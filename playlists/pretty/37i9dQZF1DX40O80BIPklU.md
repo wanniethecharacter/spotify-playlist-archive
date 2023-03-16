@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Alcolirykos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,469 likes - 62 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,714 likes - 62 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 15 | [Lento](https://open.spotify.com/track/4uBtsdMMC7toM7DFV08uie) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb) | 3:19 |
 | 16 | [Tocame](https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:53 |
 | 17 | [Ella No Es Tuya \- Remix](https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ella No Es Tuya \(Remix\)](https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA) | 3:38 |
-| 18 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Skillzbeatz](https://open.spotify.com/artist/09cwFodlXUIGfh0h0O2dH7) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 |
+| 18 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Skillz Beatz](https://open.spotify.com/artist/1mCTvKCE9hqsj2CnX81iUM) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 |
 | 19 | [SOLO POR VOS](https://open.spotify.com/track/5Ejw3lC6Srj8VK4fHgTZAi) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [SOLO POR VOS](https://open.spotify.com/album/3653dbWREgZU9P2qjfrtmE) | 3:19 |
 | 20 | [Amnesia](https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a) | 3:08 |
 | 21 | [MAMA](https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [MAMA](https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO) | 4:25 |

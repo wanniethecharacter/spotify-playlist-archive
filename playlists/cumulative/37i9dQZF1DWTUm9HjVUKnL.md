@@ -4,7 +4,7 @@
 
 > Dive into the full collection of Spotify Singles recordings\. Cover: Cat Burns.
 
-1,020 songs - 2 day 14 hr 27 min
+1,023 songs - 2 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [f\*ck everything! \- Spotify Singles \(feat\. The Drums\)](https://open.spotify.com/track/3oE4zL430c18NuiRWDHRLY) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [f\*ck everything! \- Spotify Singles \(feat\. The Drums\)](https://open.spotify.com/album/4pH6JKPaFwEyuSfw6IPEQ8) | 3:01 | 2022-01-19 |  |
 | [Face Like Thunder](https://open.spotify.com/track/5kw9jb88rFkh8F5vFkAI9l) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Single Sessions](https://open.spotify.com/album/5CQZHRx66NBFLheNYh1XGM) | 4:14 | 2022-01-19 | 2022-07-29 |
 | [Face Like Thunder \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0OKn9iHjJ8ZNfCRff1mLJA) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 4:14 | 2022-07-05 |  |
+| [Falling \- Spotify Singles](https://open.spotify.com/track/6FHfUzKEh5vR0V3auDHHTW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 3:44 | 2023-03-15 |  |
 | [Family Man \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1CzZkpQZp9kr0faBwScA0i) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 3:28 | 2022-01-19 |  |
 | [Faz uma loucura por mim \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:14 | 2022-01-19 |  |
 | [Fear Of Being Alone \- Alternate Version](https://open.spotify.com/track/7aNtmcPpreJpoSpLWwa5Ef) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 2:38 | 2022-01-19 |  |
@@ -724,6 +725,7 @@
 | [Put That on Everything \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1h86CHk3Oqjt99XgDeVwsS) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Spotify Singles](https://open.spotify.com/album/1V3MFMHizPGXUd0ZS5k7ws) | 4:17 | 2022-01-19 |  |
 | [Quase Sem Querer \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/7x2PPGgAptvKQI2Aw8XIY0) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:14 | 2022-01-19 |  |
 | [Queen Elizabeth \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2ZnNaxW8jsrCUcjf60aWR2) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Spotify Singles](https://open.spotify.com/album/2wxppKhtOtdVmulah3qxow) | 3:25 | 2022-01-19 |  |
+| [Queen Of Me \- Spotify Singles](https://open.spotify.com/track/1vNvMJO0RCSqrbxWhfEL8K) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 2:35 | 2023-03-15 |  |
 | [Raising Hell \(feat\. Ben Harper\) \- Spotify Singles](https://open.spotify.com/track/10eIuPr0k9qyyhyLbxiU9d) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Spotify Singles](https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy) | 2:24 | 2022-03-16 |  |
 | [RBF: Part 1 \- Spotify Singles](https://open.spotify.com/track/3vofXquO3Brq3j4TMKQ19F) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [RBF: Part 1 \- Spotify Singles](https://open.spotify.com/album/6O9K4rWuH7e1V5gM6hxDFH) | 2:16 | 2022-01-19 |  |
 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 | 2022-01-19 |  |
@@ -807,6 +809,7 @@
 | [Southern State \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4QCVqLmUjOgxu8mEzUWbHn) | [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Spotify Singles](https://open.spotify.com/album/5yXnrHLMHzIAFOrGmnEbjR) | 4:32 | 2022-01-19 |  |
 | [Special \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/672Yznm7YxhHVPHp4YbMja) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Spotify Singles](https://open.spotify.com/album/1N7l9Oc5FiLQhqQ7mJ66bm) | 2:41 | 2022-01-19 |  |
 | [Spooky \- Recorded at RAK Studios, London](https://open.spotify.com/track/2y0odeTeYsxWvYQ5rYANu0) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Spotify Singles](https://open.spotify.com/album/0aqv2HD8GPGDDM0CokS0Fk) | 3:41 | 2022-01-19 |  |
+| [Spoonful \- Spotify Singles](https://open.spotify.com/track/2g3tvzbWHcrP2I1IH4TDaC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 2:25 | 2023-03-15 |  |
 | [Stan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Spotify Singles](https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn) | 3:22 | 2022-01-19 |  |
 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO) | 3:03 | 2022-01-19 | 2022-07-29 |
 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 3:03 | 2022-07-05 |  |

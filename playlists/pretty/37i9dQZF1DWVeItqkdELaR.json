@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora do ver\u00e3o.",
-  "num_followers": 86059,
+  "num_followers": 86073,
   "original_name": "Ver\u00e3o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDgyNThmYmJkNmE5Yjg5YWY3ZTMyM2M5NTk5NmE3NTky",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDdlZjM2YTQxNzRmNGJiYjdiZWYzY2MwMjE3MzZlMTZj",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -107,18 +107,18 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Love Tonight",
-        "url": "https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 241970,
-      "name": "Love Tonight (Edit)",
-      "url": "https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Pump It Louder",
         "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Love Tonight",
+        "url": "https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 241970,
+      "name": "Love Tonight (Edit)",
+      "url": "https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "M\u00e1s Negro Que Rojo",
         "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
       },
@@ -887,30 +887,6 @@
       "duration_ms": 186133,
       "name": "Hecha Pa' Mi",
       "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "O Poder Dessa Garota",
-        "url": "https://open.spotify.com/album/3EBubCq7RZgQSzr5LiDaDP"
-      },
-      "artists": [
-        {
-          "name": "Mc Gabzin",
-          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
-        },
-        {
-          "name": "DJ TAK VADI\u00c3O",
-          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
-        },
-        {
-          "name": "dj sv",
-          "url": "https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "O Poder Dessa Garota",
-      "url": "https://open.spotify.com/track/4aoZBldNDVYmTwmeoI49ud"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1107,6 +1083,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Quer Voar",
+        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Quer Voar",
+      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
         "url": "https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv"
       },
@@ -1127,54 +1119,6 @@
       "duration_ms": 144000,
       "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
       "url": "https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Quer Voar",
-        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Quer Voar",
-      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Simplesmente Ela",
-        "url": "https://open.spotify.com/album/1SuKWIQ4PxaWIiv0DfmqsQ"
-      },
-      "artists": [
-        {
-          "name": "Mc Gabzin",
-          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
-        }
-      ],
-      "duration_ms": 161076,
-      "name": "Simplesmente Ela",
-      "url": "https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Malvada",
-        "url": "https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 145853,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1211,6 +1155,22 @@
       "duration_ms": 193221,
       "name": "MORENA",
       "url": "https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Malvada",
+        "url": "https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 145853,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1355,26 +1315,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Senta Danada",
-        "url": "https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 172621,
-      "name": "Senta Danada",
-      "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Otra Noche Sin Ti",
         "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
       },
@@ -1415,30 +1355,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Socadona (feat. Mr. Vegas)",
-        "url": "https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi"
+        "name": "Senta Danada",
+        "url": "https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
         },
         {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        },
-        {
-          "name": "Topo La Maskara",
-          "url": "https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP"
-        },
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Socadona (feat. Mr. Vegas)",
-      "url": "https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N"
+      "duration_ms": 172621,
+      "name": "Senta Danada",
+      "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1475,18 +1407,30 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "GALOPA",
-        "url": "https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV"
+        "name": "Socadona (feat. Mr. Vegas)",
+        "url": "https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi"
       },
       "artists": [
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "Topo La Maskara",
+          "url": "https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP"
+        },
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
         }
       ],
-      "duration_ms": 140500,
-      "name": "GALOPA",
-      "url": "https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J"
+      "duration_ms": 186000,
+      "name": "Socadona (feat. Mr. Vegas)",
+      "url": "https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1507,6 +1451,22 @@
       "duration_ms": 181122,
       "name": "SORRIA",
       "url": "https://open.spotify.com/track/4cKn3YjlRNowwNQi5LuZkk"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "GALOPA",
+        "url": "https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "GALOPA",
+      "url": "https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1599,6 +1559,34 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "EUROPA (feat. Gson)",
+        "url": "https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "EUROPA (feat. Gson)",
+      "url": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Trava na Pose, Chama no Zoom, Da um Close",
         "url": "https://open.spotify.com/album/5FY0hhzRFgldlHh2U8stHw"
       },
@@ -1627,30 +1615,26 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "EUROPA (feat. Gson)",
-        "url": "https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q"
+        "name": "O Poder Dessa Garota",
+        "url": "https://open.spotify.com/album/443D9lOS7CSKSgR0RxaxdV"
       },
       "artists": [
         {
-          "name": "Mizzy Miles",
-          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
         },
         {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
         },
         {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+          "name": "dj sv",
+          "url": "https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx"
         }
       ],
-      "duration_ms": 216800,
-      "name": "EUROPA (feat. Gson)",
-      "url": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq"
+      "duration_ms": 136615,
+      "name": "O Poder Dessa Garota",
+      "url": "https://open.spotify.com/track/3emWP5AGvDHFAlHlCOPiqT"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1779,6 +1763,22 @@
       "duration_ms": 204281,
       "name": "Borboletas",
       "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Simplesmente Ela",
+        "url": "https://open.spotify.com/album/42UKXbB3K0fJl7THkXPw0w"
+      },
+      "artists": [
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        }
+      ],
+      "duration_ms": 161076,
+      "name": "Simplesmente Ela",
+      "url": "https://open.spotify.com/track/7qaUeAyg0eYYhHDCx58GXa"
     },
     {
       "added_at": "2022-10-13 23:00:00",

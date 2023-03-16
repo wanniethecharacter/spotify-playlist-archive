@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: De La Soul – R.I.P\. Trugoy 🕊
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,494 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,822 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 3 | [Adonis Interlude \(The Montage\) \(with J\. Cole\)](https://open.spotify.com/track/23w7p4AuDtw9CrhFBcMat5) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Creed III: The Soundtrack](https://open.spotify.com/album/00hCNOuhFfKYCeLgRRRAT6) | 1:35 |
 | 4 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
 | 5 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 |
-| 6 | [60 Days](https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [60 Days](https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS) | 3:00 |
+| 6 | [60 Days](https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [60 Days](https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS) | 3:19 |
 | 7 | [Life is Like a Dice Game \- Spotify Singles](https://open.spotify.com/track/5iBEUyRJL5fV0Hl5L5AqoR) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Life is Like a Dice Game \- Spotify Singles](https://open.spotify.com/album/07XItOn4L2uyxBeZBOAwVt) | 4:44 |
 | 8 | [Player's Anthem](https://open.spotify.com/track/6M984do6yn6wjCiSUlufPn) | [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [This is Hip Hop](https://open.spotify.com/album/1g2paIJ9LULvZrsHahfwh8) | 5:10 |
 | 9 | [YKTV \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/3M6m6VS4jsBcQKBULOQuqV) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Hitmaka](https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Back In My Prime](https://open.spotify.com/album/0ni3klsEFpBZLUPi0ecYlu) | 3:20 |

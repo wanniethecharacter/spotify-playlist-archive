@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1066269,
+  "num_followers": 1066254,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMDBkZGQ2Y2I2ZTQ0ZjIzYzQ3ZmNjOTI1YzRlNmM5YzRi",
+  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMGIyYzE5ZjYxMDQzZmUxNDkxMWE0NTMzMWJjNDQwNzBj",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -455,26 +455,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Version",
-        "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 219413,
-      "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
-      "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 193920,
       "name": "Problem",
       "url": "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Version",
+        "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 219413,
+      "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
+      "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 390861,
-      "name": "Freedom! '90 - Remastered",
-      "url": "https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "I Will Never Let You Down",
         "url": "https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 203466,
       "name": "I Will Never Let You Down",
       "url": "https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 390861,
+      "name": "Freedom! '90 - Remastered",
+      "url": "https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "SUCKER",
+        "url": "https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 169866,
+      "name": "Boom Clap",
+      "url": "https://open.spotify.com/track/0Y1MWB026LYxGvhq4EcMiC"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
         "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 170716,
       "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
       "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "SUCKER",
-        "url": "https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 169866,
-      "name": "Boom Clap",
-      "url": "https://open.spotify.com/track/0Y1MWB026LYxGvhq4EcMiC"
     },
     {
       "added_at": "2020-08-27 16:10:25",

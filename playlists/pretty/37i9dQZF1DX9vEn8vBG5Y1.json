@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
-  "num_followers": 134139,
+  "num_followers": 134294,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3NzE5MCwwMDAwMDAwMDNlNmE2YjY1NmNhY2E5OGYzZWM2ZDkyNDUwM2UxMjlh",
+  "snapshot_id": "MTY3NDA3NzE5MCwwMDAwMDAwMGZkZTQwN2M5YTdhZmI1OTIzMzY3N2U5NjlhZDMwNzQz",
   "tracks": [
     {
       "added_at": "2023-01-18 21:26:30",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Make Yourself",
-        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Daniel Powter",
         "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 233640,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Make Yourself",
+        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 232453,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Dreaming Out Loud",
-        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 223853,
-      "name": "Stop And Stare",
-      "url": "https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Little Wonders",
         "url": "https://open.spotify.com/album/2P6X6guB0AiQGzRQaekJbN"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 224720,
       "name": "Little Wonders",
       "url": "https://open.spotify.com/track/6j6bTAiW0oEfLlAjmRNcbb"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Dreaming Out Loud",
+        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 223853,
+      "name": "Stop And Stare",
+      "url": "https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Kris Allen",
-        "url": "https://open.spotify.com/album/5fM41TOegBBrRO7NhmFYvP"
-      },
-      "artists": [
-        {
-          "name": "Kris Allen",
-          "url": "https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Live Like We're Dying",
-      "url": "https://open.spotify.com/track/1HfxPaJggVwFsvOtHbVzMz"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 271800,
       "name": "Stuck In A Moment You Can't Get Out Of",
       "url": "https://open.spotify.com/track/3xjTuTBaihydhSC7ByNoSb"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Kris Allen",
+        "url": "https://open.spotify.com/album/5fM41TOegBBrRO7NhmFYvP"
+      },
+      "artists": [
+        {
+          "name": "Kris Allen",
+          "url": "https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Live Like We're Dying",
+      "url": "https://open.spotify.com/track/1HfxPaJggVwFsvOtHbVzMz"
     },
     {
       "added_at": "2023-01-18 21:26:30",

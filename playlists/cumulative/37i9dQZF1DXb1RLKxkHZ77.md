@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Dalia Farhana
 
-182 songs - 11 hr 30 min
+183 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bakawali](https://open.spotify.com/track/3E8KWH68Tf8yUGBve4iZJ5) | [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1), [Dato Jamal Abdillah](https://open.spotify.com/artist/2EYYkKx3dOBxFnx75HDNuf) | [Bakawali](https://open.spotify.com/album/1rt7xlrmsW7qAnOAcN0yNf) | 4:20 | 2022-11-24 | 2023-01-05 |
 | [Belai](https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t), [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8) | [Belai](https://open.spotify.com/album/08vWdvWvob9YPnrr3Z3qAg) | 3:43 | 2022-05-25 | 2022-09-01 |
 | [Belum Siap Kehilangan](https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Belum Siap Kehilangan](https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x) | 4:48 | 2022-05-25 | 2023-01-26 |
+| [Benar](https://open.spotify.com/track/5XRffsZ6c9u2I2yWRZBBx1) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH) | [Benar](https://open.spotify.com/album/5LP13IhwD4ZdL7bZASjyQP) | 2:39 | 2023-03-15 |  |
 | [Berdamai](https://open.spotify.com/track/5MQPJBK0VdL99aLqSKuOTM) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 4:36 | 2022-05-25 | 2022-06-01 |
 | [Bertahan / Pergi](https://open.spotify.com/track/5ljnTSvVHXNlOLYSRDWPgM) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Bertahan / Pergi](https://open.spotify.com/album/33lrHJbplh0dOA5WzVP2T0) | 4:00 | 2022-11-24 | 2023-01-26 |
 | [Bertahan Terluka](https://open.spotify.com/track/3ajNIJJmIbFFJKZcTolYZO) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/1RgMS8KsAn6fTBw1maWpmo) | 4:00 | 2022-05-25 | 2022-10-09 |
@@ -81,7 +82,7 @@
 | [Januari](https://open.spotify.com/track/2STWrmj6fWevrLzubKCWoS) | [The Bakuucakar](https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs), [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Januari](https://open.spotify.com/album/3EOiB4qF1bb5QVms99Szpc) | 4:42 | 2023-02-01 |  |
 | [JARAK](https://open.spotify.com/track/4jjLmbtRO9PjGARABzxya7) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [JARAK](https://open.spotify.com/album/7filDfq6Z8X1eWulSfcdIQ) | 2:43 | 2023-03-01 |  |
 | [Jika](https://open.spotify.com/track/6zLvxuwVGs0a9ztrEpYmI3) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Jika](https://open.spotify.com/album/7IRGPklzUkOw1uhYlXHIPS) | 4:04 | 2022-10-12 | 2023-01-05 |
-| [Jujurlah](https://open.spotify.com/track/7lIeRxGVub1d6DV17yZGXB) | [Andi Bernadee](https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9), [Zizi Kirana](https://open.spotify.com/artist/3HgrsNDURBPYS1KlN7LgnE) | [Jujurlah](https://open.spotify.com/album/4wRn6GpKhGNAQ9FABQ4TdO) | 2:58 | 2023-01-25 |  |
+| [Jujurlah](https://open.spotify.com/track/7lIeRxGVub1d6DV17yZGXB) | [Andi Bernadee](https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9), [Zizi Kirana](https://open.spotify.com/artist/3HgrsNDURBPYS1KlN7LgnE) | [Jujurlah](https://open.spotify.com/album/4wRn6GpKhGNAQ9FABQ4TdO) | 2:58 | 2023-01-25 | 2023-03-16 |
 | [Kamu Kurang Usaha](https://open.spotify.com/track/2SmryvmzCMHQ4fjAf1mzmA) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Kamu Kurang Usaha](https://open.spotify.com/album/5eCGhOfeKF3PGDutfImNQd) | 4:45 | 2023-01-25 | 2023-03-02 |
 | [Kan](https://open.spotify.com/track/4VzJN0sd8jrJ4P2N6S17Dx) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Kan](https://open.spotify.com/album/5j2TvYkvy5BA6KGXJuQajF) | 3:17 | 2022-05-25 | 2022-07-28 |
 | [Kasih Merintih \- Original Sound Track of Trinil](https://open.spotify.com/track/03rOLJudsev770bNjJY04f) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Kasih Merintih \(Original Sound Track of Trinil\)](https://open.spotify.com/album/5Hk1GEK6UnoFZEWYc2i66E) | 3:58 | 2022-11-24 | 2023-02-02 |

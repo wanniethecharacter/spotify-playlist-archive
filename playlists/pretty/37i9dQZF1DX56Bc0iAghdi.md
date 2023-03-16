@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,803 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,841 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 4 | [Holy Water](https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV) | 4:02 |
 | 5 | [In the Arms](https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [In the Arms](https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P) | 3:52 |
 | 6 | [Maybe It's Ok](https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Power](https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi) | 3:31 |
-| 7 | [Dear God](https://open.spotify.com/track/6k9nsVCSf6QO1WnFsCsmVf) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Wild Blue, Part I](https://open.spotify.com/album/3xDD4CKNUEVmhOL1IY8MAL) | 2:55 |
-| 8 | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/album/4YOkLua2AMiyZYbocWWVqM) | 3:38 |
+| 7 | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/album/4YOkLua2AMiyZYbocWWVqM) | 3:38 |
+| 8 | [Dear God](https://open.spotify.com/track/6k9nsVCSf6QO1WnFsCsmVf) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Wild Blue, Part I](https://open.spotify.com/album/3xDD4CKNUEVmhOL1IY8MAL) | 2:55 |
 | 9 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
 | 10 | [Saved](https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Saved](https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi) | 2:54 |
-| 11 | [Scars \(Come With Livin'\)](https://open.spotify.com/track/5CYMOjWrVWZqHGv2ObF5mr) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 4:21 |
+| 11 | [Storehouse](https://open.spotify.com/track/6mRHIxLNUIBz1U6jATBrZa) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [She Waits](https://open.spotify.com/album/1k2TfoQgjRJcpQNSDj3y4I) | 4:06 |
 | 12 | [Forever on Your Side \(with JOHNNYSWIM\)](https://open.spotify.com/track/598Dy3TgV1SQulwjPOM0Z2) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Forever on Your Side \(Niles City Sound Sessions\)](https://open.spotify.com/album/3qPcOQNFQgqvkEperYIjOq) | 4:54 |
-| 13 | [Storehouse](https://open.spotify.com/track/6mRHIxLNUIBz1U6jATBrZa) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [She Waits](https://open.spotify.com/album/1k2TfoQgjRJcpQNSDj3y4I) | 4:06 |
+| 13 | [Scars \(Come With Livin'\)](https://open.spotify.com/track/5CYMOjWrVWZqHGv2ObF5mr) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 4:21 |
 | 14 | [Why God](https://open.spotify.com/track/7uF8xYuPV1ZXmSS98qqynh) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Wide Open](https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B) | 3:41 |
 | 15 | [I'm Gonna Let It Go](https://open.spotify.com/track/3sBPqE3LXl3ncVUzpkXfjK) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Order, Disorder, Reorder](https://open.spotify.com/album/4OB5WhwM3ApWRJ97GEF9Lc) | 3:09 |
 | 16 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 29 | [Fanatic](https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Twenty Four Seven](https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn) | 3:06 |
 | 30 | [Dearly Loved](https://open.spotify.com/track/5ARJNdFbSj2yYpaAKPfIDo) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Dearly Loved](https://open.spotify.com/album/0HMkDsyQXtgF0sgMFpudvK) | 4:25 |
 | 31 | [Sweet Water](https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Sweet Water](https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q) | 4:09 |
-| 32 | [Eyes on You](https://open.spotify.com/track/2q0UHOP7ePGLcqjwF9wBSV) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Heaven](https://open.spotify.com/album/5Q11hlTmOZedl8pEKT4Cbg) | 3:56 |
-| 33 | [Never Far](https://open.spotify.com/track/2fWrlXD3n603bKrL0UPXZj) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far](https://open.spotify.com/album/7kRDQkDk7tBtv8hpoSdWrX) | 3:44 |
+| 32 | [Never Far](https://open.spotify.com/track/2fWrlXD3n603bKrL0UPXZj) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far](https://open.spotify.com/album/7kRDQkDk7tBtv8hpoSdWrX) | 3:44 |
+| 33 | [Eyes on You](https://open.spotify.com/track/2q0UHOP7ePGLcqjwF9wBSV) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Heaven](https://open.spotify.com/album/5Q11hlTmOZedl8pEKT4Cbg) | 3:56 |
 | 34 | [You Say \(Acoustic\)](https://open.spotify.com/track/4edscO0eug8wJGZ5RkqqdW) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [You Say \(Acoustic\)](https://open.spotify.com/album/50JmQ36DRkjO60LXMOowYp) | 4:24 |
 | 35 | [Pieces](https://open.spotify.com/track/6PZh8MRQB5Hxj2PIKG8XY5) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Bloom](https://open.spotify.com/album/36LOiWPolyaiePKZwj4A5w) | 5:29 |
 | 36 | [Speak to Me](https://open.spotify.com/track/7nmrabiFsP23CoI8EXsgDc) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [& Side A](https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i) | 3:55 |
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 62 | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/track/4dw5THeXY6ybMblZBzre9D) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [RUSLAN](https://open.spotify.com/artist/0Xdvr42oMLOrVWFhgM253P) | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/album/1sJdXcBBxSql0JxCX97bX3) | 3:08 |
 | 63 | [Revival](https://open.spotify.com/track/5rUnjEX9nsCSHaXYMvQZQr) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Revival](https://open.spotify.com/album/4wYLab6GuVVnzVPno2a1wt) | 3:25 |
 | 64 | [From the Roof \(feat\. YB\)](https://open.spotify.com/track/01RdXpTlzMDLakg6lDaC8j) | [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z), [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [From the Roof \(feat\. YB\)](https://open.spotify.com/album/7MxN9VOPa5nVdX7eHQYMe0) | 3:00 |
-| 65 | [Summertime](https://open.spotify.com/track/4iJeJV5d8kZAPmmu4LtqmQ) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Summertime](https://open.spotify.com/album/6Z0UDE7UctY5H0T3oBdHnX) | 3:09 |
+| 65 | [You Are Good](https://open.spotify.com/track/4n5opjW4KMNUr3NhOgCgwp) | [Shanny Jeann](https://open.spotify.com/artist/3QFEQDqiDb6FQhA5XA4fnI) | [You Are Good](https://open.spotify.com/album/1j9s8mN2uXbo9RGYLFrmT8) | 2:53 |
 
-Snapshot ID: `MTY3NjcwMTMyMiwwMDAwMDAwMDAyZGU0ZTk5NzkwMTFjZGFlMjQxNGNiZTYyYzZiMjJl`
+Snapshot ID: `MTY3NjcwMTMyMiwwMDAwMDAwMGVmMzdjYmIxOGVhMTllNTU1MTg2YWFkMDJkNTdhMzQ0`

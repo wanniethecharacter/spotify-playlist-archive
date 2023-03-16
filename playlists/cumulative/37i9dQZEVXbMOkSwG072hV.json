@@ -210,7 +210,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 186666,
       "name": "20G",
       "url": "https://open.spotify.com/track/69Flz1PeHxdGW0trMUNjll"
@@ -6680,7 +6680,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-16",
       "duration_ms": 193685,
       "name": "Ela T\u00e1 No Look - Ao Vivo",
       "url": "https://open.spotify.com/track/4VyfJ01fc4vb0WwLsu5Pw5"
@@ -7873,6 +7873,24 @@
     },
     {
       "album": {
+        "name": "Famoso Machuca Xota",
+        "url": "https://open.spotify.com/album/63xpMm2iLQj9qhqUYipHf0"
+      },
+      "artists": [
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "Famoso Machuca Xota",
+      "url": "https://open.spotify.com/track/5u0iZ81Yf2L90FQLYQUiiG"
+    },
+    {
+      "album": {
         "name": "Encanto (Trilha Sonora Original em Portugu\u00eas)",
         "url": "https://open.spotify.com/album/0B9nvTbt9fXq7Y6oQEYwRe"
       },
@@ -8304,6 +8322,10 @@
         {
           "name": "Brian Arimura",
           "url": "https://open.spotify.com/artist/3564y3B882wmolbLQVDVzZ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
         }
       ],
       "date_added": "2023-03-14",
@@ -22822,6 +22844,28 @@
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
+    },
+    {
+      "album": {
+        "name": "Viciada em Pir\u00fa (Remix)",
+        "url": "https://open.spotify.com/album/7BptPmgnPLaTaUp5KsVBPv"
+      },
+      "artists": [
+        {
+          "name": "Felupe",
+          "url": "https://open.spotify.com/artist/1VfZSS1zUo2URLAriN3zZs"
+        },
+        {
+          "name": "Sony no Beat",
+          "url": "https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132727,
+      "name": "Viciada em Pir\u00fa - Remix",
+      "url": "https://open.spotify.com/track/6FxB8V7XmHpTentYZMjxD7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-158 songs - 9 hr 21 min
+159 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Our Forever](https://open.spotify.com/track/1ipPKBNJjCkL0fvutLKo5z) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 3:19 | 2023-02-17 |  |
 | [Our Forever](https://open.spotify.com/track/3fq5h4eWQNP3fBqXZRyC5F) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/5CbbfVTtYGmnVn6rLrgklf) | 3:19 | 2022-10-21 | 2023-03-01 |
 | [Prayed For You \- Wedding Version](https://open.spotify.com/track/3nxrXt836ZmhwhOj3bwtNX) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Prayed For You \(Wedding Version\)](https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO) | 3:25 | 2021-09-17 |  |
-| [Promise to Love Her](https://open.spotify.com/track/3lUg5sjsXAJD6BAULCFTA5) | [Blane Howard](https://open.spotify.com/artist/6ihCRApNJtA2jTLA15UYID) | [Promise to Love Her](https://open.spotify.com/album/4SNBvmNmQOhfMeBGywO8k2) | 3:17 | 2021-09-17 |  |
+| [Promise to Love Her](https://open.spotify.com/track/3lUg5sjsXAJD6BAULCFTA5) | [Blane Howard](https://open.spotify.com/artist/6ihCRApNJtA2jTLA15UYID) | [Promise to Love Her](https://open.spotify.com/album/4SNBvmNmQOhfMeBGywO8k2) | 3:17 | 2021-09-17 | 2023-03-16 |
+| [Promise to Love Her](https://open.spotify.com/track/6EkLAii6YU3H0LqAWkhsOp) | [Blane Howard](https://open.spotify.com/artist/6ihCRApNJtA2jTLA15UYID) | [Looking for Nothing to Do](https://open.spotify.com/album/1HeCmXWPEZk9OePz7lyHQR) | 3:17 | 2023-02-17 |  |
 | [Settle Me Down](https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 2:57 | 2022-05-23 |  |
 | [Settle Me Down](https://open.spotify.com/track/4fFIpQ8eswym0U7movpzQR) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/4GQN4YJc8mwPgxUMqX80Be) | 2:57 | 2022-02-18 | 2022-07-29 |
 | [She's Everything](https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Time Well Wasted](https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr) | 4:26 | 2021-09-17 |  |

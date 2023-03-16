@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-519 songs - 1 day 9 hr 41 min
+520 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Ohio Is for Lovers](https://open.spotify.com/track/6QfnvcOKsdN4Q6exUWVuzn) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black and White \- Re\-Issue](https://open.spotify.com/album/1FPDKmotHS1ESWAgjUEqh2) | 4:04 | 2022-01-05 | 2022-05-25 |
 | [Old Yellow Bricks](https://open.spotify.com/track/3BcQFPRZuuUClWStz29WjN) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:07 | 2022-01-05 |  |
 | [Old Yellow Bricks](https://open.spotify.com/track/5KGbRvZyVyKP2AEJMHErB4) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 3:13 | 2022-01-05 | 2022-07-29 |
-| [On Call](https://open.spotify.com/track/28POcTYQKfkjz6qTIvtjG1) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Because Of The Times](https://open.spotify.com/album/5CiZOqd3iF6p2PsqBjljat) | 3:21 | 2022-01-05 |  |
+| [On Call](https://open.spotify.com/track/28POcTYQKfkjz6qTIvtjG1) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Because Of The Times](https://open.spotify.com/album/5CiZOqd3iF6p2PsqBjljat) | 3:21 | 2022-01-05 | 2023-03-16 |
 | [Only](https://open.spotify.com/track/72X2RPQiMoOjQrdI2B9Olu) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth \(Bonus Tracks\)](https://open.spotify.com/album/1PuCoaLQNyCeaLBgGtNyW3) | 4:23 | 2022-01-05 | 2022-07-29 |
 | [Ooh La](https://open.spotify.com/track/2Uf9WTBWMA8S9Lh3k3Rui6) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 3:28 | 2022-01-05 | 2022-07-29 |
 | [Open Your Eyes](https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 4:58 | 2022-01-05 | 2023-03-07 |
@@ -415,6 +415,7 @@
 | [Sorrow](https://open.spotify.com/track/5KiS8SFnu21xI74mHgfZ3D) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Process Of Belief](https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI) | 3:21 | 2022-01-05 | 2022-07-29 |
 | [Sound Of A Gun](https://open.spotify.com/track/3zFG5dyH5rJfkZ25fgR173) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Revelations](https://open.spotify.com/album/6Ys6uRTMti54CH8VEo2xEt) | 4:20 | 2022-01-05 | 2022-07-29 |
 | [Spaceman](https://open.spotify.com/track/1A8SxnqRK3qabmuN2qxIpa) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:44 | 2022-01-05 |  |
+| [Special K](https://open.spotify.com/track/0W6QtgkxPNJ7simo1UcBIr) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Black Market Music](https://open.spotify.com/album/0PhJJToPch4jCjrfQjyarw) | 3:52 | 2023-01-18 |  |
 | [Special K](https://open.spotify.com/track/63peVCtLTPd0aM9x5j97sB) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Black Market Music](https://open.spotify.com/album/7gLNPbL9arQdIl4aj4hBcq) | 3:52 | 2022-01-05 | 2022-08-09 |
 | [Special Needs](https://open.spotify.com/track/0AATuEhrQtGDevnhq9Nx2k) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Sleeping With Ghosts](https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4) | 5:15 | 2022-01-05 |  |
 | [Special Needs](https://open.spotify.com/track/2h0HkReHGCQPOEDZXEMcTO) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Sleeping With Ghosts](https://open.spotify.com/album/4fUDor6o5gw0b18iYKEaRq) | 5:15 | 2022-01-05 | 2022-10-13 |

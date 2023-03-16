@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 
 > Great chilled house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,212 likes - 204 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,280 likes - 204 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

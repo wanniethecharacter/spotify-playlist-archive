@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 80223,
+  "num_followers": 80235,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMDRiMTFlNmRkZjJmNzk1YjllYWI2MDRhNzZkZmEwMWQ5",
+  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMGIxMzQzZTk5NjE2ZDY4NjA2Nzc4Y2EwYjk0MGE1MzI5",
   "tracks": [
     {
       "added_at": "2023-03-03 03:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "La Pollera Amarilla",
-        "url": "https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE"
-      },
-      "artists": [
-        {
-          "name": "Gladys \"La bomba tucumana\"",
-          "url": "https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3"
-        }
-      ],
-      "duration_ms": 189106,
-      "name": "La Pollera Amarilla",
-      "url": "https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Cumbia de los Dos",
         "url": "https://open.spotify.com/album/7L3WNcm7mLtYU2D11t7wXi"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 264149,
       "name": "Cumbia de los Dos",
       "url": "https://open.spotify.com/track/00IwtGTu7A1SJRs6g2445Q"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "La Pollera Amarilla",
+        "url": "https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE"
+      },
+      "artists": [
+        {
+          "name": "Gladys \"La bomba tucumana\"",
+          "url": "https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3"
+        }
+      ],
+      "duration_ms": 189106,
+      "name": "La Pollera Amarilla",
+      "url": "https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "Por Amor A La M\u00fasica",
         "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 188534,
       "name": "El Marginal",
       "url": "https://open.spotify.com/track/0R2271joKqIt1utuHQbQ4w"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Fuiste",
-      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -763,22 +763,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "No te confundas",
-        "url": "https://open.spotify.com/album/6Sp9EMuyxQtWwDri5dRji4"
+        "name": "La Movidita",
+        "url": "https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP"
       },
       "artists": [
         {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+          "name": "Lia Crucet",
+          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
         }
       ],
-      "duration_ms": 198800,
-      "name": "Que no se entere",
-      "url": "https://open.spotify.com/track/0PtHJn4KCLVoFI5gR4nBRU"
+      "duration_ms": 182880,
+      "name": "La G\u00fcera Salome",
+      "url": "https://open.spotify.com/track/51kzAz2guzWXeQFtzE3BUa"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -795,6 +791,26 @@
       "duration_ms": 234222,
       "name": "Ahora Se",
       "url": "https://open.spotify.com/track/5AWK8nehIszKNIWhoOBiQn"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "No te confundas",
+        "url": "https://open.spotify.com/album/6Sp9EMuyxQtWwDri5dRji4"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Que no se entere",
+      "url": "https://open.spotify.com/track/0PtHJn4KCLVoFI5gR4nBRU"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -827,22 +843,6 @@
       "duration_ms": 181333,
       "name": "Poco Asado, Mucho Humo",
       "url": "https://open.spotify.com/track/4KzcvEv1UFjbXDK9XADoN4"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "La Movidita",
-        "url": "https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP"
-      },
-      "artists": [
-        {
-          "name": "Lia Crucet",
-          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "La G\u00fcera Salome",
-      "url": "https://open.spotify.com/track/51kzAz2guzWXeQFtzE3BUa"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Ya No Cabes en Mi Vida",
-        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
-      },
-      "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        }
-      ],
-      "duration_ms": 211489,
-      "name": "Ya No Cabes en Mi Vida",
-      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Pecados Tropicales",
         "url": "https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Pantera",
-        "url": "https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL"
+        "name": "Ya No Cabes en Mi Vida",
+        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
       },
       "artists": [
         {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
         }
       ],
-      "duration_ms": 212946,
-      "name": "Cag\u00f3n",
-      "url": "https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p"
+      "duration_ms": 211489,
+      "name": "Ya No Cabes en Mi Vida",
+      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1023,6 +1007,22 @@
       "duration_ms": 217626,
       "name": "En tu pelo",
       "url": "https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL"
+      },
+      "artists": [
+        {
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Cag\u00f3n",
+      "url": "https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 222361,
+      "name": "No Te Ir\u00e1s",
+      "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "Dos Infieles",
         "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 207121,
       "name": "Falso Malo",
       "url": "https://open.spotify.com/track/1AYcHW1tRB3AiVQ1OM7O19"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Hipn\u00f3tica",
-        "url": "https://open.spotify.com/album/6GkkfBwGPCfXkHvU2fGUep"
-      },
-      "artists": [
-        {
-          "name": "Antho Mattei",
-          "url": "https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl"
-        }
-      ],
-      "duration_ms": 240091,
-      "name": "Yo Tonta, No",
-      "url": "https://open.spotify.com/track/6RqE0vPNiiGj0eyxY9vKx1"
     }
   ],
   "unique_name": "Cumbieras",

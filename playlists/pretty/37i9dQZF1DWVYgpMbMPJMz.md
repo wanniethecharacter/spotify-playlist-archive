@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Sarah Kroger
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,028 likes - 100 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,147 likes - 100 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

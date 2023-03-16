@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 374805,
+  "num_followers": 375155,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4Nzc3NywwMDAwMDAwMGMyMTRkZjg0ZGRlMWY0NmVmYTU5Zjc4ZTBlOThlM2U0",
+  "snapshot_id": "MTY3ODQ4Nzc3NywwMDAwMDAwMGYxNDU2NzU5YjViMzJlZDg1YzZkYTZmMzkwZjc0ZGRj",
   "tracks": [
     {
       "added_at": "2023-03-10 22:36:17",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Encore - Live and Direct",
-        "url": "https://open.spotify.com/album/7CGUilfpm6TSrKtNRP43s2"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Nessaja",
-      "url": "https://open.spotify.com/track/2zhGnnDewN4kBsVzbqjBtX"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/2YrnYkO6WGGx5e0UfNbGps"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 235200,
       "name": "Silence - DJ Ti\u00ebsto's In Search Of Sunrise Edit",
       "url": "https://open.spotify.com/track/2jAjkmZIKwV5VOBiZ3qUUL"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
+        "name": "Encore - Live and Direct",
+        "url": "https://open.spotify.com/album/7CGUilfpm6TSrKtNRP43s2"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Nessaja",
+      "url": "https://open.spotify.com/track/2zhGnnDewN4kBsVzbqjBtX"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
-        "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Susana",
-          "url": "https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf"
-        }
-      ],
-      "duration_ms": 189816,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/0pfJH3eRkM4t9wlg6LwuTU"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
         "name": "Carte Blanche (Ilan Bluestone Remix)",
         "url": "https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 227133,
       "name": "Castles In The Sky",
       "url": "https://open.spotify.com/track/3uMZMYC0GurzpeTf9QvPe0"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
+        "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
+        "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Susana",
+          "url": "https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf"
+        }
+      ],
+      "duration_ms": 189816,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/0pfJH3eRkM4t9wlg6LwuTU"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -699,18 +699,22 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Fire Wire",
-        "url": "https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY"
+        "name": "Superstring",
+        "url": "https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3"
       },
       "artists": [
         {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+          "name": "Cygnus X",
+          "url": "https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG"
+        },
+        {
+          "name": "Rank 1",
+          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
         }
       ],
-      "duration_ms": 171973,
-      "name": "Fire Wire - Radio Edit",
-      "url": "https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71"
+      "duration_ms": 187520,
+      "name": "Superstring - RANK 1's Radio Edit",
+      "url": "https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -739,22 +743,18 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Superstring",
-        "url": "https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3"
+        "name": "Fire Wire",
+        "url": "https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY"
       },
       "artists": [
         {
-          "name": "Cygnus X",
-          "url": "https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG"
-        },
-        {
-          "name": "Rank 1",
-          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
         }
       ],
-      "duration_ms": 187520,
-      "name": "Superstring - RANK 1's Radio Edit",
-      "url": "https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7"
+      "duration_ms": 171973,
+      "name": "Fire Wire - Radio Edit",
+      "url": "https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
+        "name": "Bits N Pianos",
+        "url": "https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd"
+      },
+      "artists": [
+        {
+          "name": "SDC",
+          "url": "https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx"
+        }
+      ],
+      "duration_ms": 329337,
+      "name": "Bits N Pianos",
+      "url": "https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
         "name": "C'est Musique (Armin van Buuren Mix)",
         "url": "https://open.spotify.com/album/2f587WiMGu3vcpkbNfXOSX"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 669685,
       "name": "C'est Musique - Armin van Buuren Mix",
       "url": "https://open.spotify.com/track/5kB1gEMaiHS78xIDT4JbJC"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
-        "name": "Bits N Pianos",
-        "url": "https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd"
-      },
-      "artists": [
-        {
-          "name": "SDC",
-          "url": "https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx"
-        }
-      ],
-      "duration_ms": 329337,
-      "name": "Bits N Pianos",
-      "url": "https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -883,18 +883,22 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Trance Top 1000 - Selection 003",
-        "url": "https://open.spotify.com/album/5MZ2w49s7nsUV1jcnS3STq"
+        "name": "Seven Cities",
+        "url": "https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY"
       },
       "artists": [
         {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+          "name": "Solarstone",
+          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
+        },
+        {
+          "name": "Andy Bury",
+          "url": "https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU"
         }
       ],
-      "duration_ms": 238018,
-      "name": "Strange World",
-      "url": "https://open.spotify.com/track/7uIU44vMKlPVIh4Xm6Cgzh"
+      "duration_ms": 211333,
+      "name": "Seven Cities - Solarstone's Atlantis Mix",
+      "url": "https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -919,22 +923,18 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Seven Cities",
-        "url": "https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY"
+        "name": "Trance Top 1000 - Selection 003",
+        "url": "https://open.spotify.com/album/5MZ2w49s7nsUV1jcnS3STq"
       },
       "artists": [
         {
-          "name": "Solarstone",
-          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
-        },
-        {
-          "name": "Andy Bury",
-          "url": "https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU"
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
         }
       ],
-      "duration_ms": 211333,
-      "name": "Seven Cities - Solarstone's Atlantis Mix",
-      "url": "https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu"
+      "duration_ms": 238018,
+      "name": "Strange World",
+      "url": "https://open.spotify.com/track/7uIU44vMKlPVIh4Xm6Cgzh"
     }
   ],
   "unique_name": "Trance Classics",

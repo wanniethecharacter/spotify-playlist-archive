@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 149884,
+  "num_followers": 149914,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgwNTgyMCwwMDAwMDAwMGYxNWQ5M2MwOTdmZjU1YzU5ZTUxMzUyMWNjM2E0YmZm",
+  "snapshot_id": "MTY3ODgwNTgyMCwwMDAwMDAwMDc1M2QxNmVhNDUyZGRlZTFlYjRjZGNiODNlN2U4ZWJh",
   "tracks": [
     {
       "added_at": "2023-02-24 11:06:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "What a Time To Be Alive",
-        "url": "https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 198101,
-      "name": "Just You and I - Acoustic",
-      "url": "https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Naked (Acoustic Version)",
         "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 230440,
       "name": "Naked - Acoustic Version",
       "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "What a Time To Be Alive",
+        "url": "https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 198101,
+      "name": "Just You and I - Acoustic",
+      "url": "https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -297,22 +297,6 @@
       "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
     },
     {
-      "added_at": "2023-02-24 11:06:00",
-      "album": {
-        "name": "Mean It",
-        "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 171138,
-      "name": "Mean It",
-      "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "IT'S YOU (feat. keshi) [Stripped Version]",
@@ -331,6 +315,22 @@
       "duration_ms": 158742,
       "name": "IT'S YOU (feat. keshi) - Stripped Version",
       "url": "https://open.spotify.com/track/5XhyWkCp2jcYo3bJJoYASW"
+    },
+    {
+      "added_at": "2023-02-24 11:06:00",
+      "album": {
+        "name": "Mean It",
+        "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 171138,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 199462,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "#Acoustic",
         "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 199462,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Fill Me Up",
-        "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Fill Me Up",
-      "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Around the Well",
         "url": "https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 251280,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Fill Me Up",
+        "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Fill Me Up",
+      "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Bigger Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
-      },
-      "artists": [
-        {
-          "name": "Crying Day Care Choir",
-          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
-        }
-      ],
-      "duration_ms": 288731,
-      "name": "Bigger Heart (Acoustic)",
-      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Please Keep Loving Me (Acoustic)",
         "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 197626,
       "name": "Please Keep Loving Me - Acoustic",
       "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Bigger Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
+      },
+      "artists": [
+        {
+          "name": "Crying Day Care Choir",
+          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
+        }
+      ],
+      "duration_ms": 288731,
+      "name": "Bigger Heart (Acoustic)",
+      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Three Flights From Alto Nido",
-        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
-      },
-      "artists": [
-        {
-          "name": "Greg Laswell",
-          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
-        }
-      ],
-      "duration_ms": 67746,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 194129,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Three Flights From Alto Nido",
+        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
+      },
+      "artists": [
+        {
+          "name": "Greg Laswell",
+          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
+        }
+      ],
+      "duration_ms": 67746,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 164897,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Mama (Acoustic)",
         "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 192277,
       "name": "Mama - Acoustic",
       "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 164897,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "I'm Sure He Loves You",
-        "url": "https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 183466,
-      "name": "I'm Sure He Loves You",
-      "url": "https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "10 Summers",
         "url": "https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Malibu Nights",
-        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
+        "name": "I'm Sure He Loves You",
+        "url": "https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w"
       },
       "artists": [
         {
-          "name": "Cole Norton",
-          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
         }
       ],
-      "duration_ms": 216422,
-      "name": "Malibu Nights",
-      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
+      "duration_ms": 183466,
+      "name": "I'm Sure He Loves You",
+      "url": "https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -903,6 +887,22 @@
       "duration_ms": 211133,
       "name": "More & More",
       "url": "https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
+      },
+      "artists": [
+        {
+          "name": "Cole Norton",
+          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
+        }
+      ],
+      "duration_ms": 216422,
+      "name": "Malibu Nights",
+      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "see u tomorrow (stripped)",
-        "url": "https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH"
-      },
-      "artists": [
-        {
-          "name": "Arash Buana",
-          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
-        }
-      ],
-      "duration_ms": 197845,
-      "name": "see u tomorrow - stripped",
-      "url": "https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Hypersonic Missiles",
         "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 236653,
       "name": "Two People",
       "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "see u tomorrow (stripped)",
+        "url": "https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        }
+      ],
+      "duration_ms": 197845,
+      "name": "see u tomorrow - stripped",
+      "url": "https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1057,20 +1057,20 @@
       "url": "https://open.spotify.com/track/1xw0dNFXAfu6xJgKMlSUU5"
     },
     {
-      "added_at": "2023-02-10 06:37:00",
+      "added_at": "2023-02-24 11:06:00",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
+        "name": "Sometimes I Feel",
+        "url": "https://open.spotify.com/album/6lCLB2OMj5ypVqKthI4E6r"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Lasse Skriver",
+          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
         }
       ],
-      "duration_ms": 230440,
-      "name": "This Is What It Takes",
-      "url": "https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg"
+      "duration_ms": 147354,
+      "name": "Sometimes I Feel",
+      "url": "https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "This Is What It Takes",
+      "url": "https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Days That End in Y",
         "url": "https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 142686,
       "name": "Days That End in Y",
       "url": "https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC"
-    },
-    {
-      "added_at": "2023-02-24 11:06:00",
-      "album": {
-        "name": "Sometimes I Feel",
-        "url": "https://open.spotify.com/album/6lCLB2OMj5ypVqKthI4E6r"
-      },
-      "artists": [
-        {
-          "name": "Lasse Skriver",
-          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
-        }
-      ],
-      "duration_ms": 147354,
-      "name": "Sometimes I Feel",
-      "url": "https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Where Light Pours In",
-        "url": "https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 182920,
       "name": "So Sick - Acoustic",
       "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Where Light Pours In",
+        "url": "https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Volition",
-        "url": "https://open.spotify.com/album/5o5VHNjnZ5E5fb5cuoRzBZ"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 257516,
-      "name": "Saving Us a Riot",
-      "url": "https://open.spotify.com/track/1jpMsR7pZ56267QsvCOhci"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Clean Eyes",
         "url": "https://open.spotify.com/album/3uxb4SRPfNoZEwVo4GWK9f"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 222810,
       "name": "Clean Eyes - Acoustic",
       "url": "https://open.spotify.com/track/0ixVfs0GvBfLNRA2qgjjk5"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Volition",
+        "url": "https://open.spotify.com/album/5o5VHNjnZ5E5fb5cuoRzBZ"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 257516,
+      "name": "Saving Us a Riot",
+      "url": "https://open.spotify.com/track/1jpMsR7pZ56267QsvCOhci"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1495,22 +1495,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Paradise (with Olivia Holt) [Acoustic]",
-        "url": "https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ"
+        "name": "Live from the Village (Acoustic)",
+        "url": "https://open.spotify.com/album/2yPd47Gm4znFqjaC8QzbRq"
       },
       "artists": [
         {
-          "name": "Brandon Beal",
-          "url": "https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu"
-        },
-        {
-          "name": "Olivia Holt",
-          "url": "https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 229267,
-      "name": "Paradise (with Olivia Holt) - Acoustic",
-      "url": "https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98"
+      "duration_ms": 227296,
+      "name": "Pink - Live & Acoustic",
+      "url": "https://open.spotify.com/track/5PjhxJQOcS6XMSIydhsMBe"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1531,18 +1527,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Live from the Village (Acoustic)",
-        "url": "https://open.spotify.com/album/2yPd47Gm4znFqjaC8QzbRq"
+        "name": "Paradise (with Olivia Holt) [Acoustic]",
+        "url": "https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ"
       },
       "artists": [
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Brandon Beal",
+          "url": "https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu"
+        },
+        {
+          "name": "Olivia Holt",
+          "url": "https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf"
         }
       ],
-      "duration_ms": 227296,
-      "name": "Pink - Live & Acoustic",
-      "url": "https://open.spotify.com/track/5PjhxJQOcS6XMSIydhsMBe"
+      "duration_ms": 229267,
+      "name": "Paradise (with Olivia Holt) - Acoustic",
+      "url": "https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 186128,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Used To Be Friends",
         "url": "https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix"
       },
@@ -1643,18 +1627,34 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Tofino",
-        "url": "https://open.spotify.com/album/2MD3QSDavKqW483JZZFSiW"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu"
       },
       "artists": [
         {
-          "name": "Julianna Laine",
-          "url": "https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU"
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Tofino",
-      "url": "https://open.spotify.com/track/7gVZzikueRWDaIixnOjqgh"
+      "duration_ms": 186128,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Luck Pusher",
+        "url": "https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 163410,
+      "name": "Luck Pusher",
+      "url": "https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI"
     }
   ],
   "unique_name": "Soft Morning",

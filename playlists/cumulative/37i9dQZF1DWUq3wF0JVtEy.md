@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-305 songs - 15 hr 0 min
+306 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bring Et](https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Bring Et](https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk) | 2:22 | 2022-01-28 |  |
 | [Broke Bitch](https://open.spotify.com/track/3Ay4JbFCfh7q7RIUScJQ1v) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Lil Asian Thiccie](https://open.spotify.com/artist/0j2BoCcPBX1B5vF8tp2nL7) | [Broke Bitch](https://open.spotify.com/album/62uCkdPVscfNWzzqIdSjxB) | 3:21 | 2023-01-06 |  |
 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 | 2022-08-26 |  |
+| [Bumba Bass](https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Bumba Bass](https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn) | 2:13 | 2023-03-10 |  |
 | [B€NZ](https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [B€NZ](https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z) | 4:04 | 2022-08-12 |  |
 | [Can't See](https://open.spotify.com/track/1kYkGEVNpugTZiigbiNK2W) | [NEVERGLOW](https://open.spotify.com/artist/2K7Hlrg5cti0mVKx4l0Rwz) | [Can't See](https://open.spotify.com/album/2BncSMJsjWgHrl6XbgMbjr) | 3:07 | 2022-04-29 | 2022-07-15 |
 | [Cardio](https://open.spotify.com/track/1gsrFaPPIpxsD92lNZHWzG) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Cardio](https://open.spotify.com/album/3Tb8sBjaY5Ah5Efpc8Z7xo) | 2:20 | 2021-10-29 | 2022-12-17 |
@@ -201,7 +202,7 @@
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-01-28 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/1KOAr3G8LaibCpHeaWtL2u) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Mr\. Brightside](https://open.spotify.com/album/5RyXZZrzXpINCtbaJGfsF0) | 3:46 | 2021-10-29 | 2022-05-29 |
 | [My City’s On Fire \- Tiësto Remix](https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [My City’s On Fire \(Tiësto Remix\)](https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP) | 2:21 | 2022-10-14 |  |
-| [my luv \- bonus track](https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [2HEARTs dlux](https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ) | 3:59 | 2022-09-09 |  |
+| [my luv \- bonus track](https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [2HEARTs dlux](https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ) | 3:59 | 2022-09-09 | 2023-03-16 |
 | [My Thing](https://open.spotify.com/track/7w4AVHX30XFZpAqfbTYwcf) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Triple M](https://open.spotify.com/artist/2Tw3Czv2kxEz8h3RILbzjT) | [My Thing](https://open.spotify.com/album/4tbbX4leGDkZXfDEcIwwvM) | 2:24 | 2022-04-01 | 2022-07-11 |
 | [New Transition](https://open.spotify.com/track/44r1pQrd6IshgUFKGE1YrJ) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [New Transition](https://open.spotify.com/album/5EixwwR5Qh4COnnrfIME3i) | 2:49 | 2022-04-01 | 2022-07-23 |
 | [Night Shift](https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Night Shift](https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT) | 3:50 | 2022-09-02 |  |
